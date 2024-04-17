@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,838 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,680 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 30 | [More Like A Crash](https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:47 |
 | 31 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 |
 | 32 | [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 |
-| 33 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
+| 33 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
 | 34 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 |
-| 35 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
+| 35 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
 | 36 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 37 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
 | 38 | [shut up & kiss me](https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [shut up & kiss me](https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD) | 2:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 65 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
 | 66 | [Generational](https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Generational](https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv) | 2:09 |
 | 67 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
-| 68 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 |
-| 69 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
+| 68 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
+| 69 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 |
 | 70 | [Highlight Reel](https://open.spotify.com/track/5RGv8UfRNPHLLvPxQMYoDY) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:10 |
 | 71 | [Autumnal](https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [AUTUMNAL](https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe) | 3:09 |
 | 72 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 74 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 |
 | 75 | [Joan of Hill](https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Joan of Hill](https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr) | 4:13 |
 | 76 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 |
-| 77 | [Life Goes On](https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Life Goes On](https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr) | 3:27 |
-| 78 | [Arm's Length](https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Arm's Length](https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA) | 4:33 |
+| 77 | [Arm's Length](https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Arm's Length](https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA) | 4:33 |
+| 78 | [Life Goes On](https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Life Goes On](https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr) | 3:27 |
 | 79 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 |
 | 80 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
 

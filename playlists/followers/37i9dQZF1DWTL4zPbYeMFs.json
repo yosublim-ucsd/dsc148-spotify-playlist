@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 37308,
+  "2024-04-17": 37328,
   "date_first_scraped": "2022-05-30",
   "description": "A perfect mix for your Mehendi ceremony.",
   "name": "Mehendi",
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 186421,
       "name": "Saajan Aaya Re",
       "url": "https://open.spotify.com/track/7K47j3zuPaIGFHXFutjfqo"
@@ -1985,6 +1985,28 @@
       "duration_ms": 242786,
       "name": "Thoda Thoda Pyar (From \"Love Aaj Kal\")",
       "url": "https://open.spotify.com/track/5O7NujeJHdRbpkj79jEygT"
+    },
+    {
+      "album": {
+        "name": "Turr Chaliyan (Kriti X Pulkit)",
+        "url": "https://open.spotify.com/album/7HbcYzhkxaADCgF7yz4PDB"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171458,
+      "name": "Turr Chaliyan (Kriti X Pulkit)",
+      "url": "https://open.spotify.com/track/4Y3BnJZA80rayjgALxUFrd"
     },
     {
       "album": {

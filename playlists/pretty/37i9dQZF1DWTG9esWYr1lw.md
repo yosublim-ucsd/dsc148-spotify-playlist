@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,449 likes - 39 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,447 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loyalty](https://open.spotify.com/track/4osxbPfS8JPsD0AyXfx6hM) | [Muhammad Al Muqit](https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05) | [Anasheeds, Vol\. 2](https://open.spotify.com/album/0DciSunEMGaYZn8rxY1o84) | 3:36 |
 | 2 | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu) | 2:26 |
-| 3 | [Ramadan \- Arabic Version](https://open.spotify.com/track/6azlD4KK2Tl8gbMPbVIqxQ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Ramadan](https://open.spotify.com/album/0Wtd3POl0NGJCnup0eHJwS) | 4:06 |
+| 3 | [Baraka Allahu Lakuma](https://open.spotify.com/track/5mJEyyMjCIJUMPqrS9VkZb) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah](https://open.spotify.com/album/7xFPI5T8J8bAAj63JVEOB1) | 4:29 |
 | 4 | [Ramadan Karim](https://open.spotify.com/track/6kC8PTMYaP5X3e5Zu0QyM0) | [Hakim](https://open.spotify.com/artist/5sTW6xhUuMh7cnDkg65P9p) | [Ramadan Karim](https://open.spotify.com/album/2dKT9YPw3ZBnw2Acglq70D) | 3:42 |
 | 5 | [مرحب شهر الصوم](https://open.spotify.com/track/2dukxPxYLqSL8p0JqAEeFG) | [Abd El Aziz Mahmoud](https://open.spotify.com/artist/0Ck6zEWZW4tN5exqSWrrGq) | [مرحب شهر الصوم](https://open.spotify.com/album/2qwjTs4ZIBzIkxfc0ev3cE) | 8:26 |
 | 6 | [Rmdan Gana](https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel) | [Mohamed Abdel Mottaleb](https://open.spotify.com/artist/2nX9ORfbBVoEWXP7DonRGM) | [Rmdan Gana](https://open.spotify.com/album/4UJv2mZuwdolbIYrUsaqDL) | 9:46 |
 | 7 | [Marhab Ya Hilal \| مرحب يا هلال](https://open.spotify.com/track/48jajYPMvqJUOypSQy5cd6) | [Ali Roshdii](https://open.spotify.com/artist/62HWE4FUuZ0yTxoKmpqHDB) | [Ramadan \| رمضان](https://open.spotify.com/album/46qag6Nj1bHRv2WZCt2mEU) | 1:29 |
 | 8 | [Ya Ramadan](https://open.spotify.com/track/4qQH8be2uy8HCBFZSbJSVZ) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Ya Ramadan](https://open.spotify.com/album/7nLNRcWc7bhoeAb3iWXXdz) | 3:09 |
-| 9 | [Baraka Allahu Lakuma](https://open.spotify.com/track/5mJEyyMjCIJUMPqrS9VkZb) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah](https://open.spotify.com/album/7xFPI5T8J8bAAj63JVEOB1) | 4:29 |
+| 9 | [Ramadan \- Arabic Version](https://open.spotify.com/track/6azlD4KK2Tl8gbMPbVIqxQ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Ramadan](https://open.spotify.com/album/0Wtd3POl0NGJCnup0eHJwS) | 4:06 |
 | 10 | [رمضان علينا هل](https://open.spotify.com/track/0M5kqjIQb6veuj93sUtLVE) | [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [رمضان علينا هل](https://open.spotify.com/album/7tZDkgOHmKStrlluyfElhl) | 2:09 |
 | 11 | [Wahawi Ya Wahawi](https://open.spotify.com/track/0vCyEV4HN4knlClJe2H07m) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 5:12 |
 | 12 | [Ramadan Fi Masr Haja Taniah](https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ramadan Fi Masr Haja Taniah](https://open.spotify.com/album/0oSVE8rcu8adMS2Rd0qZiE) | 2:27 |

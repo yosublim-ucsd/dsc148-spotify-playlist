@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 ### [This Is Carlos Y Jose](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z7Tel)
 
-> This is Carlos Y Jose\. The essential tracks, all in one playlist.
+> This Is Carlos Y Jose\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,407 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,405 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [Pancho Treviño](https://open.spotify.com/track/3TNrUd7umaRyh0RPjXbtep) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 2:41 |
 | 50 | [El Siete Leguas](https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Caballos Famosos Con](https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0) | 3:39 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQyZTJhNGU0OGEzODFjNzM1NmMyNzA4NjkxMzE4ZTVk`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU1M2E0OTdmMTFjZTNkYTI4ZmJiNGFhZDA4MGE3NTc2`

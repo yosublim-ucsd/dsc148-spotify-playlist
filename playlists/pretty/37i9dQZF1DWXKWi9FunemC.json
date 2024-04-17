@@ -1,6 +1,6 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 272803,
+  "num_followers": 272882,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 312266,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The Soul",
         "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 227813,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
-        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Haven't Seen It Yet - Acoustic",
-      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Christ Be In My Heart",
         "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 288529,
       "name": "Christ Be In My Heart",
       "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
+        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Haven't Seen It Yet - Acoustic",
+      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Resting Place (To the Cross)",
-        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "Resting Place (To the Cross)",
-      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Resting Place (To the Cross)",
+        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "Resting Place (To the Cross)",
+      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Do It Again - EP",
-        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 272914,
-      "name": "Do it Again (Acoustic)",
-      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 335299,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Do It Again - EP",
+        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 272914,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Different Story",
-        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
-      },
-      "artists": [
-        {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "You Are God, Be Glorified",
         "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 267165,
       "name": "You Are God, Be Glorified",
       "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Different Story",
+        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
+      },
+      "artists": [
+        {
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "I See It Now",
         "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
         }
       ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 238153,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "& Side A",
+        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 268970,
+      "name": "Light & Momentary",
+      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
         "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 250750,
       "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
       "url": "https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "& Side A",
-        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 268970,
-      "name": "Light & Momentary",
-      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
       },
       "artists": [
         {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
         }
       ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
     }
   ],
   "unique_name": "Love Coffee, Love Jesus",

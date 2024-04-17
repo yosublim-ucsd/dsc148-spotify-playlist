@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 10718,
+  "2024-04-17": 10675,
   "date_first_scraped": "2022-07-31",
   "description": "Get in the zone with this fresh mix of chill music to study to. ",
   "name": "Pop Focus | Pop Music for Studying",
@@ -415,6 +415,24 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "album": {
+        "name": "blip",
+        "url": "https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260982,
+      "name": "blip",
+      "url": "https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy"
     },
     {
       "album": {

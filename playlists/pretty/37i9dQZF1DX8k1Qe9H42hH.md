@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k1Qe9H42hH.md) - [plain]
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,999 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,064 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

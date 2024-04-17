@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Nosotros ponemos la música nueva y tú los pasos prohibidos!  Los Ángeles Azules en portada 💃🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,168 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,288 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

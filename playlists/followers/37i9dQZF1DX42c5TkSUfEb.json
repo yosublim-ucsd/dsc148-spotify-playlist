@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 767513,
+  "2024-04-17": 766623,
   "date_first_scraped": "2022-12-28",
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
   "name": "Au calme",
@@ -1049,6 +1049,24 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170803,
+      "name": "Devil That I Know",
+      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
     },
     {
       "album": {
@@ -4035,7 +4053,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"

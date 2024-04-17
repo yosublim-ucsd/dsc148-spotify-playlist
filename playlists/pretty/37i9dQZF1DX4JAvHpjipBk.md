@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Future & Metro Boomin, Dua Lipa, Sabrina Carpenter, Peso Pluma and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,182,571 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,177,595 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 62 | [BAD WEATHER](https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BAD WEATHER](https://open.spotify.com/album/3mhxQoTa9VqzVJfYNjavvV) | 1:52 |
 | 63 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:29 |
 | 64 | [lesson learned](https://open.spotify.com/track/2rNqKSbPV283cPSS8uePpT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [lesson learned](https://open.spotify.com/album/0yXub8Il8KnUlH5n2zm8lN) | 3:08 |
-| 65 | [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 |
+| 65 | [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 |
 | 66 | [99 boys](https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [99 boys](https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX) | 2:26 |
 | 67 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
 | 68 | [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 |

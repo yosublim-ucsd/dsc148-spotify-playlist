@@ -4,7 +4,7 @@
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-283 songs - 21 hr 19 min
+284 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alice \- John Peel Session: 1982](https://open.spotify.com/track/6nefKdxxJKH9dWlDqdCXmm) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [John Peel Session: 1982](https://open.spotify.com/album/6G7TJnef3i2Yc0bj9UIwaU) | 3:31 | 2021-10-15 | 2022-07-16 |
 | [All We Ever Wanted Was Everything](https://open.spotify.com/track/5ZpXCWCfCL4S6lwrzkmMPQ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Sky's Gone Out](https://open.spotify.com/album/0Hh7gRebN47X3Ls1dk0ZDV) | 3:52 | 2021-10-15 | 2022-07-29 |
 | [All We Ever Wanted Was Everything](https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Sky's Gone Out](https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw) | 3:52 | 2021-10-15 |  |
-| [Allegedly, Dancefloor Tragedy](https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B) | [Suspiria](https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8) | [The Gothic Sounds Of Nightbreed Volumes One & Two](https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l) | 4:38 | 2021-10-15 |  |
+| [Allegedly, Dancefloor Tragedy](https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B) | [Suspiria](https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8) | [The Gothic Sounds Of Nightbreed Volumes One & Two](https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l) | 4:38 | 2021-10-15 | 2024-04-17 |
 | [Arabian Knights](https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:05 | 2021-10-15 | 2024-03-25 |
 | [Arabian Knights](https://open.spotify.com/track/5qcwtuCx1TFicvpcWcPGqJ) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:07 | 2021-10-15 |  |
 | [Are We Still Married?](https://open.spotify.com/track/5E5rlGUOf6IlGQc3N0KeqY) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is In Your Head](https://open.spotify.com/album/0iu87N3DLIcl8QNP1KoNcT) | 2:51 | 2021-10-15 | 2022-04-19 |
@@ -164,6 +164,7 @@
 | [Mondlicht](https://open.spotify.com/track/6lOMb2emnIL0QNOrsPW4aq) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/06yXOBC2Nc5cWprY03iB1U) | 5:03 | 2021-10-15 | 2022-07-27 |
 | [Monitor](https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 5:34 | 2021-10-15 | 2024-03-24 |
 | [Monitor](https://open.spotify.com/track/5Dq4m4g2jrB3JlYlGGLqwm) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju \(Remastered & Expanded\)](https://open.spotify.com/album/5ShmAjEGEkWROooVfA0Amb) | 5:34 | 2021-10-15 | 2022-07-29 |
+| [Monitor](https://open.spotify.com/track/6PvHGd0HLGkX6V8HPb0Xvl) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Retro Mania 10](https://open.spotify.com/album/5zspHu0KjBznd1Di6W8VRU) | 5:34 | 2021-10-15 |  |
 | [Moonchild](https://open.spotify.com/track/1ZqZbTxNG6iCA7GabNsvGr) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/7dP7YFzYlM4LlR4v9yu05m) | 5:40 | 2021-10-15 | 2022-07-29 |
 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 | 2021-10-15 |  |
 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 | 2021-10-15 |  |

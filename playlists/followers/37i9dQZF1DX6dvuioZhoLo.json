@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 295909,
+  "2024-04-17": 295734,
   "date_first_scraped": "2021-12-21",
   "description": "New makes old. Cover: Sierra Ferrell",
   "name": "Vintage Vibes",
@@ -3120,6 +3120,24 @@
     },
     {
       "album": {
+        "name": "All Or Nothin'",
+        "url": "https://open.spotify.com/album/6tqZCVnzKF30h3qnIdD0aa"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/0uav8CsdDPNfe4SibmsMbK"
+    },
+    {
+      "album": {
         "name": "All Or Nothin' (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
       },
@@ -3495,7 +3513,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"

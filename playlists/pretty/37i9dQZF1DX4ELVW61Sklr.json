@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 187942,
+  "num_followers": 187828,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Ashanti's Christmas",
-        "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Christmas Time Again",
-      "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "Another Kind Of Christmas",
         "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 202007,
       "name": "Just Ain't Christmas",
       "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Ashanti's Christmas",
+        "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Christmas Time Again",
+      "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "A Mary Mary Christmas",
-        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Hark the Herald Angels Sing",
-      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Motown Christmas",
         "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "A Mary Mary Christmas",
+        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Hark the Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1009,6 +1009,26 @@
       "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "What Christmas Means",
+        "url": "https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Be Mine For Christmas",
+      "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
+    },
+    {
       "added_at": "2023-12-08 05:22:39",
       "album": {
         "name": "Eazy Christmas",
@@ -1045,24 +1065,20 @@
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "What Christmas Means",
-        "url": "https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g"
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
       },
       "artists": [
         {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        },
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
         }
       ],
-      "duration_ms": 257399,
-      "name": "Be Mine For Christmas",
-      "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1079,22 +1095,6 @@
       "duration_ms": 234560,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas in Baltimore",
-        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Favorite Time of Year",
-      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+    },
+    {
       "added_at": "2023-11-03 05:45:27",
       "album": {
         "name": "Christmas Kisses",
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+        "name": "His Gift",
+        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
       },
       "artists": [
         {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+      "duration_ms": 250266,
+      "name": "Glory To The King - His Gift Version",
+      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1179,22 +1195,6 @@
       "duration_ms": 229400,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "His Gift",
-        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Glory To The King - His Gift Version",
-      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
     },
     {
       "added_at": "2021-12-15 17:30:29",

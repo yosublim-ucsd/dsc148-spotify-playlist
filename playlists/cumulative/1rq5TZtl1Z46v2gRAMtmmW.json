@@ -1563,6 +1563,28 @@
     },
     {
       "album": {
+        "name": "Forgive Me (Live) / A Moment Apart (Live)",
+        "url": "https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243413,
+      "name": "Forgive Me (Live) (ODESZA VIP Remix)",
+      "url": "https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N"
+    },
+    {
+      "album": {
         "name": "Dummy Corporation",
         "url": "https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU"
       },
@@ -4672,7 +4694,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 146621,
       "name": "VIOLET",
       "url": "https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu"

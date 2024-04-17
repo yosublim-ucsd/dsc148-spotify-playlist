@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: BODEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,112 likes - 112 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,991 likes - 112 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 21 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
 | 22 | [Gravity](https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Gravity](https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl) | 4:22 |
 | 23 | [Letters](https://open.spotify.com/track/1WpML49J52wtI6B7cEfoRP) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Letters](https://open.spotify.com/album/63YZiViTBsGpNT25ZCz4FK) | 3:13 |
-| 24 | [PMS Police](https://open.spotify.com/track/0O0GhdAcMZsprSzwsDVi4x) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [PMS Police](https://open.spotify.com/album/5sAEnRwKGLH5bBI5eb3FUI) | 2:04 |
+| 24 | [PMS Police](https://open.spotify.com/track/0O0GhdAcMZsprSzwsDVi4x) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [PMS Police](https://open.spotify.com/album/5sAEnRwKGLH5bBI5eb3FUI) | 2:03 |
 | 25 | [friendship bracelet](https://open.spotify.com/track/09OUTvnZ5LtMnkqPCKTtUd) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [burnout](https://open.spotify.com/album/0EjRe8ujcm3JPajilErjMj) | 2:17 |
 | 26 | [Still Seeing Red](https://open.spotify.com/track/2gfp5JssoZeZz9JvUsxeRs) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Still Seeing Red](https://open.spotify.com/album/5rzKJQvAXqDv3q7BaaoiZi) | 1:56 |
 | 27 | [Mother](https://open.spotify.com/track/72sD1izeWWCbeD9mao5PXz) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Mother](https://open.spotify.com/album/24y1XFeOlxc3O2AEkoeYt8) | 4:01 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 69 | [ALEXITHYMIA](https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:15 |
 | 70 | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 |
 | 71 | [I'm a Rat](https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [I'm a Rat](https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk) | 2:10 |
-| 72 | [Spaced Out](https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Spaced Out](https://open.spotify.com/album/4Ftg4p1D4gF7HCV1ucJWN2) | 1:44 |
+| 72 | [Spaced Out](https://open.spotify.com/track/0BNMSzyRWl8LtSGYGSQtm4) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 1:44 |
 | 73 | [Run](https://open.spotify.com/track/2DZ45B4hVwD6XoQ7gJE8ag) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP iii](https://open.spotify.com/album/2PIWW0DFCG6MJl96s6gFYR) | 3:01 |
 | 74 | [Choke](https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Choke](https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW) | 3:42 |
 | 75 | [Agujas](https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Agujas](https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m) | 1:31 |

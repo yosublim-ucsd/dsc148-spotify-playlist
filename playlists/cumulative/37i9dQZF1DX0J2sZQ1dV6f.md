@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Alex Favela, Yeri Mua, Eugenio Esquivel & Sebastian Esquivel.
 
-437 songs - 22 hr 44 min
+438 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Golosa](https://open.spotify.com/track/1uzlm6uA89AY1FYJ5dZRfp) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Golosa](https://open.spotify.com/album/64S31vTCp48dMWxOTwtB3R) | 2:39 | 2022-03-21 | 2022-07-09 |
 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 | 2023-12-06 |  |
 | [Gozza](https://open.spotify.com/track/10tYrYa3ngNK7nCDSNskJl) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW), [Tribu Baharú](https://open.spotify.com/artist/55TyqBcG040D9KPsyhxAb3) | [Gozza](https://open.spotify.com/album/0TEewgAiLbvbJXRIRmIsCK) | 3:41 | 2022-03-21 | 2022-04-20 |
-| [GPI \- Remix](https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [GPI \(Remix\)](https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0) | 2:20 | 2024-03-01 |  |
+| [GPI \- Remix](https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [GPI \(Remix\)](https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0) | 2:20 | 2024-03-01 | 2024-04-17 |
+| [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 | 2024-04-12 |  |
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-07-08 | 2023-05-26 |
 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2023-12-06 | 2024-02-19 |
 | [Guisao](https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx) | 2:19 | 2024-02-09 |  |

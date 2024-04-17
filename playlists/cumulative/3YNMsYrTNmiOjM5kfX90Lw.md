@@ -143,6 +143,6 @@
 | [Why u trynna taunt me?](https://open.spotify.com/track/3vbwLYkk7vdPsdhGeDDx1o) | [Yung.lo](https://open.spotify.com/artist/654lbO88cPzk01fqqPaBmo) | [Why u trynna taunt me?](https://open.spotify.com/album/4YCt0A0nKuZ2uK9MCy3wWF) | 2:32 | 2023-12-08 | 2024-02-16 |
 | [wild card](https://open.spotify.com/track/2TBH3mwy3jLqxpXTg3SAJs) | [DISGRACE](https://open.spotify.com/artist/1HQPp5ICLkRAc1JAr6BidP) | [wild card](https://open.spotify.com/album/1VNCZm396gr1DZnLdOOrKE) | 2:48 | 2024-04-05 | 2024-04-13 |
 | [Yolumuz Uzun](https://open.spotify.com/track/5rcamvtypkpYlNKobTGDeY) | [Düzçizgi](https://open.spotify.com/artist/6GsUjr8lvXhOdjfqlsTwOS) | [Yolumuz Uzun](https://open.spotify.com/album/6Me993heoge7IPEhTKGw1B) | 3:53 | 2024-04-05 | 2024-04-13 |
-| [You Said Goodbye](https://open.spotify.com/track/0K8xU1vwPh644LoEzWb8HX) | [Slick 2H Rick](https://open.spotify.com/artist/0YNarasgF4Eegx2qdFLrsR), [Jaclyn Tomasello](https://open.spotify.com/artist/3k9yTjX82hmjVStQafPYBv) | [You Said Goodbye](https://open.spotify.com/album/3rtE2TfKoSV7Rm8qlRz9Ru) | 3:36 | 2024-04-12 |  |
+| [You Said Goodbye](https://open.spotify.com/track/0K8xU1vwPh644LoEzWb8HX) | [Slick 2H Rick](https://open.spotify.com/artist/0YNarasgF4Eegx2qdFLrsR) | [You Said Goodbye](https://open.spotify.com/album/3rtE2TfKoSV7Rm8qlRz9Ru) | 3:36 | 2024-04-12 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

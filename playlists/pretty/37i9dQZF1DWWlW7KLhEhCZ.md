@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,864 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,799 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olha Pra Mim](https://open.spotify.com/track/2GjTqXEbrGdNxQDzW0LpY6) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Meu Momento](https://open.spotify.com/album/5rgYDyO3pOgkzNkm6m6jfc) | 2:18 |
 | 2 | [Ela Jura Que Sabe](https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [Ela Jura Que Sabe](https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG) | 2:25 |
 | 3 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
-| 4 | [ei mô](https://open.spotify.com/track/5xYbR943WcIBxiGDZKNuxz) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 3:21 |
+| 4 | [ei mô](https://open.spotify.com/track/5xYbR943WcIBxiGDZKNuxz) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [Azin](https://open.spotify.com/artist/5vdXOUy7cZQGA9vTHYWbqT) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 3:21 |
 | 5 | [Superficial](https://open.spotify.com/track/1e0gwbwYDglB5jDzACIxzj) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Superficial](https://open.spotify.com/album/3vhZlqpbymc0Ur4X6ZKBZJ) | 2:58 |
 | 6 | [Yakuza](https://open.spotify.com/track/0LbHGxKrhxULsAyj93ih6M) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Isaiah Reece](https://open.spotify.com/artist/0A9cRcABC3BfRTQcxeI8T9) | [Yakuza](https://open.spotify.com/album/6vRqjKlYZtBmtNWh0N5LgR) | 2:29 |
 | 7 | [DO ZERO](https://open.spotify.com/track/47BjMDOzXTz5tgAtx2x6jE) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [DO ZERO](https://open.spotify.com/album/4jU0Er1pO1NiKlq7rXliqS) | 2:38 |

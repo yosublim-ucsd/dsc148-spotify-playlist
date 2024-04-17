@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 ### [This Is mxmtoon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lGcr7)
 
-> This is mxmtoon。アーティストの代表曲をひとつのプレイリストに。
+> This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,462 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,455 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 50 | [first](https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:26 |
 | 51 | [hong kong \- revisited](https://open.spotify.com/track/78Su2rZNIx5GHHKQhJkuGE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 3:42 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDZjYzE4NjY2MmI1YjkzNmRjY2UwNDI5MWNjZDMwMmUy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGRhYWU2NDAxNDA5MTFkMzRjODc1NzY2ZDgxYmEwM2E4`

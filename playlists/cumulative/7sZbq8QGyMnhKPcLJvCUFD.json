@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 164322,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/6qmT8OZHUbYvwv1hKRK6Sl"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 168263,
       "name": "bye bye",
       "url": "https://open.spotify.com/track/7q7W1iPAk23AM5k9nqPMlp"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 138857,
       "name": "Don't Understand",
       "url": "https://open.spotify.com/track/068ysAB24O3bxsG2ckfOdh"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 194181,
       "name": "Fearless Pt. II",
       "url": "https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 208139,
       "name": "Heroes Tonight",
       "url": "https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO"
@@ -4550,7 +4550,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 148800,
       "name": "High (feat. Aleesia)",
       "url": "https://open.spotify.com/track/3Bin1J5O34OUDb3a4BctoI"
@@ -4812,6 +4812,24 @@
       "duration_ms": 235072,
       "name": "I Like It With You",
       "url": "https://open.spotify.com/track/6rXoFj9Kc3B77t0h3asR5d"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/2TPCAEvTDfZzc1PHpxnxhq"
+      },
+      "artists": [
+        {
+          "name": "PYTI",
+          "url": "https://open.spotify.com/artist/1Ddl7kLEFsOIYZSlWfTCWj"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/3mUtoDRXAfnA2pPeBgwHIt"
     },
     {
       "album": {
@@ -5944,7 +5962,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 246587,
       "name": "Marcheur",
       "url": "https://open.spotify.com/track/1sYlEY1HlO9fywssI0siXX"
@@ -6298,7 +6316,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 228340,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF"
@@ -6950,7 +6968,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 151053,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/39tVEd3FP8xQix5eOEsnZT"
@@ -7364,7 +7382,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 260292,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/5awR3rcKJQL6SVlGZyf4Hp"
@@ -8214,7 +8232,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 223520,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt"
@@ -10814,13 +10832,17 @@
           "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
         },
         {
+          "name": "J\u00e9ja",
+          "url": "https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh"
+        },
+        {
           "name": "Coleman Trapp",
           "url": "https://open.spotify.com/artist/3GI8jWO0jwqs0qX3OtlbqY"
         }
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 197485,
       "name": "Why We Lose",
       "url": "https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF"

@@ -4,7 +4,7 @@
 
 > 
 
-187 songs - 12 hr 2 min
+191 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alter Ego](https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:47 | 2024-04-05 |  |
 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 | 2024-02-16 |  |
 | [American Gigolo](https://open.spotify.com/track/4dV49dm1XBRvsm2EUZQad4) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:42 | 2024-04-09 |  |
+| [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 | 2024-04-16 |  |
 | [Back to the Holler](https://open.spotify.com/track/6G33hFS4gVKktRhlfqEVzs) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 7:37 | 2023-11-14 |  |
 | [Back to the Old House \- 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:06 | 2024-02-10 |  |
 | [Backyard Boy](https://open.spotify.com/track/0QpOqKz66ZxHNqj2PPHiFF) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/47MpwVFLbn15zhYD3mIx5y) | 2:09 | 2023-12-21 |  |
@@ -49,6 +50,7 @@
 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 | 2024-04-09 |  |
 | [Drive](https://open.spotify.com/track/0lrYqe4ICHQEEn0K4eQ7d9) | [Kolektivo](https://open.spotify.com/artist/49KPk2yG5dFFH0Tnmob13T) | [Drive](https://open.spotify.com/album/2C0TUEdw7XJyNGcbO9Y4wZ) | 2:04 | 2024-01-18 |  |
 | [ecstacy \(super slowed\)](https://open.spotify.com/track/4piafr7YSZHYgPvH4n4NeE) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(super slowed\)](https://open.spotify.com/album/686pnMMAj8CBNLjwIIJR1a) | 2:16 | 2023-11-16 | 2024-01-24 |
+| [Endors Toi](https://open.spotify.com/track/0YuePEX4KyfLIPMdNLPwgQ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:06 | 2024-04-16 |  |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2024-02-16 |  |
 | [Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:38 | 2023-11-14 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2023-11-19 |  |
@@ -102,12 +104,14 @@
 | [Me and the Farmer](https://open.spotify.com/track/3Vd7Mm3hJNff4r3Ocxe31Z) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 2:54 | 2024-04-08 |  |
 | [Meat Is Murder \- 2011 Remaster](https://open.spotify.com/track/1vAvRteHbPcnq7fTTROnNB) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Meat Is Murder](https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca) | 6:13 | 2024-04-09 |  |
 | [Meet Me in the Bathroom](https://open.spotify.com/track/08l9WKDuRyGeStQ9ojTlFh) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:56 | 2024-04-09 |  |
+| [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 | 2024-04-16 |  |
 | [Modern Girls & Old Fashion Men](https://open.spotify.com/track/4yVixayMpxm2MUGOePA192) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Modern Girls & Old Fashion Men](https://open.spotify.com/album/1JS6yTcVopsE6ROReK30ik) | 3:41 | 2024-04-09 |  |
 | [Money](https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 3:53 | 2024-04-03 | 2024-04-05 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-12-06 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 | 2023-11-13 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2023-11-12 |  |
 | [Mr\. Sandman](https://open.spotify.com/track/5rAG22yUrd0kkwxztDVAue) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Lollipop](https://open.spotify.com/album/06555Hn0QoE5jRbnMGzJHj) | 2:25 | 2023-12-10 |  |
+| [Music To Walk Home By](https://open.spotify.com/track/0pJTrMWCiR0TuJ5FApIqrz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:12 | 2024-04-16 |  |
 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:53 | 2023-11-13 |  |
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2024-01-17 |  |
 | [No Offerings](https://open.spotify.com/track/13bCWzmT2Y7q4zH6E8x2ZA) | [The Aubreys](https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2), [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [No Offerings](https://open.spotify.com/album/3RiPIwXRLN0ieTACLNjE4D) | 3:14 | 2024-03-30 |  |

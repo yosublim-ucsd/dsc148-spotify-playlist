@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,151 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,991 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 23 | [I Did It](https://open.spotify.com/track/5Y4mqBm9Sd6rxC56NjLKuc) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [I Did It](https://open.spotify.com/album/3Za8FMnNZk8FQFxe7mmJrq) | 2:35 |
 | 24 | [WTW](https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [WTW](https://open.spotify.com/album/1yB5UDDeH7FpNVxvOpbBvU) | 3:20 |
 | 25 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
-| 26 | [Keep It Gangsta](https://open.spotify.com/track/4I8R9y3p8WsbIIdXQe8hoj) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [BEEN HIM](https://open.spotify.com/album/5T5Azi2UWEHfF9MkC2rmBI) | 2:15 |
+| 26 | [Still Slatt](https://open.spotify.com/track/4I8R9y3p8WsbIIdXQe8hoj) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [BEEN HIM](https://open.spotify.com/album/5T5Azi2UWEHfF9MkC2rmBI) | 2:15 |
 | 27 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 |
 | 28 | [4 RINGS \(feat\. BIG30\)](https://open.spotify.com/track/0rjYs7qHlJosZTU8JA1vQL) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [4 RINGS \(feat\. BIG30\)](https://open.spotify.com/album/5zTQ1rxPUNkbYdb0VPcsaK) | 2:34 |
 | 29 | [Opp Shit](https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:06 |

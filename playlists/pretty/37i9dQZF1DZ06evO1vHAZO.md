@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 ### [This Is Oasis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vHAZO)
 
-> This is Oasis\. The essential tracks, all in one playlist.
+> This Is Oasis\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,640 likes - 49 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,632 likes - 49 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 48 | [Don't Stop… \- Demo](https://open.spotify.com/track/6lwWNrZ5nufGhTu5JQg0Hv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Stop… \(Demo\)](https://open.spotify.com/album/40aKKEG4XwBNjVSW5zSA6h) | 4:56 |
 | 49 | [Waiting For The Rapture](https://open.spotify.com/track/1lwJ1fYnkOhLc2xTO2klQ2) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 3:02 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGJjNjQzYWY1Yzg1ZjZhOTdkYmM1Yzg0ZjNjZDlhODUz`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDI5NmVjYzQ2ZmMzZTgwZmZiZWI4YzkwYWY1Y2Y2NmE4`

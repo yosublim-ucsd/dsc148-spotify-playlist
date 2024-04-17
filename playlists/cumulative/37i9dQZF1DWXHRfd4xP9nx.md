@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-338 songs - 15 hr 52 min
+339 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aint No Sunshine When There's Rain](https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2022-10-27 |  |
 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 | 2023-12-20 |  |
 | [Ambience: Forest Rain](https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Ambience: Forest Rain](https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9) | 2:48 | 2022-10-27 | 2023-12-21 |
-| [August Rain](https://open.spotify.com/track/5h12gkfNl3Sh3tEsQNYjnb) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [August Rain](https://open.spotify.com/album/1Lu6iBVPYzH4JM54UBpJk5) | 2:50 | 2024-03-21 | 2024-03-25 |
+| [August Rain](https://open.spotify.com/track/5h12gkfNl3Sh3tEsQNYjnb) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [August Rain](https://open.spotify.com/album/1Lu6iBVPYzH4JM54UBpJk5) | 2:50 | 2024-03-21 |  |
 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [The Rainy Jungle](https://open.spotify.com/artist/4iBwOwjKNuOB8vlwQ3EAKC) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 | 2023-12-20 |  |
 | [Backyard Rains](https://open.spotify.com/track/5v6qXVmMn68GxCPF9XGZVH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Relaxing Rainstorms](https://open.spotify.com/album/3jg3BUq18aQaSGD07MQxOa) | 2:31 | 2022-10-27 |  |
 | [Bajo el paraguas](https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE) | [Weather Modifier](https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN) | [Bajo el paraguas](https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ) | 2:03 | 2023-12-20 |  |
@@ -34,7 +34,7 @@
 | [Calm Garden \(Rain\)](https://open.spotify.com/track/0QtoO7wi3Y78vMf8gHBGso) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Calm Sounds of Nature](https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE) | 3:00 | 2023-12-20 |  |
 | [Calm Pour](https://open.spotify.com/track/4RRfrzCiOHZ8lT9DGvQewc) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:03 | 2024-03-21 |  |
 | [Calm Trickle \- Rain](https://open.spotify.com/track/55ioDcErmBxGxKiOyklNlX) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Skyfall Oasis \(Rain\)](https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC) | 2:16 | 2023-12-20 |  |
-| [Calming Memory \(Rain\)](https://open.spotify.com/track/5JtM2LkkQXwp8TmzVVUQBJ) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2024-03-21 |  |
+| [Calming Memory \(Rain\)](https://open.spotify.com/track/5JtM2LkkQXwp8TmzVVUQBJ) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2024-03-21 | 2024-04-17 |
 | [Calming Rain Deluxe](https://open.spotify.com/track/4KhpDFwW3HxjX70PKNTY5d) | [Always Raining](https://open.spotify.com/artist/3LQVNu4j9sFJRAXSD9AWGN) | [Always Raining](https://open.spotify.com/album/2guN86OowlAoUmcZBIpDs9) | 1:26 | 2022-10-27 | 2023-12-21 |
 | [Calming Rain Sounds](https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 2:02 | 2023-12-20 |  |
 | [Calming Storm](https://open.spotify.com/track/7iXfwy9XBFR1WaLs5CSb6Z) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Mother Nature](https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb) | 2:40 | 2023-12-20 |  |
@@ -157,7 +157,7 @@
 | [moonlit patter](https://open.spotify.com/track/0HFz1abbtEE5mTRsRkMdou) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:36 | 2023-12-20 |  |
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2022-10-27 |  |
 | [Morning Rain](https://open.spotify.com/track/70LJyAuEGlgXrsEuaWmCkP) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL) | 3:03 | 2023-12-20 |  |
-| [Morning Rain](https://open.spotify.com/track/6ZWHkhgj0Q8sf1x6jzSGNf) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Nature's Rain](https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8) | 3:08 | 2023-12-20 |  |
+| [Morning Rain](https://open.spotify.com/track/6ZWHkhgj0Q8sf1x6jzSGNf) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Nature's Rain](https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8) | 3:08 | 2023-12-20 | 2024-04-17 |
 | [Must've Been Rain](https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn) | [rainstantly](https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ) | [The Sky Makes](https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh) | 2:33 | 2023-12-20 |  |
 | [My Sweet Rain](https://open.spotify.com/track/5Qi3qYv6cgRIwBAGhzleKU) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:30 | 2023-12-20 |  |
 | [Nature Rain](https://open.spotify.com/track/2lHDpSltSbrgpvSF71ohwc) | [Relaxing Nature Recordings](https://open.spotify.com/artist/2oqu88JCOi265HJuVacifj) | [Nature Rain](https://open.spotify.com/album/3n5NiiGsPwVwm5XJgFAdom) | 2:13 | 2023-12-20 |  |
@@ -329,6 +329,7 @@
 | [Tranquil Paradise \(Rain\)](https://open.spotify.com/track/57NwiOoENYGkilePs3H9xY) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 3:00 | 2023-12-20 |  |
 | [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2022-10-27 |  |
 | [Tropical Rain Sound](https://open.spotify.com/track/5egT99fn74En0yE997ToIO) | [Regenmaschine](https://open.spotify.com/artist/1GTEiekrEAxZrpOCNMKFAY) | [Rain Sleep Effects](https://open.spotify.com/album/71EhaKqV4TQXMLmhQZFpR4) | 2:56 | 2022-10-27 | 2023-12-21 |
+| [Umbrella Acoustics](https://open.spotify.com/track/5Zu0wrsmfeQujEHsvs8D7K) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Showers and Serenity](https://open.spotify.com/album/72MDd5JHeWwPs71wliSB3X) | 3:01 | 2024-03-21 |  |
 | [Umbrella Sleep](https://open.spotify.com/track/2A6PDYKWBiolkWhNPUXS6i) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2023-12-20 |  |
 | [Umbrella Time](https://open.spotify.com/track/5mWEC9dsbcLwo5CeIyVRA6) | [Nordic Rain](https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg) | [Drops Coming Down](https://open.spotify.com/album/7FA1NLVF63KlKuiku94BAD) | 2:32 | 2022-10-27 |  |
 | [Under the Rain Clouds](https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds) | [Natur Musikanten](https://open.spotify.com/artist/1cnvjBS4O1gaKv7LAIzFFT) | [Endless Rain](https://open.spotify.com/album/68iEqOmVcOTDhYWQ6DwTUI) | 2:38 | 2022-10-27 |  |

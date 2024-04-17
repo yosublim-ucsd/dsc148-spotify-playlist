@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Grupo Firme y El Coyote en portada.",
-  "num_followers": 663029,
+  "num_followers": 663082,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "LA PEOPLE II",
+        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
         }
       ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+      "duration_ms": 141064,
+      "name": "LA PEOPLE II",
+      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -123,26 +127,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "LA PEOPLE II",
-        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
       "artists": [
         {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
         }
       ],
-      "duration_ms": 141064,
-      "name": "LA PEOPLE II",
-      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 261068,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 261068,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "Qu\u00e9date Beb\u00e9",
         "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
       },
@@ -787,22 +807,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "El Correcto",
         "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
       },
@@ -823,22 +827,18 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 235061,
-      "name": "Pixelados",
-      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Tu Perfume",
-        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Tu Perfume",
-      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "LA CUMBIA DEL CASTOR",
         "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Tu Perfume",
+        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Tu Perfume",
+      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "Empat\u00eda",
         "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
       },
@@ -1015,94 +1015,6 @@
       "duration_ms": 244219,
       "name": "Empat\u00eda",
       "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Cobijas Ajenas",
-        "url": "https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 160040,
-      "name": "Cobijas Ajenas",
-      "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "GPI",
-        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 154632,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Mi Eterno Amor Secreto",
-        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232321,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Asignatura Pendiente",
-        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Asignatura Pendiente",
-      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1127,6 +1039,78 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 154632,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Cobijas Ajenas",
+        "url": "https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 160040,
+      "name": "Cobijas Ajenas",
+      "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Mi Eterno Amor Secreto",
+        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 232321,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Asignatura Pendiente",
+        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Asignatura Pendiente",
+      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "no me siento mejor",
         "url": "https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 183659,
       "name": "no me siento mejor",
       "url": "https://open.spotify.com/track/0cmqX0poMxkZKzEFTafA5o"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 161897,
-      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "LATIGAZO",
         "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
       },
@@ -1295,6 +1275,42 @@
       "duration_ms": 175200,
       "name": "LATIGAZO",
       "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 161897,
+      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Cuando La Vida Sea Trago",
-        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Cuando La Vida Sea Trago",
-      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF"
       },
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "Tofu",
         "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
       },
@@ -1451,22 +1471,6 @@
       "duration_ms": 167186,
       "name": "Vitamina D",
       "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Luis Miguel",
-        "url": "https://open.spotify.com/album/22AGeMVdDQdfAPSNJEJIqt"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 212849,
-      "name": "Luis Miguel",
-      "url": "https://open.spotify.com/track/1DGI8N7EJRegRvFN6V7u8j"
     }
   ],
   "unique_name": "Top M\u00e9xico",

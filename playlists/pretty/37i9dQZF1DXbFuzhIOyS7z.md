@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,833 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,844 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 13 | [18dome no Haru ga Sugite](https://open.spotify.com/track/08T4Yrvdh7ReAer76pDMEd) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 2:31 |
 | 14 | [Kemuri](https://open.spotify.com/track/50OvJS5ug6q3mnMI9ojZ1y) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Country Road](https://open.spotify.com/album/6ZtpnrvdBqke77cOazRblq) | 4:06 |
 | 15 | [会えないのに](https://open.spotify.com/track/6LTMjAkawUQOBGRlj22r0R) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 8](https://open.spotify.com/album/629Tqastk0qbtWCp8IAYCO) | 5:07 |
-| 16 | [pink](https://open.spotify.com/track/3DHTr4s5Dw5VIPrvDsYN0b) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 4:25 |
+| 16 | [pink](https://open.spotify.com/track/3DHTr4s5Dw5VIPrvDsYN0b) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 4:25 |
 | 17 | [恋のこと](https://open.spotify.com/track/5VEWJby9vW5X8bCDC5giVu) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC) | [BITEKI](https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX) | 4:02 |
 | 18 | [Just like me](https://open.spotify.com/track/6yX4Q9y3ehu8iJ5PHQX0f7) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sangyo](https://open.spotify.com/album/2RoYeLGxsRsiS1V7CvNg9q) | 3:20 |
 | 19 | [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/1HfT1AF5VNwMLDHf6A0Vwi) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [星巡り、君に金星](https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS) | 2:48 |

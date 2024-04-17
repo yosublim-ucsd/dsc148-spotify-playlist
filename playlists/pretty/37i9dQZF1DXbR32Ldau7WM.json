@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: The Birthday",
-  "num_followers": 282306,
+  "num_followers": 282237,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "\u3055\u3059\u3089\u3044",
-        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
-      },
-      "artists": [
-        {
-          "name": "Tamio Okuda",
-          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "\u3055\u3059\u3089\u3044",
-      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
         "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 238543,
       "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
       "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "COLD DISC",
-        "url": "https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ"
-      },
-      "artists": [
-        {
-          "name": "Straightener",
-          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
-      "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "\u5927\u56e3\u5186",
         "url": "https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 325851,
       "name": "\u5927\u56e3\u5186",
       "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "COLD DISC",
+        "url": "https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ"
+      },
+      "artists": [
+        {
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "GEAR BLUES",
-        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
-      },
-      "artists": [
-        {
-          "name": "Thee Michelle Gun Elephant",
-          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "\u30b9\u30e2\u30fc\u30ad\u30f3\u30fb\u30d3\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "kaleido proud fiesta",
         "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 222666,
       "name": "kaleido proud fiesta",
       "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "GEAR BLUES",
+        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
+      },
+      "artists": [
+        {
+          "name": "Thee Michelle Gun Elephant",
+          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "\u30b9\u30e2\u30fc\u30ad\u30f3\u30fb\u30d3\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
     },
     {
       "added_at": "2024-04-03 14:13:36",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-04-03 14:13:36",
       "album": {
-        "name": "Chicken Zombies",
-        "url": "https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN"
-      },
-      "artists": [
-        {
-          "name": "Thee Michelle Gun Elephant",
-          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "\u30b2\u30c3\u30c8\u30fb\u30a2\u30c3\u30d7\u30fb\u30eb\u30fc\u30b7\u30fc",
-      "url": "https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S"
-    },
-    {
-      "added_at": "2024-04-03 14:13:36",
-      "album": {
         "name": "I'M A RAT",
         "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 256665,
       "name": "\u9762\u5f71",
       "url": "https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt"
+    },
+    {
+      "added_at": "2024-04-03 14:13:36",
+      "album": {
+        "name": "Chicken Zombies",
+        "url": "https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN"
+      },
+      "artists": [
+        {
+          "name": "Thee Michelle Gun Elephant",
+          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "\u30b2\u30c3\u30c8\u30fb\u30a2\u30c3\u30d7\u30fb\u30eb\u30fc\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S"
     },
     {
       "added_at": "2024-04-03 14:13:36",

@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 19994,
+  "num_followers": 20005,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
         }
       ],
-      "duration_ms": 156213,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk"
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/0RgZpM5V4Ccy5fHE7RuBWS"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -811,22 +827,6 @@
       "duration_ms": 172941,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/0RgZpM5V4Ccy5fHE7RuBWS"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "7 SEAS",
-        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Messi",
-      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 161239,
       "name": "All Night",
       "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Henny Talk",
-        "url": "https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
       "artists": [
         {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
         }
       ],
-      "duration_ms": 176922,
-      "name": "Henny Talk",
-      "url": "https://open.spotify.com/track/468SYRGypmd3GEQuTrMOiN"
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+        "name": "Henny Talk",
+        "url": "https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT"
       },
       "artists": [
         {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
         }
       ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+      "duration_ms": 176922,
+      "name": "Henny Talk",
+      "url": "https://open.spotify.com/track/468SYRGypmd3GEQuTrMOiN"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
+        "name": "I Hate That I Care",
+        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "I Hate That I Care",
+      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
         "name": "Love In Me",
         "url": "https://open.spotify.com/album/5ZVTS7eOqgLP5CX9GpGclp"
       },
@@ -1227,26 +1243,6 @@
       "duration_ms": 172800,
       "name": "Love In Me",
       "url": "https://open.spotify.com/track/6uT0CYISZil3WQorOCZrfl"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
-        "name": "Rora",
-        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 143762,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1271,38 +1267,22 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Another Episode",
-        "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
       },
       "artists": [
         {
-          "name": "Ricky Tyler",
-          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
         }
       ],
-      "duration_ms": 194489,
-      "name": "Another Episode",
-      "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
-        "name": "I Hate That I Care",
-        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "I Hate That I Care",
-      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1327,6 +1307,26 @@
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
+        "name": "Another Episode",
+        "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 194489,
+      "name": "Another Episode",
+      "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
+        "name": "FACETS",
+        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+    },
+    {
+      "added_at": "2024-04-05 05:40:14",
+      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
-    },
-    {
-      "added_at": "2024-04-05 05:40:14",
-      "album": {
-        "name": "FACETS",
-        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 192278,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
     },
     {
       "added_at": "2024-04-05 05:40:14",
@@ -1459,22 +1459,26 @@
     {
       "added_at": "2024-04-05 05:40:14",
       "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+        "name": "Lalalala",
+        "url": "https://open.spotify.com/album/3s7J1XOeBX15IXhh025coY"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        },
+        {
+          "name": "PRIMO",
+          "url": "https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+      "duration_ms": 170666,
+      "name": "Lalalala",
+      "url": "https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF"
     }
   ],
   "unique_name": "Cocoa Butter ",

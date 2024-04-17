@@ -4,13 +4,14 @@
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-253 songs - 16 hr 52 min
+254 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\-Out](https://open.spotify.com/track/7aD3SBHCmZRnXxU2vYaEEQ) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chance of Rain](https://open.spotify.com/album/0dlVirw96s48bOpC7LQDNI) | 1:29 | 2018-11-26 | 2022-07-29 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/5ul1z9YxrM9MEsB8MPKJpZ) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Aeroplane Bathroom](https://open.spotify.com/album/55LTuxXSV15FHGHZxSwBd6) | 5:44 | 2020-04-03 | 2022-07-29 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2020-04-03 | 2024-01-10 |
+| [All Fall Down](https://open.spotify.com/track/21C3l6n8vd60TZhOqCtncr) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [10 Songs](https://open.spotify.com/album/40o6mEzsLaKJI9FYaqUKHk) | 3:27 | 2023-09-29 |  |
 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 | 2020-10-15 | 2023-06-14 |
 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 | 2020-10-15 |  |
 | [Allocate](https://open.spotify.com/track/0Ox2MFIFzwLhkfFHuGOdbc) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Allocate](https://open.spotify.com/album/6QzjKOo8KXJb8Xqq7cCqho) | 4:42 | 2018-11-26 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 | 2019-09-16 | 2023-06-14 |
 | [Obrecht](https://open.spotify.com/track/2fgEVpafPGM0IDRRf3Q32K) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/7aahYegJjCZ1QLnIBxsTwb) | 3:36 | 2018-11-26 | 2023-03-01 |
 | [Obrecht](https://open.spotify.com/track/3PwmnXo3vQi326NDlf0iQj) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves](https://open.spotify.com/album/0n636PGAlBwMN0dn03ZmC3) | 3:36 | 2018-11-26 | 2022-07-29 |
-| [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 | 2022-12-14 |  |
+| [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 | 2022-12-14 | 2024-04-17 |
 | [One Half](https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:41 | 2018-11-26 | 2023-06-14 |
 | [One Half](https://open.spotify.com/track/4gDTwTId75QePmzeZ2woCQ) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/7wVXPA9EfAh7VA5dfaIiP3) | 3:41 | 2018-11-26 | 2022-07-28 |
 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 | 2018-11-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 181500,
+  "num_followers": 181424,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "To Enjoy is the Only Thing",
         "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -947,6 +947,38 @@
       "duration_ms": 215065,
       "name": "baby jesus is nobody\u2019s baby now",
       "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -971,8 +1003,8 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+        "name": "Lonely Man of Winter",
+        "url": "https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s"
       },
       "artists": [
         {
@@ -980,25 +1012,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+      "duration_ms": 191266,
+      "name": "Lonely Man of Winter",
+      "url": "https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
-        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Christmas Is Going To The Dogs",
-      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Creatures of an Hour",
         "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Lonely Man of Winter",
-        "url": "https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s"
+        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
+        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Lonely Man of Winter",
-      "url": "https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA"
+      "duration_ms": 177733,
+      "name": "Christmas Is Going To The Dogs",
+      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Alone on Christmas Day",
         "url": "https://open.spotify.com/album/2DNeWE54G8WriLMcvIFl4B"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 174973,
       "name": "Alone on Christmas Day",
       "url": "https://open.spotify.com/track/4ZkkqhQl0KQzvvNfuhznAm"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2023-12-08 17:43:39",

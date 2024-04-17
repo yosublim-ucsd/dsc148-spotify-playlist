@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. The essential tracks, all in one playlist.
+> This Is Mc Dricka\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,550 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,540 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 50 | [Tropa do BL](https://open.spotify.com/track/6MWdJAwbIv6OmynH3BJqRn) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mc 7 Belo](https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD) | [Tropa do BL](https://open.spotify.com/album/02PGdzDAXYzsOzp9ucTwqv) | 2:44 |
 | 51 | [Vida Do Crime](https://open.spotify.com/track/7pgXxhMqy7lFnAXborqxse) | [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Fiuza](https://open.spotify.com/artist/2nuDz3WMd4B9RkG6R7l5Wh), [Dj Stay](https://open.spotify.com/artist/5dfYej4GdOLSX8HxKOSLK2), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq) | [Vida Do Crime](https://open.spotify.com/album/7ciWlEhMW3TZgU2TPtytQq) | 2:16 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGIxNmY5NWViYmUyZGMwZTE3NGJkZGEyZjgzNDY3MzAw`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDI1MTQ5NzVlZDFiMTRkZmI1NTg4MDc2MmI2OGY1NTFm`

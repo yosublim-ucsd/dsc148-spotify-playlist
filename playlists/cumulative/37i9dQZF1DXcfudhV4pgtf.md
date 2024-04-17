@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-97 songs - 8 hr 38 min
+98 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Barracuda \- Original](https://open.spotify.com/track/2xtWOklVoU0opYxbvw3Eo1) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C) | [Barracuda EP](https://open.spotify.com/album/7eCXvlqyy5Ps2GxytRUUI3) | 6:26 | 2023-02-21 | 2024-01-31 |
 | [Black Powder \- Original Mix](https://open.spotify.com/track/5hp9PA464yH87y9cQnxZ48) | [ABEM](https://open.spotify.com/artist/5w0XZrOFuKcQhJfbzfmzN9) | [ISMVA003.3](https://open.spotify.com/album/4QkL4GeZpnq1DBnFDc5k6a) | 7:45 | 2023-02-21 | 2024-01-31 |
 | [Blue Shost](https://open.spotify.com/track/7oxT7jprQ8TSfviTpGnWLx) | [Trancemaster](https://open.spotify.com/artist/1ltmzHvseKWZDjQotyJX1l) | [Blue Shost](https://open.spotify.com/album/6KZE26mUePrl8QdfeIinD1) | 8:57 | 2024-01-30 |  |
+| [Cassa Dritta](https://open.spotify.com/track/1ipFo6VKkjrQNXo2J98JPL) | [Peppe Amore](https://open.spotify.com/artist/11U2CZuFigTnfqYF8I4rH3) | [Cassa Dritta](https://open.spotify.com/album/2HAxnWD9pa3wSb0VxusmqS) | 5:47 | 2024-04-16 |  |
 | [Colorforms](https://open.spotify.com/track/3KsEpBj2erCWu9X2XojURs) | [FULL EFX](https://open.spotify.com/artist/1uLpI38BsYc4LVQ62y2se5), [Anthony Parasole](https://open.spotify.com/artist/66bQLQsTSlK34m12wjyneM) | [HEADRUSH](https://open.spotify.com/album/6oUZkGInt7tvJihI4dOIz5) | 2:29 | 2023-02-21 | 2024-01-31 |
 | [Connected by a Wall](https://open.spotify.com/track/2eK2j45LNepV0gBryR9D1F) | [Sputnik One](https://open.spotify.com/artist/68K8om0Epc6IYa4hndHt4w) | [Connected by a Wall](https://open.spotify.com/album/6QH5VpYHxQFt23tKYQvV7y) | 5:28 | 2023-02-21 |  |
 | [Crystal Wonders](https://open.spotify.com/track/2ZJ9M6258T9yyTKBwg4Vyn) | [FMSAO](https://open.spotify.com/artist/6Zn5oumrPxS3fq3oxvOjzJ) | [Tales of Severe Damage](https://open.spotify.com/album/2rEId06UIFvktn1uDiS43Y) | 3:19 | 2024-01-30 |  |
@@ -34,7 +35,7 @@
 | [Fast crush](https://open.spotify.com/track/4nXB9CjHsUj3JEPB9362Se) | [Mac Declos](https://open.spotify.com/artist/0e9hDO31D6ykXq2hDyjZgO) | [Hard work always pays off](https://open.spotify.com/album/0kmYFHmlws7IgZyb2X9HSW) | 5:27 | 2023-02-21 | 2024-01-31 |
 | [fl+](https://open.spotify.com/track/2VtMaXQqRcJsgLY83QCsf5) | [LDS](https://open.spotify.com/artist/6d9eyCKSzKbGK4bTM2erwG) | [algo5](https://open.spotify.com/album/2kJPQTsAu7DsOocDZeLnzD) | 5:26 | 2023-02-21 | 2024-01-31 |
 | [Forest Car](https://open.spotify.com/track/1Qk17rvKf9RCB6zftUs1Vf) | [DJ Ibon](https://open.spotify.com/artist/0N7LQYE6ZG0drzW1REL5A4) | [Kulør 001](https://open.spotify.com/album/34UpxPWtBjLvurw6NF3Dfa) | 5:11 | 2024-01-30 |  |
-| [Forgive](https://open.spotify.com/track/1vyeqnphXY3hw1G4AF5yup) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx) | 3:07 | 2023-02-21 |  |
+| [Forgive](https://open.spotify.com/track/1vyeqnphXY3hw1G4AF5yup) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx) | 3:07 | 2023-02-21 | 2024-04-17 |
 | [Fr3sh](https://open.spotify.com/track/3NQK1n8n2IqZrPyXZ1tr0W) | [Kareem Lotfy](https://open.spotify.com/artist/6kDUT9wGreEcPfDsS1agUP) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:51 | 2024-01-30 |  |
 | [Galvanizer](https://open.spotify.com/track/39OrJYN5IN9yB0uGio9jid) | [Maté](https://open.spotify.com/artist/70FBpPuf1bnE2wvUUB8JzF) | [Threesome](https://open.spotify.com/album/0J5HyKyBRZ8EFjMXP8yNJn) | 4:54 | 2023-02-21 | 2024-01-31 |
 | [Go \- Anfisa Letyago Remix](https://open.spotify.com/track/6UFcxC1P9Dr5q9vYjGT5A7) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Go \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3iHg6AnbZx5YM2Q2cXWno3) | 5:38 | 2023-02-21 | 2024-01-31 |

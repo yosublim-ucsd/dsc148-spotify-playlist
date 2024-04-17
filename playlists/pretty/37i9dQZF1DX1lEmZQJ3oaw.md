@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,684 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,709 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Muskaanein Jhooti Hai](https://open.spotify.com/track/6LX6modQsxnBouh7yZT6qx) | [Suman Sridhar](https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq) | [Talaash](https://open.spotify.com/album/7ASasKA02nhm5nI7tlZNjQ) | 3:17 |
-| 2 | [Dil Ko Hazar Bar \- From "Murder"](https://open.spotify.com/track/0vjHodY8Gqt7rAs8kPIfMd) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Murder \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5LgQDhI9gMBEiH2YJhByxz) | 5:34 |
+| 2 | [Dil Ko Hazar Bar \- From "Murder"](https://open.spotify.com/track/6ipIuqRVkk0sbn2aZRIhJC) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Murder](https://open.spotify.com/album/4Ncc4SXe72mXB2d8Xdw64s) | 5:34 |
 | 3 | [Bhola Bhala Baby \- From "Murder Mubarak"](https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Bhola Bhala Baby \(From "Murder Mubarak"\)](https://open.spotify.com/album/4uucsIPMPcEtDqCIkFqijB) | 3:53 |
 | 4 | [Darling](https://open.spotify.com/track/6z3p3Gm5FOH1n22ummzEh7) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [7 Khoon Maaf \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KeZZK7MItXn4A5SNwock7) | 3:28 |
 | 5 | [Aunty Ji](https://open.spotify.com/track/0e5STSwtLEXKN4ygFYydJd) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:34 |

@@ -1,6 +1,6 @@
 {
   "description": "Los mejores del Reggaeton de todos los tiempos! \ud83d\udc10 Cover: Don Omar",
-  "num_followers": 30008,
+  "num_followers": 30112,
   "original_name": "Reggaeton GOATs",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "Farruko Presents Los Menores",
-        "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 213311,
-      "name": "Passion Whine",
-      "url": "https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn"
-    },
-    {
-      "added_at": "2023-08-02 22:02:49",
-      "album": {
         "name": "Gargolas 5: The Next Generation",
         "url": "https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 184737,
       "name": "Soy una Gargola",
       "url": "https://open.spotify.com/track/1Hu8EMKCGD25srDybGOtBC"
+    },
+    {
+      "added_at": "2023-08-02 22:02:49",
+      "album": {
+        "name": "Farruko Presents Los Menores",
+        "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 213311,
+      "name": "Passion Whine",
+      "url": "https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn"
     },
     {
       "added_at": "2023-08-02 22:02:49",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+    },
+    {
+      "added_at": "2023-08-02 22:02:49",
+      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "The Last Don Live",
-        "url": "https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "Pobre Diabla",
-      "url": "https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA"
-    },
-    {
-      "added_at": "2023-08-02 22:02:49",
-      "album": {
         "name": "No Te Veo",
         "url": "https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "Diva (Platinum Edition)",
-        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+        "name": "The Last Don Live",
+        "url": "https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+      "duration_ms": 254480,
+      "name": "Pobre Diabla",
+      "url": "https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA"
     },
     {
       "added_at": "2023-08-02 22:02:49",

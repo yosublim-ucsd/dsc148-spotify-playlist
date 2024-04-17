@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-161 songs - 10 hr 54 min
+162 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [thunderBOLTfantasy](https://open.spotify.com/track/09WSdjh5Xa0rYZs3SIxh4P) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Thunderbolt Fantasy 東離劍遊紀 オリジナルサウンドトラック](https://open.spotify.com/album/30HkaUQCrZj2wMd1ONqklE) | 5:35 | 2022-06-07 |  |
 | [Till I](https://open.spotify.com/track/6zgJZb0fgt2O7h01xwlpYE) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:41 | 2022-06-07 |  |
 | [time](https://open.spotify.com/track/3Vy6sMmiFKmf8XmJlkxyMz) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 3:58 | 2022-06-07 |  |
+| [TO THE END](https://open.spotify.com/track/6uTxISC4ienA6m0kG17ENg) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [TO THE END](https://open.spotify.com/album/0jYBLoI184nD0OzTdvQTz6) | 2:53 | 2024-04-16 |  |
 | [Tot Musica](https://open.spotify.com/track/4ca6LN5b17Qjo2GinxmA5v) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [TOKYO \- HALLOWEEN \-](https://open.spotify.com/album/3bl9atzKcDPSm6YM9zJyZN) | 3:15 | 2022-09-29 | 2022-11-13 |
 | [Tot Musica](https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:15 | 2022-09-15 |  |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-09-29 |

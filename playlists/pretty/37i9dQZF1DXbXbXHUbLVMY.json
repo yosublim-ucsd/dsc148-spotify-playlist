@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27931,
+  "num_followers": 27930,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "YOUNG THUG P\u00c5 1M",
-        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
+        "name": "L\u00f8sningsorienterte",
+        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "DAN",
-          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
         }
       ],
-      "duration_ms": 145797,
-      "name": "YOUNG THUG P\u00c5 1M",
-      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+      "duration_ms": 173465,
+      "name": "L\u00f8sningsorienterte",
+      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -803,18 +795,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "L\u00f8sningsorienterte",
-        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
+        "name": "YOUNG THUG P\u00c5 1M",
+        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
       },
       "artists": [
         {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "DAN",
+          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
         }
       ],
-      "duration_ms": 173465,
-      "name": "L\u00f8sningsorienterte",
-      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+      "duration_ms": 145797,
+      "name": "YOUNG THUG P\u00c5 1M",
+      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Palmerna",
-        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Palmerna",
-      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 141471,
       "name": "WONDERLAND",
       "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Zinah",
+        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 116500,
+      "name": "Zinah",
+      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Zinah",
-        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 116500,
-      "name": "Zinah",
-      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Plz",
         "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 142118,
       "name": "Plz",
       "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Gangster V\u00e4rld",
-        "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Le Winter",
-          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 152932,
-      "name": "Gangster V\u00e4rld",
-      "url": "https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8"
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1067,22 +1063,6 @@
       "duration_ms": 153059,
       "name": "Falt Ut",
       "url": "https://open.spotify.com/track/1Qe4tOzNLtVwtV63D9VumX"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1163,6 +1143,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Gangster V\u00e4rld",
+        "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+        }
+      ],
+      "duration_ms": 152932,
+      "name": "Gangster V\u00e4rld",
+      "url": "https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC"
       },
@@ -1231,6 +1247,26 @@
       "duration_ms": 168000,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Konstn\u00e4rer",
+        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Konstn\u00e4rer",
+      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1255,38 +1291,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Det var aldri meg",
-        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Ment for hverandre",
-      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
       },
@@ -1303,22 +1307,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Konstn\u00e4rer",
-        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
+        "name": "Det var aldri meg",
+        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
       "artists": [
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 150040,
-      "name": "Konstn\u00e4rer",
-      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
+      "duration_ms": 194526,
+      "name": "Ment for hverandre",
+      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Til Toppen",
         "url": "https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+        "name": "Har du glemt meg?",
+        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
       },
       "artists": [
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 186123,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+      "duration_ms": 165040,
+      "name": "Har du glemt meg?",
+      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 116420,
       "name": "Benzin",
       "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Har du glemt meg?",
-        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Har du glemt meg?",
-      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     }
   ],
   "unique_name": "100 (2)",

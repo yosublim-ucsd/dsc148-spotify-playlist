@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 394592,
+  "num_followers": 394888,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 197500,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Jump Up",
-        "url": "https://open.spotify.com/album/5rjVS6Aaus2JOw5Mc9FzmJ"
-      },
-      "artists": [
-        {
-          "name": "Ad Voca",
-          "url": "https://open.spotify.com/artist/04LFpk0NPwhUVezsZDcdkx"
-        }
-      ],
-      "duration_ms": 166673,
-      "name": "Jump Up",
-      "url": "https://open.spotify.com/track/0oDRLwXOjJ0B879sOkEDoO"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "E S C O B a R",
         "url": "https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185143,
       "name": "E S C O B a R",
       "url": "https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Jump Up",
+        "url": "https://open.spotify.com/album/5rjVS6Aaus2JOw5Mc9FzmJ"
+      },
+      "artists": [
+        {
+          "name": "Ad Voca",
+          "url": "https://open.spotify.com/artist/04LFpk0NPwhUVezsZDcdkx"
+        }
+      ],
+      "duration_ms": 166673,
+      "name": "Jump Up",
+      "url": "https://open.spotify.com/track/0oDRLwXOjJ0B879sOkEDoO"
     },
     {
       "added_at": "2024-04-12 04:00:00",

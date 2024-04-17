@@ -4,7 +4,7 @@
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-220 songs - 13 hr 35 min
+221 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [How's It Gonna End](https://open.spotify.com/track/4qNG4sbrKhudFT2mq7WWr4) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Real Gone](https://open.spotify.com/album/4UjTXVetCzQO5ILcbQZL5c) | 4:51 | 2021-08-16 | 2022-07-29 |
 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 | 2021-08-16 |  |
 | [I Am The Man Thomas](https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [I Am The Man Thomas](https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8) | 2:39 | 2021-08-16 | 2023-12-12 |
+| [I Am The Man Thomas](https://open.spotify.com/track/6BxctklsToc6WWbPyHddR1) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [I Am The Man Thomas](https://open.spotify.com/album/27LtEXSCBKYQ5hu3ET8ILi) | 2:39 | 2024-02-16 |  |
 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 | 2023-12-12 |  |
 | [In Our Talons](https://open.spotify.com/track/1wG0T0Gc9na4tZW3soquGC) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Hymns For a Dark Horse](https://open.spotify.com/album/0GLyf7lp17uPSiTPOqU5vf) | 3:53 | 2021-08-16 | 2022-07-29 |
 | [In Our Talons](https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Hymns For a Dark Horse](https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e) | 3:53 | 2022-06-06 |  |
@@ -174,7 +175,7 @@
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 6:10 | 2022-06-06 | 2022-11-13 |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2022-06-06 | 2023-11-04 |
 | [Ribbon](https://open.spotify.com/track/5bR0R96OeLHG8mVS1SRh6I) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Ribbon](https://open.spotify.com/album/4PWmQ9k3FPJKHuOQB2PJ6A) | 3:36 | 2021-08-16 | 2022-07-28 |
-| [Ribbon](https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Ribbon](https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl) | 3:36 | 2022-06-06 |  |
+| [Ribbon](https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Ribbon](https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl) | 3:36 | 2022-06-06 | 2024-04-17 |
 | [Rosie](https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [Small Town Murder Songs \- Original Soundtrack](https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ) | 3:12 | 2021-08-16 | 2022-07-29 |
 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 | 2022-07-11 |  |
 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 | 2022-06-06 |  |

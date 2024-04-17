@@ -1,13 +1,29 @@
 {
-  "description": "Where R&B lives. Cover: Kehlani",
-  "num_followers": 6230315,
+  "description": "Where R&B lives. Cover: Victoria Mon\u00e9t",
+  "num_followers": 6216002,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDA1YTVlNzUwYTcyOTdlMDhhY2JhMzgwYjAyYmMxOThl",
+  "snapshot_id": "MTcxMzI0MjYzOSwwMDAwMDAwMDljZjIzMTExNWQwNzBjNTg1YzBlMzczNzdlYWZmMzQ5",
   "tracks": [
+    {
+      "added_at": "2024-01-26 21:56:05",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
@@ -179,22 +195,6 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-01-26 21:56:05",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2024-03-29 05:02:46",

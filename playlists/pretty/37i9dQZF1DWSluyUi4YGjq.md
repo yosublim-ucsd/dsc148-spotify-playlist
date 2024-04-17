@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > 20 new tracks added by Wisp to celebrate her new EP Pandora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,625 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,815 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 36 | [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 |
 | 37 | [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 |
 | 38 | [last dance](https://open.spotify.com/track/0vwA6PxCt8Bs0Ltl9ZTbVU) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [SECRET LETTERS](https://open.spotify.com/album/18tFENio227dGEi85FL6Ko) | 2:07 |
-| 39 | [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 |
+| 39 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 | 40 | [Lush](https://open.spotify.com/track/15kIIljB6b5pmMafU7w9CB) | [Chlorine](https://open.spotify.com/artist/5gYijxUwsux7N88QuiLQJG) | [Lust](https://open.spotify.com/album/1Zan8FfTJ2LTjwWALcs8dB) | 5:15 |
 | 41 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 |
 | 42 | [krillin](https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h), [SUN ORGAN](https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp) | [krillin](https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB) | 2:15 |

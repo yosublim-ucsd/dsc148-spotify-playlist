@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Wunderhorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,502 likes - 104 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,062 likes - 104 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 55 | [Over You](https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Over You](https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4) | 2:50 |
 | 56 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 |
 | 57 | [I Suck](https://open.spotify.com/track/3NHRs4d4qtkNYAJv30lea9) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [I Suck](https://open.spotify.com/album/3QsIWDxwrXhsLmDWl2540z) | 3:22 |
-| 58 | [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 |
+| 58 | [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 |
 | 59 | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 |
 | 60 | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j) | 3:34 |
 | 61 | [Hot Dad](https://open.spotify.com/track/0qxQ9DltFW338AF9yKYKNp) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Hot Dad](https://open.spotify.com/album/5uzhDex7buzldzMyTB7aFL) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,387 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,476 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 72 | [O Carpinteiro \- Conto de Fadas](https://open.spotify.com/track/5KOBuBLQzUvGDpB3aLrHad) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Elias Monkbel](https://open.spotify.com/artist/5mFMTcmSFaMIkmHvXZUrVZ) | [O Carpinteiro \(Conto de Fadas\)](https://open.spotify.com/album/40ANmeWOPvVZXQDEaOFIKL) | 4:09 |
 | 73 | [Sextou](https://open.spotify.com/track/2N0Xa9oYEcL544AH2qVQME) | [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv), [Pedrinho Pisadinha](https://open.spotify.com/artist/3vL5YvNXI8BDr7foh27rzv) | [O Maior Piseiro de Todos os Tempos!](https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI) | 2:27 |
 | 74 | [Jenifer](https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [À Vontade](https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP) | 2:40 |
-| 75 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 |
-| 76 | [Internacional](https://open.spotify.com/track/2HqQRmR4YQUsK30oEJLUlj) | [Cachorrão do Brega](https://open.spotify.com/artist/0zdAfAcNxThQ4gONcWuiDn) | [2k18.2](https://open.spotify.com/album/1crnwii1wMT2AqMHjf1UHd) | 1:54 |
-| 77 | [Nega Chegando](https://open.spotify.com/track/3TfTAYr1AJvl7rAHaJ6QB4) | [O Boy da Seresta](https://open.spotify.com/artist/4TShXxXZjnjd1nnEw9R5Hs), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Nega Chegando](https://open.spotify.com/album/7DIu7GIcbR1eungYkB1ZBW) | 2:18 |
+| 75 | [Internacional](https://open.spotify.com/track/2HqQRmR4YQUsK30oEJLUlj) | [Cachorrão do Brega](https://open.spotify.com/artist/0zdAfAcNxThQ4gONcWuiDn) | [2k18.2](https://open.spotify.com/album/1crnwii1wMT2AqMHjf1UHd) | 1:54 |
+| 76 | [Nega Chegando](https://open.spotify.com/track/3TfTAYr1AJvl7rAHaJ6QB4) | [O Boy da Seresta](https://open.spotify.com/artist/4TShXxXZjnjd1nnEw9R5Hs), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Nega Chegando](https://open.spotify.com/album/7DIu7GIcbR1eungYkB1ZBW) | 2:18 |
+| 77 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 |
 | 78 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
 | 79 | [Decida](https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Estouro das Vaquejadas](https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD) | 2:42 |
 | 80 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 96 | [Matuto de Verdade](https://open.spotify.com/track/4gryO2XRHDvVgDfAoxZCi4) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Matuto de Verdade](https://open.spotify.com/album/5u5l9acR8uBt6xtVFSdoF9) | 2:26 |
 | 97 | [Desce Deslizando](https://open.spotify.com/track/3pAmu2snfRsk8tyGx5WtEb) | [Lucas Boquinha](https://open.spotify.com/artist/2sFYm8AmgLWa4WNxfppJtP), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Desce Deslizando](https://open.spotify.com/album/1ZxKx6QpyMR9pAbcDHyyWl) | 2:08 |
 | 98 | [Isca](https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Isca](https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv) | 2:42 |
-| 99 | [Vaquejada Deixo Não](https://open.spotify.com/track/7opFSfeMfpGF3KGByMeunX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Vaquejada Deixo Não](https://open.spotify.com/album/1clLqhZRPHVnA0LyG6PQAO) | 3:17 |
-| 100 | [Cracudo](https://open.spotify.com/track/6pgdBfiIOGjR3B0Hyvzykz) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou Na Mosca](https://open.spotify.com/album/4vOfQufVR5xI14wXEjgdX0) | 2:52 |
+| 99 | [Cracudo](https://open.spotify.com/track/6pgdBfiIOGjR3B0Hyvzykz) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou Na Mosca](https://open.spotify.com/album/4vOfQufVR5xI14wXEjgdX0) | 2:52 |
+| 100 | [Vaquejada Deixo Não](https://open.spotify.com/track/7opFSfeMfpGF3KGByMeunX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Vaquejada Deixo Não](https://open.spotify.com/album/1clLqhZRPHVnA0LyG6PQAO) | 3:17 |
 
 Snapshot ID: `MTcxMTY2NDA3OSwwMDAwMDAwMGU5ZjE2MDhkOWQ1MGJjNGU0ZWQ3NzdjYmExMWM3Mjgx`

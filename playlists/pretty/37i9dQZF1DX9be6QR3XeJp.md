@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: MRCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,912 likes - 182 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,862 likes - 182 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

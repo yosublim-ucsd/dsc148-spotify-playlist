@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: DANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,842 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,667 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,19 +42,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 32 | [Bug a Boo](https://open.spotify.com/track/4ErxIoEHvAaebb3D2CpJ2T) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Bug a Boo](https://open.spotify.com/album/60NlVLHgcMjcxjyjPLyNMx) | 3:24 |
 | 33 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
 | 34 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 |
-| 35 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 |
-| 36 | [至少做一件離譜的事](https://open.spotify.com/track/2oOemghuOplk25PORF4s39) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [至少做一件離譜的事](https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6) | 3:52 |
+| 35 | [至少做一件離譜的事](https://open.spotify.com/track/2oOemghuOplk25PORF4s39) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [至少做一件離譜的事](https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6) | 3:52 |
+| 36 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 |
 | 37 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 |
 | 38 | [Cứ Để Cho Em](https://open.spotify.com/track/0WTuWbQb1TGNClJ56KUe4Z) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Cứ Để Cho Em](https://open.spotify.com/album/7GJ8C1rs7sXzs9R15uNwKR) | 3:48 |
 | 39 | [What \(I Wish\) He Said](https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [What \(I Wish\) He Said](https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl) | 2:41 |
 | 40 | [Bababababy](https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Bababababy](https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg) | 2:51 |
-| 41 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 |
-| 42 | [spokojnie panowie](https://open.spotify.com/track/7Kpmwt7NQSQDxbddneO3Zu) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb) | [spokojnie panowie](https://open.spotify.com/album/4Z6T3q35NEsuheaJ7JYwWQ) | 2:31 |
+| 41 | [spokojnie panowie](https://open.spotify.com/track/7Kpmwt7NQSQDxbddneO3Zu) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb) | [spokojnie panowie](https://open.spotify.com/album/4Z6T3q35NEsuheaJ7JYwWQ) | 2:31 |
+| 42 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 |
 | 43 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
 | 44 | [Maszkulin](https://open.spotify.com/track/3eY3fsCbnAh3eJSxMfC9Ij) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m) | [Maszkulin](https://open.spotify.com/album/0FGOwv9A28AhfP9wygC1EG) | 3:25 |
 | 45 | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/track/06QKELTP9ofe04C9rpcL0V) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Mỉm Cười Mà Khóc Trong Lòng](https://open.spotify.com/album/5ATDeLganeKXkR7KETJmfx) | 4:20 |
-| 46 | [What If](https://open.spotify.com/track/3PcFKgSulT1nbrMXiic7xe) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2wMvRkueUbvXZHYEg0CSs0) | 3:38 |
-| 47 | [You're mine](https://open.spotify.com/track/1gFkHVVHKrs6fpS8CzUSQx) | [NOIRA](https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo), [Babé Sila](https://open.spotify.com/artist/1aFdFoqPMVFCNCGl5Y2p8v) | [You're mine](https://open.spotify.com/album/4eTQnAIqfd4OWLGor7ihed) | 3:33 |
+| 46 | [You're mine](https://open.spotify.com/track/1gFkHVVHKrs6fpS8CzUSQx) | [NOIRA](https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo), [Babé Sila](https://open.spotify.com/artist/1aFdFoqPMVFCNCGl5Y2p8v) | [You're mine](https://open.spotify.com/album/4eTQnAIqfd4OWLGor7ihed) | 3:33 |
+| 47 | [What If](https://open.spotify.com/track/3PcFKgSulT1nbrMXiic7xe) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2wMvRkueUbvXZHYEg0CSs0) | 3:38 |
 | 48 | [Дурепа](https://open.spotify.com/track/3wdbIA9Yb6O8Mj2yLzUMqt) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [Дурепа](https://open.spotify.com/album/2v6qxZ3Er00xmRjw3kGajP) | 3:08 |
 | 49 | [Boytoy](https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Boytoy](https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7) | 2:19 |
 | 50 | [Liquid Courage](https://open.spotify.com/track/4f9GbA9EETGWAS8eYtNmkj) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Liquid Courage](https://open.spotify.com/album/6DYTJ5st87gNECyiu2rHep) | 4:29 |

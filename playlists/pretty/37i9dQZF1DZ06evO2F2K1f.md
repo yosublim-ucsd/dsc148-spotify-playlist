@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F2K1f.md) - [plain]
 
 ### [This Is Alan Hawkshaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2K1f)
 
-> This is Alan Hawkshaw\. The essential tracks, all in one playlist.
+> This is Alan Hawkshaw\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 989 likes - 50 songs - 2 hr 15 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F2K1f.md) - [plain]
 | 49 | [Meet the Family](https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 1:37 |
 | 50 | [Lazy Evening Blues](https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 4:38 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGFmMmJhZjg0ODk3NDY4ZGI2OTFjMDk0ZGU3OTEzZDNk`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGU4MGRmMjYwNmVhMWFhODgxYWZjNTVjNmY0MTczMWQz`

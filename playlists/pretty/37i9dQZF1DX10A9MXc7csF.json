@@ -1,6 +1,6 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Tony Loya",
-  "num_followers": 165002,
+  "num_followers": 164942,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
@@ -312,8 +312,12 @@
       },
       "artists": [
         {
-          "name": "Daren, Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1KZNhFjQLJwMxyUdWjELkf"
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        },
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
         }
       ],
       "duration_ms": 175375,

@@ -1,6 +1,6 @@
 {
   "description": "These country songs know exactly how you feel.",
-  "num_followers": 184087,
+  "num_followers": 184040,
   "original_name": "Country Heartache",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-02-16 16:29:52",
       "album": {
+        "name": "First Taste of Gone",
+        "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "First Taste of Gone",
+      "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
+    },
+    {
+      "added_at": "2024-02-16 16:29:52",
+      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -775,26 +791,6 @@
       "duration_ms": 176093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": "2024-02-16 16:29:52",
-      "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2024-02-16 16:29:52",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-02-16 16:29:52",
       "album": {
-        "name": "First Taste of Gone",
-        "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 172782,
-      "name": "First Taste of Gone",
-      "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2024-02-16 16:29:52",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-02-16 16:29:52",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "Pretty Heart",
+        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+      "duration_ms": 244797,
+      "name": "Pretty Heart",
+      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
     },
     {
       "added_at": "2024-02-16 16:29:52",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-02-16 16:29:52",
       "album": {
-        "name": "Pretty Heart",
-        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 244797,
-      "name": "Pretty Heart",
-      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2024-02-16 16:29:52",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-02-16 16:29:52",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
-    },
-    {
-      "added_at": "2024-02-16 16:29:52",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 217807,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
+    },
+    {
+      "added_at": "2024-02-16 16:29:52",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
     },
     {
       "added_at": "2024-02-16 16:29:52",

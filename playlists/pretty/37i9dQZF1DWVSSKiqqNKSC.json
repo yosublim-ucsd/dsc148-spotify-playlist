@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 242403,
+  "num_followers": 242424,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 240026,
       "name": "Traidora (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     },
     {
       "added_at": "2024-03-19 14:46:33",

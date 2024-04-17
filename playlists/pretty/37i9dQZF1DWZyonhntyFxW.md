@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > قلت بيقلدوا لكني بغييييييييظ\. غلاف: زياد ظاظا
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,601 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,665 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

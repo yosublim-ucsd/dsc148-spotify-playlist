@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 180780,
+  "2024-04-17": 180828,
   "date_first_scraped": "2022-05-11",
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
   "name": "Oblique",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 232750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM"
@@ -1906,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "The Sunset Violent",
+        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277285,
+      "name": "Fishbrain",
+      "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
+    },
+    {
+      "album": {
         "name": "Fix Me",
         "url": "https://open.spotify.com/album/5PFGLj8Y6EoBePtUmWMAuI"
       },
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 241644,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/350Zs0oV6JzBYOg2ZpVpwy"
@@ -3708,6 +3726,24 @@
     },
     {
       "album": {
+        "name": "Love in Constant Spectacle",
+        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257226,
+      "name": "Love in Constant Spectacle",
+      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
+      "album": {
         "name": "Lovegaze",
         "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
@@ -4783,7 +4819,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 221163,
       "name": "r(EMOTE)",
       "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"
@@ -6215,7 +6251,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 254683,
       "name": "The Oranges",
       "url": "https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX"
@@ -6465,7 +6501,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 130399,
       "name": "Thumbtack",
       "url": "https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R"
@@ -6873,6 +6909,24 @@
       "duration_ms": 314059,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
+    },
+    {
+      "album": {
+        "name": "Vallahi Yok / Kirik Cam",
+        "url": "https://open.spotify.com/album/5vItyofUlifKHKLabwy3hC"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/22TIuZCNYKuuXmkA4rIY0V"
     },
     {
       "album": {

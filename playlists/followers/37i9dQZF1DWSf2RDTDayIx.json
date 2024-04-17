@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 2357706,
+  "2024-04-17": 2358091,
   "date_first_scraped": "2021-12-21",
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
   "name": "Happy Beats",
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 149516,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
@@ -3901,7 +3901,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 161035,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"

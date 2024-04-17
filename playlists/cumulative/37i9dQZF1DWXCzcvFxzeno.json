@@ -1117,6 +1117,28 @@
     },
     {
       "album": {
+        "name": "OneSeventy: The Annual II",
+        "url": "https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev"
+      },
+      "artists": [
+        {
+          "name": "JTS",
+          "url": "https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no"
+        },
+        {
+          "name": "Technikore",
+          "url": "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164082,
+      "name": "Meet Her At The Love Parade - Mixed Cut",
+      "url": "https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R"
+    },
+    {
+      "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T"
       },
@@ -1278,7 +1300,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 349264,
       "name": "pkds",
       "url": "https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A"

@@ -2,7 +2,7 @@
 
 ### [Detective Conan 名探偵コナン](https://open.spotify.com/playlist/37i9dQZF1DX5UhvY4JBo1i)
 
-> Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2024 青山剛昌／名探偵コナン製作委員会
+> Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
 133 songs - 8 hr 37 min
 

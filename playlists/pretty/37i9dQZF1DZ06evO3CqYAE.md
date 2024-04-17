@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 ### [This Is Mercy Chinwo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE)
 
-> This is Mercy Chinwo\. The essential tracks, all in one playlist.
+> This is: Mercy Chinwo\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,906 likes - 48 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 48 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 47 | [Trust](https://open.spotify.com/track/3RZoiOu3Pae30Cm11y4hwt) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/0yedzr4B8mZkmcsugAuv2u) | 2:53 |
 | 48 | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2) | 5:56 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDMxYmMxZGQ2ZTQxN2MyZDY5OTY5ZGNlYjQ3ZTAyODdk`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJmYzRmMmM5NDkyYmNiMjEyYjhhN2YxYjVkNWU5Y2Qx`

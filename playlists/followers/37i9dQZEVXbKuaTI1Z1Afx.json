@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 366459,
+  "2024-04-17": 366242,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -2825,7 +2825,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 158016,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/2MRm76TO0j4VBbyPj6lodc"
@@ -5843,7 +5843,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
@@ -42547,7 +42547,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 190619,
       "name": "Tears In The River",
       "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
@@ -47199,6 +47199,24 @@
       "duration_ms": 220551,
       "name": "Vegas (I Wanna Ride)",
       "url": "https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5"
+    },
+    {
+      "album": {
+        "name": "Vegas - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1UipsejbT67IizPimBSxN3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181690,
+      "name": "Vegas - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID"
     },
     {
       "album": {

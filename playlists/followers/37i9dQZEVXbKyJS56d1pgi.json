@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 214898,
+  "2024-04-17": 214515,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Portugal.",
   "name": "Top 50 - Portugal",
@@ -4651,7 +4651,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 147820,
       "name": "Conclus\u00e3o",
       "url": "https://open.spotify.com/track/2KG3AM4Sfe11yEuzj79OKx"
@@ -6985,6 +6985,24 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "album": {
@@ -11393,7 +11411,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -20149,7 +20167,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 237679,
       "name": "Somos Iguais",
       "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
@@ -22531,7 +22549,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 121384,
       "name": "TUMB\u00c1TUM",
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
@@ -22899,7 +22917,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 ### [This Is Marcos Witt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EFRC0)
 
-> This Is Marcos Witt\. Los temas esenciales, todos en una lista.
+> This is: Marcos Witt\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,454 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,341 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 49 | [Damos honor a Ti feat.Danilo Montero](https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 8:01 |
 | 50 | [Cielo En La Tierra](https://open.spotify.com/track/6mq6N3kTJAZmzbLIQsnFWz) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 6:01 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDhhZjkyMTIzNzM0ZTA3ZTE3Nzc3MWFiODU1ZDI4YTUy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDg4ZjZkNDU3MDMzZGVjNTgxYzJiY2RjMjM2Y2NkZWE0`

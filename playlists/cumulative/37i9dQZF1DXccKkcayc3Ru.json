@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "\u6642\u9593",
+        "url": "https://open.spotify.com/album/7hhhZ2apbHb5XZj2sXY2FU"
+      },
+      "artists": [
+        {
+          "name": "betcover!!",
+          "url": "https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340543,
+      "name": "\u56de\u8ee2\u30fb\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/0cVaG276BeCnxIxf42puZ1"
+    },
+    {
+      "album": {
         "name": "\u6c34\u661f",
         "url": "https://open.spotify.com/album/0HN0p05E303NlGcdmwEVld"
       },

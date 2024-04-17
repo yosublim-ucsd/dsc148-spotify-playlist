@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 290740,
+  "num_followers": 290571,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -539,30 +539,6 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 244571,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 244571,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
     },
     {
       "added_at": "2024-04-12 03:03:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
         "name": "Carta Branca",
         "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 221653,
       "name": "Carta Branca",
       "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2024-04-12 03:03:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
         "name": "Um Pouco Mais",
         "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
@@ -931,6 +911,50 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
+        "name": "ESPANHA",
+        "url": "https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "DH",
+          "url": "https://open.spotify.com/artist/5aDGIEuKdKB7k4XvilmVCe"
+        }
+      ],
+      "duration_ms": 210309,
+      "name": "ESPANHA",
+      "url": "https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-04-12 03:03:00",
@@ -1067,6 +1091,26 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
         "name": "Inverso Deluxe",
         "url": "https://open.spotify.com/album/3nFMC9ymV5tTd0AWBL5XJT"
       },
@@ -1095,50 +1139,6 @@
       "duration_ms": 127631,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/5HRh0H2ysMXXMwupxIYlzu"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
-        "name": "ESPANHA",
-        "url": "https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV"
-      },
-      "artists": [
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "DH",
-          "url": "https://open.spotify.com/artist/5aDGIEuKdKB7k4XvilmVCe"
-        }
-      ],
-      "duration_ms": 210309,
-      "name": "ESPANHA",
-      "url": "https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO"
     },
     {
       "added_at": "2024-04-12 03:03:00",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
+        "name": "Malandra Treinada",
+        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Malandra Treinada",
+      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1511,30 +1535,6 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
-        "name": "Malandra Treinada",
-        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Malandra Treinada",
-      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
     },
     {
       "added_at": "2024-04-12 03:03:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
         "name": "Risco de se Apaixonar",
         "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 181647,
       "name": "T\u00e1 Fod*",
       "url": "https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2024-04-12 03:03:00",
@@ -1832,7 +1832,7 @@
           "url": "https://open.spotify.com/artist/4YmwzlFlJp7BgIHQ5PU7jU"
         }
       ],
-      "duration_ms": 221501,
+      "duration_ms": 220988,
       "name": "Manh\u00e3zinha",
       "url": "https://open.spotify.com/track/12V3vic05JMryErPldrm1j"
     }

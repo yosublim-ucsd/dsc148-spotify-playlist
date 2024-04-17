@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 > Check out an exclusive voice message + related artist's tracks before the anime release date\. いよいよ4月13日放送。限定ボイスや作品世界を彩るアーティストたちの名曲を聴いて気分を高めよう！©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604 likes - 26 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,672 likes - 26 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 | 25 | [声よ](https://open.spotify.com/track/5AFWDMRc4mviyw9aqNm8fu) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [声よ](https://open.spotify.com/album/4t7FG8EKAxprkrn8q5zcXX) | 4:22 |
 | 26 | [Scorching the Facade](https://open.spotify.com/track/37kK5OaohLmZEz4Vm6gsVN) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:44 |
 
-Snapshot ID: `MTcxMzAyMDQwMCwwMDAwMDAwMDVkMzMwNDI5YjA4YzgwNTcwZGU3MGRmNTAzYmQyM2Q0`
+Snapshot ID: `MTcxMzIzNTMwNSwwMDAwMDAwMDE4NTkwOTIzN2RmY2QxMjViMzZiODBkODcwZGIyNGFi`

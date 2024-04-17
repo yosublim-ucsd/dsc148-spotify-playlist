@@ -1,12 +1,12 @@
 {
   "description": "With Bryson Tiller, Sonder, Summer Walker and more",
-  "num_followers": 39200,
+  "num_followers": 39235,
   "original_name": "PARTYNEXTDOOR Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzIzNTY2NCwwMDAwMDAwMGE4N2RlMzA4MmExZGVkMmU5NzFhMzQwNjExYmVhYmY2",
+  "snapshot_id": "MTcxMzMyMjMyMSwwMDAwMDAwMDA3YjYzMzBiMTI5NzgyM2QyNDM5NzQ0NjM0NWI4OTY0",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 198010,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/7mWtOqfkOCbaldtK6TEoVd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It'll Be Fine",
         "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
       },
@@ -72,77 +56,9 @@
           "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         }
       ],
-      "duration_ms": 187723,
-      "name": "honda civic '98",
-      "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "That's Why I Love You",
-      "url": "https://open.spotify.com/track/1826XXl1rbdbhFk5xdnXNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MIDNIGHT MOTIONS",
-        "url": "https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX"
-      },
-      "artists": [
-        {
-          "name": "Nobu Woods",
-          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
-        }
-      ],
-      "duration_ms": 203314,
-      "name": "TOO INVOLVED",
-      "url": "https://open.spotify.com/track/3dALymn5Yv4ZJoQtMP0c4G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRU - LP",
-        "url": "https://open.spotify.com/album/091JnKYEdqWQ6tyEbCgAEV"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Tru",
-      "url": "https://open.spotify.com/track/058gdiBln6OADguG08GOaU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+      "duration_ms": 194033,
+      "name": "want me",
+      "url": "https://open.spotify.com/track/0hZq8VE52aJJtLUWajO54w"
     },
     {
       "added_at": null,
@@ -156,25 +72,9 @@
           "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 291448,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It'll Be Fine",
-        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "too far close",
-      "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
+      "duration_ms": 198010,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7mWtOqfkOCbaldtK6TEoVd"
     },
     {
       "added_at": null,
@@ -199,18 +99,138 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLORIDA BABY",
-        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
+        "name": "MIDNIGHT MOTIONS",
+        "url": "https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
         }
       ],
-      "duration_ms": 140606,
-      "name": "FLORIDA BABY",
-      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
+      "duration_ms": 203314,
+      "name": "TOO INVOLVED",
+      "url": "https://open.spotify.com/track/3dALymn5Yv4ZJoQtMP0c4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 187723,
+      "name": "honda civic '98",
+      "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 264242,
+      "name": "Searchin",
+      "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "That's Why I Love You",
+      "url": "https://open.spotify.com/track/1826XXl1rbdbhFk5xdnXNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRU - LP",
+        "url": "https://open.spotify.com/album/091JnKYEdqWQ6tyEbCgAEV"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Tru",
+      "url": "https://open.spotify.com/track/058gdiBln6OADguG08GOaU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 212992,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
     },
     {
       "added_at": null,
@@ -227,6 +247,150 @@
       "duration_ms": 185522,
       "name": "Loose",
       "url": "https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 55048,
+      "name": "i don't wanna fall in love, it's too late now",
+      "url": "https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 291448,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HNDRXX",
+        "url": "https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 265996,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLORIDA BABY",
+        "url": "https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 140606,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "sdp interlude",
+      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "too far close",
+      "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 164488,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
       "added_at": null,
@@ -251,162 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+        "name": "No Fuss",
+        "url": "https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 264242,
-      "name": "Searchin",
-      "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It'll Be Fine",
-        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
-      },
-      "artists": [
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 194033,
-      "name": "want me",
-      "url": "https://open.spotify.com/track/0hZq8VE52aJJtLUWajO54w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 82508,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HNDRXX",
-        "url": "https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 265996,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 164488,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It'll Be Fine",
-        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 55048,
-      "name": "i don't wanna fall in love, it's too late now",
-      "url": "https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 212992,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "PUFFIN ON ZOOTIEZ",
-      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+      "duration_ms": 190111,
+      "name": "No Fuss",
+      "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
     },
     {
       "added_at": null,
@@ -431,6 +455,58 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eric B for President: Term 1",
+        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 178587,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "PUFFIN ON ZOOTIEZ",
+      "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 194159,
+      "name": "Moment Of Your Life (feat. Coco Jones)",
+      "url": "https://open.spotify.com/track/4mYSL3RDHto3rcl7I57ndv"
     },
     {
       "added_at": null,
@@ -475,98 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric B for President: Term 1",
-        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 178587,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 194159,
-      "name": "Moment Of Your Life (feat. Coco Jones)",
-      "url": "https://open.spotify.com/track/4mYSL3RDHto3rcl7I57ndv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Fuss",
-        "url": "https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA"
-      },
-      "artists": [
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 190111,
-      "name": "No Fuss",
-      "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 154531,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0b83L1ToHRiwlpmUAjiCHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "after.",
         "url": "https://open.spotify.com/album/2lCHh2ojc3iRYCh2qX3bYS"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Souled Out (Deluxe)",
         "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
       },
@@ -619,6 +587,58 @@
       "duration_ms": 217026,
       "name": "Blue Dream",
       "url": "https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 154531,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0b83L1ToHRiwlpmUAjiCHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MIDNIGHT MOTIONS",
+        "url": "https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX"
+      },
+      "artists": [
+        {
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "COME READY",
+      "url": "https://open.spotify.com/track/4OJbsRTKxm85fOXD4DiiUr"
     },
     {
       "added_at": null,
@@ -639,74 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 206429,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 228602,
-      "name": "fue mejor",
-      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Wednesday Night Interlude",
-      "url": "https://open.spotify.com/track/6oLHyWvmk6bKrA91EIYZBp"
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": null,
@@ -723,6 +687,26 @@
       "duration_ms": 236160,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Planez",
+      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
     },
     {
       "added_at": null,
@@ -759,18 +743,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIDNIGHT MOTIONS",
-        "url": "https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX"
+        "name": "Only Way Is Up (Deluxe)",
+        "url": "https://open.spotify.com/album/7lrsfwcRiLCeWFM3u38DzB"
       },
       "artists": [
         {
-          "name": "Nobu Woods",
-          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
         }
       ],
-      "duration_ms": 202285,
-      "name": "COME READY",
-      "url": "https://open.spotify.com/track/4OJbsRTKxm85fOXD4DiiUr"
+      "duration_ms": 211573,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/2BqQQXuBOuhaWeUP7okEx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 228602,
+      "name": "fue mejor",
+      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "living room flow - Bonus",
+      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
     },
     {
       "added_at": null,
@@ -795,54 +831,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 268813,
-      "name": "Pink Matter",
-      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "living room flow - Bonus",
-      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only Way Is Up (Deluxe)",
-        "url": "https://open.spotify.com/album/7lrsfwcRiLCeWFM3u38DzB"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/2BqQQXuBOuhaWeUP7okEx0"
+      "duration_ms": 212280,
+      "name": "Wednesday Night Interlude",
+      "url": "https://open.spotify.com/track/6oLHyWvmk6bKrA91EIYZBp"
     },
     {
       "added_at": null,
@@ -859,22 +879,6 @@
       "duration_ms": 169319,
       "name": "Wild Irish Roses",
       "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     }
   ],
   "unique_name": "PARTYNEXTDOOR Radio",

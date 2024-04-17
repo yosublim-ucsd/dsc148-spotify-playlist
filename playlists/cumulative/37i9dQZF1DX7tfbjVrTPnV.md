@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-271 songs - 17 hr 21 min
+272 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 | 2021-11-11 |  |
 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 | 2021-11-11 |  |
 | [Grave Angels](https://open.spotify.com/track/0K40ThmS9MtWOSXDdLhK9e) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/661leSKXPxGy6C9u6T6K9k) | 5:31 | 2021-11-11 | 2022-07-27 |
-| [Grave Angels](https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy) | 5:31 | 2023-08-11 |  |
+| [Grave Angels](https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy) | 5:31 | 2023-08-11 | 2024-04-17 |
 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 | 2023-07-14 | 2023-08-14 |
 | [Hanging up My Heart](https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Old Yellow Moon](https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE) | 2:52 | 2021-11-11 |  |
 | [Hard to Be an Outlaw \(feat\. Willie Nelson\)](https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Long in the Tooth](https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J) | 3:06 | 2021-11-11 |  |
@@ -278,6 +278,7 @@
 | [You're Everything](https://open.spotify.com/track/79kWhk3zteh2VBEkrfEQWC) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/0Ac7RpnKTizp6t1iAOOpuH) | 6:05 | 2021-11-11 | 2022-07-29 |
 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2021-11-11 |  |
 | [You're The Best Lover That I Ever Had](https://open.spotify.com/track/0sZCKErsJecflazB5nKDB1) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Terraplane](https://open.spotify.com/album/6sY8vPPVhcRnwCL28wFG5h) | 4:07 | 2021-11-11 | 2022-07-29 |
+| [You’re the Best Lover That I Ever Had](https://open.spotify.com/track/1fQbv8iEZCAkBnkyl5iT1D) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Terraplane](https://open.spotify.com/album/59Ar08W7GruMfnnznAF9Sq) | 4:07 | 2023-08-11 |  |
 | [You’re the Best Lover That I Ever Had](https://open.spotify.com/track/6zvGluRPhlmtPsK8nPtgCK) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Terraplane](https://open.spotify.com/album/3JPaRHvPKF0iu7L9bTjJy4) | 4:07 | 2022-04-22 | 2024-04-13 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

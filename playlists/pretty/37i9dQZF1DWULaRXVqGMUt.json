@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 48572,
+  "num_followers": 48610,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Boogie Woogie & Blues",
         "url": "https://open.spotify.com/album/4YrU3QBn4Gcf5OkLbTM5jk"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 128440,
       "name": "Boogie-Woogie Man",
       "url": "https://open.spotify.com/track/0C9052f6xUxR4EDOjAJclV"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Rum and Coke",
-        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "501 Boogie",
-      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Rum and Coke",
+        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "501 Boogie",
+      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Stomp",
-        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
-      },
-      "artists": [
-        {
-          "name": "Bob Seeley",
-          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
-        },
-        {
-          "name": "Bob Baldori",
-          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
-        }
-      ],
-      "duration_ms": 287190,
-      "name": "Boogie Stomp",
-      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "So Swell",
         "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Motel Swing",
-        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+        "name": "Boogie Stomp",
+        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
       "artists": [
         {
-          "name": "Sue Palmer",
-          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+          "name": "Bob Seeley",
+          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
+        },
+        {
+          "name": "Bob Baldori",
+          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
         }
       ],
-      "duration_ms": 123626,
-      "name": "Sue's Boogie",
-      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+      "duration_ms": 287190,
+      "name": "Boogie Stomp",
+      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -791,6 +775,22 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Motel Swing",
+        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+      },
+      "artists": [
+        {
+          "name": "Sue Palmer",
+          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+        }
+      ],
+      "duration_ms": 123626,
+      "name": "Sue's Boogie",
+      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "The Boogie Woogie Trio vol. 1",
         "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Bobby Robinson Story Volume One",
-        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Shake Baby Shake",
-      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 183800,
       "name": "Barrelhouse Boogie",
       "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "The Bobby Robinson Story Volume One",
+        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 145278,
+      "name": "Shake Baby Shake",
+      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Hightower Boogie Woogie",
-        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
+        "name": "Chicken Shack Boogie",
+        "url": "https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ"
       },
       "artists": [
         {
-          "name": "Floyd Domino",
-          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Count Basie's Red Bank Cafe",
-      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+      "duration_ms": 165408,
+      "name": "Let Me Go Home, Whiskey",
+      "url": "https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Chicken Shack Boogie",
-        "url": "https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ"
+        "name": "Hightower Boogie Woogie",
+        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Floyd Domino",
+          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
         }
       ],
-      "duration_ms": 165408,
-      "name": "Let Me Go Home, Whiskey",
-      "url": "https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm"
+      "duration_ms": 159666,
+      "name": "Count Basie's Red Bank Cafe",
+      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
     },
     {
       "added_at": "2023-09-15 11:42:58",

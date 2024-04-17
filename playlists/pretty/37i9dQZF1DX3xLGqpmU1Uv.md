@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,119 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,998 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 9 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920) | 2:22 |
 | 10 | [Significas Todo Para Mi](https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:41 |
 | 11 | [Melodía de Amor](https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:26 |
-| 12 | [Adiós a Jamaica \(Jamaica Farewell\)](https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:13 |
-| 13 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 |
+| 12 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 |
+| 13 | [Adiós a Jamaica \(Jamaica Farewell\)](https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:13 |
 | 14 | [Despeinada](https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:55 |
 | 15 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 16 | [La Novia de Mi Mejor Amigo \(The Girl of My Best Friend\)](https://open.spotify.com/track/41GiXurY9UN1dU3erI1D4c) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:23 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 37 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:50 |
 | 38 | [Nena Baila Twist](https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf) | [Los Freneticos Del Ritmo](https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287) | [Ritmo Frenético](https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD) | 2:09 |
 | 39 | [Nena Loca](https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:36 |
-| 40 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
-| 41 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
+| 40 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
+| 41 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
 | 42 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
 | 43 | [Jamaica Ska](https://open.spotify.com/track/1IdVAyXiFXw6b5aE2oZMN7) | [Los Yorsy's](https://open.spotify.com/artist/4JwFfxpE8gRIvfwofhxus2) | [Jamaica Ska](https://open.spotify.com/album/4HMH3PhhAuUz0Lt3KorOgu) | 2:11 |
 | 44 | [Cenicienta](https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:32 |

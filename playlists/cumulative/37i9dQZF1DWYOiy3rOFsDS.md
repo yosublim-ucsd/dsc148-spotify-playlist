@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Daniela Romo y Fabiola Roudha en portada.
 
-273 songs - 16 hr 3 min
+274 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 | 2021-10-16 |  |
 | [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 | 2021-10-16 | 2022-11-02 |
 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 | 2021-10-16 | 2023-03-18 |
-| [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 | 2021-10-16 |  |
+| [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 | 2021-10-16 | 2024-04-17 |
 | [Justo Así](https://open.spotify.com/track/3jxQbsFWh5MfsqPq30K0Hc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Justo Así](https://open.spotify.com/album/0ysUSiAtXzU2vrYxy0HDIk) | 2:23 | 2024-03-22 |  |
 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 | 2022-03-18 |  |
 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 | 2022-10-28 |  |
@@ -219,6 +219,7 @@
 | [Sabor a Mi](https://open.spotify.com/track/6Ghqj5i94yxy3uSAnpQljL) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS) | 3:17 | 2021-10-16 | 2022-07-29 |
 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 | 2021-10-16 |  |
 | [Salvavidas](https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Salvavidas](https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX) | 2:52 | 2021-10-16 | 2023-05-04 |
+| [Saudade \- Acústica](https://open.spotify.com/track/2BKj0Pf4phfcBRtoglzINN) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx) | [Saudade \(Acústica\)](https://open.spotify.com/album/6xDivDPrVwD7W7VymeNFQS) | 4:56 | 2024-04-12 |  |
 | [Saudade \- Acústica](https://open.spotify.com/track/5dhNc7vLnc3nQGyZRDAAl6) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx) | [Saudade \(Acústica\)](https://open.spotify.com/album/377XRcQ64pFZEyoRtJfPlT) | 4:56 | 2021-10-16 | 2022-07-26 |
 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 | 2021-10-16 | 2024-04-07 |
 | [Secreto de Amor](https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:53 | 2021-10-16 |  |

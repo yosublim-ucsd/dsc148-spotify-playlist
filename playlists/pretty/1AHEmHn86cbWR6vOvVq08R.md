@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1AHEmHn86cbWR6vOvVq08R.md) - [plain]
 
 > Over 6 hours of Alternative &amp; Rock anthems from the 90's including Blink 182, Offspring and more! Cover: Nirvana
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,718 likes - 100 songs - 6 hr 52 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,716 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/1AHEmHn86cbWR6vOvVq08R.md) - [plain]
 | 89 | [Lightning Crashes](https://open.spotify.com/track/3ZpNf9m7vwY4Gjruh4XBDa) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper \(25th Anniversary\)](https://open.spotify.com/album/4x3WRtf82yJsYauSpBcMFj) | 5:24 |
 | 90 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 |
 | 91 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
-| 92 | [So What'Cha Want \- Remastered 2009](https://open.spotify.com/track/0gmGBCJ5XhOmoNR37MmxEE) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Check Your Head \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/7CSP7J60QKIBCqOV64qILq) | 3:36 |
+| 92 | [So What'Cha Want \- Remastered 2009](https://open.spotify.com/track/0gmGBCJ5XhOmoNR37MmxEE) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Check Your Head \(Deluxe Edition/Remastered/2009\)](https://open.spotify.com/album/7CSP7J60QKIBCqOV64qILq) | 3:36 |
 | 93 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 |
 | 94 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 95 | [Spiderwebs](https://open.spotify.com/track/5ZcmP16SFTTgHT7WyZYWNQ) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:26 |

@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-144 songs - 8 hr 33 min
+145 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Care 4 U](https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Care 4 U](https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE) | 4:33 | 2024-03-01 |  |
 | [Clay](https://open.spotify.com/track/45eOx1vmwSTY7mRK7wCC08) | [Dampé](https://open.spotify.com/artist/4NvFxGMQzU0xJjAEMR5R9i) | [Clay](https://open.spotify.com/album/0CmOmXMgJWIDgxAwi9zmUd) | 5:04 | 2023-03-23 | 2023-10-09 |
 | [Closer \(Higgo Remix\)](https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Closer \(Higgo Remix\)](https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb) | 2:15 | 2022-11-25 | 2024-02-23 |
+| [Closer \- Demuja Remix](https://open.spotify.com/track/24zUiEtz0CVKe47Om9BJLA) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [Carole Sylvan](https://open.spotify.com/artist/3mNSkNn2TgentVDRuoS729), [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Closer \(Demuja Remix\)](https://open.spotify.com/album/2l9XlXUuy5Et0t4rHiAbEo) | 3:56 | 2024-04-12 |  |
 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 | 2024-02-09 |  |
 | [Crash & Burn](https://open.spotify.com/track/77dgMoc13kJWFKt7fvWtTd) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:36 | 2023-09-01 | 2023-10-15 |
 | [Crazy](https://open.spotify.com/track/0SOWbNlPwGqO4uO6YP5spS) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Crazy](https://open.spotify.com/album/75JBBBbv7mgBvp6q8z0idD) | 4:03 | 2022-11-25 | 2023-08-17 |
@@ -96,7 +97,7 @@
 | [More To Give](https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [More To Give](https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5) | 2:32 | 2022-11-25 | 2024-01-04 |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-10-06 |  |
 | [Mr\. Sandman](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Mr\. Sandman](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 | 2024-01-26 |  |
-| [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 | 2024-02-09 |  |
+| [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 | 2024-02-09 | 2024-04-17 |
 | [Needle On The Record \- 4am Mix](https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record \(4am Mix\)](https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW) | 2:58 | 2024-01-26 |  |
 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 | 2023-06-08 |  |
 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 | 2022-11-25 | 2023-09-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,791 likes - 132 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,843 likes - 132 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 110 | [I'm Afraid the Masquerade Is Over](https://open.spotify.com/track/6mXID0DbyA7qBZVLPZ1yXg) | [Jennifer Leitham](https://open.spotify.com/artist/0mmZkzRQaoA1sn7iB8XvbB) | [Mood\(S\)wings](https://open.spotify.com/album/4XiJAy1fNIsCdbwpvVofBK) | 7:25 |
 | 111 | [Stand by me](https://open.spotify.com/track/2muiX4tWrBQP8lqyntgKaB) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy), [Jacob Sureda](https://open.spotify.com/artist/3gE03pCkb7C12o6c4BNX8u) | [Mestizüo](https://open.spotify.com/album/6a0PDaf3EreMYF04InjuVg) | 7:22 |
 | 112 | [Slow Loris](https://open.spotify.com/track/5BuiyW6PabP5e6Us6EfgUu) | [Dinosaur](https://open.spotify.com/artist/6SmZi1l1V08Xya4YqJf8WB) | [To The Earth](https://open.spotify.com/album/4zJ7oNUcSFqpwKrsdqMFLM) | 7:25 |
-| 113 | [Everything Happens to Me](https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23) | 3:47 |
+| 113 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 |
 | 114 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 115 | [Still](https://open.spotify.com/track/40M2UuFiZujtoCeqLXdXjD) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Still](https://open.spotify.com/album/6BtP6eE1CCGjrJIHZczis1) | 3:47 |
 | 116 | [The Sound of Silence](https://open.spotify.com/track/2edcrXwukRbhYa5NuM6MT1) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [The Sound Of Silence](https://open.spotify.com/album/2Bny0aown7avMvSdGJC07u) | 3:01 |

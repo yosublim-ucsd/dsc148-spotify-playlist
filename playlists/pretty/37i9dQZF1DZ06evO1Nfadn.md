@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 ### [This Is Banda Maguey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Nfadn)
 
-> This Is Banda Maguey\. Los temas esenciales, todos en una lista.
+> This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,237 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,242 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Alma de Acero](https://open.spotify.com/track/4t6sb6BrGJXzjit9bdFrBO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 2:23 |
 | 50 | [Corazón Corazoncito](https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:22 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGVmYmI4MTg5MGE1N2Q1N2Y5ZTUwZmMxNWM2NzA4Yjg3`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDlkOTU5ZTBiMDEzYTBmZDk5MDlkZWY1OTdlMmRkNjg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Wyatt Flores and Evan Honer
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,413 likes - 98 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,310 likes - 98 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

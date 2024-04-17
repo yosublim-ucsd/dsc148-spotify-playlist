@@ -2,7 +2,7 @@
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
-> This Is Chuck Berry\. Los temas esenciales, todos en una lista.
+> This is Chuck Berry\. The essential tracks, all in one playlist.
 
 113 songs - 5 hr 4 min
 

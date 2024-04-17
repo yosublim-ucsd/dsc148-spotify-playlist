@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Benson Boone
 
-696 songs - 1 day 14 hr 23 min
+697 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [almost happy](https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [almost happy](https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K) | 2:17 | 2022-11-18 | 2023-09-30 |
 | [Almost Loved You](https://open.spotify.com/track/1gCIGVbF00N5toEK0TEmWr) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [part one](https://open.spotify.com/album/7mMRGWSoqwWWwQzCI2eMqh) | 3:40 | 2023-02-03 | 2023-02-11 |
 | [Alone](https://open.spotify.com/track/1sYEmRdY9jBL4SKnQKd74m) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:36 | 2024-03-15 | 2024-03-30 |
-| [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 | 2023-04-11 |  |
+| [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 | 2023-04-11 | 2024-04-17 |
 | [Always Almost](https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Always Almost](https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM) | 3:22 | 2022-03-18 | 2022-05-18 |
 | [Always Love](https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Always Love](https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba) | 3:20 | 2022-10-28 | 2023-02-04 |
 | [amnesia](https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [amnesia](https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH) | 2:52 | 2022-10-28 | 2023-09-26 |
@@ -116,6 +116,7 @@
 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 | 2023-03-10 |  |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 | 2023-05-27 |
 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 | 2023-11-20 | 2023-12-30 |
+| [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 | 2024-01-12 |  |
 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2023-10-27 | 2024-03-19 |
 | [cold feet](https://open.spotify.com/track/7lHd4eqgPeDMMmcinSTfQF) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [cold feet](https://open.spotify.com/album/0eZLBuwE1gXZ7gXVa6h70G) | 2:52 | 2022-01-21 | 2022-03-11 |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-12 | 2022-10-15 |

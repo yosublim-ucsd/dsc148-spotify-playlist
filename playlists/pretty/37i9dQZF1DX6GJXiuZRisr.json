@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1552105,
+  "num_followers": 1551013,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Fall Again",
-        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
-      },
-      "artists": [
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Nothing Ever Changes",
         "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
+      },
+      "artists": [
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 206794,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Made Of Gold",
-        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Made Of Gold",
-      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/2Is9HWB1MtmHQUFkDIOGFt"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 217500,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/4dmFo5VmijuePqQqgHvLHa"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Made Of Gold",
+        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Made Of Gold",
+      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 240316,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
@@ -1567,26 +1587,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Enter",
-        "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 240316,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Freyja",
         "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 229959,
       "name": "Freyja",
       "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Out Of Context",
+        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "Out Of Context",
+      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Out Of Context",
-        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "Out Of Context",
-      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "All That I Lost",
         "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
@@ -1651,26 +1651,6 @@
       "duration_ms": 259838,
       "name": "All That I Lost",
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Chains (feat. Daya)",
-        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 199692,
-      "name": "Chains (feat. Daya)",
-      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1691,6 +1671,26 @@
       "duration_ms": 335409,
       "name": "The Little Mushroom That Got Away",
       "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Chains (feat. Daya)",
+        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 199692,
+      "name": "Chains (feat. Daya)",
+      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Midnight / Equal",
-        "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "Alison May",
-          "url": "https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 161904,
       "name": "Not Over Yet (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Midnight / Equal",
+        "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Alison May",
+          "url": "https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
     },
     {
       "added_at": "2024-04-12 04:00:00",

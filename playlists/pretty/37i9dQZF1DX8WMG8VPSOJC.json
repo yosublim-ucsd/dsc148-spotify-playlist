@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1713686,
+  "num_followers": 1712446,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Dylan Scott (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 197640,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Love,Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Big, Big Plans",
         "url": "https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 187306,
       "name": "Big, Big Plans",
       "url": "https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -967,22 +967,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/0s1A44tg1Y21SLHDylmugR"
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Happy Anywhere (feat. Gwen Stefani)",
-      "url": "https://open.spotify.com/track/6LVzOLJkzG3C4hLNOdaBry"
+      "duration_ms": 195053,
+      "name": "Best Shot",
+      "url": "https://open.spotify.com/track/3eDNb3ZG3gKgjAAgJBcOL8"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Mercury Lane",
-        "url": "https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/0s1A44tg1Y21SLHDylmugR"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Best Shot",
-      "url": "https://open.spotify.com/track/3eDNb3ZG3gKgjAAgJBcOL8"
+      "duration_ms": 171026,
+      "name": "Happy Anywhere (feat. Gwen Stefani)",
+      "url": "https://open.spotify.com/track/6LVzOLJkzG3C4hLNOdaBry"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "American Saturday Night",
-        "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 321640,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "It Takes A Woman",
-        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+        "name": "American Saturday Night",
+        "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 246986,
-      "name": "It Takes A Woman",
-      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+      "duration_ms": 321640,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Forever To Me",
+        "url": "https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Forever To Me",
+      "url": "https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Nothing To Do Town",
         "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 230013,
       "name": "Born to Love You",
       "url": "https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Love You Like I Used To",
-        "url": "https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Love You Like I Used To",
-      "url": "https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej"
     }
   ],
   "unique_name": "Country Kind of Love",

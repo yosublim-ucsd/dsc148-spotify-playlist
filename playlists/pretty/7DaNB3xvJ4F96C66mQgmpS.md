@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 88,108 likes - 67 songs - 3 hr 16 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 88,091 likes - 67 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 66 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 |
 | 67 | [Pure Cocaine](https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 2:34 |
 
-Snapshot ID: `MTkzNSwwY2IxYjViZDU3YWNmZGU0NjQxNmE5YjA1ZWQyMWJhYTlhNDkxYzNh`
+Snapshot ID: `MTkzOCxiMGZjMDVjY2NjYmFjZGY1ZmY5NmFhYWYzZDI2NzcxZmZlYmM5ZGE0`

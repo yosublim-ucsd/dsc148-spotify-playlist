@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,965 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,964 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 36 | [Merry Christmas All \(Tom Moulton Remix\) \(2022 \- Remaster\)](https://open.spotify.com/track/61CwMSqjU3SZt9j9m7MiWF) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies \(Tom Moulton Remix;2022 \- Remaster\)](https://open.spotify.com/album/2nEDg0fIQFVbPCcuSNDBpK) | 3:16 |
 | 37 | [The Wonderful World of Christmas](https://open.spotify.com/track/0Fp3B6lKPXjy5QNKBMghgf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:00 |
 | 38 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 |
-| 39 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
-| 40 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Christmas Album](https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH) | 3:08 |
+| 39 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Christmas Album](https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH) | 3:08 |
+| 40 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
 | 41 | [Angels We Have Heard On High](https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:25 |
 | 42 | [Listen, The Snow Is Falling](https://open.spotify.com/track/0CNRErTWnDGVWnRUhPMaZf) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Losst And Founnd](https://open.spotify.com/album/6B446h8aVE0zi9NcIHu1CG) | 4:00 |
 | 43 | [Home for Christmas](https://open.spotify.com/track/1A61cJRd7Z78OPAKBq0OJy) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Home for Christmas](https://open.spotify.com/album/2zctWsSDRj6fZgQnxr9ktX) | 5:09 |
 | 44 | [O Holy Night](https://open.spotify.com/track/5fwRLFKs4loRZ0r4BUcaLd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Feels Like Christmas](https://open.spotify.com/album/4MThObrjfbwqQuvQU5bu9U) | 3:44 |
 | 45 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
 | 46 | [Go Tell It On the Mountain](https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Christmas Cafe](https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ) | 2:03 |
-| 47 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:27 |
+| 47 | [Winter Wonderland](https://open.spotify.com/track/1CWty9bY93QlGMDCv77XOa) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday Harmony](https://open.spotify.com/album/1z6AYmWP9niaVmA3AyUNpN) | 3:16 |
 | 48 | [My Grown\-Up Christmas List](https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:14 |
-| 49 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
-| 50 | [Winter Wonderland](https://open.spotify.com/track/1CWty9bY93QlGMDCv77XOa) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday Harmony](https://open.spotify.com/album/1z6AYmWP9niaVmA3AyUNpN) | 3:16 |
+| 49 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:27 |
+| 50 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
 
 Snapshot ID: `MTY4NjkxOTcyMCwwMDAwMDAwMDNmNTY2NjI2NWI1MzRjOGY5NDg5YTJiYmY0OWU1YzE0`

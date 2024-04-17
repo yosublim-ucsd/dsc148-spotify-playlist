@@ -1,6 +1,6 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 412662,
+  "num_followers": 412250,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "100 Mili",
         "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 142153,
       "name": "100 Mili",
       "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Malvatrem",
-        "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
       "artists": [
         {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Aguida Beats",
-          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 154211,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
       },
       "artists": [
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
         },
         {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+          "name": "Aguida Beats",
+          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
         }
       ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
+      "duration_ms": 154211,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "convoca (Prod. Maikinho)",
-      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Contrai",
         "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
       },
@@ -1527,6 +1511,38 @@
       "duration_ms": 180008,
       "name": "Contrai",
       "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "convoca (Prod. Maikinho)",
+      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "V\u00eanus",
+      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 183673,
       "name": "Santana Amarelo",
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "V\u00eanus",
-        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "V\u00eanus",
-      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
     },
     {
       "added_at": "2023-10-05 08:00:00",

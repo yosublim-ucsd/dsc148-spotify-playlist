@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 6217,
+  "num_followers": 6238,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Se Va",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Vente",
         "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 182891,
       "name": "Vente",
       "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Se Va",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
-        }
-      ],
-      "duration_ms": 153875,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Tranquilao",
         "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 197419,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "duration_ms": 153875,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Catuca",
         "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 180014,
       "name": "Senta Relaxa",
       "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1499,34 +1499,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Bautista",
-          "url": "https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1"
-        },
-        {
-          "name": "Minow",
-          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
-        },
-        {
-          "name": "Gabsy",
-          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4"
       },
@@ -1555,6 +1527,34 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Bautista",
+          "url": "https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1"
+        },
+        {
+          "name": "Minow",
+          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
+        },
+        {
+          "name": "Gabsy",
+          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Ay",
         "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
       },
@@ -1567,6 +1567,26 @@
       "duration_ms": 246027,
       "name": "Ay",
       "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1595,22 +1615,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+        "name": "Tocate",
+        "url": "https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J"
       },
       "artists": [
         {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
         },
         {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
         }
       ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+      "duration_ms": 190393,
+      "name": "Tocate",
+      "url": "https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1635,26 +1655,6 @@
       "duration_ms": 198214,
       "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
       "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Tocate",
-        "url": "https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J"
-      },
-      "artists": [
-        {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
-        },
-        {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
-        }
-      ],
-      "duration_ms": 190393,
-      "name": "Tocate",
-      "url": "https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Wimbo",
-        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
-      },
-      "artists": [
-        {
-          "name": "Miane",
-          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Wimbo",
-      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 170403,
       "name": "La Bulla",
       "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Wimbo",
+        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
+      },
+      "artists": [
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        }
+      ],
+      "duration_ms": 150488,
+      "name": "Wimbo",
+      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
     },
     {
       "added_at": "2024-04-12 04:00:00",

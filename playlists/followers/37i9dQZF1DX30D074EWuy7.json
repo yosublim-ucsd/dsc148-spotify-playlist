@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 28675,
+  "2024-04-17": 28689,
   "date_first_scraped": "2022-09-09",
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
   "name": "Jazz Italia",
@@ -325,6 +325,40 @@
       "duration_ms": 451400,
       "name": "Alabama Concerto: Blues For Christmas / Rufus Playboy / Grandma's Coffin / Blues For Christmas (Return) - Fourth Movement",
       "url": "https://open.spotify.com/track/5eJiWGyyWo2GaEXp970kvG"
+    },
+    {
+      "album": {
+        "name": "Alberoni",
+        "url": "https://open.spotify.com/album/7INUrjdmZqwvOSy5XEnlWJ"
+      },
+      "artists": [
+        {
+          "name": "Collettivo Immaginario",
+          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
+        },
+        {
+          "name": "Maylee Todd",
+          "url": "https://open.spotify.com/artist/1fJYXB9ZFQbNduuZX4jyFl"
+        },
+        {
+          "name": "Tommaso Cappellato",
+          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
+        },
+        {
+          "name": "Alberto Lincetto",
+          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
+        },
+        {
+          "name": "Nicol\u00f2 Masetto",
+          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191470,
+      "name": "Alberoni",
+      "url": "https://open.spotify.com/track/7zSJcdFnB978DrANtUj4vd"
     },
     {
       "album": {
@@ -942,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5BMmT4GCOsMzs5twzbR8ec"
+      },
+      "artists": [
+        {
+          "name": "Marco Pignataro's Dream Alliance",
+          "url": "https://open.spotify.com/artist/0oIiyWHkiX4kp0D0jB9Vo1"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/55uXIX2gUpgELEKQUWFcuh"
+    },
+    {
+      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -1395,6 +1447,36 @@
       "duration_ms": 133080,
       "name": "Buon Natale A Tutto Il Mondo",
       "url": "https://open.spotify.com/track/2OfQRQ1zb869sWW3JtqZFl"
+    },
+    {
+      "album": {
+        "name": "Blue Tone",
+        "url": "https://open.spotify.com/album/66Im7aVL9vF4ASHLcApwnA"
+      },
+      "artists": [
+        {
+          "name": "Italian West Side Big Band",
+          "url": "https://open.spotify.com/artist/4rwWSnv3M11bcy4Rill112"
+        },
+        {
+          "name": "Giancarlo Canini",
+          "url": "https://open.spotify.com/artist/3QkLN31vpRfVFdTU2MjPMV"
+        },
+        {
+          "name": "Marco Tiso",
+          "url": "https://open.spotify.com/artist/46fH34FDV88OksNuJvgkDA"
+        },
+        {
+          "name": "Aldo Bassi",
+          "url": "https://open.spotify.com/artist/3j0fG1wfFUOKaAqixoOc2T"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342366,
+      "name": "C for Chet",
+      "url": "https://open.spotify.com/track/36tNhF5UEEPVGCsrgQ3o8C"
     },
     {
       "album": {
@@ -5661,7 +5743,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
@@ -6283,7 +6365,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 222391,
       "name": "Movimento Astratto",
       "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
@@ -8315,7 +8397,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 362847,
       "name": "So What If I Fall?",
       "url": "https://open.spotify.com/track/1tdYWVavsDORS71hmA7Xux"

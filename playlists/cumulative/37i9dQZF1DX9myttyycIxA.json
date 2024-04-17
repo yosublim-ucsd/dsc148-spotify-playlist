@@ -18734,10 +18734,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 242965,
       "name": "Superior Mirage",
       "url": "https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh"
+    },
+    {
+      "album": {
+        "name": "Up On Gravity Hill",
+        "url": "https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242965,
+      "name": "Superior Mirage",
+      "url": "https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP"
     },
     {
       "album": {

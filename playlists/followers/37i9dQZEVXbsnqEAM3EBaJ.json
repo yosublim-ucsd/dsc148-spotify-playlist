@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 0,
+  "2024-04-17": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -3949,6 +3949,24 @@
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "album": {
+        "name": "Break The Circle (Live)",
+        "url": "https://open.spotify.com/album/761p5mMx5WlOe4bwRbHThH"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355356,
+      "name": "Children of the Sea - Live",
+      "url": "https://open.spotify.com/track/0JWY3fPpn0SkH8qaj1hL9c"
     },
     {
       "album": {
@@ -20480,6 +20498,24 @@
     },
     {
       "album": {
+        "name": "Sleepers / Translating The Name (Live)",
+        "url": "https://open.spotify.com/album/1YZ7UDGuD8tJdkkhXpChdU"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195836,
+      "name": "Sleepers - Live",
+      "url": "https://open.spotify.com/track/3qX7X05cW0SUaFGQ3842Lp"
+    },
+    {
+      "album": {
         "name": "Smoke On The Water (2024 Remix)",
         "url": "https://open.spotify.com/album/7HG3fjbZ0O7vDXiBkI9PIs"
       },
@@ -21319,7 +21355,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 256836,
       "name": "Stand Up and Shout - Live",
       "url": "https://open.spotify.com/track/0oSNdNu26dXIIoVnDH8MBz"
@@ -24685,7 +24721,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 226005,
       "name": "Translating The Name - Live",
       "url": "https://open.spotify.com/track/4XLbTgRVximzSiiUYxCtxW"

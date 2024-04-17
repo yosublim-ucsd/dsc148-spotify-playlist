@@ -1,6 +1,6 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1132263,
+  "num_followers": 1131860,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "This Modern Love",
-      "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. D4vd)",
       "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
     },
     {
       "added_at": "2024-02-09 20:08:05",

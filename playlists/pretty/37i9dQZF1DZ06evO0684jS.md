@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This is Nicki Minaj\. The essential tracks, all in one playlist.
+> This Is Nicki Minaj\. Все лучшие треки в одном плейлисте.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,890 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,544 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 51 | [Did It On’em](https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
 | 52 | [Flawless Remix \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:54 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDI1NmUxYTE0MjRkZjY4NjU4OThiMDg4NDNlZjAzYzA4`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDNiOGEyNGY0NTdjMTMwZWQxYWFiNWQ0MzMxMzk0NDMx`

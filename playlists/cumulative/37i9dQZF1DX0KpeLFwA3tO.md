@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: BODEGA
 
-1,726 songs - 3 day 14 hr 2 min
+1,727 songs - 3 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,7 +1149,7 @@
 | [Pleasure](https://open.spotify.com/track/02Lpka0aEL6zouj0qa1oJd) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [New Vietnam & Singles](https://open.spotify.com/album/039SBaRjPBx5c6z5yxodjb) | 3:00 | 2023-09-28 | 2023-11-17 |
 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 | 2024-03-15 |  |
 | [Plus One](https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Plus One](https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D) | 3:16 | 2023-06-29 | 2023-08-11 |
-| [PMS Police](https://open.spotify.com/track/0O0GhdAcMZsprSzwsDVi4x) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [PMS Police](https://open.spotify.com/album/5sAEnRwKGLH5bBI5eb3FUI) | 2:04 | 2024-03-29 |  |
+| [PMS Police](https://open.spotify.com/track/0O0GhdAcMZsprSzwsDVi4x) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [PMS Police](https://open.spotify.com/album/5sAEnRwKGLH5bBI5eb3FUI) | 2:03 | 2024-03-29 |  |
 | [Pod](https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pod](https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL) | 1:41 | 2023-04-13 | 2023-06-16 |
 | [Poor Boy](https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Poor Boy](https://open.spotify.com/album/345I2XOebtr1j2UqaGS6FY) | 2:33 | 2023-04-20 | 2023-06-23 |
 | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/track/1Hlg1LF0oJ1UBxyVCJcP5i) | [Shitney Beers](https://open.spotify.com/artist/17ghMPiifubfyIujm3sEBa), [Elena Steri](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/album/2pXP6FJsvQNbTzY0PNUCX7) | 1:57 | 2022-10-06 | 2022-11-18 |
@@ -1376,7 +1376,8 @@
 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-09 | 2023-03-10 |
 | [SOS!](https://open.spotify.com/track/5N5PENdTH9qAq8dMJFtQym) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ) | [SOS!](https://open.spotify.com/album/0UtGfbUX6fBUwwWzRC9fT6) | 2:45 | 2022-11-25 | 2023-03-10 |
 | [Souvenir](https://open.spotify.com/track/0KBU3NUksxrPTUnMlxM5Ud) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [Souvenir](https://open.spotify.com/album/5DGjGDSAtVT3wDvRfgOrWr) | 3:22 | 2022-06-23 | 2022-08-05 |
-| [Spaced Out](https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Spaced Out](https://open.spotify.com/album/4Ftg4p1D4gF7HCV1ucJWN2) | 1:44 | 2024-03-08 |  |
+| [Spaced Out](https://open.spotify.com/track/0BNMSzyRWl8LtSGYGSQtm4) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 1:44 | 2024-04-05 |  |
+| [Spaced Out](https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Spaced Out](https://open.spotify.com/album/4Ftg4p1D4gF7HCV1ucJWN2) | 1:44 | 2024-03-08 | 2024-04-17 |
 | [Speed Dial](https://open.spotify.com/track/0LrWMZCmxWegxbZbQccppU) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Speed Dial](https://open.spotify.com/album/7wEZ3uiW1DrNEt51EWcI7l) | 2:15 | 2022-05-12 | 2022-06-24 |
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-05-04 | 2023-06-30 |
 | [Spit It Out](https://open.spotify.com/track/5o8DTXHIC8OZBBBtHpoQvt) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Spit It Out](https://open.spotify.com/album/3yPSJCm8WoRdsN0A0jtaKq) | 2:38 | 2022-04-28 | 2022-06-03 |

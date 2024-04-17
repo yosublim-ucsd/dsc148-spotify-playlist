@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 ### [This Is El Komander](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rL8w8)
 
-> This is El Komander\. The essential tracks, all in one playlist.
+> This Is El Komander\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,686 likes - 52 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,631 likes - 52 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 51 | [Detras Del Miedo](https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:28 |
 | 52 | [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDlhMDlkNDJmZTkyZDk4NTljNjc3M2RhN2FiMmZlMmYw`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDFhNzNjMTcxYjEwY2IzNDhlZjM5ZTliNjlkMTI3MGJl`

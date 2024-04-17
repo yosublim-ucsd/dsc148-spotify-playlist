@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Ambient piano to help you stay focussed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,599 likes - 158 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,611 likes - 158 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 25 | [Little Boy](https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Little Boy](https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT) | 2:02 |
 | 26 | [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 |
 | 27 | [Moonlit Waltz](https://open.spotify.com/track/4OhlV0mUJNXXSv6xHBn0bf) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Moonlit Waltz](https://open.spotify.com/album/6xQzhd6Olos5emiENxcuOj) | 2:41 |
-| 28 | [Deadwood](https://open.spotify.com/track/4SsVMBWIuhUDNJY7rQovkj) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Deadwood](https://open.spotify.com/album/7iFnC84VoulEoUrva8BZmJ) | 2:16 |
+| 28 | [Deadwood](https://open.spotify.com/track/6KcQZBvA21yt0lN4FrLQea) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Durango](https://open.spotify.com/album/43LQU12Z8mDB3yw8fKckSC) | 2:16 |
 | 29 | [Shadows Cast Asunder](https://open.spotify.com/track/4sFKNc6zO74tcqKt1x0pak) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Shadows Cast Asunder](https://open.spotify.com/album/1LaVIfUyiLKCxURtLnmtUo) | 2:06 |
 | 30 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 |
 | 31 | [Vive Le Piano](https://open.spotify.com/track/4YnnZ327Mx0f52QqzUVlId) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Vive Le Piano](https://open.spotify.com/album/00k5SO4QMgdArz37NefkHW) | 2:16 |

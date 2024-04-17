@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 ### [This Is Grupo Niche](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS)
 
-> This is Grupo Niche\. The essential tracks, all in one playlist.
+> This Is Grupo Niche\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,187 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,185 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 49 | [Cielo de Tambores](https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:37 |
 | 50 | [Busco](https://open.spotify.com/track/4ZjAiDe2fALsvfB6jP9eKj) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 4:56 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGRiMWRlYzA4NWM3NDczODU3MGE4NWYxYWYwNTkzNmJm`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDQwM2QyOWRjNzU2ZGRhNjkwMWU1NWRjYzc1NTVmYjdh`

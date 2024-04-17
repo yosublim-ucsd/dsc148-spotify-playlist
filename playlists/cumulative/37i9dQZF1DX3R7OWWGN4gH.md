@@ -4,7 +4,7 @@
 
 > Entering my reputation era...
 
-288 songs - 15 hr 45 min
+289 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2022-04-14 | 2022-07-29 |
 | [Queen of Mean](https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 3:09 | 2022-01-27 | 2022-04-21 |
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2022-01-27 | 2022-07-29 |
-| [Read Em And Weep](https://open.spotify.com/track/7k9ggvboitGpFmfBJtjeqG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:23 | 2024-04-05 |  |
+| [Read Em And Weep](https://open.spotify.com/track/7k9ggvboitGpFmfBJtjeqG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:23 | 2024-04-05 | 2024-04-17 |
 | [Rebels](https://open.spotify.com/track/7fBKbK8897K5V5zgr7ymIz) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [The Gloomy Tapes, Vol\. 2](https://open.spotify.com/album/3ukdoeD1Xxoh0lTp80Xkzu) | 2:15 | 2022-01-27 | 2022-07-29 |
 | [River](https://open.spotify.com/track/0TGTE9TEh9qzuFwmtRNICn) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 3:34 | 2022-01-27 | 2022-05-14 |
 | [Rotten to the Core \- From "Descendants: Wicked World"](https://open.spotify.com/track/01vWrOtEdzlQorEhifVUo3) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:54 | 2022-01-27 | 2022-04-21 |
@@ -266,6 +266,7 @@
 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 | 2022-01-27 | 2024-02-19 |
 | [Tia Tamera \(feat\. Rico Nasty\)](https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:31 | 2022-01-27 |  |
 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 | 2022-10-07 | 2023-01-14 |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-04-16 |  |
 | [Toxic](https://open.spotify.com/track/5zj80ti5GGOgMwXHWyqaDm) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/4PBhKayEcOZG2LXoWiiMEO) | 3:57 | 2022-07-18 | 2022-07-29 |
 | [Trouble](https://open.spotify.com/track/2KJW6SWq5qINaOGAoFbejT) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Trouble](https://open.spotify.com/album/3MQOitIVRPNiNntW2drDQ9) | 3:33 | 2022-07-18 | 2022-07-29 |
 | [Twisted Nerve](https://open.spotify.com/track/3Y9wdXMh6sNt9fUwUqTqb7) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 1:27 | 2022-01-27 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Bleeker
 
-5,815 songs - 13 day 17 hr 59 min
+5,816 songs - 13 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4781,7 +4781,8 @@
 | [Superglue](https://open.spotify.com/track/5NImC08Hj8grPzDTqMT53n) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Superglue](https://open.spotify.com/album/5fbVszRubV0AXX4k1tKP4b) | 3:24 | 2023-05-05 | 2023-05-13 |
 | [Superhero Dopeproof](https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superhero Dopeproof](https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER) | 4:36 | 2023-03-24 | 2023-04-01 |
 | [Superior](https://open.spotify.com/track/4XJud2E6edl441erVAdBgh) | [Lillies and Remains](https://open.spotify.com/artist/6002lb7vby2t0KYnGJYKg0) | [SUPERIOR](https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub) | 3:54 | 2023-07-14 | 2023-07-22 |
-| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 |  |
+| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 | 2024-04-17 |
+| [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 | 2024-04-12 |  |
 | [Superman](https://open.spotify.com/track/7qR4KI5JAf8n48wStSizic) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Edgär is Dead](https://open.spotify.com/album/5kf46keruLMY20XP94Ih2U) | 2:19 | 2024-03-01 | 2024-03-09 |
 | [Superman\(ic\)](https://open.spotify.com/track/2NZ6l7ZaO5hACwRpbw9a7n) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Alligator Death Roll](https://open.spotify.com/album/6Z1dLwNlEQb9LpVCktBTCZ) | 3:27 | 2023-10-20 | 2023-10-28 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-12 | 2022-05-20 |

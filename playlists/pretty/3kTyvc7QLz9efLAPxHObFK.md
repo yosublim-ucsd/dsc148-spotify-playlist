@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,264 songs - 2 day 22 hr 2 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,265 songs - 2 day 22 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1272,5 +1272,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1262 | [Papi](https://open.spotify.com/track/29x5RyUTCO0zLY6ghvN441) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [Papi](https://open.spotify.com/album/2ke2qDd4KzysqoYLu76ZwY) | 3:19 |
 | 1263 | [Pop Drop](https://open.spotify.com/track/3jGUFiSRRCJUUzigTws8ir) | [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL), [Mike Reverie](https://open.spotify.com/artist/66BGGk95uamfiRchHngiCz) | [Pop Drop](https://open.spotify.com/album/0CAGxynvsfroSLy9wmBvD3) | 2:11 |
 | 1264 | [Identity](https://open.spotify.com/track/5EZdI0wW94Adik2dM3UhUY) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 3:28 |
+| 1265 | [Tanano \- Original Mix](https://open.spotify.com/track/3FTwkDGGep7ZZBY8rPRLOy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Open Your Mind \(Original Mix\)](https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1) | 2:10 |
 
-Snapshot ID: `MTMwNyxiODBhMGMwOWI2NTIxYTA1Y2IzMWY5ZDk5OGExMTg5NjdlOGFmODAz`
+Snapshot ID: `MTMwOCxhNmU1ZTQ3NWEyNWE1MmQyNTIyZGE2ZWQyOWZlNTk4MTBjODJkZjgw`

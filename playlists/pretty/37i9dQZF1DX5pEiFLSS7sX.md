@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,592 likes - 100 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,602 likes - 100 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 83 | [Heal Our Land](https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:00 |
 | 84 | [Not Afraid \- Live](https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 7:25 |
 | 85 | [When My Heart Became Aware](https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 3:58 |
-| 86 | [Abba \(Arms Of A Father\)](https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 5:30 |
-| 87 | [Nothing Is Holding Me Back](https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Here On Earth](https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA) | 4:24 |
+| 86 | [Nothing Is Holding Me Back](https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Here On Earth](https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA) | 4:24 |
+| 87 | [Abba \(Arms Of A Father\)](https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 5:30 |
 | 88 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 89 | [I Am No Victim](https://open.spotify.com/track/2XkTROEhPw2Abzri1F20iL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:41 |
 | 90 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |

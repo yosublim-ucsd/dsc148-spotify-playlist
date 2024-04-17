@@ -1,6 +1,6 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a> ",
-  "num_followers": 71708,
+  "num_followers": 71771,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Desire Pt. 2",
         "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 160308,
       "name": "Desire Pt. 2",
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Every Step",
         "url": "https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 166190,
       "name": "Every Step",
       "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Back To Life (Studio Version)",
         "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 253077,
       "name": "Back To Life - Studio Version",
       "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Glory Hour",
-        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 421320,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "IF I RAN AWAY",
         "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
       },
@@ -779,26 +763,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Love After Hurt",
-        "url": "https://open.spotify.com/album/5goRCvtcJiGjTFIK2PL1N2"
+        "name": "Glory Hour",
+        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
       },
       "artists": [
         {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
         }
       ],
-      "duration_ms": 158367,
-      "name": "Love After Hurt",
-      "url": "https://open.spotify.com/track/3RSe4JzcYbaSALrfjxKoZH"
+      "duration_ms": 421320,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -835,6 +811,30 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "Love After Hurt",
+        "url": "https://open.spotify.com/album/5goRCvtcJiGjTFIK2PL1N2"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 158367,
+      "name": "Love After Hurt",
+      "url": "https://open.spotify.com/track/3RSe4JzcYbaSALrfjxKoZH"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Choirmaster II (Live)",
-        "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
-      },
-      "artists": [
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        }
-      ],
-      "duration_ms": 395784,
-      "name": "Fill Us Once Again - Live",
-      "url": "https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "What?",
         "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 132472,
       "name": "What?",
       "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Choirmaster II (Live)",
+        "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "duration_ms": 395784,
+      "name": "Fill Us Once Again - Live",
+      "url": "https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "I Pray (Acoustic)",
         "url": "https://open.spotify.com/album/0dfw8uAvEi5v7hdvpw3bv5"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 218016,
       "name": "I Pray (Acoustic)",
       "url": "https://open.spotify.com/track/1H8T3lz2edaHhmoIxlPUSK"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
+      "duration_ms": 184238,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1159,22 +1163,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
       },
       "artists": [
         {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 184238,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Dirty Floors (feat. 1K Phew)",
         "url": "https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 183333,
       "name": "Dirty Floors (feat. 1K Phew)",
       "url": "https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/6Yj082yvPaZh6Zut0es12f"
+      },
+      "artists": [
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        }
+      ],
+      "duration_ms": 196859,
+      "name": "365",
+      "url": "https://open.spotify.com/track/6jXGfwxPCXDzKa4JS9ySR1"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "G.O.A.L.S.",
         "url": "https://open.spotify.com/album/20u7UEG2i60KRs5iPJ2pgl"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 179031,
       "name": "G.O.A.L.S.",
       "url": "https://open.spotify.com/track/2DHpfCtX1KmkvHvc5rutRV"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/6Yj082yvPaZh6Zut0es12f"
-      },
-      "artists": [
-        {
-          "name": "Angeloh",
-          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
-        }
-      ],
-      "duration_ms": 196859,
-      "name": "365",
-      "url": "https://open.spotify.com/track/6jXGfwxPCXDzKa4JS9ySR1"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "NOW",
-        "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "Faith Child",
-          "url": "https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy"
-        }
-      ],
-      "duration_ms": 223524,
-      "name": "NOW",
-      "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9"
       },
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "NOW",
+        "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "Faith Child",
+          "url": "https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy"
+        }
+      ],
+      "duration_ms": 223524,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 274756,
       "name": "I Will Rejoice - Live",
       "url": "https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Veil",
-        "url": "https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol"
-      },
-      "artists": [
-        {
-          "name": "Tobi Adey",
-          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
-        }
-      ],
-      "duration_ms": 236667,
-      "name": "Lift Me",
-      "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1735,6 +1719,22 @@
       "duration_ms": 267374,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1PZrnMxqoO1vxyQlX24ovM"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Veil",
+        "url": "https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        }
+      ],
+      "duration_ms": 236667,
+      "name": "Lift Me",
+      "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
     },
     {
       "added_at": "2024-03-20 10:43:05",

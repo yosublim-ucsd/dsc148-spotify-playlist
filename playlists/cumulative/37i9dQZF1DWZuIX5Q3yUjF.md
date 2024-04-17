@@ -2,7 +2,7 @@
 
 ### [anima R&B Takeover Fest](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Una selezione speciale in occasione del <a href="https://dice.fm/event/vx5pd\-rb\-takeover\-fest\-21st\-apr\-monk\-sala\-teatro\-roma\-tickets?lng=en">primo Festival R&B italiano il 21 aprile</a>! Cover: Francesco Kairos
+> Una selezione speciale in occasione del <a href="https://dice.fm/event/vx5pd\-rb\-takeover\-fest\-21st\-apr\-monk\-sala\-teatro\-roma\-tickets?lng=en">primo Festival R&B italiano il 21 aprile</a>! Cover: Big Dave
 
 555 songs - 1 day 3 hr 34 min
 

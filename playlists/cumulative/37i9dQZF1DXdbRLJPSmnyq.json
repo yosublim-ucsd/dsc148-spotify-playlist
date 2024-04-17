@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 335465,
       "name": "HEART BEAT",
       "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
@@ -396,6 +396,32 @@
       "duration_ms": 251333,
       "name": "I'm a mess",
       "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Bound",
+        "url": "https://open.spotify.com/album/7r4h1bFrkehz6ssyx6ox1i"
+      },
+      "artists": [
+        {
+          "name": "Yunosuke",
+          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
+        },
+        {
+          "name": "Circus-P",
+          "url": "https://open.spotify.com/artist/1C0DQxH8vVeXuDuo9eqetl"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Intergalactic Bound (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/25tNraNmMNwSEccFVcXxnu"
     },
     {
       "album": {
@@ -870,7 +896,7 @@
       },
       "artists": [
         {
-          "name": "shy taupe",
+          "name": "shytaupe",
           "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
@@ -1532,7 +1558,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
@@ -2062,7 +2088,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 194266,
       "name": "\u52c7\u8005",
       "url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q"

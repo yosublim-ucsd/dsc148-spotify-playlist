@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Chlöe
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 337,697 likes - 264 songs - 13 hr 16 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 337,163 likes - 264 songs - 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

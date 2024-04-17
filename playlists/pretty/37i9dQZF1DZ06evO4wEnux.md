@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 ### [This Is Fatherson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wEnux)
 
-> This is Fatherson\. The essential tracks, all in one playlist.
+> This Is Fatherson\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 27 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 27 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 26 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
 | 27 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQ0ODI0ZjI5ZDEzMzQ1ZTNiZGQ2MWY5MTdhNGEwNmUx`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU2NWM5MmEzNTcyOTlmNTU0ODZlYWU2MDJmOTZlNTQ1`

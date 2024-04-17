@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 106149,
+  "num_followers": 105983,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 253636,
-      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 199145,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 259721,
       "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
+        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 216114,
+      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
+      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
-        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
+        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
       },
       "artists": [
         {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
         }
       ],
-      "duration_ms": 216114,
-      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
-      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
+      "duration_ms": 218769,
+      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -599,6 +599,22 @@
       "duration_ms": 199500,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d feat. Violette Wautier",
       "url": "https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "Left Right And Something",
+        "url": "https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 322706,
+      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
+      "url": "https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -667,22 +683,6 @@
       "duration_ms": 213230,
       "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
       "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
-        "name": "Left Right And Something",
-        "url": "https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 322706,
-      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
-      "url": "https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 247398,
-      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e0a\u0e38\u0e14\u0e40\u0e25\u0e47\u0e01",
         "url": "https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
-        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
+        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
       },
       "artists": [
         {
-          "name": "Palmy",
-          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
         }
       ],
-      "duration_ms": 207705,
-      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
+      "duration_ms": 247398,
+      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -999,6 +983,22 @@
       "duration_ms": 170655,
       "name": "\u0e17\u0e33\u0e44\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e04\u0e19\u0e19\u0e35\u0e49?",
       "url": "https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
+        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
+      },
+      "artists": [
+        {
+          "name": "Palmy",
+          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "duration_ms": 207705,
+      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/4n7uzGGK7Hm79baUqwEGa9"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 168750,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/57bdxWnWc3uhzHXQ8Qf5Lq"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
+        "name": "\u0e41\u0e23\u0e01",
+        "url": "https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh"
+      },
+      "artists": [
+        {
+          "name": "The Parkinson",
+          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "\u0e08\u0e30\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/43904Zto2u5UI713dDc59V"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
         "name": "Melbourne",
         "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 182125,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
-        "name": "\u0e41\u0e23\u0e01",
-        "url": "https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh"
-      },
-      "artists": [
-        {
-          "name": "The Parkinson",
-          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "\u0e08\u0e30\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/43904Zto2u5UI713dDc59V"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e2b\u0e27\u0e07(You're Mine)",
-        "url": "https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa"
-      },
-      "artists": [
-        {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
-        }
-      ],
-      "duration_ms": 216162,
-      "name": "\u0e2b\u0e27\u0e07(You're Mine)",
-      "url": "https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) - Single",
         "url": "https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33]",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e2b\u0e27\u0e07(You're Mine)",
+        "url": "https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        }
+      ],
+      "duration_ms": 216162,
+      "name": "\u0e2b\u0e27\u0e07(You're Mine)",
+      "url": "https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+        "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) [From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2]",
+        "url": "https://open.spotify.com/album/6JhqKjkUnaWfTqM8hCQYtd"
       },
       "artists": [
         {
-          "name": "Ae Jirakorn",
-          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        },
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
         }
       ],
-      "duration_ms": 246904,
-      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
+      "duration_ms": 199333,
+      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
+      "url": "https://open.spotify.com/track/2T3nSum6ofOyHrcRLdEky0"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

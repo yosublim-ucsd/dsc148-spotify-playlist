@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Wunderhorse
 
-2,287 songs - 5 day 0 hr 47 min
+2,288 songs - 5 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1893,7 +1893,8 @@
 | [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 | 2023-04-14 | 2023-06-10 |
 | [Super Soaker](https://open.spotify.com/track/5aPsS8Erp6FBlFSEunU51j) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 2:58 | 2022-09-23 | 2022-11-05 |
 | [Superinlove \(Roll Credits\)](https://open.spotify.com/track/6Boku1BWobUkaFxN6rcLY4) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Superinlove \(Roll Credits\)](https://open.spotify.com/album/5648gAINTiQctCCE6Tuhvr) | 1:48 | 2023-04-14 | 2023-05-06 |
-| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 |  |
+| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 | 2024-04-17 |
+| [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 | 2024-04-12 |  |
 | [Superman\(ic\)](https://open.spotify.com/track/2NZ6l7ZaO5hACwRpbw9a7n) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Alligator Death Roll](https://open.spotify.com/album/6Z1dLwNlEQb9LpVCktBTCZ) | 3:27 | 2023-10-20 | 2023-11-25 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-13 | 2022-08-06 |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-22 | 2024-01-11 |

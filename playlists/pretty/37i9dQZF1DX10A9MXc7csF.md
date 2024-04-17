@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Tony Loya
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,002 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,942 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 14 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |
 | 15 | [Baby Scar](https://open.spotify.com/track/4onP46f224z14w98g2xyel) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Baby Scar](https://open.spotify.com/album/4QefrDuDCmpLoaLB5jYPas) | 2:34 |
 | 16 | [Ando Free](https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [Ando Free](https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv) | 2:04 |
-| 17 | [ETERNIDAD](https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD) | [Daren, Jorge Cuellar](https://open.spotify.com/artist/1KZNhFjQLJwMxyUdWjELkf) | [ETERNIDAD](https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ) | 2:55 |
+| 17 | [ETERNIDAD](https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP), [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [ETERNIDAD](https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ) | 2:55 |
 | 18 | [Aquí Seguimos](https://open.spotify.com/track/3GotceNEiAS22jdt1sjE9V) | [Israel De San Antonio](https://open.spotify.com/artist/2tF8wx2Z2J6ce9ckc2PD3i), [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Aquí Seguimos](https://open.spotify.com/album/3NCkM4UT03CWdJsEgX95IS) | 2:41 |
 | 19 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 |
 | 20 | [COMO LO MUEVES](https://open.spotify.com/track/2B8LTd0wcI3WkmKtbwuROw) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [COMO LO MUEVES](https://open.spotify.com/album/015ltU2roLUHF8KvgxWoZq) | 2:57 |

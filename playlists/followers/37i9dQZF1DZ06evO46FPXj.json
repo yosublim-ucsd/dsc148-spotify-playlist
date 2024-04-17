@@ -1,7 +1,7 @@
 {
-  "2024-04-16": 6416,
+  "2024-04-17": 6415,
   "date_first_scraped": "2022-05-30",
-  "description": "This is Autechre. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Autechre. The essential tracks, all in one playlist.",
   "name": "This Is Autechre",
   "tracks": [
     {
@@ -993,7 +993,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 166437,
       "name": "DekDre Scap B",
       "url": "https://open.spotify.com/track/3YNQhOapfzpPK2AScsuvMw"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 375800,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/6xOB01LjZWSM3Qop1CQE37"
@@ -2163,7 +2163,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 223464,
       "name": "marhide",
       "url": "https://open.spotify.com/track/0KsOF2ur5AW8HHSty0zypX"
@@ -2343,7 +2343,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 220200,
       "name": "Nine",
       "url": "https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9"

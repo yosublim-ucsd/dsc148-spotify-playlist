@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Babas\u00f3nicos en portada. ",
-  "num_followers": 1008422,
+  "num_followers": 1006587,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 348320,
       "name": "Fugaz (feat. Rub\u00e9n Albarr\u00e1n) - En Vivo",
       "url": "https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Vivir As\u00ed Es Morir de Amor",
-        "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "Vivir As\u00ed Es Morir de Amor",
+        "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 305213,
       "name": "Morenaza",
       "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Sin Rencor",
+      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "Sin Rencor",
-      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Tenochtitl\u00e1n",
         "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 258573,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "El sombrerero loco",
-        "url": "https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl"
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
       },
       "artists": [
         {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 270666,
-      "name": "El sombrerero loco",
-      "url": "https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT"
+      "duration_ms": 326146,
+      "name": "Las Batallas/Rarotonga - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
+        "name": "El sombrerero loco",
+        "url": "https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
         }
       ],
-      "duration_ms": 326146,
-      "name": "Las Batallas/Rarotonga - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
+      "duration_ms": 270666,
+      "name": "El sombrerero loco",
+      "url": "https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT"
     },
     {
       "added_at": "2024-04-12 06:00:00",

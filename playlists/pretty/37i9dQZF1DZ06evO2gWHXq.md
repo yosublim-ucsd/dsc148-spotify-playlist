@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 ### [This Is MC Davo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gWHXq)
 
-> This is MC Davo。アーティストの代表曲をひとつのプレイリストに。
+> This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,991 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,692 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 51 | [La Paleta \(feat\. C\-Kan\)](https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:55 |
 | 52 | [Asi Es La Vida](https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/4LqqM5mgFRSzNo7iLXvcBj) | 2:50 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDZhNThhYmRiNjg0MDNhYjcwMDg3ZDFhZDE3MDUyNGZk`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDhmY2ZmNjE0YjM0Yjg3NWUyZmYxNWEyZTE5NTI3NzAz`

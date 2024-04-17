@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 ### [This Is La Receta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YzskP)
 
-> This is La Receta\. The essential tracks, all in one playlist.
+> This Is La Receta\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,997 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,015 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 50 | [El Sombero De Lado](https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:38 |
 | 51 | [Señor Guzmán](https://open.spotify.com/track/5EAi0bdw7Dn7Bv9sfJvy8H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Señor Guzmán](https://open.spotify.com/album/4DRjc62l2MeMib8KOzXqAt) | 3:17 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDVjMGYxZTc3MWI5YjU2YmJhYmM4NDA4ZDNjYmY5N2U4`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDhiNDUwNmEwNTE4ZTgwM2MyMTU5NTFlZGFlMGVkZTBj`

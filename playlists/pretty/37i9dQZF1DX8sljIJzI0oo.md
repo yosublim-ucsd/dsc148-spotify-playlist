@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > iZaak, Jhayco & Anuel AA are bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,987 likes - 20 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,883,452 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 643401,
+  "num_followers": 643512,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 278991,
-      "name": "Juliet",
-      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 279000,
       "name": "Stubborn Love",
       "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 278991,
+      "name": "Juliet",
+      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
     },
     {
       "added_at": "2024-01-19 14:43:19",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 201186,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2024-01-19 14:43:19",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting on You)",
-      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "The Moldy Peaches",
         "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting on You)",
+      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
     },
     {
       "added_at": "2024-01-19 14:43:19",

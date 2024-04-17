@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-87 songs - 5 hr 33 min
+88 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2023-12-08 | 2024-02-13 |
 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 | 2024-01-12 | 2024-03-29 |
 | [Lonely Star](https://open.spotify.com/track/6RnK2EgZ6AfSFwjXaYyfrk) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 4:02 | 2024-03-01 |  |
-| [Longing](https://open.spotify.com/track/2A0fuDHJlRz7NbftxSXmN5) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Longing](https://open.spotify.com/album/63Ab5wSwTgzeKwXZdRBcQb) | 5:26 | 2024-01-26 |  |
+| [Longing](https://open.spotify.com/track/2A0fuDHJlRz7NbftxSXmN5) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Longing](https://open.spotify.com/album/63Ab5wSwTgzeKwXZdRBcQb) | 5:26 | 2024-01-26 | 2024-04-17 |
 | [Love In Our Hands](https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love In Our Hands](https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv) | 3:48 | 2024-02-23 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-12 |  |
 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 | 2023-12-08 | 2024-01-13 |
@@ -72,6 +72,7 @@
 | [No Place Like](https://open.spotify.com/track/1nQFnc0wvHTtOeVnkfgLGo) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer EP](https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ) | 4:01 | 2023-12-08 | 2024-02-17 |
 | [Off Your Hand](https://open.spotify.com/track/2lstzdGae9ApJ4JDi8sKj3) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Trauma](https://open.spotify.com/album/4SWTeikAx2dal9TSdfbSxy) | 1:51 | 2024-03-28 |  |
 | [Once...](https://open.spotify.com/track/6bYv31mEInRhLb7yPDkE2L) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:00 | 2023-12-08 | 2024-02-10 |
+| [Peaceful Avenues \- Unplugged Instrumental](https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Peaceful Avenues](https://open.spotify.com/album/2tSLZZXtD1PDRuRTNNKnst) | 4:00 | 2024-04-16 |  |
 | [Reductive Ruin](https://open.spotify.com/track/56OKl9gTmHB3VoGR4uPMy2) | [Dae Kim](https://open.spotify.com/artist/6dmVUp9TvBREry9O63OFbh) | [Music For Home Vol\. 2: Redemption](https://open.spotify.com/album/2vRGgj6klG7akio8JobObE) | 4:06 | 2023-12-08 | 2024-01-20 |
 | [Reflected](https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Music For Home Vol\. 1: Our Season](https://open.spotify.com/album/3k2iR3YPoOw1xIFHoLSpvX) | 4:53 | 2023-12-08 | 2024-01-27 |
 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 |  |
@@ -86,7 +87,7 @@
 | [The Last Phone Call](https://open.spotify.com/track/2CZOLVdbBc4NDwhCVMRSzh) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Imaginary Friend](https://open.spotify.com/artist/5pw6etTC4sdwI2ADgjVtlb) | [Tides](https://open.spotify.com/album/16sfP3nI7hNlUppaYv4dtC) | 2:23 | 2024-04-12 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2023-12-08 | 2024-01-06 |
 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 | 2023-12-15 | 2024-02-03 |
-| [To Where Dreams Are](https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu) | [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:06 | 2023-12-08 |  |
+| [To Where Dreams Are](https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu) | [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:06 | 2023-12-08 | 2024-04-17 |
 | [Unlearn](https://open.spotify.com/track/3Zeykv0VAQEomLmiq0hr9P) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:11 | 2024-03-08 | 2024-04-16 |
 | [Vanishing Point](https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:00 | 2024-03-08 |  |
 | [Walking Slowly](https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo) | [Maty Owl](https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:31 | 2024-04-12 |  |

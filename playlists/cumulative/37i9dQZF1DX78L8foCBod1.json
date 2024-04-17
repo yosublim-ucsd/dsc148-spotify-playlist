@@ -2547,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "TO THE END",
+        "url": "https://open.spotify.com/album/0jYBLoI184nD0OzTdvQTz6"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "TO THE END",
+      "url": "https://open.spotify.com/track/6uTxISC4ienA6m0kG17ENg"
+    },
+    {
+      "album": {
         "name": "TOKYO - HALLOWEEN -",
         "url": "https://open.spotify.com/album/3bl9atzKcDPSm6YM9zJyZN"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 45978,
+  "2024-04-17": 45993,
   "date_first_scraped": "2022-08-06",
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
   "name": "This Is John Lee Hooker",
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 152350,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 169600,
       "name": "Moon Is Rising",
       "url": "https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 264026,
       "name": "That's Alright (feat. Charlie Musselwhite)",
       "url": "https://open.spotify.com/track/2COsS6PVvMjYwqGXYc4mrE"
@@ -2413,7 +2413,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 238173,
       "name": "Tupelo (2007 - Remaster)",
       "url": "https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB"

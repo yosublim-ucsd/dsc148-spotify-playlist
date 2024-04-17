@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Paris Texas performing at Fresh Finds Chicago March 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,794 likes - 77 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,826 likes - 77 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

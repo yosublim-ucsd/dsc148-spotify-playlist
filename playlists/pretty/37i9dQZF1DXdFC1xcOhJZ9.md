@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFC1xcOhJZ9.md) - [plain]
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,124 likes - 58 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,172 likes - 58 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

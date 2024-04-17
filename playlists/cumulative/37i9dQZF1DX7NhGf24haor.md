@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: The Partysquad & Kalibwoy
 
-855 songs - 1 day 22 hr 24 min
+856 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Daughters](https://open.spotify.com/track/0paKm4a9VqKeN1kSx13Pzk) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Daughters](https://open.spotify.com/album/5kHrn3PY69FrHg2CmcG2at) | 3:38 | 2024-01-18 | 2024-02-16 |
 | [Day & Night](https://open.spotify.com/track/3Kv2lE050pblqyTMuxCFMe) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Day & Night](https://open.spotify.com/album/7f9kvVgYzIrkycQ11LkZ7Z) | 2:51 | 2023-04-06 | 2023-05-09 |
 | [Dead Or Alive](https://open.spotify.com/track/5hY8EYoOnN5aLdNymjBtGA) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Dead Or Alive](https://open.spotify.com/album/5itpFQfq0ZpU2Yp3xU6411) | 3:48 | 2023-09-21 | 2023-12-02 |
-| [Dear Hardstyle](https://open.spotify.com/track/1vFzkN48urpPfQPmjL2T5p) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Dear Hardstyle](https://open.spotify.com/album/0PW9WcbHGTDvK05sQ23lmK) | 4:27 | 2023-12-01 |  |
+| [Dear Hardstyle](https://open.spotify.com/track/1vFzkN48urpPfQPmjL2T5p) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Dear Hardstyle](https://open.spotify.com/album/0PW9WcbHGTDvK05sQ23lmK) | 4:27 | 2023-12-01 | 2024-04-17 |
+| [Dear Hardstyle](https://open.spotify.com/track/6130FU2gzw9DSmRvADaIzt) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Dear Hardstyle](https://open.spotify.com/album/7g5E1phZKm5sXwyqUHzw8y) | 4:27 | 2024-04-12 |  |
 | [Death Or Glory](https://open.spotify.com/track/4PQ0ckfbPTkcxzFiIXAzG3) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Death Or Glory](https://open.spotify.com/album/4hWYpsuKXpJ0YYRJAaAPFB) | 3:41 | 2022-12-22 | 2023-03-31 |
 | [Demise 2.0](https://open.spotify.com/track/03HCR8nivdjZD7UxzAJfsm) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Demise 2.0](https://open.spotify.com/album/7yJ2K6AzmDyFyOwgqGYL1z) | 2:25 | 2023-11-02 | 2024-02-09 |
 | [Demon](https://open.spotify.com/track/0z880OjDrjGjEGwA4kDEcL) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Demon](https://open.spotify.com/album/0qdTCEWeVDCoZendfdSyRy) | 2:39 | 2024-01-25 |  |

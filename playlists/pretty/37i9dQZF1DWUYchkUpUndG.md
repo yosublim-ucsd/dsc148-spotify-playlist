@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=qKQwfB1lSJ2l9wiSy8YSiA>Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,140 likes - 104 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,165 likes - 104 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

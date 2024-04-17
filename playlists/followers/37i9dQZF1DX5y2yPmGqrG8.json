@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 335567,
+  "2024-04-17": 335592,
   "date_first_scraped": "2022-01-06",
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
   "name": "Deep Listening",
@@ -4029,6 +4029,24 @@
       "duration_ms": 283968,
       "name": "Grove (feat. Embaci)",
       "url": "https://open.spotify.com/track/3lMDnW7GKJLZDBGiQ5iBDe"
+    },
+    {
+      "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291002,
+      "name": "Gurek",
+      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
       "album": {
@@ -9775,7 +9793,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 302190,
       "name": "Virtual U",
       "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 ### [This Is Ana Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lKeSk)
 
-> This is Ana Gabriel\. The essential tracks, all in one playlist.
+> This Is Ana Gabriel\. Sus mejores éxitos, todos en una playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,802 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,742 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 49 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 |
 | 50 | [No Tengo Dinero](https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:13 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGU4MWJlZDE3MmQ1NWIwMGQ1YTI0OGMwMjZmNGU3OThl`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDkxNTlkZDJkMzEzZGU3NDE2NzdlMDk4NDc4ZTc5MDRl`

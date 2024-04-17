@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,744 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,724 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 59 | [O Teatro dos Vampiros](https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Moska Apresenta Zoombido: Dado Villa\-Lobos](https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp) | 3:47 |
 | 60 | [What's My Age Again? \- Acoustic](https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [What's My Age Again? \(Acoustic\)](https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr) | 2:26 |
 | 61 | [Bad Guy \- Acoustic](https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Bad Guy \(Acoustic\)](https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi) | 2:41 |
-| 62 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
-| 63 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 62 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 63 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
 | 64 | [Enquanto Ela Não Chegar \- Acústico](https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Enquanto Ela Não Chegar \(Acústico\)](https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk) | 3:28 |
 | 65 | [Caleidoscópio \(Ao Vivo\)](https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [RoncaRonca Apresenta Os Paralamas do Sucesso \(Ao Vivo\)](https://open.spotify.com/album/4I2EcdKiwes6vePNcrPSKz) | 4:02 |
 | 66 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 |

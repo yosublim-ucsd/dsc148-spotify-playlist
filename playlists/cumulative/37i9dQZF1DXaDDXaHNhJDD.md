@@ -4,7 +4,7 @@
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Manjummel Boys
 
-187 songs - 12 hr 22 min
+188 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Nagumo](https://open.spotify.com/track/7dcXGzIAaoe19A6kgnrCaQ) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Arvind Venugopal](https://open.spotify.com/artist/3HVwgnV1o8772u3BtdhcHF) | [Hridayam \(Side B\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG) | 2:39 | 2023-11-24 |  |
 | [Nangeli Poove](https://open.spotify.com/track/4cMk3GcmaSNjDNrX0kiIxM) | [Ranjin Raj](https://open.spotify.com/artist/4HhPs1nwYZNmP72fuE30BV) | [Malikappuram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4zwtLEbdcoh51Rgh4xqOD2) | 3:45 | 2023-01-27 | 2023-05-16 |
 | [Nazarethin](https://open.spotify.com/track/174Okcb7FsHk1RD5mna3UZ) | [Rahul Raj](https://open.spotify.com/artist/4kbWDG96QZ2HkyVl9l1EmL), [Baby Niya Charly](https://open.spotify.com/artist/3YwdOCicKigvXcCHejZXOZ), [Merin Gregory](https://open.spotify.com/artist/1cCNFGztJ4DsgBrJncPEfn), [Crossroads Acapella Band](https://open.spotify.com/artist/6eE17ybhChsKybmB3ZKbK8) | [The Priest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dx7pozO4tluIC34441vRS) | 4:01 | 2022-05-17 | 2023-02-03 |
+| [Nebulakal \- Travel Song \- From "Manjummel Boys"](https://open.spotify.com/track/1jxFfazgOVIJeYbhBm2ENV) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Anwar Ali](https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2) | [Nebulakal \- Travel Song \(From "Manjummel Boys"\)](https://open.spotify.com/album/6bgSQcUj1JzVmDMuF2Vr87) | 4:42 | 2024-04-16 |  |
 | [Nee Himamazhayayi \- From "Edakkad Battalion 06"](https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [Nee Himamazhayayi \(From "Edakkad Battalion 06"\)](https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k) | 5:04 | 2022-05-17 |  |
 | [Nee Mukilo](https://open.spotify.com/track/4kw7D5nU2QqjdM9pVef6GN) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Uyare \(Original Motion Picture Sound Track\)](https://open.spotify.com/album/5cx4GeMEteMsTzjyZFAPm1) | 3:29 | 2022-05-17 | 2024-02-23 |
 | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Manu Manjith](https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy) | [Neela Nilave \(From "Rdx"\)](https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah) | 4:13 | 2023-09-18 |  |

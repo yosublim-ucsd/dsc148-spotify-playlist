@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 ### [This Is Héctor Lavoe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nm0YU)
 
-> This is Héctor Lavoe\. The essential tracks, all in one playlist.
+> This Is Héctor Lavoe\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,608 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,622 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 |
 | 50 | [Tus Ojos](https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 3:36 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU1MDA3MmZhNzQ5NWQ2ODNjMDdmYjNiMDk5ZTVhYmEy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDQyMzc4Y2M4NzY5Y2U4YTk3MGZiZDEyMmUxZjcxNzE5`

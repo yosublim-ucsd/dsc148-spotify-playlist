@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 29471,
+  "num_followers": 29485,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/1wMQXGKSXttqDFcdl89t6U"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        }
+      ],
+      "duration_ms": 113397,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/2gQIvqNyPgHhYikdasHcKz"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Cumbia Don Juan",
         "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 134451,
       "name": "Cumbia Don Juan",
       "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Copihue",
-        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Copihue",
-      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/1wMQXGKSXttqDFcdl89t6U"
+        "name": "Copihue",
+        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
       },
       "artists": [
         {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 113397,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/2gQIvqNyPgHhYikdasHcKz"
+      "duration_ms": 157500,
+      "name": "Copihue",
+      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Ay Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 97931,
-      "name": "Ay Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "abducci\u00f3n",
         "url": "https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN"
       },
@@ -595,22 +579,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Nadie sabe nada de nadie",
         "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
       },
@@ -623,6 +591,22 @@
       "duration_ms": 179538,
       "name": "Nadie sabe nada de nadie",
       "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Ay Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 97931,
+      "name": "Ay Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 109723,
       "name": "loops",
       "url": "https://open.spotify.com/track/5sGeSqPsAZrvYepdIv0myf"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -903,22 +903,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/6V2Its6p93Xm6ebPjox16s"
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
       },
       "artists": [
         {
-          "name": "MoonCreek",
-          "url": "https://open.spotify.com/artist/5vojozk9HWm8gMdBoitA8F"
-        },
-        {
-          "name": "brass.beats",
-          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Free Soul",
-      "url": "https://open.spotify.com/track/0XCN15yrRrPnyru5fGxmDI"
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -939,18 +935,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/6V2Its6p93Xm6ebPjox16s"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "MoonCreek",
+          "url": "https://open.spotify.com/artist/5vojozk9HWm8gMdBoitA8F"
+        },
+        {
+          "name": "brass.beats",
+          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+      "duration_ms": 147000,
+      "name": "Free Soul",
+      "url": "https://open.spotify.com/track/0XCN15yrRrPnyru5fGxmDI"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Bluewerks Vol 13: Midnight Melodies",
+        "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 153658,
+      "name": "Looking for the Stars",
+      "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 142939,
       "name": "Ukulele en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/42JzhKGXF2N2mEYkaMsyTu"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Bluewerks Vol 13: Midnight Melodies",
-        "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
-      },
-      "artists": [
-        {
-          "name": "Bluewerks",
-          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 153658,
-      "name": "Looking for the Stars",
-      "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
-      },
-      "artists": [
-        {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
-        }
-      ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 140400,
       "name": "Lluvia de Oro",
       "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1431,6 +1431,30 @@
       "duration_ms": 164117,
       "name": "Canci\u00f3n en Forma de Elefante",
       "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Timeless Era",
+        "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 101250,
+      "name": "Timeless Era",
+      "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1511,26 +1535,6 @@
       "duration_ms": 123711,
       "name": "un lugar tranquilo",
       "url": "https://open.spotify.com/track/0p1FaiQPjtm3OfYNdwCZVw"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "New Home",
-        "url": "https://open.spotify.com/album/0A6MhfkctyoEnqlnkamG18"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "New Home",
-      "url": "https://open.spotify.com/track/5KKQG2TeOKq7iOEjMkOUVu"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1699,22 +1703,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Cosmic Solitude",
-        "url": "https://open.spotify.com/album/1Kk2IqjOcR77jrGr2J1ThX"
-      },
-      "artists": [
-        {
-          "name": "Gagdropers",
-          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "Stellar Explorer",
-      "url": "https://open.spotify.com/track/0DokpRqlN4t9zbLiYDWKei"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
       },
@@ -1727,6 +1715,22 @@
       "duration_ms": 74347,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Cosmic Solitude",
+        "url": "https://open.spotify.com/album/1Kk2IqjOcR77jrGr2J1ThX"
+      },
+      "artists": [
+        {
+          "name": "Gagdropers",
+          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "Stellar Explorer",
+      "url": "https://open.spotify.com/track/0DokpRqlN4t9zbLiYDWKei"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1783,18 +1787,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Far from Home",
-        "url": "https://open.spotify.com/album/7kzDzbLW70uIRk9ghYzJY6"
+        "name": "Sundown Reflections",
+        "url": "https://open.spotify.com/album/51g8wnW8XG4LcrsUYLuO9v"
       },
       "artists": [
         {
-          "name": "Gagdropers",
-          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
+          "name": "Lotus Eco",
+          "url": "https://open.spotify.com/artist/5YwJLe0MXNm0CFVX7Kzbo6"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Far from Home",
-      "url": "https://open.spotify.com/track/5XoMpkkOf8BtXCQgjAVfOM"
+      "duration_ms": 135652,
+      "name": "Sundown Reflections",
+      "url": "https://open.spotify.com/track/5ss1SSBpwUrhz1ibWzNiJm"
     }
   ],
   "unique_name": "lofi mexa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,632 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,631 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 22 | [The Future](https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9) | [Teddy Thompson](https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 6:49 |
 | 23 | [The Traitor](https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 4:44 |
 | 24 | [Be for Real](https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 4:28 |
-| 25 | [Sisters Of Mercy](https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:19 |
-| 26 | [I Can't Forget](https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:41 |
+| 25 | [I Can't Forget](https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:41 |
+| 26 | [Sisters Of Mercy](https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:19 |
 | 27 | [Heart With No Companion](https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Ron Sexsmith](https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg) | 3:09 |
 | 28 | [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 |
 | 29 | [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 |

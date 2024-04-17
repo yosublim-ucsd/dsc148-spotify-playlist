@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 ### [This Is Christina Aguilera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JxyUw)
 
-> This is Christina Aguilera\. The essential tracks, all in one playlist.
+> This is Christina Aguilera\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,033 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,983 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
 | 50 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDI4MmNmNGY2ZTA2ZWVlYWYwOTk2ZjA5YzJhZWU1M2M5`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDRjYzg0MmQ5YmYwNGFkNThkMDg4ODRhYmQxMmNkOTZk`

@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 545263,
+  "num_followers": 544838,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Persistence Of Time (30th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Got The Time",
-      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Last Rager",
         "url": "https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 113040,
       "name": "Wave of Death",
       "url": "https://open.spotify.com/track/6egRwYsMJ8DVJQAKOjHWou"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Persistence Of Time (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Got The Time",
+      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 199226,
-      "name": "Refuse / Resist",
-      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
+      "duration_ms": 287480,
+      "name": "Territory",
+      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 287480,
-      "name": "Territory",
-      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "M-16 (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6loHWT2ZYOKSZDdpUQqgTr"
+        "name": "Hornet's Nest",
+        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 356973,
-      "name": "Napalm in the Morning (2021 - Remaster)",
-      "url": "https://open.spotify.com/track/7xWgCUckC7bAQfrXGZ8l5e"
+      "duration_ms": 279811,
+      "name": "Hornet's Nest",
+      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Hornet's Nest",
-        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
+        "name": "M-16 (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6loHWT2ZYOKSZDdpUQqgTr"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 279811,
-      "name": "Hornet's Nest",
-      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+      "duration_ms": 356973,
+      "name": "Napalm in the Morning (2021 - Remaster)",
+      "url": "https://open.spotify.com/track/7xWgCUckC7bAQfrXGZ8l5e"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -879,38 +879,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Titans of Creation",
-        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 392066,
-      "name": "Night of the Witch",
-      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "M-16",
-        "url": "https://open.spotify.com/album/1ens5WO0JQdJUE3GciGvjF"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "M-16",
-      "url": "https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Untouchable Glory",
         "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
       },
@@ -923,6 +891,22 @@
       "duration_ms": 166929,
       "name": "Ninja Untouchables/Untouchable Glory",
       "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Titans of Creation",
+        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 392066,
+      "name": "Night of the Witch",
+      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "M-16",
+        "url": "https://open.spotify.com/album/1ens5WO0JQdJUE3GciGvjF"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "M-16",
+      "url": "https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Totem",
         "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 173187,
       "name": "Filth Upon Filth",
       "url": "https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Agent Orange",
-        "url": "https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Ausgebombt",
-      "url": "https://open.spotify.com/track/2URuChhPo6T4Z2DTNrdegI"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Agent Orange",
+        "url": "https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Ausgebombt",
+      "url": "https://open.spotify.com/track/2URuChhPo6T4Z2DTNrdegI"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Mourn the Southern Skies",
         "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
       },
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+        "name": "Moments Elsewhere",
+        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "Johnny Booth",
+          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
         }
       ],
-      "duration_ms": 261709,
-      "name": "Nightmare Logic",
-      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
+      "duration_ms": 174333,
+      "name": "Collapse in the Key of Fireworks",
+      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Moments Elsewhere",
-        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
-      },
-      "artists": [
-        {
-          "name": "Johnny Booth",
-          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Collapse in the Key of Fireworks",
-      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Born Of The Bomb",
         "url": "https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca"
       },
@@ -1183,18 +1167,34 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Myrsky",
-        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
       "artists": [
         {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 210691,
-      "name": "Ympyr\u00e4 sulkeutuu",
-      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
+      "duration_ms": 261709,
+      "name": "Nightmare Logic",
+      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "An Overdose of Death...",
+        "url": "https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU"
+      },
+      "artists": [
+        {
+          "name": "Toxic Holocaust",
+          "url": "https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Nuke The Cross",
+      "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1231,34 +1231,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Opening Fire: 2008-2014",
-        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
+        "name": "Myrsky",
+        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
         }
       ],
-      "duration_ms": 257695,
-      "name": "Divine Apprehension",
-      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "An Overdose of Death...",
-        "url": "https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU"
-      },
-      "artists": [
-        {
-          "name": "Toxic Holocaust",
-          "url": "https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "Nuke The Cross",
-      "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
+      "duration_ms": 210691,
+      "name": "Ympyr\u00e4 sulkeutuu",
+      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "The Legacy",
+        "url": "https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "Over the Wall",
+      "url": "https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "The Man That Never Was",
         "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Legacy",
-        "url": "https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW"
+        "name": "Opening Fire: 2008-2014",
+        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 246066,
-      "name": "Over the Wall",
-      "url": "https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu"
+      "duration_ms": 257695,
+      "name": "Divine Apprehension",
+      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Sever The Tongue",
-        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
-      },
-      "artists": [
-        {
-          "name": "Deicide",
-          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "Sever The Tongue",
-      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The New Order",
         "url": "https://open.spotify.com/album/3aZG385ojagRAjAvscAv37"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 166240,
       "name": "Into the Pit",
       "url": "https://open.spotify.com/track/3r9jQQKWDHyhYlCG2YPE1N"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Sever The Tongue",
+        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
+      },
+      "artists": [
+        {
+          "name": "Deicide",
+          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "Sever The Tongue",
+      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Outer Isolation",
-        "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
-      },
-      "artists": [
-        {
-          "name": "Vektor",
-          "url": "https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "Tetrastructural Minds",
-      "url": "https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Extreme Aggression",
         "url": "https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 283466,
       "name": "Extreme Aggression",
       "url": "https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Outer Isolation",
+        "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
+      },
+      "artists": [
+        {
+          "name": "Vektor",
+          "url": "https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "Tetrastructural Minds",
+      "url": "https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Heavy Metal Maniac",
-        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
-      },
-      "artists": [
-        {
-          "name": "Exciter",
-          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Heavy Metal Maniac",
-      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Slaughter In The Vatican",
         "url": "https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 368840,
       "name": "Desecrator",
       "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Heavy Metal Maniac",
+        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
+      },
+      "artists": [
+        {
+          "name": "Exciter",
+          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Heavy Metal Maniac",
+      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Wrecking Crew",
+      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 218406,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Wrecking Crew",
-      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Armed To The Teeth",
-        "url": "https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn"
+        "name": "Power And Pain",
+        "url": "https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq"
       },
       "artists": [
         {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+          "name": "Whiplash",
+          "url": "https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ"
         }
       ],
-      "duration_ms": 266014,
-      "name": "Armed To The Teeth",
-      "url": "https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN"
+      "duration_ms": 210986,
+      "name": "Last Man Alive",
+      "url": "https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w"
     }
   ],
   "unique_name": "Thrashers",

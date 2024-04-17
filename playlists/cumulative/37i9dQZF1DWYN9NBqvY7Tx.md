@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-499 songs - 1 day 2 hr 16 min
+500 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Lost My Way](https://open.spotify.com/track/1RiJdChbp902jktp7mz7uV) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Lost My Way](https://open.spotify.com/album/6USDB908J7WNEWj5aMeQGu) | 3:26 | 2022-05-06 | 2022-07-28 |
 | [Lost Woods](https://open.spotify.com/track/0rE2IY6L1qLxAEQxxZkQOG) | [VGR](https://open.spotify.com/artist/3pCoHlohSNQdXBNDxuWd12) | [Lost Woods](https://open.spotify.com/album/2gTWHXzZGk9ujVIH8QmfUE) | 3:08 | 2024-02-09 | 2024-04-06 |
 | [Love Is Blind](https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:41 | 2022-07-14 | 2022-07-24 |
-| [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-11 |  |
+| [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-11 | 2024-04-17 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2024-01-19 |  |
 | [LSD](https://open.spotify.com/track/3Vwpo3aARHRjusbFsSlLk0) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [LSD](https://open.spotify.com/album/7ll9IBL7030mFRxrsuqkUl) | 3:08 | 2022-05-06 | 2022-05-10 |
 | [Luv Me a Little](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Luv Me A Little](https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId) | 3:44 | 2023-01-23 | 2024-03-12 |
@@ -364,6 +364,7 @@
 | [Run It \(feat\. Rick Ross & Rich Brian\)](https://open.spotify.com/track/282R6Lvm9nLtpx8AzUwJe0) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Run It \(feat\. Rick Ross & Rich Brian\)](https://open.spotify.com/album/1FV8d1q44uSeqkGK7fNh3D) | 2:43 | 2022-05-06 | 2022-07-29 |
 | [Running To The Edge](https://open.spotify.com/track/0jmeBmNDOJ0XMWxvmvxzrD) | [Arize](https://open.spotify.com/artist/6eq90a47vMudnFCHfKCHV9), [Veso](https://open.spotify.com/artist/1fb9DwFSiBuHksqdCrRUHO), [Doré](https://open.spotify.com/artist/6gnurcY2w2zI5PEv5aYq7k) | [Running To The Edge](https://open.spotify.com/album/4QofGddgttTAAgy2GHx9IQ) | 3:43 | 2022-05-06 | 2022-07-28 |
 | [S.O.S](https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [S.O.S](https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba) | 2:54 | 2023-01-23 | 2023-10-03 |
+| [Sacrifice \(with PARISI\)](https://open.spotify.com/track/5BYW81VirpjGniM4EixRp8) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:46 | 2024-04-05 |  |
 | [Savannah](https://open.spotify.com/track/0ZdUHFxifUJNqo7G4aJzoF) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Philly K.](https://open.spotify.com/artist/1v8lhkt5jZgHT8xi1wYNUS) | [Savannah](https://open.spotify.com/album/71cGzXXQV7S3GWFIS57IO5) | 3:28 | 2022-10-14 | 2022-11-13 |
 | [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 | 2023-08-18 |  |
 | [Savior](https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Savior](https://open.spotify.com/album/4QKa6xzfvlkPXkAfmKQPlh) | 3:06 | 2023-08-18 | 2023-09-22 |

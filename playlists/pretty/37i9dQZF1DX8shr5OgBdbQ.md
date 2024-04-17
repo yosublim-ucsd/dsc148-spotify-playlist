@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,548 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,638 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 43 | [The Maiden and the Selkie](https://open.spotify.com/track/6mm3BGVN6zER6t8mDjM8cQ) | [Heather Dale](https://open.spotify.com/artist/4NCKwyk9WVY6YI81tRQTLA) | [The Green Knight](https://open.spotify.com/album/1X476e9gq68JcrEMPkOleb) | 4:06 |
 | 44 | [Fish in the Sea](https://open.spotify.com/track/4gofFADVe6CBXoNQHuxwiF) | [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:29 |
 | 45 | [Migalay Boat Song](https://open.spotify.com/track/5tbesmuXa9zGysiRzl3vra) | [The Fisherman’s Friends](https://open.spotify.com/artist/0cyEKEh8fQkksmpwLBlZV4) | [Home From The Sea](https://open.spotify.com/album/1zxO6AaHwxYyOsW4rf2NFm) | 2:52 |
-| 46 | [Sloop John B \- Live](https://open.spotify.com/track/1ih3UmxPvsRvSogQJTQ82R) | [Port Isaac's Fisherman's Friends](https://open.spotify.com/artist/1cbWpMFngLy9p8lgpii3GQ) | [The Cambridge Folk Festival 2010 / 11 \(Live\)](https://open.spotify.com/album/5QFXQuVxhheVuBXkBuCGIQ) | 3:50 |
+| 46 | [Sloop John B \- Live](https://open.spotify.com/track/6SwuCmtNUXxkWD8nhWpWyo) | [Port Isaac's Fisherman's Friends](https://open.spotify.com/artist/1cbWpMFngLy9p8lgpii3GQ) | [The Cambridge Folk Festival 2010 / 11 \(Live\)](https://open.spotify.com/album/3piII04AIzlxY5hAKvYlfU) | 3:50 |
 | 47 | [Barrett's Privateers](https://open.spotify.com/track/3TLhkXFenusy509GrA8RUL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:30 |
 | 48 | [Mingulay Boat Song](https://open.spotify.com/track/6Kh9uXCwBCaSJUaNI4IYBE) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rogue's Gallery: Pirate Ballads, Sea Song And Chanteys](https://open.spotify.com/album/2nEFRJfFVgdcPGKv9atYBg) | 4:13 |
 | 49 | [Haul Away the Whale](https://open.spotify.com/track/4LA7dTvssOGgLMthwbkTGX) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Moving East](https://open.spotify.com/album/0JoCnLJNYqqClS0WDm32Qt) | 4:22 |

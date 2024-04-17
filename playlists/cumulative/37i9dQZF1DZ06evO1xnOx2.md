@@ -2,7 +2,7 @@
 
 ### [This Is Hozier](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1xnOx2)
 
-> This is Hozier\. Todos os maiores hits em uma só playlist.
+> This is Hozier\. Track\-track unggulan, semuanya dalam satu playlist.
 
 41 songs - 2 hr 42 min
 

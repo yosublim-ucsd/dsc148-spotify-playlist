@@ -2,7 +2,7 @@
 
 ### [This Is Ramones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi)
 
-> This Is Ramones\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Ramones\. The essential tracks, all in one playlist.
 
 88 songs - 3 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
 
-704 songs - 1 day 14 hr 10 min
+705 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 | 2023-10-13 |  |
 | [No Es Lo Mismo](https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [No Es Lo Mismo](https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2) | 2:45 | 2023-05-26 | 2023-06-17 |
 | [No Es Normal](https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 3:32 | 2021-12-02 | 2023-02-16 |
+| [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 | 2024-04-16 |  |
 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-02-02 | 2023-02-17 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-10-24 | 2023-02-17 |
 | [No Jaló](https://open.spotify.com/track/7FEsK4duqNeeL6AL1mSKRy) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Jaló](https://open.spotify.com/album/51J7uD0c8jhBXKOHdpKqGi) | 2:06 | 2021-12-02 | 2022-01-25 |

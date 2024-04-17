@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Ajebo Hustelrs
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,645 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,698 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 62 | [Family time](https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Family Time](https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2) | 3:42 |
 | 63 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 |
 | 64 | [No Wam](https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [No Wam](https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE) | 3:03 |
-| 65 | [Personally](https://open.spotify.com/track/4AnvyLTX8ZAe3LVGrE7h8h) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/0uiaL4veJ9NbbUbVjZJtIO) | 2:09 |
-| 66 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
-| 67 | [Earth Song](https://open.spotify.com/track/0NSzWmOlosttMQx776Jzq9) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [The Messenger](https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi) | 3:03 |
+| 65 | [Earth Song](https://open.spotify.com/track/0NSzWmOlosttMQx776Jzq9) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [The Messenger](https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi) | 3:03 |
+| 66 | [Personally](https://open.spotify.com/track/4AnvyLTX8ZAe3LVGrE7h8h) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/0uiaL4veJ9NbbUbVjZJtIO) | 2:09 |
+| 67 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
 | 68 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 |
-| 69 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
+| 69 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 70 | [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 |
 
 Snapshot ID: `MTcxMjg4MDA2MCwwMDAwMDAwMDg1MTc1MDIxZjk2ZTI3ZGY3ODE5YTQ4ODMyNGJkNjcw`

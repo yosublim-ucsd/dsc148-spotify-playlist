@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 149207,
+  "num_followers": 149260,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bulevar 2000 (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "I Count the Ways",
-      "url": "https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kiosko",
         "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 253501,
       "name": "Kiosko",
       "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bulevar 2000 (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "I Count the Ways",
+      "url": "https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "La \u00daltima Noche Del Mundo",
+        "url": "https://open.spotify.com/album/3nWav7AajCknAgmTR3xnqP"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Ella No Me Conoce",
+      "url": "https://open.spotify.com/track/3tRIvnqbgBuujWj5i3m2Lq"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Lo Que Puedes Dar",
         "url": "https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 172500,
       "name": "Lo Que Puedes Dar",
       "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "El Bar de Peter Pan",
-        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
-      },
-      "artists": [
-        {
-          "name": "Pau y Amigos",
-          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Fiesta Permanente",
-      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1559,34 +1559,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "La \u00daltima Noche Del Mundo",
-        "url": "https://open.spotify.com/album/3nWav7AajCknAgmTR3xnqP"
+        "name": "El Bar de Peter Pan",
+        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
       },
       "artists": [
         {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+          "name": "Pau y Amigos",
+          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
         }
       ],
-      "duration_ms": 288760,
-      "name": "Ella No Me Conoce",
-      "url": "https://open.spotify.com/track/3tRIvnqbgBuujWj5i3m2Lq"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "El Origen",
-        "url": "https://open.spotify.com/album/3zi6ijqumcCsE6UGk3swYQ"
-      },
-      "artists": [
-        {
-          "name": "Los Macuanos",
-          "url": "https://open.spotify.com/artist/4bYrlBddwEtF2kYpMm9gBG"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "Ritmo De Amor",
-      "url": "https://open.spotify.com/track/7KzrfldjfaOcQ3k31wBcni"
+      "duration_ms": 280853,
+      "name": "Fiesta Permanente",
+      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Azul Oscuro",
-        "url": "https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe"
+        "name": "El Origen",
+        "url": "https://open.spotify.com/album/3zi6ijqumcCsE6UGk3swYQ"
       },
       "artists": [
         {
-          "name": "Zurdok",
-          "url": "https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF"
+          "name": "Los Macuanos",
+          "url": "https://open.spotify.com/artist/4bYrlBddwEtF2kYpMm9gBG"
         }
       ],
-      "duration_ms": 261079,
-      "name": "Azul Oscuro",
-      "url": "https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn"
+      "duration_ms": 276266,
+      "name": "Ritmo De Amor",
+      "url": "https://open.spotify.com/track/7KzrfldjfaOcQ3k31wBcni"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1635,6 +1619,22 @@
       "duration_ms": 206673,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Azul Oscuro",
+        "url": "https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe"
+      },
+      "artists": [
+        {
+          "name": "Zurdok",
+          "url": "https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF"
+        }
+      ],
+      "duration_ms": 261079,
+      "name": "Azul Oscuro",
+      "url": "https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

@@ -1,7 +1,7 @@
 {
-  "2024-04-16": 56884,
+  "2024-04-17": 56916,
   "date_first_scraped": "2023-09-29",
-  "description": "On sait jamais, sur un malentendu \u00e7a peut marcher.",
+  "description": "Laissez-moi plonger, je suis m\u00e9decin.",
   "name": "Balec !",
   "tracks": [
     {
@@ -1538,6 +1538,24 @@
     },
     {
       "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
+    },
+    {
+      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 205160,
       "name": "The House of Wolves",
       "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
@@ -1931,6 +1949,24 @@
       "duration_ms": 205413,
       "name": "Tick Tick Boom",
       "url": "https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb"
+    },
+    {
+      "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/4v8XPmMKSBUwjz4t7C8Ecn"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133093,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/4kyfZcirG407sqrF34ZKxR"
     },
     {
       "album": {
@@ -2183,7 +2219,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 159771,
       "name": "Would you be my therapy?",
       "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"

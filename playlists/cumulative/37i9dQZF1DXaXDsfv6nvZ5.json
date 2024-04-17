@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 199993,
       "name": "614",
       "url": "https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp"
@@ -384,10 +384,32 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 270386,
       "name": "Alone Together (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2"
+    },
+    {
+      "album": {
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270386,
+      "name": "Alone Together (feat. Keyon Harrold)",
+      "url": "https://open.spotify.com/track/7Kf4XZWtern4bGBN7sxNvK"
     },
     {
       "album": {
@@ -3262,7 +3284,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 211693,
       "name": "Habits - Radio Edit",
       "url": "https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq"
@@ -4736,7 +4758,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "Love Bomb",
       "url": "https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ"
@@ -5240,7 +5262,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"

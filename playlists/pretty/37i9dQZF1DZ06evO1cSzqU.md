@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 ### [This Is Scorpions](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
 
-> This Is Scorpions\. Los temas esenciales, todos en una lista.
+> This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,204 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,021 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [Seventh Sun](https://open.spotify.com/track/5RN6lrv6esmnuN9F62VQ2F) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 5:30 |
 | 50 | [Can't Live Without You](https://open.spotify.com/track/0mOMvN8GNGAVW5e5934fUn) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:47 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDhkNDFjOWM0MWQyODZlYjgyOGYwYzM2OWMyMWU1ZjZh`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGFhYTExZjUyZWUyNWMwOGZmMTlmM2I0NjY0MTE2Zjc4`

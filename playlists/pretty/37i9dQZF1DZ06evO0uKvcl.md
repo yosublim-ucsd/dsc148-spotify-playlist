@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 
-> This is Howlin' Wolf。アーティストの代表曲をひとつのプレイリストに。
+> This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,141 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,148 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 49 | [Howlin' Wolf Boogie \- Single Version](https://open.spotify.com/track/2tQIv1nBXJChbiyA95NShQ) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Box](https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B) | 2:38 |
 | 50 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGRmMmNjMDJmYTkwZDZmY2FlN2Q4M2RjODI0ZjdmZDY5`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU5Yjk0YzEwN2I1OTlmNTQzOTM4OWFmZDY5M2I3ZDc0`

@@ -1,6 +1,6 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 135461,
+  "num_followers": 135460,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 398598,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/46KG2wmw38sYm1GoRHIsOW"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Premiers \u00e9mois",
         "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 206546,
       "name": "La femme \u00e0 la peau bleue",
       "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 398598,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/46KG2wmw38sYm1GoRHIsOW"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LET'S DO IT AGAIN",
-        "url": "https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 225494,
-      "name": "LET'S DO IT AGAIN - Radio Edit",
-      "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Nabi (feat. Ohhyuk)",
         "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 232914,
       "name": "Nabi (feat. OHHYUK)",
       "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "LET'S DO IT AGAIN",
+        "url": "https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 225494,
+      "name": "LET'S DO IT AGAIN - Radio Edit",
+      "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
-      },
-      "artists": [
-        {
-          "name": "Cameo Culture",
-          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
-        }
-      ],
-      "duration_ms": 304654,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rust & Gold",
         "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 220626,
       "name": "How Much (You Want Her) 2017",
       "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burning Bright",
+        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
+      },
+      "artists": [
+        {
+          "name": "Cameo Culture",
+          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
+        }
+      ],
+      "duration_ms": 304654,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -711,6 +711,22 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "MOVEMENTS",
+      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -763,22 +779,6 @@
       "duration_ms": 152631,
       "name": "Cabrioli",
       "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "MOVEMENTS",
-      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
-      "added_at": "2023-12-12 19:01:54",
-      "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
-    },
-    {
       "added_at": "2023-10-24 02:02:26",
       "album": {
         "name": "Carrossel Do Tempo",
@@ -913,20 +897,20 @@
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2023-12-12 19:01:54",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
         }
       ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -947,22 +931,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
-        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Cola Boyy",
-          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
-        },
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 262019,
-      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
-      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -983,6 +963,26 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
+        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
+      },
+      "artists": [
+        {
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
+        },
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 262019,
+      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
+      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
-      },
-      "artists": [
-        {
-          "name": "Gary Luton",
-          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Young Romance (Deluxe)",
         "url": "https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 279676,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/4yC3bN8quQSuJw4vK6AYtW"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
+      },
+      "artists": [
+        {
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1667,22 +1667,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
+        "name": "Passion (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/7hg9Cv2iWH4RTlQuhUWpIx"
       },
       "artists": [
         {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 261224,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+      "duration_ms": 221135,
+      "name": "Passion (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/7zMny9SA9XiJeNBp0YUNXK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1703,22 +1703,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Passion (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/7hg9Cv2iWH4RTlQuhUWpIx"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 221135,
-      "name": "Passion (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/7zMny9SA9XiJeNBp0YUNXK"
+      "duration_ms": 261224,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Kitsun\u00e9 Parisien 4",
-        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
-      },
-      "artists": [
-        {
-          "name": "MonteRosso",
-          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Huacachina",
-      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 201331,
       "name": "Supersonics",
       "url": "https://open.spotify.com/track/2Y808U6qanXAMnN8jovGC1"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Kitsun\u00e9 Parisien 4",
+        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
+      },
+      "artists": [
+        {
+          "name": "MonteRosso",
+          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Huacachina",
+      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
     },
     {
       "added_at": "2023-08-14 14:58:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo :  Mik L x Nesly
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,994 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,058 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 21 | [Madame](https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd) | [Madame](https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE) | 3:12 |
 | 22 | [Jeu dangereux](https://open.spotify.com/track/0ILZ5MSXz0w6aF3JnqRE6C) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Jeu dangereux](https://open.spotify.com/album/77vAIuKvXoIEH8d8TtXLUX) | 3:17 |
 | 23 | [TASTY](https://open.spotify.com/track/0CUXSCaRvwcShFXPLEtz7F) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TASTY](https://open.spotify.com/album/1RWI2svnFLEMglOFZEsBKD) | 3:28 |
-| 24 | [Coup de Vent](https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Siwo](https://open.spotify.com/album/0xpfEtfYK8t7p4fAkMqxsb) | 2:49 |
+| 24 | [Coup de vent](https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Siwo](https://open.spotify.com/album/0xpfEtfYK8t7p4fAkMqxsb) | 2:49 |
 | 25 | [Dangereuse](https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Dangereuse](https://open.spotify.com/album/74gssChBg7pHuz31u2LayX) | 2:58 |
 | 26 | [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 |
 | 27 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 |

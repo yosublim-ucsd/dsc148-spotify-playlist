@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 531287,
+  "2024-04-17": 531103,
   "date_first_scraped": "2022-01-21",
   "description": "El amor no se escucha, se siente...",
   "name": "Radio Coraz\u00f3n",
@@ -2219,7 +2219,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
@@ -5855,6 +5855,24 @@
       "duration_ms": 183362,
       "name": "Primer Avi\u00f3n",
       "url": "https://open.spotify.com/track/1CaBwYdWhxUeE4j3w0WqbL"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Elsa y Elmar.
 
-564 songs - 1 day 9 hr 53 min
+565 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alma Sola](https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Cuchara Chueca](https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V) | 4:31 | 2022-05-27 | 2023-12-16 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-07-22 | 2022-09-03 |
 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 | 2023-12-15 | 2024-02-10 |
+| [Ana Iturrama](https://open.spotify.com/track/0J8smWtCuMtCCSPiL7VkPi) | [JP Mbongo](https://open.spotify.com/artist/7if5zjrPn38PiToOKC9DRE) | [Ana Iturrama](https://open.spotify.com/album/7C5FhMNatm6RlTTWkIyNuM) | 3:42 | 2024-04-12 |  |
 | [Anaconda](https://open.spotify.com/track/44Qgkt6lXthGoUrdOXde78) | [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP), [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2), [Manu Eguía](https://open.spotify.com/artist/3tIkvITvvYa2L6IG9Y7GJY) | [Anaconda](https://open.spotify.com/album/3lb4aq6k5kru93YO3yDrKm) | 3:21 | 2024-03-08 | 2024-03-16 |
 | [Animal](https://open.spotify.com/track/0IzsR7RRJ4zS536vbcalpJ) | [Amaia Miranda](https://open.spotify.com/artist/4ij2OlNjoDeAZBcqmOkqh8) | [Cuando se nos mueren los amores](https://open.spotify.com/album/6W4jvb8vWYveJ724rxO7VQ) | 3:21 | 2022-04-01 | 2022-05-06 |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2021-12-24 | 2022-04-24 |
@@ -112,7 +113,7 @@
 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2021-12-24 | 2022-01-10 |
 | [Comando Antivandálico, Pero Violento](https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Comando Antivandálico, Pero Violento](https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x) | 3:34 | 2023-06-23 | 2023-12-16 |
 | [Como diciembre a enero](https://open.spotify.com/track/10gN65ff59oz7Sxa1PNDHF) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Como diciembre a enero](https://open.spotify.com/album/7qnIiF3WKa6eTdUvodZLzt) | 2:50 | 2023-01-20 | 2023-06-17 |
-| [Como la Primavera](https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj) | [Moreira](https://open.spotify.com/artist/7oprBrcyjELdAALY8hK9pr), [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [De Mi Pena Nacen Flores](https://open.spotify.com/album/14AlQbVJZBcPehbS4Ud8Xx) | 4:01 | 2024-03-22 |  |
+| [Como la Primavera](https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj) | [Moreira](https://open.spotify.com/artist/7oprBrcyjELdAALY8hK9pr), [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [De Mi Pena Nacen Flores](https://open.spotify.com/album/14AlQbVJZBcPehbS4Ud8Xx) | 4:01 | 2024-03-22 | 2024-04-17 |
 | [Como Un Amuleto](https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [Como Un Amuleto](https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU) | 3:11 | 2022-05-13 |  |
 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 | 2021-12-24 |  |
 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 | 2023-12-11 | 2024-03-02 |

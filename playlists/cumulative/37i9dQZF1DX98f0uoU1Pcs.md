@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Gustaf
 
-656 songs - 1 day 12 hr 9 min
+657 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Crush](https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Crush](https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR) | 4:46 | 2023-09-15 | 2024-02-17 |
 | [DAEMON](https://open.spotify.com/track/6z2vZ2TyVT2jeCm7sxuDPU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [DAEMON](https://open.spotify.com/album/1ZzmlC1ZtshIf4OgTmuEwY) | 2:46 | 2022-03-11 | 2023-04-15 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:09 | 2022-08-26 | 2023-08-26 |
-| [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 | 2024-02-16 |  |
+| [Dallas](https://open.spotify.com/track/0VX5Ud6rUotyxZbWqnVUWq) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 6:02 | 2024-04-12 |  |
+| [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 | 2024-02-16 | 2024-04-17 |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-10-20 | 2024-01-20 |
 | [Dancing, Alone](https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Dancing, Alone](https://open.spotify.com/album/2VXleQVQpNyoFjYIDrW9G6) | 4:05 | 2023-04-07 |  |
 | [Days Like These](https://open.spotify.com/track/6KVjO1Wye1FuNdYx0keRkP) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [HEY WHAT](https://open.spotify.com/album/6S6jg2LuEwGdo9iYMSwCBS) | 5:20 | 2022-01-07 | 2022-01-26 |

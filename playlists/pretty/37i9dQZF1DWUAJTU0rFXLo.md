@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,465 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,468 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 75 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 | 76 | [Congênito](https://open.spotify.com/track/7Kiw2eWnLpXmnKXKxpCcq0) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Maravilhas Contemporâneas](https://open.spotify.com/album/5xPNrY6HwxlqlLvpx0S9EA) | 3:32 |
 | 77 | [Betcha Wouldn't Hurt Me \- Extended Version](https://open.spotify.com/track/4WvU1mDTPDRJ349kqLK9OH) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 3:46 |
-| 78 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
-| 79 | [Manhã](https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azimüth](https://open.spotify.com/album/1q5loxqHL3JmsQ9zxBTw6f) | 3:45 |
+| 78 | [Manhã](https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azimüth](https://open.spotify.com/album/1q5loxqHL3JmsQ9zxBTw6f) | 3:45 |
+| 79 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
 | 80 | [I'm In Love](https://open.spotify.com/track/5IhBjmG7k7z9HVkvPl17N5) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [I'm In Love \(Expanded Edition\)](https://open.spotify.com/album/5SZVTXdGx4zFBQqTxVXUcE) | 5:05 |
 | 81 | [Somebody's Else's Guy](https://open.spotify.com/track/30cx30IqPRCZCFwObudwYb) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Classics Funky Music, Vol\. 2](https://open.spotify.com/album/79GSZ1xDApKaw6BHNW5yly) | 6:29 |
 | 82 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/2F79mAPt1qPENDvq0njWoP) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bis Bossa Nova \- Marcos Valle](https://open.spotify.com/album/354iFS0exBrdnRxQis9SN0) | 3:42 |

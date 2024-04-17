@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 149350,
       "name": "April Fools Day Special",
       "url": "https://open.spotify.com/track/4fDIcqfPrAc6AZCJRoSwoq"
@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -11014,7 +11014,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 230975,
       "name": "I Made Her",
       "url": "https://open.spotify.com/track/0fkHZfRZbyt30z5RG50dot"
@@ -15156,6 +15156,28 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "album": {
+        "name": "Meetha Meetha Pain CoCo",
+        "url": "https://open.spotify.com/album/6MKixvzkkSS2C4WbtF1Mhp"
+      },
+      "artists": [
+        {
+          "name": "Sapra",
+          "url": "https://open.spotify.com/artist/7A9TRei8uGYELclodc6GAC"
+        },
+        {
+          "name": "SUVI",
+          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Meetha Meetha Pain CoCo",
+      "url": "https://open.spotify.com/track/3yRTp3Wychy4nrfHrE8UAU"
     },
     {
       "album": {
@@ -22380,7 +22402,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -24032,7 +24054,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 155428,
       "name": "The Chosen One",
       "url": "https://open.spotify.com/track/76vqI8l6yCcgRk0uLPIoBP"
@@ -24086,7 +24108,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
@@ -26558,7 +26580,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"

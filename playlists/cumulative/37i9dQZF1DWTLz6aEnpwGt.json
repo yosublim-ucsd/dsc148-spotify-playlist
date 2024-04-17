@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679453,
+      "name": "II. Allemande",
+      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+    },
+    {
+      "album": {
         "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
         "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
       },
@@ -1018,50 +1040,6 @@
       "duration_ms": 342040,
       "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
       "url": "https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi"
-    },
-    {
-      "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "date_added": "2022-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 679453,
-      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
-      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
-    },
-    {
-      "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "date_added": "2022-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 389706,
-      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
-      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
     },
     {
       "album": {
@@ -1260,6 +1238,28 @@
       "duration_ms": 85599,
       "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
       "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389706,
+      "name": "V. Sarabande",
+      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTLz6aEnpwGt"

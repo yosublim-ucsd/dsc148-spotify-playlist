@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-270 songs - 1 day 1 hr 21 min
+271 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 | 2023-02-18 | 2023-09-02 |
 | [Santo pra Sempre \- Ao Vivo](https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5) | 8:07 | 2023-09-15 | 2023-11-30 |
 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 | 2022-09-09 | 2023-01-14 |
+| [Se Eu Me Humilhar \- Ao Vivo](https://open.spotify.com/track/5tPLQS4JuRh0kqMUnRhALL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Palavra, Som e Poder \(Ao Vivo\)](https://open.spotify.com/album/7IBhMEhEI4nPqtzX2WLyWb) | 7:11 | 2024-01-05 |  |
 | [Se Eu Me Humilhar \- Ao Vivo](https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Palavra, Som e Poder \(Ao Vivo\)](https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU) | 7:11 | 2023-06-23 | 2024-04-11 |
 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 | 2022-09-09 | 2023-01-14 |
 | [Seja Forte](https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Seja Forte](https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD) | 4:13 | 2023-09-01 |  |
@@ -243,7 +244,7 @@
 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 | 2022-12-09 | 2023-04-29 |
 | [Todavia Me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Samuel Messias \(Ao Vivo\)](https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX) | 6:31 | 2022-09-09 |  |
 | [Todavia Me Alegrarei \- Ao Vivo](https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Todavia Me Alegrarei \(Ao Vivo\)](https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP) | 4:51 | 2023-05-19 |  |
-| [Todo Poderoso \- Ao Vivo](https://open.spotify.com/track/7Ko5h3XvOo2u9qr0XkgHdH) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/album/6sjQlKkjVXB4sYYs9Z4gdn) | 5:14 | 2024-01-05 |  |
+| [Todo Poderoso \- Ao Vivo](https://open.spotify.com/track/7Ko5h3XvOo2u9qr0XkgHdH) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/album/6sjQlKkjVXB4sYYs9Z4gdn) | 5:14 | 2024-01-05 | 2024-04-17 |
 | [TOGETHER](https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TOGETHER](https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z) | 3:26 | 2022-09-09 | 2023-02-25 |
 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 | 2022-09-09 | 2023-01-14 |
 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 | 2022-09-09 | 2023-02-25 |

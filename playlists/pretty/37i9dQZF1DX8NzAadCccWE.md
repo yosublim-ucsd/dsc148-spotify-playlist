@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,809 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,824 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 78 | [On Your Own](https://open.spotify.com/track/02upSK6nVuCzznNZ2ySUzx) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [The Patience](https://open.spotify.com/album/4rlo8jqmYw1HCRfyBVIPab) | 5:02 |
 | 79 | [Seven 55 \(DJ\-Kicks\) \- Mixed](https://open.spotify.com/track/4NBdKqjL4UPasjv9Xzbnpf) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [DJ\-Kicks: Jessy Lanza](https://open.spotify.com/album/3RVxiA5FxTloZGWsdPZVXs) | 3:00 |
 | 80 | [Transdimensional](https://open.spotify.com/track/6TL023PjPquxqJ4tzc1u2B) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 4:49 |
-| 81 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 |
+| 81 | [Another Chance](https://open.spotify.com/track/10SsszZXnRrXNKl2JGvs9I) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Street Bangers Factory 17](https://open.spotify.com/album/4W08kjPFYZywJ2L1xbHXoR) | 3:03 |
 | 82 | [Faceoff](https://open.spotify.com/track/0neDY44gnlH9cLLyH3gneR) | [Garneau](https://open.spotify.com/artist/2auOV5mY2iK1cJ4XmHXynL), [Nurmi](https://open.spotify.com/artist/0tQv0SmTGWgdAseBKHSnpL) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 6:00 |
 | 83 | [NONONO](https://open.spotify.com/track/4ZOe8f2EcUBdCWQtJcTx7N) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Unreality](https://open.spotify.com/album/2H5qgaaJKuFuIeiACUTgki) | 4:08 |
 | 84 | [Taiko160](https://open.spotify.com/track/1nTR7MQn80XALqKggUjA1Q) | [Oyubi](https://open.spotify.com/artist/31lJcJjObYkDS6hNPPLvDr) | [Reidai](https://open.spotify.com/album/2jdGQuVviXTi2rssNFOWSB) | 4:17 |

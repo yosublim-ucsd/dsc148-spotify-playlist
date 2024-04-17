@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 1194769,
+  "2024-04-17": 1191077,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Flakk\u00eb",
   "name": "Dance Paradise",
@@ -3305,6 +3305,28 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "album": {
+        "name": "Let's Go (Alok Remix)",
+        "url": "https://open.spotify.com/album/7EdUbRY9YIVC84O3tLnLMj"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158145,
+      "name": "Let's Go - Alok Remix",
+      "url": "https://open.spotify.com/track/6FyWLxwCe1d1Fik2PZ3bGp"
     },
     {
       "album": {

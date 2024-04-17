@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 32869,
+  "num_followers": 32849,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY2NTQ1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY2NjMyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Guli Guli (From \"Buzz House\" The Movie)",
         "url": "https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V"
@@ -29,43 +45,7 @@
       "url": "https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Burj Khalifa",
-        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Sheik",
-          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
-        }
-      ],
-      "duration_ms": 151099,
-      "name": "Burj Khalifa",
-      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Vorba Francezului (From \"Buzz House\" The Movie)",
         "url": "https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6"
@@ -85,23 +65,27 @@
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
+        "name": "Burj Khalifa",
+        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
       },
       "artists": [
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
         }
       ],
-      "duration_ms": 130754,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
+      "duration_ms": 151099,
+      "name": "Burj Khalifa",
+      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -121,39 +105,23 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Ciocolata",
-        "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 169697,
-      "name": "Ciocolata",
-      "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
+      "duration_ms": 130754,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Romeo si Julieta",
-        "url": "https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q"
-      },
-      "artists": [
-        {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
-        }
-      ],
-      "duration_ms": 204445,
-      "name": "Romeo si Julieta",
-      "url": "https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
@@ -169,51 +137,59 @@
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "HOT (From Miami Bici 2 The Movie)",
-        "url": "https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW"
+        "name": "Romeo si Julieta",
+        "url": "https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "duration_ms": 204445,
+      "name": "Romeo si Julieta",
+      "url": "https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Ciocolata",
+        "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
       },
       "artists": [
         {
           "name": "Tzanca Uraganu",
           "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Andrei G",
-          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 170526,
-      "name": "HOT - From Miami Bici 2 The Movie",
-      "url": "https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE"
+      "duration_ms": 169697,
+      "name": "Ciocolata",
+      "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Sistem Otoman",
-        "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Tony One",
-          "url": "https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 163199,
-      "name": "Sistem Otoman",
-      "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -237,47 +213,51 @@
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "HOT (From Miami Bici 2 The Movie)",
+        "url": "https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Andrei G",
+          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+      "duration_ms": 170526,
+      "name": "HOT - From Miami Bici 2 The Movie",
+      "url": "https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Pe un pat",
-        "url": "https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81"
+        "name": "Sistem Otoman",
+        "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
       },
       "artists": [
         {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+          "name": "Tony One",
+          "url": "https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT"
         },
         {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
         }
       ],
-      "duration_ms": 157333,
-      "name": "Pe un pat",
-      "url": "https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8"
+      "duration_ms": 163199,
+      "name": "Sistem Otoman",
+      "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "De la dela",
         "url": "https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy"
@@ -293,7 +273,7 @@
       "url": "https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Amore",
         "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
@@ -313,63 +293,35 @@
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Gipsy Style",
-        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 188355,
-      "name": "Gipsy Style",
-      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Emirate",
-        "url": "https://open.spotify.com/album/6SupsrnE6vLLVLye1QOemc"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Emirate",
-      "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
-      },
-      "artists": [
-        {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 145617,
-      "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -401,10 +353,10 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "\u021aiganc\u0103 Balcanic\u0103",
-        "url": "https://open.spotify.com/album/7sYnNZqW8UZG54fB9MYtnX"
+        "name": "Emirate",
+        "url": "https://open.spotify.com/album/6SupsrnE6vLLVLye1QOemc"
       },
       "artists": [
         {
@@ -416,72 +368,12 @@
           "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 137538,
-      "name": "\u021aiganc\u0103 Balcanic\u0103",
-      "url": "https://open.spotify.com/track/3GVCA9D3bm9xIQePPn7YKw"
+      "duration_ms": 129000,
+      "name": "Emirate",
+      "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/2wZxTBZRMXII2ot7bPNDhu"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 118250,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/0JGjpulWnCKYNryeaX3GWM"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "SUNETE 2",
-        "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
-      },
-      "artists": [
-        {
-          "name": "andrei",
-          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
-        },
-        {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
-        },
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0CubchptrDNV9ei0oA5u3k"
-        }
-      ],
-      "duration_ms": 134519,
-      "name": "SUNETE 2",
-      "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Macar o Data",
         "url": "https://open.spotify.com/album/1a3qfoeZIfq5bJM76W1C7Y"
@@ -505,71 +397,123 @@
       "url": "https://open.spotify.com/track/7LznyeDoXi55LnP0fxmQrH"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Type Shit",
-      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
+        "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 165882,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
+      "duration_ms": 145617,
+      "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Tati, vreau",
-        "url": "https://open.spotify.com/album/7ec0ZSupalm3wKhkRg3f4X"
+        "name": "Pe un pat",
+        "url": "https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81"
       },
       "artists": [
         {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
         },
         {
-          "name": "George Talent",
-          "url": "https://open.spotify.com/artist/5nH3X16vKLMkEFbbTcy50f"
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 128181,
-      "name": "Tati, vreau",
-      "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
+      "duration_ms": 157333,
+      "name": "Pe un pat",
+      "url": "https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Gipsy Style",
+        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
+      },
+      "artists": [
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "duration_ms": 188355,
+      "name": "Gipsy Style",
+      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "SUNETE 2",
+        "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
+      },
+      "artists": [
+        {
+          "name": "andrei",
+          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
+        },
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        },
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0CubchptrDNV9ei0oA5u3k"
+        }
+      ],
+      "duration_ms": 134519,
+      "name": "SUNETE 2",
+      "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "BEAST MODE",
+        "url": "https://open.spotify.com/album/5GvT3AIUkQrWS3sLq4Lwdg"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "Lunetist",
+      "url": "https://open.spotify.com/track/0dN62YT06ktx5Ysk359xAp"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "X6",
         "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
@@ -585,27 +529,47 @@
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Lalele mentolate (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/1Vjqo2UzRkhxhgpmS0nFHp"
+        "name": "HA HA HA!",
+        "url": "https://open.spotify.com/album/1jsjY007Y30oJVP8dk7mad"
       },
       "artists": [
         {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 156755,
+      "name": "HA HA HA!",
+      "url": "https://open.spotify.com/track/0VXCNAVWSLuuyWMg61cNw3"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "\u021aiganc\u0103 Balcanic\u0103",
+        "url": "https://open.spotify.com/album/7sYnNZqW8UZG54fB9MYtnX"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         },
         {
           "name": "Manele Mentolate",
           "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 135145,
-      "name": "Lalele mentolate - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
+      "duration_ms": 137538,
+      "name": "\u021aiganc\u0103 Balcanic\u0103",
+      "url": "https://open.spotify.com/track/3GVCA9D3bm9xIQePPn7YKw"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/6vpnkFh7VxD3GMPhOunnm1"
@@ -625,23 +589,27 @@
       "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "Lalele mentolate (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/1Vjqo2UzRkhxhgpmS0nFHp"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 135145,
+      "name": "Lalele mentolate - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "ZODIAC",
         "url": "https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN"
@@ -665,10 +633,46 @@
       "url": "https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Iubire in Rate",
-        "url": "https://open.spotify.com/album/6iMotwXkWDRigOW0ZHgRpU"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "HOLLYWOOD (Fingers Blue Remix)",
+        "url": "https://open.spotify.com/album/2GJuJf00CsZwxbZIRnkAtg"
+      },
+      "artists": [
+        {
+          "name": "KYOTO",
+          "url": "https://open.spotify.com/artist/7HZEPyhE3YmdG74uLUB1VO"
+        },
+        {
+          "name": "Fingers Blue",
+          "url": "https://open.spotify.com/artist/19GyUp5GsB3wtY0YT0kEtN"
+        }
+      ],
+      "duration_ms": 162475,
+      "name": "HOLLYWOOD - Fingers Blue Remix",
+      "url": "https://open.spotify.com/track/0S3CPRH70uHkU8Rg64hCfn"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/2wZxTBZRMXII2ot7bPNDhu"
       },
       "artists": [
         {
@@ -676,72 +680,16 @@
           "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
         },
         {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 149647,
-      "name": "Iubire in Rate",
-      "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
+      "duration_ms": 118250,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/0JGjpulWnCKYNryeaX3GWM"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Decibeli",
-        "url": "https://open.spotify.com/album/5jylDMNyLWXD1Jcgt4GKgA"
-      },
-      "artists": [
-        {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
-        }
-      ],
-      "duration_ms": 234925,
-      "name": "Decibeli",
-      "url": "https://open.spotify.com/track/0ogZ6EecrYbNQhKIQCCXyz"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "HA HA HA!",
-        "url": "https://open.spotify.com/album/1jsjY007Y30oJVP8dk7mad"
-      },
-      "artists": [
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        },
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 156755,
-      "name": "HA HA HA!",
-      "url": "https://open.spotify.com/track/0VXCNAVWSLuuyWMg61cNw3"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "BEAST MODE",
-        "url": "https://open.spotify.com/album/5GvT3AIUkQrWS3sLq4Lwdg"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "Lunetist",
-      "url": "https://open.spotify.com/track/0dN62YT06ktx5Ysk359xAp"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -765,63 +713,7 @@
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/6YmsVES9FAqLyH2PZ4c9hD"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/52McDqrh8bsx7g1tZbIuFV"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Fana",
-        "url": "https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg"
-      },
-      "artists": [
-        {
-          "name": "Jador",
-          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "Fana",
-      "url": "https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
-        "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        },
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        }
-      ],
-      "duration_ms": 148238,
-      "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
-      "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -837,7 +729,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Miss Dior",
         "url": "https://open.spotify.com/album/1d98QAKQbTW1FgbCmEDXsJ"
@@ -861,27 +753,147 @@
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "Banii",
-        "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
       },
       "artists": [
         {
           "name": "Tzanca Uraganu",
           "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Iubire in Rate",
+        "url": "https://open.spotify.com/album/6iMotwXkWDRigOW0ZHgRpU"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Iubire in Rate",
+      "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Decibeli",
+        "url": "https://open.spotify.com/album/5jylDMNyLWXD1Jcgt4GKgA"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "duration_ms": 234925,
+      "name": "Decibeli",
+      "url": "https://open.spotify.com/track/0ogZ6EecrYbNQhKIQCCXyz"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/6YmsVES9FAqLyH2PZ4c9hD"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/52McDqrh8bsx7g1tZbIuFV"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Tati, vreau",
+        "url": "https://open.spotify.com/album/7ec0ZSupalm3wKhkRg3f4X"
+      },
+      "artists": [
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "George Talent",
+          "url": "https://open.spotify.com/artist/5nH3X16vKLMkEFbbTcy50f"
+        }
+      ],
+      "duration_ms": 128181,
+      "name": "Tati, vreau",
+      "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Fana",
+        "url": "https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg"
+      },
+      "artists": [
+        {
+          "name": "Jador",
+          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
         },
         {
           "name": "Manele Mentolate",
           "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 136875,
-      "name": "Banii",
-      "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
+      "duration_ms": 158740,
+      "name": "Fana",
+      "url": "https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "60 De Zile",
         "url": "https://open.spotify.com/album/4Q8nWzBnlnwS8AGiCjRsA3"
@@ -901,43 +913,67 @@
       "url": "https://open.spotify.com/track/6sOyrZvYjDeZ781vZomWXT"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "HOLLYWOOD (Fingers Blue Remix)",
-        "url": "https://open.spotify.com/album/2GJuJf00CsZwxbZIRnkAtg"
+        "name": "Totul meu",
+        "url": "https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7"
       },
       "artists": [
         {
-          "name": "KYOTO",
-          "url": "https://open.spotify.com/artist/7HZEPyhE3YmdG74uLUB1VO"
+          "name": "ADI",
+          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
         },
         {
-          "name": "Fingers Blue",
-          "url": "https://open.spotify.com/artist/19GyUp5GsB3wtY0YT0kEtN"
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
         }
       ],
-      "duration_ms": 162475,
-      "name": "HOLLYWOOD - Fingers Blue Remix",
-      "url": "https://open.spotify.com/track/0S3CPRH70uHkU8Rg64hCfn"
+      "duration_ms": 144800,
+      "name": "Totul meu",
+      "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Banii",
+        "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 136875,
+      "name": "Banii",
+      "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
     },
     {
-      "added_at": "2024-04-15 10:01:38",
+      "added_at": "2024-04-16 12:01:50",
+      "album": {
+        "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
+        "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "duration_ms": 148238,
+      "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
+      "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
+    },
+    {
+      "added_at": "2024-04-16 12:01:50",
       "album": {
         "name": "Slayer",
         "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
@@ -951,46 +987,6 @@
       "duration_ms": 76460,
       "name": "Timeout",
       "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Cum O Dai Tu",
-        "url": "https://open.spotify.com/album/7eRYuKasLk4ia5sIDonv8e"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Cum O Dai Tu",
-      "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
-    },
-    {
-      "added_at": "2024-04-15 10:01:38",
-      "album": {
-        "name": "Trotinete (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/5mUAT2d6j1AAVWdpapiBDg"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Trotinete - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
     }
   ],
   "unique_name": "Top 50 - Romania",

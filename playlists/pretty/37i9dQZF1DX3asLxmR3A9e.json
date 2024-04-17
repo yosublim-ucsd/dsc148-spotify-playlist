@@ -1,6 +1,6 @@
 {
   "description": "2014 highlights from the home of indie music. Cover: Lorde",
-  "num_followers": 63989,
+  "num_followers": 64075,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 216320,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203080,
       "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
       "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Andrew McMahon In The Wilderness",
-        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 223879,
-      "name": "Cecilia And The Satellite",
-      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "El Pintor",
         "url": "https://open.spotify.com/album/0YAtJCLY8ogFUjdopdHsyS"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 262426,
       "name": "All the Rage Back Home",
       "url": "https://open.spotify.com/track/30rUH583B1TFoisTeBfuA2"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Andrew McMahon In The Wilderness",
+        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 223879,
+      "name": "Cecilia And The Satellite",
+      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "Unfucktheworld",
-      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "You're Dead!",
         "url": "https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 234486,
       "name": "Never Catch Me",
       "url": "https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "Unfucktheworld",
+      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
     },
     {
       "added_at": "2024-01-24 21:21:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This is Sister Rosetta Tharpe。アーティストの代表曲をひとつのプレイリストに。
+> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
 121 songs - 6 hr 7 min
 

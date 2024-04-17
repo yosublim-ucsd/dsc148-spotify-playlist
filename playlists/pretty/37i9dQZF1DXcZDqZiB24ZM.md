@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,077 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,079 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 38 | [Undercover](https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Undercover](https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T) | 2:27 |
 | 39 | [Krève](https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Indélébile](https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf) | 2:46 |
 | 40 | [Pour la vie](https://open.spotify.com/track/3uMyq8MxiJlrKJAEhRiOBZ) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:04 |
-| 41 | [La route est longue](https://open.spotify.com/track/3yXbhZkrEVcGKW2d4NRwh4) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Gros Big](https://open.spotify.com/album/4Q36ml6qUFGkfS43RopXOq) | 4:00 |
-| 42 | [Femme fatale](https://open.spotify.com/track/4EqRnOWaV7JoK1Z6EZzVU9) | [Sadik](https://open.spotify.com/artist/1wvJJTHOmvX4WcL5dQOLqs), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Vagalam](https://open.spotify.com/artist/7D9iwRE47u5S0sjtItNtaH) | [Monarque](https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb) | 3:14 |
+| 41 | [Femme fatale](https://open.spotify.com/track/4EqRnOWaV7JoK1Z6EZzVU9) | [Sadik](https://open.spotify.com/artist/1wvJJTHOmvX4WcL5dQOLqs), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Vagalam](https://open.spotify.com/artist/7D9iwRE47u5S0sjtItNtaH) | [Monarque](https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb) | 3:14 |
+| 42 | [La route est longue](https://open.spotify.com/track/3yXbhZkrEVcGKW2d4NRwh4) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Gros Big](https://open.spotify.com/album/4Q36ml6qUFGkfS43RopXOq) | 4:00 |
 | 43 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 |
 | 44 | [Doo Wop](https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [DEAD.](https://open.spotify.com/album/3LKroOov310fASJk3twjmP) | 4:39 |
 | 45 | [Brk Frm Nrml](https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Added Sugar](https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6) | 2:40 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 48 | [Plume](https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Personne ne touche le ciel](https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E) | 2:37 |
 | 49 | [Trapstar](https://open.spotify.com/track/2i29UScUVmzuZ4mhWotgLz) | [Kino](https://open.spotify.com/artist/4LuwAd3rQxluIiUcTlfvBe) | [Trapstar](https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi) | 3:07 |
 | 50 | [Jack Sparrow](https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:16 |
-| 51 | [Blow](https://open.spotify.com/track/0hb24D9WWzu4nNZlbloEXS) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Lk Tha Goon](https://open.spotify.com/artist/5szHiW9YrV8BP2YNNqGRYa), [White\-B](https://open.spotify.com/artist/1HC485Z5DroDWlYPYcA80L) | [MMS, Vol\. 1](https://open.spotify.com/album/76PJfZOGxbsbbO48rvfchk) | 4:32 |
-| 52 | [Éléphant](https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 4:43 |
+| 51 | [Éléphant](https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 4:43 |
+| 52 | [Blow](https://open.spotify.com/track/0hb24D9WWzu4nNZlbloEXS) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Lk Tha Goon](https://open.spotify.com/artist/5szHiW9YrV8BP2YNNqGRYa), [White\-B](https://open.spotify.com/artist/1HC485Z5DroDWlYPYcA80L) | [MMS, Vol\. 1](https://open.spotify.com/album/76PJfZOGxbsbbO48rvfchk) | 4:32 |
 | 53 | [OuinOuin](https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Bateaux Colombiens](https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT) | 4:11 |
 | 54 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 |
 | 55 | [Ça que c'tait](https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Les Frères Cueilleurs](https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6) | 3:48 |

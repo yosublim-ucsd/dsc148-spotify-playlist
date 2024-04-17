@@ -2,7 +2,7 @@
 
 ### [This Is Alan Hawkshaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2K1f)
 
-> This is Alan Hawkshaw\. The essential tracks, all in one playlist.
+> This is Alan Hawkshaw\. Todos os maiores hits em uma só playlist.
 
 134 songs - 6 hr 0 min
 

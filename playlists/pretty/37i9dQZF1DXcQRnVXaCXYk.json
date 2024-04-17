@@ -1,6 +1,6 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 44236,
+  "num_followers": 44200,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-21 16:07:02",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 187544,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
-    },
-    {
-      "added_at": "2024-03-21 16:07:02",
-      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
+    },
+    {
+      "added_at": "2024-03-21 16:07:02",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 187544,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
     },
     {
       "added_at": "2024-03-21 16:07:02",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-21 16:07:02",
       "album": {
-        "name": "Honeymoon Phase",
-        "url": "https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Love You've Lost",
-      "url": "https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti"
-    },
-    {
-      "added_at": "2024-03-21 16:07:02",
-      "album": {
         "name": "I'm Not Going Anywhere",
         "url": "https://open.spotify.com/album/3Z7B2LaqVhGrl8Rzk1N2AC"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 179167,
       "name": "I'm Not Going Anywhere",
       "url": "https://open.spotify.com/track/7f59sM8HM55lTngAUMTfMU"
+    },
+    {
+      "added_at": "2024-03-21 16:07:02",
+      "album": {
+        "name": "Honeymoon Phase",
+        "url": "https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Love You've Lost",
+      "url": "https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti"
     },
     {
       "added_at": "2024-03-21 16:07:02",

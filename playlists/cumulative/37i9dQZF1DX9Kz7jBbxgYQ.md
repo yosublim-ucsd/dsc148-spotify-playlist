@@ -2,14 +2,14 @@
 
 ### [Desi Indie](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: Aashir Wajahat
+> Home to the best of South Asian Indie scene\. Cover: KhoslaRaghu
 
-285 songs - 16 hr 5 min
+287 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 | 2023-03-16 |  |
-| [5 am](https://open.spotify.com/track/2Wn4C2J3naPghLX3pDSJra) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [5 am](https://open.spotify.com/album/4imUPyjxCSeNdAUs6ZjQcR) | 2:27 | 2024-03-19 |  |
+| [5 am](https://open.spotify.com/track/2Wn4C2J3naPghLX3pDSJra) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [5 am](https://open.spotify.com/album/4imUPyjxCSeNdAUs6ZjQcR) | 2:27 | 2024-03-19 | 2024-04-17 |
 | [60's Love](https://open.spotify.com/track/3h78AziF7cEXfm50J2TNcA) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:23 | 2022-05-20 | 2022-07-16 |
 | [Aaftaab](https://open.spotify.com/track/0bNkrxGqyFNYuXfj9HBV4r) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/1DW7mX33rABORCELQ4KkQn) | 3:53 | 2024-01-05 |  |
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2022-07-15 | 2022-09-02 |
@@ -40,6 +40,7 @@
 | [Bach Ke](https://open.spotify.com/track/7euNoN3RtRhEK3qfqJLXFx) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Bach Ke](https://open.spotify.com/album/7eOK2jHdPbYCHv9BKZDOrM) | 2:53 | 2023-06-12 | 2023-11-30 |
 | [Barsatein](https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7) | 3:42 | 2022-09-01 | 2022-12-29 |
 | [Barse](https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Barse](https://open.spotify.com/album/6It9s6jgRF07GUUf28VFSK) | 4:00 | 2022-11-02 | 2023-02-07 |
+| [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2024-04-16 |  |
 | [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2024-01-05 | 2024-04-09 |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-09-01 | 2023-01-21 |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2023-03-22 |  |
@@ -58,7 +59,7 @@
 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 | 2022-05-20 | 2023-11-30 |
 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 | 2024-02-19 | 2024-02-28 |
 | [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-23 | 2024-03-21 |
-| [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 | 2024-03-19 |  |
+| [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 | 2024-03-19 | 2024-04-17 |
 | [Choro](https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Choro](https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69) | 3:52 | 2022-05-20 | 2022-07-16 |
 | [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2022-05-20 | 2022-08-14 |
 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 | 2022-07-15 | 2022-09-02 |
@@ -215,6 +216,7 @@
 | [Roshni](https://open.spotify.com/track/2HG7HYy6d5aVAPoBNdWjs6) | [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [NIKAMMA](https://open.spotify.com/album/0sco8sEz0VIAuAoJiHIAIp) | 3:51 | 2024-02-19 | 2024-03-20 |
 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2024-01-05 |  |
 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 | 2022-05-20 | 2022-07-16 |
+| [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 | 2024-04-16 |  |
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-05-20 | 2023-03-18 |
 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 | 2023-11-14 | 2023-11-30 |
 | [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-06-27 | 2023-07-15 |

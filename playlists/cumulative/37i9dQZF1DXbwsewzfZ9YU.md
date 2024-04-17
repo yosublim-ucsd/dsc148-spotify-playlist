@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ DRAIN.
 
-214 songs - 8 hr 40 min
+215 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Squeeze](https://open.spotify.com/track/12o45aFJK74xn4SiaIeeLU) | [Truth Cult](https://open.spotify.com/artist/3idKv5QWykt5CeMmgogMMh) | [Walk the Wheel](https://open.spotify.com/album/62sp2ksHKvPsMGCZOnGmMS) | 1:15 | 2023-08-11 | 2023-08-26 |
 | [Squintro](https://open.spotify.com/track/2QHV45Y0JnbiHAttqoefHC) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Feel It All Wash Away](https://open.spotify.com/album/1KKKwoAuiAaKnvPoQ40A3o) | 0:41 | 2023-11-10 | 2024-03-02 |
 | [Sterilized](https://open.spotify.com/track/0csFnIwyqcxQCwDGKWQLB2) | [Lethal](https://open.spotify.com/artist/1PUkdBCElxs4Lwc48Kamsz) | [Lethal's Hardcore Hit Parade](https://open.spotify.com/album/57Ij7pxjA9shumvHtfWqpK) | 1:24 | 2023-07-18 |  |
-| [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 | 2024-01-30 |  |
+| [Stuck in a Dream](https://open.spotify.com/track/0l45tOBSC65cnaSFq0WHYW) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 2:40 | 2024-03-22 |  |
+| [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 | 2024-01-30 | 2024-04-17 |
 | [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-06-12 | 2023-08-26 |
 | [Supremacy](https://open.spotify.com/track/0WYZ5xW2BX4Jq1PScBxVzn) | [Bleed the Pigs](https://open.spotify.com/artist/1l7anMZbLHad4MquOP8qSc) | [Overcompensations For Misery](https://open.spotify.com/album/1nrycGrqUIDHW352WZheIo) | 1:26 | 2023-08-11 | 2023-08-26 |
 | [Suspend This Life](https://open.spotify.com/track/4AJeJGnx67RojXzrWGUWXZ) | [Field of Flames](https://open.spotify.com/artist/7vePJsKD0BtKip0yC5Dv8J) | [Suspend This Life...](https://open.spotify.com/album/1255avWn2ZjpEzeHrhjQDk) | 2:54 | 2023-07-18 | 2024-03-02 |

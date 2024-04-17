@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 ### [This Is Los Huracanes del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rBMR2)
 
-> This Is Los Huracanes del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,818 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,780 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Que Quede Entre Nos](https://open.spotify.com/track/00pciCD6Bt2aBQKj5wSIqt) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Alma Bohemia](https://open.spotify.com/album/0TDShw4C1noAeuUoBfh1mG) | 2:40 |
 | 50 | [Es Parte Del Show](https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Es Parte Del Show](https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx) | 2:53 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDQ0Yzg2MTFmMzY1OTY2Y2JkZjBiMzdkMDgzNGM1ZWFm`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU2MGYzZmU3MWI1NWNiZGZlZmFjMzcwYTQ5YTc3NGU1`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 ### [This Is beabadoobee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1MEzV6)
 
-> This is beabadoobee。アーティストの代表曲をひとつのプレイリストに。
+> This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,602 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,639 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 48 | [Sun More Often](https://open.spotify.com/track/1qkKf2v0cE3BVePzQQEQq3) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ) | 4:01 |
 | 49 | [Are You Sure](https://open.spotify.com/track/1d4EO17bQjTyG910D2y8bN) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ) | 4:04 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGEzZDcyMjRhNjgxOTRhYTA5OTVmMWU0MzRiY2EwMDUw`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGI3OTEyYjU1NDc2MjMwNzk3Yjg2ZmE4Zjg0M2NkOTA2`

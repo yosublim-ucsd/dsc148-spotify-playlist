@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,189 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,254 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 77 | [Monsters in My Bed](https://open.spotify.com/track/1HrwBcOuqBWQJq3A0DXXo4) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Monsters in My Bed](https://open.spotify.com/album/3XET3IwEsKsqJb13XJtBeT) | 2:44 |
 | 78 | [Focus](https://open.spotify.com/track/6tRN1qBtRsMW2kQ1W4H1WO) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Axel](https://open.spotify.com/artist/1uIDYdZZvQJrwc2IMOgBxZ) | [Focus](https://open.spotify.com/album/5llZQlXFc4pXO3Qo3Ioe0E) | 2:45 |
 | 79 | [Flames](https://open.spotify.com/track/5o4vu5oH3VyseGyfMI00PU) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Flames](https://open.spotify.com/album/4bQJJIaczwyYz37yq6JeLm) | 2:50 |
-| 80 | [Need Your Love](https://open.spotify.com/track/6Xz14I4TgeEHOhZoolP8Fg) | [Fixed withGlue](https://open.spotify.com/artist/6HUWmTkXlft3pPWAEiF14I), [m3gatron](https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj) | [Need Your Love](https://open.spotify.com/album/4anubaQwzDDvguyItOglNv) | 2:15 |
+| 80 | [Need Ur Love](https://open.spotify.com/track/6Xz14I4TgeEHOhZoolP8Fg) | [Fixed withGlue](https://open.spotify.com/artist/6HUWmTkXlft3pPWAEiF14I), [m3gatron](https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj) | [Need Ur Love](https://open.spotify.com/album/4anubaQwzDDvguyItOglNv) | 2:15 |
 
 Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMGNkMzlhN2RkZGYzNjhjZGI1NjZlMGViYWMzZGY0ZjRh`

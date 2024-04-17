@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Kemuel",
-  "num_followers": 226666,
+  "num_followers": 226687,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Liar (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Liar (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "OLORI (The EP)",
-        "url": "https://open.spotify.com/album/01htjp8rIvwLsIKxZSidDq"
-      },
-      "artists": [
-        {
-          "name": "Logos olori",
-          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/54Fc0M8PNb7yAI5ieyuUEk"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 200000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "OLORI (The EP)",
+        "url": "https://open.spotify.com/album/01htjp8rIvwLsIKxZSidDq"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/54Fc0M8PNb7yAI5ieyuUEk"
     },
     {
       "added_at": "2024-04-12 00:01:00",

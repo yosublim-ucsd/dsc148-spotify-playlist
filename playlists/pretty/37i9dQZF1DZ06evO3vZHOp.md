@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 ### [This Is Eladio Carrion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vZHOp)
 
-> This is Eladio Carrion\. The essential tracks, all in one playlist.
+> This Is Eladio Carrion\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,917 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,147 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 50 | [100xCiento](https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [100xCiento](https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy) | 3:39 |
 | 51 | [Habla Claro](https://open.spotify.com/track/1Ixi7vcTIvgyeFlbqy1QQ7) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Habla Claro](https://open.spotify.com/album/2pzQh6cUaDXAw2a96vcwVr) | 3:50 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGRiMjllNWFmMWMwZjc2NzI1M2RhYTFhOGRmMjUwMzNk`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDI1MDBhNGJkMDBlNzNmNDRmZDJiNzA4MWEyMzAzZGRl`

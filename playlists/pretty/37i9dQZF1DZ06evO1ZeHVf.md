@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 ### [This Is CeCe Winans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZeHVf)
 
-> This is CeCe Winans\. The essential tracks, all in one playlist.
+> This Is CeCe Winans\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,642 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,692 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [I Am](https://open.spotify.com/track/1EjiSDVT1YgLKO4W71NAmA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:19 |
 | 50 | [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:00 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDM1MTc2ZjNiNzA0NDc4NzcwNTdkNDQ4MDYwZGJiYTA5`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDZjNmU2MzIxMWI1NmUzNmI2ZmE2NmJkNGUzMjJjYzk5`

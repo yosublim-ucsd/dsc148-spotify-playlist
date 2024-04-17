@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: The Partysquad & Kalibwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,100 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,148 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 86 | [Kamikaze](https://open.spotify.com/track/1J8s1yH5MJNm7AFCBcUyKH) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Kamikaze](https://open.spotify.com/album/63yjSekBPPm8GIwjHAdAWI) | 3:25 |
 | 87 | [Oxygen](https://open.spotify.com/track/64iEo5EHLWRtWyNQ19BYr3) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Oxygen](https://open.spotify.com/album/4bLoSVrWCBsc33fPCnjdTD) | 3:07 |
 | 88 | [Fake It](https://open.spotify.com/track/4xVMm0rx6iqv65XJ7IOYb9) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Fake It](https://open.spotify.com/album/6agZ0uTwV5xImfUK65bnaG) | 3:08 |
-| 89 | [Dear Hardstyle](https://open.spotify.com/track/1vFzkN48urpPfQPmjL2T5p) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Dear Hardstyle](https://open.spotify.com/album/0PW9WcbHGTDvK05sQ23lmK) | 4:27 |
+| 89 | [Dear Hardstyle](https://open.spotify.com/track/6130FU2gzw9DSmRvADaIzt) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Dear Hardstyle](https://open.spotify.com/album/7g5E1phZKm5sXwyqUHzw8y) | 4:27 |
 | 90 | [Good Life](https://open.spotify.com/track/6pHuTfeBSBYoG9Pu24KiHf) | [The Pitcher](https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X), [Szen](https://open.spotify.com/artist/4LGmjsDj0S8lwFrYv91Q4n) | [Good Life \(feat\. Szen\)](https://open.spotify.com/album/4MMPrwrWzirNe7QjdUuuSL) | 2:37 |
 | 91 | [Satellite \- Tweekacore Remix](https://open.spotify.com/track/1FSZYa6qb0Is7SBxu3Psyi) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj) | [Satellite \(Tweekacore Remix\)](https://open.spotify.com/album/3pHZPSyb1HuyDVDPBVNX28) | 3:41 |
 | 92 | [BORN TO BE A REBEL](https://open.spotify.com/track/7u6dDlR3OW1Z1lfkfw5zJR) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [BORN TO BE A REBEL \(feat\. Last Word\)](https://open.spotify.com/album/3wggJZUcikdKhjbPx3WADY) | 3:08 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 ### [G2 Esports](https://open.spotify.com/playlist/37i9dQZF1DXdp5YOcv5TSe)
 
-> The official G2 Esports playlist\. Currently curated by the G2 community.
+> The official G2 Esports playlist\. Currently curated by the G2 Army.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,371 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,558 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Dooinit](https://open.spotify.com/track/4uV5u4r5it0ljH0aPAmMDF) | [Aques](https://open.spotify.com/artist/1i4PTQi8UdxFj4xIj48bbt) | [Dooinit](https://open.spotify.com/album/2QlnJfLy1aRMscecHIpkg3) | 3:45 |
 | 50 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 
-Snapshot ID: `MTcxMzE3NzkxNiwwMDAwMDAwMGE0ZWUzZDU2MmQ1MzNkMWYxZDI3NWFiNzQxMjQ5NmI1`
+Snapshot ID: `MTcxMzI2Mjg2MywwMDAwMDAwMDc5NGNiN2FjMDdjM2NhNTI2YWQxOWI4Yjk3MTQ2NWFl`

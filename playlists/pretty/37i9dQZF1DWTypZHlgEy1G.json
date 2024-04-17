@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
-  "num_followers": 536076,
+  "num_followers": 535873,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Ce n'est rien",
-      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "Disque D'or",
         "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 192160,
       "name": "Douce France",
       "url": "https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Ce n'est rien",
+      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
+        "name": "Paroles\u2026 paroles\u2026",
+        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
         "name": "20 Chansons D'or",
         "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 247560,
       "name": "Nathalie",
       "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Paroles\u2026 paroles\u2026",
-        "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Il venait d'avoir 18 ans",
-      "url": "https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Ferrat Chante Aragon: L'int\u00e9grale",
-        "url": "https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 143026,
-      "name": "Aimer \u00e0 perdre la raison",
-      "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
-    },
-    {
       "added_at": "2024-03-22 19:37:47",
       "album": {
         "name": "Mon amant de St Jean",
@@ -1143,6 +1127,22 @@
       "duration_ms": 189640,
       "name": "Mon amant de Saint-Jean",
       "url": "https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Ferrat Chante Aragon: L'int\u00e9grale",
+        "url": "https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 143026,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
     },
     {
       "added_at": "2024-03-22 19:37:47",

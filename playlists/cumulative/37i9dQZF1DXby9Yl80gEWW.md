@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-253 songs - 15 hr 37 min
+254 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 | 2021-12-03 | 2024-01-05 |
 | [Jamboree](https://open.spotify.com/track/153MUfhVPtLQ6vpv91k9qH) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ) | [School Project](https://open.spotify.com/album/1AVQTlOkCpgYHUMyF7HxrG) | 2:17 | 2023-11-24 | 2024-02-05 |
 | [Jerusalem Ridge](https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Church Street Blues](https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb) | 3:27 | 2021-12-03 |  |
+| [Jolly Green](https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Jolly Green](https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY) | 2:22 | 2024-04-12 |  |
 | [Joshua](https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU) | [The Seldom Scene](https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq) | [Act 1](https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf) | 2:37 | 2021-12-03 | 2023-02-06 |
 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 | 2021-12-03 |  |
 | [Just a Closer Walk With Thee](https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [New Highway \(Remastered\)](https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0) | 2:20 | 2023-03-03 | 2023-06-02 |
@@ -229,7 +230,7 @@
 | [Train in the Wilderness](https://open.spotify.com/track/6gdItCqeyJc5U9TvW7t3xj) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz) | 2:57 | 2023-04-07 | 2023-05-03 |
 | [Trapper's Attic](https://open.spotify.com/track/7nlLIcbLodcRQvCPtV8vuX) | [Connor Jay Liess](https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm) | [Trapper's Attic](https://open.spotify.com/album/1WcNGOJOZqoU1cGoCZo6ME) | 2:55 | 2021-12-03 | 2022-05-25 |
 | [Tree King Creek](https://open.spotify.com/track/2eX598AcoEbR1KxPqVAKTP) | [Psychograss](https://open.spotify.com/artist/67QYlUab4lgbVuCQyqLxsA) | [Like Minds](https://open.spotify.com/album/0ddqowMNMC740PwIqJ50Jl) | 4:11 | 2021-12-03 | 2023-01-12 |
-| [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 | 2023-11-24 |  |
+| [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 | 2023-11-24 | 2024-04-17 |
 | [Up in Bigfoot Country](https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Up in Bigfoot Country](https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4) | 3:15 | 2023-05-05 | 2023-10-01 |
 | [Updraft](https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Place of Growth](https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR) | 5:56 | 2023-11-24 |  |
 | [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 | 2023-01-13 | 2023-12-24 |

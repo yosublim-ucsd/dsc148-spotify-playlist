@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 26175,
+  "2024-04-17": 26282,
   "date_first_scraped": "2023-04-07",
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=lXtzzwz7SyGw3HmF8tJ8sg>CalledOut Music</a>,  <a href=https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH?si=Rb494w2KStO70K5SkZpxkw>Annatoria</a> and   <a href=https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd?si=XsnF2ypBS8K5SeqVrRv_Rg>Ryan Ofei</a>",
   "name": "Testify",
@@ -1933,6 +1933,28 @@
       "duration_ms": 215604,
       "name": "God Be The Glory",
       "url": "https://open.spotify.com/track/2O75KOWDHDcsy3uifzJIPU"
+    },
+    {
+      "album": {
+        "name": "GOD IS GOOD",
+        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     },
     {
       "album": {
@@ -4821,7 +4843,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 225681,
       "name": "To Not Worship You",
       "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"

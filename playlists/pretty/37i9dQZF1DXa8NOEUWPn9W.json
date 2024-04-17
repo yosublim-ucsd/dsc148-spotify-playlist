@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring John Summit & Dom Dolla (Everything Always)",
-  "num_followers": 1931922,
+  "num_followers": 1930635,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Get Hard (You In The Lobby)",
+        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 156948,
+      "name": "Get Hard (You In The Lobby)",
+      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Ti Sento",
         "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Get Hard (You In The Lobby)",
-        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
-      },
-      "artists": [
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 156948,
-      "name": "Get Hard (You In The Lobby)",
-      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Baby Wants to Ride / Your Love",
+        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
+      },
+      "artists": [
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "duration_ms": 403706,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Jiggy Woogie",
         "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 140495,
       "name": "Jiggy Woogie",
       "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Baby Wants to Ride / Your Love",
-        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
-      },
-      "artists": [
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 403706,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "To The Beat",
-        "url": "https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Dances",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
-        }
-      ],
-      "duration_ms": 236987,
-      "name": "To The Beat",
-      "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
       },
@@ -1715,22 +1695,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+        "name": "To The Beat",
+        "url": "https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
         }
       ],
-      "duration_ms": 134170,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+      "duration_ms": 236987,
+      "name": "To The Beat",
+      "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1755,6 +1735,26 @@
       "duration_ms": 170196,
       "name": "Love On You (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Cutting Loose",
         "url": "https://open.spotify.com/album/1MQoCqxbLS7kf9xWUTxuRF"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 184244,
       "name": "Cutting Loose",
       "url": "https://open.spotify.com/track/6n34hL7CBdTVeekAeprHow"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Lady (Hear Me Tonight)",
-        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 134880,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "You Are In My System (Faster Horses Sport Mix)",
         "url": "https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 197197,
       "name": "You Are In My System - Faster Horses Sport Mix",
       "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2147,26 +2147,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Don't Abuse It",
-        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 135967,
-      "name": "Don't Abuse It",
-      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -2191,6 +2171,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Don't Abuse It",
+        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Don't Abuse It",
+      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Veni, Vidi, Vici",
         "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
       },
@@ -2211,22 +2211,6 @@
       "duration_ms": 211875,
       "name": "Nineteen 84",
       "url": "https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Cash For Love",
-        "url": "https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 276495,
-      "name": "Cash For Love",
-      "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2287,6 +2271,22 @@
       "duration_ms": 230645,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Cash For Love",
+        "url": "https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 276495,
+      "name": "Cash For Love",
+      "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Ready To Go (My Addiction)",
-        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Ready To Go (My Addiction)",
-      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Bitch, Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
@@ -2419,6 +2399,26 @@
       "duration_ms": 157558,
       "name": "Bitch, Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
       "added_at": "2024-04-12 04:00:00",

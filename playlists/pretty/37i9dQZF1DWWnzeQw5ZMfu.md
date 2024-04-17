@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,086 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,090 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 93 | [Erotica \- Live](https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 4:55 |
 | 94 | [Shadow \(feat\. Carly Rae Jepsen\) \- MTV Unplugged](https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [MTV Unplugged](https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J) | 3:32 |
 | 95 | [What's Love Got to Do with It \- Live in Arnhem](https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina Live](https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh) | 3:39 |
-| 96 | [Let's Get It Started \- Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005](https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 5:16 |
-| 97 | [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 |
+| 96 | [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 |
+| 97 | [Let's Get It Started \- Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005](https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 5:16 |
 | 98 | [Woman Like Me \(feat\. Ms Banks\) \- Live from the BRITs 2019](https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [LM5 \- EP](https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz) | 4:11 |
 | 99 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 |
 | 100 | [Hung Up \- Live](https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 9:50 |

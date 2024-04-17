@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 
 ### [This Is Botellita De Jerez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SD7U4)
 
-> This is Botellita De Jerez\. The essential tracks, all in one playlist.
+> This Is Botellita De Jerez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,748 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,749 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 | 49 | [Negro´s Blues](https://open.spotify.com/track/1E94KQQkNKaGHXGYwoAWO8) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 5:33 |
 | 50 | [El Muchacho Asfáltico](https://open.spotify.com/track/4zv3VW5WYh2FtJCQrDDPoB) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 2:27 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDUwOTg3OGEyZmY4Y2JjMWY2YjM0ODkzNWVhYTY4YWM1`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJhYjIxMGE3OGNjZmNjMmM0NGQxOTk4NTlkZjE3ZjVm`

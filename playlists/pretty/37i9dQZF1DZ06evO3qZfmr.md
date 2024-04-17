@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 ### [This Is Megan Moroney](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
 
-> This is Megan Moroney\. The essential tracks, all in one playlist.
+> This Is Megan Moroney\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,174 likes - 19 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,220 likes - 19 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 18 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 |
 | 19 | ['Til It All Goes South](https://open.spotify.com/track/2Ks3jo0IfcK280NRyd4wfR) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:53 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU4ZTM1NDUzNjEyNTM1NDY1YTBmODUyNDgwOGVmZTRj`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGM4ZTcwNWRhMmE0NzU3NTU4ZjMxYzM0YzBkNzg2MjE5`

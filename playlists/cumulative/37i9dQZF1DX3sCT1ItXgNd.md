@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Omar Montes, Luis Fonsi
+> Lo mejor del pop en español\. Foto: Abraham Mateo
 
-436 songs - 21 hr 51 min
+439 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 | 2023-03-13 | 2023-09-22 |
 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:52 | 2023-03-28 | 2023-04-11 |
 | [Diles](https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Diles](https://open.spotify.com/album/2LWDpyZcSAbCHCUnCqspOQ) | 3:23 | 2023-10-23 | 2023-11-14 |
+| [Dime Solo Si Has Pensao](https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Dime Solo Si Has Pensao](https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX) | 2:55 | 2024-04-16 |  |
 | [Disfrutármela](https://open.spotify.com/track/3O3zWXgKpxzqcME24Xllsi) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Disfrutármela](https://open.spotify.com/album/4UsJPeGA3HUCRCeWWHGqCL) | 2:45 | 2023-04-17 | 2023-05-04 |
 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 | 2023-05-19 | 2023-06-02 |
 | [Dolores de Cabeza](https://open.spotify.com/track/0nZ0LKNkoWoB4A7rheCLIU) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Dolores De Cabeza](https://open.spotify.com/album/5XWf4RyJP5QzvsYxc8410S) | 2:41 | 2024-03-04 | 2024-03-19 |
@@ -310,6 +311,7 @@
 | [Pasa La Página "Panamá"](https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Pasa La Página "Panamá"](https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw) | 2:50 | 2023-08-28 | 2023-09-26 |
 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 | 2023-06-20 | 2023-09-29 |
 | [Pasado Mañana](https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Pasado Mañana](https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM) | 2:17 | 2024-02-15 | 2024-02-27 |
+| [patio andaluz](https://open.spotify.com/track/11PnAfgNDIq9pKmDNG9gZI) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [patio andaluz](https://open.spotify.com/album/4wQ4FIeYiM3gnyRujD9zLn) | 2:07 | 2024-04-16 |  |
 | [PELICULA](https://open.spotify.com/track/1xyTbXRzdFsFYGF2xA3Rs0) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [PELICULA](https://open.spotify.com/album/6YcKaIbQw3sMtbhSXQZ6CZ) | 2:58 | 2023-09-28 | 2023-10-17 |
 | [PELO RIZAO](https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PELO RIZAO](https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07) | 3:14 | 2024-01-11 | 2024-01-23 |
 | [PERDIENDO LOS FRENOS](https://open.spotify.com/track/7tHd2KQD9QtCmvD3evlgDx) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [PERDIENDO LOS FRENOS](https://open.spotify.com/album/03P7u1Iic3yaoWSXaNWtXl) | 2:46 | 2024-04-12 |  |
@@ -443,6 +445,7 @@
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-04-01 |  |
 | [Último Baile](https://open.spotify.com/track/1ApFykPxKmhP4iNbFmgXw9) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Último Baile](https://open.spotify.com/album/17DfT2KcMr4WSeXp2e6egd) | 2:59 | 2023-05-30 | 2023-09-26 |
 | [ÚLTIMO BESO](https://open.spotify.com/track/7ntgFD12mCXEkrH93HHete) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ÚLTIMO BESO](https://open.spotify.com/album/47E82wCsxHPZkPyvCiokG1) | 2:29 | 2023-05-03 | 2023-05-20 |
+| [Último Verano](https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Último Verano](https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l) | 2:49 | 2024-04-16 |  |
 | [🦋 MARIPOSAS 🦋](https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [🦋 MARIPOSAS 🦋](https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY) | 2:42 | 2023-08-31 | 2023-09-19 |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,920 likes - 169 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,103 likes - 169 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

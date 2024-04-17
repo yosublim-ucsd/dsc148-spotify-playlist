@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 92194,
+  "num_followers": 92238,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Pequenas Coisas",
         "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 159119,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+      },
+      "artists": [
+        {
+          "name": "Gabriela de S\u00e1",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -1019,18 +1035,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
       "artists": [
         {
-          "name": "Gabriela de S\u00e1",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1055,26 +1075,6 @@
       "duration_ms": 230727,
       "name": "A Melhor Hist\u00f3ria",
       "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
-      },
-      "artists": [
-        {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Pra Onde Vou Correr",
         "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 215125,
       "name": "Pra Onde Vou Correr",
       "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Voltar",
-        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
-      },
-      "artists": [
-        {
-          "name": "Eric Cortes",
-          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Voltar",
-      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 199864,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Voltar",
+        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
+      },
+      "artists": [
+        {
+          "name": "Eric Cortes",
+          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Voltar",
+      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
         }
       ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1439,22 +1439,6 @@
       "duration_ms": 196032,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Me Leva Al\u00e9m",
         "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
@@ -1491,26 +1491,6 @@
       "duration_ms": 215061,
       "name": "Me Leva Al\u00e9m",
       "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Ele e N\u00f3iz",
-        "url": "https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "A Casa Caiu",
-      "url": "https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1531,22 +1511,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1563,6 +1527,26 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Ele e N\u00f3iz",
+        "url": "https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "A Casa Caiu",
+      "url": "https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 193793,
       "name": "Luz do Mundo",
       "url": "https://open.spotify.com/track/7srf8dPKNtroCHcUoer47G"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     }
   ],
   "unique_name": "Pop Gospel",

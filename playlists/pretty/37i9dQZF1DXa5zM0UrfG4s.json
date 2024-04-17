@@ -1,6 +1,6 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 108545,
+  "num_followers": 108557,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
+        "name": "Polare",
+        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
       },
       "artists": [
         {
-          "name": "DJ Anton",
-          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+          "name": "Prilla Generalen",
+          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
         }
       ],
-      "duration_ms": 172272,
-      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+      "duration_ms": 205666,
+      "name": "Polare",
+      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -379,18 +371,26 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Polare",
-        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
+        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
       "artists": [
         {
-          "name": "Prilla Generalen",
-          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+          "name": "DJ Anton",
+          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
         }
       ],
-      "duration_ms": 205666,
-      "name": "Polare",
-      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
+      "duration_ms": 172272,
+      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
+        "url": "https://open.spotify.com/album/7zam9UpRx0iBlvHsRJ9dld"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 157937,
+      "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
+      "url": "https://open.spotify.com/track/2RXphY5aZVR5SSbkbwXrPh"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Jeg fortjener en \u00f8l",
         "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 152822,
       "name": "Jeg fortjener en \u00f8l",
       "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
-        "url": "https://open.spotify.com/album/7zam9UpRx0iBlvHsRJ9dld"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 157937,
-      "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
-      "url": "https://open.spotify.com/track/2RXphY5aZVR5SSbkbwXrPh"
     },
     {
       "added_at": "2024-04-04 22:00:00",

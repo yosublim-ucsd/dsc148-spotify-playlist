@@ -1,6 +1,6 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 200799,
+  "num_followers": 200206,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 296666,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+      },
+      "artists": [
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "This Is Freedom (Ain't No Rock) [Live]",
         "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 344125,
       "name": "This Is Freedom (Ain't No Rock) - Live",
       "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Broken Is Beautiful",
         "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 250909,
       "name": "Broken Is Beautiful",
       "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 185510,
       "name": "Down (Remix)",
       "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        }
-      ],
-      "duration_ms": 137990,
-      "name": "Fake It - Warehouse Mix",
-      "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 221453,
       "name": "More Than Halfway",
       "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        }
+      ],
+      "duration_ms": 137990,
+      "name": "Fake It - Warehouse Mix",
+      "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "LOSE CONTROL",
-        "url": "https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 146548,
-      "name": "LOSE CONTROL",
-      "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "High Low (Remix)",
         "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 164383,
       "name": "High Low - Remix",
       "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 146548,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
     },
     {
       "added_at": "2023-01-13 21:46:56",

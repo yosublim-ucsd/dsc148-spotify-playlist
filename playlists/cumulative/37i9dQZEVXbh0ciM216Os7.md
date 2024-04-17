@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,283 songs - 3 day 9 hr 20 min
+1,284 songs - 3 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [dark days](https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [dark days](https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps) | 3:32 | 2024-03-22 | 2024-04-13 |
 | [Dark Star \(Live at RFK Stadium, Washington, DC, 6/10/73\)](https://open.spotify.com/track/7ursvTTSnu6i3S5ZKqtynG) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [RFK Stadium, Washington, DC, 6/10/73 \(Live\)](https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w) | 26:36 | 2023-07-14 | 2023-07-22 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-19 | 2023-06-03 |
-| [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 | 2024-04-12 |  |
+| [DBZ](https://open.spotify.com/track/3MhuSNVWlYABxuJ3DojIGg) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/4P8914QpTB5UP5A3TOS2bb) | 3:11 | 2024-04-12 |  |
+| [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 | 2024-04-12 | 2024-04-17 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/518DuqGQvF0f5B5XHykCX3) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc) | [DDU\-DU DDU\-DU](https://open.spotify.com/album/2kavELazj1W0Ddq3UohSVg) | 3:34 | 2023-05-12 | 2023-05-27 |
 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 | 2023-02-10 | 2023-02-18 |
 | [Deadbolt](https://open.spotify.com/track/0LFIpvc8Fj1QyS6ZnFC4Yx) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:20 | 2023-04-14 | 2023-04-23 |

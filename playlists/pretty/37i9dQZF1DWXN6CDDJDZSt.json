@@ -1,6 +1,6 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 69380,
+  "num_followers": 69395,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
@@ -791,34 +791,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Ren\u00e9e Fleming",
-        "url": "https://open.spotify.com/album/0bKfxZxRs3laie3LVyzBRn"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "duration_ms": 295586,
-      "name": "Madama Butterfly, SC 74, Act II: Un bel d\u00ec vedremo",
-      "url": "https://open.spotify.com/track/5Oj7LSvlL3PBfs25PIsJLV"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Nessun Dorma - The Puccini Album",
         "url": "https://open.spotify.com/album/0mD5MzIzELGsscZmMiPyrZ"
       },
@@ -843,6 +815,34 @@
       "duration_ms": 251786,
       "name": "La Boh\u00e8me Atto I: \"O soave fanciulla\"",
       "url": "https://open.spotify.com/track/3c74zYDbFOhXDWk4Rchur0"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Ren\u00e9e Fleming",
+        "url": "https://open.spotify.com/album/0bKfxZxRs3laie3LVyzBRn"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "duration_ms": 295586,
+      "name": "Madama Butterfly, SC 74, Act II: Un bel d\u00ec vedremo",
+      "url": "https://open.spotify.com/track/5Oj7LSvlL3PBfs25PIsJLV"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -991,30 +991,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Opera Intermezzi And Preludes",
-        "url": "https://open.spotify.com/album/1nTGSnvyfnMMWkwVAQXXzo"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
-        },
-        {
-          "name": "Ondrej Lenard",
-          "url": "https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs"
-        }
-      ],
-      "duration_ms": 150200,
-      "name": "Le Villi: Prelude",
-      "url": "https://open.spotify.com/track/7H1cUmm9WKCVXPeG6rdqZy"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: Madama Butterfly",
         "url": "https://open.spotify.com/album/5EpMe8fqfWKETVZLMKJGeI"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 757333,
       "name": "Madama Butterfly / Act I: Bimba dagli occhi pieni di malia",
       "url": "https://open.spotify.com/track/0djPEnudddxPWXqR1eFfUq"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Opera Intermezzi And Preludes",
+        "url": "https://open.spotify.com/album/1nTGSnvyfnMMWkwVAQXXzo"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Ondrej Lenard",
+          "url": "https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs"
+        }
+      ],
+      "duration_ms": 150200,
+      "name": "Le Villi: Prelude",
+      "url": "https://open.spotify.com/track/7H1cUmm9WKCVXPeG6rdqZy"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1683,6 +1683,30 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini : Messa di Gloria, Preludio sinfonico & Capriccio sinfonico (Apex)",
+        "url": "https://open.spotify.com/album/7MR41NxI9mwEtNZig6rrW8"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Claudio Scimone",
+          "url": "https://open.spotify.com/artist/6jnyvg611nzPsnPmmeEYBw"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 309480,
+      "name": "Puccini : Messa di Gloria : I Kyrie",
+      "url": "https://open.spotify.com/track/2mX0cFyCNHDiRbtGn1K0kZ"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Pl\u00e1cido Domingo at the MET",
         "url": "https://open.spotify.com/album/1rllXZdTsBBmGDhp1j9TLm"
       },
@@ -1707,30 +1731,6 @@
       "duration_ms": 259346,
       "name": "La Fanciulla del West, Act III: \"Risparmiate lo scherno ... Ch'ella mi creda\"",
       "url": "https://open.spotify.com/track/1BsbJ0Lovx9b9HFJJslXHD"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini : Messa di Gloria, Preludio sinfonico & Capriccio sinfonico (Apex)",
-        "url": "https://open.spotify.com/album/7MR41NxI9mwEtNZig6rrW8"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Claudio Scimone",
-          "url": "https://open.spotify.com/artist/6jnyvg611nzPsnPmmeEYBw"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 309480,
-      "name": "Puccini : Messa di Gloria : I Kyrie",
-      "url": "https://open.spotify.com/track/2mX0cFyCNHDiRbtGn1K0kZ"
     },
     {
       "added_at": "2022-06-24 16:28:17",

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 128436,
+  "2024-04-17": 128482,
   "date_first_scraped": "2022-09-17",
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Carl Cox' track IDs",
@@ -61,6 +61,28 @@
       "duration_ms": 409000,
       "name": "20HZ - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4OMCH12g8VOh1Rqoy9ResS"
+    },
+    {
+      "album": {
+        "name": "Rekindled - EP",
+        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
+      },
+      "artists": [
+        {
+          "name": "Horatio",
+          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
+        },
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386980,
+      "name": "333",
+      "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
     },
     {
       "album": {
@@ -3345,6 +3367,28 @@
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+    },
+    {
+      "album": {
+        "name": "Rekindled - EP",
+        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
+      },
+      "artists": [
+        {
+          "name": "Horatio",
+          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
+        },
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436963,
+      "name": "Rekindled",
+      "url": "https://open.spotify.com/track/30puCr5rC2BgI7meAl4cSx"
     },
     {
       "album": {

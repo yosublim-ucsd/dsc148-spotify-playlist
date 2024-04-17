@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 ### [This Is Krewella](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iw5UY)
 
-> This is Krewella\. The essential tracks, all in one playlist.
+> This Is Krewella\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,997 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,994 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [Martyr](https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:37 |
 | 50 | [Party Monster](https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Krewella \(Hits Japan Special Edition\)](https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT) | 3:34 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDFiMGExMTlkYmRlMjAzZWJkNjQ1YTc5NThkOGNmYzJh`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDczZGNmNTI5Y2ZmNmRlZmM3MGRhZTU1NDk0ZjY5NTkz`

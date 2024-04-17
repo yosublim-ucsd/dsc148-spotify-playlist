@@ -1,29 +1,13 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 86269,
+  "num_followers": 86365,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwOTY0OTQyNiwwMDAwMDAwMDRlYzI0YzUwZDAyMTMwYjZiMTBiZjVmNmIxMzYzZGFk",
+  "snapshot_id": "MTcxMzI5ODI3MCwwMDAwMDAwMDRiNmIxMWI0NDc0MzYyMzk4ZDZkODE2ODk0NjllMDdh",
   "tracks": [
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Hickory",
-        "url": "https://open.spotify.com/album/7ECrhykJzsa5Mi9HtQYlBk"
-      },
-      "artists": [
-        {
-          "name": "Olivia O.",
-          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
-        }
-      ],
-      "duration_ms": 305885,
-      "name": "Hickory",
-      "url": "https://open.spotify.com/track/5CbNVlWdXkBCu4IiGGz44L"
-    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 181781,
       "name": "Kids Driving The Elevator",
       "url": "https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "between the bars",
+        "url": "https://open.spotify.com/album/1PBIKmeONHrIvooZ7eadrg"
+      },
+      "artists": [
+        {
+          "name": "PISSKISS",
+          "url": "https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "between the bars",
+      "url": "https://open.spotify.com/track/2JA5TwoXap8PS8VFIoEpsf"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "Idea June",
+        "url": "https://open.spotify.com/album/17pHBGN0qKzdwOqmHXCBCC"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Idea June",
+      "url": "https://open.spotify.com/track/6Jfj1S7EgM22jkHOGigzrm"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -77,68 +93,20 @@
       "url": "https://open.spotify.com/track/5Qfq800wAIq4iDWOJewzAf"
     },
     {
-      "added_at": "2024-01-02 16:56:31",
+      "added_at": "2024-04-16 20:11:10",
       "album": {
-        "name": "Not How it's Supposed to be",
-        "url": "https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q"
+        "name": "weighted blanket",
+        "url": "https://open.spotify.com/album/1VXnRaNRvFA7Q6HqsRqPMd"
       },
       "artists": [
         {
-          "name": "i don't like mirrors",
-          "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
+          "name": "Thomas Reid",
+          "url": "https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo"
         }
       ],
-      "duration_ms": 131730,
-      "name": "i miss your warm hands",
-      "url": "https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV"
-    },
-    {
-      "added_at": "2023-11-22 17:43:27",
-      "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L"
-      },
-      "artists": [
-        {
-          "name": "Take Care",
-          "url": "https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s"
-        }
-      ],
-      "duration_ms": 103500,
-      "name": "Think Of Me Once In A While, Take Care",
-      "url": "https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX"
-    },
-    {
-      "added_at": "2023-05-19 12:25:14",
-      "album": {
-        "name": "never find u",
-        "url": "https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 166263,
-      "name": "never find u",
-      "url": "https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK"
-    },
-    {
-      "added_at": "2024-03-05 14:37:06",
-      "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/09pqA4YbFnuXeQ63qBmTnz"
-      },
-      "artists": [
-        {
-          "name": "porch kiss",
-          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/0IsAxgPis7CWtBHFIlzOyB"
+      "duration_ms": 264255,
+      "name": "weighted blanket",
+      "url": "https://open.spotify.com/track/1xKcwqnXbzHF5WXNw1V2GA"
     },
     {
       "added_at": "2023-07-21 18:07:08",
@@ -157,20 +125,216 @@
       "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-04-16 20:11:10",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+        "name": "lover's spit plays in the background",
+        "url": "https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+      "duration_ms": 242000,
+      "name": "lover's spit plays in the background",
+      "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
+    },
+    {
+      "added_at": "2024-01-02 16:56:31",
+      "album": {
+        "name": "Not How it's Supposed to be",
+        "url": "https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q"
+      },
+      "artists": [
+        {
+          "name": "i don't like mirrors",
+          "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
+        }
+      ],
+      "duration_ms": 131730,
+      "name": "i miss your warm hands",
+      "url": "https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/3xYPAeV0hTyrrWQUDU8NoF"
+      },
+      "artists": [
+        {
+          "name": "Blood Estate",
+          "url": "https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF"
+        }
+      ],
+      "duration_ms": 131980,
+      "name": "sky - demo",
+      "url": "https://open.spotify.com/track/0I1z4sDLVZsNMcwu0M7FQH"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "i saw a flying saucer",
+        "url": "https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI"
+        },
+        {
+          "name": "ctrl + me",
+          "url": "https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X"
+        }
+      ],
+      "duration_ms": 169062,
+      "name": "i saw a flying saucer",
+      "url": "https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "Tacomex",
+        "url": "https://open.spotify.com/album/2SGLLCKcbMk04z7HdC0ulN"
+      },
+      "artists": [
+        {
+          "name": "Witches Exist",
+          "url": "https://open.spotify.com/artist/04Lu0fhVMDqNwBeXZIasgR"
+        }
+      ],
+      "duration_ms": 255165,
+      "name": "Tacomex",
+      "url": "https://open.spotify.com/track/0ZoUiVuJTnlEFT4bwgRpmA"
+    },
+    {
+      "added_at": "2023-11-22 17:43:27",
+      "album": {
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L"
+      },
+      "artists": [
+        {
+          "name": "Take Care",
+          "url": "https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s"
+        }
+      ],
+      "duration_ms": 103500,
+      "name": "Think Of Me Once In A While, Take Care",
+      "url": "https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "synecdoche",
+        "url": "https://open.spotify.com/album/4tifV0CIZRnuxOC9gFQut6"
+      },
+      "artists": [
+        {
+          "name": "tommy oeffling",
+          "url": "https://open.spotify.com/artist/5FVxzy9gAv9zyNdlNObDA6"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "synecdoche",
+      "url": "https://open.spotify.com/track/5DIPZrYpIMmGPpKSZZvLDU"
+    },
+    {
+      "added_at": "2023-05-19 12:25:14",
+      "album": {
+        "name": "never find u",
+        "url": "https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 166263,
+      "name": "never find u",
+      "url": "https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "it hurts, now that you're gone",
+        "url": "https://open.spotify.com/album/3koInu7TJdoxQ6L4yR2r6M"
+      },
+      "artists": [
+        {
+          "name": "i don't like mirrors",
+          "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "it hurts, now that you're gone",
+      "url": "https://open.spotify.com/track/5ZNrtDCYDwzIBKmZAclBOu"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "miserable false ideas",
+        "url": "https://open.spotify.com/album/6zuuNlQ0Hq129yKw1t3ldQ"
+      },
+      "artists": [
+        {
+          "name": "i don't like mirrors",
+          "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
+        }
+      ],
+      "duration_ms": 103750,
+      "name": "sorry i was late",
+      "url": "https://open.spotify.com/track/7v2IBScC3KwtTZLbQCDVV7"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Hickory",
+        "url": "https://open.spotify.com/album/7ECrhykJzsa5Mi9HtQYlBk"
+      },
+      "artists": [
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        }
+      ],
+      "duration_ms": 305885,
+      "name": "Hickory",
+      "url": "https://open.spotify.com/track/5CbNVlWdXkBCu4IiGGz44L"
+    },
+    {
+      "added_at": "2024-03-05 14:37:06",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/09pqA4YbFnuXeQ63qBmTnz"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/0IsAxgPis7CWtBHFIlzOyB"
+    },
+    {
+      "added_at": "2024-04-16 20:11:10",
+      "album": {
+        "name": "fallin in luv",
+        "url": "https://open.spotify.com/album/1UrQfyrmg58B5mWirxdvCX"
+      },
+      "artists": [
+        {
+          "name": "AmiiFy",
+          "url": "https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ"
+        }
+      ],
+      "duration_ms": 84634,
+      "name": "fallin in luv",
+      "url": "https://open.spotify.com/track/4GjMBqEczBmREhkaF3CA4f"
     },
     {
       "added_at": "2023-07-21 18:07:08",
@@ -271,22 +435,6 @@
       "duration_ms": 165925,
       "name": "i still think about you",
       "url": "https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 195884,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
     },
     {
       "added_at": "2023-08-11 13:25:28",

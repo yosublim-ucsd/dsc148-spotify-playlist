@@ -1,6 +1,6 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67568,
+  "num_followers": 67594,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "11am",
-        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
-      },
-      "artists": [
-        {
-          "name": "Duke Boara",
-          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Interloper",
         "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 389325,
       "name": "Interloper",
       "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "11am",
+        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 250936,
       "name": "Youth",
       "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
     },
     {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
-      },
-      "artists": [
-        {
-          "name": "Third Son",
-          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
-        }
-      ],
-      "duration_ms": 92017,
-      "name": "Truman Sleeps",
-      "url": "https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY"
-    },
-    {
       "added_at": "2023-06-23 14:51:15",
       "album": {
         "name": "Simple Child",
@@ -791,6 +775,22 @@
       "duration_ms": 376000,
       "name": "Simple Child",
       "url": "https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
+      },
+      "artists": [
+        {
+          "name": "Third Son",
+          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
+        }
+      ],
+      "duration_ms": 92017,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY"
     },
     {
       "added_at": "2023-06-09 18:05:35",

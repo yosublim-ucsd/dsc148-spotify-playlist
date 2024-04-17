@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > girl in red album week! She's in charge of Oyster for the week with her current favs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,413 likes - 110 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,449 likes - 110 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

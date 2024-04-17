@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 569838,
+  "num_followers": 569680,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+        "name": "Under the Influence(r)",
+        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+      "duration_ms": 195012,
+      "name": "Under the Influence(r)",
+      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Under the Influence(r)",
-        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
       },
       "artists": [
         {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 195012,
-      "name": "Under the Influence(r)",
-      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 188328,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 188328,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 207705,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 273000,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 207705,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3"
     },
     {
       "added_at": "2024-03-22 19:30:48",

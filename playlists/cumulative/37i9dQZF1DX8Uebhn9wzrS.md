@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,915 songs - 3 day 0 hr 57 min
+1,916 songs - 3 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Lamplight](https://open.spotify.com/track/5FAI58CsAJSZm5WityWEfN) | [Catchaser](https://open.spotify.com/artist/2SP58Wk0YjobckhSvIMJo3) | [Cookies & Cream](https://open.spotify.com/album/2pIy3Hqv4nunY3V0AlHIf1) | 3:41 | 2022-04-15 | 2022-09-23 |
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2022-11-11 |  |
 | [Last Time](https://open.spotify.com/track/08WUibKNfFF4WfG41D4PtG) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe) | [Last Time](https://open.spotify.com/album/2ZE03YO8AarncGggsEqlUM) | 2:23 | 2022-06-10 | 2022-11-19 |
+| [late days](https://open.spotify.com/track/2nOqhb262LVJxEZtvEqqFK) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [late days](https://open.spotify.com/album/3nxugzWYnvcC5DTKEMqA47) | 1:41 | 2024-04-12 |  |
 | [Late Night Call](https://open.spotify.com/track/4F0rWDhwr8mAImFmCPuBvP) | [rasya](https://open.spotify.com/artist/5AiC0g0himsHrBJgYixuB0) | [Late Night Call](https://open.spotify.com/album/5li4QSdvxWxkes4fRqDR3t) | 2:33 | 2022-04-15 | 2022-06-25 |
 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 | 2022-04-15 | 2022-08-12 |
 | [late night train](https://open.spotify.com/track/1HdY90S677tBxCIglQs8rB) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [late night train](https://open.spotify.com/album/0Qlzxc487GyxRnHPqJQDgX) | 2:23 | 2023-04-20 |  |
@@ -1162,7 +1163,7 @@
 | [nobu](https://open.spotify.com/track/6qHXA6MIjdo3Hkat20wUge) | [tòrshi](https://open.spotify.com/artist/6DzfBjMMfxONCjnF9KtxLK) | [nobu](https://open.spotify.com/album/1SnCnUTZdNlXGrZXcDpWAp) | 2:29 | 2024-02-09 |  |
 | [Nocturna](https://open.spotify.com/track/3EiXe5wm6GitRksxmUXnHD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [New Era \- Side A](https://open.spotify.com/album/4jf3PHOYqvOCK8CxgjE2gb) | 1:20 | 2024-04-12 |  |
 | [Non Troppo](https://open.spotify.com/track/5769mk2Z62iRhm0qyIC3kn) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Non Troppo](https://open.spotify.com/album/4DneUqwjCEcFMexEmDa9p7) | 2:45 | 2022-07-22 | 2022-08-12 |
-| [Northern Lights](https://open.spotify.com/track/6Nta3FSv5BKjpJD2hkOhDI) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [Northern Lights](https://open.spotify.com/album/5WLBT0odmOFAoX2i7QeaLu) | 2:07 | 2024-01-19 |  |
+| [Northern Lights](https://open.spotify.com/track/6Nta3FSv5BKjpJD2hkOhDI) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [Northern Lights](https://open.spotify.com/album/5WLBT0odmOFAoX2i7QeaLu) | 2:07 | 2024-01-19 | 2024-04-17 |
 | [Nostalgia](https://open.spotify.com/track/2cqvEdlgsh6UkAbWrLeNsS) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Nostalgia](https://open.spotify.com/album/4h5AOoOzuQntV9z4iuSRbS) | 2:44 | 2022-08-05 | 2022-10-29 |
 | [Nostalgia Pt\. 1 \- Beat Edit](https://open.spotify.com/track/1SBIGuG5nlZSA0ujKDcx5o) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Nostalgia Pt\. 1 \(Beat Edit\)](https://open.spotify.com/album/0NRAkXnNFFStPxA3Orqdb9) | 2:09 | 2022-04-15 | 2022-07-15 |
 | [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2023-09-29 |  |

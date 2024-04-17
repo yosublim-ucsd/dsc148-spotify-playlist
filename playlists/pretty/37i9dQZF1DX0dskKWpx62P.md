@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,026 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,043 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 17 | [Cuerpo Soltero](https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:44 |
 | 18 | [La Orquesta](https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:23 |
 | 19 | [Vaso de Cristal](https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf) | [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51) | [Amanda Portales la Novia del Perú](https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn) | 3:37 |
-| 20 | [Chapitas](https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Tusuyninchiq](https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU) | 4:19 |
+| 20 | [Cerveza, Cerveza](https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito Por Qué Me Dejaste..!](https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc) | 4:34 |
 | 21 | [Chuquibambinita](https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8) | [Los Errantes](https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr) | [Los Errantes](https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3) | 3:12 |
 | 22 | [Huaynos Norteños \(Todo Empezó Como Jugando / Casualidad\)](https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr) | [Para Ti](https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu) | 6:01 |
 | 23 | [Otra vez me equivoqué](https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh) | 3:17 |
-| 24 | [Cerveza, Cerveza](https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito Por Qué Me Dejaste..!](https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc) | 4:34 |
+| 24 | [Chapitas](https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Tusuyninchiq](https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU) | 4:19 |
 | 25 | [Pio Pio](https://open.spotify.com/track/3KYG6f0J9xM5LKmJ6WgHwN) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Mis Mejores Huaynos](https://open.spotify.com/album/26kFFLPJ5A1scqYoVgW3EB) | 3:43 |
 | 26 | [A los Filos de un Cuchillo](https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Pastorita Huaracina](https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b) | 3:08 |
 | 27 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe) | [Trio Ayacucho](https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8) | [Como Siempre Con El Mayor Cariño](https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn) | 3:44 |

@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: STONE
 
-544 songs - 1 day 5 hr 47 min
+545 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 | 2023-02-10 |
 | [C’est Comme Ça \(Re: Wet Leg\)](https://open.spotify.com/track/5PA2Q9hBo1gmB3RlA8TZa2) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 2:24 | 2023-10-06 | 2023-10-27 |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-03-08 | 2024-03-09 |
-| [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 | 2024-02-09 |  |
+| [Dallas](https://open.spotify.com/track/0VX5Ud6rUotyxZbWqnVUWq) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 6:02 | 2024-04-11 |  |
+| [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 | 2024-02-09 | 2024-04-17 |
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-06 | 2023-10-13 |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-10-19 | 2023-12-15 |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-16 | 2024-03-22 |

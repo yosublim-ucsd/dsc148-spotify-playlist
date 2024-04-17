@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-254 songs - 15 hr 8 min
+255 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Bahm Bahm \(Do It Once Again\) / I Want You](https://open.spotify.com/track/6y9sfJ7b0S7aekaOGgeogc) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 4:47 | 2024-02-07 |  |
 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 | 2024-02-07 |  |
 | [Bang Bang \(feat\. R\. City, Selah Sue & Craig David\) \- René LaVice's Trigger Happy Remix](https://open.spotify.com/track/5fEn8RHPrh5eC1HlAT2yG8) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Bang Bang \(Remixes\) \(feat\. R\. City, Selah Sue & Craig David\)](https://open.spotify.com/album/7n06YZj3TcbcsaDDUtAthS) | 4:02 | 2024-02-07 |  |
-| [Be My Baby](https://open.spotify.com/track/2gijedBBM7NHH0tKO4DEUN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [My Everything](https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr) | 3:37 | 2024-02-07 |  |
+| [Be My Baby](https://open.spotify.com/track/0fonaf88IEDQM309zmU80L) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:37 | 2024-04-16 |  |
+| [Be My Baby](https://open.spotify.com/track/2gijedBBM7NHH0tKO4DEUN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [My Everything](https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr) | 3:37 | 2024-02-07 | 2024-04-17 |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 2:35 | 2024-02-07 |  |
 | [Better Thangs \(with Summer Walker\)](https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77) | 3:34 | 2024-02-07 |  |
 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2024-02-07 |  |

@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-242 songs - 13 hr 47 min
+243 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Spectrum \- Acoustic Version](https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Spectrum EP](https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU) | 1:50 | 2022-03-25 |  |
 | [Starlight \(Piano Version\)](https://open.spotify.com/track/0mOvN6JOJcW2Y4PHfIDqYQ) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Starlight Remixes](https://open.spotify.com/album/4yrDQAqHKyqRRYOIlc13bo) | 3:34 | 2022-06-27 | 2024-02-14 |
 | [Starlight \(Piano Version\)](https://open.spotify.com/track/7o5aAn2bUQnUwNfPmcsWB9) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Starlight Remixes](https://open.spotify.com/album/6IZpH59rXpdusTqgheflIA) | 3:34 | 2021-12-10 | 2022-07-29 |
+| [Starlight \- Piano Version](https://open.spotify.com/track/1bVSPeAoMNAYkGOZ6BBsQq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Starlight Remixes](https://open.spotify.com/album/6q5z5hyrlfv7Z4W8VIsrka) | 3:34 | 2023-10-06 |  |
 | [Stay The Night \- Acoustic](https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay The Night \(Acoustic\)](https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v) | 2:51 | 2022-06-27 |  |
 | [Steal Your Heart \- Unplugged Version](https://open.spotify.com/track/40Ogxs02kMCBNJCvJ2f7vF) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw), [Lenachka](https://open.spotify.com/artist/1KMdIxzX1BddGfY2H8aGvn) | [EDM Unplugged](https://open.spotify.com/album/27pAk3y9TYozo4mfpXjKRg) | 3:31 | 2021-12-10 | 2022-07-29 |
 | [Sun & Moon](https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Acoustic](https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3) | 4:48 | 2022-06-27 |  |
@@ -228,7 +229,7 @@
 | [Tri\-State](https://open.spotify.com/track/5VvREanHtgxZ5mIsKrEhne) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Above & Beyond Tri\-State](https://open.spotify.com/album/0btVL1AemASPb6ZZjZ3GDQ) | 4:11 | 2022-03-25 | 2022-04-20 |
 | [Used To Have It All \- Acoustic](https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Used To Have It All \(Acoustic Version\)](https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ) | 3:01 | 2021-12-10 |  |
 | [Virtual Friend \[Bonus Track\] \- Acoustic Version](https://open.spotify.com/track/3ZZMiqk5rTDnuDgY1s3puN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sophie](https://open.spotify.com/artist/4wDc5abr4uJzIxIUWpBlMx) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/3XMxkQzqskNvKVbG6g80Jr) | 3:54 | 2021-12-10 | 2022-06-15 |
-| [Waiting \- Strings & Vocals Mix](https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:49 | 2021-12-10 |  |
+| [Waiting \- Strings & Vocals Mix](https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:49 | 2021-12-10 | 2024-04-17 |
 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv) | 3:45 | 2022-03-25 |  |
 | [Walking Alone \(David Komar Piano Rendition\)](https://open.spotify.com/track/2xhOTvCCJShuMcAIOk8sYB) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Walking Alone](https://open.spotify.com/album/2FaZTMjqptM3RX9ZbeAnGP) | 4:57 | 2022-03-25 | 2022-06-18 |
 | [Walking With Shadows \- Acoustic Version](https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [The Acoustics](https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7) | 2:41 | 2021-12-10 |  |

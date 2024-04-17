@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,091 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,182 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 22 | [Los Chiquinarcos](https://open.spotify.com/track/4zoUYrtW9Pql2fGVaiCnhU) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Lo Más Escuchado De](https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA) | 2:38 |
 | 23 | [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 |
 | 24 | [Provócame](https://open.spotify.com/track/0NZ4QDyau19VUO9dSZuyWA) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 2:39 |
-| 25 | [Corrido Del Chapo](https://open.spotify.com/track/7eklxTiqZNbzeGyNClZd9L) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [Ultimas Noticias](https://open.spotify.com/album/3Hl1IiF7mJuQ8GFxojPDaU) | 4:19 |
-| 26 | [La Primavera](https://open.spotify.com/track/3aoAclMXhtKqSC2j8hOCo2) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10th Aniversario](https://open.spotify.com/album/2vBnKNe8AYlOjvI767hpiz) | 2:30 |
+| 25 | [La Primavera](https://open.spotify.com/track/3aoAclMXhtKqSC2j8hOCo2) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10th Aniversario](https://open.spotify.com/album/2vBnKNe8AYlOjvI767hpiz) | 2:30 |
+| 26 | [Corrido Del Chapo](https://open.spotify.com/track/7eklxTiqZNbzeGyNClZd9L) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [Ultimas Noticias](https://open.spotify.com/album/3Hl1IiF7mJuQ8GFxojPDaU) | 4:19 |
 | 27 | [A Cada Instante](https://open.spotify.com/track/50H4yBJSse8EXL2834flF1) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ["14 Exitos" A Cada Instante](https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z) | 2:44 |
 | 28 | [La Mas Bonita De Todas](https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:29 |
 | 29 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |

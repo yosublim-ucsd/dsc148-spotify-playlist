@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 ### [This Is Los Hijos De Garcia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25pKNy)
 
-> This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
+> This Is Los Hijos De Garcia\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,602 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,604 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Gorra De Tijuana](https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:15 |
 | 50 | [18 Libras \(En Vivo\)](https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Pisteando Con Larry Hernández, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf) | 2:57 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGViMTI1NWNhYjk1MGFmYmU3ZjAwY2EyNTVmMmQ3ZDcw`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJmODI3OWNlYmY5Njk4YjRiYjA2OTE5NDk0M2Q0NTRl`

@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-157 songs - 9 hr 45 min
+158 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [จังหวะจะรัก](https://open.spotify.com/track/0ntdviIRIuOlRFnEZLWqNR) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จังหวะจะรัก](https://open.spotify.com/album/2DI0hATxWUbv0pRpmhbfwx) | 3:40 | 2023-02-10 | 2023-04-30 |
 | [จังหวะจะรัก](https://open.spotify.com/track/2dhMTwg7O8n4kFYLpCaLC4) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จังหวะจะรัก](https://open.spotify.com/album/5hjS0mLBF0f59Cq71mgjDe) | 3:40 | 2023-02-21 |  |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2023-02-10 |  |
-| [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 | 2023-02-10 |  |
+| [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 | 2023-02-10 | 2024-04-17 |
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2023-02-10 |  |
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2023-02-10 |  |
 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 | 2023-02-10 |  |
@@ -103,6 +103,7 @@
 | [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-04-30 | 2023-06-10 |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \- Single](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2023-02-10 |  |
 | [รักแฟน](https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [รักแฟน](https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7) | 2:34 | 2024-01-16 |  |
+| [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/2T3nSum6ofOyHrcRLdEky0) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \[From แปลรักฉันด้วยใจเธอ Part 2\]](https://open.spotify.com/album/6JhqKjkUnaWfTqM8hCQYtd) | 3:19 | 2024-03-16 |  |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 | 2023-02-10 | 2024-04-13 |
 | [ลั่นทม \(เพลงประกอบละคร หอมกลิ่นความรัก\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม \- Single](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 | 2023-10-06 |  |
 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 | 2023-02-10 |  |

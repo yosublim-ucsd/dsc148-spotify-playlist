@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 ### [This Is Kenny G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
 
-> This is Kenny G\. The essential tracks, all in one playlist.
+> This Is Kenny G\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,863 likes - 47 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,878 likes - 47 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 46 | [Bossa Antigua](https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Brazilian Nights \(Deluxe Edition\)](https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS) | 3:48 |
 | 47 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGJkNDg2YzAxMGFiYzA1MjA0ZmE0NTBmNjEyM2ZmZjk4`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDYzZDQ2OTcxYWVhM2UzMmU1NzU1ZWEyYTg0OTM4ZjNk`

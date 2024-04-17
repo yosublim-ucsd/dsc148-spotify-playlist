@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 300000,
       "name": "Our true feelings",
       "url": "https://open.spotify.com/track/6KOZLGrZT2tguQv9ZqwMpo"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 226363,
       "name": "PASSAGE (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3CBz8B8mKSS461Hqk121km"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 284050,
       "name": "\u304d\u307f\u3068\u305d\u3089\u3092\u3068\u3076 (feat. \u521d\u97f3\u30df\u30af&\u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/5dySAFu6j5IrfIIQcekN47"
@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u3053\u306b\u3044\u305f\u3053\u3068",
+        "url": "https://open.spotify.com/album/1lvFZFte1gQNeAAsemlMgH"
+      },
+      "artists": [
+        {
+          "name": "regulus",
+          "url": "https://open.spotify.com/artist/0ZszsC66omhZ92du9Np8I3"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283764,
+      "name": "\u305d\u3053\u306b\u3044\u305f\u3053\u3068",
+      "url": "https://open.spotify.com/track/6WX2cQrQv9fQpkm6C2nLCp"
+    },
+    {
+      "album": {
         "name": "\u9752\u304f\u3001\u512a\u3057\u304f\u3001\u5149\u3063\u3066\u3002",
         "url": "https://open.spotify.com/album/7EWVyqh2CpZ5HXBesXpWfD"
       },
@@ -612,7 +630,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 222727,
       "name": "\u305d\u3093\u306a\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/71UxNdsNguzTYAM7dhodgP"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 196054,
       "name": "\u30a4\u30df\u30c6\u30fc\u30b7\u30e7\u30f3\u30a2\u30d5\u30bf\u30ea\u30df\u30c3\u30b8 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/56URkkPZLSD32KPGpve0nv"
@@ -900,6 +918,24 @@
       "duration_ms": 366164,
       "name": "\u30af\u30a9\u30fc\u30c4\u30a1\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/42BYRpjzOnxnlbqjdMZ9fo"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a4\u30b4\u30ce\u30c8\u30e2\u30c0\u30c1",
+        "url": "https://open.spotify.com/album/0AGlYglspPGOWh6SqrCNza"
+      },
+      "artists": [
+        {
+          "name": "\u6e4a\u3044\u3064\u304d",
+          "url": "https://open.spotify.com/artist/6E3J052gwC6el0EmoiG8Wt"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301340,
+      "name": "\u30b5\u30a4\u30b4\u30ce\u30c8\u30e2\u30c0\u30c1",
+      "url": "https://open.spotify.com/track/0jfyWjdrlcZNueRpRbnviu"
     },
     {
       "album": {
@@ -1267,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u5207\u306a\u541b\u3078\u8d08\u308b\u6b4c",
+        "url": "https://open.spotify.com/album/22OyNLncjaG8AxAleG0LHc"
+      },
+      "artists": [
+        {
+          "name": "Toraboruta",
+          "url": "https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371052,
+      "name": "\u5927\u5207\u306a\u541b\u3078\u8d08\u308b\u6b4c",
+      "url": "https://open.spotify.com/track/5oSg0Mq586O7yyGrJjwHRc"
+    },
+    {
+      "album": {
         "name": "\u672a\u78ba\u8a8d\u98db\u884c\u76e4\u3000UFD",
         "url": "https://open.spotify.com/album/3kqS3h0Leo1BbuR3DoQR5U"
       },
@@ -1597,6 +1651,28 @@
     },
     {
       "album": {
+        "name": "\u97f3\u697d\u6587\u5b66E.P(Digital Edition)",
+        "url": "https://open.spotify.com/album/49lRomATMkUSKm9hyo4Son"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3044\u3061",
+          "url": "https://open.spotify.com/artist/1Lxn9Isei7h9w0CmtRawki"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257872,
+      "name": "\u8695\u3005 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6gznJKvcMUiyOtUK3BhZTL"
+    },
+    {
+      "album": {
         "name": "\u8d77\u304d\u305f\u308916\u6642",
         "url": "https://open.spotify.com/album/3XCZxu0b1fRVY4Qsvn6ao6"
       },
@@ -1616,6 +1692,28 @@
       "duration_ms": 158000,
       "name": "\u8d77\u304d\u305f\u308916\u6642 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2p1egY5ETqCBmi558SQMal"
+    },
+    {
+      "album": {
+        "name": "\u900f\u660e\u591c\u884c",
+        "url": "https://open.spotify.com/album/0SCRpaKqeKrIS7mKBX1lXs"
+      },
+      "artists": [
+        {
+          "name": "Aoto Kei",
+          "url": "https://open.spotify.com/artist/2xiTu4bRHOuHaxWndb7MRN"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100003,
+      "name": "\u900f\u660e\u591c\u884c (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/0vr5g4rAY91uQHFwNB6XAt"
     },
     {
       "album": {

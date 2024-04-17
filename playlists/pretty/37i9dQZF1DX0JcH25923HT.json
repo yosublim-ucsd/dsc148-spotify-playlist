@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 438582,
+  "num_followers": 438704,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex",
-        "url": "https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Ayer Me Llam\u00f3 Mi Ex",
-      "url": "https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "No Me Llores",
         "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 191846,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex",
+        "url": "https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Ayer Me Llam\u00f3 Mi Ex",
+      "url": "https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Hijo de la Noche",
         "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 206884,
       "name": "Hijo de la Noche",
       "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Real G4 Life Vol. 3",
-        "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 234271,
-      "name": "Hoy (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Pininfarina (Remix)",
         "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
       },
@@ -1355,30 +1335,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+        "name": "Real G4 Life Vol. 3",
+        "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         },
         {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "TATOOL",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        },
-        {
-          "name": "Yesan \u96ea\u5c71",
-          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 99724,
-      "name": "2.0.1.9",
-      "url": "https://open.spotify.com/track/2FPE3JcSvRoCNSC96KAyvB"
+      "duration_ms": 234271,
+      "name": "Hoy (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1411,6 +1383,34 @@
       "duration_ms": 275478,
       "name": "Si Tu Lo Dejas",
       "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Yesan \u96ea\u5c71",
+          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
+        }
+      ],
+      "duration_ms": 99724,
+      "name": "2.0.1.9",
+      "url": "https://open.spotify.com/track/2FPE3JcSvRoCNSC96KAyvB"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 223500,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A fuego",
+      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "A.D.R.O.M.I.C.F.M.S. 2",
         "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 191346,
       "name": "Ready Pa Morir",
       "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A fuego",
-      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
     },
     {
       "added_at": "2024-03-08 16:14:30",

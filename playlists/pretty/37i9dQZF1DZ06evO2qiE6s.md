@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 ### [This Is Dean Martin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s)
 
-> This is Dean Martin\. The essential tracks, all in one playlist.
+> This is: Dean Martin\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,693 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,681 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [South of the Border](https://open.spotify.com/track/2Q87Wv1UylYPZ1yAH87ddv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino Latino](https://open.spotify.com/album/2ws8PE4HE9e4IqWNBKGv5j) | 1:49 |
 | 50 | [Under The Bridges Of Paris](https://open.spotify.com/track/4LbhIS1d4kBg7lapZ61B4z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:49 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDQyNWRkYmM4OTQzNTE4YzEzNGEyYzE3NjEzYTliNDky`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQ2NDcyN2QyNjNmMDRhYzQwZjY2OGNhYjg1MzQ4YWYx`

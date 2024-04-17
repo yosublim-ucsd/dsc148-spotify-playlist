@@ -4,7 +4,7 @@
 
 > Music from "BLUELOCK" /アニメ「ブルーロック」の楽曲を1つのプレイリストで。©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-31 songs - 1 hr 19 min
+32 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [RIN](https://open.spotify.com/track/1ab3xr1b3TMpAOZwhM0qwN) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:33 | 2023-06-22 |  |
 | [Spatial Awareness](https://open.spotify.com/track/1igQeKnLlROweUAG7Jk9Y6) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:42 | 2023-06-22 |  |
 | [Start Line](https://open.spotify.com/track/1qxwEvmgGfFBL3jIqRKtHX) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:41 | 2023-06-22 |  |
+| [Stormy](https://open.spotify.com/track/7FDgraktDTcuA8uc8ixBM6) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Stormy](https://open.spotify.com/album/4hwKWHczO6iNFJtdaxNuD7) | 3:24 | 2024-04-16 |  |
 | [Struggle](https://open.spotify.com/track/5jp3XLGkRTIMfCQQUh4s9L) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:39 | 2023-06-22 |  |
 | [The Last One](https://open.spotify.com/track/4tVWri4uMyt2s6AZboHP9k) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:42 | 2023-06-22 |  |
 | [TOP OF THE LOCK](https://open.spotify.com/track/1IzBaJeL29QR0ydI7S5gXb) | [糸師 凛 \(CV.内山昂輝\)](https://open.spotify.com/artist/0QoaRCbgKEviNjMegnAzMb), [蟻生十兵衛 \(CV.小西克幸\)](https://open.spotify.com/artist/5rvkRdSpUH0eOGfl9EyFcZ), [時光青志 \(CV.立花慎之介\)](https://open.spotify.com/artist/2nP6faLXMNsePrQJZRcb0c) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 3:31 | 2023-06-22 |  |

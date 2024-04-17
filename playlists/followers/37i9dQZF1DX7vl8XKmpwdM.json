@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 245355,
+  "2024-04-17": 245441,
   "date_first_scraped": "2022-05-30",
   "description": "Dance Machi Dance\nCover : Jigarthanda DoubleX",
   "name": "Latest Dance Tamil",
@@ -75,6 +75,32 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB"
+    },
+    {
+      "album": {
+        "name": "Achacho (From \"Aranmanai 4\")",
+        "url": "https://open.spotify.com/album/38v7imWGztnKKx1SZuf5o3"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Kharesma Ravichandran",
+          "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        },
+        {
+          "name": "Vignesh Srikanth",
+          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193056,
+      "name": "Achacho - From \"Aranmanai 4\"",
+      "url": "https://open.spotify.com/track/5eSoySxUnx3xsm0FHFgHiv"
     },
     {
       "album": {
@@ -1621,7 +1647,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 92250,
       "name": "Master the Blaster (From \"Master\")",
       "url": "https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i"

@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Champagne Moments",
+        "url": "https://open.spotify.com/album/2Nu6FUe5OFNFVDBtGPoR8E"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205356,
+      "name": "Champagne Moments",
+      "url": "https://open.spotify.com/track/3pD67h2Hd1Jd1pMZFYVXHC"
+    },
+    {
+      "album": {
         "name": "CHAMPIONSH*T",
         "url": "https://open.spotify.com/album/5G9MfsgH8AEmBHCXtxXiK1"
       },

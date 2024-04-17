@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Chico Blanco
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Rina Sawayama
 
-1,142 songs - 2 day 13 hr 54 min
+1,144 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [2 Die 4](https://open.spotify.com/track/71BJVUm9wse1WBFEGHIFsI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:05 | 2023-01-24 | 2023-02-11 |
 | [22](https://open.spotify.com/track/2pauY34xHvz0W3asl70y3D) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [22](https://open.spotify.com/album/3WyoEyJ9jxbbzWxPzzeKDj) | 3:45 | 2021-12-24 | 2022-01-04 |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-08 |
+| [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-04-16 |  |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-10 | 2024-02-14 |
 | [3 Purple Hearts](https://open.spotify.com/track/1wsm2fpsZv1qH6fO25PHB2) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [3 Purple Hearts](https://open.spotify.com/album/2P2LTbZvZ9KSV4V95Oeik3) | 3:20 | 2021-12-24 | 2022-01-05 |
 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 | 2024-01-10 | 2024-02-14 |
@@ -270,7 +271,7 @@
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-12 |  |
 | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0) | 2:44 | 2023-08-08 | 2023-09-13 |
 | [Do I Ever Cross Your Mind?](https://open.spotify.com/track/2Ai6GyZxG5gW3YCkdeXhNU) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Do I Ever Cross Your Mind?](https://open.spotify.com/album/6qkX5pBH2OE4ebSA7B9jKn) | 3:05 | 2023-03-07 | 2023-04-01 |
-| [do u really want to watch](https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [do u really want to watch](https://open.spotify.com/album/1HGjv4VEYuVGXqP3NEINLG) | 2:43 | 2024-03-12 |  |
+| [do u really want to watch](https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [do u really want to watch](https://open.spotify.com/album/1HGjv4VEYuVGXqP3NEINLG) | 2:43 | 2024-03-12 | 2024-04-17 |
 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 | 2022-10-28 | 2022-12-01 |
 | [Dolce Vita](https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Dolce Vita](https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ) | 3:54 | 2023-04-18 | 2023-05-10 |
 | [DONTLEAVEMYSIDE](https://open.spotify.com/track/5dx52a9oh4Vm7XbkqCn7Dq) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [DONTLEAVEMYSIDE](https://open.spotify.com/album/45yxAZGb7qbBFG9mxBrYc5) | 2:06 | 2023-04-13 | 2023-06-02 |
@@ -389,7 +390,7 @@
 | [Good Good](https://open.spotify.com/track/4clhJIomittfffOssrsKMh) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Good Good](https://open.spotify.com/album/5G2EiAE53X62bW3erdq1lw) | 2:35 | 2023-09-12 | 2023-10-11 |
 | [Good Riddance](https://open.spotify.com/track/3ehnMYjZdSlQNiacOr1rPM) | [Reinaeiry](https://open.spotify.com/artist/0CSvPQ4Atj6NEcmymnbx7B) | [Good Riddance](https://open.spotify.com/album/3WJD6ovCS7AwmYRmYQp8wa) | 3:17 | 2023-05-16 | 2023-06-02 |
 | [Good Time](https://open.spotify.com/track/6DrIPRR1T24XUqmsW64cUF) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Good Time](https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o) | 3:10 | 2022-08-19 | 2022-09-17 |
-| [Good Time In Disguise \- ft\. Chocoholic](https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Good Time In Disguise](https://open.spotify.com/album/2rEX0BniB4v4PaRGa5bsDE) | 2:42 | 2024-03-12 |  |
+| [Good Time In Disguise \- ft\. Chocoholic](https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Good Time In Disguise](https://open.spotify.com/album/2rEX0BniB4v4PaRGa5bsDE) | 2:42 | 2024-03-12 | 2024-04-17 |
 | [Got Me Obsessed](https://open.spotify.com/track/6lHWSoTxeUwBjxfcP0frD9) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Got Me Obsessed](https://open.spotify.com/album/7pisk3C2Z4t7OZd5UWZGW3) | 3:07 | 2023-09-12 | 2023-11-30 |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-26 | 2023-10-17 |
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-10 | 2023-11-30 |
@@ -732,6 +733,7 @@
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-28 | 2024-01-11 |
 | [Odio](https://open.spotify.com/track/0E0FMhhsgteKZFAjMb5zou) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:33 | 2023-05-09 | 2023-06-02 |
 | [offline](https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [offline](https://open.spotify.com/album/5BJ5BHSUdfIs4dFzu15iKX) | 3:21 | 2023-01-24 | 2024-01-11 |
+| [Oh Lord](https://open.spotify.com/track/4jdB1yZ4qT6UqMk8ZgFZbj) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Oh Lord](https://open.spotify.com/album/5LDKT2LTboIOCLmeMAnkKW) | 2:57 | 2024-04-16 |  |
 | [Oh The Glamour](https://open.spotify.com/track/12bjMLgcc4vtwAQZd0byLL) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:21 | 2023-07-11 | 2023-09-13 |
 | [OJALA](https://open.spotify.com/track/2s7vG2soQmSx4WBiTgFnRx) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:38 | 2023-09-26 | 2023-11-14 |
 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 | 2023-05-16 | 2023-06-02 |

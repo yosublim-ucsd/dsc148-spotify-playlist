@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:حسين الجسمي
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,229 likes - 49 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,217 likes - 49 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saqat Aamdan](https://open.spotify.com/track/707mEqg0arM4lj6fC0q4QP) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Fahad Al Kubaisi 2024](https://open.spotify.com/album/6TnNr4o8tLHKQ82SE44sU1) | 5:08 |
+| 1 | [سقط عمدًا](https://open.spotify.com/track/0LgiX1pjvT9hYYjTi94JNJ) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [فهد الكبيسي ٢٠٢٤](https://open.spotify.com/album/2rcwcw5RyBM3gUXYIz7blF) | 5:08 |
 | 2 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 |
 | 3 | [Mn Aaba Ebtala](https://open.spotify.com/track/5VWQaRorDIB9FTgX5hlUdq) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Mn Aaba Ebtala](https://open.spotify.com/album/5WSRFUvLqvj0d4pSZvgtlT) | 3:20 |
 | 4 | [غيمة جنوبية](https://open.spotify.com/track/0u3OlqWffSlVYua3uk6CYp) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [غيمة جنوبية](https://open.spotify.com/album/4zpj8yX66T7NOOKaFp2gcM) | 2:22 |

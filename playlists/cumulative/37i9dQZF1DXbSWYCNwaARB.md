@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: ARTMS\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: Loossemble \(루셈블\)\)
 
-441 songs - 23 hr 19 min
+442 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-23 | 2022-08-17 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2023-07-13 |
 | [Girls](https://open.spotify.com/track/64HHzg4ILYpcYOGS0XQzOo) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE M](https://open.spotify.com/album/3XJnhd1OJGfH3qXbIz02l4) | 3:31 | 2020-10-13\* | 2022-04-20 |
+| [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-16 |  |
 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 | 2020-10-20 | 2022-07-01 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2022-04-21 |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2020-10-20 | 2022-04-20 |
@@ -430,7 +431,7 @@
 | [xaradise](https://open.spotify.com/track/5593fm3D68m8B7BzfZ2hLQ) | [PARKGOLF](https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [xaradise](https://open.spotify.com/album/25l0hhB8FPssnE9ywPWJXg) | 2:40 | 2020-10-13\* | 2022-04-21 |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2021-11-03 | 2022-07-29 |
 | [Xtra](https://open.spotify.com/track/4btftV9aaDSaw0sPBr5VsZ) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [ReviveR](https://open.spotify.com/album/2M9w0Fjim2sLzuFj0EZ4l8) | 3:00 | 2021-07-02 | 2022-04-21 |
-| [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 | 2024-03-27 |  |
+| [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 | 2024-03-27 | 2024-04-17 |
 | [XXXX](https://open.spotify.com/track/49jIwnU0pAUWorDG4ahISg) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:48 | 2022-07-13 | 2022-07-19 |
 | [YELLOW](https://open.spotify.com/track/70MvFJJYtpgklEmUofSSce) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [GENERASIAN](https://open.spotify.com/album/3qtOtUcdfFRVzHoCQLrHQo) | 3:02 | 2021-03-02 | 2022-04-20 |
 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 |  |

@@ -4,13 +4,13 @@
 
 > Be like water....<br/>Get into the flow with calming sounds of running streams.
 
-125 songs - 6 hr 36 min
+127 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Arroyo \(River\)](https://open.spotify.com/track/3jtIL1U6ENaRtAs2GYypJd) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Streamflow](https://open.spotify.com/album/0sQfyuAuP8HPE8HHyLCRxT) | 2:36 | 2023-06-19 |  |
 | [Babbling Brook](https://open.spotify.com/track/4ec3VGnJUyMfX5GEFCBipt) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-08-04 |  |
-| [Babbling Creek](https://open.spotify.com/track/4LiXMAr57xoijQMUcb7PKA) | [Snow and Creeks](https://open.spotify.com/artist/1sDbuRwpEJFQIm4pnCGWQE) | [Mountain Snowmelt](https://open.spotify.com/album/6xeXqENXQPrVayEiSPI7X4) | 2:02 | 2022-08-04 |  |
+| [Babbling Creek](https://open.spotify.com/track/4LiXMAr57xoijQMUcb7PKA) | [Snow and Creeks](https://open.spotify.com/artist/1sDbuRwpEJFQIm4pnCGWQE) | [Mountain Snowmelt](https://open.spotify.com/album/6xeXqENXQPrVayEiSPI7X4) | 2:02 | 2022-08-04 | 2024-04-17 |
 | [Babbling Forest Brook](https://open.spotify.com/track/70wI8fVLWlH0Cy0jZlH7tf) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Babbling Stream](https://open.spotify.com/album/6odFmCA3nOYG362B7Bel5v) | 3:31 | 2022-08-04 |  |
 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 | 2022-08-04 |  |
 | [Big Waterfall in the Distance](https://open.spotify.com/track/0wXVdEuwkrWmxivqGxFdGa) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Waterfalls in Winter](https://open.spotify.com/album/4tOaz7j4Juvd82I4qa29Rz) | 3:04 | 2022-08-04 |  |
@@ -25,7 +25,7 @@
 | [Calm Stream](https://open.spotify.com/track/1xqkIrkxVt12JrJIzic4Wl) | [Project Soundscape](https://open.spotify.com/artist/4NlMFOLkgN0I2LnLBGe2Ci) | [Calm Stream](https://open.spotify.com/album/6fmGvwX50GL4IrSrc8XWby) | 2:49 | 2023-06-19 | 2024-02-25 |
 | [Calming River Water](https://open.spotify.com/track/5zIcCaYCJ6aoYas8nl7k6q) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Snowmelt and Rivers for Sleeping](https://open.spotify.com/album/3WomUrOQJWJknkjRYQiMIn) | 3:11 | 2022-08-04 |  |
 | [Calming Water Flow](https://open.spotify.com/track/0fb9npEOOwMWBLsTD3XeWq) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rivers Around The World](https://open.spotify.com/album/6eKBN3G0v2JCSkTCwoq0M5) | 2:49 | 2023-06-19 |  |
-| [Chill Day by the River](https://open.spotify.com/track/4IO2hoX2M0WBbFDDjJ21xr) | [Sounds from Above](https://open.spotify.com/artist/17HGEQUIyMzUgtjvBh8rWc) | [Relaxing Running Water](https://open.spotify.com/album/5bfdoeCy8FpHfed8W5ObC7) | 3:09 | 2022-08-04 |  |
+| [Chill Day by the River](https://open.spotify.com/track/4IO2hoX2M0WBbFDDjJ21xr) | [Sounds from Above](https://open.spotify.com/artist/17HGEQUIyMzUgtjvBh8rWc) | [Relaxing Running Water](https://open.spotify.com/album/5bfdoeCy8FpHfed8W5ObC7) | 3:09 | 2022-08-04 | 2024-04-17 |
 | [Clear Creek](https://open.spotify.com/track/0LWU1WCVMmEP4Tgt94xI9q) | [Water Meditations](https://open.spotify.com/artist/1DPlfmeS7GBX9w1GvOqR6D) | [Winter Creek](https://open.spotify.com/album/74Rv58s1O45Ct35N3BUpks) | 2:18 | 2022-08-04 |  |
 | [Columbia River Shore](https://open.spotify.com/track/4enMSTtvfyIx4AWXLK64UK) | [West Coast Soundscape](https://open.spotify.com/artist/7hE6eTo9beS2NsfSiJHQek) | [Columbia River Shore](https://open.spotify.com/album/3gRyH9PTvT9dl2PxyCkYBv) | 2:52 | 2022-08-04 |  |
 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 | 2022-08-04 |  |
@@ -34,6 +34,7 @@
 | [Deerfield River](https://open.spotify.com/track/7KPje5zK1vRtKjFZROTqEl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Autumn River Sounds](https://open.spotify.com/album/5QvHXt1ux5QNQzC2iWIwkD) | 4:58 | 2022-08-04 | 2024-02-03 |
 | [Down The River](https://open.spotify.com/track/4dU8unK0e42MOkGjnqpu66) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rivers Of Estelí](https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88) | 3:26 | 2022-08-04 |  |
 | [Dreaming by the River](https://open.spotify.com/track/6KvWhDl90J7hLQKt7RdtUu) | [Naturesque](https://open.spotify.com/artist/7A4Vjuj5WfIu5VGpeG6v0x) | [Dreaming by the River](https://open.spotify.com/album/6Ev8t75sLbPjLhYwizjM5q) | 3:36 | 2024-03-25 |  |
+| [El Arenal River's Edge Lullaby](https://open.spotify.com/track/2FwMtSUFVY2qU3zoWSrKDs) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Andean Water Sound Whispers](https://open.spotify.com/album/4e7PwYbFcEcQRIukzZnG1m) | 2:30 | 2024-04-16 |  |
 | [Esopus Creek](https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Esopus Creek](https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy) | 2:44 | 2022-08-04 |  |
 | [Fast Flowing River \- Seamless](https://open.spotify.com/track/0kqEkGV3rpy6BvVuM9x1EB) | [Sleepy Falls](https://open.spotify.com/artist/4YEs6CRrsB6P1JZtNVZ09C) | [Rivers And Streams](https://open.spotify.com/album/3l3fLrLSL3024gMcvVLt9c) | 1:50 | 2022-08-04 | 2023-06-20 |
 | [Fast River on Rocks](https://open.spotify.com/track/6vhtvMNhtj2207rx9j5lH9) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Jungle River Rapids](https://open.spotify.com/album/0ICLrHqdJ36IN30dyM7B7T) | 3:00 | 2022-08-04 |  |
@@ -112,6 +113,7 @@
 | [Stream to the Waterfall](https://open.spotify.com/track/1kgabwYM9KxzRzcuxkjIq6) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Calming Hawaiian Water Sounds](https://open.spotify.com/album/2vacWEE2Pj9mVjTzstcClq) | 1:59 | 2022-08-04 | 2023-06-20 |
 | [Sunken Creek](https://open.spotify.com/track/4bNnENq3vhPkmXOItWv2NV) | [Stereo Creek](https://open.spotify.com/artist/6DW5OLpUj0OVVOYcB4ih35) | [Relaxing Creek Sounds](https://open.spotify.com/album/6o4cF0vMTWaJZhV3dt4Msg) | 3:06 | 2022-08-04 |  |
 | [Take Me Down the River](https://open.spotify.com/track/0dUdMzVlqyCZzrLr2eCkyB) | [Ebb&Flod](https://open.spotify.com/artist/1IsJosONX2G4ekmLMfjTO4) | [Gentle Stream](https://open.spotify.com/album/2FzwA8tmqu4QccprXAb8PH) | 3:16 | 2022-08-04 |  |
+| [Teusaca Water Flow Symphony](https://open.spotify.com/track/1FWIk7G3Zv6iCQcsNpytvJ) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Andean Water Sound Whispers](https://open.spotify.com/album/4e7PwYbFcEcQRIukzZnG1m) | 2:05 | 2024-04-16 |  |
 | [Tha Chin \(River\)](https://open.spotify.com/track/1XNqqFV11ACz26hvxEz9FI) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:36 | 2022-08-04 |  |
 | [The Flowing Natural White Noise](https://open.spotify.com/track/2uW912jA41Pnhw9WNqJv2p) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Close To the Water](https://open.spotify.com/album/4H3pblqHqEsyPjgBaeLHnd) | 3:50 | 2023-06-19 | 2024-04-15 |
 | [The River In Me](https://open.spotify.com/track/0pN6GLYsTjaMlXCkpsWq8h) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Sleep On The Ocean](https://open.spotify.com/album/3tUgq5TQwhQHdvYIlRHEr8) | 3:14 | 2022-08-04 |  |

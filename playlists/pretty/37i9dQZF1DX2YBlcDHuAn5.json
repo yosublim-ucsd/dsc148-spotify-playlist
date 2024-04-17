@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7179,
+  "num_followers": 7185,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 299306,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
       "artists": [
         {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2024-04-11 22:00:00",

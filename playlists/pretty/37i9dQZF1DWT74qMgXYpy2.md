@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 
 > Flute and fiddle, drums and drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,755 likes - 63 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,756 likes - 63 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 23 | [The Creelman / The Normaway Inn / The Reconciliation](https://open.spotify.com/track/4nFJorUU1eir4nMTaDSXDY) | [Saltfishforty](https://open.spotify.com/artist/5ic4df8KLBtz98rIndLR0b) | [Netherbow](https://open.spotify.com/album/3cyfAcGcRIpvnY2zHh0D3J) | 3:53 |
 | 24 | [Baby Broon's](https://open.spotify.com/track/2JpwrvZ2xWiSguEVv2FbNM) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [The Desperate Battle of the Birds](https://open.spotify.com/album/08YDV9rF0Z9ddI0URlSkdx) | 4:15 |
 | 25 | [The Boxing Reels](https://open.spotify.com/track/066gEKJCygUI0SiCimbKTX) | [Kittel & Co.](https://open.spotify.com/artist/3SMwTQsbZGsqYnMaVXadmp), [Jeremy Kittel](https://open.spotify.com/artist/3uRqP5x3yw7M7lLOD4oRLz), [Joshua Pinkham](https://open.spotify.com/artist/7DjQGyRgHxQKjr7Ix8jwRE), [Nathaniel Smith](https://open.spotify.com/artist/3WQPULFK4VSAsB5tZQJfp3), [Quinn Bachand](https://open.spotify.com/artist/6r3J63PBwd7l52zv71CMof), [Simon Chrisman](https://open.spotify.com/artist/204EbnvfzRWfWxB3fGllvs) | [Whorls](https://open.spotify.com/album/3e7iuxBMDZOrKwqadLX5ux) | 4:56 |
-| 26 | [Riverview \- Ros T Remix](https://open.spotify.com/track/0xZJyYT18TPAY88DUTXzGH) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Riverview \(Ros T Remix\)](https://open.spotify.com/album/5NMC03WQ3x1cwzUEWNR0Al) | 4:22 |
+| 26 | [Riverview \- Ros T Remix](https://open.spotify.com/track/0Msqo0D9lRsxgLBKY09ZaD) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Riverview \(Ros T Remix\)](https://open.spotify.com/album/4R0wK6J19pNhgQxSfycHqF) | 4:22 |
 | 27 | [Nuggets](https://open.spotify.com/track/33dh8dpB2Q3lS4iWxQO5v8) | [Hò\-rò](https://open.spotify.com/artist/0zqsOJqQ7m8IvHwmouxK6e) | [HEX](https://open.spotify.com/album/0emiOxgohrFKdXV1XutEAP) | 3:27 |
 | 28 | [Surroundings](https://open.spotify.com/track/0EZTWWEQbSwxtwuUqZl3Kj) | [Ross Ainslie](https://open.spotify.com/artist/5qP1QgTFbxBrG4WXN0gRrq) | [Sanctuary](https://open.spotify.com/album/0XFtEgflENqeSttLu2XX6S) | 3:41 |
 | 29 | [Fiasco](https://open.spotify.com/track/7CJv342esjSwejNStEpWW9) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:27 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 36 | [Terrarium](https://open.spotify.com/track/5fMAL2ls7Dn5OpNNFzOPsi) | [Dallahan](https://open.spotify.com/artist/1MfVe0OhbAVIhlXv5yrOUo) | [Smallworld](https://open.spotify.com/album/2mG0x1Lat3hy0agbBuKrCZ) | 4:13 |
 | 37 | [Inspector](https://open.spotify.com/track/6kFd7AKRB5VXT4oFlbKZDk) | [Mànran](https://open.spotify.com/artist/0okPaVyeEjh0VJtfBdNPho) | [An Dà Là \- The Two Days](https://open.spotify.com/album/6tRjldxDGgnk1uLj9m7Tlg) | 5:03 |
 | 38 | [Craigs Pipes Set](https://open.spotify.com/track/6hoVvB3I5dDJZJc1MQYI02) | [Éamonn Coyne](https://open.spotify.com/artist/39iXrBtRWk8hVXRV2yHVmo), [Jarlath Henderson](https://open.spotify.com/artist/3GkTA5AsN61gGooCxFMi0O) | [A Celebration of The Music of Gordon Duncan](https://open.spotify.com/album/4bECft961dEBiP8YGnI5Ty) | 4:57 |
-| 39 | [She Put on Her Headphones](https://open.spotify.com/track/3iT6kaZo5nfcmA6O5XVZTH) | [Lau](https://open.spotify.com/artist/1BuUb23HHRYDgvSLnllUJS) | [The Best of Kris Drever](https://open.spotify.com/album/6kPyQFJtQEKE2O9nWQS4Mw) | 3:15 |
+| 39 | [She Put on Her Headphones](https://open.spotify.com/track/7B2mHze9T4NespcBwnqp2L) | [Lau](https://open.spotify.com/artist/1BuUb23HHRYDgvSLnllUJS) | [Midnight and Closedown](https://open.spotify.com/album/0jNgRIqGqw9RrBRWSCejH0) | 3:15 |
 | 40 | [Fear an Bhogha](https://open.spotify.com/track/3vlIqVmXTvWDQ014aWuOUy) | [Ensemble Ériu](https://open.spotify.com/artist/0oHB4tkJo4hftYrw6lEfLj) | [Stargazer](https://open.spotify.com/album/6hwt7YS3wcKjUix4rvJlEn) | 5:49 |
 | 41 | [First Breath](https://open.spotify.com/track/1o4Hyq0d4cWdrfIqlxq840) | [Slow Moving Clouds](https://open.spotify.com/artist/1yCYI1iXHPoQR5tu7fbUAp) | [Starfall](https://open.spotify.com/album/6RfnInDCPvrnbcqGvXZss7) | 2:44 |
 | 42 | [Duck Egg](https://open.spotify.com/track/6ZxEfnpt6fd0Be1JzdhHp1) | [This is How we Fly](https://open.spotify.com/artist/0zppS0FCwxOAiY4DqL7Sx5) | [Foreign Fields](https://open.spotify.com/album/2A9dbLuuHxL240fqAirIZC) | 3:17 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 | 48 | [Pour Over](https://open.spotify.com/track/03wCAkj0mUAi3iflhioj9Z) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [What We Leave Behind](https://open.spotify.com/album/1v0UoQmT184bew89IkY6pH) | 3:25 |
 | 49 | [Pict](https://open.spotify.com/track/697I80G9PCvJuPR2eQ6GK2) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Abyss](https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf) | 4:41 |
 | 50 | [Tingles](https://open.spotify.com/track/4nQxVHvUNBXWDTTYh2DeIr) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq) | [All We Have Is Now](https://open.spotify.com/album/36uqZhmDUmhpUL3wWuOJY5) | 5:18 |
-| 51 | [Into the Light](https://open.spotify.com/track/252OaSAHSoMemzy6lcplTf) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/1V1NKL76a4COkkHqSG679P) | 3:57 |
+| 51 | [Into the Light](https://open.spotify.com/track/4CRFusPzKiPpRr7hWOoaUk) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/43DarYsvUv9ljGzt666wqr) | 3:57 |
 | 52 | [New Landscapes](https://open.spotify.com/track/7iIfbExbiZVADuAbR87zcg) | [Cúig](https://open.spotify.com/artist/2pu5Wum09mMWBsqLAiubW1) | [New Landscapes](https://open.spotify.com/album/4XNhDQecaXiLnqJZ6CxIYR) | 4:38 |
 | 53 | [Muireann](https://open.spotify.com/track/5eykuRCFGEUeLNvIuRRI7v) | [Athrú](https://open.spotify.com/artist/2LJuREc7TK7A9zsaYFX92Z) | [Athrú EP](https://open.spotify.com/album/65xrfabCqPb8ZM13NPdFz0) | 5:17 |
 | 54 | [Toby's](https://open.spotify.com/track/6yEO2VVprf95Akbj8DgQc8) | [Dallahan](https://open.spotify.com/artist/1MfVe0OhbAVIhlXv5yrOUo) | [Smallworld](https://open.spotify.com/album/2mG0x1Lat3hy0agbBuKrCZ) | 3:34 |

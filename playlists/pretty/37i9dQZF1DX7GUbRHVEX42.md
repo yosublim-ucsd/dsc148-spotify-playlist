@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,298 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,467 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 46 | [Cold & Clear](https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Ekundayo](https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY) | 3:16 |
 | 47 | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/album/3n932rLi5cM8YNejLeCcf7) | 4:00 |
 | 48 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
-| 49 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
-| 50 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
+| 49 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
+| 50 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 51 | [Try](https://open.spotify.com/track/1VnH7JLH0WqmoB4hY6xj6p) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Try](https://open.spotify.com/album/2HFUCk4B25JopjnNsvSLNY) | 4:13 |
 | 52 | [Never Give Up](https://open.spotify.com/track/5YcRugjrGIBL6TjcmaDaqI) | [Zamunda](https://open.spotify.com/artist/7FjI2O0iKV8rvlHjiqZaPg) | [Jah Love Surround Me](https://open.spotify.com/album/5TUwg8z4VvkkeR8GGtdJz2) | 3:38 |
 | 53 | [Ready](https://open.spotify.com/track/6VDgMJdCeStxNkwBr6AQB3) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Ready](https://open.spotify.com/album/4vDMTgy7svuDfJK5nXHPtu) | 2:50 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 65 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 | 66 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 | 67 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
-| 68 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
-| 69 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
+| 68 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
+| 69 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 70 | [Zulu Gang](https://open.spotify.com/track/1wNRSCOeKbLJrmYAmJqx0O) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Blame It On The Youts](https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN) | 2:46 |
 
 Snapshot ID: `MTcxMjEzODI3NiwwMDAwMDAwMDMzN2NhYTBlM2U5ZTBmOWYyZTMwMGRhNzViNDlkNTVi`

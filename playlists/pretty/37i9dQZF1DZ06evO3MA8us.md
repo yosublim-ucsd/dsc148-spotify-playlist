@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 ### [This Is Passion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MA8us)
 
-> This Is Passion\. Los temas esenciales, todos en una lista.
+> This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,242 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,238 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [All My Hope \- Live](https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 4:37 |
 | 50 | [Bigger Than I Thought \- Live](https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 7:12 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGRjOTZlOTZkOTQzMmZiZTRjZWI3MjVhOTk3Zjk2OTI3`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU3YzkyYmJjYTMzMjZjNTczN2ExNmQ3MjcwNGZiMjA3`

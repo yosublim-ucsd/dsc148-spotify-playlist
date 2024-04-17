@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,271 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,296 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 25 | [On lâche rien](https://open.spotify.com/track/61ZSaEqlhd8LtMZcWkFekJ) | [HK et Les Saltimbanks](https://open.spotify.com/artist/4xsIQBB0sTOoXpENHzse10) | [Citoyen du monde](https://open.spotify.com/album/3TfIE3EOxOzS9GE8IQvrXe) | 3:43 |
 | 26 | [Quand plus rien ne va \- La turlute](https://open.spotify.com/track/6hrbyZLZePWb6nCsgVpjLp) | [Mes Souliers Sont Rouges](https://open.spotify.com/artist/4IyUYsH5XMy3tgfBfeHRO6) | [Proches](https://open.spotify.com/album/5BWfaMWJVTKzX9NQEc0CrT) | 3:36 |
 | 27 | [O C B](https://open.spotify.com/track/1Bnn7jDTqWroFl2hcgntWS) | [Billy Ze Kick et Les Gamins En Folie](https://open.spotify.com/artist/3mWNKpH81QK05ax6Uxbvjg) | [Billy Ze Kick Et Les Gamins En Folie](https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ) | 2:31 |
-| 28 | [Allo Paris](https://open.spotify.com/track/7fuV0qMP7cBAApFvleb1T9) | [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP), [Mathew Ollivier](https://open.spotify.com/artist/5XXGHMuOtjPHSL5n7F6rlk) | [La Marmaille Nue](https://open.spotify.com/album/481r3yGly5FBggEgi3Sxi2) | 2:44 |
-| 29 | [Cayenne](https://open.spotify.com/track/5AqfidifdwIatLfJiIDHH0) | [Les Amis D'ta Femme](https://open.spotify.com/artist/27zZxSk7AynBSC0XYiivLp) | [Lave toi la bouche!](https://open.spotify.com/album/5Nl6uturtkxYcbh36Adlnz) | 5:14 |
+| 28 | [Cayenne](https://open.spotify.com/track/5AqfidifdwIatLfJiIDHH0) | [Les Amis D'ta Femme](https://open.spotify.com/artist/27zZxSk7AynBSC0XYiivLp) | [Lave toi la bouche!](https://open.spotify.com/album/5Nl6uturtkxYcbh36Adlnz) | 5:14 |
+| 29 | [Allo Paris](https://open.spotify.com/track/7fuV0qMP7cBAApFvleb1T9) | [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP), [Mathew Ollivier](https://open.spotify.com/artist/5XXGHMuOtjPHSL5n7F6rlk) | [La Marmaille Nue](https://open.spotify.com/album/481r3yGly5FBggEgi3Sxi2) | 2:44 |
 | 30 | [Danser encore](https://open.spotify.com/track/3lDn0RxZWGTKymCSn0Oz07) | [HK](https://open.spotify.com/artist/4NLRYOb9UpbCP4pPMJA47q) | [Danser encore](https://open.spotify.com/album/0ecZb9EcAuskkHks4Ujjii) | 5:26 |
 | 31 | [T'as la touche Manouche](https://open.spotify.com/track/6vRGcTdpMrjxAxj4302PUD) | [La Caravane Passe](https://open.spotify.com/artist/4vO18v8Dw9XI62zhwWbBqE) | [Gypsy for One Day](https://open.spotify.com/album/6NtD3bZjTHojg0S7fp6VxR) | 3:23 |
 | 32 | [Sex accordéon et alcool](https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ) | [Java](https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi) | [Hawaï](https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn) | 4:25 |

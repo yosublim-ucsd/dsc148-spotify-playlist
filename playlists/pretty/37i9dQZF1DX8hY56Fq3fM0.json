@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1228,
+  "num_followers": 1370,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
@@ -875,8 +875,8 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
+      "duration_ms": 204520,
+      "name": "I Wanna Get Better",
+      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 204520,
-      "name": "I Wanna Get Better",
-      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Blood Pressures",
-        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Future Starts Slow",
-      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Lighting Matches (Deluxe)",
         "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 191933,
       "name": "Found What I've Been Looking For",
       "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
     }
   ],
   "unique_name": "Energy Booster: Indie",

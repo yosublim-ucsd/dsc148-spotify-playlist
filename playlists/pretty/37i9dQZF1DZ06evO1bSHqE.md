@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bSHqE.md) - [plain]
 
 ### [This Is Britney Spears](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bSHqE)
 
-> This is Britney Spears\. The essential tracks, all in one playlist.
+> This Is Britney Spears\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,676 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,445 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bSHqE.md) - [plain]
 | 49 | [Cinderella](https://open.spotify.com/track/4PoTu14Wi2o9l0Rb09gBCa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:39 |
 | 50 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/1rNQgve0esNYM0nOc12xoU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:00 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDhiM2NlOGIwYWRjZjRiZDlmM2EyN2Q0YjcyMDNiZWIy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGJlNjkyODY5OTlmM2RlNWNhZGM0YzM1ZWY3ZjBjNGE3`

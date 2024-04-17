@@ -1,7 +1,7 @@
 {
-  "2024-04-16": 91454,
+  "2024-04-17": 91341,
   "date_first_scraped": "2023-04-03",
-  "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
+  "description": "This Is Marcos Witt. Los temas esenciales, todos en una lista.",
   "name": "This Is Marcos Witt",
   "tracks": [
     {
@@ -137,7 +137,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 361389,
       "name": "Cielo En La Tierra",
       "url": "https://open.spotify.com/track/6mq6N3kTJAZmzbLIQsnFWz"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 231601,
       "name": "Tu Fidelidad",
       "url": "https://open.spotify.com/track/5zh9x8OxWAySBxWhvTDBW2"

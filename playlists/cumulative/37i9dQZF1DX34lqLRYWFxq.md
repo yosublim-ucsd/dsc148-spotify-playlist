@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: Metz
 
-1,024 songs - 2 day 8 hr 50 min
+1,026 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 | 2023-08-25 | 2023-09-30 |
 | [Hated You All Along](https://open.spotify.com/track/1MgnyE2M6l2dikyRoiqcTG) | [august brodie](https://open.spotify.com/artist/0aIzyzaRQYsWCtzfNKBiui) | [Hated You All Along](https://open.spotify.com/album/7IomHV35OObK4R3JU6Fh6T) | 3:03 | 2023-06-23 | 2023-09-09 |
 | [Haunt You Still](https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Haunt You Still](https://open.spotify.com/album/4hoy0xTJAWSrD0R7t0t46H) | 4:02 | 2023-11-10 | 2024-01-06 |
-| [Haunting Me](https://open.spotify.com/track/1Wyqyr7nNKFIsO6OzMsxFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Electric Sounds \(Deluxe Version\)](https://open.spotify.com/album/2EGSqVHSkerUaQZ0KkJODJ) | 2:49 | 2024-04-12 |  |
+| [Haunting Me \- Bonus Track](https://open.spotify.com/track/1Wyqyr7nNKFIsO6OzMsxFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Electric Sounds \(Deluxe Version\)](https://open.spotify.com/album/2EGSqVHSkerUaQZ0KkJODJ) | 2:49 | 2024-04-12 |  |
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2023-12-08 | 2024-01-20 |
 | [Hear Me Out](https://open.spotify.com/track/3snBJs2kCYZwqwV3Ckf8qJ) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Hear Me Out](https://open.spotify.com/album/6touIrWaPDoQYll6k9gp0f) | 4:03 | 2023-08-18 | 2023-09-23 |
 | [Heart Attack](https://open.spotify.com/track/6hh6wpX835HIaClwc3uWrZ) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Heart Attack](https://open.spotify.com/album/2Ms72O8elN48PtJj5i6Zz9) | 2:27 | 2023-04-21 | 2023-07-08 |
@@ -508,7 +508,8 @@
 | [Lets Go](https://open.spotify.com/track/2Huoe7IkblyOcQZP3No6uH) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Lets Go](https://open.spotify.com/album/7f8VPd0sSK9RaDywtguiqE) | 2:39 | 2023-03-10 | 2023-05-20 |
 | [Liberate Me II](https://open.spotify.com/track/0gx0mxHF6gewK9FZL9mwi9) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses), [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Liberate Me II](https://open.spotify.com/album/6K5aDes6TAod8K2nVCGU2g) | 3:03 | 2023-07-28 | 2023-09-16 |
 | [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-08 | 2023-10-14 |
-| [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 | 2024-03-22 |  |
+| [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 | 2024-03-22 | 2024-04-17 |
+| [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 | 2024-04-12 |  |
 | [Lightning Bolt](https://open.spotify.com/track/5Vgbt9Rt8n2tOANxP2mICc) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Lightning Bolt](https://open.spotify.com/album/5V0B47aJIAlsWfYYacHyfv) | 3:04 | 2023-06-30 | 2023-07-15 |
 | [Lil Brat](https://open.spotify.com/track/29nIr38zFCgB4rNMLONidb) | [Sam & The Terrible News](https://open.spotify.com/artist/2p0fFBbp1chzaz8BtCbssQ) | [Lil Brat](https://open.spotify.com/album/2KsuVm0OUbg5NXvGn98Hff) | 2:15 | 2023-05-19 | 2023-07-01 |
 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 | 2023-02-17 | 2023-04-22 |
@@ -844,7 +845,8 @@
 | [Sunday Morning](https://open.spotify.com/track/5yQzJdnsXyNWth0aYmPx09) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Searching for Strawberries: The Story of Jongo Bongo](https://open.spotify.com/album/5aXiqI4OTXKOIsjji5aVxF) | 2:37 | 2023-07-07 | 2023-09-09 |
 | [Sunscreen](https://open.spotify.com/track/1JotrHBocvPIeV5hiMTWCb) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Sunscreen](https://open.spotify.com/album/3v047GZMyC1fUCQpePLw43) | 2:30 | 2024-03-08 | 2024-04-13 |
 | [Sunset Silhouette](https://open.spotify.com/track/2a9Fg4HlQY1MPUclskrwWW) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [Sunset Silhouette](https://open.spotify.com/album/22kW8gKVlgMgihws4Rhj6Y) | 3:48 | 2023-03-03 | 2023-05-06 |
-| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 |  |
+| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 | 2024-04-17 |
+| [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 | 2024-04-12 |  |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-22 | 2024-01-27 |
 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-03-08 | 2024-04-06 |
 | [Superstitious](https://open.spotify.com/track/7AzYq6DgwxvCZ5geJV26mZ) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Superstitious](https://open.spotify.com/album/7BUYbTf7xd7YeMcRVrHEGc) | 2:54 | 2023-02-24 | 2023-04-29 |

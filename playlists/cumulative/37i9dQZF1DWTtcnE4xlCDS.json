@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Dive Out",
+        "url": "https://open.spotify.com/album/1toleh3WDPh2EL82aKONox"
+      },
+      "artists": [
+        {
+          "name": "Divermy (MILIA/RARA/RIRI/KONA/YOO)",
+          "url": "https://open.spotify.com/artist/3LrI6xqtCkS1rNxJVEXofR"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219941,
+      "name": "Dive Out",
+      "url": "https://open.spotify.com/track/6zEN0UTIJbRRGBzSYmkno9"
+    },
+    {
+      "album": {
         "name": "Do You Even DJ?",
         "url": "https://open.spotify.com/album/3akNtT2KPE6r507NhxUhez"
       },
@@ -3546,6 +3564,10 @@
         {
           "name": "\u8305\u91ce\u3075\u305f\u3070(CV:\u5800\u8d8a\u305b\u306a)",
           "url": "https://open.spotify.com/artist/5TuaJT25cXZwLgj8Z5znIz"
+        },
+        {
+          "name": "\u3084\u304e\u306c\u307e\u304b\u306a",
+          "url": "https://open.spotify.com/artist/0hvNcP9hMHLy8Mz7cX6AsI"
         }
       ],
       "date_added": "2022-08-24",

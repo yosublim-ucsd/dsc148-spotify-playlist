@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Rina Sawayama & CHANMINA, XG, OneRepublic, aiko and more! cover: Rina Sawayama & CHANMINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,892 likes - 78 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,906 likes - 78 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 61 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 |
 | 62 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 63 | [Blur](https://open.spotify.com/track/7nQgPEQvN98ZdwKqMRO2Oe) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Blur](https://open.spotify.com/album/4Ug1XG0DRgbNfI6wtqPMdd) | 3:42 |
-| 64 | [Pizza Planet](https://open.spotify.com/track/0m1xJm8GbSx5HmpzW7XXDf) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo), [ゆいにしお](https://open.spotify.com/artist/2MzXnVOCn6oc4cigvqnkDl) | [Pizza Planet](https://open.spotify.com/album/6cc79lxUdsTNNb5eCWHfou) | 3:39 |
+| 64 | [Pizza Planet](https://open.spotify.com/track/0m1xJm8GbSx5HmpzW7XXDf) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo), [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Pizza Planet](https://open.spotify.com/album/6cc79lxUdsTNNb5eCWHfou) | 3:39 |
 | 65 | [Head Underwater \- Country Version](https://open.spotify.com/track/4qq0XZ0i3mPAlcUrZoLw0A) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Head Underwater \(Country Version\)](https://open.spotify.com/album/3OPGebIDm3TxGINkRWtWfj) | 3:17 |
 | 66 | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG) | 4:33 |
 | 67 | [February Sky](https://open.spotify.com/track/5MwtA7nicSHA0JAL8DwSuv) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [February Sky](https://open.spotify.com/album/0dr6d4tl4PRIAP2PqnCWCJ) | 3:18 |

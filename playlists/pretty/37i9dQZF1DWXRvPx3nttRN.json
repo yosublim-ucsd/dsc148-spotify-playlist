@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 531715,
+  "num_followers": 531739,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+        "name": "Good To Be (Acoustic)",
+        "url": "https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+      "duration_ms": 142440,
+      "name": "Good To Be (Acoustic)",
+      "url": "https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -731,18 +731,34 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Good To Be (Acoustic)",
-        "url": "https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce"
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 142440,
-      "name": "Good To Be (Acoustic)",
-      "url": "https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh"
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
+        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -767,38 +783,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
-        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Us (Acoustic)",
-        "url": "https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 181708,
-      "name": "Us - Acoustic",
-      "url": "https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Us (Acoustic)",
+        "url": "https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 181708,
+      "name": "Us - Acoustic",
+      "url": "https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "All My Broken Pieces",
-        "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 242220,
-      "name": "All My Broken Pieces",
-      "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "In My Blood (Acoustic)",
         "url": "https://open.spotify.com/album/7Hj0BDJ7shYnMRlzEpvVW7"
       },
@@ -955,6 +939,38 @@
       "duration_ms": 212933,
       "name": "In My Blood - Acoustic",
       "url": "https://open.spotify.com/track/6Pce5yn5oOSDB6hZm8Ou2U"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 254407,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "All My Broken Pieces",
+        "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 242220,
+      "name": "All My Broken Pieces",
+      "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Live from Spotify Studios",
-        "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 176055,
-      "name": "You Could Start A Cult - Live from Spotify Studios",
-      "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Cherry On Top",
-        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
+        "name": "Live from Spotify Studios",
+        "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 254407,
-      "name": "Cherry On Top",
-      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
+      "duration_ms": 176055,
+      "name": "You Could Start A Cult - Live from Spotify Studios",
+      "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
+        "name": "Unwritten (Acoustic)",
+        "url": "https://open.spotify.com/album/5IgXJH8tVqL41YPoAKQnNN"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Unwritten (Acoustic)",
+      "url": "https://open.spotify.com/track/1asIbRzmsjHJtGxGm0Euxm"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 220397,
       "name": "Africa",
       "url": "https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Unwritten (Acoustic)",
-        "url": "https://open.spotify.com/album/5IgXJH8tVqL41YPoAKQnNN"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Unwritten (Acoustic)",
-      "url": "https://open.spotify.com/track/1asIbRzmsjHJtGxGm0Euxm"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
+        "name": "Rescue Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Rescue Me - Acoustic",
+      "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
         "name": "Lift Your Spirit",
         "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 223106,
       "name": "My My My! - Acoustic",
       "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Rescue Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Rescue Me - Acoustic",
-      "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Desire, I Want To Turn Into You: Everasking Edition",
-        "url": "https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "I Believe - Acoustic Version",
-      "url": "https://open.spotify.com/track/5DK1TnutakQxicS2mVINJS"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Don't Call Me Up (Acoustic)",
         "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 212578,
       "name": "Don't Call Me Up - Acoustic",
       "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Desire, I Want To Turn Into You: Everasking Edition",
+        "url": "https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 275750,
+      "name": "I Believe - Acoustic Version",
+      "url": "https://open.spotify.com/track/5DK1TnutakQxicS2mVINJS"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/3MfRPIZRewpJl1CAq0xnmE"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e9 Digby",
-          "url": "https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Umbrella - Single Version",
-      "url": "https://open.spotify.com/track/0zcfWe3THIu1yBnjucoPmO"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Sitting at the Kids Table (Acoustic)",
         "url": "https://open.spotify.com/album/0DDEbEiu1vOYTFW0jGfoFA"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 221484,
       "name": "leading me on - acoustic",
       "url": "https://open.spotify.com/track/3xqp5SEEiOtQymJmhdk9tz"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/3MfRPIZRewpJl1CAq0xnmE"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e9 Digby",
+          "url": "https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Umbrella - Single Version",
+      "url": "https://open.spotify.com/track/0zcfWe3THIu1yBnjucoPmO"
     },
     {
       "added_at": "2024-04-12 04:01:00",

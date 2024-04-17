@@ -2,7 +2,7 @@
 
 ### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This is: Latto\. Alle wichtigen Tracks in einer Playlist.
+> This is Latto\. The essential tracks, all in one playlist.
 
 85 songs - 4 hr 8 min
 

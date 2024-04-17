@@ -89017,6 +89017,28 @@
     },
     {
       "album": {
+        "name": "Malandra",
+        "url": "https://open.spotify.com/album/0FS4LOkSdeNxCClujSoinh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Normale (feat. ALOISIO)",
+      "url": "https://open.spotify.com/track/1yW6etYs3ZRVxRE3aYp8rd"
+    },
+    {
+      "album": {
         "name": "Normalidad",
         "url": "https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO"
       },

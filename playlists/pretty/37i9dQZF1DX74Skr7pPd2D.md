@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,571 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,577 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 66 | [BR Blues](https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 3:09 |
 | 67 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
 | 68 | [What's New?](https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Giblet Gravy \(Expanded Edition\)](https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ) | 5:32 |
-| 69 | [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 |
-| 70 | [The Nearness Of You](https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Pleasures Of The Night](https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP) | 7:19 |
+| 69 | [The Nearness Of You](https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Pleasures Of The Night](https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP) | 7:19 |
+| 70 | [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 |
 | 71 | [My Funny Valentine](https://open.spotify.com/track/00GTtlXO556jzueCinWmu9) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 2:00 |
 | 72 | [Lester Swings](https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 2:33 |
 | 73 | [Cheek To Cheek](https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Fred Astaire Sings & Swings Irving Berlin](https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926) | 5:38 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 75 | [Brother? Can You Spare A Dime?](https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [You Gotta Pay The Band](https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP) | 6:45 |
 | 76 | [The Barbara Song](https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 9:59 |
 | 77 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:06 |
-| 78 | [You Need To Rock](https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 5:51 |
-| 79 | [Brian's Bounce](https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Family](https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU) | 4:56 |
+| 78 | [Brian's Bounce](https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Family](https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU) | 4:56 |
+| 79 | [You Need To Rock](https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 5:51 |
 | 80 | [Gettin' To It](https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:30 |
 | 81 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
 | 82 | [Pocket City](https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Pocket City](https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C) | 5:18 |

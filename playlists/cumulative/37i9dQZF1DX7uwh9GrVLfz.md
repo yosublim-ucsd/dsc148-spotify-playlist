@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TOTALFAT
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GOOD4NOTHING
 
-757 songs - 1 day 16 hr 22 min
+758 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [CELEBRATION](https://open.spotify.com/track/1eHB8BTIR5OcrMb62Z1bkq) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CELEBRATION](https://open.spotify.com/album/5grADPBkuCUGm8U55EwOCY) | 3:58 | 2022-05-12 | 2022-07-28 |
 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 | 2023-05-11 |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 | 2023-02-14 |
+| [CHANGE](https://open.spotify.com/track/5T2GDBSTn6wM21iNWM6Eik) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/37bmqz9g2Y0PdOWcxQRKaX) | 2:23 | 2024-04-16 |  |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [CHICKEN IS UMAI](https://open.spotify.com/track/1n1Z3y2FMFp10lDSKUhXut) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [CHICKEN IS UMAI](https://open.spotify.com/album/4SuJiKoQUwt8vgvVxGqoGn) | 2:32 | 2024-02-27 | 2024-03-13 |
 | [CHILD WARNING](https://open.spotify.com/track/5ZhBFLj6OxuqHrAve6hXMK) | [Desert Of Tomorrow](https://open.spotify.com/artist/3Ruxig4cBSpuiElh8EtZvt) | [BOKU NO TOMODACHI](https://open.spotify.com/album/4zIgoJjoWvHhoz35xlfnrX) | 4:21 | 2023-06-06 | 2023-06-14 |
@@ -167,7 +168,7 @@
 | [Forever](https://open.spotify.com/track/4hW5YF0MtXHBl5tkPp7gEP) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Square One](https://open.spotify.com/album/4YqcVthrzbgI4cWE7Ofkko) | 3:35 | 2022-05-12 | 2022-07-14 |
 | [Foundation](https://open.spotify.com/track/5xS7BWHaNQUgPlM9lccVvY) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Rude Foundation](https://open.spotify.com/album/2KwPr77XNGJGL61BulYD16) | 2:24 | 2023-05-09 | 2023-08-04 |
 | [FULLTEN](https://open.spotify.com/track/0qxmUHAyp68P5BZGEyCASo) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [FULLTEN](https://open.spotify.com/album/3WxUCSO4WCLAt6Z2wdVUrp) | 1:26 | 2022-05-12 | 2022-05-18 |
-| [Fuzakete Night](https://open.spotify.com/track/36GOxk7HKI23m5B8tuJf2X) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [Fuzakete Night](https://open.spotify.com/album/5vktP9YpQWOT4v9CMjM6n1) | 1:38 | 2024-03-05 |  |
+| [Fuzakete Night](https://open.spotify.com/track/36GOxk7HKI23m5B8tuJf2X) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [Fuzakete Night](https://open.spotify.com/album/5vktP9YpQWOT4v9CMjM6n1) | 1:38 | 2024-03-05 | 2024-04-17 |
 | [Garland House](https://open.spotify.com/track/7mZiT9lOvNAkGt1la3TKfn) | [SPOILMAN](https://open.spotify.com/artist/0uGQyvjvTF0f3wKGiDHQrp) | [SOLID GREEN](https://open.spotify.com/album/7Hdvoz87VtxTkFRNj20CTF) | 3:19 | 2022-05-12 | 2022-07-11 |
 | [Get Me Back](https://open.spotify.com/track/7DyYH1hRVEDTDjxXJP9wHl) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [ONE HiT TO THE BODY](https://open.spotify.com/album/2MwaOSSA0ggOvgjtZ0X2EI) | 2:54 | 2022-05-12 | 2022-07-20 |
 | [Get out](https://open.spotify.com/track/3UTqzhJOiRWGuy7xd6fnFP) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Get out](https://open.spotify.com/album/5boYEJejEUlO56jTqjXWBL) | 2:11 | 2022-05-12 | 2022-07-28 |
@@ -305,7 +306,7 @@
 | [MY FIRST KISS](https://open.spotify.com/track/2sZkMsfevQczFFXNBzr6al) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/2xpMvwe3ftugumuaJR3flV) | 3:11 | 2023-12-12 |  |
 | [MY FIRST KISS](https://open.spotify.com/track/3giExKWjsn2GSeXR5AQIMc) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/3UW4q3FZ3YCCzyXe8zTYFa) | 3:11 | 2022-07-21 | 2023-12-09 |
 | [MY FIRST KISS](https://open.spotify.com/track/5KwK5Ojq91gC2gBEWuopOS) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/1QwhR7nfWScyyDaa6Rwj5y) | 3:11 | 2022-05-19 | 2022-07-28 |
-| [My One Wish](https://open.spotify.com/track/7vWQhVaKXNGVpN9IhCFn9p) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:50 | 2024-02-27 | 2024-04-09 |
+| [My One Wish](https://open.spotify.com/track/7vWQhVaKXNGVpN9IhCFn9p) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:50 | 2024-02-27 |  |
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2024-02-29 |
 | [My Secret Summer](https://open.spotify.com/track/3FwwlkM5aps7yKctEwKLuS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [WILL KEEP MARCHING](https://open.spotify.com/album/2olIfuO9oEQ0DBQPeBjb5A) | 2:57 | 2022-05-12 | 2022-07-23 |
 | [My Sweet Boy](https://open.spotify.com/track/5QEhvxHw4pMi6Bbcz2nLPr) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [MY SWEET BOY](https://open.spotify.com/album/3meTktdE5iPhISF7lFdSbI) | 2:47 | 2022-05-12 | 2022-07-27 |
@@ -410,7 +411,7 @@
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 | 2023-12-20 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 | 2024-03-28 |
-| [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 |  |
+| [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-17 |
 | [Seahorse](https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [Seahorse](https://open.spotify.com/album/7jb4aq0bopsiuW1k8i6lDA) | 3:28 | 2023-11-28 | 2023-12-06 |
 | [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 | 2023-08-23 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |

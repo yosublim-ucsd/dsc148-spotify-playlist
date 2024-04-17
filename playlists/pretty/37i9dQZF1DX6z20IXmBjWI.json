@@ -1,6 +1,6 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2053973,
+  "num_followers": 2048917,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Caamp",
         "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 129463,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 181958,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Forever Young (From NBC's Parenthood)",
-        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0jMQ6WSHjx5mV8jqqX17eh"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 261370,
-      "name": "Forever Young - From NBC's Parenthood",
-      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/2SEYL3D9Onmw1wutOX3s2h"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0jMQ6WSHjx5mV8jqqX17eh"
+        "name": "Forever Young (From NBC's Parenthood)",
+        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/2SEYL3D9Onmw1wutOX3s2h"
+      "duration_ms": 261370,
+      "name": "Forever Young - From NBC's Parenthood",
+      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 137293,
-      "name": "True North",
-      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
         "url": "https://open.spotify.com/album/0fouq8lLLJduDBkbsyh5UH"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 195840,
       "name": "Eyes Wide Open - From \"North Star\"",
       "url": "https://open.spotify.com/track/4JfmeKq7mQtRaqMlFPxdMD"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Thinner",
-        "url": "https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA"
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK"
       },
       "artists": [
         {
-          "name": "Elias Hix",
-          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 206755,
-      "name": "Mud-Stained Dress",
-      "url": "https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US"
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland, 2011",
+      "url": "https://open.spotify.com/track/4aCkYwVrMbaXJkHzatneeh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "We Don't Eat",
-        "url": "https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK"
+        "name": "Thinner",
+        "url": "https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland, 2011",
-      "url": "https://open.spotify.com/track/4aCkYwVrMbaXJkHzatneeh"
+      "duration_ms": 206755,
+      "name": "Mud-Stained Dress",
+      "url": "https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I've Got a Song",
         "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 212706,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2024-03-15 04:00:00",

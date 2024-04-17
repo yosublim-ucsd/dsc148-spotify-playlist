@@ -4,7 +4,7 @@
 
 > 
 
-1,885 songs - 4 day 5 hr 40 min
+1,886 songs - 4 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,6 +1099,7 @@
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2022-09-08 |  |
 | [Mosquito](https://open.spotify.com/track/3DrkYwyu8QqZQ05r2gGqHi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:26 | 2023-11-16 |  |
 | [Motorbike](https://open.spotify.com/track/0t4lttdheK2G3PRmgwp6j0) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:26 | 2023-12-24 |  |
+| [Moving Body](https://open.spotify.com/track/5xlfaqSM2xoOJH3ObTfEnc) | [TNMN](https://open.spotify.com/artist/3lgh0lWovwBcXgL0Ws5j1j) | [RCKLSS014](https://open.spotify.com/album/5AJCAzuRIrvhYG2ah1w13p) | 6:40 | 2024-04-16 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 | 2021-08-05 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/2RvbnvBX3XKkHy8daq3PUT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV) | 3:43 | 2022-02-04 |  |
 | [Mr\. Self Destruct](https://open.spotify.com/track/1F6JFwARAWzGBisgQ0FcMp) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 4:30 | 2022-02-04 |  |

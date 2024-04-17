@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-285 songs - 17 hr 52 min
+286 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,11 +195,12 @@
 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 | 2023-02-13 |  |
 | [Teadar Tetkalem](https://open.spotify.com/track/2OTxhOuz8c1s7um0tgumox) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Allem Alby](https://open.spotify.com/album/5KKjAxjoLCUnKfcGfoncKb) | 4:53 | 2023-02-13 | 2023-05-23 |
 | [Tegy Netsawar](https://open.spotify.com/track/6GnLxviis9Qsu1oq4fvfR6) | [Islam Zaki](https://open.spotify.com/artist/3z3CZNhE5lU0aRyAZ2XKpH), [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Tegy Netsawar](https://open.spotify.com/album/6AofYZuIof0MWN6RNBrnS4) | 2:46 | 2023-09-08 | 2023-09-15 |
-| [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC) | 3:35 | 2023-10-03 |  |
+| [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Tool Mahna Maa Baad \(Coke Studio Egypt 2023\)](https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC) | 3:35 | 2023-10-03 | 2024-04-17 |
 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2023-05-11 | 2023-09-09 |
 | [W Nefdal Norkos](https://open.spotify.com/track/31bpBRmlNCe4XFvci7EXNW) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [W Nefdal Norkos](https://open.spotify.com/album/3snEVielzZjgjJMA1wUCTp) | 3:40 | 2023-02-13 | 2023-08-31 |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2023-02-13 | 2023-05-23 |
 | [Waheshni Eh](https://open.spotify.com/track/3dKgDjL69KuoyMNeYfUbWJ) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Nadini](https://open.spotify.com/album/3rShjwnO7rFyMxOdKkuPxg) | 4:11 | 2023-02-13 | 2023-07-13 |
+| [Wahshany](https://open.spotify.com/track/1kiqCDYCfNrvAP990he3GI) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Wahshany](https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N) | 4:09 | 2024-04-10 |  |
 | [Wahshany Ayamak](https://open.spotify.com/track/3c87CyEFhWPyHoXxvbSBEx) | [Marwa Amin](https://open.spotify.com/artist/7JL7Tu7197ZW87a4yBZhyd) | [Wahshany Ayamak](https://open.spotify.com/album/38OTa1G1FvSC1kROPGajQo) | 4:12 | 2023-02-13 | 2023-02-21 |
 | [Wahshteeny](https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ) | 2:28 | 2023-07-17 | 2023-08-10 |
 | [Wahshteeny](https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr) | 2:28 | 2023-08-08 | 2023-09-09 |

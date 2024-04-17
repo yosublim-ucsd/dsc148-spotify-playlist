@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,015 likes - 96 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,052 likes - 96 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

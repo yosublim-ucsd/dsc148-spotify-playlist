@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Alex Favela, Yeri Mua, Eugenio Esquivel & Sebastian Esquivel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,591 likes - 85 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,001 likes - 85 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 25 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 |
 | 26 | [Rico Peliculón](https://open.spotify.com/track/43HgiTZnRKaloKXwkvgXkS) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [JHAY B](https://open.spotify.com/artist/2mFpBiAW3xImoMyxP7nZyZ) | [Rico Peliculón](https://open.spotify.com/album/54zzQDboVye1R5ntCQ1bLr) | 2:48 |
 | 27 | [3 Colores](https://open.spotify.com/track/0oTLMGtgRu4YD1Z2Herhmh) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R) | [3 Colores](https://open.spotify.com/album/6tRNMsAFAUFe1GJSmwmb42) | 2:36 |
-| 28 | [GPI \- Remix](https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [GPI \(Remix\)](https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0) | 2:20 |
+| 28 | [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 |
 | 29 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 |
 | 30 | [Ramo Buchón](https://open.spotify.com/track/7JqZc7XuaNv38mcqpdH8V1) | [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ), [ZAMU](https://open.spotify.com/artist/21SU0ZCjZqaHJkzrKbHP4x) | [Ramo Buchón](https://open.spotify.com/album/2U5z6jS43sFqixvFg30pNu) | 3:33 |
 | 31 | [Me Visto Caro](https://open.spotify.com/track/5FdXe6NQbBl7lQ50RcS20i) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Me Visto Caro](https://open.spotify.com/album/7em6dhgWU8RyW5yq20s7F1) | 3:04 |

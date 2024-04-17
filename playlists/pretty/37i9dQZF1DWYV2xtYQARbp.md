@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,064 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,065 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 17 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
 | 18 | [Good Man](https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 2:57 |
 | 19 | [Frog Went a Courtin'](https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl) | [Flat Duo Jets](https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC) | [Two Headed Cow](https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY) | 2:18 |
-| 20 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
-| 21 | [Fishfight](https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & Bbq Show](https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE) | 2:50 |
+| 20 | [Fishfight](https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & Bbq Show](https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE) | 2:50 |
+| 21 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
 | 22 | [Pretty Baby](https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Talking 'bout](https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe) | 2:14 |
 | 23 | [Playboys](https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss) | [The Deadly Snakes](https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0) | [Ode To Joy](https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM) | 2:47 |
 | 24 | [Sweat](https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 3:06 |

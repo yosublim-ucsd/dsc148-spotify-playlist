@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. R\u00e9gulo Caro, Noel Torres en portada.",
-  "num_followers": 215552,
+  "num_followers": 215602,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
         }
       ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
+      "duration_ms": 176208,
+      "name": "El Vago De Los Nike",
+      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
       },
       "artists": [
         {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 176208,
-      "name": "El Vago De Los Nike",
-      "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -339,30 +339,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Fresas de la Capital (Remix)",
-        "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Jaque Mate",
-          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
-        },
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Fresas de la Capital - Remix",
-      "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Porte de Scarface",
         "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
       },
@@ -375,6 +351,26 @@
       "duration_ms": 172560,
       "name": "Porte de Scarface",
       "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Tambi\u00e9n Me Llamo Ismael",
+        "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "Tambi\u00e9n Me Llamo Ismael",
+      "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -423,22 +419,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Tambi\u00e9n Me Llamo Ismael",
-        "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
+        "name": "Fresas de la Capital (Remix)",
+        "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
       },
       "artists": [
         {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         },
         {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
         }
       ],
-      "duration_ms": 186624,
-      "name": "Tambi\u00e9n Me Llamo Ismael",
-      "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+      "duration_ms": 194240,
+      "name": "Fresas de la Capital - Remix",
+      "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -727,22 +727,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Serafin Zambada",
-        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
+        "name": "El Nini",
+        "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         },
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 128933,
-      "name": "Seraf\u00edn Zambada",
-      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
+      "duration_ms": 271346,
+      "name": "El Nini",
+      "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -767,22 +767,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "El Nini",
-        "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
+        "name": "Serafin Zambada",
+        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
       },
       "artists": [
         {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         },
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 271346,
-      "name": "El Nini",
-      "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
+      "duration_ms": 128933,
+      "name": "Seraf\u00edn Zambada",
+      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "El Jelty",
-        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 189605,
-      "name": "El Jelty",
-      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "La Capi",
         "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189075,
       "name": "La Capi",
       "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "El Jelty",
+        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 189605,
+      "name": "El Jelty",
+      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "La Firma del Flaquito",
-        "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 231329,
-      "name": "La Firma del Flaquito",
-      "url": "https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 237679,
       "name": "El Mago",
       "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "La Firma del Flaquito",
+        "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 231329,
+      "name": "La Firma del Flaquito",
+      "url": "https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "El Humo De Mi Gallo",
+        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "El Humo De Mi Gallo",
+      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "El Jessy",
         "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 153653,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "El Humo De Mi Gallo",
-        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "El Humo De Mi Gallo",
-      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Estilo Especial (En Vivo)",
-        "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 247065,
-      "name": "Estilo Especial - En Vivo",
-      "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 157090,
       "name": "El Corrido Del MC",
       "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Estilo Especial (En Vivo)",
+        "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 247065,
+      "name": "Estilo Especial - En Vivo",
+      "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
     },
     {
       "added_at": "2024-04-12 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, DUDA BEAT, Dua Lipa e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,426 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,675 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [Tempos Modernos \- Atemporal Remix](https://open.spotify.com/track/1yCxiIz1a5qr62KN3KWFYA) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Tempos Modernos \(Atemporal Remix\)](https://open.spotify.com/album/2hnoDpWbljzy8rDucZ9hNS) | 2:35 |
 | 69 | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY) | 3:01 |
 | 70 | [From Rio](https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV) | [MG CDD](https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [G\. Shao](https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz) | [From Rio](https://open.spotify.com/album/4MD3dhPh3euRMO8nPFuFLB) | 2:31 |
-| 71 | [Caixa Postal](https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Anti Ayoa](https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM) | [Estilo Cachorro](https://open.spotify.com/album/4j9IGYe9X1gxdIgQYjl6ja) | 2:23 |
+| 71 | [Caixa Postal](https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Anti Ayoa](https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Estilo Cachorro](https://open.spotify.com/album/4j9IGYe9X1gxdIgQYjl6ja) | 2:23 |
 | 72 | [Eurotrip 3](https://open.spotify.com/track/6YcAQWKNG23Juz6nkHzn7n) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Benito](https://open.spotify.com/artist/5IhWHRLjQNjFs06ptDjS0M) | [Eurotrip 3](https://open.spotify.com/album/0SpFc5NZqYatd7MYdTTjqY) | 3:07 |
 | 73 | [Yakuza](https://open.spotify.com/track/0LbHGxKrhxULsAyj93ih6M) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Isaiah Reece](https://open.spotify.com/artist/0A9cRcABC3BfRTQcxeI8T9) | [Yakuza](https://open.spotify.com/album/6vRqjKlYZtBmtNWh0N5LgR) | 2:29 |
 | 74 | [Bandido Mau 2](https://open.spotify.com/track/0wuslyyMnaC3OrHMPJlgED) | [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0), [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR) | [Bandido Mau 2](https://open.spotify.com/album/3e8vansiOChBenfY1doUYl) | 2:40 |

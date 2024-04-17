@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMGZmNWY2M2U0OTc2NDEyZjdmZmNlYjc3ODgyMjgxMGI5",
+  "snapshot_id": "MCwwMDAwMDAwMGY4YjVkYWEwNzQxZjU0Y2FiM2YzYWM5M2ViNWUzN2Rj",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -36,7 +36,7 @@
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "DBZ",
-        "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
+        "url": "https://open.spotify.com/album/4P8914QpTB5UP5A3TOS2bb"
       },
       "artists": [
         {
@@ -58,27 +58,23 @@
       ],
       "duration_ms": 191040,
       "name": "DBZ",
-      "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+      "url": "https://open.spotify.com/track/3MhuSNVWlYABxuJ3DojIGg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/1XCSB3crWVPlxUbedmr7Jg"
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q"
       },
       "artists": [
         {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "unJUST",
-          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
         }
       ],
-      "duration_ms": 244606,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/2RUwWqozD44OMcsqbk3PdZ"
+      "duration_ms": 252160,
+      "name": "Evolve",
+      "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -103,18 +99,46 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q"
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
       "artists": [
         {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Evolve",
-      "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
+      "duration_ms": 246836,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/1XCSB3crWVPlxUbedmr7Jg"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "unJUST",
+          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
+        }
+      ],
+      "duration_ms": 244606,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/2RUwWqozD44OMcsqbk3PdZ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -167,30 +191,6 @@
       "duration_ms": 180124,
       "name": "Infrared",
       "url": "https://open.spotify.com/track/6g8jmyE3kZDFIAhRBxnKT4"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 246836,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
       "added_at": "2024-04-12 04:00:00",

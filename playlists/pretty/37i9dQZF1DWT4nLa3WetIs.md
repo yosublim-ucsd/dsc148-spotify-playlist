@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating 5 years of Rema's debut <a href="https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf?si=5lrLC9JVTzaxdeHZc6OmxQ">Rema EP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,408 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,520 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

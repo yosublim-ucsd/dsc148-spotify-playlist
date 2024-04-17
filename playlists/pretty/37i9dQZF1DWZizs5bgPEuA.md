@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Gonzy & Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,950 likes - 29 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,956 likes - 29 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,898 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,699 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 29 | [Oh Yeah \- Remastered 2005](https://open.spotify.com/track/1iOHLlEsMbgJfYBFWy4TjG) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Stella \(Remastered 2005\)](https://open.spotify.com/album/3Df3vYTyJKTZobnCvNUNMC) | 3:05 |
 | 30 | [Japanese Boy](https://open.spotify.com/track/4VmmNHz5nigftA0B3GR0M5) | [Aneka](https://open.spotify.com/artist/2IGQyVitQXADoOSROGLNJy) | [Aneka](https://open.spotify.com/album/6lEiLRQ83Fqmk9QstZIOW0) | 3:57 |
 | 31 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
-| 32 | [Hold Me Now \(Phil Thornalley Mix\)](https://open.spotify.com/track/44oxG15d3xLyrFPl23HrGu) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn), [Phil Thornalley](https://open.spotify.com/artist/71RtTArPPKb0UVJ5ThBYGL) | [Dance Vault Remixes](https://open.spotify.com/album/639w6XBl0lyWCUYJzCk0Qo) | 7:06 |
-| 33 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
+| 32 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
+| 33 | [Hold Me Now \(Phil Thornalley Mix\)](https://open.spotify.com/track/44oxG15d3xLyrFPl23HrGu) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn), [Phil Thornalley](https://open.spotify.com/artist/71RtTArPPKb0UVJ5ThBYGL) | [Dance Vault Remixes](https://open.spotify.com/album/639w6XBl0lyWCUYJzCk0Qo) | 7:06 |
 | 34 | [Pop Muzik \(12 Inch Version\)](https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV) | 4:56 |
 | 35 | [Pretty Young Girl](https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT) | [Bad Boys Blue](https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa) | [Hot Girls, Bad Boys](https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y) | 5:46 |
 | 36 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |

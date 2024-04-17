@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 7499825,
+  "2024-04-17": 7493203,
   "date_first_scraped": "2019-05-26",
   "description": "Peaceful piano to help you slow down, breathe, and relax. ",
   "name": "Peaceful Piano",
@@ -8269,6 +8269,24 @@
       "duration_ms": 147000,
       "name": "Finding Hope",
       "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
+    },
+    {
+      "album": {
+        "name": "Fino Mornasco",
+        "url": "https://open.spotify.com/album/2D7NIYeCrKz1yvvJFZj2Kv"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Gallo",
+          "url": "https://open.spotify.com/artist/1ovHYNNkFg5hndltHBhMCd"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133916,
+      "name": "Fino Mornasco",
+      "url": "https://open.spotify.com/track/32pMHDcSZA6xD4cp9lk1aF"
     },
     {
       "album": {
@@ -23437,6 +23455,24 @@
       "duration_ms": 151764,
       "name": "Solace",
       "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1PKrrLeulHP3htvBJH5WDF"
+      },
+      "artists": [
+        {
+          "name": "Dunham Froebel",
+          "url": "https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129373,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0y4oznUeCBGiTZou3hmimL"
     },
     {
       "album": {

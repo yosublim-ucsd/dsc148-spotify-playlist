@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,738 likes - 206 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,601 likes - 206 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 38 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 |
 | 39 | [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 |
 | 40 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 |
-| 41 | [Why Talk](https://open.spotify.com/track/2ja2WjUnAzC6hjlglHrZFu) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [And The Unknown](https://open.spotify.com/album/0eoyfDQZjpyxbbpt6RA6UI) | 2:34 |
+| 41 | [Why Talk](https://open.spotify.com/track/2F5hlVWq5c8965Yo9TSswJ) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [How It Merges](https://open.spotify.com/album/5LmMODY92LoFcOF0RCz1Ox) | 2:34 |
 | 42 | [The Reason Why](https://open.spotify.com/track/76vpZBWYGm4BZLgoap5FIy) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [The Reason Why](https://open.spotify.com/album/6Mn1AgMY3Wdm6rzumdKURw) | 2:51 |
 | 43 | [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 |
 | 44 | [Tranquil Landscape](https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Tranquil Landscape](https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta) | 3:07 |

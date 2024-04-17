@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current, every week\. Cover: EKKSTACY
 
-269 songs - 13 hr 34 min
+270 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [LOVE ME HATE ME](https://open.spotify.com/track/32FxL1gNFABVzfK4gK2Ate) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [LOVE ME HATE ME](https://open.spotify.com/album/5SeCLmnrUikDL9dMCAgBzz) | 3:35 | 2022-08-26 |  |
 | [Mad](https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Mad](https://open.spotify.com/album/5SvEPJ6bl42bFGXEWNSvdA) | 3:17 | 2022-02-12 | 2022-08-27 |
 | [MAKE IT UP](https://open.spotify.com/track/1zXefmngPj3d2nJEtwJNHd) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MAKE IT UP](https://open.spotify.com/album/6F4piW1oRQJIDtL7wEgxrm) | 2:58 | 2024-01-19 | 2024-03-23 |
-| [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-02-09 |  |
+| [Maktub](https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:13 | 2024-03-22 |  |
+| [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-02-09 | 2024-04-17 |
 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 | 2023-09-15 | 2024-01-20 |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-09-03 | 2023-02-02 |
 | [Mercy](https://open.spotify.com/track/1QmhRaPMEMuYKRutxt9ond) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Mercy](https://open.spotify.com/album/1pw5musYA2A2FWpswW9rzK) | 3:25 | 2022-02-12 | 2022-07-23 |

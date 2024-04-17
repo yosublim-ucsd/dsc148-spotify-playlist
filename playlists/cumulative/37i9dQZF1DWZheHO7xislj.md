@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-375 songs - 1 day 0 hr 19 min
+376 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 | 2023-01-09 | 2023-06-28 |
 | [I Don't Know](https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [The Essentials: Ruth Brown](https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7) | 2:53 | 2023-06-27 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2023-06-27 |  |
+| [I Forgot To Be Your Lover](https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Man In The Street: The Complete Yellow Stax Solo Singles \(1968\-1974\)](https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b) | 2:22 | 2024-04-16 |  |
 | [I Have Learned To Do Without You](https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Only For The Lonely](https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m) | 4:14 | 2023-01-09 | 2023-06-28 |
 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 | 2023-01-09 |  |
 | [I Love You](https://open.spotify.com/track/54zOqhe84DsI4OH9eD3M6T) | [Herman Jones](https://open.spotify.com/artist/42iGrMvfbP1qJ9ugH7SttY) | [I Love You / I'm Broke](https://open.spotify.com/album/4zvs8QtQAg7uqLZBichUqJ) | 4:18 | 2023-01-09 | 2023-06-28 |
@@ -194,7 +195,7 @@
 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 | 2023-06-27 |  |
 | [Lead Me On](https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Lay It On Me: The Columbia Years](https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV) | 2:12 | 2023-01-09 |  |
 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 | 2023-01-09 | 2024-02-08 |
-| [Let Me Down Easy \- Remastered 2022](https://open.spotify.com/track/6XNXgwoz0bYMWt1VIAuSmH) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy: Bettye LaVette In Memphis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6U3CYjgNkTs2EUnQ30favQ) | 2:52 | 2023-08-15 |  |
+| [Let Me Down Easy \- Remastered 2022](https://open.spotify.com/track/6XNXgwoz0bYMWt1VIAuSmH) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy: Bettye LaVette In Memphis \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6U3CYjgNkTs2EUnQ30favQ) | 2:52 | 2023-08-15 | 2024-04-17 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2023-01-09 |  |
 | [Let's Take a Walk](https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:28 | 2023-06-27 |  |
 | [Lift My Blues](https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa) | [Sherry Dyanne](https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB) | [Sing Me a Song](https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN) | 4:04 | 2023-08-15 | 2024-04-12 |

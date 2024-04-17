@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Maggie Rogers
 
-6,856 songs - 16 day 16 hr 22 min
+6,858 songs - 16 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3500,7 +3500,8 @@
 | [light blue american spirits](https://open.spotify.com/track/4gB9y3HYvgCQd5e3IXfwVS) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [light blue american spirits](https://open.spotify.com/album/4ndg7hseiKcFac6di2eicu) | 4:17 | 2023-07-07 | 2023-08-12 |
 | [Light Of Love](https://open.spotify.com/track/3q8iHOd2icirSipnkE7fae) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Light Of Love](https://open.spotify.com/album/6Aq25x5FMLzkgn5qXdLp5N) | 4:00 | 2020-04-18 | 2020-05-15 |
 | [Light On](https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Light On](https://open.spotify.com/album/7J3RuK5FVXZry7VhVU4GaU) | 3:53 | 2024-03-08 | 2024-04-13 |
-| [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 | 2024-03-22 |  |
+| [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 | 2024-03-22 | 2024-04-17 |
+| [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 | 2024-03-22 |  |
 | [Lightness is Loud](https://open.spotify.com/track/1jKxwArqTJZtZGYE80wyP0) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Lightness is Loud](https://open.spotify.com/album/2akVXhtm71GOaC7K5G8oU1) | 2:17 | 2024-03-08 | 2024-04-06 |
 | [Lightning](https://open.spotify.com/track/4e0sZbqXMRlG34LTJ28V8t) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 2:51 | 2020-06-19 | 2020-07-31 |
 | [Lightning](https://open.spotify.com/track/6dWTbTnetFvbRVvUGH43jK) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Lightning](https://open.spotify.com/album/1YTwyOpE6IHveWc0Jb5zOq) | 3:07 | 2020-03-13 | 2020-04-24 |
@@ -5667,7 +5668,8 @@
 | [Super Trouper](https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [ITEIAD Sessions](https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu) | 2:59 | 2023-11-24 | 2024-01-20 |
 | [Superbike](https://open.spotify.com/track/7Chng1lAV7T2Bhn9SsN14k) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Superbike](https://open.spotify.com/album/3NZW7ZhFQ5IUn7YUnhKXQL) | 3:53 | 2019-06-07 | 2019-08-13 |
 | [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 | 2023-11-03 | 2023-12-16 |
-| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 |  |
+| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 | 2024-04-17 |
+| [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 | 2024-04-12 |  |
 | [supernova](https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [supernova](https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq) | 1:30 | 2022-10-28 | 2022-12-10 |
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2021-02-06 | 2021-03-26 |
 | [Superstar](https://open.spotify.com/track/4xDLG37u0vHk2iaE5C6Xa4) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Superstar](https://open.spotify.com/album/5UbY0vlLOPIE4mEQfTFoe5) | 2:13 | 2022-11-11 | 2023-01-06 |

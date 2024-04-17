@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Feid & Yandel
 
-6,682 songs - 14 day 15 hr 6 min
+6,683 songs - 14 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4312,6 +4312,7 @@
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-08 | 2022-07-16 |
 | [Normal](https://open.spotify.com/track/2uGtj7CapfHyUtQ8M94xs2) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [Normal](https://open.spotify.com/album/0kmeoI09hW0TPeHmJxFCYV) | 3:03 | 2022-07-22 | 2022-07-30 |
 | [Normal](https://open.spotify.com/track/0O7Nbk0SNBXVuPImdjvIRS) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Xantos](https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW) | [Normal](https://open.spotify.com/album/0hTgOFvhOFoWTm4fGMoS5B) | 2:29 | 2023-11-10 | 2023-11-18 |
+| [Normale \(feat\. ALOISIO\)](https://open.spotify.com/track/1yW6etYs3ZRVxRE3aYp8rd) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Malandra](https://open.spotify.com/album/0FS4LOkSdeNxCClujSoinh) | 2:49 | 2024-04-16 |  |
 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 | 2023-02-10 | 2023-02-18 |
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-03 | 2022-06-11 |
 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 | 2022-06-10 | 2022-06-18 |

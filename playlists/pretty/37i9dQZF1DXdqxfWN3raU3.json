@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT killah y Milo J en portada.",
-  "num_followers": 253350,
+  "num_followers": 253340,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tal vez",
-      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 163404,
       "name": "Me Olvid\u00e9",
       "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Helado De Vainilla",
-        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "Helado De Vainilla",
-      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Helado De Vainilla",
+        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "Helado De Vainilla",
+      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -975,18 +975,34 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "idek",
-        "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
+        "name": "Qui\u00e9n Pudiera?",
+        "url": "https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW"
       },
       "artists": [
         {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
         }
       ],
-      "duration_ms": 152044,
-      "name": "lento",
-      "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
+      "duration_ms": 213861,
+      "name": "Qui\u00e9n Pudiera?",
+      "url": "https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "idek",
+        "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 152044,
+      "name": "lento",
+      "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -1055,38 +1087,6 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n Pudiera?",
-        "url": "https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
-        }
-      ],
-      "duration_ms": 213861,
-      "name": "Qui\u00e9n Pudiera?",
-      "url": "https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
-        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "antes que sea tarde",
-        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
-        }
-      ],
-      "duration_ms": 168778,
-      "name": "antes que sea tarde",
-      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "antes que sea tarde",
+        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "duration_ms": 168778,
+      "name": "antes que sea tarde",
+      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Blockbuster (90's R&B)",
         "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 207204,
       "name": "Blockbuster (90's R&B)",
       "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2024-04-12 06:00:00",

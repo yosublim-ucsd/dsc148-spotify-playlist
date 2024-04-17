@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 227698,
+  "num_followers": 227814,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Instrumentales",
         "url": "https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183133,
       "name": "Emmanuelle",
       "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -903,22 +903,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Temas Prohibidos del Cine",
-        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Romanticos de La Habana",
-          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Amore Grande Amore Libero",
-      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Temas Prohibidos del Cine",
+        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Romanticos de La Habana",
+          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Amore Grande Amore Libero",
+      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 #1's: One Hit Wonders",
-        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 202805,
-      "name": "Chariots Of Fire",
-      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Svezia, Inferno E Paradiso",
         "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 116559,
       "name": "Mah N\u00e0 Mah N\u00e0",
       "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "20 #1's: One Hit Wonders",
+        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 202805,
+      "name": "Chariots Of Fire",
+      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 142986,
       "name": "Les Parapluies de Cherbourg",
       "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
     },
     {
-      "added_at": "2021-12-23 15:47:25",
-      "album": {
-        "name": "The Ultimate John Barry",
-        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
-      },
-      "artists": [
-        {
-          "name": "John Barry",
-          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Midnight Cowboy",
-      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
-    },
-    {
       "added_at": "2020-12-08 19:02:01",
       "album": {
         "name": "Sue\u00f1o azul",
@@ -1223,6 +1207,22 @@
       "duration_ms": 142040,
       "name": "Concierto para una sola voz",
       "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+    },
+    {
+      "added_at": "2021-12-23 15:47:25",
+      "album": {
+        "name": "The Ultimate John Barry",
+        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Ferrante & Teicher Collection",
-        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
-      },
-      "artists": [
-        {
-          "name": "Ferrante & Teicher",
-          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
-        }
-      ],
-      "duration_ms": 403466,
-      "name": "Ravel's Bolero",
-      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
         "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Avengers and Other Top Sixties Themes",
-        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
+        "name": "The Ferrante & Teicher Collection",
+        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
       },
       "artists": [
         {
-          "name": "Tony Hatch",
-          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
+      "duration_ms": 403466,
+      "name": "Ravel's Bolero",
+      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Avengers and Other Top Sixties Themes",
+        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
+      },
+      "artists": [
+        {
+          "name": "Tony Hatch",
+          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "A Regar La Polilla",
         "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 200411,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
-    },
-    {
-      "added_at": "2023-08-10 21:46:24",
-      "album": {
-        "name": "East Bound And Down",
-        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 162294,
-      "name": "East Bound And Down",
-      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1451,6 +1435,22 @@
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+    },
+    {
+      "added_at": "2023-08-10 21:46:24",
+      "album": {
+        "name": "East Bound And Down",
+        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 162294,
+      "name": "East Bound And Down",
+      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Presentando a Los Indios Tabajaras",
         "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 157013,
       "name": "Star Dust",
       "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Honeymoon in South America",
-        "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
+        "name": "Grandes Favoritas Instrumentales,Vol. 4",
+        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
       "artists": [
         {
-          "name": "Rio Carnival Orchestra",
-          "url": "https://open.spotify.com/artist/4wD03VhS4OZfcEI6spIR8c"
+          "name": "Joaquin Borges",
+          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
+        },
+        {
+          "name": "National Philarmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
         }
       ],
-      "duration_ms": 173616,
-      "name": "Moon Over Montevideo",
-      "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
+      "duration_ms": 175906,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Favoritas Instrumentales,Vol. 4",
-        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
+        "name": "Honeymoon in South America",
+        "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
       },
       "artists": [
         {
-          "name": "Joaquin Borges",
-          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
-        },
-        {
-          "name": "National Philarmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
+          "name": "Rio Carnival Orchestra",
+          "url": "https://open.spotify.com/artist/4wD03VhS4OZfcEI6spIR8c"
         }
       ],
-      "duration_ms": 175906,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
+      "duration_ms": 173616,
+      "name": "Moon Over Montevideo",
+      "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
     },
     {
       "added_at": "2020-12-08 19:02:01",

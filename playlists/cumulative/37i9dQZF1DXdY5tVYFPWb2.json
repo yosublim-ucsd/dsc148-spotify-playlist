@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 164479,
       "name": "FUTURE STORY",
       "url": "https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc"
@@ -8565,6 +8565,28 @@
     },
     {
       "album": {
+        "name": "Summer Beach",
+        "url": "https://open.spotify.com/album/1ceFv3f9h6EDDaDumPDHL9"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Summer Beach",
+      "url": "https://open.spotify.com/track/6LuVnKXKrZ9kLkHEMqLRP4"
+    },
+    {
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3"
       },
@@ -11475,6 +11497,24 @@
     },
     {
       "album": {
+        "name": "Eternal Harmony",
+        "url": "https://open.spotify.com/album/5AV6UJOedTNIV527JvRwri"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "\u3082\u3046\u3059\u30500\u6642",
+      "url": "https://open.spotify.com/track/0C8hOD5giYcj8r2FD0pl4j"
+    },
+    {
+      "album": {
         "name": "\u5927\u6edd\u8a60\u4e00 NOVELTY SONG BOOK",
         "url": "https://open.spotify.com/album/1gIUCFC81qiFPpisdcOCLU"
       },
@@ -11942,7 +11982,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 248924,
       "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
@@ -12312,6 +12352,24 @@
       "duration_ms": 206108,
       "name": "\u30c6\u30ec\u30d5\u30a9\u30f3\u30fb\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/5aTbBqfHaRj4aEoz0GVkws"
+    },
+    {
+      "album": {
+        "name": "POP OUT! \u2161",
+        "url": "https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173165,
+      "name": "\u30c7\u30c3\u30c9\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/0btSNF4g9CtAgcRtc2hqoG"
     },
     {
       "album": {
@@ -14846,7 +14904,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 336333,
       "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/5hkG4VCXTufcT05JSZqyRg"

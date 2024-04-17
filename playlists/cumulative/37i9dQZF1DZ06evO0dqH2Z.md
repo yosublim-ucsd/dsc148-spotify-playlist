@@ -2,7 +2,7 @@
 
 ### [This Is Tigers Jaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dqH2Z)
 
-> This is: Tigers Jaw\. Alle wichtigen Tracks in einer Playlist.
+> This is Tigers Jaw\. The essential tracks, all in one playlist.
 
 70 songs - 3 hr 29 min
 

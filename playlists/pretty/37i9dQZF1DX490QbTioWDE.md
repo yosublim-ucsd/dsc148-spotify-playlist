@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,486 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,698 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 83 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
 | 84 | [La Pupera](https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5) | [La Mona Jimenez / los caligaris](https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf) | [La Pupera](https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U) | 2:28 |
 | 85 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
-| 86 | [360](https://open.spotify.com/track/0pRL6n8hPpyy1PPOZuZ72q) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [360](https://open.spotify.com/album/2f4EJ5n9opWpYBXKbwWeU5) | 2:48 |
-| 87 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 |
+| 86 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 |
+| 87 | [360](https://open.spotify.com/track/0pRL6n8hPpyy1PPOZuZ72q) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [360](https://open.spotify.com/album/2f4EJ5n9opWpYBXKbwWeU5) | 2:48 |
 | 88 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 |
 | 89 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 |
 | 90 | [Mañana sin vos](https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7) | 3:07 |

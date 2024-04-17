@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 ### [This Is Grupo Arriesgado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q5qqQ)
 
-> This Is Grupo Arriesgado\. Los temas esenciales, todos en una lista.
+> This is Grupo Arriesgado\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,432 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,446 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Jimenez](https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 3:04 |
 | 50 | [La Muchacha Del Salado](https://open.spotify.com/track/7IADccjzF0mDn1du1wLZbC) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 2:49 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGNlM2U3ODFlMmI0MDkzMDVmODkxMzM0NGZhODdhYTIw`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGYwYjlmMWZiMWNjOTFjOTYzOWVmZjE1M2FhNzZmOTY3`

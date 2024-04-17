@@ -4,7 +4,7 @@
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-170 songs - 9 hr 5 min
+171 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Mover el Culo](https://open.spotify.com/track/4OWxMVxaovn4jM8VvGUwHe) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Barbero 507](https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 2:17 | 2021-12-20 |  |
 | [Al Escuchar Mi Coro](https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:42 | 2021-12-20 | 2022-07-29 |
 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/1pvMdq6otmLpiI8frvnBRK) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [The Noise: The Beginning](https://open.spotify.com/album/5xXVchAnNvGeUW1b27zO89) | 3:10 | 2021-12-20 | 2022-07-29 |
-| [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 | 2021-12-20 |  |
+| [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 | 2021-12-20 | 2024-04-17 |
 | [Amor Con la Ropa](https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:11 | 2021-12-20 |  |
 | [Amor Con La Ropa](https://open.spotify.com/track/2djANHWiGt7BP8kCrYOnbo) | [Speedy](https://open.spotify.com/artist/1QC3ygAJezg4QWD5stwr0b) | [Nueva Generación](https://open.spotify.com/album/3lrhLlw55mjyUCaO0FBYwu) | 2:11 | 2021-12-20 | 2024-01-27 |
 | [Ansias](https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:55 | 2021-12-20 |  |
@@ -137,6 +137,7 @@
 | [San Yó!](https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 | 2021-12-20 | 2022-07-22 |
 | [Sentirte](https://open.spotify.com/track/0c9Qg1tEoKWF1eJ2MNyNGH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 3:28 | 2021-12-20 | 2022-07-29 |
 | [Si El Hombre Quiere](https://open.spotify.com/track/7oJVjywLnYWS7FDDqjiQhw) | [Rude Girl \(La Atrevida\)](https://open.spotify.com/artist/27YpHzMcm3VgsSmGCLjkqv) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:32 | 2021-12-20 | 2022-07-24 |
+| [Si Pudiera Esta Con Ella](https://open.spotify.com/track/6bGPQTi3nj5D03gjRmtTZk) | [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [Bailando](https://open.spotify.com/album/77YD9psZrQbvAE79dHbp28) | 3:12 | 2024-03-25 |  |
 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 | 2021-12-20 |  |
 | [Sientelo](https://open.spotify.com/track/7qA6NCWBEpbEusd6Phx9hy) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s), [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:53 | 2021-12-20 |  |
 | [Slow](https://open.spotify.com/track/5IqrmzgrTcqT7DYzEuMpRX) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [DJ Blass: Sandunguero Hits](https://open.spotify.com/album/559H8IuRVQrw1589M8CylH) | 1:35 | 2021-12-20 | 2022-07-20 |

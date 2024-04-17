@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 79454,
+  "2024-04-17": 79471,
   "date_first_scraped": "2023-03-30",
   "description": "Keep it Punjabi, Keep it Real. Cover: Tarsem Jassar",
   "name": "Ghaint Flow",
@@ -2959,7 +2959,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 139200,
       "name": "Homies - Elevate",
       "url": "https://open.spotify.com/track/2h4a0R2LrCsn5h40nY8t5A"
@@ -5724,6 +5724,36 @@
     },
     {
       "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5axXGLpHifpJuW4JFyEaph"
+      },
+      "artists": [
+        {
+          "name": "Akki Singh",
+          "url": "https://open.spotify.com/artist/2yBmVcWWS9JMaigPqVkZuu"
+        },
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        },
+        {
+          "name": "Urban Singh",
+          "url": "https://open.spotify.com/artist/2RoHJpBTtlOZ891LYhsRqE"
+        },
+        {
+          "name": "Preet Zayne",
+          "url": "https://open.spotify.com/artist/3LOUhtcczFGQg0uNQUxI6c"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Salsa",
+      "url": "https://open.spotify.com/track/5Mucj4DOIk5ADhSEGUQNQK"
+    },
+    {
+      "album": {
         "name": "Sardaar Munde",
         "url": "https://open.spotify.com/album/46CooAUUsJw8f0Ydg61zJV"
       },
@@ -5875,7 +5905,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 175133,
       "name": "Shehzaada",
       "url": "https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom"

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 770554,
+  "2024-04-17": 770558,
   "date_first_scraped": "2022-01-02",
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
   "name": "Mates y M\u00fasica",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 266133,
       "name": "A Veces Vuelvo",
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
@@ -10143,6 +10143,28 @@
       "duration_ms": 242715,
       "name": "Loco De Atar (En Casa)",
       "url": "https://open.spotify.com/track/6lfL3YEkqnX1qdMDtw8pJ8"
+    },
+    {
+      "album": {
+        "name": "Loco Por Volverla a Ver",
+        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272189,
+      "name": "Loco Por Volverla a Ver",
+      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
     },
     {
       "album": {

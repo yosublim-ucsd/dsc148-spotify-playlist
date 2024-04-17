@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,300 likes - 542 songs - 1 day 8 hr 36 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,294 likes - 542 songs - 1 day 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -332,10 +332,10 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 322 | [羽田新ルート](https://open.spotify.com/track/06TufyTBrvkunboDiXg3LH) | [pomodorosa](https://open.spotify.com/artist/2K5KXj15T4ZlEUvWSjvWPV) | [bouillon](https://open.spotify.com/album/2xQwfB584LWa692VogihHe) | 3:21 |
 | 323 | [エッチな妄想](https://open.spotify.com/track/7DY1BOcxfJf8UPC6EjJ4aG) | [Shigeru Kishida](https://open.spotify.com/artist/62TpalmxXUjLKyxJUgZt6W) | [リラックマとカオルさん オリジナル・サウンドトラック \(NETFLIXオリジナルシリーズ\)](https://open.spotify.com/album/6hIIo91PPvrp8J0YWjobP1) | 0:51 |
 | 324 | [ハワイアンダンス](https://open.spotify.com/track/4jkXJfReJlOMvkWa2PR816) | [Shigeru Kishida](https://open.spotify.com/artist/62TpalmxXUjLKyxJUgZt6W) | [リラックマとカオルさん オリジナル・サウンドトラック \(NETFLIXオリジナルシリーズ\)](https://open.spotify.com/album/6hIIo91PPvrp8J0YWjobP1) | 0:57 |
-| 325 | [夜の喫茶店](https://open.spotify.com/track/7nCW4SaYDuDoX2Rz2GTaWR) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [オチャメカン](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 3:40 |
-| 326 | [地球人のカラダ](https://open.spotify.com/track/6fsSCeUUm8g3wW94691V7s) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [オチャメカン](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 5:45 |
-| 327 | [さよならいちごちゃん](https://open.spotify.com/track/0JwH4D9l5Y249ljUMLmJOV) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [オチャメカン](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 4:46 |
-| 328 | [シュガーブー](https://open.spotify.com/track/3zeV6b2FMFsLHopzHHnS6J) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [MERRY GO ROUND JAILHOUSE](https://open.spotify.com/album/0wrZPBMrENaG2GUTL7LwCX) | 3:33 |
+| 325 | [A Kissaten at Night](https://open.spotify.com/track/7nCW4SaYDuDoX2Rz2GTaWR) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [Ochamekan](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 3:40 |
+| 326 | [The Body of Earthling](https://open.spotify.com/track/6fsSCeUUm8g3wW94691V7s) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [Ochamekan](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 5:45 |
+| 327 | [Goodbye My Sweet Strawberry](https://open.spotify.com/track/0JwH4D9l5Y249ljUMLmJOV) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [Ochamekan](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 4:46 |
+| 328 | [Sugar Boo](https://open.spotify.com/track/3zeV6b2FMFsLHopzHHnS6J) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [MERRY GO ROUND JAILHOUSE](https://open.spotify.com/album/0wrZPBMrENaG2GUTL7LwCX) | 3:33 |
 | 329 | [芽生え](https://open.spotify.com/track/6ftmKGG9rxzjoimdzcx9FX) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/7IIIz33snPkVQQtI4imuqJ) | 6:57 |
 | 330 | [Angel Island Cutscene](https://open.spotify.com/track/74uJsC2jPJDbpn0i11STES) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb) | [Sonic Mania Original Sound Track \(Selected Edition\)](https://open.spotify.com/album/0WkLss7gRrFrdL7wuicps5) | 0:17 |
 | 331 | [ルーヴル美術館侵入](https://open.spotify.com/track/2TjrM7ixQJRV47YsQsj75A) | [Naofumi Hataya](https://open.spotify.com/artist/16Zt0banJ38CasAMhXAqBm) | [リズム怪盗R 皇帝ナポレオンの遺産 オリジナル サウンドトラック \(Vol\. 1\)](https://open.spotify.com/album/2cjLwgvKJDcXxJD2jjv985) | 1:56 |
@@ -534,7 +534,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 524 | [UNDRESS](https://open.spotify.com/track/62OqqOKP1mJLJaz69U4N6h) | [Passing Currents](https://open.spotify.com/artist/1IOfE2EZJLsJ5H87ucZmrq) | [UNDRESS](https://open.spotify.com/album/3JVXFCdrYnF1SXh5DTq4dM) | 4:53 |
 | 525 | [Star U](https://open.spotify.com/track/2p37rpqVkZuWcSuP5wTdNi) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [Ideation Deluxe](https://open.spotify.com/album/4p1q83d3FMGXXAjEUBep7Z) | 3:47 |
 | 526 | [GUNMA / BLOTTTER](https://open.spotify.com/track/4s0wX54NOFSOWqbMcNjHhP) | [SAGEISKAMI](https://open.spotify.com/artist/6SGVSqPxYUYa885J3dtXQu) | [ESSO GAS STATION](https://open.spotify.com/album/07RJeGHGofUEapExSsz7yf) | 0:52 |
-| 527 | [僕のマシュ・・・\(gentle whisper\)](https://open.spotify.com/track/1SZOJPxisCWfY3Vl1aYZRR) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [bomber minmi](https://open.spotify.com/album/6jvYiPAak3K01gOEcpcQCU) | 5:43 |
+| 527 | [my love, marshmallow （gentle whisper）](https://open.spotify.com/track/1SZOJPxisCWfY3Vl1aYZRR) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [bomber minmi](https://open.spotify.com/album/6jvYiPAak3K01gOEcpcQCU) | 5:43 |
 | 528 | [1:00PM \(From "Animal Crossing: New Leaf"\) \[Piano Version\]](https://open.spotify.com/track/4vve1lQHq92gfJyPJSRXFf) | [Streaming Music Studios](https://open.spotify.com/artist/0Sh34YKKDol0XfSzsSY6ut) | [Animal Crossing: New Leaf \- A Piano Collection, Vol\. 2](https://open.spotify.com/album/3AUzNAD23OXIOafDQHT1Af) | 1:36 |
 | 529 | [miss me with that 1 bro](https://open.spotify.com/track/1P8U839N8xUVZoUFepUqWa) | [Adolf Nomura](https://open.spotify.com/artist/0iDqn417kRnYSjbUAkibvu) | [shut up.](https://open.spotify.com/album/5UncCJKlvsaw2kKk0zFlQY) | 1:56 |
 | 530 | [EARTHBOUND](https://open.spotify.com/track/0YX9BYXNtckbuRZjSStcxk) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [dreamscape](https://open.spotify.com/album/12yZSM3CXLhFlJSWfwIgmC) | 1:43 |

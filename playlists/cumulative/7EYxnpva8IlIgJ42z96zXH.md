@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-834 songs - 1 day 19 hr 57 min
+835 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Dark Boy](https://open.spotify.com/track/2ecitzpGnPmIFXGMXj1Gak) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Dark Boy](https://open.spotify.com/album/0RawT9NcLmSAGStJuHJHkp) | 3:33 | 2024-03-15 |  |
 | [Dark Days](https://open.spotify.com/track/2HKF5jtc3fSUJpMfaYcCpI) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Dark Days](https://open.spotify.com/album/4b7PAPNs8gsHlkNFvZP0bi) | 3:01 | 2023-03-24 | 2023-06-20 |
 | [Darker Days](https://open.spotify.com/track/7JO6KXZOJoNSu2C1DYJQxQ) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP) | [Darker Days](https://open.spotify.com/album/1HgO4JRjSx1T1byXopTIXD) | 2:33 | 2022-08-26 | 2022-11-04 |
-| [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-12 |  |
+| [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-12 | 2024-04-17 |
 | [Dash](https://open.spotify.com/track/0KaKGybrG6ao4go9DfOPC6) | [Skurt](https://open.spotify.com/artist/25IwxQWXkssRk7BM2Cg2ke) | [Dash](https://open.spotify.com/album/5LLP29i7rrEGTQoi2vqKYO) | 5:19 | 2021-04-03 | 2021-04-10 |
 | [Day N Night](https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Day N Night](https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk) | 2:59 | 2022-08-12 | 2022-09-03 |
 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 | 2023-01-13 | 2023-03-10 |
@@ -529,6 +529,7 @@
 | [Nothing to Love About Love](https://open.spotify.com/track/63CZ0zvkjuuYYXJwhcOq9P) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Nothing to Love About Love](https://open.spotify.com/album/2n0nzjLEt3mHBWBrkczpPA) | 3:29 | 2020-11-03\* | 2021-03-26 |
 | [November 26](https://open.spotify.com/track/1Bzx8M2az8q6wnoXOhK3uw) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM) | [November 26](https://open.spotify.com/album/3hlkRsFKhmyfTKeOUyWyKY) | 2:32 | 2023-04-21 | 2023-07-06 |
 | [NOW COME ON NOW](https://open.spotify.com/track/7c6oQ0XE7ajiShh26GC299) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [NOW COME ON NOW](https://open.spotify.com/album/6ncJdlq3oqhAxRxrgRkWxi) | 2:35 | 2024-02-22 |  |
+| [NOW COME ON NOW \- Mell Hall Remix](https://open.spotify.com/track/4GOorEzwHOoYSy1xaGTyrG) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [NOW COME ON NOW \(Mell Hall Remix\)](https://open.spotify.com/album/4SlNN6lF4k3Q4cZM6rtkRj) | 3:00 | 2024-04-16 |  |
 | [Nowhere](https://open.spotify.com/track/717yTlcMr1mOOsZGPBLX68) | [Otosan](https://open.spotify.com/artist/1syjYeo2PptHbZlvJQsjUO), [Julia Lostrom](https://open.spotify.com/artist/6LhvyFKJgz8TdcwOkmPnv0) | [Nowhere](https://open.spotify.com/album/28dAUA6OF4hpjtLqS3EFEQ) | 3:31 | 2020-12-11 | 2021-01-15 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-09 | 2023-03-04 |
 | [Oh No \(Remix\)](https://open.spotify.com/track/1U3fV86b5w51waiFONENNd) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [HOOX](https://open.spotify.com/artist/2n83kKZFMPXPOgfhmQwPRO) | [Oh No \(Remix\)](https://open.spotify.com/album/3dKoHMuyH3KvHRaljZTh8E) | 2:50 | 2021-10-08 | 2021-10-22 |

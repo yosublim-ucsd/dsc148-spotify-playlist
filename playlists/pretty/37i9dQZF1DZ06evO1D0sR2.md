@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This is: JJ Hairston\. Alle wichtigen Tracks in einer Playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,539 likes - 50 songs - 5 hr 47 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [The Lifter](https://open.spotify.com/track/47HL24sAiA9RybhLGODrUX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 2:56 |
 | 50 | [It Will Always Be You \(feat\. Shavance Stephens, Leah Leach & Mav City Gospel Choir\)](https://open.spotify.com/track/6TbZNuPoUug1bpviurkKlH) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Leah Leach](https://open.spotify.com/artist/2jm2SBvvg6DQbnYLKIBOFi), [Shavance Stephens](https://open.spotify.com/artist/5kpvwgzWJwAVV2EfuoLv3H), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 8:10 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDIzZmEzNTI1NjQ0NTZhMTQzOWY5ZTU2MmIyNmMyMjg2`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGU1OWVmNzBjOTVmYzJkOWNmZTIwOWUwODllZWRlMGJk`

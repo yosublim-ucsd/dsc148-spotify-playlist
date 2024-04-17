@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,410 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,483 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 91 | [Strollin' Blues](https://open.spotify.com/track/27xTnEVDEdrApTssEUt6sk) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Touch of Evil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/00OG2RuNBudzvhJ4XfCZcz) | 2:40 |
 | 92 | [Brass Brazilians](https://open.spotify.com/track/75Dg910bcWUB6ZimH4OrDn) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC) | [Rounders \(Music From The Miramax Motion Picture\)](https://open.spotify.com/album/4m5HdYzqg4BMsdijJ8azjt) | 2:50 |
 | 93 | [Goodbye Baby \- From The Motion Picture "Sweet Smell Of Success"](https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Sweet Smell Of Success \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X) | 4:59 |
-| 94 | [I Cried For You \(Now It's Your Turn To Cry Over Me\) \- Pt\. 1](https://open.spotify.com/track/4a2ETShIS1iaTmKg6hk8Ja) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Lady Sings The Blues](https://open.spotify.com/album/7cVlD1xaBLou7tBLwKxpST) | 0:38 |
-| 95 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
+| 94 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
+| 95 | [I Cried For You \(Now It's Your Turn To Cry Over Me\) \- Pt\. 1](https://open.spotify.com/track/4a2ETShIS1iaTmKg6hk8Ja) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Lady Sings The Blues](https://open.spotify.com/album/7cVlD1xaBLou7tBLwKxpST) | 0:38 |
 | 96 | [The Hokey Pokey \- Bonus Tracks](https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6) | [Ray Anthony & His Orchestra](https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK) | [Like Wild](https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt) | 3:16 |
 | 97 | [Main Theme \(Stop And Go\)](https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA) | [Kenyon Hopkins](https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9) | [The Hustler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA) | 1:52 |
 | 98 | [Green Tables Blues](https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Johnny Cool \(Original Movie Soundtrack\)](https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw) | 3:18 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 488045,
+  "2024-04-17": 487877,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -8655,7 +8655,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 268164,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
@@ -17993,7 +17993,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"

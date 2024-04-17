@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 66620,
+  "num_followers": 66608,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -739,18 +739,22 @@
     {
       "added_at": "2024-01-05 13:33:14",
       "album": {
-        "name": "Rock da Arca",
-        "url": "https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG"
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
       },
       "artists": [
         {
-          "name": "Kelly Benigno",
-          "url": "https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X"
+          "name": "Talitha Franco",
+          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Rock da Arca",
-      "url": "https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW"
+      "duration_ms": 188061,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
     },
     {
       "added_at": "2024-01-05 13:33:14",
@@ -771,22 +775,18 @@
     {
       "added_at": "2024-01-05 13:33:14",
       "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
+        "name": "Rock da Arca",
+        "url": "https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG"
       },
       "artists": [
         {
-          "name": "Talitha Franco",
-          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+          "name": "Kelly Benigno",
+          "url": "https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X"
         }
       ],
-      "duration_ms": 188061,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
+      "duration_ms": 202586,
+      "name": "Rock da Arca",
+      "url": "https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW"
     },
     {
       "added_at": "2024-01-05 13:33:14",

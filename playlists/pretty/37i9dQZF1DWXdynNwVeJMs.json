@@ -1,6 +1,6 @@
 {
   "description": "Listen to the finest Jazz made in Belgium. Cover: De Beren Gieren",
-  "num_followers": 9867,
+  "num_followers": 9876,
   "original_name": "Belgo-Jazz",
   "owner": {
     "name": "Spotify",
@@ -114,6 +114,10 @@
         {
           "name": "M.CHUZI",
           "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        },
+        {
+          "name": "Vanesa Diaz Gil",
+          "url": "https://open.spotify.com/artist/0oxDTfYE14bcHtJiPNUZbh"
         }
       ],
       "duration_ms": 371637,

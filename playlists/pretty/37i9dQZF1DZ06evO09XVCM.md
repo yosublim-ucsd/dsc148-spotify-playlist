@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 ### [This Is Ziggy Marley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09XVCM)
 
-> This is Ziggy Marley\. The essential tracks, all in one playlist.
+> This Is Ziggy Marley\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,344 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,348 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [Start It Up](https://open.spotify.com/track/0MT9KFAob9TAw1FlMweOGi) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/1flAWuCR67R6HOsoLTE4xf) | 3:21 |
 | 50 | [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDkyNWUxMzdkZTk4Yjg3OTJkOGFiNzUwODE5ZTllYjM0`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGM5ZDQ3NTY3NzU3MzE5YzZkOGMxN2QwZDRmZTliZGYy`

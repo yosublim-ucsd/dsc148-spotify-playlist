@@ -2,7 +2,7 @@
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 
-> This is Howlin' Wolf。アーティストの代表曲をひとつのプレイリストに。
+> This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
 123 songs - 6 hr 25 min
 

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Druhh e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,218 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,226 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Caixa Postal](https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Anti Ayoa](https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM) | [Estilo Cachorro](https://open.spotify.com/album/4j9IGYe9X1gxdIgQYjl6ja) | 2:23 |
+| 1 | [Caixa Postal](https://open.spotify.com/track/5BJaSO5yqTAhj9mzJONMbQ) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Anti Ayoa](https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Estilo Cachorro](https://open.spotify.com/album/4j9IGYe9X1gxdIgQYjl6ja) | 2:23 |
 | 2 | [Loucura](https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:59 |
 | 3 | [Foto da Unha](https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Foto da Unha](https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln) | 3:19 |
 | 4 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |

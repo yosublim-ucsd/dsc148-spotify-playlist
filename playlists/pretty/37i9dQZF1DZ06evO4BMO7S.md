@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 ### [This Is Japanese Breakfast](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BMO7S)
 
-> This is Japanese Breakfast\. The essential tracks, all in one playlist.
+> This Is Japanese Breakfast\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,788 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,794 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 32 | [Ballad 0 \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 2:59 |
 | 33 | [Lindsey \- Recorded At Electric Lady Studios](https://open.spotify.com/track/0Wgjuj7ZgodP2eLzzjLSAc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 3:42 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDUxMzVjNTViYTQwODgwYmI4YmUzNWI0NDA2ZTY1MTIw`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGEzYmE5YzNlOTM3MDFhMDI4MGQwYjBiNWIyMTViZjNk`

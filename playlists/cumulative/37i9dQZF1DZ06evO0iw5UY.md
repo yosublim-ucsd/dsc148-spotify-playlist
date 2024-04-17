@@ -2,7 +2,7 @@
 
 ### [This Is Krewella](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iw5UY)
 
-> This is Krewella\. The essential tracks, all in one playlist.
+> This Is Krewella\. Los temas esenciales, todos en una lista.
 
 61 songs - 3 hr 34 min
 

@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 166621,
       "name": "Orange",
       "url": "https://open.spotify.com/track/1S8IHLHBpgvh37EaSZGrVL"
@@ -1702,7 +1702,7 @@
       },
       "artists": [
         {
-          "name": "shy taupe",
+          "name": "shytaupe",
           "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 315800,
       "name": "Setsugekka",
       "url": "https://open.spotify.com/track/02ntK5ruQ5arRCAmQVXZmz"
@@ -2331,6 +2331,28 @@
     },
     {
       "album": {
+        "name": "Veranda feat. Kanano Senritsu",
+        "url": "https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        },
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Veranda feat. Kanano Senritsu",
+      "url": "https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3"
+    },
+    {
+      "album": {
         "name": "Watashitachi no Journey",
         "url": "https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8"
       },
@@ -2616,6 +2638,24 @@
       "duration_ms": 169573,
       "name": "\u3057\u3042\u308f\u305b",
       "url": "https://open.spotify.com/track/3yBCSTtiQuM0od1M9YrGMF"
+    },
+    {
+      "album": {
+        "name": "andymori",
+        "url": "https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z"
+      },
+      "artists": [
+        {
+          "name": "andymori",
+          "url": "https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86280,
+      "name": "\u3059\u3054\u3044\u901f\u3055",
+      "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
     },
     {
       "album": {

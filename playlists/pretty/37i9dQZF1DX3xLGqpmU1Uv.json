@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 156119,
+  "num_followers": 155998,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
-        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
-      },
-      "artists": [
-        {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "Adi\u00f3s a Jamaica (Jamaica Farewell)",
-      "url": "https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 147771,
       "name": "Edi, Edi",
       "url": "https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
+        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
+      },
+      "artists": [
+        {
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
+        }
+      ],
+      "duration_ms": 133733,
+      "name": "Adi\u00f3s a Jamaica (Jamaica Farewell)",
+      "url": "https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "El Tigre",
-        "url": "https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh"
-      },
-      "artists": [
-        {
-          "name": "Los Camisas Negras",
-          "url": "https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i"
-        }
-      ],
-      "duration_ms": 98615,
-      "name": "Oh! No",
-      "url": "https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 135013,
       "name": "Boogie Twist",
       "url": "https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "El Tigre",
+        "url": "https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh"
+      },
+      "artists": [
+        {
+          "name": "Los Camisas Negras",
+          "url": "https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i"
+        }
+      ],
+      "duration_ms": 98615,
+      "name": "Oh! No",
+      "url": "https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m"
     },
     {
       "added_at": "2020-03-18 04:18:26",

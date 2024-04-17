@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Leonard Wellington, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,772 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,785 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

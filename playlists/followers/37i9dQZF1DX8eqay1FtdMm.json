@@ -1,7 +1,7 @@
 {
-  "2024-04-16": 334853,
+  "2024-04-17": 334466,
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: DAVICHI(\ub2e4\ube44\uce58)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim MinSeok(\uae40\ubbfc\uc11d)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 221946,
       "name": "Dear",
       "url": "https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9"
@@ -4444,6 +4444,24 @@
     },
     {
       "album": {
+        "name": "Love Illusion",
+        "url": "https://open.spotify.com/album/65XtBx6D49S95rheH2RS83"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Love Illusion",
+      "url": "https://open.spotify.com/track/0RFQSzdcZOBYIBN5rOacTo"
+    },
+    {
+      "album": {
         "name": "love is everything",
         "url": "https://open.spotify.com/album/3uRqaovLpNnVqdLZlkJN5d"
       },
@@ -5171,7 +5189,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 234269,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
@@ -5319,6 +5337,24 @@
       "duration_ms": 217640,
       "name": "Myo (Cat)",
       "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
+    },
+    {
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/29izPD2H1NDTySqBFuLBzH"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Myself",
+      "url": "https://open.spotify.com/track/08GrGvZfn5yHsfSjyP5Jal"
     },
     {
       "album": {
@@ -5579,6 +5615,28 @@
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+    },
+    {
+      "album": {
+        "name": "Officially Cool",
+        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Officially Cool",
+      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
     },
     {
       "album": {
@@ -8457,7 +8515,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 221333,
       "name": "You&I",
       "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"

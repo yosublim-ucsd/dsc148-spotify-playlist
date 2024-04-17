@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Bleeker
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,564 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,526 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 21 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 |
 | 22 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 |
 | 23 | [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 |
-| 24 | [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 |
+| 24 | [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 |
 | 25 | [Kiss!](https://open.spotify.com/track/1mugM9eDIZArpjOqHH9JZu) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Kiss! / Sick to my Stomach](https://open.spotify.com/album/4YGloVUogrsXAsjU0x7HMD) | 2:34 |
 | 26 | [Say it to My Face](https://open.spotify.com/track/6r6DNioAIJpy3g5r6GQGnd) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Say it to My Face](https://open.spotify.com/album/0FW3FY91wOkSQ9Wf4eF8D2) | 3:16 |
 | 27 | [Way Too Deep](https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Way Too Deep](https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV) | 2:37 |

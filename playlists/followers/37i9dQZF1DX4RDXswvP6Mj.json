@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 857962,
+  "2024-04-17": 856575,
   "date_first_scraped": "2021-12-28",
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: \bLE SSERAFIM) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Club Party",
@@ -3617,6 +3617,24 @@
       "duration_ms": 182591,
       "name": "Dynamite - Poolside Remix",
       "url": "https://open.spotify.com/track/2JZPlXE8c0oLZoCsqFFmgo"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "album": {

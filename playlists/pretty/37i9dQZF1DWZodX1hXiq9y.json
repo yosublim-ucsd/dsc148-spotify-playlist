@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 98245,
+  "num_followers": 98324,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "A Flower Is A Lovesome Thing",
+      "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
         "name": "The Turnaround",
         "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Wrapped Tight",
-      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "The Magnificent Charlie Parker",
         "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
       "artists": [
         {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 184280,
-      "name": "A Flower Is A Lovesome Thing",
-      "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
+      "duration_ms": 208906,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Inner Urge (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 442200,
       "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "The Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
         {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1363,6 +1347,22 @@
       "duration_ms": 485226,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Very Cool",
         "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 443613,
       "name": "Crazy She Calls Me",
       "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "You're Driving Me Crazy",
-        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Blues in Pig Alley",
-      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 229866,
       "name": "Pepper Steak",
       "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "You're Driving Me Crazy",
+        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Blues in Pig Alley",
+      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "The Quota",
-        "url": "https://open.spotify.com/album/521dwYVqHB2JeJxIWUmSTy"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Heath",
-          "url": "https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/3UwGl9KiFX1XuonK1btQbQ"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
       },
@@ -1991,18 +1975,18 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Lester Young Trio",
-        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+        "name": "The Quota",
+        "url": "https://open.spotify.com/album/521dwYVqHB2JeJxIWUmSTy"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+          "name": "Jimmy Heath",
+          "url": "https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk"
         }
       ],
-      "duration_ms": 247266,
-      "name": "I've Found A New Baby",
-      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
+      "duration_ms": 389466,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/3UwGl9KiFX1XuonK1btQbQ"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2019,6 +2003,22 @@
       "duration_ms": 458560,
       "name": "Den Tex - 2005 Remastered",
       "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Lester Young Trio",
+        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "I've Found A New Baby",
+      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "The Complete Prestige Recordings",
-        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 641733,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Rollin' With Leo (Remastered)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Remastered",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "The Complete Prestige Recordings",
+        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 641733,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "David Liebman Quartet / Quintet Live",
-        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
-      },
-      "artists": [
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        }
-      ],
-      "duration_ms": 799425,
-      "name": "The Last Train",
-      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Yun Kan 12345",
         "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 410373,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "David Liebman Quartet / Quintet Live",
+        "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
+      },
+      "artists": [
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        }
+      ],
+      "duration_ms": 799425,
+      "name": "The Last Train",
+      "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
     },
     {
       "added_at": "2024-03-20 12:31:54",

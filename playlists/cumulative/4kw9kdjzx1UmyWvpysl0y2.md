@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-704 songs - 1 day 16 hr 37 min
+705 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-03 | 2024-01-18 |
 | [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-15 | 2024-02-28 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 | 2022-07-16 |
-| [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-26 |  |
+| [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-26 | 2024-04-17 |
 | [Take Me](https://open.spotify.com/track/3bhhWM9zuWeUDyR4ODiaaD) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 3:16 | 2022-11-25 | 2022-11-29 |
 | [Take Me Away](https://open.spotify.com/track/3AqelM2KUTUGUOgqPIpegG) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Take Me Away](https://open.spotify.com/album/5w1SO7iTkO8XjBhwUOi68j) | 3:37 | 2022-06-29 | 2022-09-10 |
 | [Take Me Higher](https://open.spotify.com/track/7x6WyCtfWVMSzY7BtvSlbs) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Take Me Higher](https://open.spotify.com/album/4liRBcZA8VxmCO17uCpwhC) | 2:34 | 2024-01-17 | 2024-04-09 |
@@ -615,6 +615,7 @@
 | [The Law](https://open.spotify.com/track/4FgwI0UIW4Vp71oNB2xB7y) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [The Law](https://open.spotify.com/album/5A624L3aNoTqg6jlMw0B9W) | 3:56 | 2023-09-11 | 2024-01-11 |
 | [The Light \- Flexible Fire Remix](https://open.spotify.com/track/4KMniGiobJ09rCP1rJhyB1) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [The Light \(The Remixes\)](https://open.spotify.com/album/3LJ9fh5loPde5YZJ6J48Sv) | 3:20 | 2022-05-27 | 2022-08-06 |
 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 | 2022-10-12 | 2022-12-10 |
+| [The Magic](https://open.spotify.com/track/5x8zNpwb9BYNIf6fcYTDRt) | [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2), [Tien Viet Nguyen](https://open.spotify.com/artist/6odxpDVoNhGYuhBzCZTAk6) | [The Magic](https://open.spotify.com/album/6GBf9xoSdsRTa9z3qyeGjs) | 3:35 | 2024-04-16 |  |
 | [The Moment](https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9) | [The Moment](https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb) | 3:30 | 2022-02-18 | 2022-04-29 |
 | [The One](https://open.spotify.com/track/5IjHyWBWrng9EjsAKZZCp4) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [The One](https://open.spotify.com/album/55hOZrIa3iHwwEMfvWKKMe) | 3:15 | 2024-02-20 |  |
 | [The One You Call](https://open.spotify.com/track/6a3FrmdRlDvSOUH1I2caev) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [WILL MAC](https://open.spotify.com/artist/5jH1Szsgrub3R1WQHlzByy), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [The One You Call](https://open.spotify.com/album/1r53rl1GB5DQ2Xuw99dreK) | 3:48 | 2023-09-20 | 2024-01-11 |

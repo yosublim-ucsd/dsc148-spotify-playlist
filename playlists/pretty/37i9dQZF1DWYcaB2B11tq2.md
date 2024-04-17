@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,215 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,938 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 33 | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Yo También \(Un Billón De Veces\)](https://open.spotify.com/album/6zc2WKK1KdSM1E35DXPOit) | 7:18 |
 | 34 | [Ganas De Vivir](https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas De Vivir](https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6) | 3:57 |
 | 35 | [No Cuenten Conmigo](https://open.spotify.com/track/6HAV1VX6u6a3ewmZyUhshw) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 |
-| 36 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
-| 37 | [Bonita](https://open.spotify.com/track/3xOekfcHl1gKWgn8V6rxVy) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:05 |
+| 36 | [Bonita](https://open.spotify.com/track/3xOekfcHl1gKWgn8V6rxVy) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:05 |
+| 37 | [Tú](https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Tú](https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl) | 5:19 |
 | 38 | [Viene De Ti](https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Viene De Ti](https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy) | 4:15 |
-| 39 | [Tú](https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Tú](https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl) | 5:19 |
+| 39 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
 | 40 | [Si Sabes Donde Hallarlo \(feat\. Marcos Vidal\)](https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cerca Estás](https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz) | 3:23 |
 | 41 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
 | 42 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |

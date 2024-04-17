@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-936 songs - 2 day 2 hr 48 min
+937 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-09 |  |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2020-01-03 | 2020-06-19 |
 | [Glow](https://open.spotify.com/track/5MmMzl91YtBpErwCcVbnG2) | [Griffin Stoller](https://open.spotify.com/artist/1PAn2z7cLcCoRWdGpUU7Qb) | [Glow](https://open.spotify.com/album/0MtDahL6SUr2K6u31SEKwJ) | 2:20 | 2019-06-22 | 2019-10-26 |
-| [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-24 |  |
+| [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-24 | 2024-04-17 |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [go \(feat\. Sam Smith\)](https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs) | 3:35 | 2022-06-09 | 2022-08-23 |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:35 | 2022-09-01 | 2023-02-17 |
 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2020-09-11 | 2021-05-21 |
@@ -781,6 +781,7 @@
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2020-05-10 | 2021-05-22 |
 | [Susie Save Your Love](https://open.spotify.com/track/32tUYhAygMdx9XxFxxj3It) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:58 | 2020-06-12 | 2020-07-31 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-06 | 2022-11-30 |
+| [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-04-05 |  |
 | [T\-Shirts](https://open.spotify.com/track/1Ozmz8mMsPv6LlwcCW2U8l) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts](https://open.spotify.com/album/11wuHldrnFEf8lLKhM9u9X) | 3:10 | 2019-05-25\* | 2019-09-13 |
 | [Take A Walk](https://open.spotify.com/track/7hB49K9WgbReO3XkDH9YW5) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw), [TRØVES](https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg) | [Take A Walk](https://open.spotify.com/album/1OiVCCgPl2fp3pBOdPLTJm) | 3:08 | 2019-06-21 | 2019-08-27 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-11-30 |  |

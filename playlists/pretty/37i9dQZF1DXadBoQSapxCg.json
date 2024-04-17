@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 310620,
+  "num_followers": 310517,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -187,30 +187,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Pode Ficar",
-        "url": "https://open.spotify.com/album/5FmcsJ7dZwLBbYPdYNhyMM"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 196176,
-      "name": "Pode Ficar",
-      "url": "https://open.spotify.com/track/6SIo6ZNtDG2Rq3aXuKZRtf"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm"
       },
@@ -267,22 +243,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
       },
@@ -303,6 +263,38 @@
       "duration_ms": 209654,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 228210,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -331,22 +323,6 @@
       "duration_ms": 193697,
       "name": "S\u00f3 me ligar",
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 228210,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -883,6 +859,30 @@
       "duration_ms": 216935,
       "name": "Tamb\u00e9m Quero",
       "url": "https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Pode Ficar",
+        "url": "https://open.spotify.com/album/5l2i37UIL7h6gjipBKUNS8"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 196176,
+      "name": "Pode Ficar",
+      "url": "https://open.spotify.com/track/29XgcktAmOQTG62vI9UveQ"
     },
     {
       "added_at": "2024-03-08 03:01:00",

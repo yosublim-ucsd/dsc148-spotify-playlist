@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,942 likes - 143 songs - 5 hr 41 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,967 likes - 143 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 36 | [REVENGE](https://open.spotify.com/track/7v9X3BnL9wwxek6uLHgPQ4) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [REVENGE](https://open.spotify.com/album/67QmjHc9KxvSdcjfw5ox4R) | 1:44 |
 | 37 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 |
 | 38 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
-| 39 | [Helli Chocha](https://open.spotify.com/track/6emYmwoXZIVZ3CkKWSPIW6) | [SxR LÜCÏFËR](https://open.spotify.com/artist/12tdmDKLMZ3UFP4MSRDGdL), [armchair prophet](https://open.spotify.com/artist/0zW2fS2TYN1Jhmwy5iK7pg), [HAłłØWMANE](https://open.spotify.com/artist/1PHuqtGb7RbEJLOOdMjInP) | [Helli Chocha](https://open.spotify.com/album/3dR3Pp56Os6v925KxIUPRC) | 3:18 |
+| 39 | [HEllI CHOCHA](https://open.spotify.com/track/6emYmwoXZIVZ3CkKWSPIW6) | [SxR LÜCÏFËR](https://open.spotify.com/artist/12tdmDKLMZ3UFP4MSRDGdL), [armchair prophet](https://open.spotify.com/artist/0zW2fS2TYN1Jhmwy5iK7pg), [HAłłØWMANE](https://open.spotify.com/artist/1PHuqtGb7RbEJLOOdMjInP) | [HEllI CHOCHA](https://open.spotify.com/album/3dR3Pp56Os6v925KxIUPRC) | 3:18 |
 | 40 | [Gotta Return Some Videotapes](https://open.spotify.com/track/6KgD9qmWE05bMPVGhFQNzL) | [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1), [Guantanamo Bae](https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos) | [Gotta Return Some Videotapes](https://open.spotify.com/album/3oOtsIhfsCF4ZLG3eYNeRX) | 0:57 |
 | 41 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 42 | [bitkrushed](https://open.spotify.com/track/6aV2b0sPiUni65o0oX7imo) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Nemecist](https://open.spotify.com/artist/3HZFRAdrfCUdkl2ajPWQ0M), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [bitkrushed](https://open.spotify.com/album/0HA4JFMz3uRjfjo0Z8Zeqd) | 1:33 |

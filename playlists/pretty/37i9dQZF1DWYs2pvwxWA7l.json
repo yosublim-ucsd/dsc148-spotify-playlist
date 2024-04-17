@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Ruger & Bnxn",
-  "num_followers": 555119,
+  "num_followers": 555200,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "Yimmy Yimmy",
         "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 211869,
       "name": "Yimmy Yimmy",
       "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -391,42 +391,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Romeo Must Die (RMD)",
-        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/7BaYGyvQegrKi73TX10Mhu"
-      },
-      "artists": [
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -447,6 +411,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/7BaYGyvQegrKi73TX10Mhu"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "YAWA",
         "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
       },
@@ -463,22 +443,38 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 180638,
-      "name": "IDK (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -523,18 +519,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+      "duration_ms": 180638,
+      "name": "IDK (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "KATIGORI/PIANO",
-        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "KATIGORI",
-      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "KATIGORI/PIANO",
+        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "KATIGORI",
+      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "January 9th",
-        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 222881,
-      "name": "January 9th",
-      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "RU The World",
         "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 185660,
       "name": "Jonzing Boy",
       "url": "https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Lowkey!",
-        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 213710,
-      "name": "Lowkey!",
-      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "Lova",
         "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 173810,
       "name": "Lova",
       "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Lowkey!",
+        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 213710,
+      "name": "Lowkey!",
+      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
     },
     {
       "added_at": "2024-04-12 00:01:00",

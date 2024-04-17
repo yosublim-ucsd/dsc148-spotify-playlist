@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 145421,
+  "num_followers": 145536,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "(You're The) Devil in Disguise",
-      "url": "https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "Foursider",
         "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "(You're The) Devil in Disguise",
+      "url": "https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "I Walk the Line (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 176533,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2024-03-22 15:14:09",

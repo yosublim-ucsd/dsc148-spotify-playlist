@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,192 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,209 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 19 | [La Bamba](https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:45 |
 | 20 | [Der Mai, der Mai, der lustige Mai](https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Kinderfrühling](https://open.spotify.com/album/60hOaInymmfKbZXFARP70V) | 2:58 |
 | 21 | [Dschungelparty](https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9) | [Giraffenaffen Gang](https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv) | [Nö mit Ö](https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V) | 3:05 |
-| 22 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
-| 23 | [Häschenparty](https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ) | [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Häschenparty](https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q) | 2:48 |
-| 24 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
+| 22 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
+| 23 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
+| 24 | [Häschenparty](https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ) | [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Häschenparty](https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q) | 2:48 |
 | 25 | [Der Mai ist gekommen](https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:53 |
 | 26 | [Vogelhochzeit](https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG) | [Jasmin Wagner](https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 2:28 |
 | 27 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |

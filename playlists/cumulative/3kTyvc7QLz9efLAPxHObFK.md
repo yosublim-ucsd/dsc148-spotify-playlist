@@ -4,7 +4,7 @@
 
 > 
 
-1,264 songs - 2 day 22 hr 2 min
+1,265 songs - 2 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,6 +1053,7 @@
 | [Take My Hand](https://open.spotify.com/track/2ruOSMOTahkJJ9ZtM96PvE) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [Take My Hand](https://open.spotify.com/album/3tmzTLk4JcbPO8ydUYeQc5) | 2:23 | 2023-02-25 |  |
 | [Take My Hand](https://open.spotify.com/track/2SIWFQ4WmUt23LaliYrMWs) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [Take My Hand](https://open.spotify.com/album/4hhmYoYq9gD9RtnuhZ5jlm) | 2:36 | 2022-08-01 |  |
 | [Take The Grind](https://open.spotify.com/track/6hjPccOFeXAA5jJEq6dvkw) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Take The Grind](https://open.spotify.com/album/556N3LLJ2A6BUI0wF2O2Eg) | 2:50 | 2024-04-01 |  |
+| [Tanano \- Original Mix](https://open.spotify.com/track/3FTwkDGGep7ZZBY8rPRLOy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Open Your Mind \(Original Mix\)](https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1) | 2:10 | 2024-04-16 |  |
 | [Taste The Blade](https://open.spotify.com/track/2z6CtAg9x6hCT064WKnxWF) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Rest In Pieces](https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr) | 3:19 | 2023-05-01 |  |
 | [TECHNO CITY](https://open.spotify.com/track/0Ua3nDprcE2YVHpINa9ceM) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [XTREME XTASY](https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK) | 2:45 | 2024-03-08 |  |
 | [Teledildonics](https://open.spotify.com/track/3axU4hIcw8YvKxzZZJVe6E) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Virgen Maria](https://open.spotify.com/artist/7nQPn0exIxAqszNNPBNEL0) | [Teledildonics](https://open.spotify.com/album/1Qh1XXIRSnGtT8nqFFbFsq) | 2:50 | 2023-07-28 |  |

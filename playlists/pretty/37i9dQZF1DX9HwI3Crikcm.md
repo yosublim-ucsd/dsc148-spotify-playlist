@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,500 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,407 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 75 | [The Black Rogue / Morrisons](https://open.spotify.com/track/3ooiN8bT2gx1hzDokGpQpI) | [Sean Maguire](https://open.spotify.com/artist/7dP7qNfHowP143GPBag31y) | [A Man Apart](https://open.spotify.com/album/1V3dMzrf32ZQaxUaK2cC7U) | 2:15 |
 | 76 | [The Concert Flute / Upstairs in a Tent](https://open.spotify.com/track/3BivsfcYy64qLcqkoKOJ0d) | [Finbar Dwyer](https://open.spotify.com/artist/5jd2q2xbCDBpQz21Ertr18) | [Kitty's Rambles](https://open.spotify.com/album/2ZmM3CZPJ3UHmtzhBJWofJ) | 2:20 |
 | 77 | [The Track for the Craic](https://open.spotify.com/track/2eT2QheRFkPxf4yElE0vQV) | [Socks in the Frying Pan](https://open.spotify.com/artist/2T1zXgma5xEKe7xyd08npf) | [Socks in the Frying Pan](https://open.spotify.com/album/2OH2E5ZrceCAjq32c1d6zp) | 4:36 |
-| 78 | [Caoineadh an Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/7HGUltqTH6YqynkMQl3zzd) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/75JKmNw0ljwHkoPoLFSkpP) | 5:05 |
+| 78 | [Caoineadh an Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/4khMiX5zYEhiUgTWbe81x5) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel from Clare](https://open.spotify.com/album/28yU8lLKGeuRzcAIDh8zcI) | 5:05 |
 | 79 | [Lucy Campbell's / The Flogging \(Reels\)](https://open.spotify.com/track/3REVXft7xiqwFBLhdFa1ux) | [Ciaran Tourish](https://open.spotify.com/artist/7JgJRLk3nWbYCeMyzSXXMj) | [Down the Line](https://open.spotify.com/album/2CcYzfVX4bPO2vFgOe9Ac0) | 2:32 |
 | 80 | [Coleraine Jig / Derrane's / John Stenson's / Moher Reel \- 2022 Remaster](https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Star Spangled Molly \(2022 Remaster\)](https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT) | 5:39 |
 | 81 | [Dhá Pholca Dálaigh](https://open.spotify.com/track/6QC8MC3maNNp2uHsOMxxSP) | [Brendan Begley & Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/6L8DJIpiJWVhKhYX5M6Rlu) | [A Moment of Madness](https://open.spotify.com/album/43XQxNecha4Lu72o3s3W48) | 2:46 |

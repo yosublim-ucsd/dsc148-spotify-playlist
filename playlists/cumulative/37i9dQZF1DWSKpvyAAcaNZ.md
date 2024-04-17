@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-312 songs - 19 hr 45 min
+314 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Grinder](https://open.spotify.com/track/4CHDLQA19PRKRCtpBIzASe) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:22 | 2021-12-17 | 2022-06-11 |
 | [Habbie Doobie](https://open.spotify.com/track/1fARuRnr9G2eD6oKwjXBc6) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [TX Jelly](https://open.spotify.com/album/40Zugqf29kw14VuFBFFSUY) | 6:16 | 2024-03-08 |  |
 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 | 2021-12-17 | 2024-04-13 |
-| [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 |  |
+| [Habits \- Radio Edit](https://open.spotify.com/track/2rgglZkiWfNuKupGuuvvdr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Alt List](https://open.spotify.com/album/16qWGSLBRnDTTbz50GNPIS) | 3:31 | 2024-03-08 |  |
+| [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 | 2024-04-17 |
 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 | 2021-12-17 |  |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-12-17 | 2023-06-08 |
 | [Half My Fault](https://open.spotify.com/track/7gucs6k5y19L9OfkuZ61ZP) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ) | 3:20 | 2023-05-26 |  |
@@ -180,7 +181,8 @@
 | [Make It Move](https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:29 | 2021-12-17 |  |
 | [Make It Rain](https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Make It Rain](https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ) | 6:41 | 2021-12-17 | 2022-07-29 |
 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 | 2022-07-22 |  |
-| [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-01-26 |  |
+| [Maktub](https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:13 | 2024-03-08 |  |
+| [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-01-26 | 2024-04-17 |
 | [Mediterranean Blues](https://open.spotify.com/track/5L5zRByIRyGRGurVWwnWkT) | [Matt Phillips](https://open.spotify.com/artist/22BCyjczCSuALgagXSUm3p), [Phil Harmonic](https://open.spotify.com/artist/5szI3Z1nioD6Shb3QP3VBA) | [Move](https://open.spotify.com/album/1MqwG4kOK1G51LydYHqsV6) | 3:30 | 2021-12-17 |  |
 | [Mercy](https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Mercy](https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57) | 3:40 | 2021-12-17 |  |
 | [Mockingbird](https://open.spotify.com/track/6NXWl8y3sGXZduzeNqhGp6) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Mockingbird](https://open.spotify.com/album/6wtlrcgFPJd6axKzjPPZe2) | 3:19 | 2021-12-17 |  |

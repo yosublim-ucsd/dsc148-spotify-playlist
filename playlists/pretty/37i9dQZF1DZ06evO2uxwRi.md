@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 ### [This Is New Found Glory](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uxwRi)
 
-> This Is New Found Glory\. Los temas esenciales, todos en una lista.
+> This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,662 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,651 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Oxygen](https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:15 |
 | 50 | [Dream Born Again](https://open.spotify.com/track/6tJtl8IY3N7dBJ80PSeswu) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:21 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGUxMjJlZGRjMTkwNWQwNWVkZTdmNmI5NWVjNWQxMGVi`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQ4NjljMjA1MDQzY2M3YjAxMTY3NjIzMDkyYTExMGRl`

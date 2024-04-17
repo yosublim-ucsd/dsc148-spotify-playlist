@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,882 songs - 4 day 5 hr 29 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,883 songs - 4 day 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1890,5 +1890,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1880 | [Spit It Out \- Hyper Version](https://open.spotify.com/track/6ftph4VaiX6aG2NwZUWd3q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:24 |
 | 1881 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
 | 1882 | [In This Darkness](https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ) | 3:17 |
+| 1883 | [Moving Body](https://open.spotify.com/track/5xlfaqSM2xoOJH3ObTfEnc) | [TNMN](https://open.spotify.com/artist/3lgh0lWovwBcXgL0Ws5j1j) | [RCKLSS014](https://open.spotify.com/album/5AJCAzuRIrvhYG2ah1w13p) | 6:40 |
 
-Snapshot ID: `NzQyLDZkM2M0MDQzYTA5NDVhYTgxMzE2YjZlYTViOWMxZTZmNDY4MDM1NGI=`
+Snapshot ID: `NzQzLGEzNTAwNGM5ZTU0ZWE2ZGY3MzIxZjI1ODUzOWI4OWRiNjQ4OGIzODY=`

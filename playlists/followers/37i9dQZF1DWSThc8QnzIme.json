@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 277455,
+  "2024-04-17": 277547,
   "date_first_scraped": "2022-05-19",
   "description": "Breeze through your commute with these pop favorites. Cover: Sabrina Carpenter",
   "name": "Pop Drive",
@@ -5446,6 +5446,24 @@
     },
     {
       "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
+    },
+    {
+      "album": {
         "name": "Moderaci\u00f3n (Con Camilo)",
         "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
       },
@@ -6321,7 +6339,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 207540,
       "name": "Rock and A Hard Place",
       "url": "https://open.spotify.com/track/1nPtZ8OtmKeyYZhbMAYbQP"

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: Öykü Dörter  Çizim: Isu Kim
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: zei  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,322 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,330 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 |
-| 2 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 |
+| 1 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 |
+| 2 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 |
 | 3 | [Rüzgarın Peşinde](https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Rüzgarın Peşinde](https://open.spotify.com/album/3fsBYajHJEHVWHL9Qw6ZQ8) | 3:34 |
 | 4 | [Dert](https://open.spotify.com/track/7nC6FSSptHkkSyPdTmxjMZ) | [Kalabalıklar](https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw) | [Dert](https://open.spotify.com/album/6T0TdsD6fFHBIQmTxoV1jf) | 3:08 |
 | 5 | [sen de](https://open.spotify.com/track/7zfEO4Oqn023FOmfclIZeQ) | [Lagün](https://open.spotify.com/artist/5Yy8XTG2GZrGjvU28VfrBs) | [sen de](https://open.spotify.com/album/77mT8Ns5ieWUyfGPH83Cxf) | 2:35 |
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 7 | [Doğmamış Biri](https://open.spotify.com/track/2SIrBBwsM9OQlGz0XtyQcv) | [Son Kalanlar](https://open.spotify.com/artist/3SC1qh0ohwLEdmj5JPtrb0) | [Doğmamış Biri](https://open.spotify.com/album/0txBYfE2zdrpCjxDlihK18) | 2:41 |
 | 8 | [Kaçsam Bırakıp](https://open.spotify.com/track/1VF6iuonrZ6MDO8BKn2FU4) | [Selin Baycan](https://open.spotify.com/artist/1uTdiTi2LPWZlVSmOMFcmM) | [Kaçsam Bırakıp](https://open.spotify.com/album/68P1n0d3aukCZ2iJnurYTl) | 1:51 |
 | 9 | [Keçi](https://open.spotify.com/track/4Paf86CT5iSwaXlMlbuEeI) | [babelfis](https://open.spotify.com/artist/1sfFcjCAS3MhmZzCYoKNA7) | [Keçi](https://open.spotify.com/album/3voRppw0Wog6rx03zer2rm) | 3:10 |
-| 10 | [Seni̇ Gömmek İstedi̇m](https://open.spotify.com/track/1Lzde2pW1mbMmj0TaCpCCc) | [İstare](https://open.spotify.com/artist/4ijaHaxu3vk1teLi79A9Ob) | [Seni̇ Gömmek İstedi̇m](https://open.spotify.com/album/298m4OgXbNhMqMItSAKExK) | 3:01 |
-| 11 | [Cihangir](https://open.spotify.com/track/6yD3ZFNyUyumvQ84dIBNd5) | [Flamel](https://open.spotify.com/artist/6rm9WFWdKMG7HRKVsEHa5D) | [Cihangir](https://open.spotify.com/album/33z7tZSyJx8sJyoYQxfFZE) | 1:40 |
-| 12 | [HEVESLERİN PEŞİNDE](https://open.spotify.com/track/1mfHbCmWteTF2tOqqmhVnd) | [neptün’ün rüyası](https://open.spotify.com/artist/5vLs8u6ZXGddPTrJN0EjUK) | [HEVESLERİN PEŞİNDE](https://open.spotify.com/album/2L1gIsnMsP8qtgmjqOmVuk) | 3:25 |
-| 13 | [kin](https://open.spotify.com/track/3Y7Tioki19ECVjCEwbRX53) | [yung beer](https://open.spotify.com/artist/3DnGfl82ssSpfuV5jpMqvH) | [kin](https://open.spotify.com/album/3pHiDLOtynhawaTZRPhJ4s) | 2:30 |
-| 14 | [ACI KAHVE](https://open.spotify.com/track/0DAwByiPQzGz2GMTmmhswi) | [Fuyki](https://open.spotify.com/artist/0nfjNN0WuAnohvaFpreZjt) | [ACI KAHVE](https://open.spotify.com/album/5CXchxrkUW3BQhOESEyGBa) | 3:38 |
-| 15 | [Seninle Kayboldum](https://open.spotify.com/track/4w5okMv5ozc1RjUFNn9au5) | [Ugy](https://open.spotify.com/artist/0pwt8RVSkO9AzrIk652cuJ) | [Seninle Kayboldum](https://open.spotify.com/album/76TGBEgOxFZ6HbSsU1as2N) | 2:33 |
-| 16 | [Yaralar Almışsın](https://open.spotify.com/track/3iRdBxfpTFe6mA6c2pt087) | [Lil Dia](https://open.spotify.com/artist/03kA89I4rmsLuUFiZVlZD9) | [Yaralar Almışsın](https://open.spotify.com/album/7Ig5YBPpLYmj2Yk5Q8vHMF) | 3:26 |
-| 17 | [Bu Günler Geçsin](https://open.spotify.com/track/6Flk7DhwcwlpKW1ylgzNeX) | [İpek Özcan](https://open.spotify.com/artist/2E9ccxAgaGu6DT1rCNfFsG) | [Bu Günler Geçsin](https://open.spotify.com/album/6jIkI8Uef9GtA2ApEYAzV0) | 3:02 |
-| 18 | [Bu Çukurdan](https://open.spotify.com/track/1YHtihErrTguiByJPUMgvl) | [Güneş Kardeş](https://open.spotify.com/artist/0A8uyrNe5CqlglaVUeTov3) | [Bu Çukurdan](https://open.spotify.com/album/1ZoN2IjdcBRLZ6hNC1gwne) | 3:46 |
-| 19 | [Yüzlerce Pencere](https://open.spotify.com/track/17TtXrAffoROFjk49nOmLh) | [Prova İptal](https://open.spotify.com/artist/55hAc8PaVVnm70Gqcml5sg) | [Yüzlerce Pencere](https://open.spotify.com/album/7nt3OCJfFPncKOXdCLBOw0) | 3:35 |
-| 20 | [bu gece](https://open.spotify.com/track/38Kmueobfs1ZozSUu0B5RV) | [MAY](https://open.spotify.com/artist/6794QEoE9Xgw29m4WPd1ul) | [bu gece](https://open.spotify.com/album/3t3efO1myNq0auI5ySFv4r) | 3:36 |
+| 10 | [bu gece](https://open.spotify.com/track/38Kmueobfs1ZozSUu0B5RV) | [MAY](https://open.spotify.com/artist/6794QEoE9Xgw29m4WPd1ul) | [bu gece](https://open.spotify.com/album/3t3efO1myNq0auI5ySFv4r) | 3:36 |
+| 11 | [Seni̇ Gömmek İstedi̇m](https://open.spotify.com/track/1Lzde2pW1mbMmj0TaCpCCc) | [İstare](https://open.spotify.com/artist/4ijaHaxu3vk1teLi79A9Ob) | [Seni̇ Gömmek İstedi̇m](https://open.spotify.com/album/298m4OgXbNhMqMItSAKExK) | 3:01 |
+| 12 | [Cihangir](https://open.spotify.com/track/6yD3ZFNyUyumvQ84dIBNd5) | [Flamel](https://open.spotify.com/artist/6rm9WFWdKMG7HRKVsEHa5D) | [Cihangir](https://open.spotify.com/album/33z7tZSyJx8sJyoYQxfFZE) | 1:40 |
+| 13 | [HEVESLERİN PEŞİNDE](https://open.spotify.com/track/1mfHbCmWteTF2tOqqmhVnd) | [neptün’ün rüyası](https://open.spotify.com/artist/5vLs8u6ZXGddPTrJN0EjUK) | [HEVESLERİN PEŞİNDE](https://open.spotify.com/album/2L1gIsnMsP8qtgmjqOmVuk) | 3:25 |
+| 14 | [Bu Çukurdan](https://open.spotify.com/track/1YHtihErrTguiByJPUMgvl) | [Güneş Kardeş](https://open.spotify.com/artist/0A8uyrNe5CqlglaVUeTov3) | [Bu Çukurdan](https://open.spotify.com/album/1ZoN2IjdcBRLZ6hNC1gwne) | 3:46 |
+| 15 | [kin](https://open.spotify.com/track/3Y7Tioki19ECVjCEwbRX53) | [yung beer](https://open.spotify.com/artist/3DnGfl82ssSpfuV5jpMqvH) | [kin](https://open.spotify.com/album/3pHiDLOtynhawaTZRPhJ4s) | 2:30 |
+| 16 | [ACI KAHVE](https://open.spotify.com/track/0DAwByiPQzGz2GMTmmhswi) | [Fuyki](https://open.spotify.com/artist/0nfjNN0WuAnohvaFpreZjt) | [ACI KAHVE](https://open.spotify.com/album/5CXchxrkUW3BQhOESEyGBa) | 3:38 |
+| 17 | [Seninle Kayboldum](https://open.spotify.com/track/4w5okMv5ozc1RjUFNn9au5) | [Ugy](https://open.spotify.com/artist/0pwt8RVSkO9AzrIk652cuJ) | [Seninle Kayboldum](https://open.spotify.com/album/76TGBEgOxFZ6HbSsU1as2N) | 2:33 |
+| 18 | [Yaralar Almışsın](https://open.spotify.com/track/3iRdBxfpTFe6mA6c2pt087) | [Lil Dia](https://open.spotify.com/artist/03kA89I4rmsLuUFiZVlZD9) | [Yaralar Almışsın](https://open.spotify.com/album/7Ig5YBPpLYmj2Yk5Q8vHMF) | 3:26 |
+| 19 | [Bu Günler Geçsin](https://open.spotify.com/track/6Flk7DhwcwlpKW1ylgzNeX) | [İpek Özcan](https://open.spotify.com/artist/2E9ccxAgaGu6DT1rCNfFsG) | [Bu Günler Geçsin](https://open.spotify.com/album/6jIkI8Uef9GtA2ApEYAzV0) | 3:02 |
+| 20 | [Yüzlerce Pencere](https://open.spotify.com/track/17TtXrAffoROFjk49nOmLh) | [Prova İptal](https://open.spotify.com/artist/55hAc8PaVVnm70Gqcml5sg) | [Yüzlerce Pencere](https://open.spotify.com/album/7nt3OCJfFPncKOXdCLBOw0) | 3:35 |
 | 21 | [İyice](https://open.spotify.com/track/426wK2C1H84Hbc6prZ867Y) | [nisan](https://open.spotify.com/artist/3aQGRAu09wYHPR1u9bVn2U), [Neva](https://open.spotify.com/artist/5Mc80B08U84VTd98nZcvuD) | [İyice](https://open.spotify.com/album/4hNXpTZQWuDDCjPDhIkSRs) | 2:08 |
 | 22 | [Neden Neden](https://open.spotify.com/track/6x86qYo6EO8drQVjF24TKJ) | [Karambol](https://open.spotify.com/artist/27FDgyQe3lWYySeW2AyJy3) | [Neden Neden](https://open.spotify.com/album/3ZXV0JTS7Ilc8EpRdMfFGF) | 2:46 |
 | 23 | [Ruhum](https://open.spotify.com/track/24J7xT2LzcTXAu9OtP5RlR) | [Marul](https://open.spotify.com/artist/73tRYQEuJ4JUrQLOtP9wpm) | [Ruhum](https://open.spotify.com/album/6XV4k4Dk5U1qsDGV95C0or) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Terk Ettin](https://open.spotify.com/track/1iGdWwh6UYVjMTCjKb0CQb) | [Sudenur Güntekin](https://open.spotify.com/artist/2w7QA4rdNppD7JQabQdexC), [Evasion](https://open.spotify.com/artist/0aNlPPYONVD0RHp6oaUdIl) | [Terk Ettin](https://open.spotify.com/album/1qLqnm2ccY0N6cKWCm0TW6) | 3:32 |
 | 50 | [Basmakalıp](https://open.spotify.com/track/3piyEfUU457Cvdhb04TcFe) | [Dağtaş](https://open.spotify.com/artist/4nWyPWiOoxzV1ODFZb0VC6) | [Basmakalıp](https://open.spotify.com/album/1Ya4yrpBh4pCw0V4ZsnazV) | 3:24 |
 
-Snapshot ID: `MTcxMjY5NjQwMCwwMDAwMDAwMDViMjFhM2RhZGRlYmU0ZjE1ZDA3ZGQyYTA4ZTVjNjk1`
+Snapshot ID: `MTcxMzMwMTIwMCwwMDAwMDAwMDRjMTk2Y2Y4NWQxNjE4Y2JhYmMxNzI3ZmI4NTcyMDhm`

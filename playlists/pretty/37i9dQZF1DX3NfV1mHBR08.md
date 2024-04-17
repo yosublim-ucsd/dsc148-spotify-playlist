@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,930 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,924 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 26 | [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 |
 | 27 | [Night Drive](https://open.spotify.com/track/7azmn7M9mRnHzyqxzjMsNe) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:27 |
 | 28 | [Breath](https://open.spotify.com/track/7pJcMkVanPZDqWrF7Rxml6) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [I am A Dreamer](https://open.spotify.com/album/6ceHoTiPm8m5gera0XdBOW) | 4:44 |
-| 29 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
-| 30 | [수고했어, 오늘도 Cheer Up](https://open.spotify.com/track/74S870utHcrils7QiOw0Jh) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [28](https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull) | 2:59 |
+| 29 | [수고했어, 오늘도 Cheer Up](https://open.spotify.com/track/74S870utHcrils7QiOw0Jh) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [28](https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull) | 2:59 |
+| 30 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
 | 31 | [Fix me](https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:06 |
 | 32 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
 | 33 | [Bravo, My Life!](https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB) | 4:05 |

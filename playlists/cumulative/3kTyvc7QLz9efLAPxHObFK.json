@@ -21607,6 +21607,24 @@
     },
     {
       "album": {
+        "name": "Open Your Mind (Original Mix)",
+        "url": "https://open.spotify.com/album/7d2fiQZhbWBOSL5RGtZrv1"
+      },
+      "artists": [
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130386,
+      "name": "Tanano - Original Mix",
+      "url": "https://open.spotify.com/track/3FTwkDGGep7ZZBY8rPRLOy"
+    },
+    {
+      "album": {
         "name": "Rest In Pieces",
         "url": "https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr"
       },

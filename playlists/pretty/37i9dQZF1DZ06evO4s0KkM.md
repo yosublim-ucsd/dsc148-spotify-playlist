@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 ### [This Is Dropkick Murphys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s0KkM)
 
-> This is: Dropkick Murphys\. Alle wichtigen Tracks in einer Playlist.
+> This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,299 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,302 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [God Willing](https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:16 |
 | 50 | [Never Git Drunk No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:25 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDMyMzA5MjgzOGI0NjhlZGMzY2IwOWNmZTI5NjE3YzVj`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDA2ZjZjYjE3MWZhMTg5MmZkYWFiOGMxMTY3MGNiYTk1`

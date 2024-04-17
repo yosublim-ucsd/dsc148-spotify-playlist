@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,630 likes - 68 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,648 likes - 68 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

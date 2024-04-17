@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 ### [This Is Aitana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4hy48b)
 
-> This is Aitana\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Aitana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,557 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,567 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 48 | [A la calle](https://open.spotify.com/track/2LH0ang4YHYvupIFK2P7DS) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:28 |
 | 49 | [Oasis](https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:56 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQ2OTA3OGNlYjMzZTdlY2E0ZDk1ZGVmNjM0MTQzZDY1`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDY3OTI2NDJkZmU2Y2RlZDY1ZWVmMWM3MjlkZjlkZGY2`

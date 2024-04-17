@@ -2,7 +2,7 @@
 
 ### [Dope AF](https://open.spotify.com/playlist/37i9dQZF1DX1kZBqCJkwLM)
 
-> Dope, Asian, and Femme\. Cover: Lilas Ikuta of Yoasobi
+> Dope, Asian, and Femme\. Cover: YOASOBI
 
 216 songs - 11 hr 4 min
 

@@ -1,6 +1,6 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 7696,
+  "num_followers": 7720,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Calentando la Habana",
+      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
         "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 178055,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Calentando la Habana",
-      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
     },
     {
       "added_at": "2024-02-09 05:00:00",

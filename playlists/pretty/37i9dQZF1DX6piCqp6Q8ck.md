@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,314 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,306 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 51 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
 | 52 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
 | 53 | [Mele Kalikimaka](https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:33 |
-| 54 | [What a Night!](https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:23 |
-| 55 | [The Very Best Day This Year](https://open.spotify.com/track/2SYfeTvbD7cjxDRCm6LSTe) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Mark Armstrong](https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy), [Steve Memmolo](https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv) | [The Season's Back Again](https://open.spotify.com/album/2w32SlRvzHGycxGXbvCzS1) | 2:56 |
+| 54 | [The Very Best Day This Year](https://open.spotify.com/track/2SYfeTvbD7cjxDRCm6LSTe) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Mark Armstrong](https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy), [Steve Memmolo](https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv) | [The Season's Back Again](https://open.spotify.com/album/2w32SlRvzHGycxGXbvCzS1) | 2:56 |
+| 55 | [What a Night!](https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:23 |
 | 56 | [We Three Kings](https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Dan Brubeck](https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz), [Jack Six](https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX), [Randy Jones](https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 3:00 |
 | 57 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |
 | 58 | [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/2VOdqW6WMnCGeJRQDE4rR1) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [A Big Band Christmas](https://open.spotify.com/album/10jafPwL637Df1uCD6Hxkt) | 2:43 |

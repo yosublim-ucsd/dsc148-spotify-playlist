@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 74497,
+  "2024-04-17": 74498,
   "date_first_scraped": "2023-03-18",
   "description": "A sonic wonderland of mesmerizing tunes...",
   "name": "Kaleidoscope",
@@ -387,7 +387,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 174555,
       "name": "Arrecifes",
       "url": "https://open.spotify.com/track/0wfjFrIkU2HsVBs1J11vZq"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 252557,
       "name": "Cholericly Yours",
       "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
@@ -1337,6 +1337,24 @@
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/0Qxgm4flEqA09NPyvMaM12"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368770,
+      "name": "Daydream Repeat",
+      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
     },
     {
       "album": {
@@ -1859,6 +1877,24 @@
       "duration_ms": 217500,
       "name": "Fight Club",
       "url": "https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH"
+    },
+    {
+      "album": {
+        "name": "The Sunset Violent",
+        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277285,
+      "name": "Fishbrain",
+      "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
     },
     {
       "album": {
@@ -2717,7 +2753,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
@@ -2814,6 +2850,24 @@
     },
     {
       "album": {
+        "name": "Love in Constant Spectacle",
+        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257226,
+      "name": "Love in Constant Spectacle",
+      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
       },
@@ -2865,7 +2919,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 204826,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj"
@@ -3356,6 +3410,24 @@
     },
     {
       "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -3823,7 +3895,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 201755,
       "name": "Pixel",
       "url": "https://open.spotify.com/track/065VWQC5RvCDtlK1EoArnb"
@@ -4164,6 +4236,24 @@
     },
     {
       "album": {
+        "name": "rimel",
+        "url": "https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126066,
+      "name": "rimel",
+      "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
+    },
+    {
+      "album": {
         "name": "Extinct but Still Alive",
         "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
       },
@@ -4389,10 +4479,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 218283,
       "name": "See you soon",
       "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
+    },
+    {
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220192,
+      "name": "See you soon",
+      "url": "https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O"
     },
     {
       "album": {
@@ -5394,6 +5502,24 @@
     },
     {
       "album": {
+        "name": "Vallahi Yok / Kirik Cam",
+        "url": "https://open.spotify.com/album/5vItyofUlifKHKLabwy3hC"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/22TIuZCNYKuuXmkA4rIY0V"
+    },
+    {
+      "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
@@ -5727,7 +5853,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/1MNVD317QVs6Zuuy4qNQyN"

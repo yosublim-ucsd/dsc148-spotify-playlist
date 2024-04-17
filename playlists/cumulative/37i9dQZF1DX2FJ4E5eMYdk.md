@@ -4,7 +4,7 @@
 
 > groovy.
 
-139 songs - 9 hr 40 min
+140 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Motions \- Far Out Version](https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ) | 5:31 | 2021-10-08 | 2022-07-29 |
 | [Motions \- Far Out Version](https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR) | 5:31 | 2022-07-22 |  |
 | [My Game](https://open.spotify.com/track/7yAXpAYFiPqKzyi86xXbLQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [My Game](https://open.spotify.com/album/6GLUWw271MCvjhDcp7sd31) | 3:30 | 2021-10-08 | 2022-03-18 |
-| [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 | 2022-04-15 |  |
+| [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 | 2022-04-15 | 2024-04-17 |
 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 | 2022-07-22 |  |
 | [New Moon](https://open.spotify.com/track/69RVRzm0NGlg1qi7GgA5J5) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [New Moon](https://open.spotify.com/album/7fTjGWzWtuslYB5DBzOrZC) | 5:10 | 2021-10-08 | 2022-07-29 |
 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 | 2022-07-22 |  |
@@ -131,6 +131,7 @@
 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 | 2021-10-08 | 2022-07-29 |
 | [The Last Dance](https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl) | 3:24 | 2022-07-22 | 2024-02-11 |
 | [The Last Dance](https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/61xkcDOeRRSetouvqU2d3w) | 3:24 | 2022-07-22 | 2022-11-14 |
+| [The Light Of Day](https://open.spotify.com/track/3qtIvjBFZnXMoTqsxfoih5) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Siren's Song](https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2) | 2:52 | 2023-12-12 |  |
 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 | 2021-10-08 | 2023-06-22 |
 | [The Roundabout](https://open.spotify.com/track/10QvTOyNpzBZpctcbP1tY1) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [The Roundabout](https://open.spotify.com/album/27gVRqHKsrlPniSNE4IPza) | 4:41 | 2022-07-22 | 2022-11-13 |
 | [The Roundabout](https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6) | 4:41 | 2022-07-22 |  |

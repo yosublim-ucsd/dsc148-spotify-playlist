@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,946 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,045 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

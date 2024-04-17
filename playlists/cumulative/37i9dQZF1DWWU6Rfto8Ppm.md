@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-431 songs - 1 day 1 hr 43 min
+432 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,11 +105,11 @@
 | [Dime Si Te Vas Con Él](https://open.spotify.com/track/4p1EW0DhhmG7YrpTLmJAag) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60) | [La Evolución Romantic Style](https://open.spotify.com/album/0LKlkRiqPFd3EZSjUsHqMN) | 3:55 | 2023-07-24 |  |
 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 | 2021-12-17 |  |
 | [Don't Stop](https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando A La Yal \(Special Edition\)](https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7) | 3:39 | 2021-12-17 | 2022-07-10 |
-| [Doncella](https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando A La Yal \(Special Edition\)](https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7) | 3:10 | 2021-12-17 | 2023-10-19 |
+| [Doncella](https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando A La Yal \(Special Edition\)](https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7) | 3:10 | 2021-12-17 |  |
 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 | 2022-07-27 |  |
 | [Donde Estan Las Gatas \(feat\. Nicky Jam\)](https://open.spotify.com/track/3Kemg5QPEhEjOiWUFrTkXX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Alex Gargolas Greatest Hits](https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [Donde Hubo Fuego](https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 3:25 | 2021-12-17 | 2022-07-29 |
-| [Dos Palgas](https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 3:23 | 2022-07-27 |  |
+| [Dos Palgas](https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 3:23 | 2022-07-27 | 2024-04-17 |
 | [Down](https://open.spotify.com/track/09QZbXkrHRww7Epv7qSnL0) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Reggaeton Simply The Best](https://open.spotify.com/album/77bdlkmKZ719XLIOnmftMP) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [Down](https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:45 | 2022-07-27 |  |
 | [Déjale Caer To' El Peso \(feat\. Yomo\)](https://open.spotify.com/track/6W19gzjtJOUi2lykSByW9a) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/69cVjPP0763yVDKiD0ZM49) | 4:08 | 2023-12-21 |  |
@@ -302,6 +302,7 @@
 | [Quiero Bailar](https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva \(Platinum Edition\)](https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf) | 3:06 | 2023-12-21 |  |
 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2022-12-07 | 2024-04-13 |
 | [Quiero Saber](https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 2:55 | 2021-12-17 | 2024-04-13 |
+| [Quiero Saber](https://open.spotify.com/track/5urJPdx62YBXvdc1MXfi06) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva \(Platinum Edition\)](https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf) | 2:55 | 2023-12-21 |  |
 | [Quiero una Chica](https://open.spotify.com/track/2fHkNZLuGbBGCw2jrNScwd) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/6xOGIp8MvIrOwSwkwaCheM) | 3:25 | 2023-10-05 | 2024-01-25 |
 | [Quiero una Chica](https://open.spotify.com/track/5SLr9gbC0irFDJQx5gY3p4) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe) | 3:25 | 2023-12-21 |  |
 | [Quiero una Chica](https://open.spotify.com/track/3afj5hDroznm9rXBsqY2cg) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:37 | 2021-12-17 | 2023-11-19 |
@@ -416,7 +417,7 @@
 | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/track/5yzlHHENdJU1KzYM8MuL9g) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0O7TKtaIrzDxjjWxVDL7AZ) | 4:11 | 2022-12-16 | 2023-03-02 |
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y) | 4:12 | 2022-12-16 |  |
 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f) | 4:12 | 2022-07-27 | 2023-03-01 |
-| [Villana](https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/3WevV5bSmPBELWxYeCBIqc) | 2:24 | 2022-07-27 |  |
+| [Villana](https://open.spotify.com/track/3dvmH4H92kg3IR1FeimUFw) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/3WevV5bSmPBELWxYeCBIqc) | 2:24 | 2022-07-27 | 2024-04-17 |
 | [Villana](https://open.spotify.com/track/53chAlZL168uo8eVAs2bdS) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/63Brxfj0nY3twg5MQg5tRz) | 2:24 | 2021-12-17 | 2022-05-15 |
 | [Virtual Diva](https://open.spotify.com/track/0vnzk4L0JyMODSqLp3pHwo) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Virtual Diva](https://open.spotify.com/album/5tOWTmiFfFhNUuYntiopu8) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Volverás a Mí](https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [La Voz](https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi) | 3:16 | 2021-12-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Maggie Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,558 likes - 175 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,023 likes - 175 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 12 | [Supa Anxious](https://open.spotify.com/track/3t2st5RjfWaXGD5Ko3Rc0a) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Supa Anxious](https://open.spotify.com/album/1zKd9oSyXg4tTf2VePtRV8) | 2:27 |
 | 13 | [How Can I Love Her More?](https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [How Can I Love Her More?](https://open.spotify.com/album/4AflCecOU26ScUgd34omyk) | 2:47 |
 | 14 | [Reaching Out](https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Reaching Out](https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO) | 4:15 |
-| 15 | [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 |
+| 15 | [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 |
 | 16 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 |
 | 17 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 |
 | 18 | [Until We Meet Again](https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Until We Meet Again](https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub) | 3:01 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 122 | [Lover’s Rock](https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Lover’s Rock](https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z) | 2:28 |
 | 123 | [I’ll Do Whatever You Want \(feat\. Floating Points, Laraaji\)](https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [I’ll Do Whatever You Want](https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd) | 7:43 |
 | 124 | [Hello Dear](https://open.spotify.com/track/6WY65n6MfeVUhJw02u5yGN) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Hello Dear](https://open.spotify.com/album/0xknIgJiSkwccvklbfZXaX) | 2:52 |
-| 125 | [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 |
+| 125 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 | 126 | [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 |
 | 127 | [Lay Low](https://open.spotify.com/track/2SevRLh8Gv98ETpcZlKxwy) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Lay Low](https://open.spotify.com/album/4CQ4uzGBKixmgTIG8kZlNM) | 3:24 |
 | 128 | [As The Dogs Were Playing](https://open.spotify.com/track/3G3mzsZRaLMOuNH2cT0IG2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 2:12 |

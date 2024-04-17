@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈 Cover: Sara Landry
 
-100 songs - 8 hr 29 min
+101 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 |  |
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 |  |
 | [Maxillary](https://open.spotify.com/track/5AmuUxZMohX4OID3qErMhM) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Maxillary Marble](https://open.spotify.com/album/3Hn6c5CEHBiaWbeGQ75xuX) | 4:08 | 2024-04-09 |  |
+| [Meet Her At The Love Parade \- Mixed Cut](https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [OneSeventy: The Annual II](https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev) | 2:44 | 2024-04-09 |  |
 | [Move It](https://open.spotify.com/track/3gnH53dSgNvqUvxrgDpYPo) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Move It](https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T) | 4:33 | 2024-04-09 |  |
 | [MUJER](https://open.spotify.com/track/3tCyfFH3PpwDGtXzoGqjJR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [MUJER](https://open.spotify.com/album/4bBFwCZ0I4VLSLqgYgsAjL) | 3:01 | 2024-04-09 |  |
 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 | 2024-04-09 |  |
@@ -71,7 +72,7 @@
 | [Never Enough](https://open.spotify.com/track/0g1UEsa2bqif2D0hlmxUfI) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Never Enough](https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF) | 5:27 | 2024-04-09 |  |
 | [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 | 2024-04-09 |  |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 |  |
-| [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 |  |
+| [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 |  |
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 |  |
 | [Psychotic Mind](https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Psychotic Mind](https://open.spotify.com/album/2RqwbCQR1obP0cIQTkcbRW) | 5:15 | 2024-04-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 
 > Ajude seu bebê a adormecer com esta playlist relaxante com as favoritos da Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,088 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,166 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

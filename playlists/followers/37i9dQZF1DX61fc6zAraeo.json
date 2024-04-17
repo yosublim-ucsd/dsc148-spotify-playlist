@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 98430,
+  "2024-04-17": 98393,
   "date_first_scraped": "2024-02-08",
   "description": "Dance tracks for your power moves",
   "name": "Power Up!",
@@ -771,7 +771,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 149571,
       "name": "Every Single Time (I Look At You)",
       "url": "https://open.spotify.com/track/4BvdEc7bbkV6b1rTA0JVy5"
@@ -2069,6 +2069,24 @@
       "duration_ms": 127734,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp"
+    },
+    {
+      "album": {
+        "name": "Ripped",
+        "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Ripped",
+      "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-562 songs - 1 day 11 hr 41 min
+563 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2020-10-20\* |  |
 | [A Time for Love](https://open.spotify.com/track/2PxYJDohsBXaBLByHBITp5) | [Peter Rostov Trio](https://open.spotify.com/artist/6fbkQAxn9Df2sZWwuYQ820) | [A Portrait of Jennie](https://open.spotify.com/album/1UahARgInHkxb4fqm8455I) | 3:48 | 2020-10-20\* | 2020-11-18 |
 | [Above All](https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Above All](https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ) | 3:02 | 2023-11-24 |  |
-| [Adagio](https://open.spotify.com/track/52wEWSEvL2a08E7wRXSrbY) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Adagio](https://open.spotify.com/album/2pY74KxhJHuvFtI3QXlrtE) | 2:56 | 2023-10-13 |  |
+| [Adagio](https://open.spotify.com/track/52wEWSEvL2a08E7wRXSrbY) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Adagio](https://open.spotify.com/album/2pY74KxhJHuvFtI3QXlrtE) | 2:56 | 2023-10-13 | 2024-04-17 |
 | [After You've Gone](https://open.spotify.com/track/1nCak4c8NFMJosxYkDZY2t) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:19 | 2020-10-20\* | 2022-09-16 |
 | [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-04-20 |  |
 | [After You've Gone](https://open.spotify.com/track/1dtR7BTT8888rsckbuzwod) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [After You've Gone](https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i) | 3:04 | 2020-10-20\* | 2021-01-21 |
@@ -73,6 +73,7 @@
 | [Beloved Dance](https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Beloved Dance](https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1) | 3:03 | 2024-01-12 |  |
 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 | 2023-08-17 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 | 2020-11-05 |  |
+| [Beyond Repair](https://open.spotify.com/track/1NoYlAyood0wY0mN8DvqsU) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Beyond Repair](https://open.spotify.com/album/0iFwdwfjWu9AQwhzxOKQEr) | 4:39 | 2024-03-22 |  |
 | [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-04-26 | 2024-03-10 |
 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 | 2022-06-01 |  |
 | [Blame It on My Youth](https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:17 | 2021-01-21 | 2022-06-01 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 ### [This Is Danny Ocean](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lWjLU)
 
-> This is Danny Ocean\. The essential tracks, all in one playlist.
+> This Is Danny Ocean\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,517 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,625 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 48 | [Picó](https://open.spotify.com/track/3o51j5414efaBNRoqzu60B) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Picó](https://open.spotify.com/album/7kA9ZjLyi8S8rSzJbNR8iL) | 2:45 |
 | 49 | [Mónaco \- LoFi Version](https://open.spotify.com/track/0ZYAxyqDsbJzamxBotAb1S) | [LoFi HITS](https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Mónaco \(LoFi Version\)](https://open.spotify.com/album/0GXHy7qkfGgTGfWRHv7AJH) | 2:59 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDMzYjY4M2E4N2RlMTNjYjE4ZTE4YjIwYjdkOTJjNWYz`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDQ1ZDAyYWEyZjQyYTBmNzgwNjUzODEzZmVhZDA0OWQ5`

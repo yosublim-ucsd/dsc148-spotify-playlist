@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,988 likes - 91 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,456 likes - 91 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 47 | [Pandora \(Part Deux\)](https://open.spotify.com/track/3MhUnHXh9g2ph3iOBh6KCY) | [Ajie Gergaji](https://open.spotify.com/artist/0K24CkYcxAoXu2YgmdHuIS), [Yustie \(Female\)](https://open.spotify.com/artist/6SOFZaPWM70rktmx1OCwsW) | [Pandora \(Part Deux\)](https://open.spotify.com/album/3zIRn3Q3jdRCSNkQeWQ0mM) | 5:20 |
 | 48 | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg) | 2:48 |
 | 49 | [Youth2Youth](https://open.spotify.com/track/4jxftDEbX3u20EROtLpKyf) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 1st Album Youth Chapter 1 : YOUTH DAYS](https://open.spotify.com/album/3xZNZfIXPxCwTCaNSXjYKi) | 3:20 |
-| 50 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 |
+| 50 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 |
 | 51 | [Bye My Monster](https://open.spotify.com/track/7MV68p0TgX9YAo1y3SyjU8) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Beautiful Shadow](https://open.spotify.com/album/5nXv3AmmxYJit6u1OPkmMI) | 3:26 |
 | 52 | [We′re together](https://open.spotify.com/track/3ElJUdyYU6Aibj2vqpMgWy) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 2nd Mini Album ′REBOOT′](https://open.spotify.com/album/7bammykHiwzDd4uk0vGVpa) | 3:13 |
 | 53 | [Over \(a Hidden Truth\)](https://open.spotify.com/track/2e9T1tE9aFzPRF0RqvRt4M) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [I'm the Queen in This Life \(Original Soundtrack\) Part.3](https://open.spotify.com/album/1UcPDJhFq3s5yEi6Y0RjrA) | 3:14 |

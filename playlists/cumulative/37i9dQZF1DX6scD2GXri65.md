@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-192 songs - 10 hr 38 min
+193 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Church of Hell \- Redhot Remix](https://open.spotify.com/track/1zOJTDiZP3uXqvNfN3jpKD) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [Church of Hell \(Redhot Remix\)](https://open.spotify.com/album/5V57NTyGp4U71abnYXO9wt) | 2:15 | 2023-10-19 | 2023-11-10 |
 | [CLUB BANGER](https://open.spotify.com/track/72j7y7nVfhi69H8X8oRbye) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [CLUB BANGER](https://open.spotify.com/album/2qKRkYCu6GqfL4tcQonqpO) | 3:36 | 2022-12-08 | 2023-07-01 |
 | [Come Take My Hand \- Ran\-D Remix](https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Come Take My Hand \(Ran\-D Remix\)](https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4) | 4:22 | 2022-12-08 | 2024-04-14 |
+| [Come Take My Hand \- Ran\-D Remix](https://open.spotify.com/track/7nypeU3hLjP6ZbZdmCkO1w) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Come Take My Hand \(Ran\-D Remix\)](https://open.spotify.com/album/14sJTIcqHrSTciFVv1cyGF) | 4:22 | 2024-04-08 |  |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-12-08 | 2023-07-01 |
 | [Come With Me](https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Come With Me](https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u) | 2:58 | 2023-02-28 | 2024-03-08 |
 | [Crazy](https://open.spotify.com/track/4yKjG2a8xS68h7J6t9ycGX) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Crazy](https://open.spotify.com/album/6ju4jSGjr31ZaqqFB17IDV) | 2:56 | 2023-02-09 |  |
@@ -135,7 +136,7 @@
 | [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 | 2023-06-22 | 2024-03-08 |
 | [Raw Resurgence \- Official Supremacy 2023 Anthem](https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Raw Resurgence \(Official Supremacy 2023 Anthem\)](https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN) | 5:20 | 2023-12-04 | 2024-03-08 |
 | [Realign](https://open.spotify.com/track/50lXm6nruD49kKZlvxpZGc) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Realign](https://open.spotify.com/album/5PvqY3FPsJVy5jt9ctDieT) | 3:09 | 2024-02-15 |  |
-| [Remedy](https://open.spotify.com/track/4IMmJyNPll5HorW8Ip2HCS) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Remedy](https://open.spotify.com/album/6dcUeAanVoMTEQYT5C8EvB) | 3:08 | 2024-03-20 |  |
+| [Remedy](https://open.spotify.com/track/4IMmJyNPll5HorW8Ip2HCS) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Remedy](https://open.spotify.com/album/6dcUeAanVoMTEQYT5C8EvB) | 3:08 | 2024-03-20 | 2024-04-17 |
 | [Respawn](https://open.spotify.com/track/0fFwgoY1RTsZyC2lhKbzaZ) | [ANDY SVGE](https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp), [Voidax](https://open.spotify.com/artist/2JqPH5sGxBA5lDMUmO5uAE), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Respawn \(feat\. Robin Vane\)](https://open.spotify.com/album/3EJnAee0ffhaYemzufVDKv) | 3:38 | 2022-12-08 | 2023-04-14 |
 | [Rise Of The Tribe](https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Rise Of The Tribe](https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO) | 4:23 | 2023-06-01 | 2024-04-14 |
 | [Rock Tha Party](https://open.spotify.com/track/2y4MGW3z5eMAZTXm7Q0T7V) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Rock Tha Party](https://open.spotify.com/album/7dBMFgErPgPAd1PNTo57Is) | 2:51 | 2022-12-22 | 2024-03-08 |

@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-316 songs - 1 day 3 hr 20 min
+317 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 | 2022-09-09 | 2023-11-12 |
 | [Follow \(Extended Mix\)](https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Follow](https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w) | 4:56 | 2021-12-23 | 2022-11-09 |
 | [Follow the Light \- Monkey Safari Remix](https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp), [VARS](https://open.spotify.com/artist/7dqsxiqiRG5upZhT4bTBd1), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Follow the Light](https://open.spotify.com/album/6EHwa2mEEpPHZKrp12IBWN) | 6:07 | 2021-12-23 | 2022-07-28 |
+| [Following](https://open.spotify.com/track/4hW0NmYZa400gMN5l0gUK3) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Following](https://open.spotify.com/album/2t9PHmQnnvfAEy9JlN1vZ9) | 3:39 | 2024-02-23 |  |
 | [Fool's Gold \- ARPS Mix](https://open.spotify.com/track/3sN4ihJMrBfOZAU3PqlLc3) | [Karol XVII & MB Valence](https://open.spotify.com/artist/00LIVantW8SMg38JskHPbj), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [ARPS](https://open.spotify.com/artist/1wSPM7Q7HYvFPLFk2Ei3nk) | [Fool's Gold](https://open.spotify.com/album/6o5F69DTHxW2YlzeJwrjl8) | 7:00 | 2022-01-14 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Forever](https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X) | 3:12 | 2022-11-16 | 2023-05-12 |
 | [Forget You](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:48 | 2021-12-23 | 2023-07-15 |
@@ -207,7 +208,7 @@
 | [Ntili Ntili](https://open.spotify.com/track/3rxi1qiq07qK8U0GAEp4Rp) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Ntili Ntili](https://open.spotify.com/album/2k6hURmH2rMHTGHzZ2PGe6) | 4:08 | 2022-04-04 | 2022-04-16 |
 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 | 2022-04-04 | 2023-02-04 |
 | [Offline](https://open.spotify.com/track/2Yw2HKLCEcKQS8pRGEsKeM) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Chapter Y](https://open.spotify.com/album/64mVLMUyE76m7NN24xSL5w) | 3:55 | 2022-04-04 | 2022-04-16 |
-| [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 | 2023-02-03 |  |
+| [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 | 2023-02-03 | 2024-04-17 |
 | [Olatu](https://open.spotify.com/track/6yeNK7QQ1dybAnnzIkIGDJ) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Olatu](https://open.spotify.com/album/2zUiWRr6Tl2S8nAVssBsP1) | 3:16 | 2021-12-23 | 2022-02-19 |
 | [on air \(4am version\)](https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air \(versions\)](https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6) | 9:16 | 2022-09-02 | 2024-04-06 |
 | [One Grain](https://open.spotify.com/track/79pgmwpD7OLk22bi87Zgnx) | [Lee Jones](https://open.spotify.com/artist/5auQPeqrOncPRuutwAyjSz) | [One Grain](https://open.spotify.com/album/61S83akpTTS250y1GHnMxE) | 8:06 | 2022-04-04 | 2022-04-18 |

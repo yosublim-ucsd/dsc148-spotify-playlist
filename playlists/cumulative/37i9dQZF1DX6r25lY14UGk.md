@@ -346,6 +346,6 @@
 | [You Are My Sunshine](https://open.spotify.com/track/3XIuHsf6ct8x5trcPEgzho) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [McKnighttime Lullabies](https://open.spotify.com/album/1sh3Rg2dugulwHxl98WTC6) | 2:58 | 2023-10-20 | 2024-02-10 |
 | [You Are Not Alone](https://open.spotify.com/track/2KgDN89wIbocdgIBXrCi0b) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [You Are Not Alone](https://open.spotify.com/album/6gWplVbzEU4t7v1lEEnJRo) | 3:24 | 2022-04-15 | 2024-01-05 |
 | [you can fly](https://open.spotify.com/track/0zquapxRr9z4nFyC4eQ6CA) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:01 | 2023-10-27 | 2024-02-10 |
-| [You're My Best Friend](https://open.spotify.com/track/2OX1VPMZCZfP2jK5OP6c7c) | [Rock and Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [FRIENDS ROCK!](https://open.spotify.com/album/3WNm97PvuXfFNmsyKup2zH) | 3:10 | 2024-03-08 |  |
+| [You're My Best Friend](https://open.spotify.com/track/2OX1VPMZCZfP2jK5OP6c7c) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [FRIENDS ROCK!](https://open.spotify.com/album/3WNm97PvuXfFNmsyKup2zH) | 3:10 | 2024-03-08 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 ### [This Is Mitski](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1qMnXD)
 
-> This is Mitski\. Todos os maiores hits em uma só playlist.
+> This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,368 likes - 45 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,516 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 44 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
 | 45 | [Heat Lightning](https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:51 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDc2NTEyNzBhZjA5YTg3NzJlYjEwOGI5OTgyZmIwOWNm`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGE5ZDAzZWU2OWExOTA0OTJiYzljMDYwMjExZTk3NGQ1`

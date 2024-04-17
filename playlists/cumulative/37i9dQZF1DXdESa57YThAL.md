@@ -4,7 +4,7 @@
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" /「無職転生  ～異世界行ったら本気だす～ 」の楽曲を1つのプレイリストで。©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-51 songs - 2 hr 22 min
+52 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [アリエルの言葉](https://open.spotify.com/track/59czPPFoGKhIMDzQ2VIsCV) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 1:59 | 2023-10-02 |  |
 | [オンリー](https://open.spotify.com/track/7KlkaiPDCmJJlr8EtNUlVr) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [TVアニメ『無職転生 \~異世界行ったら本気だす\~』Theme Song Collection](https://open.spotify.com/album/7mRTg2rytQTQynsJOGWkMQ) | 3:50 | 2023-10-02 |  |
 | [オンリー \- アコースティックVer.](https://open.spotify.com/track/4QutICqWj83KTLNxPnP9wJ) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 1:53 | 2023-10-02 |  |
+| [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 | 2024-04-16 |  |
 | [ギレーヌのこと](https://open.spotify.com/track/5Pjv5fgwvPnpFraxWIho3r) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 \~異世界行ったら本気だす\~』 オリジナル・サウンドトラック2](https://open.spotify.com/album/1oPlAPkVErLoGM8owunDZ6) | 2:16 | 2023-10-02 |  |
 | [シルフィの涙](https://open.spotify.com/track/1m6OIQ8Jgp68aB1LJS1lPg) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 2:12 | 2023-10-02 |  |
 | [ゾルダードの優しさ](https://open.spotify.com/track/3Ocd9AQe5KHf1kkXIABURO) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 3:05 | 2023-10-02 |  |

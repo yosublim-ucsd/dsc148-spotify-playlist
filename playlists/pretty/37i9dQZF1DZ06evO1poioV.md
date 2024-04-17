@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 ### [This Is Brandi Carlile](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1poioV)
 
-> This is Brandi Carlile\. The essential tracks, all in one playlist.
+> This Is Brandi Carlile\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,238 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,249 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [The Things I Regret](https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:26 |
 | 50 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU2ZTkyYjk0NTk1OTM4YTM5YTNjZGVkYmQ4MjYxM2M2`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDY2MzQ4ZTc0MzBjNDYyNWFjMzhmODFmNDU1NjEwZDEw`

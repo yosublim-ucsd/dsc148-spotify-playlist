@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-653 songs - 1 day 12 hr 30 min
+654 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [28](https://open.spotify.com/track/5uVFvURpwMU0HCBp9CKOCn) | [Samuel Oscar](https://open.spotify.com/artist/3LM9ulkERWYOLfwJWmgWio) | [28](https://open.spotify.com/album/450gmNVubfHJ2w80n1kUyX) | 4:20 | 2022-03-29 | 2022-04-20 |
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2024-02-09 |  |
 | [2Am](https://open.spotify.com/track/6aIUdoE2kclr2FLhJiaQV5) | [Adam French](https://open.spotify.com/artist/3bKSSHfw4sQ9YCjJe1V1c5) | [2Am](https://open.spotify.com/album/0z9YUo9WzGlNmSgoCf7ShM) | 3:18 | 2022-03-25 | 2022-07-01 |
-| [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-05-26 |  |
+| [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-05-26 | 2024-04-17 |
 | [501](https://open.spotify.com/track/5Tp6cM02TFg9K1aLKjbeQO) | [Mehalah Ray](https://open.spotify.com/artist/2FyrB3pGnBmM38dqsu4qXK) | [501](https://open.spotify.com/album/02SQmWh56gUEjYFWJjrzhO) | 3:14 | 2022-03-29 | 2022-04-20 |
 | [A Better Place](https://open.spotify.com/track/2nntiOW25ByTmb0r944IqU) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [A Better Place](https://open.spotify.com/album/3rwQZ5w6pjTCXlDE9JlSHy) | 6:01 | 2021-12-16 | 2022-01-17 |
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2021-12-16 | 2022-02-22 |
@@ -567,6 +567,7 @@
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-14 | 2023-05-27 |
 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 | 2024-03-29 |  |
 | [The Lucky Ones](https://open.spotify.com/track/2RwAlmqqMPsBMYC4PewkEt) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Secrets I'll Never Tell](https://open.spotify.com/album/5MVRr1jreJqBg5vM0jjuW8) | 3:36 | 2021-12-16 | 2022-01-12 |
+| [The Mountain Is You](https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [The Mountain Is You](https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS) | 3:16 | 2024-04-12 |  |
 | [The Otherside](https://open.spotify.com/track/3QorTmBB8lYdSO9bGglOrb) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:26 | 2021-12-16 | 2022-02-15 |
 | [The Outside](https://open.spotify.com/track/3E73vIwmxgJxa4hoRB0jHI) | [Craig Eddie](https://open.spotify.com/artist/27O6Q2Y9ImQzCqrRLeRcZY) | [The Outside](https://open.spotify.com/album/1QZwbhICVPiuWZWXYITgcT) | 2:33 | 2021-12-16 | 2022-01-02 |
 | [The Outsider](https://open.spotify.com/track/13Y2OvFGijnHgFEGifRgEl) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:28 | 2022-02-21 | 2023-03-22 |

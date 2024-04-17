@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 411,141 likes - 49 songs - 2 hr 33 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 411,303 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 31 | [Get It All](https://open.spotify.com/track/0RaAhmoE4TuDFNt7ntHYvv) | [DecadeZ](https://open.spotify.com/artist/66rzsIT4PWKYvcxijbtXe1) | [Get It All](https://open.spotify.com/album/0SxW5xu8DQRATbKZpXhUyK) | 3:12 |
 | 32 | [Ein Moment](https://open.spotify.com/track/6N49IX8dvbXrqW4N2gzK9T) | [Grauton](https://open.spotify.com/artist/1YwbMzoB2Az9rvoxs2LTdk), [CMVMVK](https://open.spotify.com/artist/3YuSejXVSq37fpwuJ8cTuU) | [Ein Moment](https://open.spotify.com/album/59Ne0ArCDLsRQIWtBnP2uD) | 2:41 |
 | 33 | [The Last of Us \(With Ellie\)](https://open.spotify.com/track/2VNBzuJgVb692Hb2w38dpM) | [J\-Dub](https://open.spotify.com/artist/3a77a3ke0bgHZUDseOLbWv) | [Art Dealer II: Possession of a Controlled Substance](https://open.spotify.com/album/6jdB6fT69d2CLIxLetXeGp) | 3:14 |
-| 34 | [You Said Goodbye](https://open.spotify.com/track/0K8xU1vwPh644LoEzWb8HX) | [Slick 2H Rick](https://open.spotify.com/artist/0YNarasgF4Eegx2qdFLrsR), [Jaclyn Tomasello](https://open.spotify.com/artist/3k9yTjX82hmjVStQafPYBv) | [You Said Goodbye](https://open.spotify.com/album/3rtE2TfKoSV7Rm8qlRz9Ru) | 3:36 |
+| 34 | [You Said Goodbye](https://open.spotify.com/track/0K8xU1vwPh644LoEzWb8HX) | [Slick 2H Rick](https://open.spotify.com/artist/0YNarasgF4Eegx2qdFLrsR) | [You Said Goodbye](https://open.spotify.com/album/3rtE2TfKoSV7Rm8qlRz9Ru) | 3:36 |
 | 35 | [Super Cool](https://open.spotify.com/track/2Yy5d9il950kWsZcjmm5aC) | [Blade\-ZA](https://open.spotify.com/artist/4bWNlx4buw4tu5f0P98sZq), [Yuno\_kay](https://open.spotify.com/artist/3BEpn9awLyIJFSfDNKhYqS) | [Super Cool](https://open.spotify.com/album/6vipSMQ59olDjigwRPMdrH) | 2:30 |
 | 36 | [BIG \(1\)](https://open.spotify.com/track/4LZJ55fGG0mWPGvJB6tQL9) | [XQRK](https://open.spotify.com/artist/4VDfEA8VhdB8dP5MNhx7mJ) | [BIG \(1\)](https://open.spotify.com/album/24kh5VTgy2DZpMoGrZr528) | 2:00 |
 | 37 | [Merry Christmas Muthafuckas](https://open.spotify.com/track/0nOMTJHM2nhxxi1XCfV1KG) | [Chutch McGillicutty](https://open.spotify.com/artist/6Efd8h1oH1aqid40BIborp) | [DJ Jimmy Chimichanga's Choice Cuts](https://open.spotify.com/album/6m7B9RMCGQIcWxdeAbq8kg) | 2:54 |

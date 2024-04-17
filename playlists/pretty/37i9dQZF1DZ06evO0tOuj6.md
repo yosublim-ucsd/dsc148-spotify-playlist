@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 ### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
+> This Is Tokyo Ska Paradise Orchestra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,230 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,237 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [君と僕](https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [スカパラ登場](https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0) | 2:11 |
 | 50 | [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGUyMGM3MjBlZDdkMzc2ODYxNGI4YjE0YjQ4NDBhYWU4`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDI1NDk3MTNkM2NmZDQ0NmMzN2U0YWYyY2ZmYmM5YmMy`

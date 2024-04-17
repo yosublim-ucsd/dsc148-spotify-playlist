@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,552 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,555 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 19 | [Loose Lips](https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 2:27 |
 | 20 | [Life Time Warranty](https://open.spotify.com/track/4vxsJyTGsAxnXWDuYseeQP) | [Cyberbully Mom Club](https://open.spotify.com/artist/5IZVaIBkyx1ivCXLfpeJXT) | [Amy Locust Whatever](https://open.spotify.com/album/16IBrGQxR5nAVvMVPpP2NE) | 3:23 |
 | 21 | [It's Ok I Wouldn't Remember Me Either](https://open.spotify.com/track/4qvHA882fJyA5XhMF8sDhy) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Narcissist on the Verge of a Nervous Breakdown](https://open.spotify.com/album/0rU30JMeAM6tFaSfsN6345) | 3:04 |
-| 22 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
-| 23 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
-| 24 | [Obligatory Folk Punk Song](https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD) | [Panucci's Pizza](https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi) | [All The Toppings](https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC) | 1:51 |
+| 22 | [Obligatory Folk Punk Song](https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD) | [Panucci's Pizza](https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi) | [All The Toppings](https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC) | 1:51 |
+| 23 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
+| 24 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
 | 25 | [The Voice In My Head](https://open.spotify.com/track/0LopEfv3D6ODNcBKyYtkdJ) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 1:58 |
 | 26 | [Your Heart Is a Muscle the Size of Your Fist](https://open.spotify.com/track/1nQgPRVQN9fM1VdZdMNsC5) | [Ramshackle Glory](https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g) | [Live the Dream](https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr) | 3:40 |
 | 27 | [The Legend of Chavo Guerrero](https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 3:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 39 | [Habits Held](https://open.spotify.com/track/0g5P2jUXS1MajSvTqB9Xzr) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 2:03 |
 | 40 | [owlz](https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Diagonal](https://open.spotify.com/album/6uY20cDnA4MsRjrAFtDYfb) | 3:15 |
 | 41 | [Devil's Will](https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL) | [Cousin Boneless](https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg) | [Revel in the Rubble](https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf) | 3:54 |
-| 42 | [I Saw a Hippie Girl on 8th Ave](https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [It's the Ones Who've Cracked That the Light Shines Through](https://open.spotify.com/album/4GqPBbYTgJ8PrYV3fSB7Db) | 2:02 |
-| 43 | [Once a Loser Aways a Loser](https://open.spotify.com/track/4FBoTpxUkJtJsr5qyY3mSF) | [HappyHappy](https://open.spotify.com/artist/6lBNYwZyzu3pes9Ldf9mkw) | [HappyHappy](https://open.spotify.com/album/2GuPxUaRFiBW2ThTYmT3xp) | 4:57 |
+| 42 | [Once a Loser Aways a Loser](https://open.spotify.com/track/4FBoTpxUkJtJsr5qyY3mSF) | [HappyHappy](https://open.spotify.com/artist/6lBNYwZyzu3pes9Ldf9mkw) | [HappyHappy](https://open.spotify.com/album/2GuPxUaRFiBW2ThTYmT3xp) | 4:57 |
+| 43 | [I Saw a Hippie Girl on 8th Ave](https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [It's the Ones Who've Cracked That the Light Shines Through](https://open.spotify.com/album/4GqPBbYTgJ8PrYV3fSB7Db) | 2:02 |
 | 44 | [Critical Hit](https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I) | [Ghost Mice](https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2) | [Death and Hatred to Mankind](https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t) | 1:59 |
 | 45 | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/track/7I5gYS1jiCj3MDS6NUPvCc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:46 |
 | 46 | [heavens to murgatroyd! \(exit stage left, even!\)](https://open.spotify.com/track/0GkZUyS44NvAOp4aRQK0RM) | [The Official Bard of Baldwin County](https://open.spotify.com/artist/1t9P3blGpfZPEOwNIfwk9f) | [the patron saint of something](https://open.spotify.com/album/6bv9D8AebF3JvroDuozvND) | 2:50 |

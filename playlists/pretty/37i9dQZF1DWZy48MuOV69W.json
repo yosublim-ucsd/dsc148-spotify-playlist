@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73098,
+  "num_followers": 73090,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 200180,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 298813,
       "name": "Christmas Memories",
       "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
     },
     {
       "added_at": "2023-12-19 12:10:20",

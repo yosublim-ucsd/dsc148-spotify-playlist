@@ -2,7 +2,7 @@
 
 ### [This Is Mon Laferte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rButW)
 
-> This Is Mon Laferte\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Mon Laferte\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 17 min
 

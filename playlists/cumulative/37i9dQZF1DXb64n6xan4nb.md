@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-145 songs - 10 hr 3 min
+146 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Good Day](https://open.spotify.com/track/3OZrAT5LTH47SSZyhHAIxM) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [CYWORLD BGM 2021](https://open.spotify.com/album/2rUwin1b0BpHgvGXgaofrH) | 3:55 | 2022-06-13 |  |
 | [A Good Day](https://open.spotify.com/track/5DOhcpankFIFfgUQJLFEr2) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [CYWORLD BGM 2021](https://open.spotify.com/album/62rt1jBaExwUQ2uyO1tjED) | 3:55 | 2022-06-13 | 2023-06-02 |
 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 | 2022-06-13 |  |
+| [A\-Ha](https://open.spotify.com/track/0RpT9U4xDlXvGqAjtqzD8n) | [IVY](https://open.spotify.com/artist/7wBrxhzcHVIis4VL3iR6hF) | [My Sweet And Free Day](https://open.spotify.com/album/6MGn3UsZvcP3adj0Hs0Sml) | 3:46 | 2022-06-13 |  |
 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 | 2022-06-13 |  |
 | [An Ordinary](https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [An Ordinary Day](https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM) | 3:32 | 2022-06-13 |  |
 | [Because Of You](https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:26 | 2022-06-13 |  |
@@ -54,7 +55,7 @@
 | [Johnny](https://open.spotify.com/track/2dnlQFidlBLM0juOQrVQHx) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Cyworld BGM 2021](https://open.spotify.com/album/6YSjJerpELdsYXBj4CxBy2) | 3:18 | 2022-06-13 | 2023-06-02 |
 | [Johnny](https://open.spotify.com/track/6QviEIBaYzPQSHXJMfwi9l) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Cyworld BGM 2021](https://open.spotify.com/album/6nkQfuVTgwKmNRCfk4d8vB) | 3:18 | 2022-06-13 |  |
 | [Let's Get Retarded](https://open.spotify.com/track/03nvFFGnitYLSl8H8af3ww) | [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [Let's Get Retarded](https://open.spotify.com/album/3EpcCN5EKkRdN7g7zOflQO) | 3:36 | 2022-06-13 | 2023-06-14 |
-| [Life Is Cool](https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW) | [Sweetbox](https://open.spotify.com/artist/2YCJYQq4i8MMxbNM59OWmy) | [sweetbox The Best](https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM) | 2:48 | 2022-06-13 |  |
+| [Life Is Cool](https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW) | [Sweetbox](https://open.spotify.com/artist/2YCJYQq4i8MMxbNM59OWmy) | [sweetbox The Best](https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM) | 2:48 | 2022-06-13 | 2024-04-17 |
 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 | 2022-06-13 | 2023-09-26 |
 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 | 2022-06-13 |  |
 | [Love Rain](https://open.spotify.com/track/2D7qr3pMwinXpACxiUBtNC) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [T\-VIRUS](https://open.spotify.com/album/0mb4NZoWTLUlkrMKmieekh) | 3:59 | 2022-06-13 |  |

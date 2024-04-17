@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-481 songs - 1 day 0 hr 5 min
+482 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [4 Days](https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn) | 2:34 | 2024-04-03 |  |
 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 | 2023-06-09 | 2023-09-29 |
 | [Abena](https://open.spotify.com/track/0MFTUz8gD3n8tqbJ2YWAmo) | [CN Amazing](https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC) | [Abena](https://open.spotify.com/album/4TBDpYlWBBUmzfkNNVhILy) | 2:54 | 2024-03-15 |  |
+| [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-12 |  |
 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 | 2024-02-13 | 2024-02-16 |
 | [Afro Bass](https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Afro Bass](https://open.spotify.com/album/5OFYLCyFCuhR4hnTlqQtvn) | 2:32 | 2024-03-08 |  |
 | [Again](https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Again](https://open.spotify.com/album/0FbNfX2DcyFNvgrSe0ZLba) | 3:04 | 2023-03-30 | 2023-05-05 |

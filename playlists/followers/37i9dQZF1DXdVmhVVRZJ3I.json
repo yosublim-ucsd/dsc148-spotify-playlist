@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 279660,
+  "2024-04-17": 279107,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
   "name": "Suor EDM",
@@ -25,6 +25,28 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+    },
+    {
+      "album": {
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
     },
     {
       "album": {
@@ -1283,7 +1305,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 181000,
       "name": "Showing Signs",
       "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"

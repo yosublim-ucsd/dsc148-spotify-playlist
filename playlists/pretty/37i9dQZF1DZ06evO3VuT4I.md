@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. The essential tracks, all in one playlist.
+> This is Suzanne Ciani\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,274 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,277 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 | 49 | [Dentecane](https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:11 |
 | 50 | [432 \- Suzanne Ciani Rework](https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Conatus](https://open.spotify.com/album/3qPX9UNS4kdWpouc7c5FCa) | 4:29 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGI0NjYxYzdhNWZjOTI1YjVkM2E4OGZhOWQ2NzA3ZmEx`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJmZjVlODk2NThjOGRiNDRlMDMwZDA0MDJmNDQyMDQ2`

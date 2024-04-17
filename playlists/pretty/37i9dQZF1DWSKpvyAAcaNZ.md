@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,864 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,595 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 5 | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/album/3jR7qt6pFn6OBxRZDnyJqK) | 4:25 |
 | 6 | [Arkansas Kid](https://open.spotify.com/track/5shjJt6uBUryQUPLoZmXoF) | [JD Clayton](https://open.spotify.com/artist/70ro2NOrdi2XlFSLumYMTs) | [Arkansas Kid](https://open.spotify.com/album/66Ak63dkqwIotTR8Fwt0vq) | 3:24 |
 | 7 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 |
-| 8 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 |
+| 8 | [Habits \- Radio Edit](https://open.spotify.com/track/2rgglZkiWfNuKupGuuvvdr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Alt List](https://open.spotify.com/album/16qWGSLBRnDTTbz50GNPIS) | 3:31 |
 | 9 | [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 |
 | 10 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 |
 | 11 | [Voodoo Woman \- Album Outtake](https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Voodoo Woman](https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU) | 3:57 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 40 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
 | 41 | [662](https://open.spotify.com/track/7lM1cf3zZuish0TjRnn5MB) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/7vKItws7UGBfZpWG5mlqqn) | 3:17 |
 | 42 | [Hit 'Em Back](https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back](https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX) | 4:33 |
-| 43 | [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 |
+| 43 | [Maktub](https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:13 |
 | 44 | [I Gotcha \- Rock Version](https://open.spotify.com/track/4lEfAkMl6Aq7YBG5g4neX5) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [I Gotcha \(Rock Version\)](https://open.spotify.com/album/7eGOKI22KNSI4B6BNmbGvw) | 4:24 |
 | 45 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
 | 46 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 |

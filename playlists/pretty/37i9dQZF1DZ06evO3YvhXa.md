@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO3YvhXa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3YvhXa)
 
-### [This Is ジャミロクワイ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YvhXa)
+### [This Is Jamiroquai](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YvhXa)
 
-> This is ジャミロクワイ。アーティストの代表曲をひとつのプレイリストに。
+> This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,894 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,883 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 49 | [Two Completely Different Things](https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:24 |
 | 50 | [Morning Glory](https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:23 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDEzNjFjN2NlZTRmOGJiZGFhMTI1ZDhiMzQzYmU3Y2Q5`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDg4N2JmMGUxMjE5ZDFiYWYzM2JkMDdkMDhmZGYzOWNj`

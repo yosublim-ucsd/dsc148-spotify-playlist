@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Flor Alvarez & Dj Tao.",
-  "num_followers": 1190146,
+  "num_followers": 1186196,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2024-04-12 13:04:15",
+      "album": {
         "name": "Una Noche Contigo (Remix)",
         "url": "https://open.spotify.com/album/6pmDtvsP7z9oqgSxgBVR8y"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 174000,
       "name": "Una Noche Contigo - Remix",
       "url": "https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx"
-    },
-    {
-      "added_at": "2024-04-12 13:04:15",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -631,22 +631,22 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
-        "name": "A PRUEBA DE BALAS",
-        "url": "https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L"
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         },
         {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 162005,
-      "name": "A PRUEBA DE BALAS",
-      "url": "https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B"
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -667,22 +667,22 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+        "name": "A PRUEBA DE BALAS",
+        "url": "https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
         }
       ],
-      "duration_ms": 178291,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
+      "duration_ms": 162005,
+      "name": "A PRUEBA DE BALAS",
+      "url": "https://open.spotify.com/track/0T3BndJOoSWYkPXcPLMH9B"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
-        "name": "TU AMOR | E7",
-        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "TU AMOR | E7",
-      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
-    },
-    {
-      "added_at": "2024-04-12 13:04:15",
-      "album": {
         "name": "No Voy a Llorar Por Ti",
         "url": "https://open.spotify.com/album/2BhI035wVIRpGpNyu52Mh3"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 158125,
       "name": "No Voy a Llorar Por Ti",
       "url": "https://open.spotify.com/track/1QG3hkWHcZ4q6woItn96MN"
+    },
+    {
+      "added_at": "2024-04-12 13:04:15",
+      "album": {
+        "name": "TU AMOR | E7",
+        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "TU AMOR | E7",
+      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -1151,26 +1151,18 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
-        "name": "Sin Valent\u00edn",
-        "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
         }
       ],
-      "duration_ms": 161874,
-      "name": "Sin Valent\u00edn",
-      "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -1211,18 +1203,26 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+        "name": "Sin Valent\u00edn",
+        "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
       "artists": [
         {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
+      "duration_ms": 161874,
+      "name": "Sin Valent\u00edn",
+      "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
-    },
-    {
-      "added_at": "2024-04-12 13:04:15",
-      "album": {
         "name": "NO VUELVO A CAER",
         "url": "https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 144000,
       "name": "NO VUELVO A CAER",
       "url": "https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op"
+    },
+    {
+      "added_at": "2024-04-12 13:04:15",
+      "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/7iTW31m0S1ErIYD8lSUQPD"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/3zBuUZje9YCZcOgvBLuH2J"
+    },
+    {
+      "added_at": "2024-04-12 13:04:15",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2024-04-12 13:04:15",
-      "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/7iTW31m0S1ErIYD8lSUQPD"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/3zBuUZje9YCZcOgvBLuH2J"
     },
     {
       "added_at": "2024-04-12 13:04:15",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2024-04-12 13:04:15",
       "album": {
-        "name": "LOKITA",
-        "url": "https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR"
-      },
-      "artists": [
-        {
-          "name": "RYH",
-          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
-        },
-        {
-          "name": "El Villano",
-          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
-        }
-      ],
-      "duration_ms": 151623,
-      "name": "LOKITA",
-      "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
-    },
-    {
-      "added_at": "2024-04-12 13:04:15",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 154624,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
+    },
+    {
+      "added_at": "2024-04-12 13:04:15",
+      "album": {
+        "name": "LOKITA",
+        "url": "https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR"
+      },
+      "artists": [
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        },
+        {
+          "name": "El Villano",
+          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+        }
+      ],
+      "duration_ms": 151623,
+      "name": "LOKITA",
+      "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
     },
     {
       "added_at": "2024-04-12 13:04:15",

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 1247155,
+  "2024-04-17": 1246974,
   "date_first_scraped": "2019-07-29",
   "description": "Shake up your wake up with a selection of feel good songs that will get you bouncing out the door. ",
   "name": "Morning Motivation",
@@ -3423,6 +3423,24 @@
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
+      "album": {
+        "name": "Baby Now That I've Found You",
+        "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Build Me Up Buttercup (Mono)",
+      "url": "https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"
     },
     {
       "album": {
@@ -21167,7 +21185,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"

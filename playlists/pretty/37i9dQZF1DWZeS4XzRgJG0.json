@@ -1,6 +1,6 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 30686,
+  "num_followers": 30696,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "See You Again (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 229525,
       "name": "See You Again (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -587,6 +587,26 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
+        "name": "Icarus Falls",
+        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+      "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
-        "name": "Icarus Falls",
-        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
-      "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "WITHOUT YOU",
-      "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 161384,
+      "name": "WITHOUT YOU",
+      "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Feel Something (Deluxe)",
         "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+        "name": "Not About Angels",
+        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 256236,
-      "name": "People Help the People",
-      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+      "duration_ms": 189475,
+      "name": "Not About Angels",
+      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -1499,8 +1499,8 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Not About Angels",
-        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
       "artists": [
         {
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 189475,
-      "name": "Not About Angels",
-      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Are You With Me",
         "url": "https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 249661,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "I Can't Fall in Love Without You",
-      "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 230480,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/5E5MqaS6eOsbaJibl3YeMZ"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "I Can't Fall in Love Without You",
+      "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
-      },
-      "artists": [
-        {
-          "name": "Peter Manos",
-          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Night Trouble",
         "url": "https://open.spotify.com/album/7u7l9XNKOdM1UXLOL4BJq8"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 391256,
       "name": "Night Trouble",
       "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
+      },
+      "artists": [
+        {
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw"
-      },
-      "artists": [
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 164826,
       "name": "Coming Home - Part II / Bonus Track",
       "url": "https://open.spotify.com/track/2EowclmjcHVK6W8xlngurh"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2875,22 +2875,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/0s0Bc5cmfLhgk2ZBfDDEgB"
-      },
-      "artists": [
-        {
-          "name": "Laura Jansen",
-          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/0csBvjhn08XTANLWQTvL3E"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Crazy With The Light",
         "url": "https://open.spotify.com/album/2x9uI9jhWcUyRHQUsVAy13"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 201142,
       "name": "Oh What A Relief",
       "url": "https://open.spotify.com/track/4IlGQMUo7sBlMBAQR0ZRPT"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/0s0Bc5cmfLhgk2ZBfDDEgB"
+      },
+      "artists": [
+        {
+          "name": "Laura Jansen",
+          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/0csBvjhn08XTANLWQTvL3E"
     },
     {
       "added_at": "2024-03-25 09:59:40",

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1563613,
+  "num_followers": 1563557,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Worldwide Dance Hits",
-        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
-        },
-        {
-          "name": "Crown",
-          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Everything (feat. Myah)",
         "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
       },
@@ -1771,6 +1751,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Worldwide Dance Hits",
+        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
@@ -1783,6 +1783,22 @@
       "duration_ms": 168793,
       "name": "Faded",
       "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 354613,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1803,22 +1819,6 @@
       "duration_ms": 438013,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 354613,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
     },
     {
       "added_at": "2023-03-22 14:00:00",

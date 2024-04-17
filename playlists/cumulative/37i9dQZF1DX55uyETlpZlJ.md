@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-319 songs - 17 hr 20 min
+320 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Matte bhandidhini](https://open.spotify.com/track/19xxlcCzShEhzAtrBn8mFA) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Matte bhandidhini](https://open.spotify.com/album/2pJVV5Oi68mN4qdaAJb1vp) | 2:08 | 2024-02-16 |  |
 | [Matthe Meravanige](https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ) | [KP Milan Kumar](https://open.spotify.com/artist/2zig6tnmiGy9rjVlXRoIa4), [Anusha Jane D'Souza](https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN) | [Matthe Meravanige](https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM) | 4:23 | 2023-03-08 | 2023-11-29 |
 | [Maḷe Banthu Maḷe](https://open.spotify.com/track/57TPkV7QunC4b8zkAuVakD) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [ART OF WAVES](https://open.spotify.com/album/0RjvS9LHtU7dhFbppc84yw) | 4:05 | 2024-01-30 |  |
-| [Meghave](https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Aditi Prahalad](https://open.spotify.com/artist/2WQSmxEh1TrVQA9RXSgp6a), [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Mitra Hegde](https://open.spotify.com/artist/3boqeGhnLs24Kw3k7wybcN) | [Meghave](https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E) | 3:29 | 2023-09-29 |  |
+| [Meghave](https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Aditi Prahalad](https://open.spotify.com/artist/2WQSmxEh1TrVQA9RXSgp6a), [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Mitra Hegde](https://open.spotify.com/artist/3boqeGhnLs24Kw3k7wybcN) | [Meghave](https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E) | 3:29 | 2023-09-29 | 2024-04-17 |
 | [Mellane Mellane](https://open.spotify.com/track/4MZ1HR436Wq3sbQhswiHkq) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Mellane Mellane](https://open.spotify.com/album/1k1pXgm3CWheQGcu2UQByY) | 3:36 | 2024-03-19 |  |
 | [MELODY](https://open.spotify.com/track/6wTPsKishFYQpQpfv0pxMU) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [MELODY](https://open.spotify.com/album/057QjeaBnQhOiH26WDO06R) | 1:25 | 2024-01-22 |  |
 | [Melusire \(Remix\)](https://open.spotify.com/track/0BpOi8WfgJPoMroHN4eknX) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ) | [Melusire \(Remix\)](https://open.spotify.com/album/4m781UWN8QgGhXeypMpSLE) | 0:47 | 2022-11-28 | 2024-01-01 |
@@ -293,6 +293,7 @@
 | [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 | 2024-02-27 |  |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 |  |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |
+| [Sheke](https://open.spotify.com/track/0rFCtxohZ41B6dK9pijQ7A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sheke](https://open.spotify.com/album/5UAJjhg0pbvLkUT8VKlzta) | 2:08 | 2024-04-16 |  |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |
 | [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 | 2023-03-28 | 2023-12-30 |
 | [Soneyeah](https://open.spotify.com/track/7HkGqzq6taygvr8nCO721g) | [Quake](https://open.spotify.com/artist/6PytpCLLu3iY5kXYQq6Dxd), [Martin Yo](https://open.spotify.com/artist/5aoFP8e4teKaBy6MVh8x8f), [Adi Dhar](https://open.spotify.com/artist/0nYRMoyeXOXmvMnkHl9Xfi) | [Soneyeah](https://open.spotify.com/album/2P1N9uIF3fGuQM3p2Uuz4E) | 3:14 | 2023-02-16 | 2023-09-30 |

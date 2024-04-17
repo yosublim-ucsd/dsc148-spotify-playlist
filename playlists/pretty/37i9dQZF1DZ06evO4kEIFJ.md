@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,624 likes - 19 songs - 49 min 2 sec
+[Spotify](https://open.spotify.com/user/spotify) - 154,645 likes - 19 songs - 49 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

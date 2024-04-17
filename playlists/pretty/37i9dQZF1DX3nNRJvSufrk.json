@@ -1,6 +1,6 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 33093,
+  "num_followers": 33097,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "New Start",
         "url": "https://open.spotify.com/album/7hhPEiSLGSFdHJEheB8IL3"
       },
@@ -119,22 +103,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Black Origami",
-        "url": "https://open.spotify.com/album/58imCwhskjkHi9GxNGOREE"
-      },
-      "artists": [
-        {
-          "name": "Jlin",
-          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
-        }
-      ],
-      "duration_ms": 211710,
-      "name": "Never Created, Never Destroyed",
-      "url": "https://open.spotify.com/track/1HJ7S8m730oqXmfBZHxaCo"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Tango",
         "url": "https://open.spotify.com/album/0zx0BWbByt2zQsH4Mcdu7v"
       },
@@ -151,18 +119,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/7AnMZI0aVrL78woSutj73B"
+        "name": "Black Origami",
+        "url": "https://open.spotify.com/album/58imCwhskjkHi9GxNGOREE"
       },
       "artists": [
         {
-          "name": "Kush Jones",
-          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
         }
       ],
-      "duration_ms": 195023,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/2YsJMtlbBz0IkpFSnpWCzr"
+      "duration_ms": 211710,
+      "name": "Never Created, Never Destroyed",
+      "url": "https://open.spotify.com/track/1HJ7S8m730oqXmfBZHxaCo"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -183,22 +151,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Double Cup",
-        "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/7AnMZI0aVrL78woSutj73B"
       },
       "artists": [
         {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "DJ Spinn",
-          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+          "name": "Kush Jones",
+          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
         }
       ],
-      "duration_ms": 216475,
-      "name": "Drank, Kush, Barz (feat. DJ Spinn)",
-      "url": "https://open.spotify.com/track/4JzbAa3b4fhWDbnR2j24a4"
+      "duration_ms": 195023,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2YsJMtlbBz0IkpFSnpWCzr"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -215,6 +179,26 @@
       "duration_ms": 150430,
       "name": "Still Geekin'",
       "url": "https://open.spotify.com/track/0TnVZ2ObWc4TeRZiFUEIoL"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        }
+      ],
+      "duration_ms": 216475,
+      "name": "Drank, Kush, Barz (feat. DJ Spinn)",
+      "url": "https://open.spotify.com/track/4JzbAa3b4fhWDbnR2j24a4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -307,22 +291,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No Cap 4 2020 (SBF14)",
-        "url": "https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "No Cap 4 2020 - SBF14",
-      "url": "https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Da Mind of Traxman",
         "url": "https://open.spotify.com/album/3azkH7wZWh4aT1MUJ8TEbj"
       },
@@ -339,18 +307,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Grove",
-        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
+        "name": "Bass + Funk & Soul",
+        "url": "https://open.spotify.com/album/45ppFjeJY6UXzmLdlbdj7Z"
       },
       "artists": [
         {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
         }
       ],
-      "duration_ms": 289133,
-      "name": "Skkrtt",
-      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
+      "duration_ms": 150000,
+      "name": "Baaaaaa",
+      "url": "https://open.spotify.com/track/3A4s2fv1SjdSxH0LCGQBMc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -371,26 +339,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Double Cup",
-        "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
+        "name": "The Grove",
+        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
       },
       "artists": [
         {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "DJ Spinn",
-          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
-        },
-        {
-          "name": "Taso",
-          "url": "https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC"
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
         }
       ],
-      "duration_ms": 217412,
-      "name": "She A Go (feat. DJ Spinn & Taso)",
-      "url": "https://open.spotify.com/track/64ybRGYH1ftn9XIIeG6qFY"
+      "duration_ms": 289133,
+      "name": "Skkrtt",
+      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -427,6 +387,30 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        },
+        {
+          "name": "Taso",
+          "url": "https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "She A Go (feat. DJ Spinn & Taso)",
+      "url": "https://open.spotify.com/track/64ybRGYH1ftn9XIIeG6qFY"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM"
       },
@@ -439,38 +423,6 @@
       "duration_ms": 363230,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Aspects",
-        "url": "https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC"
-      },
-      "artists": [
-        {
-          "name": "bastienGOAT",
-          "url": "https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Imma Dog",
-      "url": "https://open.spotify.com/track/524AOf3Zmp93608e38RukD"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -555,34 +507,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko"
-      },
-      "artists": [
-        {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "Tripletrain",
-          "url": "https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i"
-        },
-        {
-          "name": "DJ Spinn",
-          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
-        },
-        {
-          "name": "Teklife",
-          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
-        }
-      ],
-      "duration_ms": 193072,
-      "name": "Pass That",
-      "url": "https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Dark Energy",
         "url": "https://open.spotify.com/album/5JNtn7QIhuZiptM2F7bJPX"
       },
@@ -615,22 +539,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pleasure",
-        "url": "https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "Fire Man",
-      "url": "https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Kush, Rhodes & 808's",
         "url": "https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV"
       },
@@ -643,6 +551,50 @@
       "duration_ms": 210000,
       "name": "Keep the Drug$",
       "url": "https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "Tripletrain",
+          "url": "https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i"
+        },
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        },
+        {
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
+        }
+      ],
+      "duration_ms": 193072,
+      "name": "Pass That",
+      "url": "https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "Fire Man",
+      "url": "https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -683,6 +635,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Juking For Live (I.C.T.W)",
+        "url": "https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq"
+      },
+      "artists": [
+        {
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Juking For Live (I.C.T.W)",
+      "url": "https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Footwork Frenzy Ep",
         "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
       },
@@ -695,22 +663,6 @@
       "duration_ms": 283735,
       "name": "1luv",
       "url": "https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Strictly 4 My Cdjz 7",
-        "url": "https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M"
-      },
-      "artists": [
-        {
-          "name": "Kush Jones",
-          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Samba Focused",
-      "url": "https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -731,50 +683,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Juking For Live (I.C.T.W)",
-        "url": "https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq"
+        "name": "Strictly 4 My Cdjz 7",
+        "url": "https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M"
       },
       "artists": [
         {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+          "name": "Kush Jones",
+          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Juking For Live (I.C.T.W)",
-      "url": "https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Baaaaaa (Taken from Bass + Funk & Soul)",
-        "url": "https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Baaaaaa - Taken from Bass + Funk & Soul",
-      "url": "https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Nowadays Pressure",
-        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
-      },
-      "artists": [
-        {
-          "name": "NameBrandSound",
-          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
-        }
-      ],
-      "duration_ms": 228002,
-      "name": "Hip Thruster",
-      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
+      "duration_ms": 195000,
+      "name": "Samba Focused",
+      "url": "https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -795,6 +715,22 @@
       "duration_ms": 226000,
       "name": "Slanted (BSN Posse Remix)",
       "url": "https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Nowadays Pressure",
+        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
+      },
+      "artists": [
+        {
+          "name": "NameBrandSound",
+          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
+        }
+      ],
+      "duration_ms": 228002,
+      "name": "Hip Thruster",
+      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -931,6 +867,30 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "ON LIFE",
+        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
+      },
+      "artists": [
+        {
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
+        },
+        {
+          "name": "DJ Big Hank",
+          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
+        },
+        {
+          "name": "Sirr TMO",
+          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "DON'T JUST STAND THERE",
+      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Bangs & Works Vol. 2 (The Best of Chicago Footwork)",
         "url": "https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj"
       },
@@ -995,30 +955,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ON LIFE",
-        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
-      },
-      "artists": [
-        {
-          "name": "Teklife",
-          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
-        },
-        {
-          "name": "DJ Big Hank",
-          "url": "https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK"
-        },
-        {
-          "name": "Sirr TMO",
-          "url": "https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "DON'T JUST STAND THERE",
-      "url": "https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "The Grove",
         "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
       },
@@ -1067,6 +1003,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "The Crack Capone",
+        "url": "https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT"
+      },
+      "artists": [
+        {
+          "name": "DJ Roc",
+          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "HNADFUL OF SAND",
         "url": "https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV"
       },
@@ -1095,38 +1047,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Da Trak Genious",
-        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
-      },
-      "artists": [
-        {
-          "name": "DJ Nate",
-          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Footwurk Homicide",
-      "url": "https://open.spotify.com/track/4Jf3hwDKlkpq9ze8gHCwHb"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Crack Capone",
-        "url": "https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT"
-      },
-      "artists": [
-        {
-          "name": "DJ Roc",
-          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "ON LIFE, Vol. 2",
         "url": "https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu"
       },
@@ -1143,6 +1063,22 @@
       "duration_ms": 162750,
       "name": "fucK iT uP",
       "url": "https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Da Trak Genious",
+        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
+      },
+      "artists": [
+        {
+          "name": "DJ Nate",
+          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Footwurk Homicide",
+      "url": "https://open.spotify.com/track/4Jf3hwDKlkpq9ze8gHCwHb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1211,26 +1147,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ON LIFE",
-        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
-      },
-      "artists": [
-        {
-          "name": "Teklife",
-          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
-        },
-        {
-          "name": "DJ Chap",
-          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "ICE CREAM",
-      "url": "https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Next Life",
         "url": "https://open.spotify.com/album/2fQc0PETxan4Q7P16aMsue"
       },
@@ -1247,22 +1163,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Get Off Me (Betta Get Back) [Basic Rhythm Remix]",
-        "url": "https://open.spotify.com/album/3EEoCjUOkpme7oR3Pficlw"
+        "name": "ON LIFE",
+        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
       },
       "artists": [
         {
-          "name": "DJ Nate",
-          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
         },
         {
-          "name": "Basic Rhythm",
-          "url": "https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2"
+          "name": "DJ Chap",
+          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Get Off Me (Betta Get Back) - Basic Rhythm Remix",
-      "url": "https://open.spotify.com/track/0eYWpBNVb4wwCccrzqfg28"
+      "duration_ms": 194440,
+      "name": "ICE CREAM",
+      "url": "https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1287,18 +1203,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Still Trippin'",
-        "url": "https://open.spotify.com/album/3OEp4ArdKsXQLxq34Mfvur"
+        "name": "Get Off Me (Betta Get Back) [Basic Rhythm Remix]",
+        "url": "https://open.spotify.com/album/3EEoCjUOkpme7oR3Pficlw"
       },
       "artists": [
         {
-          "name": "DJ Taye",
-          "url": "https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c"
+          "name": "DJ Nate",
+          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+        },
+        {
+          "name": "Basic Rhythm",
+          "url": "https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2"
         }
       ],
-      "duration_ms": 275141,
-      "name": "Gimme Some Mo (feat. UNIIQU3)",
-      "url": "https://open.spotify.com/track/5p2ofIyvgSTzwYDMBaAdzk"
+      "duration_ms": 186573,
+      "name": "Get Off Me (Betta Get Back) - Basic Rhythm Remix",
+      "url": "https://open.spotify.com/track/0eYWpBNVb4wwCccrzqfg28"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1319,6 +1239,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Still Trippin'",
+        "url": "https://open.spotify.com/album/3OEp4ArdKsXQLxq34Mfvur"
+      },
+      "artists": [
+        {
+          "name": "DJ Taye",
+          "url": "https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c"
+        }
+      ],
+      "duration_ms": 275141,
+      "name": "Gimme Some Mo (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/5p2ofIyvgSTzwYDMBaAdzk"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Bangs & Works Vol. 2 (The Best of Chicago Footwork)",
         "url": "https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj"
       },
@@ -1335,6 +1271,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Street Bangers Factory 16",
+        "url": "https://open.spotify.com/album/3oi35tmgpACugdrK9nn0Nw"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit",
+      "url": "https://open.spotify.com/track/7eF3NHgdPEUph8Qxj6v1bB"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Guaranteed",
         "url": "https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX"
       },
@@ -1347,22 +1299,6 @@
       "duration_ms": 220800,
       "name": "Stick Em'",
       "url": "https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Afrika Jungle Them EP",
-        "url": "https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ"
-      },
-      "artists": [
-        {
-          "name": "DSS",
-          "url": "https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Afrika Jungle Them",
-      "url": "https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1387,6 +1323,38 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Street Bangers Factory 17",
+        "url": "https://open.spotify.com/album/4W08kjPFYZywJ2L1xbHXoR"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/10SsszZXnRrXNKl2JGvs9I"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Afrika Jungle Them EP",
+        "url": "https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ"
+      },
+      "artists": [
+        {
+          "name": "DSS",
+          "url": "https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Afrika Jungle Them",
+      "url": "https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "T3 TRAXX, Vol. 2",
         "url": "https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH"
       },
@@ -1399,6 +1367,22 @@
       "duration_ms": 186000,
       "name": "L",
       "url": "https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Aspects",
+        "url": "https://open.spotify.com/album/0iegmSGgcL3BsZ6VrcccqB"
+      },
+      "artists": [
+        {
+          "name": "bastienGOAT",
+          "url": "https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Imma Dog",
+      "url": "https://open.spotify.com/track/2IqDPPzeDOwzoAh4G9SlKq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 207000,
       "name": "Do Right",
       "url": "https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Street Bangers Factory 14",
+        "url": "https://open.spotify.com/album/2tE0xOjKeRWDFmLlGTfZtF"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "No Cap 4 2020",
+      "url": "https://open.spotify.com/track/080YH64adAFd0QajwUFHQb"
     }
   ],
   "unique_name": "Footwork/Juke",

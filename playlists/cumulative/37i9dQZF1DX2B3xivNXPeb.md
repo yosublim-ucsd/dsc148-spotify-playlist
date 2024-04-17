@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-351 songs - 21 hr 17 min
+352 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,9 +227,10 @@
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 | 2022-02-14 | 2024-04-12 |
 | [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 | 2022-02-14 | 2022-10-14 |
 | [Opendoors](https://open.spotify.com/track/1gPeJMO7Az6ZtzHiaKUTWb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 2:42 | 2022-12-28 | 2023-01-11 |
+| [ordinary love](https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 3:12 | 2024-04-11 |  |
 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-04-13 |
 | [Other Way](https://open.spotify.com/track/4mX17Zw9I9FSkGabznOonn) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Other Way](https://open.spotify.com/album/1XXQQrJo7dhTAc1I9btCWC) | 3:03 | 2022-02-14 | 2022-07-29 |
-| [Outrun This Feeling](https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Selfishly Inclined](https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge) | 2:56 | 2024-03-15 |  |
+| [Outrun This Feeling](https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Selfishly Inclined](https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge) | 2:56 | 2024-03-15 | 2024-04-17 |
 | [Outstanding](https://open.spotify.com/track/2gupGvtvyfxTGVx7xAb6o8) | [Al Charles](https://open.spotify.com/artist/6Vq314wZVFHGm4GaeiLhdo) | [Outstanding](https://open.spotify.com/album/7gdu5GtB4yp8PH7ymHFix8) | 5:52 | 2022-12-28 | 2023-01-11 |
 | [over](https://open.spotify.com/track/0Z5hhHje7VPBAkiqgBKdUp) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [over](https://open.spotify.com/album/1CcqKVf3Vf6sD2d9PA9pWj) | 2:13 | 2024-02-23 |  |
 | [Over When It's Over](https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Over When It's Over](https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW) | 3:35 | 2024-03-22 | 2024-04-05 |

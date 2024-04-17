@@ -1,15 +1,35 @@
 {
   "description": "Music from \"BLUELOCK\" /\u30a2\u30cb\u30e1\u300c\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u91d1\u57ce\u5b97\u5e78\u30fb\u30ce\u6751\u512a\u4ecb\u30fb\u8b1b\u8ac7\u793e\uff0f\u300c\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
-  "num_followers": 5158,
+  "num_followers": 5160,
   "original_name": "BLUELOCK \u30d6\u30eb\u30fc\u30ed\u30c3\u30af",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NzQ0NjAwMCwwMDAwMDAwMDQyMzcxZjQxZmZjMzBhYTkzOTRhZjAwMGY1OThiZWY0",
+  "snapshot_id": "MTcxMzI4MjI2MiwwMDAwMDAwMDUxMTZjNjFkYTYwZjBlMjA3MzgyZDU5Y2Q0NzI2MmE1",
   "tracks": [
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
+      "album": {
+        "name": "Stormy",
+        "url": "https://open.spotify.com/album/4hwKWHczO6iNFJtdaxNuD7"
+      },
+      "artists": [
+        {
+          "name": "Nissy",
+          "url": "https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q"
+        },
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Stormy",
+      "url": "https://open.spotify.com/track/7FDgraktDTcuA8uc8ixBM6"
+    },
+    {
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
         "url": "https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "WINNER",
         "url": "https://open.spotify.com/album/0ugax3s6E7k3ElIU0EMpuo"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/14mCnyDRVwIaBEzI4UKvt0"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "Judgement",
         "url": "https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "Ninth Peel",
         "url": "https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
         "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/4tVWri4uMyt2s6AZboHP9k"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
         "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/1D83RID6kfu6t2FJwXS0Oa"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
         "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/5W1vf2mP0x2fnEnbK7jydv"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
         "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/6zVQTG4XWUQa7fyF8PIVGl"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
         "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/0nUW5Wn9QfkrppsDytLYgG"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
         "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/1IzBaJeL29QR0ydI7S5gXb"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
         "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/2gIUhgY6m1Yj0exHdXhVsR"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
         "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/4sSnACioBjMQsuz5nDzsre"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/6o6BdgEE5mK8muWiRuMw4j"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/1dtQH4HvGUYo8iCOn7m5Ss"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/2bbLUl984baOGtljQ6uPiR"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/2LAL45DNefNXxeacUKergK"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/4syuXGPoDB2Fo3jnW2vs7K"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/5WFx45nWwYVR5vaNlKmOwd"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/5jp3XLGkRTIMfCQQUh4s9L"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/1qxwEvmgGfFBL3jIqRKtHX"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/2on1qKATYdG1NyyJUEJbRO"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/0hAOzO4MiON3OakQPmaQJ1"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/7itXW9B5kOjtHAA2215uat"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/0mdgTQt3wfchbTm7d34SsR"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/3mdbsLzskY9n7njsvWAVeT"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/7nCYiBOZ3zeTJ9kfW8RNDE"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/0dpKc2wZhvWRtrUogyp06P"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/4WZ9mk9TQCFoxdem6QZfHk"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/1igQeKnLlROweUAG7Jk9Y6"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/0tIhFwq1gSJdjPH0mo19HW"
     },
     {
-      "added_at": "2023-06-22 15:00:00",
+      "added_at": "2024-04-16 15:44:22",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"

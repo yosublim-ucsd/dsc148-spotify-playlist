@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ajebo Hustelrs",
-  "num_followers": 46645,
+  "num_followers": 46698,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "The Messenger",
+        "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/0NSzWmOlosttMQx776Jzq9"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "Personally",
         "url": "https://open.spotify.com/album/0uiaL4veJ9NbbUbVjZJtIO"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "The Messenger",
-        "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/0NSzWmOlosttMQx776Jzq9"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
         "name": "Belong to You",
         "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
       },
@@ -1375,8 +1375,8 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Evil Twin",
-        "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
       "artists": [
         {
@@ -1384,17 +1384,13 @@
           "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
           "name": "Phyno",
           "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 152558,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
     },
     {
       "added_at": "2024-04-12 00:01:00",

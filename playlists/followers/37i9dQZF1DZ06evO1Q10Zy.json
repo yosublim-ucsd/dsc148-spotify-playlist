@@ -1,7 +1,7 @@
 {
-  "2024-04-16": 34321,
+  "2024-04-17": 34317,
   "date_first_scraped": "2022-06-05",
-  "description": "This Is Babyface. Los temas esenciales, todos en una lista.",
+  "description": "This is Babyface. The essential tracks, all in one playlist.",
   "name": "This Is Babyface",
   "tracks": [
     {
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 278293,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 311533,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Blxst & Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,130 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,645 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 44 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/5aov0mBKpwPe8smzVQEHCI) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/album/0GgsvW4d1yiUjwMeALi6uO) | 3:48 |
 | 45 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 |
 | 46 | [Lady Gaga \(En Vivo\)](https://open.spotify.com/track/3AV3fOIqz0hFusSM3AfbH6) | [Grupo Viada](https://open.spotify.com/artist/3VQKj1DcT7bGsQGBZWBbE4) | [Con Más Viada II \(FP\) \[En Vivo\]](https://open.spotify.com/album/7d7tUVkAPsdWefNxbbXKij) | 3:02 |
-| 47 | [4TM](https://open.spotify.com/track/7xqNgkE64lj8UGxUudXjjk) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Gunder808](https://open.spotify.com/artist/5ntpIdhE7qFtTXXpAXXWgX), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [4TM](https://open.spotify.com/album/35ar8BlPbfSCwhqQ583W52) | 3:21 |
+| 47 | [4TM](https://open.spotify.com/track/7xqNgkE64lj8UGxUudXjjk) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Gunder808](https://open.spotify.com/artist/5ntpIdhE7qFtTXXpAXXWgX) | [4TM](https://open.spotify.com/album/35ar8BlPbfSCwhqQ583W52) | 3:21 |
 | 48 | [SABOR FRESA](https://open.spotify.com/track/3kx21xR6IboC9HVdajgBoc) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:36 |
 | 49 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 50 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |

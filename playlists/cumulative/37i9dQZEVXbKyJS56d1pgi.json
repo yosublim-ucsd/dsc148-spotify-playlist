@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 221538,
       "name": "Baile do Bruxo",
       "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 147820,
       "name": "Conclus\u00e3o",
       "url": "https://open.spotify.com/track/2KG3AM4Sfe11yEuzj79OKx"
@@ -15824,7 +15824,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -23172,6 +23172,40 @@
       "duration_ms": 250434,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
+    },
+    {
+      "album": {
+        "name": "O Cara Do Momento, Vol. 2",
+        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Eros",
+          "url": "https://open.spotify.com/artist/1B5myeE5E6Oa8nan3NR9wd"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243870,
+      "name": "Vem Desestressar",
+      "url": "https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E"
     },
     {
       "album": {

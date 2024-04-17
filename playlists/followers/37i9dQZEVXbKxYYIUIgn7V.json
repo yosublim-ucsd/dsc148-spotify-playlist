@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 12382,
+  "2024-04-17": 12373,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 129123,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/0xcjCd9FoMNaYjPK7R8I1L"
@@ -1935,7 +1935,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 120000,
       "name": "F\u00fcr immer Fr\u00fchling",
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
@@ -3766,6 +3766,36 @@
     },
     {
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2"
+      },
+      "artists": [
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        },
+        {
+          "name": "Dux n Bass",
+          "url": "https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "T-Man",
+          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184371,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3"
+    },
+    {
+      "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
       },
@@ -4899,7 +4929,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 173026,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/0HuEswFp8jHbDaiNn0jV4f"

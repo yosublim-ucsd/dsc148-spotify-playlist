@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 145524,
+  "num_followers": 145422,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,22 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "\u56a3\u5f20",
-        "url": "https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp"
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+        "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
       },
       "artists": [
         {
-          "name": "en",
-          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
         }
       ],
-      "duration_ms": 253994,
-      "name": "\u56a3\u5f20",
-      "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
+      "duration_ms": 261000,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+      "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -187,22 +191,18 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
-        "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
+        "name": "\u56a3\u5f20",
+        "url": "https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        },
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+          "name": "en",
+          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
         }
       ],
-      "duration_ms": 261000,
-      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
-      "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
+      "duration_ms": 253994,
+      "name": "\u56a3\u5f20",
+      "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "\u8a23\u611b",
-        "url": "https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt"
-      },
-      "artists": [
-        {
-          "name": "\u8a79\u96ef\u5a77",
-          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
-        }
-      ],
-      "duration_ms": 189295,
-      "name": "\u8a23\u611b (\u5287\u96c6\u300a\u84bc\u862d\u8a23\u300b\u7247\u982d\u66f2)",
-      "url": "https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5"
-    },
-    {
-      "added_at": "2023-11-27 06:00:00",
-      "album": {
         "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 256000,
       "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
+    },
+    {
+      "added_at": "2023-11-27 06:00:00",
+      "album": {
+        "name": "\u8a23\u611b",
+        "url": "https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt"
+      },
+      "artists": [
+        {
+          "name": "\u8a79\u96ef\u5a77",
+          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "\u8a23\u611b (\u5287\u96c6\u300a\u84bc\u862d\u8a23\u300b\u7247\u982d\u66f2)",
+      "url": "https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "\u6211\u61f7\u5ff5\u7684",
-      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
-    },
-    {
-      "added_at": "2023-11-27 06:00:00",
-      "album": {
         "name": "\u9ed1\u00b7\u767d\u00b7\u7070",
         "url": "https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 205423,
       "name": "\u5341\u5e74",
       "url": "https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf"
+    },
+    {
+      "added_at": "2023-11-27 06:00:00",
+      "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "\u6211\u61f7\u5ff5\u7684",
+      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -783,18 +783,22 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "Xposed",
-        "url": "https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG"
+        "name": "Stranger Under My Skin",
+        "url": "https://open.spotify.com/album/3hYNHvbd1Q3AhB5K53ymNm"
       },
       "artists": [
         {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        },
+        {
+          "name": "Faye Wong",
+          "url": "https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp"
         }
       ],
-      "duration_ms": 258865,
-      "name": "\u6ce1\u6cab",
-      "url": "https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA"
+      "duration_ms": 216893,
+      "name": "\u56e0\u70ba\u611b\u60c5",
+      "url": "https://open.spotify.com/track/6WOwRdX67b4VKujGIal4tK"
     },
     {
       "added_at": "2023-11-27 06:00:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2023-11-27 06:00:00",
       "album": {
-        "name": "Stranger Under My Skin",
-        "url": "https://open.spotify.com/album/3hYNHvbd1Q3AhB5K53ymNm"
+        "name": "Xposed",
+        "url": "https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        },
-        {
-          "name": "Faye Wong",
-          "url": "https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp"
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
         }
       ],
-      "duration_ms": 216893,
-      "name": "\u56e0\u70ba\u611b\u60c5",
-      "url": "https://open.spotify.com/track/6WOwRdX67b4VKujGIal4tK"
+      "duration_ms": 258865,
+      "name": "\u6ce1\u6cab",
+      "url": "https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA"
     }
   ],
   "unique_name": "\u4eba\u6c14K\u6b4c\u699c",

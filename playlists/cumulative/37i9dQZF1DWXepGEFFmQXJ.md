@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Beyonce
 
-602 songs - 1 day 9 hr 3 min
+603 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-24 |  |
 | [I STILL CALL IT HOME](https://open.spotify.com/track/0ml4Ta4KNsETTa31i71gpe) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [RAISED LIKE THAT](https://open.spotify.com/album/6sQ9VKXI6GlECcHW319zrN) | 2:57 | 2023-09-28 | 2024-03-08 |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-03-04 | 2022-08-05 |
-| [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 | 2024-03-14 |  |
+| [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/3FULZo3F26XP00rsLrXTLE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:34 | 2024-04-12 |  |
+| [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 | 2024-03-14 | 2024-04-17 |
 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 | 2023-10-12 | 2024-03-01 |
 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 | 2022-11-03 | 2023-05-19 |
 | [I'm Doing Well](https://open.spotify.com/track/1W8aqVf8iQOS8aT1wGeZ3u) | [Finnian Johnson](https://open.spotify.com/artist/4MNXrE9MKatoDYCexgnXVi) | [I'm Doing Well](https://open.spotify.com/album/0A5QSrPjmxMk97is7YT3zW) | 3:46 | 2024-01-19 | 2024-03-08 |

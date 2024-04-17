@@ -2491,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
+        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142746,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
+    },
+    {
+      "album": {
         "name": "Only For The Lonely",
         "url": "https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m"
       },
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 172000,
       "name": "Let Me Down Easy - Remastered 2022",
       "url": "https://open.spotify.com/track/6XNXgwoz0bYMWt1VIAuSmH"

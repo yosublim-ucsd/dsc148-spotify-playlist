@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1288466,
+  "num_followers": 1288369,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
-        "name": "Sandstorm",
-        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
       "artists": [
         {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
         }
       ],
-      "duration_ms": 188774,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2024-04-12 05:43:30",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
       },
       "artists": [
         {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
         }
       ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+      "duration_ms": 188774,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
     },
     {
       "added_at": "2024-04-12 05:43:30",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
+      },
+      "artists": [
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
+    },
+    {
+      "added_at": "2024-04-12 05:43:30",
+      "album": {
         "name": "Das Boot",
         "url": "https://open.spotify.com/album/0xzYXSeSEz4FMJ7uz2Qbnc"
       },
@@ -2331,18 +2347,22 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/22Evsh5AjJ8kERYZ4gUtl7"
       },
       "artists": [
         {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+          "name": "Ghost Stories",
+          "url": "https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
         }
       ],
-      "duration_ms": 244133,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
+      "duration_ms": 179200,
+      "name": "Angels & Demons",
+      "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
     },
     {
       "added_at": "2024-04-12 05:43:30",
@@ -2363,26 +2383,6 @@
       "duration_ms": 213400,
       "name": "Shabaka",
       "url": "https://open.spotify.com/track/12fXkI2VEpXy1xohgnOQlS"
-    },
-    {
-      "added_at": "2024-04-12 05:43:30",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/22Evsh5AjJ8kERYZ4gUtl7"
-      },
-      "artists": [
-        {
-          "name": "Ghost Stories",
-          "url": "https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Angels & Demons",
-      "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
     },
     {
       "added_at": "2024-04-12 05:43:30",
@@ -2531,6 +2531,26 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
+        "name": "Million Miles (Da Tweekaz Remix)",
+        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 215780,
+      "name": "Million Miles - Da Tweekaz Remix",
+      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
+    },
+    {
+      "added_at": "2024-04-12 05:43:30",
+      "album": {
         "name": "This Deejay",
         "url": "https://open.spotify.com/album/5Ee5i1mH1oGgm2NmfaYH9O"
       },
@@ -2559,38 +2579,22 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
-        "name": "Million Miles (Da Tweekaz Remix)",
-        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
+        "name": "Blow Up The Speakers (Again)",
+        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
       "artists": [
         {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
         }
       ],
-      "duration_ms": 215780,
-      "name": "Million Miles - Da Tweekaz Remix",
-      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
-    },
-    {
-      "added_at": "2024-04-12 05:43:30",
-      "album": {
-        "name": "Sky Fall",
-        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Sky Fall",
-      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
+      "duration_ms": 208657,
+      "name": "Blow Up The Speakers (Again)",
+      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
     },
     {
       "added_at": "2024-04-12 05:43:30",
@@ -2619,22 +2623,18 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
-        "name": "Blow Up The Speakers (Again)",
-        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
+        "name": "Sky Fall",
+        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
       },
       "artists": [
         {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        },
-        {
-          "name": "The Moon",
-          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         }
       ],
-      "duration_ms": 208657,
-      "name": "Blow Up The Speakers (Again)",
-      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+      "duration_ms": 215225,
+      "name": "Sky Fall",
+      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
     },
     {
       "added_at": "2024-04-12 05:43:30",
@@ -2695,30 +2695,6 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
-        "name": "Anybody Out There (Dr Phunk Remix)",
-        "url": "https://open.spotify.com/album/3eumufsKfcrjr9yol2kcIA"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 178459,
-      "name": "Anybody Out There - Dr Phunk Remix",
-      "url": "https://open.spotify.com/track/61jmRb7BCwjFj5GCY80p38"
-    },
-    {
-      "added_at": "2024-04-12 05:43:30",
-      "album": {
         "name": "Techno Syndrome (Mortal Kombat)",
         "url": "https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn"
       },
@@ -2755,6 +2731,30 @@
       "duration_ms": 177387,
       "name": "Garden Of Magic",
       "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
+    },
+    {
+      "added_at": "2024-04-12 05:43:30",
+      "album": {
+        "name": "Anybody Out There (Dr Phunk Remix)",
+        "url": "https://open.spotify.com/album/3eumufsKfcrjr9yol2kcIA"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "duration_ms": 178459,
+      "name": "Anybody Out There - Dr Phunk Remix",
+      "url": "https://open.spotify.com/track/61jmRb7BCwjFj5GCY80p38"
     },
     {
       "added_at": "2024-04-12 05:43:30",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2024-04-12 05:43:30",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/27ncfi8pJJtN4xPRD37Lp7"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Fight For You",
-      "url": "https://open.spotify.com/track/5GCL6u4hSfHrGUZPLyJBfZ"
-    },
-    {
-      "added_at": "2024-04-12 05:43:30",
-      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 195200,
       "name": "Call Me A Spaceman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/01s9faleC0omVs2oEFzCyp"
+    },
+    {
+      "added_at": "2024-04-12 05:43:30",
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/27ncfi8pJJtN4xPRD37Lp7"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/5GCL6u4hSfHrGUZPLyJBfZ"
     },
     {
       "added_at": "2024-04-12 05:43:30",

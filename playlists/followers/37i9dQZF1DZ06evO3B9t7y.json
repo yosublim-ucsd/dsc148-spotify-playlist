@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 858227,
+  "2024-04-17": 858575,
   "date_first_scraped": "2022-06-02",
   "description": "This Is Carin Leon. Los temas esenciales, todos en una lista.",
   "name": "This Is Carin Leon",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 226488,
       "name": "La Posible Manera - En Vivo",
       "url": "https://open.spotify.com/track/4dKdZqYLNYQKko5z1ZU6hy"

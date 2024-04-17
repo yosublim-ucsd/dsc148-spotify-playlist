@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,975 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,948 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Say!](https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Popped Heart](https://open.spotify.com/album/7789tm9Qro5oSNkVgIUSQS) | 3:52 |
-| 2 | [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 |
+| 2 | [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 |
 | 3 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 |
 | 4 | [motorway](https://open.spotify.com/track/4j6z3exn61ZuDgcXKLrgUB) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [motorway](https://open.spotify.com/album/4SFCaBgBONoH4VTvSB5X6Z) | 3:21 |
 | 5 | [Warm Storm](https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Warm Storm](https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI) | 5:18 |

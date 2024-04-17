@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Kehlani
+> Where R&B lives\. Cover: Victoria Monét
 
 446 songs - 1 day 1 hr 10 min
 

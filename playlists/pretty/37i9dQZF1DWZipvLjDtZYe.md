@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,202 likes - 72 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,027 likes - 72 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 36 | [ワールドイズマイン \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:58 |
 | 37 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 38 | [しかばねの踊り](https://open.spotify.com/track/6a0G8hYEyxqvEkebVLU5VK) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 3:48 |
-| 39 | [えれくとりっく・えんじぇぅ](https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D) | [Yasuo](https://open.spotify.com/artist/7EvlO09zOVmTWQKe7AH8Bc) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 3:17 |
+| 39 | [えれくとりっく・えんじぇぅ](https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D) | [ヤスオ](https://open.spotify.com/artist/2ZYswAbco1meCCWLz9ge87) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 3:17 |
 | 40 | [気まぐれメルシィ](https://open.spotify.com/track/2nvR3T8wXynnDS7N6d81qv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:23 |
 | 41 | [ビバハピ](https://open.spotify.com/track/4P0f1HTaA2UwtLJGryNgJZ) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [グレイテスト・アイドル](https://open.spotify.com/album/0Pj2RT0PsvryvBrC8B0tS4) | 3:35 |
 | 42 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 4275,
+  "2024-04-17": 4278,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - UAE.",
   "name": "Top 50 - UAE",
@@ -1699,6 +1699,24 @@
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "album": {
+        "name": "April Fools Day Special",
+        "url": "https://open.spotify.com/album/72v0s0UL2k1rZ8CDbCa5VJ"
+      },
+      "artists": [
+        {
+          "name": "MR Kingpin",
+          "url": "https://open.spotify.com/artist/38TEoagJeBd3Gprnydksuh"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149350,
+      "name": "April Fools Day Special",
+      "url": "https://open.spotify.com/track/4fDIcqfPrAc6AZCJRoSwoq"
     },
     {
       "album": {
@@ -8797,7 +8815,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -10979,6 +10997,28 @@
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "album": {
+        "name": "I Made Her",
+        "url": "https://open.spotify.com/album/50oV2Wu0SKSOBeCFRHxeHD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flamboyant",
+          "url": "https://open.spotify.com/artist/6nBueMjRsZPGamzn5Zyoqx"
+        },
+        {
+          "name": "Benny Jones",
+          "url": "https://open.spotify.com/artist/4vpK9VppE7lOU8jk52zQ7W"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "I Made Her",
+      "url": "https://open.spotify.com/track/0fkHZfRZbyt30z5RG50dot"
     },
     {
       "album": {
@@ -14807,7 +14847,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 246000,
       "name": "Malabari Banger",
       "url": "https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8"
@@ -17827,7 +17867,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 237535,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2pDju1PrCVxlJMqHcXi9rj"
@@ -18399,7 +18439,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 250158,
       "name": "Pehle Bhi Main",
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
@@ -23982,6 +24022,24 @@
     },
     {
       "album": {
+        "name": "The Chosen One",
+        "url": "https://open.spotify.com/album/7z1Rzk7EYfYWJIkAC5qhzR"
+      },
+      "artists": [
+        {
+          "name": "DJ Louder",
+          "url": "https://open.spotify.com/artist/2vNGYndcYInnwOqRzB1KGW"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "The Chosen One",
+      "url": "https://open.spotify.com/track/76vqI8l6yCcgRk0uLPIoBP"
+    },
+    {
+      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -24029,7 +24087,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"

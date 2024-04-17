@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-474 songs - 1 day 4 hr 18 min
+475 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Constant](https://open.spotify.com/track/32jEcbreglV0b9xlACfiII) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Constant](https://open.spotify.com/album/7kzxtntTQNVZwkl05zZZHh) | 2:52 | 2022-02-27 | 2022-04-04 |
 | [Corner \(O Ti De\)](https://open.spotify.com/track/0fSlJ4Dkaij64XsWU9u2hw) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Corner \(O Ti De\)](https://open.spotify.com/album/3Q3zmVJazOeLCxngPLl2mR) | 2:42 | 2022-02-19 | 2022-06-26 |
 | [Cover Me](https://open.spotify.com/track/0kgaxUdgR0wOgVxnpyllLY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Kingdom Come](https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb) | 4:41 | 2022-04-01 | 2022-09-19 |
-| [Covered](https://open.spotify.com/track/2EBfbLHxIRWg4hwHya4Tby) | [Anthony Hall](https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS), [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF) | [Covered](https://open.spotify.com/album/0W6tOU21Ts3f9Gol7IALRm) | 3:31 | 2024-01-12 |  |
+| [Covered](https://open.spotify.com/track/2EBfbLHxIRWg4hwHya4Tby) | [Anthony Hall](https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS), [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF) | [Covered](https://open.spotify.com/album/0W6tOU21Ts3f9Gol7IALRm) | 3:31 | 2024-01-12 | 2024-04-17 |
 | [Crazy Kinda Love](https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Ahjah Walls](https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Kingdom Business: Season 1](https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1) | 4:08 | 2022-06-25 | 2024-01-13 |
 | [Cut 'Em Off](https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Koryn Hawthorne Bundle](https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b) | 2:14 | 2024-01-12 |  |
 | [CVS](https://open.spotify.com/track/0AKErkag7pPMyvkGXnBQbk) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [CVS](https://open.spotify.com/album/5VLkFY7Sn2qgrYnrDEswqv) | 6:00 | 2022-03-05 | 2022-06-05 |
@@ -126,6 +126,7 @@
 | [Exodus](https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 3:00 | 2023-07-21 | 2024-01-13 |
 | [Exodus](https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Exodus](https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd) | 3:00 | 2022-07-17 | 2023-04-21 |
 | [Face to Face](https://open.spotify.com/track/4yUdZ5MKh2XWoxcUP1wKlQ) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Face to Face](https://open.spotify.com/album/01A6uwwSI6q3xMg5FrWkRu) | 3:57 | 2022-02-19 | 2022-06-23 |
+| [Fall Back](https://open.spotify.com/track/5tKkyk6FPsNfBUMyT3A3JF) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [Dante' Pride](https://open.spotify.com/artist/2v3KGsTtvQXwQHOMvqtkKS) | [Fall Back](https://open.spotify.com/album/1HaA6TrRiVF8wXl4wqCTAe) | 2:11 | 2024-01-12 |  |
 | [Fall Back In Love](https://open.spotify.com/track/1smBVdtxGxsNHA2UxW2cQT) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu) | [Fall Back In Love](https://open.spotify.com/album/2TQs7uUu0CjAJR6g3fqBJg) | 3:21 | 2022-04-01 | 2022-04-20 |
 | [Fall in Love with You.](https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc) | 2:12 | 2022-02-19 | 2022-04-09 |
 | [Fallin'](https://open.spotify.com/track/2Gz1c21tXtzERAlD1l993D) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Fallin'](https://open.spotify.com/album/3e9zUFEPwFigFHDsrSul9H) | 2:18 | 2022-02-27 | 2022-06-26 |

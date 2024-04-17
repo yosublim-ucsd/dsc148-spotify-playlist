@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Tanner Adell
 
-2,025 songs - 4 day 13 hr 41 min
+2,026 songs - 4 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,7 +873,8 @@
 | [I Wanna Remember \(feat\. Carrie Underwood\)](https://open.spotify.com/track/03ElQaGbZDwOSDMiEPwFPz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\)](https://open.spotify.com/album/0i9uYmJwovycbfOBYUCwXK) | 3:33 | 2021-06-12 | 2021-08-28 |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-02-25 | 2022-07-16 |
 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 | 2021-05-22 | 2021-08-07 |
-| [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 | 2024-03-15 |  |
+| [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/3FULZo3F26XP00rsLrXTLE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:34 | 2024-04-12 |  |
+| [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 | 2024-03-15 | 2024-04-17 |
 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 | 2023-10-13 | 2023-12-23 |
 | [I Wish Grandpas Never Died](https://open.spotify.com/track/2pCHYIFhPlswuaDIFlLlDz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [I Wish Grandpas Never Died](https://open.spotify.com/album/4yQSjUUC3lZUsf4ukg4YvZ) | 4:08 | 2019-08-04 | 2019-09-22 |
 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 | 2019-12-12 | 2020-01-27 |

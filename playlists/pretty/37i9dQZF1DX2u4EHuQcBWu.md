@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,783 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,758 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 37 | [Abuso de Autoridad](https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 2:01 |
 | 38 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
 | 39 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 |
-| 40 | [Calma Pueblo \(feat\. Omar Rodríguez\)](https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Omar Rodriguez](https://open.spotify.com/artist/1ixVWnnE0qh69epdQxmEhO) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:09 |
-| 41 | [Aquí No Pasa Nada](https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:40 |
+| 40 | [Aquí No Pasa Nada](https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:40 |
+| 41 | [Calma Pueblo \(feat\. Omar Rodríguez\)](https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Omar Rodriguez](https://open.spotify.com/artist/1ixVWnnE0qh69epdQxmEhO) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:09 |
 | 42 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 |
 | 43 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 |
 | 44 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 82 | [Si Me Matan](https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:10 |
 | 83 | [Niñx](https://open.spotify.com/track/5YdwhRwik4FMlzlU4RbYHo) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [La Lira Libertaria](https://open.spotify.com/album/7n57o4N90R6N9m6Sbgqn59) | 3:46 |
 | 84 | [Cumbia Valiente](https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:01 |
-| 85 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 |
-| 86 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
+| 85 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
+| 86 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 |
 | 87 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
 | 88 | [Se Me Ocurre](https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:02 |
 | 89 | [Exigimos](https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Viva el Planeta](https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU) | 3:19 |

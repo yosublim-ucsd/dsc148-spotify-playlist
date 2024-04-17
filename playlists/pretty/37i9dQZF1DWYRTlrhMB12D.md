@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,357 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,865 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 57 | [Suhana Safar Aur Yeh Mausam](https://open.spotify.com/track/3V7K8wMXBKaf936CUDr3Bt) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Madhumati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm) | 3:49 |
 | 58 | [Dil Cheez Kya Hai](https://open.spotify.com/track/3BERM98uzP2orrHk96PPvS) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 6:10 |
 | 59 | [Zindagi Kaisi Hai Paheli](https://open.spotify.com/track/5WDhqq4AlF4nuaep2QWDdE) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Anand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ) | 3:29 |
-| 60 | [Chaudhvin Ka Chand Ho](https://open.spotify.com/track/0NMHJgkmn6heDuxpL2brXX) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Chaudhvin Ka Chand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oV7MbtBoGG0scOR6pQCc7) | 3:43 |
+| 60 | [Chaudhvin Ka Chand Ho \(From "Chaudhvin Ka Chand"\)](https://open.spotify.com/track/7EKfhbcWA3ncDkuRhNCaru) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 3:43 |
 | 61 | [Aaiye Meharban](https://open.spotify.com/track/5vvkKkLRXcCvcRK40ld4df) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Howrah Bridge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pe4oFK1nJc98OwK6ItUTG) | 4:12 |
 | 62 | [Yaad Kiya Dil Ne](https://open.spotify.com/track/4SIyELnEXAxSzXbWQ5MorW) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Patita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1AO1npNUV93OKmz3J7X3lW) | 4:14 |
 | 63 | [Yeh Raat Bheegi Bheegi](https://open.spotify.com/track/4B3UcOcsfqurNkTnO9tczy) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Chori Chori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW) | 4:29 |

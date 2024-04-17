@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 102888,
+  "2024-04-17": 102835,
   "date_first_scraped": "2023-02-08",
   "description": "Music to help you concentrate during your homework.",
   "name": "Piano Study",
@@ -2170,6 +2170,24 @@
     },
     {
       "album": {
+        "name": "The Sameness of Phosphorus and Hesperus",
+        "url": "https://open.spotify.com/album/2ebbNEtIF6CRJpt1o7B2Kz"
+      },
+      "artists": [
+        {
+          "name": "Ave Air",
+          "url": "https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197678,
+      "name": "The Music Box",
+      "url": "https://open.spotify.com/track/0q4M2RzupQ3wszvQ6RhLZ5"
+    },
+    {
+      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
       },
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 145075,
       "name": "Valse pour Johann",
       "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"

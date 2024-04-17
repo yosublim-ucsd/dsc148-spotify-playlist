@@ -1,6 +1,6 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 897557,
+  "num_followers": 896656,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Why Not Right Now? (Live)",
-        "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 239962,
-      "name": "Let The People Sing - Live",
-      "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Bless God",
         "url": "https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Why Not Right Now? (Live)",
+        "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 239962,
+      "name": "Let The People Sing - Live",
+      "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "At The Altar (Live)",
-        "url": "https://open.spotify.com/album/3SGTVnqzpykrAI7ExoZLnP"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "At The Altar - Live",
-      "url": "https://open.spotify.com/track/7okfzzIL7t7UhygeRDRN0x"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Christ Is The Center (Live)",
         "url": "https://open.spotify.com/album/1jDtoHYnjjxY5Cy8eiCybz"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 539916,
       "name": "Christ Is The Center - Live",
       "url": "https://open.spotify.com/track/3BmnZfapXOFmWSfNcj740D"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "At The Altar (Live)",
+        "url": "https://open.spotify.com/album/3SGTVnqzpykrAI7ExoZLnP"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "At The Altar - Live",
+      "url": "https://open.spotify.com/track/7okfzzIL7t7UhygeRDRN0x"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1339,34 +1339,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Jesus, My Brother + Like Jesus (Live)",
-        "url": "https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN"
-      },
-      "artists": [
-        {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
-        },
-        {
-          "name": "Dee Wilson",
-          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
-        },
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 350400,
-      "name": "Jesus, My Brother - Live",
-      "url": "https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
@@ -1395,6 +1367,34 @@
       "duration_ms": 289398,
       "name": "Comfort - Live",
       "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Jesus, My Brother + Like Jesus (Live)",
+        "url": "https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Dee Wilson",
+          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Jesus, My Brother - Live",
+      "url": "https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1567,30 +1567,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Put Your Name On Me",
-        "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
-        },
-        {
-          "name": "Tony Fresh",
-          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
-        }
-      ],
-      "duration_ms": 507068,
-      "name": "Put Your Name On Me (feat. Tony Fresh)",
-      "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Easy to Worship (Live in New Orleans)",
         "url": "https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 349560,
       "name": "Easy to Worship (Live in New Orleans)",
       "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Put Your Name On Me",
+        "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Tony Fresh",
+          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
+        }
+      ],
+      "duration_ms": 507068,
+      "name": "Put Your Name On Me (feat. Tony Fresh)",
+      "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1875,26 +1875,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "King of Heaven (Live)",
-        "url": "https://open.spotify.com/album/3N12i9o7M97GYYD3jvSjZU"
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
       },
       "artists": [
         {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Tim Brown",
-          "url": "https://open.spotify.com/artist/67Lzp1AsWFjqvzmxExL94n"
-        },
-        {
-          "name": "Anabeth Morgan",
-          "url": "https://open.spotify.com/artist/1IHCk5mgkZFhoqOxwUhKvl"
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
         }
       ],
-      "duration_ms": 360220,
-      "name": "King of Heaven - Live",
-      "url": "https://open.spotify.com/track/2zqYTGg0MDFeWz8mXVYGBk"
+      "duration_ms": 338900,
+      "name": "Good Things - (Live) [Acoustic]",
+      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1915,18 +1907,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
+        "name": "King of Heaven (Live)",
+        "url": "https://open.spotify.com/album/3N12i9o7M97GYYD3jvSjZU"
       },
       "artists": [
         {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Tim Brown",
+          "url": "https://open.spotify.com/artist/67Lzp1AsWFjqvzmxExL94n"
+        },
+        {
+          "name": "Anabeth Morgan",
+          "url": "https://open.spotify.com/artist/1IHCk5mgkZFhoqOxwUhKvl"
         }
       ],
-      "duration_ms": 338900,
-      "name": "Good Things - (Live) [Acoustic]",
-      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
+      "duration_ms": 360220,
+      "name": "King of Heaven - Live",
+      "url": "https://open.spotify.com/track/2zqYTGg0MDFeWz8mXVYGBk"
     },
     {
       "added_at": "2024-04-05 04:00:00",

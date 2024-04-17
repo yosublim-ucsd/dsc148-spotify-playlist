@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Binary Vampire",
+        "url": "https://open.spotify.com/album/7Cc5sSu8MYibND5g4jK33J"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Binary Vampire",
+      "url": "https://open.spotify.com/track/1kweGaOuEAeP4Jpby7sREy"
+    },
+    {
+      "album": {
         "name": "\u0179enit - EP",
         "url": "https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 304880,
       "name": "Happy Days Creation!",
       "url": "https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq"

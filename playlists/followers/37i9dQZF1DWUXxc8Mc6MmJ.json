@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 803577,
+  "2024-04-17": 803758,
   "date_first_scraped": "2022-05-30",
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
@@ -3114,7 +3114,7 @@
     },
     {
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1",
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY"
       },
       "artists": [
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 262482,
       "name": "Rain and You",
       "url": "https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP"
@@ -3645,7 +3645,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 216520,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"

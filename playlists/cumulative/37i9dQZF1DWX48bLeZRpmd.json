@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "\u541b\u3060\u3063\u305f\u304b\u3089",
+        "url": "https://open.spotify.com/album/4i2NZmRDdr9V046aAAFutI"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273160,
+      "name": "\u541b\u3060\u3063\u305f\u304b\u3089",
+      "url": "https://open.spotify.com/track/1vSxweCMkArMEraHCaXz50"
+    },
+    {
+      "album": {
         "name": "\u4e94\u7b49\u5206\u306e\u8ecc\u8de1 EP",
         "url": "https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq"
       },

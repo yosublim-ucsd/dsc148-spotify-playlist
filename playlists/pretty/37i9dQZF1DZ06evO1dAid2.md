@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
-> This Is Chuck Berry\. Los temas esenciales, todos en una lista.
+> This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,583 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,562 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 |
 | 50 | [Trick Or Treat](https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 1:31 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDQ3MTdkYzYzOGFmODVhYWQ4YjUyMjY2YmRiNzA3OGZl`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQ4ZGIzYTY5YzkzNzQwNjRlNWNmNjBjYjU0ZDg4NzRh`

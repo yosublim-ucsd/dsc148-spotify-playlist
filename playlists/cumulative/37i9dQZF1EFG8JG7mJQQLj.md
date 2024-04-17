@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-465 songs - 1 day 3 hr 3 min
+466 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,8 @@
 | [Who's That Boy](https://open.spotify.com/track/4s6uISi4qxj5GK84p3Idu3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:12 | 2024-01-29 |  |
 | [Why Do You Love Me](https://open.spotify.com/track/09rBX6mQFN1GFJgfqUQak5) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:51 | 2024-01-31 |  |
 | [Why Do You Love Me](https://open.spotify.com/track/6po9mcIat5INH4PnJE7fmF) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Why Do You Love Me](https://open.spotify.com/album/0lLBM6I1Fx0EBgfobLWS7h) | 3:41 | 2024-01-29 | 2024-02-01 |
-| [Why Try](https://open.spotify.com/track/6tg9IlbJeHzesV5OWuhDup) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr) | 3:31 | 2024-01-29 |  |
+| [Why Try](https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:31 | 2024-04-16 |  |
+| [Why Try](https://open.spotify.com/track/6tg9IlbJeHzesV5OWuhDup) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr) | 3:31 | 2024-01-29 | 2024-04-17 |
 | [Wild Life](https://open.spotify.com/track/4zD9RBG51Lj8bnQwolLnyu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 4:27 | 2024-01-29 |  |
 | [Wildfire](https://open.spotify.com/track/40MNdK1qPu8kDB0cSI51ds) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:19 | 2024-01-29 |  |
 | [Wings](https://open.spotify.com/track/2Kz5qeXifBxE0zmuoVchlM) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 4:12 | 2024-01-29 |  |

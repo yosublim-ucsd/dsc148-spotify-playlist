@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Tre Allegri Ragazzi Morti in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,614 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,664 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

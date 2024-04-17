@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-38 songs - 2 hr 35 min
+39 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2024-04-01 |  |
 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 | 2024-04-05 |  |
 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 | 2024-04-01 |  |
+| [回転・天使](https://open.spotify.com/track/0cVaG276BeCnxIxf42puZ1) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [時間](https://open.spotify.com/album/7hhhZ2apbHb5XZj2sXY2FU) | 5:40 | 2024-04-16 |  |
 | [水星 \(feat\. オノマトペ大臣\)](https://open.spotify.com/track/6XA6rD06U0Y7L8q9EISVGX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [オノマトペ大臣](https://open.spotify.com/artist/575g2KDApbVOueuZbqtJPU) | [水星](https://open.spotify.com/album/0HN0p05E303NlGcdmwEVld) | 4:33 | 2024-04-03 |  |
 | [薄闇の花](https://open.spotify.com/track/0XuiVaUWS7SN3Z12pkOtCn) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 4:02 | 2024-04-12 |  |
 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 | 2024-04-04 |  |

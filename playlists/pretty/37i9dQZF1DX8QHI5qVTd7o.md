@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,609 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,602 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 25 | [Electric Elephants](https://open.spotify.com/track/4O2gRMLAIQYHXe25wjeTFj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Electric Elephants](https://open.spotify.com/album/1Vlj2MZ0h4LA0IYjPvX6eI) | 2:53 |
 | 26 | [Koala](https://open.spotify.com/track/3Af7K6rJ85E9eS0yy8eRNA) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Last All Night \(Koala\) \[feat\. KStewart\] \[Remixes\]](https://open.spotify.com/album/02HK6sMyGpa7EdjE2KEUMx) | 4:24 |
 | 27 | [C.U.B.A](https://open.spotify.com/track/1ZoHuLxbQho7N5ioKA6Hx1) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [C.U.B.A](https://open.spotify.com/album/12zQ9tz6fjLsB5RjxUgXFu) | 4:29 |
-| 28 | [The Power of Now](https://open.spotify.com/track/6DS51XJ8iV21mAcjPxASWZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 3:21 |
+| 28 | [The Hum](https://open.spotify.com/track/0Gc1AVYqYOR522Nvz68dsT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [The Hum](https://open.spotify.com/album/7dfJi8NBqmMSHVv3RJ1Mnx) | 3:31 |
 | 29 | [Yottabyte](https://open.spotify.com/track/1PYsy4cGp3egbeaQDjIGIa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:30 |
-| 30 | [The Hum](https://open.spotify.com/track/0Gc1AVYqYOR522Nvz68dsT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [The Hum](https://open.spotify.com/album/7dfJi8NBqmMSHVv3RJ1Mnx) | 3:31 |
+| 30 | [The Power of Now](https://open.spotify.com/track/6DS51XJ8iV21mAcjPxASWZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 3:21 |
 | 31 | [Raise Your Hands](https://open.spotify.com/track/6Jv5h8M5w6bKi13W9TpFDS) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Raise Your Hands](https://open.spotify.com/album/53W9iQ5nOIFCTWb2lVwpe5) | 4:26 |
 | 32 | [C'mon](https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:05 |
 | 33 | [Golden Pineapple](https://open.spotify.com/track/2hNzhAJqtVIHlcTwmPJFf0) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Golden Pineapple](https://open.spotify.com/album/67eeCJWRKbaRuT57iuRdhd) | 3:08 |

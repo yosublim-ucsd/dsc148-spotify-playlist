@@ -1,7 +1,7 @@
 {
-  "2024-04-16": 133181,
+  "2024-04-17": 133330,
   "date_first_scraped": "2022-08-19",
-  "description": "Seinfeld is back!",
+  "description": "that's how we do it",
   "name": "Open Air",
   "tracks": [
     {
@@ -1823,6 +1823,24 @@
       "duration_ms": 367086,
       "name": "Bocat - Michael Bibi Remix",
       "url": "https://open.spotify.com/track/32eqGAgvDMAucaoD7es7uv"
+    },
+    {
+      "album": {
+        "name": "Boiling Room",
+        "url": "https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Boiling Room",
+      "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
     },
     {
       "album": {
@@ -8337,6 +8355,24 @@
       "duration_ms": 230645,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4Tc5bKaRRITB0gPllU11yH"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373740,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/5LAbdYCh4FxdrGqMUcqJsQ"
     },
     {
       "album": {

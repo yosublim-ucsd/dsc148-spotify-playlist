@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,462 likes - 140 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,510 likes - 140 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

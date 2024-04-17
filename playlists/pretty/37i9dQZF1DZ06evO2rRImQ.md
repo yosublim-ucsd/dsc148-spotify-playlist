@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 ### [This Is Banda Los Recoditos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rRImQ)
 
-> This is Banda Los Recoditos\. The essential tracks, all in one playlist.
+> This Is Banda Los Recoditos\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,722 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,568 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Chiquitita](https://open.spotify.com/track/1gejXzSYPS7XXDYuOjcvr8) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 2:36 |
 | 50 | [¿Cuánto Cuesta?](https://open.spotify.com/track/78gyWuojzXoH8J9q9M22Vw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Las Bandas Románticas](https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN) | 2:19 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDIxZWIzZjNjMGU5Y2ZiMjJiY2ZlMTExNmJmZjBlZjc4`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGI0YmQzYzgzZGNjMzU5ZTAxMjE3ZWU5ZjEwZjhlNDVi`

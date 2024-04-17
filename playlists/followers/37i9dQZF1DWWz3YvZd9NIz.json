@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 145049,
+  "2024-04-17": 145098,
   "date_first_scraped": "2022-12-10",
   "description": "The best hardstyle remixes of songs you know!",
   "name": "Hardstyle Remixes of Popular Songs",
@@ -2245,7 +2245,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 248471,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
@@ -4011,7 +4011,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

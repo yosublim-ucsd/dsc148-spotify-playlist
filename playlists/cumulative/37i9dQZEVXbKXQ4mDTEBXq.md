@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-414 songs - 1 day 1 hr 58 min
+415 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Chopstick](https://open.spotify.com/track/6Yv0xoR37tcxzvey8ybW5l) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [U \-Special Edition\-](https://open.spotify.com/album/1L1WTrtt1kNzj4epuasXDl) | 2:57 | 2021-11-26 | 2022-02-08 |
 | [Cinderella Boy](https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Lazy Sunday](https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3) | 3:54 | 2023-06-06 | 2024-01-16 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2021-08-04 | 2022-11-03 |
+| [Click](https://open.spotify.com/track/2kFUlPHiyXAYMfE0fhoRS4) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Click](https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f) | 2:45 | 2024-04-16 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-04-16 | 2022-08-09 |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-23 | 2023-08-27 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-02-13 | 2024-04-07 |
@@ -154,7 +155,7 @@
 | [Poppin' Shakin'](https://open.spotify.com/track/0jfFu1W96AlrsMqXSZZlSt) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Poppin' Shakin'](https://open.spotify.com/album/3yTEI6nQJTTHPVlFauTCsv) | 3:12 | 2021-04-09 | 2021-07-04 |
 | [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 | 2021-03-27\* | 2022-08-12 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-08-29 | 2024-01-20 |
-| [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 | 2024-01-19 |  |
+| [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 | 2024-01-19 | 2024-04-17 |
 | [Renegades](https://open.spotify.com/track/29VVYrV5TVpGu0IfoTXlcw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Renegades](https://open.spotify.com/album/2YXEcU1J4p8HyIVatFFmng) | 4:04 | 2021-04-18 | 2021-05-03 |
 | [Renegades](https://open.spotify.com/track/3RpFwqdROrxJvHywpT1pJ4) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Renegades](https://open.spotify.com/album/0uNPIYCX5XTqLPinM9hVE2) | 4:04 | 2021-05-03 | 2021-07-28 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-12-25 | 2022-12-27 |

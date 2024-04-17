@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 317490,
+  "num_followers": 317590,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
-      },
-      "artists": [
-        {
-          "name": "Lordsun",
-          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
-        }
-      ],
-      "duration_ms": 217370,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Sexy Times (3rd Anniversary Edition)",
         "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 225084,
       "name": "Hot Chance",
       "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
+      },
+      "artists": [
+        {
+          "name": "Lordsun",
+          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
+        }
+      ],
+      "duration_ms": 217370,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Magall\u00e1nica Thunderlove",
-        "url": "https://open.spotify.com/album/7nZMULV0M6xaq3dakYo70k"
-      },
-      "artists": [
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 238048,
-      "name": "Gal\u00e1ctica Airlines",
-      "url": "https://open.spotify.com/track/5i3JrtiZnd595v1P9WKsRP"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Magall\u00e1nica Thunderlove",
+        "url": "https://open.spotify.com/album/7nZMULV0M6xaq3dakYo70k"
+      },
+      "artists": [
+        {
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        }
+      ],
+      "duration_ms": 238048,
+      "name": "Gal\u00e1ctica Airlines",
+      "url": "https://open.spotify.com/track/5i3JrtiZnd595v1P9WKsRP"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORSATURDAYS",
-        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
       },
       "artists": [
         {
-          "name": "Kokonoku",
-          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
         }
       ],
-      "duration_ms": 240000,
-      "name": "SAILORSATURDAYS",
-      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+        "name": "SAILORSATURDAYS",
+        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+          "name": "Kokonoku",
+          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
         }
       ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+      "duration_ms": 240000,
+      "name": "SAILORSATURDAYS",
+      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "NNTYTUU",
-          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
-        }
-      ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Dizzy Dream",
         "url": "https://open.spotify.com/album/4g3u7WfYQsbQ5UTCwCgudZ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 170847,
       "name": "Dizzy Dream",
       "url": "https://open.spotify.com/track/05Jt5VDLzONX0wNK7v6B1U"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "NNTYTUU",
+          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
+        }
+      ],
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sendagi Collection",
-        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Selfish Earrings",
-      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
@@ -1483,6 +1463,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "The Beach Episode",
+        "url": "https://open.spotify.com/album/7AnRU4HfXueRmQLztGbPDA"
+      },
+      "artists": [
+        {
+          "name": "GHOST DATA",
+          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
+        }
+      ],
+      "duration_ms": 241577,
+      "name": "The Beach Episode",
+      "url": "https://open.spotify.com/track/3gvgYy4WXuM9nqYNidUoot"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
       },
@@ -1499,22 +1495,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Must Be Dreamin'",
-        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+        "name": "\u30ca\u30a4\u30c8\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK"
       },
       "artists": [
         {
-          "name": "Luanmer",
-          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
         }
       ],
-      "duration_ms": 223129,
-      "name": "I Must Be Dreamin'",
-      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
+      "duration_ms": 228597,
+      "name": "Breaking Away",
+      "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1535,22 +1527,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "The Beach Episode",
-        "url": "https://open.spotify.com/album/7AnRU4HfXueRmQLztGbPDA"
-      },
-      "artists": [
-        {
-          "name": "GHOST DATA",
-          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
-        }
-      ],
-      "duration_ms": 241577,
-      "name": "The Beach Episode",
-      "url": "https://open.spotify.com/track/3gvgYy4WXuM9nqYNidUoot"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Tropical Feeling",
         "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
       },
@@ -1563,6 +1539,26 @@
       "duration_ms": 292939,
       "name": "Tropical Feeling",
       "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Must Be Dreamin'",
+        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+      },
+      "artists": [
+        {
+          "name": "Luanmer",
+          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "I Must Be Dreamin'",
+      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1639,6 +1635,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1655,22 +1667,6 @@
       "duration_ms": 210731,
       "name": "Dance Tonite",
       "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
-      },
-      "artists": [
-        {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2023-07-18 02:21:29",

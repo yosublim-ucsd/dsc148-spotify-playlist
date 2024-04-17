@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: blesse",
-  "num_followers": 4452,
+  "num_followers": 4458,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Le feu",
-        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 231358,
-      "name": "Le feu",
-      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Choses Sauvages",
         "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 157827,
       "name": "La valse des trottoirs",
       "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Le feu",
+        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 231358,
+      "name": "Le feu",
+      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "The Witness",
         "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 298336,
       "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223849,
       "name": "Comfort, Edge",
       "url": "https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "mile \u200eend (kiss ur friends)",
         "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 192000,
       "name": "\u200emile \u200eend",
       "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 268426,
       "name": "Ma\u00efa",
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Le soleil et la mer",
-        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Femme-Lady",
-      "url": "https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1031,6 +1031,22 @@
       "duration_ms": 163978,
       "name": "Combien \u00e7a co\u00fbte",
       "url": "https://open.spotify.com/track/39W2PPVBdO9qzI8TZBXrcK"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Le soleil et la mer",
+        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Femme-Lady",
+      "url": "https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "PICTURA DE IPSE : Musique directe",
-        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 189712,
-      "name": "DIMANCHE SOIR",
-      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Tracer des lignes",
-        "url": "https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v"
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
       "artists": [
         {
-          "name": "oui merci",
-          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
         }
       ],
-      "duration_ms": 189510,
-      "name": "Tracer des lignes",
-      "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     }
   ],
   "unique_name": "ALT_QC",

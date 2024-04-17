@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 1327598,
+  "2024-04-17": 1327532,
   "date_first_scraped": "2019-07-30",
   "description": "Genre-less. Quality first always. Cover: Caribou",
   "name": "POLLEN",
@@ -4359,6 +4359,28 @@
       "duration_ms": 206874,
       "name": "Bad Ting",
       "url": "https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2"
+    },
+    {
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "album": {

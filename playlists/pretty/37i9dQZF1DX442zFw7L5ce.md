@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,365 likes - 41 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,363 likes - 41 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 10 | [Monna Kanipinchavu](https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Surya S/o Krishnan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34EFScbYAJkSTujfbtT8gO) | 5:32 |
 | 11 | [Jennifer Lopez](https://open.spotify.com/track/7DogGBT86sbjsNWQSIGLtB) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya](https://open.spotify.com/artist/6sseiKkl0ugvHy2WH0GCTR) | [Jalsa](https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u) | 4:18 |
 | 12 | [Ekkada Ekkada](https://open.spotify.com/track/7CwwtSBeTSglx1kDJ6owQ2) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Murari](https://open.spotify.com/album/6kl5gAF0jqGb9iKdLVGBHr) | 6:11 |
-| 13 | [Nammavemo](https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF) | [Saketh Naidu](https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v) | [Parugu](https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C) | 4:46 |
+| 13 | [Sweety](https://open.spotify.com/track/1YpczjhxnvD6WBWdnu3s4X) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Race Gurram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo) | 4:25 |
 | 14 | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/album/5qYCzmTt8Vnw9B0Ok95HtI) | 4:59 |
-| 15 | [Sweety](https://open.spotify.com/track/1YpczjhxnvD6WBWdnu3s4X) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Race Gurram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo) | 4:25 |
+| 15 | [Nammavemo](https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF) | [Saketh Naidu](https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v) | [Parugu](https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C) | 4:46 |
 | 16 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
 | 17 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 |
 | 18 | [Baguntundhi Nuvvu Navvithe \(From "Atithi Devobhava"\)](https://open.spotify.com/track/18JVTOKs9ghqPLtkMeqffL) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Baguntundhi Nuvvu Navvithe \(From "Atithi Devobhava"\)](https://open.spotify.com/album/2NAbXL8eqGOLet1QnQr7mv) | 3:42 |

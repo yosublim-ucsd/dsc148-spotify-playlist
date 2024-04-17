@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 205692,
+  "2024-04-17": 205695,
   "date_first_scraped": "2022-05-30",
   "description": "Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.",
   "name": "Quiet Hours",
@@ -4409,7 +4409,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 267027,
       "name": "Redder Than The Moon",
       "url": "https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd"
@@ -6405,6 +6405,24 @@
       "duration_ms": 123000,
       "name": "Window Camping",
       "url": "https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9"
+    },
+    {
+      "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456607,
+      "name": "Wirikuta Wild",
+      "url": "https://open.spotify.com/track/1qhKS3ndv82pUhaqs1nxGE"
     },
     {
       "album": {

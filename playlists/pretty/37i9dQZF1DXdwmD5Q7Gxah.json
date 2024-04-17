@@ -1,12 +1,12 @@
 {
   "description": "cover: chappell roan's infamous set from the desert \ud83d\udc06",
-  "num_followers": 1144736,
+  "num_followers": 1144874,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzIxNDY0NSwwMDAwMDAwMGM1ODU4MTdkYWJjNTJiMDYzMGJlZmI5OTI4ZmFkOWE2",
+  "snapshot_id": "MTcxMzI4OTUyOCwwMDAwMDAwMGNiYmEzMmUzOWFlNGViNDg2NzEzMjI0OWVhZWRmYmQy",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Live At Narcissus",
-        "url": "https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 338760,
-      "name": "Skin Parade / Fade Into You - Live At Narcissus",
-      "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
-    },
-    {
       "added_at": "2024-04-15 19:46:21",
       "album": {
         "name": "Night Time, My Time",
@@ -55,6 +39,38 @@
       "duration_ms": 235066,
       "name": "You\u2019re Not The One",
       "url": "https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP"
+    },
+    {
+      "added_at": "2024-04-16 17:45:28",
+      "album": {
+        "name": "Shudder",
+        "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 167271,
+      "name": "Shudder",
+      "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Live At Narcissus",
+        "url": "https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 338760,
+      "name": "Skin Parade / Fade Into You - Live At Narcissus",
+      "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -95,6 +111,22 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
+    },
+    {
+      "added_at": "2024-04-16 16:09:41",
+      "album": {
+        "name": "Hanging By A Moment",
+        "url": "https://open.spotify.com/album/2zXWTmzp8t0y8Fhz00WWvj"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Hanging By A Moment",
+      "url": "https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY"
     },
     {
       "added_at": "2024-04-13 03:40:55",
@@ -159,6 +191,22 @@
       "duration_ms": 142449,
       "name": "Rag",
       "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
+    },
+    {
+      "added_at": "2024-04-16 03:56:13",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Go Off",
+      "url": "https://open.spotify.com/track/032UZ3KVrzII6AE9Abnj7z"
     },
     {
       "added_at": "2024-04-13 23:11:12",

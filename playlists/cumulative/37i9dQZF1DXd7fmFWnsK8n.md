@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-153 songs - 10 hr 55 min
+154 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bang!Bang!Bang!](https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:21 | 2022-06-09 | 2023-04-11 |
 | [BE AUTHENTIC](https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:36 | 2023-03-07 |  |
 | [BEAUTIFUL PRAYER](https://open.spotify.com/track/76oD3MdvDxa0ohFlYs6OT8) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:25 | 2023-05-24 |  |
+| [Binary Vampire](https://open.spotify.com/track/1kweGaOuEAeP4Jpby7sREy) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Binary Vampire](https://open.spotify.com/album/7Cc5sSu8MYibND5g4jK33J) | 3:31 | 2024-04-16 |  |
 | [BLACK TIGER](https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Źenit \- EP](https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS) | 3:48 | 2022-12-13 |  |
 | [Boys & Girls](https://open.spotify.com/track/17cQxYJ2mcanjoPMwDYAxz) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Opus](https://open.spotify.com/album/6Z3MIv6zLb1bk2aOMGbGsi) | 4:06 | 2022-06-14 | 2022-07-23 |
 | [Chameleon](https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY) | [Yamato Nikaido \(CV: Yusuke Shirai\)](https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK), [Sogo Osaka \(CV: Atsushi Abe\)](https://open.spotify.com/artist/6S3Y222d1LlL91Mr9Zao7j), [Yuki \(CV: Shinnosuke Tachibana\)](https://open.spotify.com/artist/67vfCcitRvMcZluBW4dSzk), [Minami Natsume \(CV: Koutaro Nishiyama\)](https://open.spotify.com/artist/28IIr1lXeCP14LA8DGFjuu) | [Chameleon](https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4) | 3:30 | 2024-04-01 |  |
@@ -42,7 +43,7 @@
 | [Forever Note](https://open.spotify.com/track/6lOJvgfaTLtyPEozeXyg7l) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [Forever Note](https://open.spotify.com/album/5DehSj5HPoXgAdC0wzSa4X) | 4:24 | 2022-06-09 | 2024-01-31 |
 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 | 2022-06-09 |  |
 | [GOOD NIGHT AWESOME](https://open.spotify.com/track/7FJ3nd142MscRkVtdf6mPU) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [GOOD NIGHT AWESOME](https://open.spotify.com/album/6ABDcaaAs2dpz5wkBQgG3s) | 4:01 | 2022-06-14 | 2022-07-27 |
-| [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 | 2022-06-09 |  |
+| [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 | 2022-06-09 | 2024-04-17 |
 | [Haru no Yo no Yume](https://open.spotify.com/track/1v6HkMSPtQkYzEm1KPDiTa) | [Tamaki Yotsuba \(CV: KENN\)](https://open.spotify.com/artist/3tIlRXYi6ZVj8uKVjFG2pm), [Mitsuki Izumi \(CV: Tsubasa Yonaga\)](https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C), [Nagi Rokuya \(CV: Takuya Eguchi\)](https://open.spotify.com/artist/2ZfNlteExNPFRONNwnJ6RQ) | [Haru no Yo no Yume](https://open.spotify.com/album/1isP2Q5I1ZGFTkpn7lnbaT) | 3:12 | 2024-04-01 |  |
 | [Heavenly Visitor](https://open.spotify.com/track/1EHzM7ZHH5Z16NkyNhIOkv) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Heavenly Visitor / DIAMOND FUSION](https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL) | 4:24 | 2022-06-09 | 2022-07-25 |
 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 | 2022-06-09 |  |

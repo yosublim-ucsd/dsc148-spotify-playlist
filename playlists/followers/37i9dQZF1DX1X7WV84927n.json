@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 356954,
+  "2024-04-17": 356845,
   "date_first_scraped": "2021-12-21",
   "description": "For full-volume lovers, new and recent favorites. Cover: NOTHING MORE",
   "name": "Hard Rock",
@@ -549,6 +549,24 @@
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
+    },
+    {
+      "album": {
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
       "album": {
@@ -6531,7 +6549,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 255725,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/6vkpZc0eS9J6h6MUIePdbu"

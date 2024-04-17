@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 12105,
+  "2024-04-17": 12106,
   "date_first_scraped": "2022-05-26",
   "description": "a journey through ephemeral moments",
   "name": "transience",
@@ -1879,6 +1879,24 @@
       "duration_ms": 244995,
       "name": "Gr\u00f6na Dalen",
       "url": "https://open.spotify.com/track/1jnAYgcrmDnykUrdW7Wx0b"
+    },
+    {
+      "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291002,
+      "name": "Gurek",
+      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
       "album": {
@@ -4351,7 +4369,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 244773,
       "name": "The Last Retention",
       "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"

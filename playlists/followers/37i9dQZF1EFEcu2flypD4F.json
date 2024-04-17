@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 9766,
+  "2024-04-17": 9768,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV\">Sia</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sia",
@@ -2969,6 +2969,28 @@
       "duration_ms": 255293,
       "name": "If You Say So",
       "url": "https://open.spotify.com/track/7x9nRizCCQRCGkCrLaQ8Tk"
+    },
+    {
+      "album": {
+        "name": "Incredible (feat. Labrinth)",
+        "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213632,
+      "name": "Incredible (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
     },
     {
       "album": {

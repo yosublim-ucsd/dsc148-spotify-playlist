@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Mindflip
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,088 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,095 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 26 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 |
 | 27 | [Lil Boat](https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM2](https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd) | 3:00 |
 | 28 | [Pizzazz](https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/2R5AREpPKUMqQyIVQG61FI) | 3:11 |
-| 29 | [Come Outside](https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7) | 3:18 |
-| 30 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
+| 29 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
+| 30 | [Come Outside](https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7) | 3:18 |
 | 31 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 |
 | 32 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Special Occasion](https://open.spotify.com/album/41EeKSi50U1kVWCq08Cqav) | 3:53 |
 | 33 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |

@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-112 songs - 6 hr 52 min
+113 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Who Knows](https://open.spotify.com/track/6T5eAjtjBQJEWVGtndJ9XA) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Who Knows](https://open.spotify.com/album/2UgeXzcLnZ707ZAkoYyW8s) | 3:12 | 2023-03-02 |  |
 | [Wildest Moments](https://open.spotify.com/track/2QPuWjnOa6N5p8fGn3iGly) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 3:42 | 2023-03-02 |  |
 | [Woman](https://open.spotify.com/track/570DNdCjckkG4MAQfO0Aab) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 2:54 | 2023-03-02 | 2023-11-11 |
-| [Woman](https://open.spotify.com/track/779N5SO1S5wcANF5pp1EUB) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/6FZj5JixSLG35CvbNYswlX) | 2:54 | 2023-03-10 |  |
+| [Woman](https://open.spotify.com/track/599wnwUzqf6Jv1sjITNr77) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/05k0uvZke7FVMTEXPfKBjT) | 2:54 | 2023-03-10 |  |
+| [Woman](https://open.spotify.com/track/779N5SO1S5wcANF5pp1EUB) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/6FZj5JixSLG35CvbNYswlX) | 2:54 | 2023-03-10 | 2024-04-17 |
 | [World of Trouble](https://open.spotify.com/track/2KH8SX3xQaX5woA6U8u2Zi) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [World of Trouble](https://open.spotify.com/album/15591bTnDApAgFAbDazNBI) | 3:04 | 2023-03-02 |  |
 | [You](https://open.spotify.com/track/1pPmAaQ6XcuGwwNDRm5N1e) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [You](https://open.spotify.com/album/20t3RavpQsky1tVEAUaeGl) | 3:48 | 2023-03-02 |  |
 | [Your Love Is Like Petrol](https://open.spotify.com/track/3ecvSopt2pVANLVjp89Gul) | [Client](https://open.spotify.com/artist/1IjPJum5sJ6iSr3mBsSYJk) | [Command](https://open.spotify.com/album/7sBjk70CRR4VuIdIri30nl) | 3:14 | 2023-03-02 |  |

@@ -3800,7 +3800,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 199497,
       "name": "DARLING DRIVE",
       "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
@@ -11216,6 +11216,28 @@
       "duration_ms": 155638,
       "name": "NOW COME ON NOW",
       "url": "https://open.spotify.com/track/7c6oQ0XE7ajiShh26GC299"
+    },
+    {
+      "album": {
+        "name": "NOW COME ON NOW (Mell Hall Remix)",
+        "url": "https://open.spotify.com/album/4SlNN6lF4k3Q4cZM6rtkRj"
+      },
+      "artists": [
+        {
+          "name": "KYE",
+          "url": "https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp"
+        },
+        {
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180176,
+      "name": "NOW COME ON NOW - Mell Hall Remix",
+      "url": "https://open.spotify.com/track/4GOorEzwHOoYSy1xaGTyrG"
     },
     {
       "album": {

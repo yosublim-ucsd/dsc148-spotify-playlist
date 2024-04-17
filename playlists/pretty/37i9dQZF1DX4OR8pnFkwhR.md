@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。Cover: 名誉伝説
+> Spotifyが注目するニューカマー・プレイリスト。Cover: tuki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,253 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,246 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 |
-| 2 | [Bite you](https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Bite you](https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm) | 3:02 |
+| 1 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
+| 2 | [People 365](https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 4:36 |
 | 3 | [灰かぶり](https://open.spotify.com/track/42u1tC79WuOEhMH8JnXyWn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 3:41 |
 | 4 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 |
 | 5 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
-| 6 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 7 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
-| 8 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
+| 6 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
+| 7 | [Drink \(feat.JJJ\)](https://open.spotify.com/track/69T7tPlyIhqAD7k0BWWnsg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:34 |
+| 8 | [paypay](https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:51 |
 | 9 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 |
-| 10 | [BINBO](https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BINBO](https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai) | 2:18 |
-| 11 | [Exclamation Mark](https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:05 |
-| 12 | [paypay](https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:51 |
+| 10 | [Exclamation Mark](https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:05 |
+| 11 | [Bite you](https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Bite you](https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm) | 3:02 |
+| 12 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 |
 | 13 | [Sukideshita.](https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [ReUnion](https://open.spotify.com/album/7kmoVx9z1qTqZSN4B4svCJ) | 4:10 |
 | 14 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 |
 | 15 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 26 | [Hitsujigumo](https://open.spotify.com/track/2YSybXboavdEVDBF4ysw2g) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Hitsujigumo](https://open.spotify.com/album/3OfcxKGFYgAbaUP5o8JpEg) | 3:37 |
 | 27 | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/track/34evbKY1tcjSoxZXFIX8wo) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX) | 4:29 |
 | 28 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
-| 29 | [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 |
+| 29 | [LAZY](https://open.spotify.com/track/4hOX56ThfbrHQyNfBisB92) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [LAZY](https://open.spotify.com/album/0OCm5RpB0BYQhrYpH3unft) | 3:45 |
 | 30 | [琥珀](https://open.spotify.com/track/2cyLtPHD0SwHjYJGvD7z2V) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TIME](https://open.spotify.com/album/6uEPUNxIJkdZ6AGSKhywHB) | 4:11 |
 | 31 | [22](https://open.spotify.com/track/1ezSlfETdnObyRLB8UjBav) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [22](https://open.spotify.com/album/3Yri9jP2cnN0wLiYUJpTFQ) | 2:25 |
 | 32 | [ライリーストーン](https://open.spotify.com/track/3zi93hKpuQFoTpEAdLOSks) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ライリーストーン](https://open.spotify.com/album/6mforR7QQONEUKHNtTqPWb) | 2:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [純情](https://open.spotify.com/track/51gs6ICIvYvSPz22cREjup) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [夢の中で、夢から醒めて](https://open.spotify.com/album/2Gje9p6OLGFQoqSovlwfEb) | 3:27 |
 | 70 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 
-Snapshot ID: `MTcxMjY3NDgwMCwwMDAwMDAwMGUyYTE5N2Q4NmU5ZmE0ZjRjMTM4ZDkwZjExNDM1ZDA0`
+Snapshot ID: `MTcxMzI3OTYwMCwwMDAwMDAwMGQ2YTIwNjczMDYwMzdkZGYwYzk3OWI2YWJkODI4MjFl`

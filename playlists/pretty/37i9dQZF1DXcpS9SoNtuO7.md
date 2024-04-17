@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 【セットリスト公開中！】2024年1月27日・28日、日本武道館にて開催！The official playlist of "LisAni! LIVE 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,866 likes - 77 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,863 likes - 77 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

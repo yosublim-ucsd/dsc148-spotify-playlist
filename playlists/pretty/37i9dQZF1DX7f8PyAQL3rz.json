@@ -1,6 +1,6 @@
 {
   "description": "onde quer conhecer? fala no ouvido do PH",
-  "num_followers": 1376407,
+  "num_followers": 1376018,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 130375,
+      "name": "Preferida",
+      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
         "name": "Foto da Unha",
         "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 199680,
       "name": "Foto da Unha",
       "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 130375,
-      "name": "Preferida",
-      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
     },
     {
       "added_at": "2024-04-12 03:03:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2024-04-12 03:03:00",
       "album": {
+        "name": "Problemas de um Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Problemas de um Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
+    },
+    {
+      "added_at": "2024-04-12 03:03:00",
+      "album": {
         "name": "ECL\u00c9TICO - LADO A",
         "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 161344,
       "name": "Clickbait",
       "url": "https://open.spotify.com/track/3d1im1pw3WLuEty2k9XzTr"
-    },
-    {
-      "added_at": "2024-04-12 03:03:00",
-      "album": {
-        "name": "Problemas de um Milion\u00e1rio",
-        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Problemas de um Milion\u00e1rio",
-      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "added_at": "2024-04-12 03:03:00",

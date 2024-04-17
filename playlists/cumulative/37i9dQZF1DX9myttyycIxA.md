@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-1,227 songs - 2 day 21 hr 54 min
+1,228 songs - 2 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,7 +1027,8 @@
 | [Sun In](https://open.spotify.com/track/3Rz9sSI0He1TfqcvQliaA2) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:24 | 2023-06-15 | 2023-09-09 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2021-06-02 | 2022-04-29 |
 | [Sunrise](https://open.spotify.com/track/1Ki3xQa6gNxupTmKdYgfsF) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Sunrise](https://open.spotify.com/album/6Dc4zmrfn6OKOWVCwALF7S) | 2:15 | 2021-03-05 | 2022-04-29 |
-| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 |  |
+| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 | 2024-04-17 |
+| [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 | 2024-04-12 |  |
 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 | 2021-08-13 | 2022-08-27 |
 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 | 2023-03-10 | 2023-06-16 |
 | [Surely](https://open.spotify.com/track/7ySAkFmUIX2xj7DTMDC2Ej) | [Nara's Room](https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW) | [Surely](https://open.spotify.com/album/0OcRephWE5hiCa0aTo16KA) | 4:25 | 2023-08-03 | 2024-01-27 |

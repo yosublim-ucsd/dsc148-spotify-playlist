@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 8 & KVGGLV",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Lisa lil vinci",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Ain't Scared",
+        "url": "https://open.spotify.com/album/3mKKpRJXrBPZc1sZIKDrQf"
+      },
+      "artists": [
+        {
+          "name": "Tepa Roucci",
+          "url": "https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Ain't Scared",
+      "url": "https://open.spotify.com/track/2cs7VBf1Y8kk01tszYEDOb"
+    },
+    {
+      "album": {
         "name": "aitaiyo",
         "url": "https://open.spotify.com/album/4ZT1IZT5FIPNqKR1SG4T6l"
       },
@@ -394,6 +412,28 @@
       "duration_ms": 202156,
       "name": "Almost 20",
       "url": "https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x"
+    },
+    {
+      "album": {
+        "name": "Dream pool",
+        "url": "https://open.spotify.com/album/6SVF66US4aiLfcgC5IGquX"
+      },
+      "artists": [
+        {
+          "name": "Lisa lil vinci",
+          "url": "https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH"
+        },
+        {
+          "name": "SXICIDE RYUSEI",
+          "url": "https://open.spotify.com/artist/2R9foVRopS1uc8SlRYbCaI"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214580,
+      "name": "Always be killing it",
+      "url": "https://open.spotify.com/track/3C8EOKedfzDXH1diDbBUU1"
     },
     {
       "album": {
@@ -664,7 +704,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 138946,
       "name": "BINBO",
       "url": "https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL"
@@ -892,7 +932,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 171752,
       "name": "Brand new",
       "url": "https://open.spotify.com/track/2urxRM4Vlp8nbmIugWwAvv"
@@ -1236,7 +1276,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 225000,
       "name": "come around",
       "url": "https://open.spotify.com/track/26Ea1ELPf9Lhe7qZnwfilu"
@@ -1415,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Dear v3geboy",
+        "url": "https://open.spotify.com/album/6vaEKXWZjQZHdAJLSFPzZc"
+      },
+      "artists": [
+        {
+          "name": "v3geboy",
+          "url": "https://open.spotify.com/artist/6o5b0gyvclyErlTzoECnJ8"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146392,
+      "name": "Dear v3geboy",
+      "url": "https://open.spotify.com/track/1IGmocmG6F38UXwcOw4sQV"
+    },
+    {
+      "album": {
         "name": "Deep Inside",
         "url": "https://open.spotify.com/album/7hxrB01zm8NgOnCrLpSPqn"
       },
@@ -1532,7 +1590,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 122666,
       "name": "detour",
       "url": "https://open.spotify.com/track/3L1ikh3vRMQDKmry4QFz9T"
@@ -1612,6 +1670,32 @@
       "duration_ms": 160629,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/3qdu41Y9RmZaO7hjMFPivL"
+    },
+    {
+      "album": {
+        "name": "Don Julio (Shin Andrew Remix)",
+        "url": "https://open.spotify.com/album/44bxQnhnitX0OGUs6GqUVe"
+      },
+      "artists": [
+        {
+          "name": "GEEKBOY",
+          "url": "https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG"
+        },
+        {
+          "name": "Yella Flat Boys",
+          "url": "https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP"
+        },
+        {
+          "name": "Shin Andrew",
+          "url": "https://open.spotify.com/artist/35GFNpxXqLW4KbjBMEmJZO"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180007,
+      "name": "Don Julio - Shin Andrew Remix",
+      "url": "https://open.spotify.com/track/2poa3gCAuHOeTO9x3lj1tD"
     },
     {
       "album": {
@@ -1721,6 +1805,28 @@
     },
     {
       "album": {
+        "name": "COMBO",
+        "url": "https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154786,
+      "name": "Drink (feat.JJJ)",
+      "url": "https://open.spotify.com/track/69T7tPlyIhqAD7k0BWWnsg"
+    },
+    {
+      "album": {
         "name": "Driving",
         "url": "https://open.spotify.com/album/6ux60CVtlXNcCLvcl4WLdG"
       },
@@ -1798,6 +1904,28 @@
       "duration_ms": 185814,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0kY2FmM0YhYMUDXA7VD3H4"
+    },
+    {
+      "album": {
+        "name": "COMBO",
+        "url": "https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "anddy toy store",
+          "url": "https://open.spotify.com/artist/6uhbuTjAKPYmAR1lQhoeEQ"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116213,
+      "name": "Enter (feat. anddy toy store)",
+      "url": "https://open.spotify.com/track/2hrhp8K71OX5bl0WVw42Aa"
     },
     {
       "album": {
@@ -3207,6 +3335,28 @@
     },
     {
       "album": {
+        "name": "itudate",
+        "url": "https://open.spotify.com/album/4dgPBQfCubFct9jd9wXOvR"
+      },
+      "artists": [
+        {
+          "name": "NiX",
+          "url": "https://open.spotify.com/artist/5i3TaU0pa4Ig3BF9QcVRce"
+        },
+        {
+          "name": "ME$MAN",
+          "url": "https://open.spotify.com/artist/1mgGB6wHO4StH165v3bWvf"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "itudate",
+      "url": "https://open.spotify.com/track/6ziBFslpNtwIDPi7mJPb6n"
+    },
+    {
+      "album": {
         "name": "Jaded",
         "url": "https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs"
       },
@@ -3792,7 +3942,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 109333,
       "name": "Loneliness Notes",
       "url": "https://open.spotify.com/track/6nTyOvaiJEHihfYioQBkH5"
@@ -3977,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "mp3",
+        "url": "https://open.spotify.com/album/4UxQg8IloG4oJTQldHREHf"
+      },
+      "artists": [
+        {
+          "name": "XENO",
+          "url": "https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155991,
+      "name": "mp3",
+      "url": "https://open.spotify.com/track/1XEWKJUASRAp5GZLXKxi0a"
+    },
+    {
+      "album": {
         "name": "Hood Eye Black",
         "url": "https://open.spotify.com/album/6Z7AxDlXvP9r9iWcCLBzQn"
       },
@@ -4146,7 +4314,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 162107,
       "name": "NERI CHAGI",
       "url": "https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz"
@@ -4252,7 +4420,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 134538,
       "name": "NEW ME",
       "url": "https://open.spotify.com/track/0d8Y7Cxu1qo9HqJhRFW4M8"
@@ -4380,7 +4548,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 241070,
       "name": "Not me us",
       "url": "https://open.spotify.com/track/6fiKYj4yRSw5LCJbkpzjEJ"
@@ -4946,6 +5114,24 @@
       "duration_ms": 159839,
       "name": "Roar system",
       "url": "https://open.spotify.com/track/69ELkRb5OY5eIOrLqkQQWn"
+    },
+    {
+      "album": {
+        "name": "x",
+        "url": "https://open.spotify.com/album/1C2yFyLZbX8d4SmLNzuXFx"
+      },
+      "artists": [
+        {
+          "name": "Tim Pepperoni",
+          "url": "https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128412,
+      "name": "ROX",
+      "url": "https://open.spotify.com/track/1hBmU1RZjeXn4KWCOrmpaB"
     },
     {
       "album": {
@@ -5757,6 +5943,24 @@
     },
     {
       "album": {
+        "name": "The City's Flow",
+        "url": "https://open.spotify.com/album/23kcnlpTTkxZlSNfCKsUqY"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/4c6iB0lzk7IrDpcXi82cBk"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186059,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/7oMB6dO8DkMP8dRTOI7tIy"
+    },
+    {
+      "album": {
         "name": "CBKSW",
         "url": "https://open.spotify.com/album/7AfomS05kB5B9hSEmDyRL9"
       },
@@ -6418,7 +6622,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 153600,
       "name": "Yellow Connection",
       "url": "https://open.spotify.com/track/3eOqiUCnpJTO3fbuzoJRwy"
@@ -6593,6 +6797,24 @@
     },
     {
       "album": {
+        "name": "\u306f\u3058\u307e\u308a",
+        "url": "https://open.spotify.com/album/2O2y83KzYQ5haSzJ5WL6MD"
+      },
+      "artists": [
+        {
+          "name": "\u3055\u3088\u306a\u3089GOODVIBRATION",
+          "url": "https://open.spotify.com/artist/1sq0xWw6UczynlAaJrsiIy"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130545,
+      "name": "\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/7rwUoZOOd2BdXKLVVLivuq"
+    },
+    {
+      "album": {
         "name": "\u5922\u898b\u308b\u8005\u306e\u5831\u3044",
         "url": "https://open.spotify.com/album/2pdaDaaed0Pd6xTI2PW2JO"
       },
@@ -6688,7 +6910,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 103636,
       "name": "\u6700\u4f4e\u3060\u3051\u3069\u6700\u9ad8",
       "url": "https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy"

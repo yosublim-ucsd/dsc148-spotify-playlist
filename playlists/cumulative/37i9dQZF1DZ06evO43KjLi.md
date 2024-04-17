@@ -2,7 +2,7 @@
 
 ### [This Is Esteban Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43KjLi)
 
-> This is Esteban Gabriel\. The essential tracks, all in one playlist.
+> This Is Esteban Gabriel\. Los temas esenciales, todos en una lista.
 
 39 songs - 1 hr 56 min
 

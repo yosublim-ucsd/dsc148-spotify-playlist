@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,235 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,223 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 38 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 |
 | 39 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 |
 | 40 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
-| 41 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
-| 42 | [sempre estrago tudo](https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE](https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK) | 3:08 |
+| 41 | [sempre estrago tudo](https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE](https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK) | 3:08 |
+| 42 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
 | 43 | [o maior otário da cidade](https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [o maior otário da cidade](https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj) | 2:48 |
 | 44 | [lentamente](https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [lentamente](https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r) | 3:19 |
 | 45 | [Teu Pescoço](https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:55 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 68 | [Amigo de Ninguém](https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER \(bem\) PIOR](https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0) | 2:51 |
 | 69 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
 | 70 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 |
-| 71 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
-| 72 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
+| 71 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
+| 72 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
 | 73 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 | 74 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |
 | 75 | [Deixa Estar](https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Foi Tudo Aqui](https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd) | 3:09 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 79 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
 | 80 | [Não Valemos + Nada](https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Não Valemos + Nada](https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE) | 2:38 |
 | 81 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 |
-| 82 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
+| 82 | [RESPIRAR](https://open.spotify.com/track/2PSAlshbjCH0GyDvIW0S84) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [RESPIRAR](https://open.spotify.com/album/7zU632IY56kixfQ7GnprPy) | 3:05 |
 | 83 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
-| 84 | [RESPIRAR](https://open.spotify.com/track/2PSAlshbjCH0GyDvIW0S84) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [RESPIRAR](https://open.spotify.com/album/7zU632IY56kixfQ7GnprPy) | 3:05 |
+| 84 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
 | 85 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
 
 Snapshot ID: `MTcwODYyMjcxNSwwMDAwMDAwMDRhNDI4YmRlNzk4YmQzNGNkN2NmN2ZlN2Y5M2NiNDMy`

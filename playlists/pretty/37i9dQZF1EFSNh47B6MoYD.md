@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 33 | [Cuando Se Ama Como Tú](https://open.spotify.com/track/5A6TF9z2XavNHuYXEJKsh0) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:51 |
 | 34 | [Perder Es Ganar](https://open.spotify.com/track/4p7IxXq8npnLl9MS98knQ6) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:27 |
 | 35 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
-| 36 | [Alguien Más](https://open.spotify.com/track/6UplHCI03dIUk2fxL1l9hq) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Real](https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf) | 4:08 |
-| 37 | [La Venganza](https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Venganza](https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN) | 2:50 |
+| 36 | [La Venganza](https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Venganza](https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN) | 2:50 |
+| 37 | [Alguien Más](https://open.spotify.com/track/6UplHCI03dIUk2fxL1l9hq) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Real](https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf) | 4:08 |
 | 38 | [No Olvides Recordarme](https://open.spotify.com/track/0bfFHScm3WUO97HTZesaRd) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero](https://open.spotify.com/album/3Ab8HPH5pTgPNjdFOHeTze) | 3:53 |
 | 39 | [Luna Nueva](https://open.spotify.com/track/0n2WdWPe5mGO8uUFfBJQ7h) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:04 |
 | 40 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 150 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 151 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 
-Snapshot ID: `Mjg1NTM4OTAsMDAwMDAwMDA5NDRkNThkODg3MWY0MTFiMDFhZDI4NDI1YjVmOTg5ZQ==`
+Snapshot ID: `Mjg1NTUzMzAsMDAwMDAwMDBmN2YzMDBiZGE4YmM1MGY1OTllMWJmNDQ3YTMyM2NjMg==`

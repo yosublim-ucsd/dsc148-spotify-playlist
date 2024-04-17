@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 67769,
+  "num_followers": 67713,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Eeny Meeny Miny Moe",
         "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 154794,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Piano Songs",
-        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
-      },
-      "artists": [
-        {
-          "name": "Purple Tulips",
-          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Isla De Flores",
         "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 159124,
       "name": "Isla De Flores",
       "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Piano Songs",
+        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+      },
+      "artists": [
+        {
+          "name": "Purple Tulips",
+          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Forest Flower",
-        "url": "https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 253056,
-      "name": "Forest Flower",
-      "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "First Sunrise",
         "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 212000,
       "name": "First Sunrise",
       "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Forest Flower",
+        "url": "https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 253056,
+      "name": "Forest Flower",
+      "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Happy Thoughts",
-        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
-      },
-      "artists": [
-        {
-          "name": "Hashim Reese",
-          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
-        }
-      ],
-      "duration_ms": 108750,
-      "name": "Happy Thoughts",
-      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Nefelibata",
-        "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
+        "name": "Happy Thoughts",
+        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
       },
       "artists": [
         {
-          "name": "Jeanelle Bolduc",
-          "url": "https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ"
+          "name": "Hashim Reese",
+          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
         }
       ],
-      "duration_ms": 180624,
-      "name": "Nefelibata",
-      "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+      "duration_ms": 108750,
+      "name": "Happy Thoughts",
+      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1251,22 +1235,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Kiss the Rain",
-        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
+        "name": "Nefelibata",
+        "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
       },
       "artists": [
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        },
-        {
-          "name": "Chris Snelling",
-          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+          "name": "Jeanelle Bolduc",
+          "url": "https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ"
         }
       ],
-      "duration_ms": 170783,
-      "name": "Kiss the Rain",
-      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
+      "duration_ms": 180624,
+      "name": "Nefelibata",
+      "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1283,6 +1263,26 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Kiss the Rain",
+        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "Chris Snelling",
+          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+        }
+      ],
+      "duration_ms": 170783,
+      "name": "Kiss the Rain",
+      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 172522,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
-      },
-      "artists": [
-        {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
-        }
-      ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "erinna",
-        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
       },
       "artists": [
         {
-          "name": "Klaus Weissmuller",
-          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
         }
       ],
-      "duration_ms": 128873,
-      "name": "erinna",
-      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
+      "duration_ms": 163250,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+        "name": "erinna",
+        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
       },
       "artists": [
         {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+          "name": "Klaus Weissmuller",
+          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
         }
       ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+      "duration_ms": 128873,
+      "name": "erinna",
+      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
       "artists": [
         {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
         }
       ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2024-04-08 02:53:57",

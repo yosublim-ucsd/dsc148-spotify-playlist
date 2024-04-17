@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 480115,
+  "num_followers": 480050,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2024-04-15 15:14:45",
@@ -543,34 +543,34 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
     },
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
+      "duration_ms": 254106,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
     },
     {
       "added_at": "2024-04-15 15:14:45",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
+    },
+    {
+      "added_at": "2024-04-15 15:14:45",
+      "album": {
         "name": "Hijos Del Culo",
         "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 249933,
       "name": "Toco Y Me Voy",
       "url": "https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV"
-    },
-    {
-      "added_at": "2024-04-15 15:14:45",
-      "album": {
-        "name": "Raro",
-        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Yendo a la Casa de Dami\u00e1n",
-      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
     },
     {
       "added_at": "2024-04-15 15:14:45",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2024-04-15 15:14:45",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 284531,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+    },
+    {
+      "added_at": "2024-04-15 15:14:45",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2024-04-15 15:14:45",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
-    },
-    {
-      "added_at": "2024-04-15 15:14:45",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 248600,
       "name": "Esta Saliendo El Sol",
       "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
+    },
+    {
+      "added_at": "2024-04-15 15:14:45",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2024-04-15 15:14:45",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
+        "name": "Caminar\u00e1s Caminos",
+        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+    },
+    {
+      "added_at": "2024-04-15 15:14:45",
+      "album": {
         "name": "Vicentico 5",
         "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "Caminar\u00e1s Caminos",
-        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 248466,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2024-04-15 15:14:45",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-      "added_at": "2024-04-15 15:14:45",
-      "album": {
         "name": "Sue\u00f1o Dorado",
         "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "Vicio",
-        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Descontrolado",
-      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
-    },
-    {
-      "added_at": "2024-04-15 15:14:45",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2024-04-15 15:14:45",
+      "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
     },
     {
       "added_at": "2024-04-15 15:14:45",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-04-15 15:14:45",
       "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 256385,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
-    },
-    {
-      "added_at": "2024-04-15 15:14:45",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 327739,
       "name": "La Noche Eterna",
       "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
+    },
+    {
+      "added_at": "2024-04-15 15:14:45",
+      "album": {
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 256385,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
     },
     {
       "added_at": "2024-04-15 15:14:45",

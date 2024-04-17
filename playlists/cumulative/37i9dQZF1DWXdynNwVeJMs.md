@@ -212,8 +212,8 @@
 | [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 | 2023-06-23 | 2023-12-15 |
 | [What Eludes Us](https://open.spotify.com/track/4U3D8tw3wcY6Sv3n46FQGp) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [What Eludes Us](https://open.spotify.com/album/17GR5WsqNpR9IKYquLCY4R) | 5:31 | 2024-03-28 |  |
 | [Wolk](https://open.spotify.com/track/1psgbIT91j1nQMWMG9puWg) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Wolk](https://open.spotify.com/album/5KEYqGAofKWeCD7CZzojpB) | 3:59 | 2022-09-08 | 2024-03-15 |
-| [Yiri Yiri Boum](https://open.spotify.com/track/1LYB42NJLPzCwJtdYyrmNX) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Yiri BOOM!](https://open.spotify.com/album/1FXXtgeV0hzZ0CQ60wvA7A) | 6:11 | 2024-03-28 |  |
 | [Yiri Yiri Boum](https://open.spotify.com/track/6iICxNg56nU4HLLNCRi1DU) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Yiri Yiri Boum](https://open.spotify.com/album/7eQPW7QK3AGerQXqtr9B3O) | 6:11 | 2024-03-14 | 2024-04-14 |
+| [Yiri Yiri Boum](https://open.spotify.com/track/1LYB42NJLPzCwJtdYyrmNX) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Vanesa Diaz Gil](https://open.spotify.com/artist/0oxDTfYE14bcHtJiPNUZbh) | [Yiri BOOM!](https://open.spotify.com/album/1FXXtgeV0hzZ0CQ60wvA7A) | 6:11 | 2024-03-28 |  |
 | [Yupla](https://open.spotify.com/track/4Bu8wvlZWNu1OdCpXFyZ3t) | [mòs ensemble](https://open.spotify.com/artist/6oqHDzHvWhsmPOt22n3wQX) | [Yupla](https://open.spotify.com/album/65PAdAMM9EtDP2WC0fT4en) | 3:48 | 2024-03-14 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

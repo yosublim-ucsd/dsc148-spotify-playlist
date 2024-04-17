@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Nihon Garden Rain",
+        "url": "https://open.spotify.com/album/0ad3J1YO5XhWi1DoBCnZXa"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165378,
+      "name": "Japanese Garden Rain",
+      "url": "https://open.spotify.com/track/6Th9VRLifyT6FJ3BNTFge7"
+    },
+    {
+      "album": {
         "name": "Serene Rain Soundscapes",
         "url": "https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS"
       },
@@ -7126,7 +7144,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 158000,
       "name": "Strong Rain",
       "url": "https://open.spotify.com/track/5WCKWlR0uNc6SxBlSqh5zj"

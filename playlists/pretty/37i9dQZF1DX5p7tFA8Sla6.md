@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,105 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,108 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 42 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 |
 | 43 | [A Message from the Meters](https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Jeannie's Getdown](https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg) | 3:06 |
 | 44 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
-| 45 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
-| 46 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
+| 45 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
+| 46 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
 | 47 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 |
 | 48 | [Sheez Music](https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Everybody Want Sum](https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD) | 4:48 |
 | 49 | [You're Gone](https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Mount Pleasant](https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK) | 3:42 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 87 | [Losin' Streak \(feat\. Daniel Merriweather\)](https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Vs.](https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY) | 3:44 |
 | 88 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 |
 | 89 | [Do It with Soul](https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 3:53 |
-| 90 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 |
+| 90 | [I'm Your Biggest Fan](https://open.spotify.com/track/17i912AtjvTamKg5Oriyw9) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes and Badgers](https://open.spotify.com/album/4qPlarTcn0hM0nSFZQJIrG) | 3:36 |
 | 91 | [Superstatic](https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Life In The City](https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio) | 4:05 |
-| 92 | [I'm Your Biggest Fan](https://open.spotify.com/track/17i912AtjvTamKg5Oriyw9) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes and Badgers](https://open.spotify.com/album/4qPlarTcn0hM0nSFZQJIrG) | 3:36 |
+| 92 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 |
 | 93 | [Just Say Nothing](https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Vanessa Haynes](https://open.spotify.com/artist/0x1dqXqirpBR3KT3pdjyEf) | [In Search Of Better Days](https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4) | 4:41 |
 | 94 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
 | 95 | [Warning](https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kaiit](https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2) | [Lab Experiments, Vol\. 2](https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA) | 3:31 |

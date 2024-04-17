@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-111 songs - 5 hr 34 min
+112 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abre o Portão Que Eu Cheguei \- Ao Vivo](https://open.spotify.com/track/27gdqSnSgCfiro2gk3WZdp) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [50/50 \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4ibh4ZJMONa5aR7ZtKDJHu) | 4:40 | 2023-10-13 |  |
 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 | 2023-10-13 | 2024-04-13 |
 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 | 2023-10-13 |  |
+| [Amor Da Sua Cama](https://open.spotify.com/track/3Zr5PyaL0ESYkewiamwEBQ) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Felipe Araújo \- Só Hit](https://open.spotify.com/album/3eBW4SkUBnFsVZjbBGK4h5) | 3:08 | 2023-10-13 |  |
 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 | 2023-10-13 | 2024-04-07 |
 | [Amor de Carnaval \- Ao Vivo](https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Acústico \- Ao Vivo](https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy) | 3:04 | 2023-10-13 |  |
 | [Amoreco](https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Amoreco](https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG) | 2:31 | 2023-10-13 |  |
@@ -110,7 +111,7 @@
 | [Sujeito \- Ao Vivo](https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 2:58 | 2023-10-13 |  |
 | [Surra de Cama](https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Surra de Cama](https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf) | 2:58 | 2023-10-13 |  |
 | [Só de Sacanagem \- Ao Vivo](https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 3:03 | 2023-10-13 |  |
-| [Teste da Mãozinha \- Ao Vivo](https://open.spotify.com/track/0wshnPflQAjMVaCDIraSWk) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:52 | 2023-10-13 |  |
+| [Teste da Mãozinha \- Ao Vivo](https://open.spotify.com/track/0wshnPflQAjMVaCDIraSWk) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:52 | 2023-10-13 | 2024-04-17 |
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2023-10-13 |  |
 | [Trincadinho \- Ao Vivo](https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:20 | 2023-10-13 |  |
 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 | 2023-10-13 |  |

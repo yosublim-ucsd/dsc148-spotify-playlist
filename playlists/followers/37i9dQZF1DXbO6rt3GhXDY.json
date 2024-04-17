@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 102292,
+  "2024-04-17": 102689,
   "date_first_scraped": "2023-07-12",
   "description": "You know em, you love em, these are indie pop hits.  Cover: Good Neighbours",
   "name": "Indie Pop Hits",
@@ -987,6 +987,24 @@
       "duration_ms": 198116,
       "name": "I'm Just Snacking",
       "url": "https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk"
+    },
+    {
+      "album": {
+        "name": "Blue Planet Eyes",
+        "url": "https://open.spotify.com/album/2bxPYefpgel4G7dVksKokD"
+      },
+      "artists": [
+        {
+          "name": "The Preatures",
+          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Is This How You Feel?",
+      "url": "https://open.spotify.com/track/7ud2JzdO2ozova6lBcCRmR"
     },
     {
       "album": {

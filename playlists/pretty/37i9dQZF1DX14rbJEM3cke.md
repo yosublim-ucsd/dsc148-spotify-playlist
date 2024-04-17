@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current, every week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,873 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,871 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 2 | [synthesizer](https://open.spotify.com/track/3ST3gm2fbhUf3k7xi3ThiX) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [synthesizer](https://open.spotify.com/album/3Nvooh5H5kTox66kB68S85) | 3:00 |
 | 3 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 |
 | 4 | [NVR RLLY](https://open.spotify.com/track/4rKY7tnvkK72142WJkVL0b) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [shed](https://open.spotify.com/album/3FUzGhGjR8rcmJIWmc67AQ) | 3:09 |
-| 5 | [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 |
+| 5 | [Maktub](https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:13 |
 | 6 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 |
 | 7 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 |
 | 8 | [Human \- Single Version](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 |

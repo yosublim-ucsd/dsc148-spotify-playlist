@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This is Sister Rosetta Tharpe。アーティストの代表曲をひとつのプレイリストに。
+> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,867 likes - 44 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,878 likes - 44 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 43 | [Somebody Needs Jesus](https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 2:27 |
 | 44 | [The Devil Has Thrown Him Down](https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:53 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDRhZTA1NDAzYjE3NTY5ZDNjYTFlYzQ5ZDNjYTg0ZDFh`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJjZjI4MDdiMDJiODhiNTcxYjc4NTVhNDU0MjNiMzhl`

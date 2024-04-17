@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 74652,
+  "num_followers": 74704,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -195,30 +195,6 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
-        "name": "Saturno",
-        "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
       },
@@ -243,6 +219,30 @@
       "duration_ms": 122177,
       "name": "Mandraka",
       "url": "https://open.spotify.com/track/29uxcZEFonwiErtNvn0VXA"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu"
     },
     {
       "added_at": "2023-11-13 15:26:06",

@@ -715,6 +715,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 143306,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 143306,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Out Of Hand",
-        "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
-      },
-      "artists": [
-        {
-          "name": "Gary Stewart",
-          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
-        }
-      ],
-      "duration_ms": 168120,
-      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
-      "url": "https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Out Of Hand",
+        "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
+      },
+      "artists": [
+        {
+          "name": "Gary Stewart",
+          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
+      "url": "https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx"
     },
     {
       "added_at": "2023-08-21 00:02:44",

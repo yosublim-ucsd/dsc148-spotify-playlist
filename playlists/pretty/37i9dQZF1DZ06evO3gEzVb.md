@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 
 ### [This Is Daddy Lumba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gEzVb)
 
-> This is Daddy Lumba\. The essential tracks, all in one playlist.
+> This is Daddy Lumba\. Tutti i brani in un'unica playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 5,248 likes - 50 songs - 4 hr 43 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 | 49 | [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/track/2V82ttwikT8kbMLURYQyvx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/album/6PJLm0zfTufZAUfqMWNHPU) | 5:36 |
 | 50 | [Yemfa Odo](https://open.spotify.com/track/4F65ejGFmJcmQwR3lxwr2i) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Sika Asem](https://open.spotify.com/album/1vmud1QfmKGiCaMooqZps8) | 5:57 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDMxNWNiMWMwOTM1MDIxMGNjODE0ZjdkMWVkMzg2MDNi`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGM0NjU2ZmJhM2IzNzFjZjUwN2FkMzBhZTM4YjlhZjk3`

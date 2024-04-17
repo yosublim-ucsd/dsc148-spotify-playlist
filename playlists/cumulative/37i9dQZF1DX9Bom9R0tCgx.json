@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/7KrStZUJUPg2YeYnKt7SyW"
       },
@@ -6522,7 +6540,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 607552,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"

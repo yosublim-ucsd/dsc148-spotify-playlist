@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 8 hr 37 min
+169 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Picachu](https://open.spotify.com/track/47okf9FXUNLHknAwoMI1L4) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Picachu](https://open.spotify.com/album/40xnE58mcngMBNfqCYM99U) | 2:47 | 2024-01-29 |  |
 | [Pimienta](https://open.spotify.com/track/1SyVu9E0u0FfGpuzNHtQ9a) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Pimienta](https://open.spotify.com/album/01ZZUMyrr1tCKd07boAatk) | 3:12 | 2024-01-29 |  |
 | [Piropo](https://open.spotify.com/track/3ltZpTagx93zE54eTG5NBh) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 3:40 | 2024-01-29 |  |
+| [Piña Colada](https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Piña Colada](https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S) | 3:09 | 2024-04-16 |  |
 | [Poco Comercial](https://open.spotify.com/track/0CV9rp5yFZCqBAE4F4gx1N) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:43 | 2024-01-29 |  |
 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 | 2024-01-29 |  |
 | [POR EL CONTRARIO \(with Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:05 | 2024-01-29 |  |

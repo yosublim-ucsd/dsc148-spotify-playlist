@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 0,
+  "2024-04-17": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -775,7 +775,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Aria Math",
       "url": "https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 325160,
       "name": "Caso S\u00e9rio",
       "url": "https://open.spotify.com/track/2HvuyQEnKR82zwfIuCBaWH"
@@ -2304,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Reincarnate (Commentary Version)",
+        "url": "https://open.spotify.com/album/07N9oR68yA1l4d6Mu1AIJU"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128937,
+      "name": "Dead as F**k - Commentary",
+      "url": "https://open.spotify.com/track/1tSDYUR06lt4RFv6YqjT34"
+    },
+    {
+      "album": {
         "name": "Dead Plants",
         "url": "https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl"
       },
@@ -2448,6 +2466,24 @@
     },
     {
       "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245035,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
+    },
+    {
+      "album": {
         "name": "Soda Stereo (Remastered)",
         "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
@@ -2499,6 +2535,24 @@
       "duration_ms": 236386,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/3Jh5Eh8F3QQ4iVbymcBXKc"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
       "album": {
@@ -2705,7 +2759,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 257240,
       "name": "Drowned and Torn Asunder",
       "url": "https://open.spotify.com/track/6qTRVRP7MptW6ASbJ7Zq4I"
@@ -2777,7 +2831,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 126893,
       "name": "Earth Angel - Live at Royal Albert Hall",
       "url": "https://open.spotify.com/track/2mv681lJLNvTZqEWFx07qe"
@@ -4111,7 +4165,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 259386,
       "name": "Harder Than You Know",
       "url": "https://open.spotify.com/track/354bs7EDkFxcmQYcKB6ya6"
@@ -4165,7 +4219,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
@@ -4800,6 +4854,24 @@
     },
     {
       "album": {
+        "name": "Anywhere but Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DLbHCbhgKMdyDkh6dxK5u"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "If You Can't Live Without Me, Why Aren't You Dead Yet?",
+      "url": "https://open.spotify.com/track/0Z9rmJOeCBaW4fBQjSaijR"
+    },
+    {
+      "album": {
         "name": "American Radasss",
         "url": "https://open.spotify.com/album/4VOdWvHjtqYxYxbTOGmCP0"
       },
@@ -5092,6 +5164,24 @@
     },
     {
       "album": {
+        "name": "Deep Cuts (Vol. 3 / 1984-1995)",
+        "url": "https://open.spotify.com/album/6WB2BiVWk33OHI7WXjQuSB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201426,
+      "name": "It's A Beautiful Day - Remastered 2011",
+      "url": "https://open.spotify.com/track/5pMxjt66LDNtk1rOOxLEUH"
+    },
+    {
+      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -5193,7 +5283,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 281560,
       "name": "Jump In The Fire",
       "url": "https://open.spotify.com/track/6p3NDplOaGWddzEbOcpTsT"
@@ -5215,6 +5305,24 @@
       "duration_ms": 265680,
       "name": "Just Another Nervous Wreck - 2010 Remastered",
       "url": "https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5"
+    },
+    {
+      "album": {
+        "name": "Kiss Me Kiss Me Kiss Me",
+        "url": "https://open.spotify.com/album/2mJPi0xA1CwMYEemYkuUPK"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/5ft1GmMZA4uNX7afvQfDLn"
     },
     {
       "album": {
@@ -5481,7 +5589,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 244946,
       "name": "Latinoam\u00e9rica Es Un Pueblo Al Sur De EEUU",
       "url": "https://open.spotify.com/track/69xHf0lp9pebfviLav7gQ6"
@@ -6475,7 +6583,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 213493,
       "name": "My Michelle",
       "url": "https://open.spotify.com/track/6NIFs6X6NmGGGGf3DYh9jI"
@@ -6803,7 +6911,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 162413,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/3G9GN38rhuGtvZfW3Lc76N"
@@ -8204,6 +8312,24 @@
     },
     {
       "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "album": {
         "name": "The End of Heartache (Special Edition)",
         "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
       },
@@ -9073,7 +9199,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 192066,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
@@ -9485,7 +9611,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 255936,
       "name": "The Best - Edit",
       "url": "https://open.spotify.com/track/40hIuxoe1aHcfnjOjl6Tkj"
@@ -9507,6 +9633,42 @@
       "duration_ms": 319426,
       "name": "The Blister Exists",
       "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8"
+    },
+    {
+      "album": {
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144893,
+      "name": "The Day I Left The Womb",
+      "url": "https://open.spotify.com/track/6XBESVu7z0o2UTsCXLhbx9"
+    },
+    {
+      "album": {
+        "name": "From Death To Destiny",
+        "url": "https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204817,
+      "name": "The Death Of Me - Rock Mix",
+      "url": "https://open.spotify.com/track/0GAQeUr2nNCuNhI2dCKW5y"
     },
     {
       "album": {
@@ -10372,6 +10534,24 @@
     },
     {
       "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Tyrant",
+      "url": "https://open.spotify.com/track/41cySzFF8LIngCxYqvplnK"
+    },
+    {
+      "album": {
         "name": "Ultimatum (object blue Remix)",
         "url": "https://open.spotify.com/album/50wsbIbUGgl6aafYjqFC3Y"
       },
@@ -10817,7 +10997,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 260000,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/3nRHOGFuJ8soIFN0xlEfJK"

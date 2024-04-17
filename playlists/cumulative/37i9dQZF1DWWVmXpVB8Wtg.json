@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-16",
-  "description": "Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ. (\uc138\uacc4 \ucd5c\uc815\uc0c1 EDM DJ\ub97c \uc790\ub791\ud558\ub294 \ucd5c\uace0\uc758 \uc74c\uc545 \ucd95\uc81c ULTRA KOREA\uc758 \ub77c\uc778\uc5c5\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "name": "ULTRA KOREA 2022",
+  "description": "Enjoy the King Gnu Asia Tour best songs! (King Gnu\uc758 \uc544\uc2dc\uc544 \ud22c\uc5b4\ub97c \uae30\ub150\ud558\uc5ec \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "King Gnu Asia Tour 'THE GREATEST UNKNOWN' in Seoul",
   "tracks": [
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151760,
+      "name": "):\u963f\u4fee\u7f85:(",
+      "url": "https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl"
+    },
     {
       "album": {
         "name": "Addiction",
@@ -20,7 +38,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
@@ -42,7 +60,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 175806,
       "name": "All Night",
       "url": "https://open.spotify.com/track/7rKGvXnpU864MlZBrqM8P2"
@@ -60,7 +78,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 253026,
       "name": "All We Are",
       "url": "https://open.spotify.com/track/3ve9uFSUtkEhk22tmcHHuK"
@@ -82,7 +100,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 198165,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr"
@@ -104,7 +122,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 180960,
       "name": "At Least We Lived",
       "url": "https://open.spotify.com/track/29WqnrGn0sDbmvQThjzccT"
@@ -122,7 +140,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 200226,
       "name": "Be Strong",
       "url": "https://open.spotify.com/track/3HYlMMRwGfDtbJBTA5XJ5c"
@@ -144,7 +162,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 166330,
       "name": "Believe In Ghosts",
       "url": "https://open.spotify.com/track/0HVwpwnXY2L0M7VW1PbH5F"
@@ -162,10 +180,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 211400,
       "name": "Belongs to You",
       "url": "https://open.spotify.com/track/4LyxoSitap4FxNOHYFqzfL"
+    },
+    {
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231385,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
     },
     {
       "album": {
@@ -184,7 +220,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 516302,
       "name": "Burnt Letters",
       "url": "https://open.spotify.com/track/3pFW7d9NJbOo6SHUg2b7j0"
@@ -218,7 +254,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 297604,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/27Yid3kRkTsZM5EnCYJVvD"
@@ -259,6 +295,24 @@
     },
     {
       "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38080,
+      "name": "DARE??",
+      "url": "https://open.spotify.com/track/2Lc9jfH3cphfr9ZKkJdccp"
+    },
+    {
+      "album": {
         "name": "Dead At Dawn",
         "url": "https://open.spotify.com/album/3V6jEyjSAT0RhMPs5x4iGc"
       },
@@ -270,7 +324,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 290303,
       "name": "Dead At Dawn",
       "url": "https://open.spotify.com/track/3aAC4lB26XRbCfJePIfANg"
@@ -288,7 +342,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 210580,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/5bO33fxvcGqZp7Pw3zIQsj"
@@ -310,7 +364,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -328,7 +382,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 155428,
       "name": "F bounce",
       "url": "https://open.spotify.com/track/35O8zEXyhh1SuJIQ8DkY4o"
@@ -354,7 +408,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 199187,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0ntQOeCxfO9wuGJXFv5D6d"
@@ -376,7 +430,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 169160,
       "name": "Freaks - Radio Edit",
       "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
@@ -398,7 +452,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 219439,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/4oGZCvLL7bk8dico4GeQlF"
@@ -416,7 +470,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 260470,
       "name": "Highland Melody",
       "url": "https://open.spotify.com/track/0KIMqbKvC0oAul3nEgrJUx"
@@ -438,7 +492,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 158671,
       "name": "Hot Summer Nights",
       "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
@@ -482,10 +536,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 526672,
       "name": "How It Makes You Feel",
       "url": "https://open.spotify.com/track/3saluMzeYBaD9Rfcs2KeOP"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "IKAROS",
+      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
     {
       "album": {
@@ -504,7 +576,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 127629,
       "name": "Just Wanna Dance",
       "url": "https://open.spotify.com/track/4ID2pHUWPPXPiJzaEwbCEH"
@@ -526,7 +598,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 165000,
       "name": "Keep My Light On",
       "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
@@ -552,7 +624,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 449745,
       "name": "Liberation - Shigeru Tanabu Remix",
       "url": "https://open.spotify.com/track/4Og2JTTYcDKV34FS7mj9n8"
@@ -574,7 +646,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 195153,
       "name": "Little Giants (feat. Kim Ju Na)",
       "url": "https://open.spotify.com/track/6fuTdkCGJ7hsFsOEmks2YJ"
@@ -596,7 +668,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 235384,
       "name": "LOVE SUNSHINE",
       "url": "https://open.spotify.com/track/0ADlNmDFj8Ux0xlXx297x7"
@@ -636,7 +708,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 775274,
       "name": "Matured Gentility",
       "url": "https://open.spotify.com/track/75qHcAAqzajbzKV9WLmdbk"
@@ -654,10 +726,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 184687,
       "name": "Maybe I",
       "url": "https://open.spotify.com/track/151QJmJUuopi0h6zbABYlX"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88373,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/7o5Mjx1XHg7WBARjn9MVJu"
     },
     {
       "album": {
@@ -676,7 +766,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 182845,
       "name": "MOAB",
       "url": "https://open.spotify.com/track/20yjVD5V9XT87BhgmScgxG"
@@ -698,7 +788,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
@@ -720,7 +810,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 208554,
       "name": "Now That I'm Gone (Look How You're Crying)",
       "url": "https://open.spotify.com/track/3INaJCuIfVWt8EnzhgHdk5"
@@ -764,7 +854,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
@@ -786,7 +876,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 166451,
       "name": "Out Of Lives (feat. Charlotte Haining)",
       "url": "https://open.spotify.com/track/1ytGwhHbITRNT1NFjKbWsB"
@@ -815,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Sympa",
+        "url": "https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Prayer X",
+      "url": "https://open.spotify.com/track/0r2PAeROizyyoFMpu0fvwI"
+    },
+    {
+      "album": {
         "name": "Puppet",
         "url": "https://open.spotify.com/album/0FtiUhuWshUIS6mB0h90C9"
       },
@@ -826,7 +934,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 131200,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/0ehGrMuw8VqVK3wz5xCk5s"
@@ -844,7 +952,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 147142,
       "name": "Say Good Bye",
       "url": "https://open.spotify.com/track/28wpHGozJtShA2FNy6wLU1"
@@ -870,7 +978,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 250946,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF"
@@ -914,7 +1022,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 405066,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/7hNOKF4ddD4LgWMMaa7OTb"
@@ -936,10 +1044,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 429511,
       "name": "Skylighter - Space 92 Meteor Remix",
       "url": "https://open.spotify.com/track/0FtATT9vuXJLZGkA9PESMx"
+    },
+    {
+      "album": {
+        "name": "Sympa",
+        "url": "https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "Slumberland",
+      "url": "https://open.spotify.com/track/5lyMIH0DJaG58plHd6mL7g"
     },
     {
       "album": {
@@ -958,10 +1084,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
+    {
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "album": {
@@ -980,7 +1124,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 262153,
       "name": "Stand Strong",
       "url": "https://open.spotify.com/track/2Vl9YLdLXa6oViIhKJIxCe"
@@ -1009,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "STARDOM (ALBUM ver.)",
+      "url": "https://open.spotify.com/track/0lH9KLh9SAC8honP42ydkf"
+    },
+    {
+      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -1028,7 +1190,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
@@ -1046,10 +1208,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 230243,
       "name": "Taste You on My Lip",
       "url": "https://open.spotify.com/track/6wnbmHzVh5B1g2MfE5XCYo"
+    },
+    {
+      "album": {
+        "name": "CEREMONY",
+        "url": "https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Teenager Forever",
+      "url": "https://open.spotify.com/track/7wnOPAiqvIG4dTvEInj0YT"
     },
     {
       "album": {
@@ -1064,7 +1244,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 142929,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/3L7zm4Oxg8UOr0Q7vYGyAc"
@@ -1086,7 +1266,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 153250,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ChzSWl0Pb4jFShtmDf6MK"
@@ -1104,7 +1284,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 589606,
       "name": "Vacaciones En Chile - Original Mix",
       "url": "https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB"
@@ -1130,7 +1310,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 168014,
       "name": "Voices In My Head - DJ Mii Remix",
       "url": "https://open.spotify.com/track/4bk0S0gMfbC2Qu5nJdGf4r"
@@ -1148,7 +1328,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 223874,
       "name": "Wild Card - Original Mix",
       "url": "https://open.spotify.com/track/4SGS2NVJMBxHaQKxdENjaC"
@@ -1192,7 +1372,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 502969,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE"
@@ -1225,6 +1405,186 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247386,
+      "name": "\u4e09\u6587\u5c0f\u8aac (ALBUM ver.)",
+      "url": "https://open.spotify.com/track/7bDzGlcszZj9cMJipJK8uv"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "\u5343\u4e21\u5f79\u8005 (ALBUM ver.)",
+      "url": "https://open.spotify.com/track/7Bo66ZWgFGwRUmsVrW6lT1"
+    },
+    {
+      "album": {
+        "name": "\u6ce1",
+        "url": "https://open.spotify.com/album/5DwlOneWR9PtdqGQ0FuUge"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "\u6ce1",
+      "url": "https://open.spotify.com/track/7vPjcqFUBCHeGlZQFijnIc"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275880,
+      "name": "\u6ce1 (ALBUM ver.)",
+      "url": "https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz"
+    },
+    {
+      "album": {
+        "name": "\u767d\u65e5",
+        "url": "https://open.spotify.com/album/0wbmGb0QV2XbioKkOfNycl"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274912,
+      "name": "\u767d\u65e5",
+      "url": "https://open.spotify.com/track/5iF0Yf9gju6ERpAch08JsC"
+    },
+    {
+      "album": {
+        "name": "\u785d\u5b50\u7a93",
+        "url": "https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217817,
+      "name": "\u785d\u5b50\u7a93",
+      "url": "https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5922",
+        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307666,
+      "name": "\u9006\u5922",
+      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u71e6\u3005",
+        "url": "https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295681,
+      "name": "\u96e8\u71e6\u3005",
+      "url": "https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo"
+    },
+    {
+      "album": {
+        "name": "CEREMONY",
+        "url": "https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "\u98db\u884c\u8247",
+      "url": "https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz"
+    },
+    {
+      "album": {
         "name": "\ubb58 \uae30\ub2e4\ub9ac\uace0 \uc788\uc5b4 (What You Waiting For)",
         "url": "https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC"
       },
@@ -1240,7 +1600,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 174041,
       "name": "\ubb58 \uae30\ub2e4\ub9ac\uace0 \uc788\uc5b4 (What You Waiting For)",
       "url": "https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8"

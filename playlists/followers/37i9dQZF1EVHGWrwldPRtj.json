@@ -1,8 +1,8 @@
 {
-  "2024-04-16": 0,
+  "2024-04-17": 0,
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> y m\u00e1s",
-  "name": "Mix de chill",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more",
+  "name": "Chill Mix",
   "tracks": [
     {
       "album": {
@@ -153,7 +153,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 136914,
       "name": "5:32pm",
       "url": "https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 269893,
       "name": "All the Pretty Girls",
       "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 283636,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 120775,
       "name": "Before the Sun Sets",
       "url": "https://open.spotify.com/track/7j5IEblPv4Q15WE667AlGb"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 155217,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/7CuirbdoToNGURPTSxXUyV"
@@ -3085,7 +3085,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 220645,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/5vOUYERtWnw7CfrxktLrK2"
@@ -3161,7 +3161,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 173411,
       "name": "Fever",
       "url": "https://open.spotify.com/track/45uwWuhL7nNamSKw3DnpQl"
@@ -3663,7 +3663,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
@@ -4133,7 +4133,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 145161,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/7L3AkxTIVosuV9q251kjfC"
@@ -4491,7 +4491,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 354782,
       "name": "H\u01b0 kh\u00f4ng",
       "url": "https://open.spotify.com/track/3A9A7mfVDVm3rrS9SMGhg5"
@@ -5633,7 +5633,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 151794,
       "name": "Like a Dream",
       "url": "https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp"
@@ -6271,7 +6271,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 237961,
       "name": "Marinade",
       "url": "https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l"
@@ -6369,7 +6369,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
@@ -6495,7 +6495,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ"
@@ -8147,7 +8147,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
@@ -8877,7 +8877,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 219945,
       "name": "Steal",
       "url": "https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6"
@@ -9105,7 +9105,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 147125,
       "name": "Sunbeams",
       "url": "https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA"
@@ -9257,7 +9257,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 142674,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH"
@@ -9523,7 +9523,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 188714,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I"
@@ -9657,7 +9657,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 198331,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
@@ -9875,7 +9875,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 125347,
       "name": "The One",
       "url": "https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA"
@@ -10189,7 +10189,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 223013,
       "name": "Time Is the Enemy",
       "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
@@ -10265,7 +10265,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 154403,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ"
@@ -10301,7 +10301,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 122493,
       "name": "Torn",
       "url": "https://open.spotify.com/track/2SWyPUuh4xfYkH7EUH5qgZ"
@@ -10581,7 +10581,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 247622,
       "name": "Vale",
       "url": "https://open.spotify.com/track/58FsmlVRQxpjFmXF8vSKMT"
@@ -10657,7 +10657,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 311837,
       "name": "Vibin' Out",
       "url": "https://open.spotify.com/track/6SEolIp22t0DzeBfCBo3hr"
@@ -10751,7 +10751,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 214333,
       "name": "Wait",
       "url": "https://open.spotify.com/track/70OhoWldJxT2YAyi5eE8QZ"
@@ -11383,7 +11383,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "\u0110\u1ee2I (Prod. RIO)",
       "url": "https://open.spotify.com/track/5C1O3fpMsiisJpHiB1uuDf"

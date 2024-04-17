@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: STONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,387 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,935 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 53 | [Self Love](https://open.spotify.com/track/5w6LtMQ9mCrw8Rh8wFaZOO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Self Love](https://open.spotify.com/album/5u4cNUGjbYNT0k4SCjAQUC) | 3:21 |
 | 54 | [All I Need](https://open.spotify.com/track/0zfzw3G2UtqSTU0n9RsoJV) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Beholder](https://open.spotify.com/album/6U8qhQ6rctGIbYAlzS4Z3O) | 5:11 |
 | 55 | [jealous](https://open.spotify.com/track/5eGOoxRihFW5IflS1wLEio) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [girlfriend material](https://open.spotify.com/album/4np4h9pdtf5JjxZx8fiIJZ) | 2:55 |
-| 56 | [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 |
+| 56 | [Dallas](https://open.spotify.com/track/0VX5Ud6rUotyxZbWqnVUWq) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 6:02 |
 | 57 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
 | 58 | [Give Me A Reason Why](https://open.spotify.com/track/4GcSIWC2iSRG8IjRYR393G) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Give Me A Reason Why](https://open.spotify.com/album/0a8FY5YkU3CNShk1wy7a5Z) | 3:10 |
 | 59 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |

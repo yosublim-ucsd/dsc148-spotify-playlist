@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Future & Metro Boomin
 
-11,756 songs - 25 day 19 hr 8 min
+11,757 songs - 25 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9746,7 +9746,8 @@
 | [Superglue](https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [SUPERGLUE](https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX) | 3:34 | 2023-03-03 | 2023-03-11 |
 | [superglue](https://open.spotify.com/track/6OJ4kuBYKCdlLwCAELUFVe) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [superglue](https://open.spotify.com/album/7yJj3Xtd94isVwPtGKkIao) | 4:05 | 2023-04-21 | 2023-04-29 |
 | [superhuman](https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [superhuman](https://open.spotify.com/album/0johO4xlYDXem8iYmjKoha) | 2:50 | 2022-10-21 | 2022-10-29 |
-| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 |  |
+| [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 | 2024-04-12 | 2024-04-17 |
+| [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 | 2024-04-12 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-13 | 2022-05-20 |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-22 | 2023-12-30 |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2022-09-09 | 2022-09-17 |

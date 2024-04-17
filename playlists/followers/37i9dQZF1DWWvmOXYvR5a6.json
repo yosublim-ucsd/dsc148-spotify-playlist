@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 213833,
+  "2024-04-17": 213847,
   "date_first_scraped": "2022-04-20",
   "description": "Trendy x Chill K-Hip Hop.  (Cover: \bLoopy(\ub8e8\ud53c)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
@@ -823,6 +823,28 @@
       "duration_ms": 226014,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6XgrmsDAnuYvpBKVjy4ihI"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/0gTHn0J0lacEFTTpFsGa2T"
+      },
+      "artists": [
+        {
+          "name": "BANG YONGGUK",
+          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202586,
+      "name": "BAD (feat. YOUHA)",
+      "url": "https://open.spotify.com/track/7ph9Xo8TV9VFefeoJYdPt6"
     },
     {
       "album": {
@@ -3121,7 +3143,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"

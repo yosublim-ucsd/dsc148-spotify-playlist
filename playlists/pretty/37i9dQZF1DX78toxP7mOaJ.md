@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Slow Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,473 likes - 110 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,483 likes - 110 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 28 | [Crimes](https://open.spotify.com/track/5HAUHSAlOOw9wyoLV2wvzO) | [Gloom Girl MFG](https://open.spotify.com/artist/2UXI5X9jhT0bwCO13Gb3LL) | [Crimes](https://open.spotify.com/album/4X2WwnZ54aV4nhTcD0BX7M) | 2:37 |
 | 29 | [Divine](https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Divine](https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4) | 2:37 |
 | 30 | [No More Romance](https://open.spotify.com/track/4klwSY2GyaL5LNCPqpLjOW) | [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [The Apocalypse Dream](https://open.spotify.com/album/4NvZma7ngkfJrcqzx8QByx) | 2:56 |
-| 31 | [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 |
+| 31 | [Dallas](https://open.spotify.com/track/0VX5Ud6rUotyxZbWqnVUWq) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 6:02 |
 | 32 | [Me and You](https://open.spotify.com/track/4nR1g8s1xK4JZ8FHcWuN5v) | [Vortxz](https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8), [Eucalyption](https://open.spotify.com/artist/52FqH2vaHDWjFwshT3jkjr) | [Me and You](https://open.spotify.com/album/0D8rqlxZRMoblUWXwjy11A) | 3:31 |
 | 33 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 |
 | 34 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 |

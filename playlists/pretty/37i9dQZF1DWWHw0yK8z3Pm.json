@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Orville Peck",
-  "num_followers": 61725,
+  "num_followers": 61723,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Family Ties (Sampler)",
-        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "Arkansas Diamond",
         "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 183477,
       "name": "Arkansas Diamond",
       "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Family Ties (Sampler)",
+        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Bitter Winds",
-        "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
+        "name": "Sudden Opera",
+        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
       },
       "artists": [
         {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
         }
       ],
-      "duration_ms": 261294,
-      "name": "Bitter Winds",
-      "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
+      "duration_ms": 172840,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Sudden Opera",
-        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
+        "name": "Bitter Winds",
+        "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
       "artists": [
         {
-          "name": "Pony Bradshaw",
-          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 172840,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
+      "duration_ms": 261294,
+      "name": "Bitter Winds",
+      "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "A Hard up Life",
-        "url": "https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi"
-      },
-      "artists": [
-        {
-          "name": "Drayton Farley",
-          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
-        }
-      ],
-      "duration_ms": 227366,
-      "name": "Pitchin' fits",
-      "url": "https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "A Hard up Life",
+        "url": "https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "duration_ms": 227366,
+      "name": "Pitchin' fits",
+      "url": "https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
+        "name": "Where My Wild Things Are",
+        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 237781,
+      "name": "Where My Wild Things Are",
+      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
         "name": "Pain Pills Or Pews EP",
         "url": "https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Where My Wild Things Are",
-        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2"
       },
       "artists": [
         {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 237781,
-      "name": "Where My Wild Things Are",
-      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1231,6 +1247,22 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "Damn Darlin'",
+      "url": "https://open.spotify.com/track/05BCDYfufm00iGfNKp9xss"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
       },
@@ -1259,22 +1291,6 @@
       "duration_ms": 208955,
       "name": "68 - Live",
       "url": "https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256281,
-      "name": "Cocaine Country Dancing",
-      "url": "https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1323,22 +1339,6 @@
       "duration_ms": 140808,
       "name": "A Heart Of Gold Is Hard To Find",
       "url": "https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 199734,
-      "name": "Damn Darlin'",
-      "url": "https://open.spotify.com/track/05BCDYfufm00iGfNKp9xss"
     },
     {
       "added_at": "2024-04-12 19:49:07",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
-        "name": "Among Other Things",
-        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 268622,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -1471,6 +1455,38 @@
     {
       "added_at": "2024-04-12 19:49:07",
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 244108,
+      "name": "Two Wolves",
+      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
+        "name": "Among Other Things",
+        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 268622,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq"
+    },
+    {
+      "added_at": "2024-04-12 19:49:07",
+      "album": {
         "name": "Death Valley Honeymoon (feat. Cat Clyde)",
         "url": "https://open.spotify.com/album/2auQZXqoFzba9G30DCKCq1"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 216040,
       "name": "Death Valley Honeymoon (feat. Cat Clyde)",
       "url": "https://open.spotify.com/track/7DlI8czdypGakdmOp0Xv2S"
-    },
-    {
-      "added_at": "2024-04-12 19:49:07",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 244108,
-      "name": "Two Wolves",
-      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
     },
     {
       "added_at": "2024-04-12 19:49:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=ZIGZb1C1Q8\-8ny22j7ylmA">Riaan Benadé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,185 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,203 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

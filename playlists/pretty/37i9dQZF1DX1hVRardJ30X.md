@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Feid & Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,753 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,189 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 45 | [rimel](https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rimel](https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA) | 2:06 |
 | 46 | [Animal Temporal](https://open.spotify.com/track/4NUFc7YLF1bbpWVmYeccdq) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Animal Temporal](https://open.spotify.com/album/0naPZ6OeEMtHjLzz1saM82) | 3:08 |
 | 47 | [Nastyah](https://open.spotify.com/track/7lKVPBVi9PTy3WbYBz9wDT) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF) | [Nastyah](https://open.spotify.com/album/0bRr07OKl1R6sIQL6HHVcA) | 3:08 |
-| 48 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 |
-| 49 | [Aquí y Ahora](https://open.spotify.com/track/7ihsymoKNtqYbKByexNl3b) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Aquí y Ahora](https://open.spotify.com/album/4BetVkbqKGgliYdTZXO4lc) | 4:26 |
-| 50 | [¿Qué Vas a Hacer Hoy?](https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [¿Qué Vas a Hacer Hoy?](https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1) | 2:59 |
-| 51 | [Bikini](https://open.spotify.com/track/0JtmRJ2flxK5bI7Qhg85zW) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Bikini](https://open.spotify.com/album/0cIEx7SCOMdsSitPnBWtdH) | 2:23 |
+| 48 | [Normale \(feat\. ALOISIO\)](https://open.spotify.com/track/1yW6etYs3ZRVxRE3aYp8rd) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Malandra](https://open.spotify.com/album/0FS4LOkSdeNxCClujSoinh) | 2:49 |
+| 49 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 |
+| 50 | [Aquí y Ahora](https://open.spotify.com/track/7ihsymoKNtqYbKByexNl3b) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Aquí y Ahora](https://open.spotify.com/album/4BetVkbqKGgliYdTZXO4lc) | 4:26 |
+| 51 | [¿Qué Vas a Hacer Hoy?](https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [¿Qué Vas a Hacer Hoy?](https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1) | 2:59 |
+| 52 | [Bikini](https://open.spotify.com/track/0JtmRJ2flxK5bI7Qhg85zW) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Bikini](https://open.spotify.com/album/0cIEx7SCOMdsSitPnBWtdH) | 2:23 |
 
-Snapshot ID: `MTcxMjk1Nzg0NSwwMDAwMDAwMGI0MDI3ZDEwNGI2MzI1OTVjNDIxZWQwZGY1NmZhMTVh`
+Snapshot ID: `MTcxMzI4OTAyOSwwMDAwMDAwMGM2Y2E2NDU5NjQzM2YzOWFiNDIwNGJhOTg5ZDZlMjE4`

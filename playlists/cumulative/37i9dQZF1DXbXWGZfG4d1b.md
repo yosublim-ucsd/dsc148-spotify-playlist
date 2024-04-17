@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-578 songs - 1 day 10 hr 9 min
+579 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Claromecó](https://open.spotify.com/track/4nhd6jQVWquaKEYWyQaQQy) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Claromecó](https://open.spotify.com/album/7nq2LaAFsFDwY9974wcLiG) | 2:19 | 2022-06-03 | 2022-07-02 |
 | [Clases de Yoga](https://open.spotify.com/track/0wGG4ftGlg0QavPQzEYSFo) | [Los Nuevos Creyentes](https://open.spotify.com/artist/5ppNJsPcJKIqaUib1wq3Tc) | [Planta Musical](https://open.spotify.com/album/2gJKZfvQOnEMqeUIInrwuk) | 3:57 | 2022-07-01 | 2022-07-23 |
 | [Coffee](https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp) | 2:29 | 2024-02-29 |  |
-| [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 | 2022-10-28 | 2024-04-05 |
+| [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 | 2022-10-28 |  |
 | [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 | 2022-07-01 | 2024-03-20 |
 | [Corriendo](https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Corriendo](https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb) | 2:39 | 2022-12-02 |  |
 | [Corta el Pasto](https://open.spotify.com/track/6Q4pQccsF4MxLRJvOKMLgn) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB) | [Corta el Pasto](https://open.spotify.com/album/5jMETPlnode6bJwSL9Xz9e) | 3:39 | 2022-07-15 | 2022-07-24 |
@@ -138,6 +138,7 @@
 | [Diabla](https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8), [Diego Chamorro](https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh) | [Diabla](https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS) | 5:45 | 2022-06-03 | 2022-07-16 |
 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-07-15 | 2023-10-27 |
 | [Diamantes](https://open.spotify.com/track/6DxOgwsVacBgpEN0A3ykz4) | [El Club De Los Elefantes](https://open.spotify.com/artist/6NRcX4uAdShMIpfB4AjyHi) | [Diamantes](https://open.spotify.com/album/5lSb6YipjDSlXKtdV2iyWt) | 3:14 | 2022-07-01 | 2022-07-24 |
+| [Distintas Frecuencias](https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Distintas Frecuencias](https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs) | 4:02 | 2024-04-11 |  |
 | [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 | 2023-05-12 | 2023-06-16 |
 | [Dominó](https://open.spotify.com/track/5EcAHmTsaczK3TCNKxypXM) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:33 | 2023-04-21 | 2023-05-01 |
 | [Dos Extraños](https://open.spotify.com/track/17yXvD0RNnQ9HY9Fqi16KW) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquin Vitola](https://open.spotify.com/artist/6AVOBzrRdAIHk63HPUsrWF) | [El Elogio de la Sombra](https://open.spotify.com/album/54nnTiHDWtEELhu5XnUW2A) | 2:52 | 2022-07-01 | 2022-07-22 |
@@ -195,7 +196,7 @@
 | [Espejo](https://open.spotify.com/track/4PrG4rGGT9QTcs64K7B85m) | [Ñoqui](https://open.spotify.com/artist/1lNd3hH3tHiqrAQl7N1l9h), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Espejo](https://open.spotify.com/album/6oNSvXhEhqeKkWSIcPo9Sg) | 4:06 | 2022-06-03 | 2022-07-24 |
 | [Espejos Dorados \- Live at M100](https://open.spotify.com/track/6rfpQtEtNFDQxEvNSAIgf3) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Espejos Dorados \(Live at M100\)](https://open.spotify.com/album/3Kgab4RGUvsWg93lrDaVl5) | 4:22 | 2022-07-01 | 2022-07-06 |
 | [Espiándote](https://open.spotify.com/track/2SrVBLz24XKfsdTImimNqG) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Espiándote](https://open.spotify.com/album/7vAQv07uWaShAr6fm0y42k) | 3:39 | 2022-07-01 | 2022-07-27 |
-| [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 | 2023-10-26 |  |
+| [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 | 2023-10-26 | 2024-04-17 |
 | [Esquimal](https://open.spotify.com/track/6cgF98tbHStqIHk5s6S9lS) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Esquimal](https://open.spotify.com/album/6zRi2AG39CM1mOejGVHqhv) | 3:20 | 2023-06-16 | 2023-07-15 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-06-03 | 2023-06-10 |
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-07-01 | 2022-07-20 |
@@ -258,7 +259,7 @@
 | [Julia](https://open.spotify.com/track/5t7sGOswn980bSMcXw4YTv) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [Julia](https://open.spotify.com/album/6NtzL5k6Ao2GmSaKXTci6H) | 2:26 | 2022-07-01 | 2022-07-08 |
 | [Junto Boludeces](https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:25 | 2023-07-28 |  |
 | [L'ultimo Gesto Di Liberazzione](https://open.spotify.com/track/7L2wpUGXwANKyfloRG1Uen) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:01 | 2022-07-15 | 2022-07-20 |
-| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 |  |
+| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 | 2024-04-17 |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-03 | 2023-08-26 |
 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Copia Viva](https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg) | 3:16 | 2022-06-03 | 2023-06-10 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-03 |  |

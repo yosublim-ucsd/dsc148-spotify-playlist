@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 
 ### [This Is Alaina Castillo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO03E4VO)
 
-> This is Alaina Castillo\. The essential tracks, all in one playlist.
+> This Is Alaina Castillo\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 4,154 likes - 39 songs - 2 hr 2 min
 
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 38 | [voicenote](https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 3:23 |
 | 39 | [¡párate!](https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx) | 2:33 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQxM2YwN2JhNjJhNDBkNDZiMjEwOTZmODAzNjNmMzI0`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDkxNmZlOWUzZGE1OGJmNTcwMDI4YzgyODYwNjEzNzk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,106 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,180 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 66 | [What Happens Now](https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:33 |
 | 67 | [Born](https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 4:12 |
 | 68 | [Wish I Never Felt](https://open.spotify.com/track/5Rhs0uawH5KuifdWtphGN2) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Through the Smoke](https://open.spotify.com/album/5rQ9bj7fCon5qGgve7QmzL) | 3:16 |
-| 69 | [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 |
+| 69 | [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/3FULZo3F26XP00rsLrXTLE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:34 |
 | 70 | [Never Been Over](https://open.spotify.com/track/5Izy5w7WRKyOTH7CtWgyPG) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:25 |
 | 71 | [Cowboy Kind of Love](https://open.spotify.com/track/0ZWDipzWCRrSqaZZ9aUlEF) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [A Little Goes A Long Way](https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve) | 3:03 |
 | 72 | [What Do I Know](https://open.spotify.com/track/0n7Ite33RM1kDcalm29E2r) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6MfkhCFBG2CRw3FZ45wSHi) | 3:52 |

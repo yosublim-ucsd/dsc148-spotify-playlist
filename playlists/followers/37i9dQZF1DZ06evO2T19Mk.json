@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 563585,
+  "2024-04-17": 563479,
   "date_first_scraped": "2023-12-14",
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
   "name": "This Is Fall Out Boy",
@@ -681,7 +681,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 244720,
       "name": "Just One Yesterday",
       "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Miss Missing You",
       "url": "https://open.spotify.com/track/05Z77MHLPcBA2Wd5eDSJzl"

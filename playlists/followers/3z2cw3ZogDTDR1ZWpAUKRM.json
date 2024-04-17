@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 0,
+  "2024-04-17": 0,
   "date_first_scraped": "2024-04-11",
   "description": "",
   "name": "twelve",
@@ -21,6 +21,24 @@
       "duration_ms": 390453,
       "name": "Another New World",
       "url": "https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW"
+    },
+    {
+      "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230055,
+      "name": "Can't Win For Nothing",
+      "url": "https://open.spotify.com/track/3wTOBV4b65YjvwOYs2yCuY"
     },
     {
       "album": {
@@ -118,6 +136,24 @@
     },
     {
       "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274813,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
@@ -129,7 +165,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
@@ -201,7 +237,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 221600,
       "name": "Universal Sound",
       "url": "https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 ### [This Is Whitney Houston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO476tMI)
 
-> This Is Whitney Houston\. Los temas esenciales, todos en una lista.
+> This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,013 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,844 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 49 | [If You Say My Eyes Are Beautiful \(with Jermaine Jackson\)](https://open.spotify.com/track/0iDSjpKH1oJdPbvNYjbUmH) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 4:19 |
 | 50 | [Nobody Loves Me Like You Do \(with Jermaine Jackson\)](https://open.spotify.com/track/72NcOvvGdarZaOyKMNHZ1m) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:48 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDdlNTZkMjZkMjE5NjQ4ZDUxNmI4NmRjMDcxMzI5MGNl`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGQzMGUwZjBjOTY0MmE5MDM4OTU1NDM2Mzk4MmNiMGUw`

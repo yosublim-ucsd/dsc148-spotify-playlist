@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,616 songs - 3 day 11 hr 59 min
+1,617 songs - 3 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Ammunition](https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:42 | 2024-02-10 | 2024-02-12 |
 | [Amok](https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Amok](https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy) | 2:05 | 2024-03-23 | 2024-04-03 |
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-28 | 2024-02-13 |
-| [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-08-08 |  |
+| [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-08-08 | 2024-04-17 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-26 | 2023-06-04 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-24 |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-26 |
@@ -517,6 +517,7 @@
 | [Gamora](https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:45 | 2021-10-23 | 2021-10-31 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-02 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-16 |  |
 | [Gatebil](https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Gatebil](https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH) | 2:08 | 2022-07-05 | 2022-08-07 |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-07 | 2023-10-15 |
 | [Geronimo](https://open.spotify.com/track/0FL59eOAc25svWTGqcYj62) | [Umami Tsunami](https://open.spotify.com/artist/03nD1tllTpmpDUtJ4QXV55), [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl), [Magnus Winjum](https://open.spotify.com/artist/6xGnBay95K9YMEuzSyQScy), [Kristian Haux](https://open.spotify.com/artist/6edwjxDW4B5ZO7Sh7m6W7t) | [Geronimo](https://open.spotify.com/album/6h8a7k9S4vxlYCASDSKFUk) | 3:00 | 2023-02-06 | 2023-02-08 |

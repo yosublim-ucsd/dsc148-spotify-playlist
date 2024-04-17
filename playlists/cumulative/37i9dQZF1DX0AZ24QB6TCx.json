@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Following",
+        "url": "https://open.spotify.com/album/2t9PHmQnnvfAEy9JlN1vZ9"
+      },
+      "artists": [
+        {
+          "name": "Saive",
+          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219049,
+      "name": "Following",
+      "url": "https://open.spotify.com/track/4hW0NmYZa400gMN5l0gUK3"
+    },
+    {
+      "album": {
         "name": "Fool's Gold",
         "url": "https://open.spotify.com/album/6o5F69DTHxW2YlzeJwrjl8"
       },
@@ -4074,7 +4092,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 316840,
       "name": "Oh, Lover - NTO Remix",
       "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,367 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,372 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 18 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 19 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
 | 20 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 |
-| 21 | [Take Yours, I'll Take Mine](https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [The Home We Built](https://open.spotify.com/album/1TKDPkavJaq0s2g2woXd3e) | 3:43 |
-| 22 | [lucy\~](https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [lucy\~](https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq) | 1:58 |
-| 23 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
-| 24 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
+| 21 | [lucy\~](https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [lucy\~](https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq) | 1:58 |
+| 22 | [Take Yours, I'll Take Mine](https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [The Home We Built](https://open.spotify.com/album/1TKDPkavJaq0s2g2woXd3e) | 3:43 |
+| 23 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
+| 24 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
 | 25 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
 | 26 | [Cinémed](https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [Cinémed](https://open.spotify.com/album/70Dl4djomdHEALG6BuLSMJ) | 3:19 |
 | 27 | [honey\~](https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [honey\~](https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL) | 1:58 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 37 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
 | 38 | [Night Bus](https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Night Bus](https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak) | 2:33 |
 | 39 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
-| 40 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
-| 41 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 40 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 41 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
 | 42 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
 | 43 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
 | 44 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
 | 45 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
-| 46 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
-| 47 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
-| 48 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 |
-| 49 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
-| 50 | [You Were My First Everything](https://open.spotify.com/track/5OJ2WzKRqklsfAeiayVbqQ) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn), [Karma](https://open.spotify.com/artist/5rnNxf9vfxKljGcBFycUM6) | [You Were My First Everything](https://open.spotify.com/album/1CiLpifvEAWG0GWUbSvxa4) | 4:29 |
+| 46 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 |
+| 47 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
+| 48 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
+| 49 | [The Whale Song](https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [The Whale Song](https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW) | 2:46 |
+| 50 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
 
 Snapshot ID: `MTcxMjkyNzYzNCwwMDAwMDAwMDdhZWNkMjI4YTZjMmZjM2Q1ZmFmZmVjYmU5ZGIzZjI2`

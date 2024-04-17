@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,731 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,872 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 18 | [リズと青い鳥 第三楽章「愛ゆえの決断」](https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c) | [北宇治高校吹奏楽部](https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF) | [映画『リズと青い鳥』オリジナルサウンドトラック「girls,dance,staircase」](https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE) | 6:27 |
 | 19 | [Reversal Orchestra \- Main Theme](https://open.spotify.com/track/3Svgbwld2wy138GsexpGg3) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2), [啼鵬](https://open.spotify.com/artist/1FI9S6aeJTuR7md0tSBo5h) | [Reversal Orchestra Original Soundtrack](https://open.spotify.com/album/2TqEGNawo8VievBtyYxBkp) | 4:24 |
 | 20 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/5LLMUx9GcRSpkOqOIBIONw) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:58 |
-| 21 | [Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile \- Remastered](https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Beethoven: Piano Sonatas Nos\. 8\-10 \(Gould Remastered\)](https://open.spotify.com/album/0isMuQNesHMv674ps90zDj) | 4:45 |
+| 21 | [II\. Adagio cantabile \- Remastered](https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Beethoven: Piano Sonatas Nos\. 8\-10 \(Gould Remastered\)](https://open.spotify.com/album/0isMuQNesHMv674ps90zDj) | 4:45 |
 | 22 | [Opening \(1st Movement: Aoki Umi ni Midare no Yokan\)](https://open.spotify.com/track/4TuLDhvuhQsbmqfRIn1L5w) | [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Symphony SEED](https://open.spotify.com/album/32NnCOfYPQyrA7OJjIviJI) | 5:27 |
 | 23 | [BEASTARS\-don't forget\-](https://open.spotify.com/track/1ewtLkn4AAI61aZspvt85s) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX) | 3:32 |
 | 24 | [まったりとした日常](https://open.spotify.com/track/2NHzJwUGKcAIL72WbMETk8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:28 |

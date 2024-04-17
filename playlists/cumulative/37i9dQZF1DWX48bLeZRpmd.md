@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-111 songs - 8 hr 20 min
+112 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [内緒の恋 \~Love Four U\~](https://open.spotify.com/track/0zr5fxZma42At5ON5Lajf6) | [中野四葉\(CV:佐倉綾音\)](https://open.spotify.com/artist/6EwjE2dOpGtPpnDK2p3gD5) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:54 | 2022-05-24 | 2022-07-29 |
 | [切ない気持ち](https://open.spotify.com/track/192LLt0lYhUmC80Vw7lrnr) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3) | [TVアニメ「五等分の花嫁∬」 オリジナル・サウンドトラック vol.2](https://open.spotify.com/album/1i2lqyQzOAiPPUcskSsRJC) | 2:41 | 2022-05-24 |  |
 | [君が好き \~Three Feelings\~](https://open.spotify.com/track/3kft3Cy6KmGXkE6cyf4hus) | [中野三玖\(CV:伊藤美来\)](https://open.spotify.com/artist/2CU55XU7mofonirPsjjWPw) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 4:08 | 2022-05-24 | 2022-07-29 |
+| [君だったから](https://open.spotify.com/track/1vSxweCMkArMEraHCaXz50) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [君だったから](https://open.spotify.com/album/4i2NZmRDdr9V046aAAFutI) | 4:33 | 2024-04-16 |  |
 | [君の笑顔見たいから](https://open.spotify.com/track/5fLTbqoI4bCk3IjbjWE54U) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡 EP](https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq) | 4:02 | 2022-05-24 | 2022-07-29 |
 | [四葉のテーマ](https://open.spotify.com/track/7ez99y9L4yEMqx74hH3Qny) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:28 | 2022-05-24 |  |
 | [好きよ \~Two Hearts\~](https://open.spotify.com/track/6sca0eXXbetvZO4HLbSifu) | [中野二乃\(CV:竹達彩奈\)](https://open.spotify.com/artist/22u5bd7AGfBBSEg7LO2Srj) | [五等分の花嫁∬ キャラクターソング・ミニアルバム](https://open.spotify.com/album/2WdKxEUnHhnVhEyNeVU0bS) | 3:36 | 2022-05-24 | 2022-07-29 |

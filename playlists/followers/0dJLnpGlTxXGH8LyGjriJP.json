@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 3,
+  "2024-04-17": 3,
   "date_first_scraped": "2023-07-13",
   "description": "",
   "name": "locked tf in\ud83d\udd12",
@@ -6803,6 +6803,28 @@
       "duration_ms": 93498,
       "name": "I.Y.B.",
       "url": "https://open.spotify.com/track/1HH1iWf4Y0ObzWBjg2dSlr"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "Ice Attack",
+      "url": "https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 356471,
+  "2024-04-17": 356515,
   "date_first_scraped": "2023-01-19",
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
   "name": "This Is Metro Boomin",
@@ -773,7 +773,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 195386,
       "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
       "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 193838,
       "name": "Mr. Right Now (feat. Drake)",
       "url": "https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 235040,
       "name": "No Heart",
       "url": "https://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 80466,
       "name": "Only 1 (Interlude) (with Travis Scott)",
       "url": "https://open.spotify.com/track/4cEqoGTqPRZy76Yl3ymj3V"
@@ -1448,6 +1448,32 @@
     },
     {
       "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Show of Hands",
+      "url": "https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk"
+    },
+    {
+      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -1463,7 +1489,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 185036,
       "name": "Slidin",
       "url": "https://open.spotify.com/track/7fxSLnklnayJNBIKntXedZ"
@@ -1555,7 +1581,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 198946,
       "name": "This Sunday",
       "url": "https://open.spotify.com/track/5pF8pF6U8ZDGTQmTY71hYn"

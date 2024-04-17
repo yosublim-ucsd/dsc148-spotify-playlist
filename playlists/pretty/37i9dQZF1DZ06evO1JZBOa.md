@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. The essential tracks, all in one playlist.
+> This is: Manu Dibango\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,980 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,983 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 |
 | 50 | [Ekedi](https://open.spotify.com/track/0XSpOxozClQO2pKs2fLNX4) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man](https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv) | 2:48 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDRlM2I1ZDY4M2YyODBhODk0NDRiYTM5ZTg0MjczNTZh`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGY3NGJmZGM4MzRjZDcyOGUwN2M3MDA5MDU2YzVhMDZi`

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33927,
+  "num_followers": 33946,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 777623,
       "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
       "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "This Way / Boy",
         "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 428757,
       "name": "Boy (MK Deep Dub)",
       "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 (Pride Vocal Mix)",
-      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) (Radio Mix)",
       "url": "https://open.spotify.com/track/26KSmfr8x8Zo2HFAvyceIB"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 (Pride Vocal Mix)",
+      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+      },
+      "artists": [
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+        }
+      ],
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Keep On Jumpin' (feat. Chazzie)",
         "url": "https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 342621,
       "name": "My People (My People Mix)",
       "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
-      },
-      "artists": [
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",

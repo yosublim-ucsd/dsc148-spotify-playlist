@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,482 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,519 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Besos con Fernet](https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Besos con Fernet](https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g) | 2:27 |
 | 50 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 |
 
-Snapshot ID: `NzY2NTQ1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY2NjMyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

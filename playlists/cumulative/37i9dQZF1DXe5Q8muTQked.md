@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-684 songs - 1 day 17 hr 58 min
+685 songs - 1 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [And I Love Him](https://open.spotify.com/track/1dPUQhlNGEaDm9Qi1vcL7I) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [And I Love Him](https://open.spotify.com/album/4NscNwWLaJ6cVqJFICjR8y) | 2:38 | 2022-06-10 |  |
 | [Anti\-Hero](https://open.spotify.com/track/287efkPNDzwmNttdcf7oaR) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Anti\-Hero](https://open.spotify.com/album/2El9m3GfGVDDgIKpaXuzYH) | 3:37 | 2023-07-14 |  |
 | [As Long as You Love Me](https://open.spotify.com/track/5912OMlUlTztBFkmuMMEjR) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [As Long as You Love Me](https://open.spotify.com/album/7fm8in10yxNaOsIxsLDZqC) | 3:27 | 2021-10-20 | 2022-07-01 |
-| [Ashes to Ashes](https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894) | 5:10 | 2022-06-10 |  |
+| [Ashes to Ashes](https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894) | 5:10 | 2022-06-10 | 2024-04-17 |
 | [Avant Gardener](https://open.spotify.com/track/1AbLKGveV3jFFKVKFYP2Ur) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa) | 4:19 | 2021-10-20 | 2022-07-11 |
 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 | 2021-10-20 |  |
 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 | 2021-10-20 | 2022-03-12 |
@@ -662,6 +662,7 @@
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2021-10-20 | 2024-02-14 |
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2021-10-20 |  |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2021-10-20 |  |
+| [Years](https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Years](https://open.spotify.com/album/7EQCaA5lc3mMuOm22sam4G) | 2:59 | 2024-04-16 |  |
 | [Yellow](https://open.spotify.com/track/0MSa5b2zYrXQPr2Ty4xFCe) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [From Cover to Cover: 30 Years at Nettwerk](https://open.spotify.com/album/5fsRQdOv7jlG7V26kmKRvd) | 3:52 | 2021-10-20 | 2022-07-29 |
 | [Yellow](https://open.spotify.com/track/2v5tqzWV8VpEQ7VfGSHDSJ) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [From Cover to Cover: 30 Years at Nettwerk](https://open.spotify.com/album/3Jb74PX0KbKAgBvJwe9Qf9) | 3:52 | 2022-06-10 | 2023-06-24 |
 | [Yellow](https://open.spotify.com/track/0V3U7zeVUEOqbiYzzXnw0a) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/6tr7N2OwQIVJvb2eKykcUx) | 4:17 | 2021-10-20 | 2022-07-29 |

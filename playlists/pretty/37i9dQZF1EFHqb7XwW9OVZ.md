@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 17 | [Busy](https://open.spotify.com/track/5MMx0OKy2DN6GWPodrqxtw) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:59 |
 | 18 | [No Butterflies, No Nothing](https://open.spotify.com/track/6OSshPqPWMV1EKjxjf6gdc) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 2:59 |
 | 19 | [Someone to Chill With](https://open.spotify.com/track/3sAcsAVnlvrJK4R2PWliot) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:19 |
-| 20 | [What U Wanna Do?](https://open.spotify.com/track/7EYDjozMXBgvEYBmGm3Zr6) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:46 |
-| 21 | [Lucky](https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:24 |
+| 20 | [Lucky](https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:24 |
+| 21 | [What U Wanna Do?](https://open.spotify.com/track/7EYDjozMXBgvEYBmGm3Zr6) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:46 |
 | 22 | [Intimate](https://open.spotify.com/track/03x4xRf3m9EuVJoJIabrIQ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:39 |
 | 23 | [Friendly](https://open.spotify.com/track/41s3kJ6aOLNLDs9MT7tMYO) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:00 |
 | 24 | [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 53 | [Toxic](https://open.spotify.com/track/0NqydaxZRGM4ZQoYZRZuHS) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:03 |
 | 54 | [Someone](https://open.spotify.com/track/3jfR63XcKHLVYqEq4p3bKE) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:26 |
 
-Snapshot ID: `Mjg1NTM4OTAsMDAwMDAwMDA1OWY4NzE1YmRiZjRmMDdiZjE3MWFlNzQ1MTM0MWRlZg==`
+Snapshot ID: `Mjg1NTUzMzAsMDAwMDAwMDA2OGY2YjBjNjE0NDViMzA4ZTc1M2RkNGU4MTQyNDMwZg==`

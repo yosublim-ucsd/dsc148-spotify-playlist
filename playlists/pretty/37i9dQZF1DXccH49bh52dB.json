@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 562840,
+  "num_followers": 563038,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "No Eyes",
-        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "JAW",
-          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
-        }
-      ],
-      "duration_ms": 204992,
-      "name": "No Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "The Veldt Cinema (BYNX Edit)",
         "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "No Eyes",
+        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "JAW",
+          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+        }
+      ],
+      "duration_ms": 204992,
+      "name": "No Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 221986,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Let You Love Me (M\u00f6we Remix)",
-        "url": "https://open.spotify.com/album/4OAnWD1IinbLW6ZTKehAh2"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        }
-      ],
-      "duration_ms": 186394,
-      "name": "Let You Love Me - M\u00f6we Remix",
-      "url": "https://open.spotify.com/track/4M0pT9kNYndhyPw15ZDR8C"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Cold Water (Remixes)",
         "url": "https://open.spotify.com/album/33Td2oa2lLAeblqViPpEVL"
       },
@@ -2315,6 +2295,26 @@
       "duration_ms": 236333,
       "name": "Cold Water - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/4HMfSzk0UsiRhulF0eb1M9"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Let You Love Me (M\u00f6we Remix)",
+        "url": "https://open.spotify.com/album/4OAnWD1IinbLW6ZTKehAh2"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        }
+      ],
+      "duration_ms": 186394,
+      "name": "Let You Love Me - M\u00f6we Remix",
+      "url": "https://open.spotify.com/track/4M0pT9kNYndhyPw15ZDR8C"
     },
     {
       "added_at": "2024-03-19 13:37:55",

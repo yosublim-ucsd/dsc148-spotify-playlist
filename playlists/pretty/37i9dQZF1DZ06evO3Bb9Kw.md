@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 ### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
 
-> This is Miranda Lambert\. The essential tracks, all in one playlist.
+> This Is Miranda Lambert\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,845 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,774 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 49 | [Waxahachie](https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:29 |
 | 50 | [Baggage Claim](https://open.spotify.com/track/1hTSImeofoaFWptq9JSFpP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:17 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGY1ZmU5NmFhMjNkNmFjMzk3MTBkN2ZhZDIzMmU4M2Fj`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGRjOGZmZTUwYWRhZGNjNjcwYzQ3MDUxOGZiOGI3ZWRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld\. featuring a 10 track co\-curation from <a href="spotify:artist:0I7VmE5LkRmWoHltutTUh9">asteria</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,666 likes - 100 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,693 likes - 100 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

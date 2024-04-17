@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 168687,
       "name": "30 KM/H",
       "url": "https://open.spotify.com/track/3qd2d4Mog20jxuQL5OEHE5"
@@ -4384,7 +4384,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "BUNTAR O S\u00c5NT",
       "url": "https://open.spotify.com/track/7K913njLEzfHogveu07iLG"
@@ -6288,7 +6288,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 136666,
       "name": "Dans fr\u00e5n dig",
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
@@ -7632,7 +7632,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 180631,
       "name": "Dragon",
       "url": "https://open.spotify.com/track/63pVTEqsMeG4IhgWYy0R70"
@@ -8394,7 +8394,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 171142,
       "name": "Effortless",
       "url": "https://open.spotify.com/track/4VVfzoh8MuGWLIpcF8vB1O"
@@ -14444,7 +14444,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 182535,
       "name": "Hur Som Helst",
       "url": "https://open.spotify.com/track/37nd3wVSymBnw7F75b5zYM"
@@ -24003,6 +24003,32 @@
     },
     {
       "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
         "name": "Pengamotiv",
         "url": "https://open.spotify.com/album/2gbG0QZ4qYOTXF3aImSTPb"
       },
@@ -28376,7 +28402,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 139034,
       "name": "SOLDAT - RMX",
       "url": "https://open.spotify.com/track/7MZQoikPpcwneYkKhdRvoe"
@@ -28684,7 +28710,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
@@ -29420,7 +29446,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 166216,
       "name": "Stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"

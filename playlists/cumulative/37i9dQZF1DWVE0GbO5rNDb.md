@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2024, anche in primavera 👀
 
-358 songs - 17 hr 29 min
+359 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Big \(feat\. Gunna\)](https://open.spotify.com/track/2aUzzdnKuHcAG8vLqoiAFi) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bang](https://open.spotify.com/album/4xeVBTBwaVNQhUdIRC4G9s) | 2:36 | 2022-05-06 | 2022-07-29 |
 | [Bless Me \(with Discrete\)](https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Bless Me \(with Discrete\)](https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq) | 3:10 | 2023-06-15 | 2024-03-29 |
 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 | 2023-05-04 |  |
+| [Body](https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0) | [Body](https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo) | 2:27 | 2024-04-05 |  |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2022-07-22 | 2023-05-05 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2023-03-21 |  |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2022-05-06 | 2023-03-18 |
@@ -313,7 +314,7 @@
 | [Sunrise](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/6a65EL0FbTxEZ837CMrtYg) | 2:18 | 2023-10-13 | 2024-03-29 |
 | [Superstars](https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Kid Vincent](https://open.spotify.com/artist/6p2OJnQ2LD6Yp58rUULMle) | [Superstars](https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A) | 2:57 | 2022-07-29 | 2022-09-12 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2022-05-06 | 2023-06-10 |
-| [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-22 |  |
+| [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-22 | 2024-04-17 |
 | [Take Me Higher](https://open.spotify.com/track/1I4gjXM9E0foe5szjxZRFf) | [ASSANDRI](https://open.spotify.com/artist/5q66wQfrI0FBTYvk9URCES) | [Take Me Higher](https://open.spotify.com/album/0GSe5e4ONUe4oN0QKvXrlq) | 3:24 | 2022-05-17 | 2022-07-29 |
 | [Tangerine Skies](https://open.spotify.com/track/0HlKVWqNINphxorvga3cRR) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/28HcOL3JfPW8LbFmHc6WZk) | 3:10 | 2022-05-06 | 2022-07-29 |
 | [Tangerine Skies](https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5) | 3:12 | 2022-07-22 | 2023-05-23 |

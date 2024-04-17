@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,679 likes - 37 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,683 likes - 37 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

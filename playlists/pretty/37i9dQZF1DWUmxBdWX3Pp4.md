@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Peso Pluma y Arcángel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,752 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,153 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

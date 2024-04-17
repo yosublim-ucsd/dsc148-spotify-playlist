@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Click",
+        "url": "https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165253,
+      "name": "Click",
+      "url": "https://open.spotify.com/track/2kFUlPHiyXAYMfE0fhoRS4"
+    },
+    {
+      "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 238506,
       "name": "rendez-vous",
       "url": "https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy"

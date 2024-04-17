@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 ### [Emotional Dance](https://open.spotify.com/playlist/37i9dQZF1DWU5hC93Ey99S)
 
-> all the stutter, all the feels.
+> all the stutter, all the feels\. Cover: Badger
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,976 likes - 220 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,117 likes - 220 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 219 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 220 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `MTcxMzAyMDI4MSwwMDAwMDAwMGRlNzMxNTBjYTEwZWY0MjU0OTQwNzc1OGRhMDcxOTM2`
+Snapshot ID: `MTcxMzI1MjIxMiwwMDAwMDAwMDA2ZDczYTQ2ODFlZjFiZmU2OTkwNGUzZTIxYzAyNDY3`

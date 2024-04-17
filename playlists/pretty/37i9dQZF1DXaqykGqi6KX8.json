@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 54551,
+  "num_followers": 54597,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH"
+        "name": "Miraj",
+        "url": "https://open.spotify.com/album/54d5QHun9zYrRbDD2hQ0Ap"
       },
       "artists": [
         {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+          "name": "Al-Qasar",
+          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
         }
       ],
-      "duration_ms": 108559,
-      "name": "Jasmin",
-      "url": "https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9"
+      "duration_ms": 357934,
+      "name": "Gnawi",
+      "url": "https://open.spotify.com/track/7u6I8G05Erjr9ScpK0I67P"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Miraj",
-        "url": "https://open.spotify.com/album/54d5QHun9zYrRbDD2hQ0Ap"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH"
       },
       "artists": [
         {
-          "name": "Al-Qasar",
-          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
         }
       ],
-      "duration_ms": 357934,
-      "name": "Gnawi",
-      "url": "https://open.spotify.com/track/7u6I8G05Erjr9ScpK0I67P"
+      "duration_ms": 108559,
+      "name": "Jasmin",
+      "url": "https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "The Revelations",
-        "url": "https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG"
-      },
-      "artists": [
-        {
-          "name": "Ambrotype",
-          "url": "https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD"
-        }
-      ],
-      "duration_ms": 666510,
-      "name": "I Am the Beast",
-      "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Ma Adesh Feeha (We've Had It)",
         "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 239674,
       "name": "Inta Omri (You Are My Life)",
       "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "The Revelations",
+        "url": "https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG"
+      },
+      "artists": [
+        {
+          "name": "Ambrotype",
+          "url": "https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD"
+        }
+      ],
+      "duration_ms": 666510,
+      "name": "I Am the Beast",
+      "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
     },
     {
       "added_at": "2021-10-14 08:16:07",

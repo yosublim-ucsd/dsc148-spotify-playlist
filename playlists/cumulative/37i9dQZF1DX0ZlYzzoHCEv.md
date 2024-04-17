@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-329 songs - 15 hr 15 min
+330 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Ctrl+C, Ctrl+V](https://open.spotify.com/track/41cgwtr1Zpz8L46oBjp0Pa) | [DAM81](https://open.spotify.com/artist/3F6C11lp2Il4Ho68Ap0cvp) | [Ctrl+C, Ctrl+V](https://open.spotify.com/album/5G403YDVW0RlXWJxSIDtla) | 2:41 | 2022-05-06 | 2022-07-16 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-10-12 | 2022-11-08 |
 | [CUM](https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [CUM](https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx) | 2:56 | 2022-05-20 | 2022-07-29 |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2023-11-17 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-08 | 2024-04-07 |
 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 | 2022-08-23 | 2022-12-17 |
 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-05-06 | 2022-07-21 |
@@ -96,7 +97,7 @@
 | [Donna criminale](https://open.spotify.com/track/204uL8oYWauMhDbujw7wrW) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [Lil Dig](https://open.spotify.com/artist/0Kp2zzn2qY1yOJw0xup1i7) | [Donna criminale](https://open.spotify.com/album/5QECAnlWcqut68czsakE2A) | 2:18 | 2022-05-06 | 2022-06-01 |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-05-12 | 2022-05-14 |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-24 | 2022-08-26 |
-| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-10-12 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-10-12 | 2024-04-17 |
 | [DUE PUNTI PARENTESI](https://open.spotify.com/track/2eHWYDuQtme0a0nBmJn286) | [Demï](https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0) | [DUE PUNTI PARENTESI](https://open.spotify.com/album/1UzynnhgvD247VCKQFIkVL) | 1:55 | 2022-06-24 | 2022-07-16 |
 | [E tu fai](https://open.spotify.com/track/6JKB9p3DKLU7T7wPOLR0HK) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [E tu fai](https://open.spotify.com/album/58mbxR2Jx8ecOk9MIMoAXL) | 2:37 | 2022-09-08 | 2022-09-23 |
 | [Easy](https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Easy](https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C) | 3:15 | 2022-06-21 | 2022-07-26 |

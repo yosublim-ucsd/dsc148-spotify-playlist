@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,748 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,782 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 26 | [Thula Mabota](https://open.spotify.com/track/268w5H4z4D5E8ER4Tt3qRY) | [Mawillies](https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N) | [Intwenjani](https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli) | 5:43 |
 | 27 | [Guqangama Dolo](https://open.spotify.com/track/5sQozSRY5rKLwCspVaFnHe) | [Mzekezeke](https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e) | [S'guqa Ngamadolo](https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX) | 5:22 |
 | 28 | [Izinja](https://open.spotify.com/track/6qJpatMdBrN3yRFuLqLCA8) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Tsotsi](https://open.spotify.com/album/7efUI9NRE7rieqrHGD1409) | 4:13 |
-| 29 | [Bula Boot](https://open.spotify.com/track/3SNBgtfyfrc2CPAHyZYTrK) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/6kRcW1KLuahxy5CJP91piF) | 5:34 |
+| 29 | [Kortes \(Kasi Luv\)](https://open.spotify.com/track/6fsfp8i7LQPtLhKUf0OSFr) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/36oAuFI8ArWu6F9qNgXzbl) | 5:01 |
 | 30 | [Sigiya Ngengoma](https://open.spotify.com/track/4GdkrELjR4thBSc2KdfulR) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs) | 6:39 |
 | 31 | [Current](https://open.spotify.com/track/25lPFTQtYnOjH2CMA7ROZ1) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [Simply The Best](https://open.spotify.com/album/6nM1XBe20EowLogJ5BcFAM) | 5:45 |
-| 32 | [Kortes \(Kasi Luv\)](https://open.spotify.com/track/6fsfp8i7LQPtLhKUf0OSFr) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/36oAuFI8ArWu6F9qNgXzbl) | 5:01 |
+| 32 | [Bula Boot](https://open.spotify.com/track/3SNBgtfyfrc2CPAHyZYTrK) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/6kRcW1KLuahxy5CJP91piF) | 5:34 |
 | 33 | [Kleva](https://open.spotify.com/track/5VX9a7wZnmUxz9GYitUUnL) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Kleva](https://open.spotify.com/album/0HebnpUN8kWRNzbzELXqpm) | 5:03 |
 | 34 | [Klaimar](https://open.spotify.com/track/7yd9B48OQSRTUG2oKEoPXr) | [Chiskop](https://open.spotify.com/artist/7wTsm3OFBk9W6BwPponZYt) | [Bash Mix 2](https://open.spotify.com/album/3jXFnAfB1GglFH95qcl1vA) | 4:03 |
 | 35 | [Nomalizo](https://open.spotify.com/track/2H20ibCx6qtLsI2rhs3bPb) | [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [Mthandazo Wabolova](https://open.spotify.com/album/3S7R9NSguORFWfJSUhDAV4) | 5:24 |

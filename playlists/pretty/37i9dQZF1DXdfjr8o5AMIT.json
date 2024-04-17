@@ -1,6 +1,6 @@
 {
   "description": "The quintessential list of songs to celebrate commencement.",
-  "num_followers": 238571,
+  "num_followers": 237804,
   "original_name": "Graduation Songs",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-07-28 17:22:24",
       "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2023-07-28 17:22:24",
+      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
-    },
-    {
-      "added_at": "2023-07-28 17:22:24",
-      "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
     },
     {
       "added_at": "2023-07-28 17:22:24",

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 1292654,
+  "2024-04-17": 1292110,
   "date_first_scraped": "2023-07-28",
   "description": "Endlich Fr\u00fchling!",
   "name": "Fr\u00fchlingsgef\u00fchle",
@@ -2446,6 +2446,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC"
+    },
+    {
+      "album": {
         "name": "So Sick Of Dreaming",
         "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
       },
@@ -3293,7 +3311,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"

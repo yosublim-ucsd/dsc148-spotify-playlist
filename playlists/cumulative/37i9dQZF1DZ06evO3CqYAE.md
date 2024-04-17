@@ -2,7 +2,7 @@
 
 ### [This Is Mercy Chinwo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE)
 
-> This is Mercy Chinwo\. The essential tracks, all in one playlist.
+> This is: Mercy Chinwo\. Alle wichtigen Tracks in einer Playlist.
 
 74 songs - 6 hr 48 min
 

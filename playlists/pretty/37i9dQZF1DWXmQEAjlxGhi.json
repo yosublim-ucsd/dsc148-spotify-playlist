@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1386342,
+  "num_followers": 1385610,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-02-24 00:28:17",
       "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2024-02-24 00:28:17",
+      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": "2024-02-24 00:28:17",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2024-02-24 00:28:17",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-02-24 00:28:17",
       "album": {
-        "name": "Gafas Negras",
-        "url": "https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Gafas Negras",
-      "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
-    },
-    {
-      "added_at": "2024-02-24 00:28:17",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 158440,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
+    },
+    {
+      "added_at": "2024-02-24 00:28:17",
+      "album": {
+        "name": "Gafas Negras",
+        "url": "https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Gafas Negras",
+      "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
     },
     {
       "added_at": "2024-02-24 00:28:17",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-02-24 00:28:17",
       "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+    },
+    {
+      "added_at": "2024-02-24 00:28:17",
+      "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
-    },
-    {
-      "added_at": "2024-02-24 00:28:17",
-      "album": {
-        "name": "Diva (Platinum Edition)",
-        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
     },
     {
       "added_at": "2024-02-24 00:28:17",
@@ -2299,6 +2299,30 @@
     {
       "added_at": "2024-02-24 00:28:17",
       "album": {
+        "name": "La Bebe (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 158739,
+      "name": "La Bebe - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
+    },
+    {
+      "added_at": "2024-02-24 00:28:17",
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -2323,30 +2347,6 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2024-02-24 00:28:17",
-      "album": {
-        "name": "La Bebe (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 158739,
-      "name": "La Bebe - David Guetta Remix",
-      "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
     },
     {
       "added_at": "2024-02-24 00:28:17",

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-1,195 songs - 2 day 15 hr 13 min
+1,196 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Brush Back](https://open.spotify.com/track/1vXt2d3QwSTYKhgw1pZwMZ) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Down Through](https://open.spotify.com/album/0RjtEnaoDqLhxCRc3i9q3J) | 3:45 | 2021-12-10 | 2022-07-29 |
 | [buck](https://open.spotify.com/track/4k4ImOjmaURMwBaZN3QKsk) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:35 | 2021-12-10 | 2023-04-11 |
 | [Burn It Down](https://open.spotify.com/track/21iym8UpADqnG2p5GrzHrb) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Burn It Down](https://open.spotify.com/album/4CAwR5GCqpfDAHE85WsAqK) | 3:10 | 2022-02-04 | 2022-04-29 |
-| [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 | 2022-07-08 |  |
+| [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 | 2022-07-08 | 2024-04-17 |
 | [Bury Me \(Tonight!\)](https://open.spotify.com/track/0f5AnyyQexdQ1FrPGU3zUa) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Bury Me \(Tonight!\)](https://open.spotify.com/album/1IxkN8ASRLNQ2e6s8itlfH) | 2:59 | 2021-12-10 | 2022-07-28 |
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-07-14 |  |
 | [Cages](https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Cages](https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV) | 3:07 | 2024-01-19 | 2024-04-02 |
@@ -1145,6 +1145,7 @@
 | [What's Left of Me](https://open.spotify.com/track/0G3ZCzAYZD29pzb3eH28Cy) | [Percy Bluu](https://open.spotify.com/artist/2PmcmJA18f9Pa9gT440EYy) | [What's Left of Me](https://open.spotify.com/album/2zf2xViTgY8tVjscTiysVA) | 3:14 | 2021-12-10 | 2022-07-25 |
 | [Whatever, Who Cares](https://open.spotify.com/track/5NlkbhyJBy2WNJsl4hHpIB) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Whatever, Who Cares](https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk) | 2:55 | 2022-08-05 | 2022-10-01 |
 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2024-01-19 |  |
+| [When We Were Young \(feat\. Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/6P3lvFpPSQi8kCbiExoKg9) | [When We Were Young \(feat\. Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-04-12 |  |
 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 | 2022-07-08 | 2023-04-11 |
 | [When You Know](https://open.spotify.com/track/5nPGjh9lVIhIoFUjegFhNS) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [When You Know](https://open.spotify.com/album/2c4dPbcVvPWZ31RkrSdZe4) | 3:09 | 2021-12-10 | 2022-07-29 |
 | [When You Were Here](https://open.spotify.com/track/6BU5oDOs3thj5f88a37lPS) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [When You Were Here](https://open.spotify.com/album/7GZBTgJndaIafQWJaXGZw0) | 2:53 | 2023-12-08 | 2024-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,738 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,731 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 36 | [Lili Pacino](https://open.spotify.com/track/1obD4lNuvTmM5P3pf5F15O) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Lili Pacino](https://open.spotify.com/album/2WWjVpjzH9G5ZOQXaj34Iv) | 3:20 |
 | 37 | [The Mountain Is You](https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [The Mountain Is You](https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS) | 3:16 |
 | 38 | [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 |
-| 39 | [WAS IST AN DIR ECHT?!](https://open.spotify.com/track/4x2ADWUJvzvRKyAOD92fqF) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [EMY](https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W) | [WAS IST AN DIR ECHT?!](https://open.spotify.com/album/7JCFhHt0G84W6EVgCjxWBz) | 2:47 |
+| 39 | [WAS IST AN DIR ECHT?!](https://open.spotify.com/track/4x2ADWUJvzvRKyAOD92fqF) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [EMY](https://open.spotify.com/artist/1SURHwqN7bc8HNveYwPEiu) | [WAS IST AN DIR ECHT?!](https://open.spotify.com/album/7JCFhHt0G84W6EVgCjxWBz) | 2:47 |
 | 40 | [no talk rn](https://open.spotify.com/track/4dlqOTQfRbk5AlBzdAvwlg) | [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [no talk rn](https://open.spotify.com/album/5w18x9fLzctOZtZFZUG8r5) | 2:30 |
 | 41 | [Bassface](https://open.spotify.com/track/6vvo3nFGxLnl3DHB9qGK9D) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Bassface](https://open.spotify.com/album/6c4oeBqc6zm9SdYrVV2JPD) | 2:14 |
 | 42 | [HUNDERTZEHN](https://open.spotify.com/track/4cdf9VXUzmz6JK7mdZb08k) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [HUNDERTZEHN](https://open.spotify.com/album/4cdaIe44jjLhw98m6PpZMs) | 2:59 |

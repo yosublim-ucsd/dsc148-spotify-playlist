@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: J\. Cole
 
-226 songs - 11 hr 11 min
+227 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 |  |
 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 | 2023-09-22 | 2024-02-09 |
 | [CFB](https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [CFB](https://open.spotify.com/album/57GpJDPLmbaTDaDBAU48Bo) | 2:30 | 2023-09-22 | 2023-12-08 |
+| [Champagne Moments](https://open.spotify.com/track/3pD67h2Hd1Jd1pMZFYVXHC) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Champagne Moments](https://open.spotify.com/album/2Nu6FUe5OFNFVDBtGPoR8E) | 3:25 | 2024-04-16 |  |
 | [CHAMPIONSH\*T](https://open.spotify.com/track/66Po89QR7n52bkS1l5y0qc) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [CHAMPIONSH\*T](https://open.spotify.com/album/5G9MfsgH8AEmBHCXtxXiK1) | 3:34 | 2024-03-22 |  |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 | 2023-09-22 | 2024-03-01 |
 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 | 2024-02-08 |  |

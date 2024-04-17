@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,918 songs - 4 day 6 hr 20 min
+1,919 songs - 4 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,7 @@
 | [Ikuinen vappu](https://open.spotify.com/track/4ycKgmGOtvuJZVPyvBpVVU) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [RATA/RAITTI](https://open.spotify.com/album/38VbuL5aEXkWVDth0F1UJ3) | 3:07 | 2021-05-03 | 2023-05-05 |
 | [ikuinen virta](https://open.spotify.com/track/2f3M4kFTnPCncJSjN515fO) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [ikuinen virta](https://open.spotify.com/album/6sYDiYfme9RnOAIzQ5r6bA) | 3:34 | 2022-09-10 | 2022-10-23 |
 | [Ikävä lokakuu \(feat\. DJ Oku Luukkainen & Drome\)](https://open.spotify.com/track/4EszGymPHXAJackdDxA66U) | [Yksi Totuus](https://open.spotify.com/artist/6WhRNmekAnpW3ae3Nlu1xw), [Drome](https://open.spotify.com/artist/1krNYy7a1DZ0k7bvyT4kc7), [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao) | [Ikävä lokakuu \(feat\. DJ Oku Luukkainen & Drome\)](https://open.spotify.com/album/1hxx1v6Y1c7kK1jg8dpUPJ) | 2:46 | 2022-10-15 | 2022-10-17 |
-| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 |  |
+| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-17 |
 | [Ilmastonmuutos](https://open.spotify.com/track/5a2CVT6lCrBji4pTpvuhIB) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Emma Gun](https://open.spotify.com/artist/6eJRaxDd7hUt7PzG5W4ixT) | [Loppuunmyyty](https://open.spotify.com/album/0eQYCHmjf3dLHfIVmNpCXu) | 3:31 | 2021-06-27 | 2021-08-22 |
 | [Ilmastonmuutos](https://open.spotify.com/track/5ID7vGQn7i9SFCHqXwDWuE) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Emma Gun](https://open.spotify.com/artist/6eJRaxDd7hUt7PzG5W4ixT) | [Ilmastonmuutos](https://open.spotify.com/album/6jjSGSHhRzIVySIFsHNLNf) | 3:32 | 2021-06-13 | 2021-06-27 |
 | [Ilves \- Vain elämää kausi 12](https://open.spotify.com/track/7adJTN4x7fVzC0Rcg80AWU) | [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm) | [Ilves \(Vain elämää kausi 12\)](https://open.spotify.com/album/0sbVv72LnkMoNYFzbw0vMI) | 3:03 | 2021-10-18 | 2021-10-27 |
@@ -829,6 +829,7 @@
 | [Kuolen vähän joka kerta](https://open.spotify.com/track/5UY43d7ZBUafyzNT3LHS0D) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Pahoinvoiva sukupolvi](https://open.spotify.com/album/2FwWmOY0mUVDKcMQjoSoce) | 3:00 | 2023-03-25 | 2023-04-02 |
 | [Kuori mua](https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22) | [Sini Sabotage](https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc) | [Kuori mua](https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e) | 2:55 | 2024-01-19 | 2024-02-18 |
 | [Kutsumusammatti](https://open.spotify.com/track/4n2xAdgLv2OMA9DlU1qwez) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Kutsumusammatti](https://open.spotify.com/album/0SCIBfq6TYpVUdHXiaWrpo) | 3:09 | 2023-02-18 | 2023-02-20 |
+| [KUULUISAT TYTÖT](https://open.spotify.com/track/1aZDBabbXx8jASLq31HMaj) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [KUULUISAT TYTÖT](https://open.spotify.com/album/3hZGcIqnUKtRSSpDachPXP) | 2:18 | 2024-04-16 |  |
 | [Kuuma jäbä](https://open.spotify.com/track/352xZpOxYzVTcsESmgCilA) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Kuuma jäbä](https://open.spotify.com/album/2jzWY3p5CNVMHOvcXkd8M8) | 2:59 | 2022-01-22 | 2022-03-06 |
 | [Kuuma kesä](https://open.spotify.com/track/3nqyrh7jYfc07FKMjUX1yf) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Pohjantähden alla](https://open.spotify.com/album/2Dl01K663ypobdsB7hezyR) | 3:03 | 2021-06-27 | 2022-06-28 |
 | [Kuumilla hiilillä](https://open.spotify.com/track/0mVYznZ24hNzInclqsbYDo) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Kuumilla hiilillä](https://open.spotify.com/album/1GGJWZYLqrFyCVreKoCS46) | 3:16 | 2024-01-27 | 2024-03-02 |

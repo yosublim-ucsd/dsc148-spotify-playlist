@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 17946,
+  "num_followers": 17956,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Amor de Verano (Remix)",
         "url": "https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 174418,
       "name": "Amor de Verano - Remix",
       "url": "https://open.spotify.com/track/17JNR3nqwbVAJf9dA5Eklk"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Tu Olor",
+        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -603,18 +619,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Tu Olor",
-        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
+        "name": "\u00a1Tierra a la Vista!",
+        "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
         }
       ],
-      "duration_ms": 186459,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
+      "duration_ms": 169000,
+      "name": "Mapa - TLSCPS2023",
+      "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -675,38 +695,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "\u00a1Tierra a la Vista!",
-        "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
+        "name": "BERLIN",
+        "url": "https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su"
       },
       "artists": [
         {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        },
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Mapa - TLSCPS2023",
-      "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Nueva forma",
-        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Nueva forma",
-      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
+      "duration_ms": 257042,
+      "name": "BERLIN",
+      "url": "https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -723,6 +723,22 @@
       "duration_ms": 190742,
       "name": "dionysian",
       "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Nueva forma",
+        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Nueva forma",
+      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -803,26 +819,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Tan besh",
-        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Tan besh",
-      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Provoqu\u00e9",
         "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
@@ -839,26 +835,6 @@
       "duration_ms": 218500,
       "name": "Provoqu\u00e9",
       "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "p\u00e9talos",
-        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 210330,
-      "name": "p\u00e9talos",
-      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -903,22 +879,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "BERLIN",
-        "url": "https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 257042,
-      "name": "BERLIN",
-      "url": "https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Matanza",
         "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
       },
@@ -935,6 +895,46 @@
       "duration_ms": 249148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Tan besh",
+        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Tan besh",
+      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "p\u00e9talos",
+        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
+      },
+      "artists": [
+        {
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 210330,
+      "name": "p\u00e9talos",
+      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Cerca",
-        "url": "https://open.spotify.com/album/1aJhI4ScKLiPEFTkVSjZhx"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 242238,
-      "name": "Cerca",
-      "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 193149,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/1aJhI4ScKLiPEFTkVSjZhx"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 242238,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
     },
     {
       "added_at": "2024-04-12 03:00:00",

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Salah, Timor YSF, MC Zaquin
 
-585 songs - 1 day 7 hr 15 min
+586 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Down](https://open.spotify.com/track/2ewrS46uhgs4hRwJEDTm07) | [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [Down](https://open.spotify.com/album/7qhIRAgBM3PUCNO2GvDTw4) | 3:40 | 2023-04-27 | 2023-05-01 |
 | [Dreams](https://open.spotify.com/track/1DjRGwFuokMU6T8gH7JmL6) | [Indian Man](https://open.spotify.com/artist/1f902507emsB4UREPPHHOn) | [Dreams](https://open.spotify.com/album/1fJxerDvyH6b1Qn8kYDd0B) | 2:17 | 2024-02-02 | 2024-03-01 |
 | [DRIP](https://open.spotify.com/track/61GFnSZxDj81InwQ557bHn) | [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [DRIP](https://open.spotify.com/album/78vNTZsf7x1Un1jt6RGN1B) | 3:08 | 2022-10-06 | 2022-10-28 |
-| [Drive Slow](https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Drive Slow](https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV) | 2:52 | 2024-03-22 |  |
+| [Drive Slow](https://open.spotify.com/track/1ZyWOoBhKX46OToNwBWJUt) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Drive Slow](https://open.spotify.com/album/7E7BtoNbkrRFvOB6cWs7JV) | 2:52 | 2024-03-22 | 2024-04-17 |
 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 | 2022-09-01 | 2022-09-30 |
 | [Eclipse](https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Ellanor](https://open.spotify.com/artist/5Wd28v3076RfH5BQilhVE6), [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Eclipse](https://open.spotify.com/album/5EZ4pHbodGf7j12OqeMQBi) | 3:11 | 2023-03-17 | 2023-04-14 |
 | [Efeito](https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Efeito](https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO) | 2:31 | 2023-07-06 | 2023-08-18 |
@@ -381,6 +381,7 @@
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [Não Liga Pra Mim](https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Não Liga Pra Mim](https://open.spotify.com/album/6DQkKTTgkyn0vajNSZTwer) | 2:45 | 2023-08-17 | 2023-09-15 |
 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 | 2022-07-07 | 2024-02-16 |
+| [Não Me Escondas Nada](https://open.spotify.com/track/3yD60vja3cPmuOK96uEEa2) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP) | [Não Me Escondas Nada](https://open.spotify.com/album/19EJRwNe2yfMAC2eQKyV1q) | 3:38 | 2024-04-11 |  |
 | [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/6DGmebMhwunFzbWodIcMsW), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 | 2023-06-08 | 2023-06-30 |
 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 | 2023-03-12 | 2023-09-22 |
 | [NÃO MUDAVA NADA](https://open.spotify.com/track/4YEY6rurDPgHlE8cDEVbxm) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [COCKTAIL](https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN) | 2:49 | 2023-11-10 | 2023-11-18 |

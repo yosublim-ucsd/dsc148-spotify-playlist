@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,598 likes - 170 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,595 likes - 170 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 111 | [Slow Motion](https://open.spotify.com/track/5eeLoiP0m2BKQBkI4jV8zY) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [P.M.](https://open.spotify.com/album/6EgGNPLYyZQ8PgqBykq5M3) | 3:34 |
 | 112 | [Cool On Fire](https://open.spotify.com/track/3WifWW4VeNDQewWTRqGYCr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:33 |
 | 113 | [Apartment Song](https://open.spotify.com/track/0h6ymtVt32j6qKZzzMs8aV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:41 |
-| 114 | [Moment](https://open.spotify.com/track/1FbZA1NUgt5VwTcLF2VlDw) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:13 |
-| 115 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
+| 114 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
+| 115 | [Moment](https://open.spotify.com/track/1FbZA1NUgt5VwTcLF2VlDw) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:13 |
 | 116 | [High](https://open.spotify.com/track/7oNh0H3emjOKRpouhUxRdp) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:41 |
 | 117 | [Late Night Drive](https://open.spotify.com/track/2M6x4V5ckoyyrtUsrhOFi8) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Aerial Love](https://open.spotify.com/album/3D2NCHaFWyCnQy6eNwErtt) | 3:05 |
 | 118 | [Taunting The Cat](https://open.spotify.com/track/3giDeoZ22HmFOLPJXzT6va) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Score\)](https://open.spotify.com/album/44qAUS0siEj2plisdS25xw) | 2:09 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 169 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 170 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `Mjg1NTM4ODEsMDAwMDAwMDAyYjlkOTc5MGM2ZTJjYzMwYTI0ZDgxM2QxZDg0OWIxYw==`
+Snapshot ID: `Mjg1NTUzMjAsMDAwMDAwMDA5YjgwNmIzZjU4MTVjNmQyMzRiZWZkMzJmMWZiNzk1ZQ==`

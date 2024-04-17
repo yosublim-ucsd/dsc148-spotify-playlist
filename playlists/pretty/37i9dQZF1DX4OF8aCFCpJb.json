@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68965,
+  "num_followers": 68944,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -875,18 +875,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Punch of Love",
-        "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
+        "name": "SELFMADE",
+        "url": "https://open.spotify.com/album/20twF05x3UtYZhd3ib0llK"
       },
       "artists": [
         {
-          "name": "Daniel Lemma",
-          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 245530,
-      "name": "No Winners",
-      "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
+      "duration_ms": 240062,
+      "name": "Onda \u00f6gat",
+      "url": "https://open.spotify.com/track/2xjTyLhRN3tPSGTw8crj1v"
     }
   ],
   "unique_name": "Svensk Reggae",

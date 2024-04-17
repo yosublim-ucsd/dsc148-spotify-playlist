@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,433 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,426 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 42 | [Nadie Sabe](https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Será Que Ahora Podremos Entendernos](https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4) | 4:50 |
 | 43 | [Shape](https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Interiors](https://open.spotify.com/album/5XIkLswshaViwFERckpk0j) | 4:57 |
 | 44 | [FYT](https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [FYT](https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j) | 2:27 |
-| 45 | [Domino](https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:37 |
-| 46 | [Runnin](https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Runnin](https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo) | 2:57 |
+| 45 | [Runnin](https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Runnin](https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo) | 2:57 |
+| 46 | [Domino](https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:37 |
 | 47 | [Corpses In Regalia](https://open.spotify.com/track/6vyxUUHQQkguxWp3bH1JZZ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Relatives In Descent](https://open.spotify.com/album/5w1LR7cbTKEoCfgB98rkgR) | 2:43 |
 | 48 | [Wako](https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:57 |
 | 49 | [Nostalgia del Futuro](https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Nostalgia del Futuro](https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu) | 3:25 |

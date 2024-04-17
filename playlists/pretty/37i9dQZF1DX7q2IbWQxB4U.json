@@ -483,26 +483,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Los Bandoleros",
-        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 197383,
       "name": "PANTIES Y BRASIERES",
       "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "Los Bandoleros",
+        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Sempiterno",
         "url": "https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ"
       },
@@ -659,34 +675,6 @@
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/1eG68fWLXO7IphzE4GOeJf"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/6uE584km2jae91nY5N9yE4"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Gaby Music",
-          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
-        },
-        {
-          "name": "Jenny \"La Sexy Voz\"",
-          "url": "https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -723,18 +711,30 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Diva (Platinum Edition)",
-        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/6uE584km2jae91nY5N9yE4"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Jenny \"La Sexy Voz\"",
+          "url": "https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+      "duration_ms": 218320,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf"
     },
     {
       "added_at": "2023-06-27 18:03:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,401 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,428 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 19 | [TROYA](https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TROYA](https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN) | 2:43 |
 | 20 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 |
 | 21 | [Malibu Barbie](https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX) | [club2020](https://open.spotify.com/artist/1DjrwkyosB44sfSdm6fT6O), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Dwa Sławy](https://open.spotify.com/artist/1CEONobXawu0XPgPhgTD5a), [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM) | [club2020](https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT) | 3:09 |
-| 22 | [You](https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You](https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe) | 1:48 |
-| 23 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 |
+| 22 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 |
+| 23 | [You](https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You](https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe) | 1:48 |
 | 24 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 25 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
 | 26 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 ### [This Is Binomio de Oro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldspl)
 
-> This Is Binomio de Oro\. Los temas esenciales, todos en una lista.
+> This Is Binomio de Oro\. Все лучшие треки в одном плейлисте.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,704 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,690 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 49 | [Nuevo Juramento](https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:27 |
 | 50 | [Cien Años De Ausencia](https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:19 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDY5ZTBlMTE0N2YxY2JiM2I5N2ExMDA1ZTljZTMwOWFm`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGJhNWJhYWE0MDE0NThjYTA4YzUzMzZjMjc1OTZlM2Nk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Maddox Batson
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,931 likes - 180 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,965 likes - 180 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

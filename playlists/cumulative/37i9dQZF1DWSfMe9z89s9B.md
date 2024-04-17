@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Avenoir
 
-1,144 songs - 2 day 12 hr 37 min
+1,145 songs - 2 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2022-04-01 | 2022-04-11 |
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2021-03-19 | 2022-06-12 |
 | [Blue Days](https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Blue Days](https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG) | 2:41 | 2023-12-22 | 2024-02-08 |
-| [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 | 2023-08-18 |  |
+| [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 | 2023-08-18 | 2024-04-17 |
 | [BLUFF](https://open.spotify.com/track/5SYBSJ4iUdXVvtfindDscN) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [BLUFF](https://open.spotify.com/album/1rAeBE0z81SIMPdUJMTMwP) | 3:36 | 2023-05-26 | 2023-10-07 |
 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 | 2022-05-20 | 2022-07-16 |
 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2022-04-01 | 2022-04-14 |
@@ -563,6 +563,7 @@
 | [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-28 |  |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-16 | 2024-04-07 |
 | [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 | 2022-04-01 | 2022-04-05 |
+| [LADY](https://open.spotify.com/track/5ykAJMmkgLxayuV4sgOoLp) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [LADY](https://open.spotify.com/album/50GdbECmzrTgVknqyh9Cps) | 3:46 | 2024-04-12 |  |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-29 | 2022-05-14 |
 | [Last Dance](https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:09 | 2022-07-22 | 2023-09-02 |
 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 | 2022-04-01 | 2022-07-07 |

@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-558 songs - 1 day 9 hr 20 min
+559 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 | 2024-03-22 |  |
 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 | 2022-11-18 | 2024-03-23 |
 | [Alone Together](https://open.spotify.com/track/72J8sfbLwNfUfIbad5JF9N) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Alone Together](https://open.spotify.com/album/1Sy2tvTIGo07HzZkicU7hR) | 5:36 | 2021-11-12 | 2022-02-19 |
-| [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR) | 4:30 | 2024-02-23 |  |
+| [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR) | 4:30 | 2024-02-23 | 2024-04-17 |
+| [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/track/7Kf4XZWtern4bGBN7sxNvK) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:30 | 2024-02-23 |  |
 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 | 2022-04-22 | 2022-09-17 |
 | [always](https://open.spotify.com/track/0hjZ5WaakADg6SzE8NRfi5) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [portrait of a dog](https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5) | 5:23 | 2023-01-27 | 2023-08-12 |
 | [always](https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [always/the speed of sound!](https://open.spotify.com/album/06DWAGemrz6oW1iWwSPEfl) | 5:23 | 2023-01-27 | 2023-04-30 |

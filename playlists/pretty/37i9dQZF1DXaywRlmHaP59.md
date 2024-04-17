@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > The sweet sounds of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,522 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,509 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 40 | [Haidi El Deni](https://open.spotify.com/track/7hKkXTH1AxbXUdaL6JKO6x) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Haidi El Deni](https://open.spotify.com/album/0Ni1cqGaCfX7HE6T6Vzi4j) | 3:43 |
 | 41 | [Akidi](https://open.spotify.com/track/6O1MhxOyOStFEOeGfAKTm5) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akidi](https://open.spotify.com/album/2M7JFPjxUF8W2MmUwFZf7e) | 3:28 |
 | 42 | [Habibet Albi](https://open.spotify.com/track/0a5qJHl0SFkqrB7iNP6Wp2) | [IYAN](https://open.spotify.com/artist/2eEBSDWdRV9TZTRPqM8ZZI) | [Habibet Albi](https://open.spotify.com/album/3FerSTHyK1YTNSEf8TNNwt) | 4:09 |
-| 43 | [Khserna Baad](https://open.spotify.com/track/6jtGSDN9IrQetrW3EkpNP9) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Khserna Baad](https://open.spotify.com/album/5DbCXp4qYL4y8j9Pg4Og5Q) | 3:07 |
+| 43 | [خسرنا بعض](https://open.spotify.com/track/6jtGSDN9IrQetrW3EkpNP9) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [خسرنا بعض](https://open.spotify.com/album/5DbCXp4qYL4y8j9Pg4Og5Q) | 3:07 |
 | 44 | [Jayi Twadaani](https://open.spotify.com/track/0s9zNzQwbvVBKOz59waIn8) | [Michel Azzi](https://open.spotify.com/artist/0OGecBiSJW5Bqnx76w3uQC) | [Jayi Twadaani](https://open.spotify.com/album/2qEnwq70xXdHj9dlWXUQ4Z) | 3:43 |
 | 45 | [El Gharam](https://open.spotify.com/track/4ftJYQr9ulW9FqvAEwkCLE) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf) | [El Gharam](https://open.spotify.com/album/1JwJeplulq3fthyojYDqQG) | 3:59 |
 | 46 | [Mesh Taye'](https://open.spotify.com/track/7DpZ7SqHYZtJISK1hN91OM) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Mesh Taye'](https://open.spotify.com/album/0Wc8dCvKifmuFe1IWzxjI3) | 2:54 |

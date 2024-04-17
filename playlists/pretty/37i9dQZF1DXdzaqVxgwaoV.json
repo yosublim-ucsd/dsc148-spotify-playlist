@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 125075,
+  "num_followers": 125040,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "\u00a1Para Bailar!",
+        "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Jose\u00edto Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "Sobre las Olas",
+      "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Recuerdos Vol. 1",
         "url": "https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 223200,
       "name": "Aires De Navidad",
       "url": "https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "\u00a1Para Bailar!",
-        "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Jose\u00edto Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "Sobre las Olas",
-      "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0sfbPBLonQ1r0neZUgyVsK"
-      },
-      "artists": [
-        {
-          "name": "Hernan Hernandez",
-          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
-        }
-      ],
-      "duration_ms": 211882,
-      "name": "El Tren del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1XDpISWlSZ8VR2sXE15sCQ"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "The Afrosound Of Colombia, Vol. 3",
         "url": "https://open.spotify.com/album/7lvGda7Ft342WlhlPyBDCk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 160050,
       "name": "La Pollera Colora",
       "url": "https://open.spotify.com/track/5aR6lC6PrUv9wwOboa5SJ8"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0sfbPBLonQ1r0neZUgyVsK"
+      },
+      "artists": [
+        {
+          "name": "Hernan Hernandez",
+          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
+        }
+      ],
+      "duration_ms": 211882,
+      "name": "El Tren del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1XDpISWlSZ8VR2sXE15sCQ"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 17",
         "url": "https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 235880,
       "name": "La Suavecita",
       "url": "https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Como en un Baile",
-        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 364617,
-      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Esto Si Es Amor",
         "url": "https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 234293,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/6rr0rn4s13gh6ZgfSlen9n"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 364617,
+      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1283,8 +1283,8 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Las Que Faltaban",
-        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+        "name": "Diomedes - 30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/2VccvTUqLh6SMYgAHKVMuS"
       },
       "artists": [
         {
@@ -1292,13 +1292,13 @@
           "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+      "duration_ms": 230386,
+      "name": "Brindo Con El Alma",
+      "url": "https://open.spotify.com/track/6xa4suLeeRlNhg4w5oZnpj"
     },
     {
       "added_at": "2023-12-20 18:46:33",

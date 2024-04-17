@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 602112,
+  "num_followers": 601917,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "John Came Home",
-        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
         "url": "https://open.spotify.com/album/795JPmab0nbSSraMlxBHF0"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 175153,
       "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
       "url": "https://open.spotify.com/track/3tEL74JlN4OT9YPoNx5eRI"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Nothing But The Water",
         "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Ribbon",
-        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
+        "name": "I Am The Man Thomas",
+        "url": "https://open.spotify.com/album/27LtEXSCBKYQ5hu3ET8ILi"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
         }
       ],
-      "duration_ms": 216538,
-      "name": "Ribbon",
-      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
+      "duration_ms": 159101,
+      "name": "I Am The Man Thomas",
+      "url": "https://open.spotify.com/track/6BxctklsToc6WWbPyHddR1"
     }
   ],
   "unique_name": "Southern Gothic",

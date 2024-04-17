@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,076 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,873 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 21 | [La Foule](https://open.spotify.com/track/6cvIJ1zOcshUv0yCtcphaG) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 2:57 |
 | 22 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
 | 23 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
-| 24 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 |
-| 25 | [Douce France](https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Disque D'or](https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L) | 3:12 |
+| 24 | [Douce France](https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Disque D'or](https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L) | 3:12 |
+| 25 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 |
 | 26 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 | 27 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 |
 | 28 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 47 | [Le tourbillon](https://open.spotify.com/track/1GlwHwQqCxqaHyX4Iz21q1) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag) | [Jules & Jim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KE2RFb1iOYARWwQ85dgep) | 2:07 |
 | 48 | [Le téléphone pleure](https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Les Plus Belles Chansons De Claude François](https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5) | 3:59 |
 | 49 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
-| 50 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
-| 51 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
-| 52 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 2:56 |
+| 50 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 2:56 |
+| 51 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
+| 52 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
 | 53 | [Paris](https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:42 |
 | 54 | [La ballade des gens heureux](https://open.spotify.com/track/2I69iebe4CftqShXyRoIZh) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les indispensables](https://open.spotify.com/album/5kDBB1VYkmUQdxVlAAuIUB) | 3:17 |
 | 55 | [Les Aristochats](https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [The Aristocats Original Soundtrack](https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO) | 2:20 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 66 | [Je suis malade](https://open.spotify.com/track/123u5rlIfXR8Eynx3aabMA) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 4:08 |
 | 67 | [Tout va très bien madame la marquise](https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12) | [Ray Ventura](https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO) | [Du Caf' Conc' au Music Hall](https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe) | 3:25 |
 | 68 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
-| 69 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
-| 70 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
+| 69 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
+| 70 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
 | 71 | [Chanson pour l'auvergnat](https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:02 |
 | 72 | [Parlez\-moi d'amour](https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Parlez\-moi d'amour](https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG) | 3:00 |
 | 73 | [Avec le temps](https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Léo Ferré](https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp) | 4:24 |

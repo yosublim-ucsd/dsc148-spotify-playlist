@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 ### [This Is Madonna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OV3gs)
 
-> This Is Madonna\. Los temas esenciales, todos en una lista.
+> This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,710 likes - 54 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,609 likes - 54 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 53 | [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 |
 | 54 | [Human Nature](https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 4:53 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDFiZjc2M2M0NzZmYmVlOTgwNzNmMTlkNjUyYTAxZWEy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDRhZjVmNDYyZDk0YTg5NGRjNzAzMWZhNGQ1NzVhZDE2`

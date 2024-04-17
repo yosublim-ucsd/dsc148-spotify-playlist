@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 78 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 78 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 49 | [Dime](https://open.spotify.com/track/4XYlzNajGoarznEKOhs7To) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:50 |
 | 50 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
 | 51 | [Pa' Chile](https://open.spotify.com/track/0xINw5OfMEFpgqfgVnN3Bu) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
-| 52 | [COMPLICADO](https://open.spotify.com/track/2FKIbvksdWBHXe0KjF2Jdx) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [COMPLICADO](https://open.spotify.com/album/34acwC6W2OjOMfEZXfUOFH) | 2:51 |
-| 53 | [pinot grigio](https://open.spotify.com/track/5VXYli2kYvZ4RbKi1Udgpc) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:07 |
+| 52 | [pinot grigio](https://open.spotify.com/track/5VXYli2kYvZ4RbKi1Udgpc) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:07 |
+| 53 | [COMPLICADO](https://open.spotify.com/track/2FKIbvksdWBHXe0KjF2Jdx) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [COMPLICADO](https://open.spotify.com/album/34acwC6W2OjOMfEZXfUOFH) | 2:51 |
 | 54 | [Volverás](https://open.spotify.com/track/7e7jwhhF97ivaOrqXa7dju) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Volverás](https://open.spotify.com/album/5VhDef51qADRAeqqLZdIL4) | 2:44 |
 | 55 | [CERO](https://open.spotify.com/track/0ymJeUV9zr0f5qogiaxY4t) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [CERO](https://open.spotify.com/album/5yo3PAqHQxe8K5S5VndQsm) | 2:38 |
 | 56 | [SER ELLA](https://open.spotify.com/track/7Aihd6Eq6qXoMSPmkR347Y) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [SER ELLA](https://open.spotify.com/album/4FFg8qcpC0xPcvt6VSq9Hj) | 2:41 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 77 | [Parece Falso](https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Parece Falso](https://open.spotify.com/album/1nRYqTPXNyJtjMeEeMR0J0) | 3:11 |
 | 78 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 
-Snapshot ID: `Mjg1NTM4ODEsMDAwMDAwMDA4NGJmM2E2NTJkOTlhMTYzZmQ0YjQ1NjYxOWI5ZmNiNQ==`
+Snapshot ID: `Mjg1NTUzMjAsMDAwMDAwMDAzZmEzYWQ1OTFiYTNhNjI5YmUwZWQwMTY1Zjk1OWVkNg==`

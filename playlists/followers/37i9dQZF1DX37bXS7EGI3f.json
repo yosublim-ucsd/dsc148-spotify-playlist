@@ -1,7 +1,7 @@
 {
-  "2024-04-16": 765240,
+  "2024-04-17": 764973,
   "date_first_scraped": "2020-11-29",
-  "description": "<a href=\"https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474\">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of \"The Catalyst.\"",
+  "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Amaranthe\n",
   "name": "Epic & Melodic",
   "tracks": [
     {
@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "A Brave New Hope",
+        "url": "https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280557,
+      "name": "A Brave New Hope",
+      "url": "https://open.spotify.com/track/7CTZgDqC7vcSsTumTmxz0D"
+    },
+    {
+      "album": {
         "name": "A Clear and Present Rager",
         "url": "https://open.spotify.com/album/0g06rUWcNv35ty7OTWAI5Q"
       },
@@ -223,6 +241,24 @@
       "duration_ms": 246108,
       "name": "A Journey to Remember",
       "url": "https://open.spotify.com/track/7t4TPaaMfUfEWHUITq1oU8"
+    },
+    {
+      "album": {
+        "name": "Stories to Forget",
+        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
+      },
+      "artists": [
+        {
+          "name": "Words Of Farewell",
+          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281187,
+      "name": "A Lesser King",
+      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
     },
     {
       "album": {
@@ -484,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Almosttown",
+        "url": "https://open.spotify.com/album/2ucY8ZkajTe4LMQBYdoaFg"
+      },
+      "artists": [
+        {
+          "name": "Seven Spires",
+          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302040,
+      "name": "Almosttown",
+      "url": "https://open.spotify.com/track/25cW3WuUYMBi2gXVBYAVWN"
+    },
+    {
+      "album": {
         "name": "Elements Of Power",
         "url": "https://open.spotify.com/album/2xV7ybQdKDyETb6UmWpVg9"
       },
@@ -639,10 +693,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 203373,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ"
+    },
+    {
+      "album": {
+        "name": "Architect of Creation",
+        "url": "https://open.spotify.com/album/5f4ReNCL3YtnSSRs5HIbeS"
+      },
+      "artists": [
+        {
+          "name": "Seven Spires",
+          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332360,
+      "name": "Architect of Creation",
+      "url": "https://open.spotify.com/track/5hyPrA15cGzcjOPyhSGuAC"
     },
     {
       "album": {
@@ -661,6 +733,24 @@
       "duration_ms": 393026,
       "name": "Arluck",
       "url": "https://open.spotify.com/track/3T3hJ3hC1wJjj5Nbe5Vn7r"
+    },
+    {
+      "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
     },
     {
       "album": {
@@ -1895,7 +1985,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 213666,
       "name": "Damnation Flame",
       "url": "https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK"
@@ -2355,7 +2445,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 237031,
       "name": "Dismantled",
       "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
@@ -2435,7 +2525,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 208146,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/5rBRCcqh5j2fWvB4HTbuqp"
@@ -2569,7 +2659,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 197866,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
@@ -4073,7 +4163,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 215146,
       "name": "Helix",
       "url": "https://open.spotify.com/track/7DtUZPirn8tYihfKmuqYhe"
@@ -4525,7 +4615,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 179360,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/3Ps4E6U1OgnpSbPay4HFoJ"
@@ -4749,6 +4839,24 @@
       "duration_ms": 223907,
       "name": "Kaufmann und Maid",
       "url": "https://open.spotify.com/track/78B9RvFjcpSQgGFtjy1zBE"
+    },
+    {
+      "album": {
+        "name": "Killstar (The Cold World)",
+        "url": "https://open.spotify.com/album/0F4EL849F4PtnaLVLF7xTs"
+      },
+      "artists": [
+        {
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281501,
+      "name": "Killstar (The Cold World)",
+      "url": "https://open.spotify.com/track/0MztEEnX04bsg4On8jQ7WF"
     },
     {
       "album": {
@@ -6740,6 +6848,24 @@
     },
     {
       "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
+    },
+    {
+      "album": {
         "name": "Perennial",
         "url": "https://open.spotify.com/album/1RKdG7d5ltt4x2Cw9Ml40u"
       },
@@ -6949,7 +7075,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 179093,
       "name": "PvP",
       "url": "https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98"
@@ -7477,6 +7603,24 @@
       "duration_ms": 258737,
       "name": "Ritter Tod und Teufel (Knightfall)",
       "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
+    },
+    {
+      "album": {
+        "name": "Rogue (Aim for the Kill)",
+        "url": "https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Rogue (Aim for the Kill)",
+      "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
     },
     {
       "album": {
@@ -8567,7 +8711,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
@@ -9045,7 +9189,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 196053,
       "name": "The Nexus",
       "url": "https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB"
@@ -9247,6 +9391,24 @@
       "duration_ms": 222367,
       "name": "The S\u00e9ance",
       "url": "https://open.spotify.com/track/49O37nbIIp7JsmI65OXDWD"
+    },
+    {
+      "album": {
+        "name": "The Unforgiven II",
+        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245274,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
     },
     {
       "album": {
@@ -9491,6 +9653,24 @@
       "duration_ms": 302628,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"
+    },
+    {
+      "album": {
+        "name": "Total T-Rex Terror",
+        "url": "https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282610,
+      "name": "Total T-Rex Terror",
+      "url": "https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe"
     },
     {
       "album": {
@@ -9895,7 +10075,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 181200,
       "name": "Viral",
       "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
@@ -10015,6 +10195,24 @@
       "duration_ms": 258564,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/75YX0XH3dLamMxfut44LOo"
+    },
+    {
+      "album": {
+        "name": "Walborg",
+        "url": "https://open.spotify.com/album/7tgt7BhR3dGVsj5AHopGAK"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171760,
+      "name": "Walborg",
+      "url": "https://open.spotify.com/track/44gQ6qYCNVksivDoFwHnZ8"
     },
     {
       "album": {
@@ -10155,7 +10353,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 221720,
       "name": "We Are Legion",
       "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
@@ -10195,6 +10393,24 @@
       "duration_ms": 181440,
       "name": "We Come Alive",
       "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
+    },
+    {
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259048,
+      "name": "We Go To War",
+      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
     },
     {
       "album": {

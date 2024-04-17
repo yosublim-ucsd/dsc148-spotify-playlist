@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 ### [This Is Green Day](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nBpII)
 
-> This is Green Day\. The essential tracks, all in one playlist.
+> This Is Green Day\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,982 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,745 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Last of the American Girls](https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:51 |
 | 50 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGIwMjc0YzdmYzI5YWY0NjljYzEwNmIzN2RlN2Q1MjAy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJkYjE1NGFmMzI5NGY2MGY3Yjk3NDQ5ODE2ZjMyOTll`

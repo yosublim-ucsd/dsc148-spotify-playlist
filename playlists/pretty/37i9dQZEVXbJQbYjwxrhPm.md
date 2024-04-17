@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [365](https://open.spotify.com/track/4h1koe32J3Sl7KPFZkKLtQ) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Monkey](https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw) | [365](https://open.spotify.com/album/5jAWxbv8a4smUJxeqeHuSp) | 4:09 |
 | 50 | [Ne e lyubov](https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g) | [Ne znaesh koya sam](https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0) | 3:44 |
 
-Snapshot ID: `NzY2NTQ1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY2NjMyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

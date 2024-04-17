@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,600 songs - 4 day 13 hr 59 min
+1,601 songs - 4 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Blue Story](https://open.spotify.com/track/2adyA8Y7nOv2XHOzwdAv7K) | [Tinush](https://open.spotify.com/artist/4MxsTQbn9jctKNfDlYrYNh) | [Tinush Collection 02](https://open.spotify.com/album/3m1ZpfasReaTlEfexyYH4p) | 4:24 | 2020-03-16 | 2021-10-02 |
 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 | 2020-02-29\* | 2020-03-16 |
 | [Blush](https://open.spotify.com/track/19uZpCvv7D2xcz2KwXFgiO) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rojus \(Designed To Dance\)](https://open.spotify.com/album/1Qzmv9hS3iDJf3tE3UdY6Q) | 8:30 | 2020-05-18 | 2020-07-03 |
+| [Body](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Body](https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa) | 3:24 | 2024-04-12 |  |
 | [Bora Bora \- Seaside Edit](https://open.spotify.com/track/3SYEh6tBFFlnQcfmvhkZWr) | [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Bora Bora \(Seaside Edit\)](https://open.spotify.com/album/5xhGE0qjzvUr0SwiuKbOK1) | 4:50 | 2020-05-20 | 2020-10-09 |
 | [Bound](https://open.spotify.com/track/1iOPoPTFROlTeYpJik7VMs) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2) | 4:58 | 2022-07-01 | 2023-11-04 |
 | [Bound](https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 4:58 | 2023-11-24 | 2024-03-02 |
@@ -636,7 +637,7 @@
 | [Hope \- Parra For Cuva Remix](https://open.spotify.com/track/3TTsR15N3XY4G6z7F4eMwF) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [One Hundred Billion Sparks Remixed](https://open.spotify.com/album/4OIZvVt94hWeqwaSuIz7Uh) | 5:53 | 2020-03-16 | 2022-10-13 |
 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 | 2021-10-08 | 2022-07-28 |
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-24 | 2024-03-23 |
-| [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-04-05 |  |
+| [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-04-05 | 2024-04-17 |
 | [Hotel Moonlight](https://open.spotify.com/track/4et2maqfvMaZiori5YatgZ) | [Trashlagoon](https://open.spotify.com/artist/2Ceq5nkABzryK0OkaQYtzg), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Hotel Moonlight](https://open.spotify.com/album/3xySt2iiPTbv98AIo1Ug4p) | 4:41 | 2020-03-22 | 2022-04-21 |
 | [House Of The Rising Sun](https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [House Of The Rising Sun](https://open.spotify.com/album/4bplLIBUWTi43ZySUAPL0I) | 2:18 | 2022-01-28 | 2023-07-08 |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2020-11-20 | 2022-12-29 |

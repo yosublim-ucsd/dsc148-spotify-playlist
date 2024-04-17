@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 214204,
+  "num_followers": 214293,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -331,38 +331,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Wintermusik",
-        "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 227184,
-      "name": "Ambre",
-      "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Girl/Sleep Sound",
-        "url": "https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 383309,
-      "name": "Sleep Sound",
-      "url": "https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -383,6 +351,38 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Girl/Sleep Sound",
+        "url": "https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 383309,
+      "name": "Sleep Sound",
+      "url": "https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Wintermusik",
+        "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 227184,
+      "name": "Ambre",
+      "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -575,18 +575,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
+        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
       "artists": [
         {
           "name": "James Blake",
           "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+      "duration_ms": 195384,
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -623,6 +627,22 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -691,6 +711,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -707,26 +743,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -759,22 +775,6 @@
       "duration_ms": 596772,
       "name": "Immunity - Remaster 2023",
       "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 136000,
       "name": "My Lights Kiss Your Thoughts Every Moment",
       "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Love In The Time Of Lexapro",
-        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
+        "name": "Not For Threes",
+        "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        },
+        {
+          "name": "Bjork",
+          "url": "https://open.spotify.com/artist/6xy8s41CbAZbN6skLwoPYn"
         }
       ],
-      "duration_ms": 246129,
-      "name": "Love In The Time Of Lexapro",
-      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
+      "duration_ms": 278933,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Not For Threes",
-        "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        },
-        {
-          "name": "Bjork",
-          "url": "https://open.spotify.com/artist/6xy8s41CbAZbN6skLwoPYn"
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
         }
       ],
-      "duration_ms": 278933,
-      "name": "Lilith",
-      "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 284705,
       "name": "Kilika",
       "url": "https://open.spotify.com/track/3W2uJ9jgY0l55Rs1BCmgTu"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
     },
     {
       "added_at": "2024-04-12 04:00:00",

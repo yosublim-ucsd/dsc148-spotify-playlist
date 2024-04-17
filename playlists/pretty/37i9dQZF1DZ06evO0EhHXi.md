@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 ### [This Is Ramones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi)
 
-> This Is Ramones\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,385 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,338 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [Chinese Rock \- 2002 Remaster](https://open.spotify.com/track/7hLzIknDV5aHHcEib9h5nY) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:28 |
 | 50 | [Wart Hog \- 2002 Remaster](https://open.spotify.com/track/5w4mCqeA4K0yuB3gyr8cwt) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Too Tough to Die \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4szj932hnsBBNAfKwXAIKD) | 1:54 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDRlYTYxZWEyMGIxNDVkMDFlYWRiMzQ3NzQxN2IzZDZh`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGYxMzYyYzdmMjRkMTE3YWExNDE1NDg5ZWU5N2U2ZGRj`

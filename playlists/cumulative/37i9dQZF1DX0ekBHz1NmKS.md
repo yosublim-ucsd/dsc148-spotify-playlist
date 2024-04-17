@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,164 songs - 2 day 13 hr 4 min
+1,165 songs - 2 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Ensamheten är här](https://open.spotify.com/track/4UrIGdxIJco8q1sjDm3dTx) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Ensamheten är här](https://open.spotify.com/album/5ELkU1A2tWQBlFYpzFuSqY) | 3:14 | 2024-01-18 | 2024-01-26 |
 | [Ensamvarg](https://open.spotify.com/track/4raZ0nYoiJ4mmeXlKgtNFI) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Ensamvarg](https://open.spotify.com/album/5SNsjFUqouam47L3HTtqXf) | 3:35 | 2022-06-16 | 2022-07-10 |
 | [Eremiten](https://open.spotify.com/track/3nfXGdx2HfhypGySvmpQyI) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Eremiten](https://open.spotify.com/album/5SID8oaQLDedeSkEpnW7od) | 3:24 | 2024-04-04 |  |
-| [Ett silverhjärtas sista slag](https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Tom Goren](https://open.spotify.com/artist/5UFbFMAL2ERkRDUurGOyQJ) | [Ett silverhjärtas sista slag](https://open.spotify.com/album/6SdycG80NCL5vcnCOMbWS8) | 3:39 | 2024-03-07 |  |
+| [Ett silverhjärtas sista slag](https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Tom Goren](https://open.spotify.com/artist/5UFbFMAL2ERkRDUurGOyQJ) | [Ett silverhjärtas sista slag](https://open.spotify.com/album/6SdycG80NCL5vcnCOMbWS8) | 3:39 | 2024-03-07 | 2024-04-17 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
 | [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 | 2023-09-09 |
@@ -823,6 +823,7 @@
 | [Ruta Noll](https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn) | [Wilden](https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK) | [Ruta Noll](https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7) | 2:46 | 2023-11-23 | 2024-02-09 |
 | [Rymden och tillbaks](https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 2:53 | 2022-11-17 | 2023-10-06 |
 | [Rymden och tillbaks](https://open.spotify.com/track/3T66ZaObDiVo0XJxLqXoyY) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Rymden och tillbaks \(Space Invades My Mind\)](https://open.spotify.com/album/7qqzQse7Mkex7RT9FrtNF3) | 2:53 | 2022-11-04 | 2022-11-18 |
+| [Räcker inte till](https://open.spotify.com/track/1EnVmW3xvHCaVdAeQSJ66N) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Räcker inte till](https://open.spotify.com/album/49alYLq0APO2gfbr8FrjzF) | 3:46 | 2024-04-11 |  |
 | [Räkna dagar](https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:55 | 2021-12-16 | 2022-09-16 |
 | [Räkna med dig](https://open.spotify.com/track/42EFV6HMyikQOtfJ48KbaP) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Räkna med dig](https://open.spotify.com/album/1Z2i0hT2CYxeHWDl0Xj4WB) | 3:19 | 2024-04-04 |  |
 | [Räkna Med Mig](https://open.spotify.com/track/3JAAD4IQTmOYXnVQnegTvV) | [Pidde P](https://open.spotify.com/artist/4RejC27ZYVf1l48buiDkpS) | [Räkna Med Mig](https://open.spotify.com/album/0x9hAJGCU47kTN9kGYVouQ) | 2:19 | 2024-03-14 | 2024-04-07 |

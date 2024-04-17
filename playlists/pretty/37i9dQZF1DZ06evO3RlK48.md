@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 ### [This Is MUNA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RlK48)
 
-> This is MUNA\. The essential tracks, all in one playlist.
+> This is: MUNA\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,540 likes - 32 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,552 likes - 32 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 31 | [With Myself \- MUNA Remix](https://open.spotify.com/track/1e2HAlEuK8NAEYwXbr1BAO) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [With Myself \(MUNA Remix\)](https://open.spotify.com/album/2H6mRDnIJw7cpXSeSdC9XY) | 3:09 |
 | 32 | [Around U](https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 5:13 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDNlZTE5MjFhMThkMGIyNzYzMmQ4OGYwZWQwYTUwNTBi`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJmZjI2ODVjZTg5OWVjZjk2YTU1MDg5MzU2NWFmNzQw`

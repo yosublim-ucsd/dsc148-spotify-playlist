@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,700 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,711 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 23 | [El Hijo de Boriken](https://open.spotify.com/track/0Yrhhd8QFsVNvukduMMH0X) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Betances Suena Asi \(\#Bandasonoraelantillano\)](https://open.spotify.com/album/0f0dDxJkIezZTNqcC235aB) | 5:32 |
 | 24 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
 | 25 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
-| 26 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
-| 27 | [La Novia Nueva](https://open.spotify.com/track/5Vupj8e4AJaAhRiJaZaEmU) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/7nUSFQ1J57De7mOlgMB7nW) | 4:32 |
-| 28 | [Campo \(Land\) / Yo cantaré esta bomba \(I Will Sing this Bomba\)](https://open.spotify.com/track/3re4zafR80jdjih18UJYvF) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 7:34 |
-| 29 | [A La Buena Sí](https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH) | [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [A La Buena Sí](https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT) | 2:54 |
+| 26 | [La Novia Nueva](https://open.spotify.com/track/5Vupj8e4AJaAhRiJaZaEmU) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/7nUSFQ1J57De7mOlgMB7nW) | 4:32 |
+| 27 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
+| 28 | [A La Buena Sí](https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH) | [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [A La Buena Sí](https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT) | 2:54 |
+| 29 | [Campo \(Land\) / Yo cantaré esta bomba \(I Will Sing this Bomba\)](https://open.spotify.com/track/3re4zafR80jdjih18UJYvF) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 7:34 |
 | 30 | [Soy Plenero Soy](https://open.spotify.com/track/772ixwOJU2N1x4IMJBxnIa) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 3:59 |
 | 31 | [Meli Ton Ton Be](https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:37 |
 | 32 | [Meliton Tombe](https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:34 |

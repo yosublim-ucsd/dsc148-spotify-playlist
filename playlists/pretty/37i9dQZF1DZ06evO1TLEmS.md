@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 ### [This Is Madison Cunningham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TLEmS)
 
-> This Is Madison Cunningham\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,033 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,041 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 49 | [Redemption Ground](https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 4:46 |
 | 50 | [When Love Loves Alone](https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:30 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDI2OTcyMjQ3MDgwMjZlMGFmYTY0YzVlYmRkNjZlZTQ5`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDkxNDhlMjA1NGUxMmEwZWYwNGJmYjliOWRkZjkwZWQy`

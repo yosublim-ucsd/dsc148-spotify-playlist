@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 35359,
+  "num_followers": 35390,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Milk And Water",
-      "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Milk And Water",
+      "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "La cave saravah, vol.1",
-        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 369893,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 241400,
       "name": "Ain't Times Hard",
       "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "La cave saravah, vol.1",
+        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 369893,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Johnnie B. Bad",
-        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 240426,
       "name": "New York City Blues",
       "url": "https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Johnnie B. Bad",
+        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Good Candy",
-        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
-      },
-      "artists": [
-        {
-          "name": "Lovie Lee",
-          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "West Side Woman",
-      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Journeys To The Heart Of The Blues",
         "url": "https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 183866,
       "name": "Mean Old Train",
       "url": "https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Good Candy",
+        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
+      },
+      "artists": [
+        {
+          "name": "Lovie Lee",
+          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "West Side Woman",
+      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
     },
     {
       "added_at": "2023-09-15 11:43:10",

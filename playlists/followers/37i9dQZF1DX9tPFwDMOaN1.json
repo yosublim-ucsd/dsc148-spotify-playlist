@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 5401540,
+  "2024-04-17": 5395900,
   "date_first_scraped": "2021-12-21",
   "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: ILLIT",
   "name": "K-Pop ON! (\uc628)",
@@ -6678,6 +6678,24 @@
     },
     {
       "album": {
+        "name": "iScreaM Vol.31 : Smoothie Remix",
+        "url": "https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/2S2IfMg6ROIGjgwoCf1Z13"
+    },
+    {
+      "album": {
         "name": "DREAM( )SCAPE",
         "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
       },
@@ -6689,7 +6707,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"

@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr...",
-  "num_followers": 401741,
+  "num_followers": 401800,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Inselfieber",
+        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "duration_ms": 153956,
+      "name": "Inselfieber",
+      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 180157,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Inselfieber",
-        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 153956,
-      "name": "Inselfieber",
-      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 191163,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Lea",
         "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 159374,
       "name": "Lea",
       "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 191163,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Knicklicht",
         "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 138400,
       "name": "Knicklicht",
       "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Kabinenparty",
         "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
       },
@@ -1107,6 +1091,42 @@
       "duration_ms": 142750,
       "name": "Kabinenparty",
       "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Nimm mich mit ins Paradies",
+        "url": "https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "duration_ms": 164078,
+      "name": "Nimm mich mit ins Paradies",
+      "url": "https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1143,26 +1163,6 @@
       "duration_ms": 204283,
       "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
       "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Nimm mich mit ins Paradies",
-        "url": "https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        }
-      ],
-      "duration_ms": 164078,
-      "name": "Nimm mich mit ins Paradies",
-      "url": "https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         }
       ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
       },
       "artists": [
         {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Mallemoment",
         "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
       },
@@ -1399,30 +1423,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Partysau",
         "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
       },
@@ -1439,26 +1439,6 @@
       "duration_ms": 115680,
       "name": "Partysau",
       "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Marc Pircher",
-          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "7 S\u00fcnden - Party Mix",
-      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1507,6 +1487,26 @@
       "duration_ms": 188000,
       "name": "Ciao 3 Tage Blau",
       "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     }
   ],
   "unique_name": "Malle Party 2024",

@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-191 songs - 14 hr 35 min
+192 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Chala Jata Hoon](https://open.spotify.com/track/4MiiZH1ONmjTVEFbGURgMC) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Mere Jeevan Saathi](https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX) | 4:29 | 2021-09-29 | 2022-07-20 |
 | [Chalo Sajna Jhahan Tak](https://open.spotify.com/track/6U9TxZgPueOqKvFTlyo1ke) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Mere Hamdam Mere Dost \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PcRa2wV3wGRAIEPafwuYM) | 4:56 | 2024-04-08 |  |
 | [Chalte Chalte \- Part 1 / From "Chalte Chalte"](https://open.spotify.com/track/34M1n5KBprM9NpSDgUhjwE) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Chalte Chalte \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Zf0gYRtDc24ksf5GvZQho) | 5:18 | 2024-04-08 |  |
-| [Chaudhvin Ka Chand Ho](https://open.spotify.com/track/0NMHJgkmn6heDuxpL2brXX) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Chaudhvin Ka Chand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oV7MbtBoGG0scOR6pQCc7) | 3:43 | 2021-09-29 |  |
+| [Chaudhvin Ka Chand Ho](https://open.spotify.com/track/0NMHJgkmn6heDuxpL2brXX) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Chaudhvin Ka Chand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oV7MbtBoGG0scOR6pQCc7) | 3:43 | 2021-09-29 | 2024-04-17 |
+| [Chaudhvin Ka Chand Ho \(From "Chaudhvin Ka Chand"\)](https://open.spotify.com/track/7EKfhbcWA3ncDkuRhNCaru) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 3:43 | 2024-04-08 |  |
 | [Chhod Do Aanchal Zamana Kya Kahega](https://open.spotify.com/track/4wR89WBeEi0nda0JWcB8sT) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Paying Guest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yqu6Rc7NqKZw9SSmTlLay) | 4:10 | 2021-09-29 | 2022-07-29 |
 | [Chhu Kar Mere Manko \- From "Yaarana"](https://open.spotify.com/track/4c6NvwVDSQZ3XSQbJOgyOn) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kishore Kumar Most Loved Hits 2023](https://open.spotify.com/album/72yLAK3kpS2mktXo69c16J) | 4:12 | 2024-01-24 |  |
 | [Chura Liya hai Tumne Jo Dil Ko](https://open.spotify.com/track/3TE0igTdhJgQKTjjYk2BpY) | [RD Burman](https://open.spotify.com/artist/7tDNjA4ARFgCEn4JLPLiH4), [Asha Bhosle](https://open.spotify.com/artist/77zgQIbFiMd5pD3oi9Wpix) | [RD Burman Songs \- Vol.1](https://open.spotify.com/album/5nSl8Ltv5CNKSjaVjtejjq) | 4:47 | 2023-11-18 | 2023-11-25 |

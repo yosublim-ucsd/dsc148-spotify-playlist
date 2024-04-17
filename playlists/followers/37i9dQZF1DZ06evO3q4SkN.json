@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 563,
+  "2024-04-17": 563,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -877,7 +877,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 91782,
       "name": "Golf Cart Down",
       "url": "https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 65306,
       "name": "No Such Thing as Magic",
       "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 78480,
       "name": "Whatever The Question",
       "url": "https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 84240,
       "name": "Wolf Watcher",
       "url": "https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus"

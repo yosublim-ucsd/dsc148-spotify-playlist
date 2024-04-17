@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Clau
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,581 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,004 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 53 | [Dejavú](https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Groove](https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt) | 2:46 |
 | 54 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 |
 | 55 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
-| 56 | [Laço](https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [Laço](https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh) | 2:29 |
-| 57 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/2tGa2W0M58Nv3KJnEacRMb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei) | 3:12 |
+| 56 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/2tGa2W0M58Nv3KJnEacRMb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei) | 3:12 |
+| 57 | [Laço](https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [Laço](https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh) | 2:29 |
 | 58 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
 | 59 | [Eu Não Gosto De Você](https://open.spotify.com/track/3Og1pv5olDQgQrydmgnaEA) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Eu Não Gosto De Você](https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx) | 2:50 |
-| 60 | [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 |
-| 61 | [Meu Mel](https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk) | [Meu Mel](https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v) | 2:04 |
+| 60 | [Meu Mel](https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk) | [Meu Mel](https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v) | 2:04 |
+| 61 | [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 |
 | 62 | [Veste a Camisa](https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [Veste a Camisa](https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks) | 2:31 |
 | 63 | [Calor Dobrado](https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Calor Dobrado](https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ) | 2:36 |
 | 64 | [Tudo Meu](https://open.spotify.com/track/4R7e0VeGP4ouYYd3fJIsH9) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Tudo Meu](https://open.spotify.com/album/0JdAzfGhlWWcF3za66uSLK) | 2:25 |

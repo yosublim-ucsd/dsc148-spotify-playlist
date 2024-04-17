@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,868 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Twilight Time \- Single Version](https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Flying Platters Around The World](https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH) | 2:48 |
 | 2 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
-| 3 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
-| 4 | [Way Back Home](https://open.spotify.com/track/2Mqggm27ZkH3EyscmCDnIg) | [Bob Crosby & The Bob Cats](https://open.spotify.com/artist/1EE8fj8itdenD88iAylcYh) | [Bob Crosby and the Bobcats: The Complete Standard Transcriptions](https://open.spotify.com/album/5Y8YZyknkRwJL5nJMjdU8o) | 2:54 |
+| 3 | [Way Back Home](https://open.spotify.com/track/2Mqggm27ZkH3EyscmCDnIg) | [Bob Crosby & The Bob Cats](https://open.spotify.com/artist/1EE8fj8itdenD88iAylcYh) | [Bob Crosby and the Bobcats: The Complete Standard Transcriptions](https://open.spotify.com/album/5Y8YZyknkRwJL5nJMjdU8o) | 2:54 |
+| 4 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
 | 5 | [Boogie Woogie Bugle Boy](https://open.spotify.com/track/3axPhcbhVDOA9MnhkUrFcE) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Rarities](https://open.spotify.com/album/6KS6VWpM7TyBTqvTRUH0eX) | 2:41 |
 | 6 | [Mr\. Sandman](https://open.spotify.com/track/5VbwM8nvvQLXcwsZUwgm9K) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN) | 2:23 |
 | 7 | [Tuxedo Junction](https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx) | 3:05 |

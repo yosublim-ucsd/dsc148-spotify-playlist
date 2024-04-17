@@ -1,6 +1,6 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 199536,
+  "num_followers": 199560,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "I Know You Can",
-        "url": "https://open.spotify.com/album/5YWErHX7eWgsa8ROa4ypGb"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 171649,
-      "name": "I Know You Can",
-      "url": "https://open.spotify.com/track/5IVnZd5m8CRUAYvgPQ5cpU"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Don't Ever Let Me Go",
         "url": "https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 174626,
       "name": "Don't Ever Let Me Go",
       "url": "https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "I Know You Can",
+        "url": "https://open.spotify.com/album/5YWErHX7eWgsa8ROa4ypGb"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 171649,
+      "name": "I Know You Can",
+      "url": "https://open.spotify.com/track/5IVnZd5m8CRUAYvgPQ5cpU"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "I Met Jesus In Miami",
+        "url": "https://open.spotify.com/album/2zoxv5L1T1KR1ojW19bKBW"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 192570,
+      "name": "I Met Jesus In Miami",
+      "url": "https://open.spotify.com/track/5zvIHOsngAbCnUGxvDvIul"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -819,38 +835,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "I Met Jesus In Miami",
-        "url": "https://open.spotify.com/album/2zoxv5L1T1KR1ojW19bKBW"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 192570,
-      "name": "I Met Jesus In Miami",
-      "url": "https://open.spotify.com/track/5zvIHOsngAbCnUGxvDvIul"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "This Is Freedom (Ain't No Rock) [Live]",
-        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 344125,
-      "name": "This Is Freedom (Ain't No Rock) - Live",
-      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
+      "duration_ms": 175040,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -871,34 +867,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+        "name": "This Is Freedom (Ain't No Rock) [Live]",
+        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
       "artists": [
         {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
+      "duration_ms": 344125,
+      "name": "This Is Freedom (Ain't No Rock) - Live",
+      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -935,22 +919,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Broken Is Beautiful",
         "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
       },
@@ -963,6 +931,22 @@
       "duration_ms": 250909,
       "name": "Broken Is Beautiful",
       "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -999,6 +983,22 @@
       "duration_ms": 216146,
       "name": "Tell All My Friends",
       "url": "https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Heart Cry",
-        "url": "https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Dan Rivera",
-          "url": "https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31"
-        }
-      ],
-      "duration_ms": 425216,
-      "name": "Heart Cry",
-      "url": "https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Heart Cry",
+        "url": "https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Dan Rivera",
+          "url": "https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31"
+        }
+      ],
+      "duration_ms": 425216,
+      "name": "Heart Cry",
+      "url": "https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Jireh (Reyer Remix)",
         "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 137990,
       "name": "Fake It - Warehouse Mix",
       "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "LOSE CONTROL",
-        "url": "https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 146548,
-      "name": "LOSE CONTROL",
-      "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Best Thing - Summer 2022",
         "url": "https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 164383,
       "name": "High Low - Remix",
       "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 146548,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Known, Seen, Loved",
-        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Known, Seen, Loved",
-      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Won't Stop (Reyer Remix)",
         "url": "https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 197000,
       "name": "Turn This Ship Around - Gregatron Remix",
       "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
     },
     {
       "added_at": "2023-02-07 17:43:21",

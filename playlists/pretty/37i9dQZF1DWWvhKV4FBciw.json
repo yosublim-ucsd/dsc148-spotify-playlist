@@ -1,6 +1,6 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1711785,
+  "num_followers": 1711889,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 195133,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
-        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
       },
       "artists": [
         {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
         }
       ],
-      "duration_ms": 247133,
-      "name": "Stomp! - Single Version",
-      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -1311,6 +1295,22 @@
       "duration_ms": 253574,
       "name": "Take Yo' Praise",
       "url": "https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
+        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Stomp! - Single Version",
+      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
     }
   ],
   "unique_name": "Funk & Soul Classics",

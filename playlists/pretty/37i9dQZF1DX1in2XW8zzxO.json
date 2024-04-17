@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 66603,
+  "num_followers": 66678,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-04-15 09:06:31",
       "album": {
+        "name": "La Maluka",
+        "url": "https://open.spotify.com/album/3Kq6j1cAApwefgz2y16b3C"
+      },
+      "artists": [
+        {
+          "name": "Blaqnick",
+          "url": "https://open.spotify.com/artist/6mi1DugrOth9lEeED3585h"
+        },
+        {
+          "name": "Blaqnick & MasterBlaq",
+          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "La Maluka",
+      "url": "https://open.spotify.com/track/5apolZDeJTAfWk7cxnPnRP"
+    },
+    {
+      "added_at": "2024-04-15 09:06:31",
+      "album": {
         "name": "Khekheleza (Dlala Dlala) [feat. Thama Tee & Eeque]",
         "url": "https://open.spotify.com/album/2MaBydfu6HiE2sdd3GyV8U"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 329079,
       "name": "Khekheleza (Dlala Dlala) [feat. Thama Tee & Eeque]",
       "url": "https://open.spotify.com/track/1VvejtPvKN93gWv0Y27BfE"
-    },
-    {
-      "added_at": "2024-04-15 09:06:31",
-      "album": {
-        "name": "La Maluka",
-        "url": "https://open.spotify.com/album/3Kq6j1cAApwefgz2y16b3C"
-      },
-      "artists": [
-        {
-          "name": "Blaqnick",
-          "url": "https://open.spotify.com/artist/6mi1DugrOth9lEeED3585h"
-        },
-        {
-          "name": "Blaqnick & MasterBlaq",
-          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "La Maluka",
-      "url": "https://open.spotify.com/track/5apolZDeJTAfWk7cxnPnRP"
     },
     {
       "added_at": "2024-04-15 09:06:31",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-04-15 09:06:31",
       "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Leon Lee",
+          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
+        }
+      ],
+      "duration_ms": 411952,
+      "name": "Mang' Dakiwe (feat. Leon Lee)",
+      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
+    },
+    {
+      "added_at": "2024-04-15 09:06:31",
+      "album": {
         "name": "Sanitizer",
         "url": "https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 416404,
       "name": "Sanitizer",
       "url": "https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU"
-    },
-    {
-      "added_at": "2024-04-15 09:06:31",
-      "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
-      },
-      "artists": [
-        {
-          "name": "Dj Obza",
-          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
-        },
-        {
-          "name": "Leon Lee",
-          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
-        }
-      ],
-      "duration_ms": 411952,
-      "name": "Mang' Dakiwe (feat. Leon Lee)",
-      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
     },
     {
       "added_at": "2024-04-15 09:06:31",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Metz
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,145 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,134 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Superior Mirage](https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Superior Mirage](https://open.spotify.com/album/1msigtwFKskruYCUZE3ufK) | 4:02 |
+| 1 | [Superior Mirage](https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 4:02 |
 | 2 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 |
-| 3 | [Haunting Me](https://open.spotify.com/track/1Wyqyr7nNKFIsO6OzMsxFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Electric Sounds \(Deluxe Version\)](https://open.spotify.com/album/2EGSqVHSkerUaQZ0KkJODJ) | 2:49 |
+| 3 | [Haunting Me \- Bonus Track](https://open.spotify.com/track/1Wyqyr7nNKFIsO6OzMsxFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Electric Sounds \(Deluxe Version\)](https://open.spotify.com/album/2EGSqVHSkerUaQZ0KkJODJ) | 2:49 |
 | 4 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 |
 | 5 | [SUICIDE](https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [SUICIDE](https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve) | 3:24 |
 | 6 | [Talking](https://open.spotify.com/track/2KfIeGHD9AMdSZNyphzkhs) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Talking](https://open.spotify.com/album/6ICPJmYKGJAhSRRI6ko12p) | 4:06 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 51 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
 | 52 | [Drama Queen](https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Drama Queen](https://open.spotify.com/album/572GaXZzA7xBEnZQxci4FE) | 2:29 |
 | 53 | [Rootin' For Ya](https://open.spotify.com/track/17R7bnER0h4sYvtyowGSz4) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Rootin' For Ya](https://open.spotify.com/album/5aHN9wega3DaTuxEpFJ4n9) | 3:10 |
-| 54 | [Light Your Way Home](https://open.spotify.com/track/0XnIeYVEFtUNSfNM1faHDj) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Light Your Way Home](https://open.spotify.com/album/3rCLhXwnkKB7v2zMe3UvT4) | 5:08 |
+| 54 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 | 55 | [Silver Strings](https://open.spotify.com/track/4q3kmQlkbe0v4NfWElYeS2) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Glasgow Eyes](https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL) | 3:28 |
 | 56 | [Pieces](https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Pieces](https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM) | 4:04 |
 | 57 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 ### [This Is Luke Combs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49lTA4)
 
-> This is: Luke Combs\. Alle wichtigen Tracks in einer Playlist.
+> This Is Luke Combs\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,364 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,538 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Seven Bridges Road](https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Seven Bridges Road](https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7) | 3:10 |
 | 50 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGU0NzU1ODcwMTAwZDU1MTIwMzQ5MWViODJiZDNhNTYy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGYwN2I2YWU1MGY1N2Y3MzU2ZWU5MWE2NDc0NmRjZDhk`

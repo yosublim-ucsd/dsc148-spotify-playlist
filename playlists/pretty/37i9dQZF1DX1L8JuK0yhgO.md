@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,647 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,648 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 39 | [Phenomeno](https://open.spotify.com/track/1A2zvkHDQ8adalZv4gPBWR) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4Z8iqDa6wdIb4GTREZ1n1l) | 2:45 |
 | 40 | [Shit](https://open.spotify.com/track/7110wZ9lAq6bdKJ8M2BHSY) | [Sh0ta](https://open.spotify.com/artist/0DPwzajAlCTDhhq1jgNcW2) | [Shit](https://open.spotify.com/album/6cWR7B3SgRGp0cuESeszGB) | 2:21 |
 | 41 | [Don't Look Back \- pige Remix](https://open.spotify.com/track/52N9YkwKtWnMhUb95ltJJs) | [SASAKRECT](https://open.spotify.com/artist/2DcBqvgOlMtC3K4uGQZ9v8), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Hanagata](https://open.spotify.com/artist/12TrT3DcsxGAxARKh3vfxP) | [Don't Look Back \(pige Remix\)](https://open.spotify.com/album/6UBK9CUlxhYUoGhXBXiAA8) | 3:04 |
-| 42 | [Pizza Planet](https://open.spotify.com/track/0m1xJm8GbSx5HmpzW7XXDf) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo), [ゆいにしお](https://open.spotify.com/artist/2MzXnVOCn6oc4cigvqnkDl) | [Pizza Planet](https://open.spotify.com/album/6cc79lxUdsTNNb5eCWHfou) | 3:39 |
+| 42 | [Pizza Planet](https://open.spotify.com/track/0m1xJm8GbSx5HmpzW7XXDf) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo), [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Pizza Planet](https://open.spotify.com/album/6cc79lxUdsTNNb5eCWHfou) | 3:39 |
 | 43 | [踊れマリア](https://open.spotify.com/track/0gb9xS9Jk8v6LqXuWuMiD9) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [踊れマリア](https://open.spotify.com/album/5U35UnAiFHYs0cMPI1bgl2) | 3:54 |
 | 44 | [CALL MY NAME](https://open.spotify.com/track/7KhrHV3Hx09F08rmGhWZ4k) | [okkaaa](https://open.spotify.com/artist/0XKKphL5aa8LY6Fn5hXjCF) | [CALL MY NAME](https://open.spotify.com/album/5uZAZEs4TOfL5BbaUTcFtM) | 3:22 |
 | 45 | [同じ世界の違う世界](https://open.spotify.com/track/5QsmxoZtwGszkEMRSLdRDJ) | [ION](https://open.spotify.com/artist/5LEyQhjZxZhGZAzLjkQyHT) | [同じ世界の違う世界](https://open.spotify.com/album/0rY3vtFNS282h1hlXeEIp8) | 3:17 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 10954,
+  "2024-04-17": 10999,
   "date_first_scraped": "2023-09-29",
   "description": "welcome to your comfort zone",
   "name": "rock songs for us rejects",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 207985,
       "name": "Born To Love You",
       "url": "https://open.spotify.com/track/5VlraWDIVsK17hropoizIO"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 255000,
       "name": "Doesn't Remind Me",
       "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU"
@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200696,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2"
+    },
+    {
+      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
@@ -673,6 +691,24 @@
       "duration_ms": 256133,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138679,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh"
     },
     {
       "album": {
@@ -781,6 +817,24 @@
       "duration_ms": 202889,
       "name": "Freak Of Nature",
       "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
+    },
+    {
+      "album": {
+        "name": "Get Inside",
+        "url": "https://open.spotify.com/album/75Li4G2p4S4HEcUuJDcySE"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Get Inside",
+      "url": "https://open.spotify.com/track/3h6QPab2L1KIbkQJT8MlTe"
     },
     {
       "album": {
@@ -1419,7 +1473,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 216903,
       "name": "North of No South - Edit",
       "url": "https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU"
@@ -1477,6 +1531,24 @@
       "duration_ms": 156021,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/6n2vkJKAyH1kvZLDESReDu"
+    },
+    {
+      "album": {
+        "name": "Novum Vetus",
+        "url": "https://open.spotify.com/album/4N2GpoFW3zt6YEyxyblsNZ"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449405,
+      "name": "Novum Vetus",
+      "url": "https://open.spotify.com/track/1OlbUQSGl2vsB1S7CaprIw"
     },
     {
       "album": {
@@ -1599,7 +1671,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 191400,
       "name": "Pop Song for Us Rejects",
       "url": "https://open.spotify.com/track/32LMUGCiTPMdmGlorIVezT"
@@ -2330,6 +2402,24 @@
     },
     {
       "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159698,
+      "name": "Sure Could Use A Friend",
+      "url": "https://open.spotify.com/track/6yE5oz3Hrf4GXBJ0ongd90"
+    },
+    {
+      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -2701,7 +2791,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 330719,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4ciwo5ZCsyzCPjymj940Fw"
@@ -2809,7 +2899,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 334933,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/0iU9Qfn7hoJHbBleOaMOAt"

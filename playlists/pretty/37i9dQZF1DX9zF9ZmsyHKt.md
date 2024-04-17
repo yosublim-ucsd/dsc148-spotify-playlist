@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,744 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,369 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 50 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
 | 51 | [Sorriso Aberto](https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Sorriso Aberto](https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc) | 4:36 |
 | 52 | [Céu Azul](https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs) | [Céu Azul](https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD) | 3:24 |
-| 53 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
-| 54 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
+| 53 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
+| 54 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
 | 55 | [Alguém Me Avisou/Acreditar/Sonho Meu](https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sempre a Cantar](https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO) | 5:04 |
 | 56 | [JBL](https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 2](https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY) | 3:13 |
 | 57 | [Só o Amor](https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Só o Amor](https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ) | 2:58 |

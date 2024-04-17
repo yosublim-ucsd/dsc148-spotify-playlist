@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-133 songs - 8 hr 3 min
+134 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Lagan Laagi Re](https://open.spotify.com/track/3bM0sCyyhglscs8EvsBZ36) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:38 | 2023-04-17 |  |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2023-04-17 | 2024-02-24 |
 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 | 2023-08-17 |  |
-| [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 | 2023-04-17 |  |
+| [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 | 2023-04-17 | 2024-04-17 |
 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:41 | 2023-04-17 |  |
 | [Melt](https://open.spotify.com/track/5I8LXURY4AJdZHtsUfxGlx) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Melt](https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt) | 2:52 | 2023-08-24 | 2023-09-05 |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2023-04-17 |  |
@@ -97,6 +97,7 @@
 | [Parda](https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir) | 3:12 | 2024-02-19 |  |
 | [Peace Of Mind](https://open.spotify.com/track/3oMU1p4h2mL2YG6TbRzXOi) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Notes from Therapy](https://open.spotify.com/album/0FMVEUTTvMBM0Hyo8oldqX) | 3:06 | 2023-04-17 | 2023-08-18 |
 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2023-04-17 | 2024-01-02 |
+| [Phir Se Shuru](https://open.spotify.com/track/0V0QiHWvsUtAAFg640grDJ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Phir Se Shuru](https://open.spotify.com/album/3RDBjSOE1jX3F706lrNWbc) | 3:31 | 2024-04-08 |  |
 | [Phir Se Shuru](https://open.spotify.com/track/4JiaYXeF1BjoiNdLtM1yUD) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Phir Se Shuru](https://open.spotify.com/album/2vs9RbFwdyGs0hitCh7jms) | 3:31 | 2023-04-17 | 2023-08-18 |
 | [Phir Se Ud Chala](https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 4:28 | 2023-04-17 |  |
 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 | 2023-10-16 |  |

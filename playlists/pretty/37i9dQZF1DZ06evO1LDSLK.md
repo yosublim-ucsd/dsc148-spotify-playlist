@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO1LDSLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1LDSLK)
 
-### [This Is イギー・ポップ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LDSLK)
+### [This Is Iggy Pop](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LDSLK)
 
-> This is イギー・ポップ。アーティストの代表曲をひとつのプレイリストに。
+> This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,762 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,763 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 50 | [Personal Jesus](https://open.spotify.com/track/39T5kfrzZZ1I6BgUk5Pmv2) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Personal Jesus](https://open.spotify.com/album/18dZevcCy8WBDLu4kchXiN) | 3:26 |
 | 51 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGFmZDIxMWVkM2M3YmVhMGIxZjEyMTRiYTkxMDQ5NzI1`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDA2NDk2NzAzM2JiYTA1ODYyYjY1ZDlhZTQyZmZhNDli`

@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 347106,
+  "num_followers": 346447,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 172558,
       "name": "Te Pintaron Pajaritos",
       "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Judy Santos",
-          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Obsesion",
-      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 212893,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Judy Santos",
+          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Obsesion",
+      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Fran\u00e7ois",
-        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
-      },
-      "artists": [
-        {
-          "name": "Desireless",
-          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Fran\u00e7ois",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Me 4 U",
-        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
-      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 204666,
       "name": "La Cintura",
       "url": "https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "We No Speak Americano",
         "url": "https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 157438,
       "name": "We No Speak Americano (Edit)",
       "url": "https://open.spotify.com/track/37dYAkMa4lzRCH6kDbMT1L"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Up (Special Edition)",
         "url": "https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 170466,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Livin' la Vida Loca - Spanish Version",
-      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Canciones Prohibidas",
         "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 318986,
       "name": "Salir",
       "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Livin' la Vida Loca - Spanish Version",
+      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Que No Se Extinga La Llama!",
         "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
       },
@@ -2123,18 +2107,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "...Balla!",
-        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
         }
       ],
-      "duration_ms": 262456,
-      "name": "Ma quale idea",
-      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+      "duration_ms": 249506,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2163,6 +2147,22 @@
       "duration_ms": 210000,
       "name": "Tacat\u00e0 - Radio Edit",
       "url": "https://open.spotify.com/track/51RBDu31r3ynFswDJmidLW"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "...Balla!",
+        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 262456,
+      "name": "Ma quale idea",
+      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2211,22 +2211,6 @@
       "duration_ms": 265520,
       "name": "Levantando las Manos",
       "url": "https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Macarena (EP)",
-        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2295,6 +2279,22 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Macarena (EP)",
+        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Gimme Hope Jo'Anna",
-        "url": "https://open.spotify.com/album/1EtVhWC8NcmttAjp0cKeaX"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 243695,
-      "name": "Gimme Hope Jo'Anna",
-      "url": "https://open.spotify.com/track/09lZ2Mx2NSpzy6KBpX2kDq"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Como te d\u00e9 la gana",
         "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 203173,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Gimme Hope Jo'Anna",
+        "url": "https://open.spotify.com/album/1EtVhWC8NcmttAjp0cKeaX"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 243695,
+      "name": "Gimme Hope Jo'Anna",
+      "url": "https://open.spotify.com/track/09lZ2Mx2NSpzy6KBpX2kDq"
     },
     {
       "added_at": "2023-06-09 09:38:51",

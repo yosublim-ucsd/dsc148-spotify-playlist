@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-538 songs - 1 day 4 hr 6 min
+539 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Know Better \(feat\. CKay, Seun Kuti & Egypt 80\)](https://open.spotify.com/track/0pSIOwm8Jz5iMj3nR2rllq) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:49 | 2023-06-09 | 2023-10-18 |
 | [Know Yourself](https://open.spotify.com/track/6wCbvwag0wNRBbhZuXwVpk) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:48 | 2023-09-14 | 2023-09-29 |
 | [KOKA](https://open.spotify.com/track/4y0NPlpdWSE2YcRtSOVNhW) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [KOKA](https://open.spotify.com/album/42lOLtoRnq3ox0Ghz7DJht) | 2:37 | 2024-03-01 |  |
+| [Lalalala](https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Lalalala](https://open.spotify.com/album/3s7J1XOeBX15IXhh025coY) | 2:50 | 2024-04-05 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-06-24 | 2022-11-26 |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-28 | 2023-12-08 |
 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 | 2022-12-08 | 2023-09-29 |
@@ -261,7 +262,7 @@
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-06-24 | 2023-02-17 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2023-02-11 |
 | [Like That](https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:56 | 2022-11-04 | 2022-12-09 |
-| [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 |  |
+| [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 | 2024-04-17 |
 | [Link Up](https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Link Up](https://open.spotify.com/album/2vlW2rFQ0V9EnzzYXuhPvg) | 2:33 | 2023-09-29 | 2023-10-13 |
 | [Little Things I want](https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Little Things I want](https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2) | 1:20 | 2023-09-20 | 2024-03-15 |
 | [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-03-24 | 2024-02-23 |

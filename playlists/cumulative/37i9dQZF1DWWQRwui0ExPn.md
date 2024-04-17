@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,707 songs - 10 day 14 hr 14 min
+6,709 songs - 10 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2430,7 +2430,7 @@
 | [Géminis](https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Géminis](https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm) | 3:17 | 2022-12-16 | 2023-04-06 |
 | [Ha Long](https://open.spotify.com/track/1TDDBPg0JCXBdq6kpnbOG0) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Surfin on your Wave](https://open.spotify.com/album/4sdVw3Blavcj9YK3VUoIAx) | 1:39 | 2024-01-05 |  |
 | [Hacienda](https://open.spotify.com/track/3K96GDHFnUTSKVDLtX55qR) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Reasonable Cloud](https://open.spotify.com/album/62ubAcOgLl39aFiCDmnQPL) | 2:15 | 2021-12-17 | 2022-07-01 |
-| [Hakone](https://open.spotify.com/track/4MROAMHZoWne5mPwsBQld1) | [Andayo](https://open.spotify.com/artist/1DVQwJxtRAvYVMA7SdYh5o) | [Hakone](https://open.spotify.com/album/0dDnTWHD2RQvoPqsgjSRQj) | 1:56 | 2024-04-12 |  |
+| [Hakone](https://open.spotify.com/track/4MROAMHZoWne5mPwsBQld1) | [Andayo](https://open.spotify.com/artist/1DVQwJxtRAvYVMA7SdYh5o) | [Hakone](https://open.spotify.com/album/0dDnTWHD2RQvoPqsgjSRQj) | 1:56 | 2024-04-12 | 2024-04-17 |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2022-03-19 | 2022-06-17 |
 | [Half Light](https://open.spotify.com/track/7wKp9THGLEsCRLm8Btccgx) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [In the Garden](https://open.spotify.com/album/4GnHKzBoHdWxr0s64TgQaw) | 2:20 | 2022-07-29 | 2022-11-11 |
 | [Half Light](https://open.spotify.com/track/2hVSGpwO9f35q9euslxLae) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Rainy Evenings](https://open.spotify.com/album/7oxwWHesg7eJRCptCPZQkq) | 2:55 | 2022-10-21 | 2023-02-11 |
@@ -2750,6 +2750,7 @@
 | [imagine](https://open.spotify.com/track/7Au1uggxXyxJ5a0LJUoUza) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [imagine](https://open.spotify.com/album/1PMZAz5I1rSut8IhnnkMai) | 1:15 | 2022-12-09 | 2023-08-11 |
 | [Imagined Interactions](https://open.spotify.com/track/3RfrXAjlrL4dMVZvWfuJpl) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Imagined Interactions](https://open.spotify.com/album/1JOQJqqnAmTQMb2snH7uiL) | 2:20 | 2021-06-01 | 2022-03-11 |
 | [Imbalance](https://open.spotify.com/track/3FHLMmfB4CBGJYUgaCV4tL) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Imbalance](https://open.spotify.com/album/2FSxtuVkmxfapO4b5xVl1e) | 2:45 | 2021-12-03 | 2022-06-24 |
+| [Imitate](https://open.spotify.com/track/3vVgfdrnspK2ql4l9fO99S) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Imitate](https://open.spotify.com/album/57cq7pjV7oYcEKGQbZeui9) | 1:30 | 2024-04-12 |  |
 | [Immerse](https://open.spotify.com/track/1wHXneKRmErrHWlom0AsZn) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Immerse](https://open.spotify.com/album/4pUtyMFtLyM9dVC9ZO13oa) | 2:05 | 2022-09-30 | 2023-01-13 |
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 | 2024-01-05 |
 | [impeccable pace](https://open.spotify.com/track/3wveUrogtFnpTALwYSukap) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [impeccable pace](https://open.spotify.com/album/2vjmJlKkRC3hSJdMitHVvx) | 2:24 | 2023-07-27 | 2024-01-26 |
@@ -4425,7 +4426,7 @@
 | [Pearls](https://open.spotify.com/track/2Vjg5rtBcuzx99SyAOHJsD) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Pearls](https://open.spotify.com/album/0GPOmi6oHXZKIMxTLllznv) | 2:10 | 2020-01-12 | 2021-08-22 |
 | [peas out](https://open.spotify.com/track/0RDj9JVOc6MfNIeAgC8TJ7) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [peas out](https://open.spotify.com/album/1yjp45nlPkwdOlZaZb6AQI) | 2:04 | 2022-10-28 | 2024-02-09 |
 | [Pelekas](https://open.spotify.com/track/1GS4cVWVcE2mYUfT807H74) | [Portaledge](https://open.spotify.com/artist/703AVVIX6VeNMQbXJu4UVh) | [Pelekas](https://open.spotify.com/album/1h71qhhO9fZcfza8Fmu4MX) | 2:01 | 2021-01-11 | 2021-10-20 |
-| [pen & paper](https://open.spotify.com/track/6RkIex44IA8s7T8nyA0yqg) | [lil emilio](https://open.spotify.com/artist/1wjlcIh05ZHl7FMa078jHG) | [pen & paper](https://open.spotify.com/album/0BwuGAVpFn30BKOKnAJ2e5) | 1:51 | 2024-04-12 |  |
+| [pen & paper](https://open.spotify.com/track/6RkIex44IA8s7T8nyA0yqg) | [lil emilio](https://open.spotify.com/artist/1wjlcIh05ZHl7FMa078jHG) | [pen & paper](https://open.spotify.com/album/0BwuGAVpFn30BKOKnAJ2e5) | 1:51 | 2024-04-12 | 2024-04-17 |
 | [Pendulum](https://open.spotify.com/track/5XfGPtiNkoPkeK00QTEHCb) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Pendulum](https://open.spotify.com/album/0c6GZXLOQNRRfoJSCraLwc) | 2:13 | 2022-04-08 | 2022-08-27 |
 | [Penumbra](https://open.spotify.com/track/08Dq2x88JwX9fMyGXcRDR0) | [Pishku](https://open.spotify.com/artist/63DTPqrAsUQ4AWZ0MSEl9A) | [Penumbra](https://open.spotify.com/album/09X5QyDJKiuW2PGlSczBoL) | 2:05 | 2022-08-19 | 2022-11-21 |
 | [Penumbra](https://open.spotify.com/track/6OnFrM5gSTj56cgGlwNJzZ) | [Pishku](https://open.spotify.com/artist/63DTPqrAsUQ4AWZ0MSEl9A) | [Penumbra](https://open.spotify.com/album/1b0ssWnMJ1F35iWJZNPDqF) | 2:05 | 2022-11-18 | 2022-11-25 |
@@ -4933,6 +4934,7 @@
 | [Sanduhr](https://open.spotify.com/track/7xOrraM4CMEgvOMdP5w7ah) | [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C) | [Sanduhr](https://open.spotify.com/album/44qZy9u8djrrcySBihFHGw) | 2:04 | 2023-01-06 | 2023-04-24 |
 | [sandwhich beach](https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [sandwhich beach](https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z) | 2:00 | 2023-11-10 |  |
 | [sandy shores](https://open.spotify.com/track/69laqm4AmQQbTHAauHzPfZ) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [sandy shores](https://open.spotify.com/album/2mdxRo7AMK2Ol4S6izuTpg) | 2:28 | 2022-11-25 | 2023-01-20 |
+| [Sanna](https://open.spotify.com/track/2yT3qC2KGNKIpzvXgKsbXr) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l) | [Sanna](https://open.spotify.com/album/2hDVPH32V40h3n5xWxxKoD) | 1:42 | 2024-04-12 |  |
 | [Santa Anna](https://open.spotify.com/track/1fBdiUETHIpwfekJQON8d9) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Santa Anna](https://open.spotify.com/album/0GotAWeTX5wrTe2lZt7Xso) | 2:00 | 2022-10-28 | 2023-01-20 |
 | [Santa Anna](https://open.spotify.com/track/59qb6in5aDPsgMOzkfEc67) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Santa Anna](https://open.spotify.com/album/4K3ZxGikQt4WuYccm2qeQs) | 2:00 | 2022-10-28 | 2022-10-29 |
 | [Santa Baby](https://open.spotify.com/track/3DGHKbAxjULWbOZDLDdj71) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Santa Baby](https://open.spotify.com/album/47upBPzqSGKTX5Yy2YPEWY) | 2:42 | 2021-12-17 | 2021-12-27 |

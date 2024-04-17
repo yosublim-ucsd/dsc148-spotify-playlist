@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 115693,
+  "2024-04-17": 115681,
   "date_first_scraped": "2023-12-27",
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
   "name": "This Is Dean Martin",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Arrivederci Roma - Remastered 1998",
       "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 184453,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 195866,
       "name": "Come Back To Sorrento",
       "url": "https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 164546,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 156173,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 136493,
       "name": "Good Mornin' Life",
       "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 149560,
       "name": "Heaven Can Wait - Remastered/1998",
       "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 157600,
       "name": "Hey Brother, Pour The Wine",
       "url": "https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 161066,
       "name": "Houston",
       "url": "https://open.spotify.com/track/4CKqqKUKsjNTTNF3veSiWi"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 145346,
       "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
       "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 141906,
       "name": "I Will",
       "url": "https://open.spotify.com/track/0wX6mflFA4a72SOcAkDYsY"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 176960,
       "name": "In Napoli",
       "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 152346,
       "name": "In the Chapel in the Moonlight",
       "url": "https://open.spotify.com/track/2Oabv85FCY9lUmyPPmcggX"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 145066,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 142506,
       "name": "Mambo Italiano",
       "url": "https://open.spotify.com/track/7DuqCAxfOEKBfQgrnWfHrh"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 130253,
       "name": "Mean To Me - Remastered/1998",
       "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 187986,
       "name": "My Heart Cries for You",
       "url": "https://open.spotify.com/track/6KSQAmuboVQfo6hOTYDzyk"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 158813,
       "name": "My Heart Reminds Me - Remastered 1998",
       "url": "https://open.spotify.com/track/7ttWSKqh526y2NImkQvuW3"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 210226,
       "name": "My Woman, My Woman, My Wife",
       "url": "https://open.spotify.com/track/0q90htFRfz13tk1JQ862uP"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 185773,
       "name": "Non Dimenticar - Remastered 1998",
       "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 148466,
       "name": "On An Evening In Roma (Sott'er Celo De Roma)",
       "url": "https://open.spotify.com/track/16pUlUFjyp6BtDtxC0i9ch"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 181120,
       "name": "Pardon (Perdoname) - Remastered 1998",
       "url": "https://open.spotify.com/track/5GeDGni5lEHwKak7ACYarN"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 144400,
       "name": "Please Don't Talk About Me When I'm Gone",
       "url": "https://open.spotify.com/track/2cCbzl5QTO0bWgjRPI6yPY"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 175506,
       "name": "The Man Who Plays The Mandolino",
       "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 141840,
       "name": "Tik-A-Tee, Tik-A-Tay",
       "url": "https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 182120,
       "name": "Until The Real Thing Comes Along - Remastered/1998",
       "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
@@ -2211,7 +2211,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 167826,
       "name": "We'll Sing in the Sunshine",
       "url": "https://open.spotify.com/track/1WKMAaCkDKt4SUqn7BRQ3G"
@@ -2229,7 +2229,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 139386,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
@@ -2337,7 +2337,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 120360,
       "name": "You'll Always Be the One I Love",
       "url": "https://open.spotify.com/track/42lA9iaBSjXJ0vlDyHfjs1"

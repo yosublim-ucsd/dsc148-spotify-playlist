@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=8WwDgnZjSWCx\-d3cVmkM2g"> عصام صاصا </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,009 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,844 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 23 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 |
 | 24 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 |
 | 25 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 |
-| 26 | [ايويا يا حبيبتي وحشتيني \- مهرجان \- ايويا يا حبيبتي وحشتيني \- اسلام كابونجا \- كلوشه \- توزيع فيجو الدخلاوي \- مهرجانات 2023](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [ايويا يا حبيبتي وحشتيني \(مهرجان \- ايويا يا حبيبتي وحشتيني \- اسلام كابونجا \- كلوشه \- توزيع فيجو الدخلاوي \- مهرجانات 2023\)](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 |
+| 26 | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 |
 | 27 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
 | 28 | [سيبك من اللي خلع \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7ME2ZENU0G5H7IlnPbWvOv) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [سيبك من اللي خلع \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/5VVLkrKS5EIDoy3ehMbGNX) | 2:52 |
 | 29 | [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 |

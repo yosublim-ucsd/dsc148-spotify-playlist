@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ニィキュッパ
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,288 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,283 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 27 | [Friends and god](https://open.spotify.com/track/19r5kIdj1U9sSpfNUn62I2) | [sayonaramiochan](https://open.spotify.com/artist/7LBBSHQF4grvtHDGE8EfK7) | [Friends and god](https://open.spotify.com/album/1HnRjnxE0s67qAQczrpg6a) | 3:58 |
 | 28 | [shoumonainaa](https://open.spotify.com/track/2JfSRrwNVcnfeuA1ybTG0z) | [shukatsuclub](https://open.spotify.com/artist/3R2FK3WS1nBCJuaerq98Ra) | [shoumonainaa](https://open.spotify.com/album/3xVSfUhZmQxSfHx5ESBxhp) | 3:20 |
 | 29 | [ダイムバッグ・ヒーロー](https://open.spotify.com/track/7u0tELmtkAknRadBHy5o3B) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [ダイムバッグ・ヒーロー](https://open.spotify.com/album/12O4Q6GvPB8YsvViSKLZw6) | 2:35 |
-| 30 | [Pizza Planet](https://open.spotify.com/track/0m1xJm8GbSx5HmpzW7XXDf) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo), [ゆいにしお](https://open.spotify.com/artist/2MzXnVOCn6oc4cigvqnkDl) | [Pizza Planet](https://open.spotify.com/album/6cc79lxUdsTNNb5eCWHfou) | 3:39 |
+| 30 | [Pizza Planet](https://open.spotify.com/track/0m1xJm8GbSx5HmpzW7XXDf) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo), [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Pizza Planet](https://open.spotify.com/album/6cc79lxUdsTNNb5eCWHfou) | 3:39 |
 | 31 | [Blur](https://open.spotify.com/track/7nQgPEQvN98ZdwKqMRO2Oe) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Blur](https://open.spotify.com/album/4Ug1XG0DRgbNfI6wtqPMdd) | 3:42 |
 | 32 | [Coffee Time](https://open.spotify.com/track/04Gx07sdyMVBZBaWeMrqUL) | [シトナユイ](https://open.spotify.com/artist/0kWlfrKUtyyjipOtWz5gkB) | [TINY LAND](https://open.spotify.com/album/66j9LQ5E9mFbXwKNxT5Ocj) | 3:18 |
 | 33 | [Dawn](https://open.spotify.com/track/4RwzFf7ycipPXTgZF2yuvP) | [未完成ブレイブ](https://open.spotify.com/artist/04Ed81vmCD3qqU2AoBePXW) | [Dawn](https://open.spotify.com/album/6BqaQx9ypik3U96sLsyUzg) | 4:19 |

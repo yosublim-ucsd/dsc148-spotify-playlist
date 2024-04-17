@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 126604,
+  "2024-04-17": 126513,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -2155,7 +2155,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 198000,
       "name": "Chromatically",
       "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
@@ -8810,6 +8810,24 @@
     },
     {
       "album": {
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/6njyxhqm4g489876fqE1lF"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u"
+    },
+    {
+      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/1GvvFHVDmXb6sVwDaJhliB"
       },
@@ -10291,7 +10309,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 243750,
       "name": "Right Here, Right Now",
       "url": "https://open.spotify.com/track/6UAGp1Hg9VOqB8QU8salOK"

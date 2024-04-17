@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1194621,
+  "num_followers": 1195007,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
       },
       "artists": [
         {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 239933,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -191,22 +195,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
       "artists": [
         {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
         }
       ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
     },
     {
       "added_at": "2023-07-14 10:06:53",

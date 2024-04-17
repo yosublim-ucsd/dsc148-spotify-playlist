@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > just a little playlist with viral stuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,239 likes - 923 songs - 2 day 0 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,376 likes - 923 songs - 2 day 0 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Street Bangers Factory 17",
+        "url": "https://open.spotify.com/album/4W08kjPFYZywJ2L1xbHXoR"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183345,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/10SsszZXnRrXNKl2JGvs9I"
+    },
+    {
+      "album": {
         "name": "Another Chance (SBF17)",
         "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 183345,
       "name": "Another Chance - SBF17",
       "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"

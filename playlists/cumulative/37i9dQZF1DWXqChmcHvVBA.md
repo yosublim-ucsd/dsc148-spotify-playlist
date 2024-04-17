@@ -4,7 +4,7 @@
 
 > No es cumbia, tampoco reggaetón\. Foto: Gusty DJ, DobleP & Salastkbron.
 
-159 songs - 7 hr 30 min
+160 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [After Si, Casa No](https://open.spotify.com/track/55n89v9hFGtkr4MxbE9PUM) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [After Si, Casa No](https://open.spotify.com/album/1CTBCwVeHXEbQR0jHEKOtG) | 2:53 | 2023-12-15 |  |
 | [ALEJO ISAKK \| DJ TAO Turreo Sessions \#14](https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [ALEJO ISAKK \| DJ TAO Turreo Sessions \#14](https://open.spotify.com/album/0keCqTJB00DAwHML5qknRH) | 2:40 | 2023-12-15 | 2023-12-23 |
 | [Alta Gama](https://open.spotify.com/track/6hxqef9MmA3Z783MNWhEgE) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [Yasmi](https://open.spotify.com/artist/3SeLlSSVzurvLQGQEZLyKW) | [Alta Gama](https://open.spotify.com/album/7nz02Iu8lvbwhVVxSENlma) | 2:56 | 2024-01-26 | 2024-03-02 |
+| [Ando RKT](https://open.spotify.com/track/4O5EfpTgSjIVfHOMO0QWJq) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC) | [Ando RKT](https://open.spotify.com/album/709oUpSNnGvzpvwOVxPLYB) | 2:30 | 2024-04-12 |  |
 | [Ando RKT \(feat\. Keko DJ\)](https://open.spotify.com/track/4YeVTQkFFMUM3HHnkMGLhG) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Keko DJ](https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i) | [Ando RKT \(feat\. Keko DJ\)](https://open.spotify.com/album/2vx8AxbgNe0dV5vOvhHyYq) | 2:30 | 2024-02-26 | 2024-04-08 |
-| [Ando RKT \- Remix](https://open.spotify.com/track/5IlGH7Tn7HNVI8lKUci06n) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Keko DJ](https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i) | [Ando RKT \(Remix\)](https://open.spotify.com/album/5QT3g50WifrBbhYDPnTdWt) | 2:30 | 2023-12-15 |  |
+| [Ando RKT \- Remix](https://open.spotify.com/track/5IlGH7Tn7HNVI8lKUci06n) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Keko DJ](https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i) | [Ando RKT \(Remix\)](https://open.spotify.com/album/5QT3g50WifrBbhYDPnTdWt) | 2:30 | 2023-12-15 | 2024-04-17 |
 | [Anoche Te Llamé Borracho](https://open.spotify.com/track/5LwCCgRzAkxyTEbb3NyTV0) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Anoche Te Llamé Borracho](https://open.spotify.com/album/0YHyAx4Fh3P6k81WyoLW2b) | 2:25 | 2024-02-16 |  |
 | [Auto Al Piso](https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Auto Al Piso](https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy) | 2:54 | 2023-12-15 |  |
 | [Azote \- Remix](https://open.spotify.com/track/6862W0OJNwhytsXSpCQZ5k) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Azote \(Remix\)](https://open.spotify.com/album/7uFvIYuaRywnVcpPKYNd5y) | 3:46 | 2023-12-15 |  |

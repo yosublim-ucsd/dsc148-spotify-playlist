@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 270867,
+  "2024-04-17": 270813,
   "date_first_scraped": "2023-03-20",
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
   "name": "Radio Pop",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 213434,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 167640,
       "name": "Detox",
       "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
@@ -2565,7 +2565,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 301120,
       "name": "La Casa del Amor Nocturno",
       "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
@@ -2665,7 +2665,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 235862,
       "name": "La mujer que nadie defendi\u00f3",
       "url": "https://open.spotify.com/track/2CZxFBaUJDrD2mTxUCLjs0"
@@ -3301,7 +3301,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 174000,
       "name": "Mal Amante",
       "url": "https://open.spotify.com/track/4VctUfodXGszmNqVq1QQz8"
@@ -4330,6 +4330,24 @@
     },
     {
       "album": {
+        "name": "POR\u00c1I",
+        "url": "https://open.spotify.com/album/7KgX3SJDyy7YYlHs7sOHPQ"
+      },
+      "artists": [
+        {
+          "name": "Juanicar",
+          "url": "https://open.spotify.com/artist/1J92Iz96FwLD7sbBzesxli"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182947,
+      "name": "POR\u00c1I",
+      "url": "https://open.spotify.com/track/0m6UUFT0cUqky2b3zUnf0J"
+    },
+    {
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -4947,7 +4965,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 204043,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1wPAOYQJcGSqvXkqcQHExr"
@@ -5867,7 +5885,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"

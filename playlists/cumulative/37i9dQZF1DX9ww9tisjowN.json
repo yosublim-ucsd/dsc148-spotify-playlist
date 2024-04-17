@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186603,
+      "name": "Biri-Biri - English Version",
+      "url": "https://open.spotify.com/track/6f8RGfNa1cSk7I04vfFEQp"
+    },
+    {
+      "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
@@ -1173,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200241,
+      "name": "Fukakoryoku",
+      "url": "https://open.spotify.com/track/0lK0ONyDapmxGzYexyaAFW"
+    },
+    {
+      "album": {
         "name": "Galnia",
         "url": "https://open.spotify.com/album/6WHM2nvsIWkeW7tMnsPoPw"
       },
@@ -1904,6 +1940,32 @@
       "duration_ms": 204916,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Bound",
+        "url": "https://open.spotify.com/album/7r4h1bFrkehz6ssyx6ox1i"
+      },
+      "artists": [
+        {
+          "name": "Yunosuke",
+          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
+        },
+        {
+          "name": "Circus-P",
+          "url": "https://open.spotify.com/artist/1C0DQxH8vVeXuDuo9eqetl"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Intergalactic Bound (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/25tNraNmMNwSEccFVcXxnu"
     },
     {
       "album": {
@@ -3344,7 +3406,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 200470,
       "name": "Pink Gang",
       "url": "https://open.spotify.com/track/7cL0Yv9wLzhQ94mFrMMGTj"
@@ -3712,7 +3774,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 199082,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
@@ -4368,7 +4430,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 191180,
       "name": "Tokyo Calling",
       "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
@@ -4404,7 +4466,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 156556,
       "name": "Toryanse",
       "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
@@ -5924,7 +5986,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 191973,
       "name": "\u30d6\u30e9\u30a4\u30c0\u30eb\u30c9\u30ea\u30fc\u30e0",
       "url": "https://open.spotify.com/track/6gtqm6Hpuyq133BvPG4oBu"
@@ -6564,6 +6626,24 @@
       "duration_ms": 189772,
       "name": "\u5531",
       "url": "https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7344\u604b\u6587",
+        "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "\u5730\u7344\u604b\u6587",
+      "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
     },
     {
       "album": {
@@ -7504,7 +7584,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 229328,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"

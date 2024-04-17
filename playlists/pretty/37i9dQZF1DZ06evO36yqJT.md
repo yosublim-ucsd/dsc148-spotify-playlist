@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This is Shirley Caesar\. The essential tracks, all in one playlist.
+> This is: Shirley Caesar\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,967 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,969 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 49 | [The World Didn't Give It to Me](https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 5:06 |
 | 50 | [Lord Let Your Spirit Fall On Me](https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 4:53 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGZmMjA1NDcwYjFhZmQyNjM0Mjc5NDY5NDI0ZDU0Mzc4`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGEzMDRlNTY2MjU3NDgwNGExYzhhOGY0NzIzMWUyZmVi`

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126604,
+  "num_followers": 126513,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY2MCwxOGI1OTVkMTA2Njk1MTc1OTkzMjYzZmEwYTk3YTYzOTcwNzliZjUw",
+  "snapshot_id": "NDY2MiwwNDExMjc3OTk4MWIxZGM3Y2Q0ZTE0ODAzOWM3MjlkMzUyYTMwYjEz",
   "tracks": [
+    {
+      "added_at": "2024-04-16 16:56:22",
+      "album": {
+        "name": "The Magic",
+        "url": "https://open.spotify.com/album/6GBf9xoSdsRTa9z3qyeGjs"
+      },
+      "artists": [
+        {
+          "name": "Nigel Good",
+          "url": "https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2"
+        },
+        {
+          "name": "Tien Viet Nguyen",
+          "url": "https://open.spotify.com/artist/6odxpDVoNhGYuhBzCZTAk6"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Magic",
+      "url": "https://open.spotify.com/track/5x8zNpwb9BYNIf6fcYTDRt"
+    },
     {
       "added_at": "2024-04-15 18:58:52",
       "album": {
@@ -1159,26 +1179,6 @@
       "duration_ms": 129103,
       "name": "u want me 2.0",
       "url": "https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG"
-    },
-    {
-      "added_at": "2024-01-26 17:08:50",
-      "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This is Charlie Monttana\. The essential tracks, all in one playlist.
+> This Is Charlie Monttana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,442 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,445 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 |
 | 50 | [Déjame Rocanrolearte](https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 2:59 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGI0MTJjNmI3N2MzZWRkNjFiN2I4MWUxZDRmMGEzNWEy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDU3OTAxZjRjYWI1ODc2NDFkMzc1OTUxYjViZjI5Mjg1`

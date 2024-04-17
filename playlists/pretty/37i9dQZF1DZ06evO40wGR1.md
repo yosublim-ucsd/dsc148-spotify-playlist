@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 
 ### [This Is Liran' Roll](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40wGR1)
 
-> This is Liran' Roll\. The essential tracks, all in one playlist.
+> This Is Liran' Roll\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,192 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,196 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 49 | [El Alcohol](https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 3:41 |
 | 50 | [Tiempo Atrás](https://open.spotify.com/track/50rKIJTytRZaR1Ndyc9qj3) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:44 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDQ5MDY4MzYyN2E4MDEyNjQ1NjkxMDQwNWZlNDM5ODgy`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGFjMjU5YjdlZTAwNTRmYTNmZmZlZjAxZGEyY2IzYzcx`

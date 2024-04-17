@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 280650,
+  "num_followers": 280200,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "DESCARTABLE",
-      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 160986,
       "name": "Las Dudas",
       "url": "https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 176160,
       "name": "MALAVIDA (feat. Evlay)",
       "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 193906,
       "name": "Prometimos",
       "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Una noche m\u00e1s (feat. Bruses)",
-        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 183353,
-      "name": "Una noche m\u00e1s (feat. Bruses)",
-      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 153837,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Una noche m\u00e1s (feat. Bruses)",
+        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 183353,
+      "name": "Una noche m\u00e1s (feat. Bruses)",
+      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
     },
     {
       "added_at": "2024-04-12 04:00:00",

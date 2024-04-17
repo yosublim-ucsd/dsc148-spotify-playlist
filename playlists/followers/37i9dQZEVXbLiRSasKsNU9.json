@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 1773580,
+  "2024-04-17": 1771608,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -30082,6 +30082,24 @@
     },
     {
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/3UsBjs22X6tMtgSUMhaT0V"
       },
@@ -38853,7 +38871,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 259268,
       "name": "Seni Seviyorum (Live)",
       "url": "https://open.spotify.com/track/730eP2Ndifb7WUPerT4Nes"
@@ -40271,7 +40289,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -48517,6 +48535,36 @@
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+    },
+    {
+      "album": {
+        "name": "Woda Ksi\u0119\u017cycowa",
+        "url": "https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "Woda Ksi\u0119\u017cycowa",
+      "url": "https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk"
     },
     {
       "album": {

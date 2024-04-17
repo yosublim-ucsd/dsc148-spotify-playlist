@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 ### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
-> Up and down I\-95\. Cover: A Boogie Wit da Hoodie
+> Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,586 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,031 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 2 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 |
 | 3 | [SNA!](https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SNA!](https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw) | 2:08 |
 | 4 | [Trick](https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Trick](https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1) | 2:02 |
-| 5 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 |
-| 6 | [I LIKE TO PARTY](https://open.spotify.com/track/2okQx65AOJkPYUe0GOdc1o) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l), [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB) | [I LIKE TO PARTY](https://open.spotify.com/album/4wYaKT1uFbNEJLuHbrjjjB) | 3:09 |
-| 7 | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/track/4SR1DZjH029uliUSSPZpJW) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/album/1oKLEqv46j1DWOHQ1UMpbd) | 2:27 |
-| 8 | [Whatever I Want](https://open.spotify.com/track/6BqnF9KSPIgLqO4EG9erJr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:20 |
-| 9 | [Tweakin](https://open.spotify.com/track/66F2YDTvXpEORKPb0CNxKV) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Tweakin](https://open.spotify.com/album/3qFgq8N7K0wdOCakbgEjit) | 2:06 |
-| 10 | [Many Opps](https://open.spotify.com/track/2W137gWZoU4XiKhkRYS44g) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Many Opps](https://open.spotify.com/album/5grGljqDjJ2vr2HJvRku8m) | 2:39 |
-| 11 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |
-| 12 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
-| 13 | [Red Moon](https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Red Moon](https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob) | 2:51 |
+| 5 | [Red Moon](https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Red Moon](https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob) | 2:51 |
+| 6 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 |
+| 7 | [I LIKE TO PARTY](https://open.spotify.com/track/2okQx65AOJkPYUe0GOdc1o) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l), [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB) | [I LIKE TO PARTY](https://open.spotify.com/album/4wYaKT1uFbNEJLuHbrjjjB) | 3:09 |
+| 8 | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/track/4SR1DZjH029uliUSSPZpJW) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/album/1oKLEqv46j1DWOHQ1UMpbd) | 2:27 |
+| 9 | [Whatever I Want](https://open.spotify.com/track/6BqnF9KSPIgLqO4EG9erJr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:20 |
+| 10 | [Tweakin](https://open.spotify.com/track/66F2YDTvXpEORKPb0CNxKV) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Tweakin](https://open.spotify.com/album/3qFgq8N7K0wdOCakbgEjit) | 2:06 |
+| 11 | [Many Opps](https://open.spotify.com/track/2W137gWZoU4XiKhkRYS44g) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Many Opps](https://open.spotify.com/album/5grGljqDjJ2vr2HJvRku8m) | 2:39 |
+| 12 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |
+| 13 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
 | 14 | [Bad Breed \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/4MTulquGklWpFeOaco1Uv5) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:51 |
 | 15 | [Down With Me](https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx) | 2:00 |
 | 16 | [Told Ya](https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Told Ya](https://open.spotify.com/album/6sPmFdZn1p92RnXJYamKtz) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 74 | [Chain Smokin](https://open.spotify.com/track/13gGKDBFKilZ6lFFjYhUmK) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Chain Smokin](https://open.spotify.com/album/7xM4CGrLZPwLVRkxkc5RVC) | 2:07 |
 | 75 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 
-Snapshot ID: `MTcxMjg5NTA1MywwMDAwMDAwMGY5NmY4ODcxMjE3NTFiNzYwOTg5MGFhMGJkYzVkYTdm`
+Snapshot ID: `MTcxMzMwNDI5OSwwMDAwMDAwMDBjZTIwNjNjMjBmODUwN2Q3MDJlNjY3ZDIzOTg5YjYz`

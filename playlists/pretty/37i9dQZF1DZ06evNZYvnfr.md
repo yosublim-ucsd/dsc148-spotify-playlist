@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 ### [This Is Micah Tyler](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYvnfr)
 
-> This is Micah Tyler\. The essential tracks, all in one playlist.
+> This is: Micah Tyler\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,575 likes - 33 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,579 likes - 33 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 32 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 |
 | 33 | [The Warrior](https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:49 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJkM2NjYWViMWJlMGEyMWM2MGVlMDUyN2FjM2ZmZmJk`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDA5ODgzZmE1NTRmN2VmNTYzYjc2YWE5ODJmZDY2ZGE1`

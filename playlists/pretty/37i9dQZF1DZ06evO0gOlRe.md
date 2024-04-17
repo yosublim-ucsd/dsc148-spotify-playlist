@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 ### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This is Alexander Stewart\. The essential tracks, all in one playlist.
+> This is Alexander Stewart\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,790 likes - 35 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,820 likes - 35 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 34 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
 | 35 | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg) | 4:12 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGY0ODllMjQ0YTQyNTJlNTI4OWRkODM0YTRhOGI1OTMx`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDg5OWQ1YjRkZjMzYWY0MDc1NGFiY2Y3ODY3YmFmMmM2`

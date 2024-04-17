@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ DRAIN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,105 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,168 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 41 | [Dark Blue](https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 2:49 |
 | 42 | [Magazine Beach](https://open.spotify.com/track/1T8py1nh6wsKy6jPDNkGMC) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 1:26 |
 | 43 | [In the Moment](https://open.spotify.com/track/0NlTiLCrtFjup8wFtiPvUW) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/5TdfffxcU8zEX1V0KlFPB3) | 2:40 |
-| 44 | [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 |
+| 44 | [Stuck in a Dream](https://open.spotify.com/track/0l45tOBSC65cnaSFq0WHYW) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 2:40 |
 | 45 | [Empty Nesting Doll](https://open.spotify.com/track/4F4htaoglwllmVrqa3w74K) | [Cosmic Joke](https://open.spotify.com/artist/3w7uVOPfs4czpqSWFgCPDX) | [Cosmic Joke](https://open.spotify.com/album/5njj0uHIGlVbqtBu8MTWSf) | 1:48 |
 | 46 | [Peasants Revolt](https://open.spotify.com/track/2LuM7OyW232MyhXJEJgUr1) | [Skourge](https://open.spotify.com/artist/7yGhQjRH18GymiJDttaULS) | [Torrential Torment](https://open.spotify.com/album/15oMALMnWU9JcWxrEmCn8s) | 1:53 |
 | 47 | [Refrain](https://open.spotify.com/track/4MiEv1tSs9TfrxERXYd6Op) | [Frail Body](https://open.spotify.com/artist/087dxTWzkw5RjrjOiJCfBH) | [Refrain](https://open.spotify.com/album/52GBvq9WmkMUc1BYaDDEac) | 2:43 |

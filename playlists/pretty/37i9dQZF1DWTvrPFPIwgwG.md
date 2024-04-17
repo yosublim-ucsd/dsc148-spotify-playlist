@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Eurice Diniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,268 likes - 85 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,263 likes - 85 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

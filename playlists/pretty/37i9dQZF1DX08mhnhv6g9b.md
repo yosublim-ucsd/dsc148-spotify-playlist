@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Ten years of BTS and beyond\. <a href="https://www.youtube.com/watch?v=QVloM9fOGoU"> \[BTS Monuments: Beyond The Star\] </a> streaming exclusively on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,862,020 likes - 259 songs - 15 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,852,740 likes - 259 songs - 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

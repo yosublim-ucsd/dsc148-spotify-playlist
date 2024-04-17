@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Shabjdeed & Al Nather
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,185 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,025 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 24 | [PAGHIIIIIIIIIIZ](https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [PAGHIIIIIIIIIIZ](https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X) | 2:22 |
 | 25 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 |
 | 26 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
-| 27 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
+| 27 | [Meen \(feat\. Rafiek\)](https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [من الرماد](https://open.spotify.com/album/0izte4GdWsvO29WcOWKbkp) | 2:45 |
 | 28 | [Fein El Dawa](https://open.spotify.com/track/003TuuUc1rrAiuq6Nora4X) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 2:41 |
-| 29 | [Meen \(feat\. Rafiek\)](https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [من الرماد](https://open.spotify.com/album/0izte4GdWsvO29WcOWKbkp) | 2:45 |
+| 29 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
 | 30 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
 | 31 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 32 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 39 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 |
 | 40 | [MADARETSH](https://open.spotify.com/track/20ug862pGPnJRSuENJp3ae) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 2:28 |
 | 41 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 |
-| 42 | [Jabra Vu](https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:17 |
-| 43 | [هجمة مرتدة](https://open.spotify.com/track/1EvuN2Orgy4wmNw4I5YwVS) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [هجمة مرتدة](https://open.spotify.com/album/3jnX7VGsqap7ywQ7tGHCUr) | 2:49 |
+| 42 | [هجمة مرتدة](https://open.spotify.com/track/1EvuN2Orgy4wmNw4I5YwVS) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [هجمة مرتدة](https://open.spotify.com/album/3jnX7VGsqap7ywQ7tGHCUr) | 2:49 |
+| 43 | [Jabra Vu](https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:17 |
 | 44 | [Seven Bullets](https://open.spotify.com/track/5dU7mZmnQyaUxHlEQwtWM9) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Seven Bullets](https://open.spotify.com/album/4OErllJqRh7wBvsIzqQmjg) | 8:04 |
 | 45 | [Malet](https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Malet](https://open.spotify.com/album/3BgQk5FH2NVhZPuwENJkrC) | 3:21 |
 | 46 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |

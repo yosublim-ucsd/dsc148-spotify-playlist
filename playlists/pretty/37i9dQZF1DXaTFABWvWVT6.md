@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,678 likes - 44 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,692 likes - 44 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 33 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |
 | 34 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 | 35 | [Bassline Pumping](https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Bassline Pumping EP](https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE) | 3:30 |
-| 36 | [Money \(Can't Save Us\)](https://open.spotify.com/track/3MfFBWYQTYpCyus3wqzpm1) | [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Money \(Can't Save Us\)](https://open.spotify.com/album/1n4zia945ygcWt83hs611e) | 2:03 |
-| 37 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
+| 36 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
+| 37 | [Money \(Can't Save Us\)](https://open.spotify.com/track/3MfFBWYQTYpCyus3wqzpm1) | [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Money \(Can't Save Us\)](https://open.spotify.com/album/1n4zia945ygcWt83hs611e) | 2:03 |
 | 38 | [Compute](https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 4:23 |
 | 39 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 40 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |

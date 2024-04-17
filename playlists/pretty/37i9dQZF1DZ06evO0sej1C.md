@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 ### [This Is Yoss Bones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sej1C)
 
-> This Is Yoss Bones\. Los temas esenciales, todos en una lista.
+> This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,004 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,025 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [No Es Tan Facil](https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Es Tan Facil](https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83) | 3:14 |
 | 50 | [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDM4NDEyOGVhZGE1OTdiMDZjYTA1ZWY0NDM2MTMwODQx`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDg4YTY2YTIxNmJmNmUzNjVhYjAyNDE5Zjg5MzdjZTJm`

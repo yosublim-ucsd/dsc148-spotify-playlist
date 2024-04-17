@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 ### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This is HARDY\. The essential tracks, all in one playlist.
+> This Is HARDY\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,264 likes - 48 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,309 likes - 48 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 47 | [Down to the Bar \(feat\. HARDY\)](https://open.spotify.com/track/2G6I4a9iOgDNoU60F3Bb1z) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:15 |
 | 48 | [Creep \(feat\. HARDY\)](https://open.spotify.com/track/3CowWV9MOYpMN6sZBqz9rF) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:23 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDJhMTEyYzJkNzY1ZjBlZDhmMTZhNDkwYTliZmZiZWJl`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGIwNzhkZDUxMmNhNjU2MmJhZmM0ZDFmNTg2YWUyYWM5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse hits. Cover: FLEMMING, Zo\u00eb Tauran & Ronnie Flex",
+  "description": "De beste Nederlandse liedjes. Cover: FLEMMING, Zo\u00eb Tauran & Ronnie Flex",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 153527,
       "name": "Duurt Te Lang",
       "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
@@ -2081,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "IK ZEG HET TE WEINIG",
+        "url": "https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165655,
+      "name": "IK ZEG HET TE WEINIG",
+      "url": "https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ"
+    },
+    {
+      "album": {
         "name": "In M'n Bloed",
         "url": "https://open.spotify.com/album/4koKtBIFT0l7okXvUz5mB9"
       },
@@ -2481,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "Liefde Van Later",
+        "url": "https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm"
+      },
+      "artists": [
+        {
+          "name": "Paskal Jakobsen",
+          "url": "https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283361,
+      "name": "Liefde Van Later",
+      "url": "https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7"
+    },
+    {
+      "album": {
         "name": "Mama Kijk Ik Kan Het Zelf",
         "url": "https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H"
       },
@@ -2492,7 +2528,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 218250,
       "name": "Mama Kijk Ik Kan Het Zelf",
       "url": "https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9"
@@ -3216,7 +3252,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 196000,
       "name": "Rommel",
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
@@ -3498,7 +3534,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 185253,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY"
@@ -3967,6 +4003,28 @@
     },
     {
       "album": {
+        "name": "Venus (ft. Noor)",
+        "url": "https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        },
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170048,
+      "name": "Venus (ft. Noor)",
+      "url": "https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD"
+    },
+    {
+      "album": {
         "name": "Verleden Tijd",
         "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
       },
@@ -4026,6 +4084,24 @@
       "duration_ms": 148467,
       "name": "Vluchtstrook",
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+    },
+    {
+      "album": {
+        "name": "Spuug van God",
+        "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186671,
+      "name": "Voor Wat Je Lief Is",
+      "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
     },
     {
       "album": {
@@ -4251,6 +4327,24 @@
     },
     {
       "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
+    },
+    {
+      "album": {
         "name": "Hazes Is De Basis 4",
         "url": "https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp"
       },
@@ -4334,7 +4428,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 154436,
       "name": "Zo Kan Het Dus Ook",
       "url": "https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS"

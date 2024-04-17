@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-264 songs - 15 hr 47 min
+265 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [I Don't Really Care For You](https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [I Don't Really Care For You](https://open.spotify.com/album/2WVqGcJwbqBQxJCeytGbvx) | 4:03 | 2021-10-01 | 2022-07-29 |
 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 | 2022-08-02 |  |
 | [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2022-06-01 | 2022-10-13 |
+| [I Wonder Why](https://open.spotify.com/track/5BDqX0YK9TpLotRBvcR8MN) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/5QU1cbPmNCPQM4JNOwMKff) | 2:05 | 2024-03-01 |  |
 | [I Wonder Why](https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:05 | 2022-06-01 | 2024-04-13 |
 | [I Wonder Why](https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF) | 2:05 | 2021-10-01 | 2022-07-29 |
 | [I'll Be Your Fool \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [I'll Be Your Fool \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8) | 3:35 | 2021-10-01 | 2022-07-29 |
@@ -232,7 +233,7 @@
 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 | 2022-06-01 |  |
 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 | 2021-10-01 |  |
 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 | 2021-10-01 |  |
-| [Swing That Thing](https://open.spotify.com/track/5oBGZryzl7e2wtNth9IHe0) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Everlasting Arms](https://open.spotify.com/album/3J5rlCW6Yo7yvRkAnZx9AQ) | 3:17 | 2023-09-15 |  |
+| [Swing That Thing](https://open.spotify.com/track/5oBGZryzl7e2wtNth9IHe0) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Everlasting Arms](https://open.spotify.com/album/3J5rlCW6Yo7yvRkAnZx9AQ) | 3:17 | 2023-09-15 | 2024-04-17 |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-24 | 2023-06-20 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-05-19 |  |
 | [Tell the Falling Sun](https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:00 | 2021-10-01 | 2022-07-28 |

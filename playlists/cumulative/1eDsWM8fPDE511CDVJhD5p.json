@@ -213,6 +213,32 @@
     },
     {
       "album": {
+        "name": "CAMPAIGNR",
+        "url": "https://open.spotify.com/album/4YIB8CYPMlBdFRWKFTOE0X"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        },
+        {
+          "name": "\u82b1\u9688\u5343\u51ac",
+          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161347,
+      "name": "CAMPAIGNR",
+      "url": "https://open.spotify.com/track/4UFgZh3AjmP6SoDwI5bCtp"
+    },
+    {
+      "album": {
         "name": "NX FUTURE BASS",
         "url": "https://open.spotify.com/album/1xBeDORkPzadKB3bibM7Oc"
       },
@@ -312,7 +338,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 185625,
       "name": "Duality (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/3ofO6oVKCatV5Foxc84703"
@@ -378,6 +404,24 @@
       "duration_ms": 171789,
       "name": "Encounter (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4UlSZ0myiMRUlmIE3fwPC1"
+    },
+    {
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0pqr6wZIvL2sjq9j4SYXt6"
+      },
+      "artists": [
+        {
+          "name": "R Sound Design",
+          "url": "https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/5YTkn6PuirckopAxaugSYf"
     },
     {
       "album": {
@@ -538,7 +582,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 251000,
       "name": "Lovin\u2019Story",
       "url": "https://open.spotify.com/track/1X6wzrUshhRj5RANSfjfRI"
@@ -684,10 +728,32 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 183652,
       "name": "RINNE (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/12ZjGFddx8pA6WkuNzmo9x"
+    },
+    {
+      "album": {
+        "name": "Rise up",
+        "url": "https://open.spotify.com/album/21Jj8lt4HmpihIfHwFtr7r"
+      },
+      "artists": [
+        {
+          "name": "*Luna",
+          "url": "https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Rise up (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7GTI8JNPgYjechQ0Z4EXSh"
     },
     {
       "album": {
@@ -768,7 +834,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 322693,
       "name": "Spiral (Lily Remix)",
       "url": "https://open.spotify.com/track/2HoKhDWYJW9WCTdGCFD6yn"
@@ -1117,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30ce\u30eb\u30af",
+        "url": "https://open.spotify.com/album/2gLgZvmtbTRMSNFxnTH6Jj"
+      },
+      "artists": [
+        {
+          "name": "AVTechNO!",
+          "url": "https://open.spotify.com/artist/1PrvATVHvyjUWycqKLmBCk"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "\u30a8\u30ce\u30eb\u30af (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2T2dqzsepGxh1deuWPd5OC"
+    },
+    {
+      "album": {
         "name": "\u30aa\u30fc\u30d0\u30fc\u30b3\u30fc\u30c9",
         "url": "https://open.spotify.com/album/2iK4om8UJBlUDmLyWkkRhI"
       },
@@ -1424,7 +1508,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 166799,
       "name": "\u30c9\u611a\u75f2 (feat. KAITO)",
       "url": "https://open.spotify.com/track/1yzsvrofhV8U4Bi77dhqlj"
@@ -1570,6 +1654,24 @@
       "duration_ms": 213698,
       "name": "\u30e1\u30c7\u30a3\u30ab\u30c9\u30fc\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6htuCsCOZR5t7HyM53c2rV"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30fc\u30ad\u30fc",
+        "url": "https://open.spotify.com/album/4iawMpsBfti38ekcmhbTQB"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "\u30eb\u30fc\u30ad\u30fc",
+      "url": "https://open.spotify.com/track/2lwsum13Qj2ha3ICGCz7w8"
     },
     {
       "album": {

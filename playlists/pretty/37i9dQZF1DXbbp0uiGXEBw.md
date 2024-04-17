@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Nguyên Hà
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,415 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,414 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 34 | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/track/3i02vLHwlt14hNJtdXmeM7) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG) | 3:10 |
 | 35 | [Em Đây Chẳng Phải Thúy Kiều](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
 | 36 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
-| 37 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq) | [Chị Đẹp Đạp Gió Rẽ Sóng](https://open.spotify.com/artist/4DNLpoezq6CHCbbp0JmmHa), [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT) | 3:02 |
+| 37 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT) | 3:02 |
 | 38 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 |
 | 39 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 |
 | 40 | [nếu lúc đó](https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:23 |

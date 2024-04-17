@@ -2,7 +2,7 @@
 
 ### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
-> Up and down I\-95\. Cover: A Boogie Wit da Hoodie
+> Up and down I\-95\. Cover: Lil Uzi Vert
 
 1,066 songs - 2 day 0 hr 14 min
 

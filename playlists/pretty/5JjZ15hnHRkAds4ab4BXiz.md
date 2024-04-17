@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 169 songs - 10 hr 47 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 173 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,5 +177,9 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 167 | [Slave](https://open.spotify.com/track/2puGRTU4wKLn6sPF5eUzmR) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:53 |
 | 168 | [Possibilities](https://open.spotify.com/track/4lYzgVFaTWuhiG3vBhRBk5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 1:59 |
 | 169 | [Love Explosion](https://open.spotify.com/track/1nrStYl6bxZHP8nVXy4IlO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:34 |
+| 170 | [Endors Toi](https://open.spotify.com/track/0YuePEX4KyfLIPMdNLPwgQ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:06 |
+| 171 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 |
+| 172 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 |
+| 173 | [Music To Walk Home By](https://open.spotify.com/track/0pJTrMWCiR0TuJ5FApIqrz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:12 |
 
-Snapshot ID: `MjI5LGMzNjA1ZjQ4YWNjNmZmZTk2ZTMyNjg5MDM4ZGY1YzZjMGFmZWZjMjc=`
+Snapshot ID: `MjMzLGUxNmJhYmViNDM3MWQ1ZGEwOTk0ZjI4ZDBmYTljMmQ3ZDIwOGZkNDc=`

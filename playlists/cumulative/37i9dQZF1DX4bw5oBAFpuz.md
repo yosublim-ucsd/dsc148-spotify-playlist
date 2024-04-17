@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-418 songs - 1 day 0 hr 12 min
+419 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Daily](https://open.spotify.com/track/4HnSHcMuCSiytNZMoO5IGU) | [Vinchenzo](https://open.spotify.com/artist/6Jc18GpeJVDe3HWhfrQ0Bu) | [Daily](https://open.spotify.com/album/50ZKEw4Rfks4vpnfxNtPFM) | 2:42 | 2023-02-23 | 2023-04-26 |
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/0O2oOTckr08VasDGv8m7kc) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me](https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ) | 3:34 | 2023-02-23 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2023-02-23 | 2023-04-26 |
+| [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 | 2024-04-11 |  |
 | [December](https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu) | [KY.](https://open.spotify.com/artist/0hG1HYfwIxLXrvJlsaXXDk) | [December](https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ) | 3:13 | 2023-04-25 | 2024-03-20 |
 | [Demise](https://open.spotify.com/track/74JtWskHPIn7QqxC0Xr8hR) | [Hamel](https://open.spotify.com/artist/6klaFPOSpOaGXuQ71bUXC3) | [Lohengrin](https://open.spotify.com/album/4N7owxB7HhBbfCUtdloB3y) | 3:53 | 2023-04-25 | 2024-03-20 |
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2023-02-23 | 2023-04-26 |
@@ -96,7 +97,7 @@
 | [Dream Go](https://open.spotify.com/track/5MqVfGILWwM16n4TQjYq6r) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [Dream Go](https://open.spotify.com/album/5Q6jPArTWi716Q0GTptIqU) | 2:59 | 2023-02-23 | 2023-06-26 |
 | [Dream Go](https://open.spotify.com/track/7DwtE2gzC9yzmd5EyZKRid) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [Loop & Dream Go](https://open.spotify.com/album/6mqRQ2RqCs9UdlUPArUcXo) | 2:59 | 2023-06-06 |  |
 | [Dreamer \- Simple Song Mix](https://open.spotify.com/track/26LZaJ0KUKHRgtYk21rfxN) | [DINAND](https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv) | [Dreamer](https://open.spotify.com/album/5Kp79NsFQhoE2eAbDIfwIK) | 2:44 | 2023-02-23 | 2023-04-07 |
-| [Drift Away](https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Vantage Point](https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH) | 2:59 | 2023-02-23 |  |
+| [Drift Away](https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Vantage Point](https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH) | 2:59 | 2023-02-23 | 2024-04-17 |
 | [Drop It](https://open.spotify.com/track/3cQw1dHuin6zpmrmmh2rIs) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [While I'm Awake](https://open.spotify.com/album/7kh3Mxf4Gg6WrQtaQ8JaC6) | 4:00 | 2024-02-29 | 2024-03-20 |
 | [Drop It](https://open.spotify.com/track/5oqwXc3BRpbeinJ0AoMhbN) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [While I'm Awake](https://open.spotify.com/album/6wOVVwm4qn4zYSbM9AmUXb) | 4:00 | 2023-04-25 | 2023-12-21 |
 | [Drown Us Out](https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Drown Us Out](https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq) | 3:16 | 2024-03-21 |  |

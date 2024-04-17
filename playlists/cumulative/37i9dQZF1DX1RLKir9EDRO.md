@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: Öykü Dörter  Çizim: Isu Kim
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: zei  Çizim: Isu Kim
 
 642 songs - 1 day 12 hr 20 min
 

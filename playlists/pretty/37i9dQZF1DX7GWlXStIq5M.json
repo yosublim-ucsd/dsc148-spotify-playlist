@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Clau",
-  "num_followers": 363581,
+  "num_followers": 363004,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/2tGa2W0M58Nv3KJnEacRMb"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "La\u00e7o",
         "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 149349,
       "name": "La\u00e7o",
       "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/2tGa2W0M58Nv3KJnEacRMb"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Meu Mel",
+        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
+      },
+      "artists": [
+        {
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Meu Mel",
+      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Capa Vogue",
         "url": "https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 131200,
       "name": "Capa Vogue",
       "url": "https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Meu Mel",
-        "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
-      },
-      "artists": [
-        {
-          "name": "Bella Angel",
-          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Meu Mel",
-      "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
     },
     {
       "added_at": "2024-03-29 03:00:00",

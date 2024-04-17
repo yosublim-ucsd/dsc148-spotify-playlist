@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 820231,
+  "2024-04-17": 818896,
   "date_first_scraped": "2021-12-21",
   "description": "Is it your favorite oppa or dongsaeng? (Cover: EPEX) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 195080,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT"
@@ -2815,6 +2815,24 @@
       "duration_ms": 214693,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "album": {
@@ -6887,7 +6905,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 179986,
       "name": "OoWee",
       "url": "https://open.spotify.com/track/57dLypRhQoRBX9wFt4Ug7c"
@@ -8104,6 +8122,24 @@
     },
     {
       "album": {
+        "name": "iScreaM Vol.31 : Smoothie Remix",
+        "url": "https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/2S2IfMg6ROIGjgwoCf1Z13"
+    },
+    {
+      "album": {
         "name": "DREAM( )SCAPE",
         "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
       },
@@ -8115,7 +8151,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"

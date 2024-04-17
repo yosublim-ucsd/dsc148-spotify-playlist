@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-204 songs - 13 hr 43 min
+205 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 | 2022-05-20 | 2024-04-13 |
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-11-04 | 2023-01-14 |
 | [CARE4ME](https://open.spotify.com/track/0LwecaHvWZJ6ZXKxKKydoh) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70) | 1:54 | 2024-03-29 | 2024-04-06 |
+| [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 |  |
 | [Carry On](https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf) | [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [We Are KING](https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7) | 3:53 | 2021-08-18 | 2022-08-13 |
 | [Celebration](https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Celebration](https://open.spotify.com/album/0TOJO823upXQeMIpT4GgZV) | 2:48 | 2024-03-29 | 2024-04-06 |
 | [Chasing Dreams](https://open.spotify.com/track/5nzaiaNLjflgrlGhu0beD0) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [In Two Worlds](https://open.spotify.com/album/7mYSJzE7EVs9p66W3moKI1) | 3:44 | 2024-04-12 |  |
@@ -182,7 +183,7 @@
 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 | 2021-09-07 | 2023-10-01 |
 | [Supernatural](https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Supernatural](https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP) | 4:01 | 2024-04-05 |  |
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2024-01-27 |  |
-| [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-11-09 |  |
+| [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-11-09 | 2024-04-17 |
 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 | 2022-07-28 |  |
 | [Sweet Love](https://open.spotify.com/track/5c05sy8pAvuU9nLXRPlLbr) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's Hits](https://open.spotify.com/album/7gFGP7Vk45weSCeMpDbD2z) | 4:26 | 2022-11-04 | 2022-11-13 |
 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 | 2022-06-24 | 2022-07-25 |

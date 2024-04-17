@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,361 likes - 159 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,577 likes - 159 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 85 | [first inhale](https://open.spotify.com/track/5CeRyms5wAeH7Spyc9fX25) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [first inhale](https://open.spotify.com/album/4HiGTG9KlJ61F6Q9tAG3t5) | 2:51 |
 | 86 | [Objecting](https://open.spotify.com/track/2VZWcp3QYWVMxj3Bn8r6dX) | [Alexander Mark](https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T) | [Objecting](https://open.spotify.com/album/4f07SHjOfxLqGwaq3YyCBM) | 2:48 |
 | 87 | [Forthright](https://open.spotify.com/track/0hPbrW1AnRabxn1JNtk1ys) | [Banton Tune](https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN) | [Forthright](https://open.spotify.com/album/312Ry4bijlP4l28jrs9NoL) | 2:48 |
-| 88 | [Mixed Waves](https://open.spotify.com/track/5FuFjrRUGV0ZEXTEtk3luB) | [Soundscapes in Blue](https://open.spotify.com/artist/7Cvz7DJgZTwBAk8q6Jjy5e), [The Little Oak Project](https://open.spotify.com/artist/7cHzdlHgaXI9IDP73gkd1r) | [Miles and Miles Away](https://open.spotify.com/album/57tX0svPI2w5kmEGEHPcHC) | 3:05 |
+| 88 | [Mixed Waves](https://open.spotify.com/track/5jrYXkw35DFx0KVFop8xSw) | [Soundscapes in Blue](https://open.spotify.com/artist/7Cvz7DJgZTwBAk8q6Jjy5e), [The Little Oak Project](https://open.spotify.com/artist/7cHzdlHgaXI9IDP73gkd1r) | [Miles and Miles Away](https://open.spotify.com/album/5pRGcys3p1prcXEMveDoK8) | 3:05 |
 | 89 | [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 |
 | 90 | [Kvällsbris](https://open.spotify.com/track/7xNWz2mqAC5Xaxa1s9OmiX) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Kvällsbris](https://open.spotify.com/album/4hPCaM8x8x30W5LoNc0uYX) | 3:08 |
 | 91 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 |

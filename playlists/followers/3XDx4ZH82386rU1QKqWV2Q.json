@@ -1,5 +1,5 @@
 {
-  "2024-04-16": 1076942,
+  "2024-04-17": 1076967,
   "date_first_scraped": "2023-06-15",
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
   "name": "SIGMA MALE TIKTOK MUSIC",
@@ -131,6 +131,24 @@
       "duration_ms": 217570,
       "name": "6 AM DVRST DONT SLEEP",
       "url": "https://open.spotify.com/track/2GgXoqyM55AhiA59xaLqMK"
+    },
+    {
+      "album": {
+        "name": "8-bit tears",
+        "url": "https://open.spotify.com/album/35fMCaDodO8BjaCCQIUhHL"
+      },
+      "artists": [
+        {
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98823,
+      "name": "8-bit tears",
+      "url": "https://open.spotify.com/track/4JOC4MEogHv77w1zG63xjR"
     },
     {
       "album": {
@@ -1375,6 +1393,24 @@
       "duration_ms": 101138,
       "name": "Bump The Neve",
       "url": "https://open.spotify.com/track/58rnl2HPnVyi62LDJr4wDV"
+    },
+    {
+      "album": {
+        "name": "BURNING OUT",
+        "url": "https://open.spotify.com/album/6NeHaP5TF8cyBVY1MT1XfB"
+      },
+      "artists": [
+        {
+          "name": "BERNZ",
+          "url": "https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "BURNING OUT",
+      "url": "https://open.spotify.com/track/4Eo8tsg8EEMhQRSOYWawcF"
     },
     {
       "album": {
@@ -2645,6 +2681,24 @@
       "duration_ms": 184004,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/08MVALsSWAzp2UJlALTJCY"
+    },
+    {
+      "album": {
+        "name": "don't stop",
+        "url": "https://open.spotify.com/album/3KF5NrBFDEM8k1ZXsjJbfi"
+      },
+      "artists": [
+        {
+          "name": "Yung Slug",
+          "url": "https://open.spotify.com/artist/4Sdo6b63hJDqPMa8mwj2lK"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "don't stop",
+      "url": "https://open.spotify.com/track/1dIEzhJJ4yKkq6xSDzQOry"
     },
     {
       "album": {
@@ -7768,6 +7822,24 @@
     },
     {
       "album": {
+        "name": "RATPACK$",
+        "url": "https://open.spotify.com/album/6KH4y5lYfwtT76a9pdXyUl"
+      },
+      "artists": [
+        {
+          "name": "$tefanos",
+          "url": "https://open.spotify.com/artist/1Ad1DmdmcBrxG0SpB9fZ7w"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141394,
+      "name": "RATPACK$",
+      "url": "https://open.spotify.com/track/1hRFFqOVPk0Cx1ZAM51Qok"
+    },
+    {
+      "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
@@ -8089,7 +8161,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-16",
       "duration_ms": 120000,
       "name": "RITMO DE DRIFT",
       "url": "https://open.spotify.com/track/24RDxxd0fEqNXxdVWU2xCJ"

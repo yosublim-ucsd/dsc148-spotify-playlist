@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This is Bethel Music\. The essential tracks, all in one playlist.
+> This is: Bethel Music\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,949 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,928 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Alpha And Omega \(Live\)](https://open.spotify.com/track/3ftk8bFLnW9czTMYV47TP6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Peter Mattis](https://open.spotify.com/artist/0msEBjWEqERNOm1Vi3QFsC), [Sarah Sperber](https://open.spotify.com/artist/0sA77vgBi4A9x9TJBPhdEn) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:54 |
 | 50 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 |
 
-Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMGMxNjBmNDA4NWY1MjUyYjFiODNhNDdmOWRkYzE3MGEz`
+Snapshot ID: `MTcxMzA1MjgwMCwwMDAwMDAwMDY0YmJhNTRlMjM5ODlmNDQ1MmUwMmE2NTU0MWRhYjM2`

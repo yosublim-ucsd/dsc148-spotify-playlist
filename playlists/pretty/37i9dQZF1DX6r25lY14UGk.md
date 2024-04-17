@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Sam Tsui & Casey Breves
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,439 likes - 138 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,477 likes - 138 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 65 | [Barracuda](https://open.spotify.com/track/713NxSCpXnw0TbzXChrCEO) | [The Party Cats](https://open.spotify.com/artist/2hCA1Ydi1AJZAYNmCP8Mvk) | [Barracuda](https://open.spotify.com/album/0lqVDL3JDHXeSm5fXnUYLs) | 4:19 |
 | 66 | [Hot Wheels Let's Race Theme Song](https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6) | [Hot Wheels Let's Race](https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL) | [Hot Wheels Let's Race Theme Song](https://open.spotify.com/album/2aJkmEPmwl7fki60ZO0sVJ) | 1:44 |
 | 67 | [The Rock Goes On \(Single From Fraggle Rock: Back To The Rock \- Season 2\)](https://open.spotify.com/track/5aQVL0bWhq8Mr9pMYaCONN) | [Fraggle Rock](https://open.spotify.com/artist/3Nxg9jbBUXycegdZFGuoEr) | [The Rock Goes On \(Single From Fraggle Rock: Back To The Rock \- Season 2\)](https://open.spotify.com/album/78mO9bfeCGTBhbnQ0aDtZ0) | 1:57 |
-| 68 | [You're My Best Friend](https://open.spotify.com/track/2OX1VPMZCZfP2jK5OP6c7c) | [Rock and Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [FRIENDS ROCK!](https://open.spotify.com/album/3WNm97PvuXfFNmsyKup2zH) | 3:10 |
+| 68 | [You're My Best Friend](https://open.spotify.com/track/2OX1VPMZCZfP2jK5OP6c7c) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [FRIENDS ROCK!](https://open.spotify.com/album/3WNm97PvuXfFNmsyKup2zH) | 3:10 |
 | 69 | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI) | 3:33 |
 | 70 | [The Greatest Ever Campfire Song](https://open.spotify.com/track/4yeiY7i4NiSv1G9V2W2igo) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Casey Breves](https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0) | [The Greatest Ever Campfire Song](https://open.spotify.com/album/2ZFnRBLU0V0CfNVqjEydR2) | 3:14 |
 | 71 | [Is It Over Now?](https://open.spotify.com/track/63DiqQdJ4NM12zT8d1Ov1q) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Is It Over Now?](https://open.spotify.com/album/2KEgxv9xrT7qomxFyBBEcT) | 3:26 |
