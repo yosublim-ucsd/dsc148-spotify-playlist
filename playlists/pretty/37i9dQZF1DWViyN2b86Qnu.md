@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Arca
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,298 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,337 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 19 | [Crime](https://open.spotify.com/track/6fCaLTc0qWAXCaKT2KatEM) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Homo Anxietatem](https://open.spotify.com/album/5YcyY8GREtgT1B08mKakYO) | 3:09 |
 | 20 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 |
 | 21 | [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 |
-| 22 | [Spell For Nature](https://open.spotify.com/track/4gaoWqNl4GLcJHIeryIKjP) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 4:03 |
+| 22 | [Spell For Nature](https://open.spotify.com/track/6niV6x6Cr37SM7zT5vd8Qi) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 4:03 |
 | 23 | [Johnny johnny johnny](https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:05 |
 | 24 | [Salt Coast](https://open.spotify.com/track/5QcPh8c847Kyaxdqvrf7gm) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 5:53 |
 | 25 | [Hole In My Head](https://open.spotify.com/track/39FkjMarlvPHCghpQ5S8yE) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Hole In My Head](https://open.spotify.com/album/2mWIi7kmpQ0tPqsuXPLXaI) | 1:41 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 37 | [Lost My Mind](https://open.spotify.com/track/4ol1eAIlmVpt6KRwdy2Bzm) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Lost My Mind](https://open.spotify.com/album/4khz6CgbiUS9TmeYv8gHhR) | 3:39 |
 | 38 | [Sliver Of Ice](https://open.spotify.com/track/6QxP947bbi8Gw4grsSJL8V) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz) | 3:41 |
 | 39 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
-| 40 | [Day After A Night With U](https://open.spotify.com/track/3K2fuhmE5ZS7gL717nJGlN) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx) | 5:59 |
+| 40 | [Day After A Night With U](https://open.spotify.com/track/3DcA0YYvdn4UE4kRsJT2XF) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/7dmFfEthXGsbthYMQCcrNG) | 5:59 |
 | 41 | [Luv](https://open.spotify.com/track/50sAxbAOfoiCOSZfNljcac) | [Bored Lord](https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n) | [Name It](https://open.spotify.com/album/5hWHm4vyqYpKKOZaMv558j) | 4:57 |
 | 42 | [Nothing Really Changes](https://open.spotify.com/track/1leEYX5WwLXsMftG6XzEo1) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Brain Worms](https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho) | 4:41 |
 | 43 | [GOOD NEWS](https://open.spotify.com/track/1St5AKXCO9CWPlRoJzxvoO) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [LET IT BE ENOUGH](https://open.spotify.com/album/2Zd126jbk8bZLFbKbmNYkK) | 3:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,170 likes - 96 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 96 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 55 | [Ghetto Blaster \- Polo Lilli Remix](https://open.spotify.com/track/3Has3lOKGKKPaJ2dCDpJoI) | [We Rob Rave](https://open.spotify.com/artist/07T2LN73w52V8GBfEEcWKL), [POLO LILLI](https://open.spotify.com/artist/5sItl2MOfjVo4dvbwB0Fvg) | [SSBB006](https://open.spotify.com/album/5jL3oqUBbPtXylT6SvS529) | 3:48 |
 | 56 | [Vector Space](https://open.spotify.com/track/45MD2F7394jkD0Xz7Z7o9T) | [Aloka](https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt) | [Granulate / Vector Space](https://open.spotify.com/album/7viAxzkIbvatdubwRcNp2m) | 5:28 |
 | 57 | [Amphibian](https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU) | [Kovert](https://open.spotify.com/artist/5W1dJUVVvOxkYp7r6Z86Bk) | [Emerge](https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ) | 6:58 |
-| 58 | [Coloured City](https://open.spotify.com/track/2ct2YTfKDEn9LZyeeyYimw) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [Coloured City](https://open.spotify.com/album/1kYvbDh903FSdoxxb2FOXr) | 6:10 |
+| 58 | [Coloured City](https://open.spotify.com/track/0jm6UV4a6qLUsda8rA8bMy) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [Retrospective 94\-06](https://open.spotify.com/album/3I5I4r8yo8xlkBOMweiWxW) | 6:10 |
 | 59 | [It's Our Future](https://open.spotify.com/track/3OW6EY8txbD8VazmHS7Ljg) | [AWeX](https://open.spotify.com/artist/4ER5Hmm4cR41UYuyJuPwDP) | [It's Our Future \(Special Edition\)](https://open.spotify.com/album/6JBXwq9E37ZRG1hLf6f0mn) | 5:30 |
 | 60 | [Main Mix To Subs](https://open.spotify.com/track/0QuB1hYTJGA6PmFrvZBGQN) | [Viikatory](https://open.spotify.com/artist/2dqEsgubwPTHwSCzE0vClZ) | [International Chromies Vol\. 12](https://open.spotify.com/album/25vHA8QdkoMYjFT6fqUbjd) | 5:46 |
 | 61 | [B MY H8R \- Original Mix](https://open.spotify.com/track/4oZpmsthYEExPP5pYVsK5e) | [zpectrum](https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp) | [NOS](https://open.spotify.com/album/25kbQFxbKFIwnBeBvRQTEW) | 5:23 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 64 | [1991](https://open.spotify.com/track/4qp7x0hC4j8zVCvQul15YJ) | [RIGSON](https://open.spotify.com/artist/2KbsGZotcK7CVzk1ZtGy4m) | [All These Yrs / 1991](https://open.spotify.com/album/1JgfKNcA9e2FyAflwYrDrK) | 5:32 |
 | 65 | [MOVE YOUR FEET](https://open.spotify.com/track/504earyPvU1CSpEGLJrzQB) | [CHOPP.](https://open.spotify.com/artist/1k59YGSPo41GwsS6KoiHyo) | [ATOMIC HABITS](https://open.spotify.com/album/0o11mf5g8AzUiIITAuBh8b) | 6:03 |
 | 66 | [Concrete Jungle](https://open.spotify.com/track/2DPJUQou3aBzB4PEGn8Kmp) | [MRTN.](https://open.spotify.com/artist/6NRqAuPP6Nd1Y6qrEN5jZI) | [FREERIDE](https://open.spotify.com/album/4kTpQyrmA98dlexWsBcDfO) | 7:23 |
-| 67 | [Wetweird](https://open.spotify.com/track/25XN8K7hUyQhzhZ1AAkg9m) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Wetweird](https://open.spotify.com/album/66V3XaMlVY3RsT6Ce2Ga0e) | 7:07 |
+| 67 | [Wetweird](https://open.spotify.com/track/2YZhiTfuMRB7b2bbi6Oeru) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Young At Heart](https://open.spotify.com/album/3PX5rQj9XC794L4ZDqikxD) | 7:07 |
 | 68 | [Dawaj](https://open.spotify.com/track/0r83srct1rU0CwUVBbHljI) | [Mala Herba](https://open.spotify.com/artist/50gbIhjiUhry5kutiDjKNq) | [Demonologia](https://open.spotify.com/album/0Vf7fg61hX3bKjVASprxQa) | 4:10 |
 | 69 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 |
 | 70 | [Tunnel Vision](https://open.spotify.com/track/3hiSJibKGv9vlRClBfF5E7) | [J\-Zbel](https://open.spotify.com/artist/63yOs3zqxl5Z9BxnAX3ahr) | [Dog's fart is so bad the cat throws up](https://open.spotify.com/album/0vgW3Dn2KH1yuZb0z1M54M) | 8:48 |
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 77 | [got rat?](https://open.spotify.com/track/0FMGoVcfeZe8WBVoqpnAaU) | [TBH](https://open.spotify.com/artist/0HGyJXfdVk9lVimIoct3d2) | [drumdrumdrum](https://open.spotify.com/album/4ELxib5ZdzF6lEW6DJZ6Uv) | 5:54 |
 | 78 | [Moonlight Branches](https://open.spotify.com/track/1vix6YVpdY98myRMBH5uVr) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Moonlight Branches](https://open.spotify.com/album/4afaUEqpJ67lnKrmdJ4Fw8) | 5:32 |
 | 79 | [Death, Taxes & Hanger](https://open.spotify.com/track/2aV9WXp5iOg3ITsCgHbebZ) | [Aquarian](https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0) | [Death, Taxes & Hanger](https://open.spotify.com/album/3dqKdgt6xkJY2iIQn8MZbW) | 7:06 |
-| 80 | [A Love \- Underground Mix](https://open.spotify.com/track/2uiJhdrzrGfH6q6dSiizDl) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/27ugdfLdOkwODnCKnpfLEq) | 7:57 |
+| 80 | [A Love \[Underground Mix\]](https://open.spotify.com/track/3QSPU5Fa94Bcg5KNxBbZl1) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/3UbDaNFOlwDEUTm4SbeCRS) | 7:57 |
 | 81 | [45°49'57"6°51'53"](https://open.spotify.com/track/22g6cVx02D4mcNkdqbbiMn) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [45°49'57"6°51'53"](https://open.spotify.com/album/1fl08UN9pZE6gn7TiKOD4q) | 4:28 |
 | 82 | [Don't](https://open.spotify.com/track/2dwEEeSwxRySawn1QU6P3d) | [Neo Eagalach VA001](https://open.spotify.com/artist/2T2kXSJt2YAT0PCe3UstdQ), [Heather Helix](https://open.spotify.com/artist/3tQtymz9KDjiM8eXYcwsDA) | [Neo Eagalach VA001](https://open.spotify.com/album/590d4qtLcSwoTjZZnLVJd6) | 5:00 |
 | 83 | [Wile Out \- Original Mix](https://open.spotify.com/track/0W7kdn8iAkPpb7QlxXEswO) | [Obsidian Wave](https://open.spotify.com/artist/67l5wnaAV5jK8XqnruslPz) | [Attack Decay Sustain, Vol\. 02](https://open.spotify.com/album/7a64ZuweC11nZ9E19gHCwC) | 4:53 |
 | 84 | [What You Want](https://open.spotify.com/track/51QwbYPuqPPF2Gl9edTn0Z) | [Soul Edifice](https://open.spotify.com/artist/36NoWFvGCEmiDodwEJj10M) | [Life Artefacts](https://open.spotify.com/album/2IeHdyvNfTVsVdZ6HhPGOI) | 5:29 |
 | 85 | [Gesture](https://open.spotify.com/track/2WuI2QRQ1DguTteAPQC4MP) | [Overland](https://open.spotify.com/artist/4tmWwEfUUqNoq9j76OEdKL) | [Gesture](https://open.spotify.com/album/7ms8bkcdhDXOhi9P6YNTj0) | 5:35 |
-| 86 | [Hustler \- Extended Club Mix](https://open.spotify.com/track/40v3VcGZpeqdXwhFdvulyU) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Hustler](https://open.spotify.com/album/6EI500x7JsJPCj2a7bF7yj) | 6:36 |
+| 86 | [Hustler \- Club Version](https://open.spotify.com/track/6uZlrPGIAIC8g9TQMesebM) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Hustler](https://open.spotify.com/album/067EGwkKR7EjDcflmjuc6R) | 6:37 |
 | 87 | [Footwork](https://open.spotify.com/track/7ijthhYMkHK33Qmu9EVMnB) | [High Fidelity](https://open.spotify.com/artist/3dT0jnqd5jvO095yE9qMEb) | [Welcome to the Hyperdome II](https://open.spotify.com/album/7cHQdGhzUmAPQaw8lfjjuk) | 6:17 |
 | 88 | [Photographic \- Some Bizzare Version](https://open.spotify.com/track/4K451UeT59EIVvVDto4ZFK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 81\-85](https://open.spotify.com/album/3zA1d01hWRRchi5sGcb3VR) | 3:11 |
 | 89 | [Tormented By Phantoms Of Their Own Makings](https://open.spotify.com/track/0rzrcrbMj2OKiuN9syS1vq) | [Egregore](https://open.spotify.com/artist/4yOGg8JDiBSg45YRDtjXQX), [Tadan](https://open.spotify.com/artist/3Vq4gETNeL0G9ZcsU8XMlp) | [127VA002](https://open.spotify.com/album/2cyG6x2GZH0OO0cXhBokvx) | 6:05 |

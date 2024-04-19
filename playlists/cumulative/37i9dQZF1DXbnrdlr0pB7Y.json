@@ -712,10 +712,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208640,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/5kuNPTnpZPDInDaGFpuao9"
+    },
+    {
+      "album": {
+        "name": "Alma Y Corazon",
+        "url": "https://open.spotify.com/album/2AUUHqjY7aWSrmTiGsznSi"
+      },
+      "artists": [
+        {
+          "name": "Joseito Fernandez",
+          "url": "https://open.spotify.com/artist/3k5yvrU4CBsA1SRBBKxx0O"
+        },
+        {
+          "name": "Carlos Barbosa Lima & Berta Rojas",
+          "url": "https://open.spotify.com/artist/6YCtYyfGIjpsNwT7hmRW15"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/5xcJY6gg4ja8bVdXP612Kr"
     },
     {
       "album": {

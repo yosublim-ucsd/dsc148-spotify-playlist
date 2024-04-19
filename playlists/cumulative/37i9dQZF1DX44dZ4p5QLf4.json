@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A blend of new songs and artists in the soul space. Cover: MRCY",
+  "description": "A blend of new songs and artists in the soul space. Cover: FKJ",
   "name": "Next Wave Soul",
   "tracks": [
+    {
+      "album": {
+        "name": "(K)no(w) Better",
+        "url": "https://open.spotify.com/album/0DUQ0jMsZqTpWt2lEnI9x7"
+      },
+      "artists": [
+        {
+          "name": "Vice Beats",
+          "url": "https://open.spotify.com/artist/0IIyN8h6bhn7pzkR0SbAS8"
+        },
+        {
+          "name": "Mac Lloyd",
+          "url": "https://open.spotify.com/artist/1LwgWZaHMmRVyu2fIglu3l"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "(K)no(w) Better",
+      "url": "https://open.spotify.com/track/23jEUEJ8S4S5w9ULfKGQxP"
+    },
     {
       "album": {
         "name": "3AM",
@@ -24,6 +46,28 @@
     {
       "album": {
         "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
         "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
       },
       "artists": [
@@ -38,7 +82,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168500,
       "name": "6 Feet Down",
       "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
@@ -676,6 +720,24 @@
       "duration_ms": 262963,
       "name": "Being Loved",
       "url": "https://open.spotify.com/track/4EWkR7tGveHyQXHHu1Gfqb"
+    },
+    {
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/4R9cOa7acZQ7Gt1IDwxzNB"
+      },
+      "artists": [
+        {
+          "name": "NIA",
+          "url": "https://open.spotify.com/artist/3ZaFmXjB8RAWAWW9yVOle4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238629,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/0ulwlBdeaVHOvVK19bywWo"
     },
     {
       "album": {
@@ -2245,6 +2307,44 @@
     },
     {
       "album": {
+        "name": "For Granted (feat. Arin Ray)",
+        "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "For Granted (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
+    },
+    {
+      "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
@@ -2276,7 +2376,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172000,
       "name": "For Granted (feat. Arin Ray)",
       "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
@@ -2470,6 +2570,28 @@
     {
       "album": {
         "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135189,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
+    },
+    {
+      "album": {
+        "name": "I Left My Heart In Ladera",
         "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
       },
       "artists": [
@@ -2484,7 +2606,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
@@ -3449,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
+    },
+    {
+      "album": {
         "name": "Twenties (Deluxe)",
         "url": "https://open.spotify.com/album/4raCNKbdcE0tlyxl1g15fM"
       },
@@ -3672,7 +3812,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 182304,
       "name": "Katsu Sunrise",
       "url": "https://open.spotify.com/track/4AHdwLWt6MpMrIeOVhreuL"
@@ -3698,7 +3838,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182304,
       "name": "Katsu Sunrise",
       "url": "https://open.spotify.com/track/4s0K13q4VB4LOfHwNRQs9F"
@@ -4146,7 +4286,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 143960,
       "name": "Love Island",
       "url": "https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R"
@@ -4182,7 +4322,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143978,
       "name": "Love Island",
       "url": "https://open.spotify.com/track/3IDs0pS01xXpNJD1kpi8JS"
@@ -4664,6 +4804,28 @@
       "duration_ms": 177149,
       "name": "Moving",
       "url": "https://open.spotify.com/track/6G6ZRdY51J76WLRUzl36TO"
+    },
+    {
+      "album": {
+        "name": "Ms. Ebony Brown",
+        "url": "https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198473,
+      "name": "Ms. Ebony Brown",
+      "url": "https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39"
     },
     {
       "album": {
@@ -6818,7 +6980,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229376,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/6EUeUiY3YcbQFPhl4wG2KU"
@@ -6836,7 +6998,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 229992,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"

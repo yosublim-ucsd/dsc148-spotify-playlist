@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156053,
       "name": "Bt Ho Gayi",
       "url": "https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 160851,
       "name": "Bt Ho Gayi",
       "url": "https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3"
@@ -2564,10 +2564,36 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155076,
       "name": "Joota Japani",
       "url": "https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7"
+    },
+    {
+      "album": {
+        "name": "Joota Japani",
+        "url": "https://open.spotify.com/album/4wGScOi2a1xEpmHNaOii3D"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Joota Japani",
+      "url": "https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,878 likes - 231 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,963 likes - 231 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 126 | [Wonder Of The World](https://open.spotify.com/track/2J32HMgsW6cDLodUiWA27k) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [Wonder Of The World](https://open.spotify.com/album/4FNgs6Iv2WRX4MQdc10FEf) | 1:54 |
 | 127 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 |
 | 128 | [Blott en dag](https://open.spotify.com/track/4QjuhoMDp2nx6bgJjZXO5h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 2:08 |
-| 129 | [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 |
+| 129 | [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 |
 | 130 | [Tom's Little House](https://open.spotify.com/track/6dbCgZcfcdleCGXz1rzyz0) | [Rudyard Brinley](https://open.spotify.com/artist/6a2UqNxvxt2KjAcRjwcsnn) | [Dinosaur Bob](https://open.spotify.com/album/0JwNu9RVqfxNi1Re491kT7) | 1:15 |
 | 131 | [The Sleeptrain](https://open.spotify.com/track/5SaAdvuxmZWEHrXMoEgyBc) | [Fitz Wilmer](https://open.spotify.com/artist/0g8dTozmEA5bn0e6Xd2Gw8) | [The Sleeptrain](https://open.spotify.com/album/0C1ij0T1EJEUMcp7vaaHhh) | 1:51 |
 | 132 | [Mi ángel](https://open.spotify.com/track/4KT4f95lo3mk6kTY2CuORb) | [Luca Perez](https://open.spotify.com/artist/4zzne57Qiuc93KSvL8Zxqg) | [Mi ángel](https://open.spotify.com/album/2OVGd54msQXkwbsFl635D1) | 1:58 |
@@ -208,7 +208,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 198 | [Mozart's Lullaby](https://open.spotify.com/track/5kzNwZkOvard1XQuJe9XlP) | [Michael Kolmstetter](https://open.spotify.com/artist/3AZEqZQrbhVYSO254o3y2L) | [Childhood Memories & Lullabies on Guitar](https://open.spotify.com/album/2cGfYsy7PrcUkRVZEgjfV1) | 2:32 |
 | 199 | [Rain Rain Go Away](https://open.spotify.com/track/6nzTVUelsg5FgwYC8e4dQq) | [Marcos Perez](https://open.spotify.com/artist/12U2bFEqsXJrcSsa44TX1T) | [Rain Rain Go Away](https://open.spotify.com/album/0W7kT0c4n1KHTMplaoRutF) | 1:36 |
 | 200 | [The Wheels On The Bus](https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 2:06 |
-| 201 | [A Day's Worth](https://open.spotify.com/track/5LFpPmEb0XLUXejA719JP2) | [Lunng Fern](https://open.spotify.com/artist/3uuXHV6ZEj5MlSBNjBY2c9) | [A Day's Worth](https://open.spotify.com/album/63dDQzdwERMFdAD7Kn1hM9) | 1:09 |
+| 201 | [A Day's Worth](https://open.spotify.com/track/45cWUJN3WmVg8puobl5wGc) | [Lunng Fern](https://open.spotify.com/artist/3uuXHV6ZEj5MlSBNjBY2c9) | [A Day's Worth](https://open.spotify.com/album/6D7m482LLhS7YDD4IIc7WI) | 1:09 |
 | 202 | [All the pretty little horses](https://open.spotify.com/track/5R4rpJsPvxXXZUcAJ12v3v) | [Me And My Guitar](https://open.spotify.com/artist/7pHJ2teaNlow2jrelq84HS) | [Night Time](https://open.spotify.com/album/7DMOWlZ7L7rIpPuVbf5JGZ) | 1:11 |
 | 203 | [My Sweet Sweet Angel](https://open.spotify.com/track/3GfJmGYQnoXXW7HfupCB0K) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 1:47 |
 | 204 | [When I Close My Eyes](https://open.spotify.com/track/7luR1726Cf9Wgt4Q3yljOF) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Get on the Train\-train and enjoy these pop/rock classics\. Cover: Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,486 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,563 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 10 | [Run All Night](https://open.spotify.com/track/3NpnBHI6qEyauHYfrQqg1w) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Run All Night](https://open.spotify.com/album/047z4hEbghpi0VImdQ8JgS) | 4:50 |
 | 11 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
 | 12 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 |
-| 13 | [What Matters Most](https://open.spotify.com/track/4xE520XRdfPqt54rydEgNM) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/4vHxLvztgqDt1Jq4XgnMkG) | 4:10 |
+| 13 | [What Matters Most](https://open.spotify.com/track/10Kylccyddh80NzTunQIlW) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr) | 4:10 |
 | 14 | [Never Leave Your Heart Alone](https://open.spotify.com/track/7HFOQ4Hb7GS1JPCdB9wIW9) | [Butterfly Boucher](https://open.spotify.com/artist/3ZAIKutVvLYqmcxfkBz5aP) | [Flutterby](https://open.spotify.com/album/3o0JF1VvkXX52A3XRazhZr) | 3:43 |
 | 15 | [Miss California](https://open.spotify.com/track/48NtFCrBTfehbMhbZrkPGR) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Imperfect Circle](https://open.spotify.com/album/7pvoNsdHfd3MhBiV7CzUQV) | 3:11 |
 | 16 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 21 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 |
 | 22 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
 | 23 | [Still Fighting It](https://open.spotify.com/track/0f9fM6DdpJM79NQ1XbHcjJ) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Rockin' The Suburbs](https://open.spotify.com/album/4FtOLTQqwnxpaABrJWYdBy) | 4:25 |
-| 24 | [When Love Takes Hold](https://open.spotify.com/track/7D7g34Lvt0WBMmnjnLwJF3) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [When Love Takes Hold](https://open.spotify.com/album/4ZvetUUysXQE67o8aobq4W) | 3:49 |
+| 24 | [When Love Takes Hold](https://open.spotify.com/track/0BlVB5GBSpw1ljBTWLMYXW) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [When Love Takes Hold](https://open.spotify.com/album/16VUnr2RZiOnKKMh1cmLXT) | 3:49 |
 | 25 | [You and I Both](https://open.spotify.com/track/2mKjs6s0Z1imKKb6gOk628) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come](https://open.spotify.com/album/6I9GBueBmRdHdDQjbL7El1) | 3:38 |
 | 26 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
-| 27 | [Feeling a Moment](https://open.spotify.com/track/26FPGV8xgRwsQUHefWKNg6) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/7mFJM4nlo4oaPYaUMJhSWv) | 4:08 |
+| 27 | [Feeling A Moment](https://open.spotify.com/track/4nUrNul2oNVra6YAjigenk) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC) | 4:08 |
 | 28 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 |
 | 29 | [Happy](https://open.spotify.com/track/0RrKyzyblCasbn9qClbv2z) | [Saving Jane](https://open.spotify.com/artist/3SFVchRRMmFuOi3Azi0vTo) | [Girl Next Door](https://open.spotify.com/album/4AcMwJvUNwlHpYtujwAP56) | 3:31 |
 | 30 | [Here's to the Night](https://open.spotify.com/track/4tgeQrPu5xkrnwErym2JsJ) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Horrorscope](https://open.spotify.com/album/2aO4ZbunEAG1iaw45Aiosv) | 4:09 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 | 54 | [Amazing](https://open.spotify.com/track/3fbKJNrsPJwye98LTGm4Ok) | [Josh Kelley](https://open.spotify.com/artist/1yLlQimDTRrACa45u50LXW) | [For The Ride Home](https://open.spotify.com/album/249eg0DXm5sJegopxGvjhf) | 3:45 |
 | 55 | [Nothing Left to Lose](https://open.spotify.com/track/4MzV7oB4N73FD7pCQjzDIa) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose \(Expanded Edition\)](https://open.spotify.com/album/4QOiSutKuxZ50zokHhz4QN) | 4:23 |
 | 56 | [Lonely No More](https://open.spotify.com/track/4faFAhOflLzhfJECveRwva) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 3:46 |
-| 57 | [Inside Of Love](https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS) | 4:58 |
+| 57 | [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 |
 | 58 | [Clarity](https://open.spotify.com/track/6atVS7UZBxoyJkkteM62u5) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 4:31 |
 | 59 | [The First Cut Is The Deepest](https://open.spotify.com/track/0wyOnrfGOlDdWHdIybLr4n) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The First Cut Is The Deepest](https://open.spotify.com/album/1L0XnWcJWHrsDtRP9XeUYG) | 3:46 |
 | 60 | [The Time of My Life](https://open.spotify.com/track/6avyV3xlz2UFeiAUZ0SqyT) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [David Cook](https://open.spotify.com/album/4MJcuG31fFG8rimuSCvJyx) | 3:36 |

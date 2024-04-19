@@ -4,7 +4,7 @@
 
 > The Official Playlist for Clark\. Watch Now on Netflix.
 
-38 songs - 1 hr 59 min
+42 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,10 @@
 | [Förälskad i Köpenhamn](https://open.spotify.com/track/7BGKKUrF0WlgHXO5LsGtTA) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Siws bästa](https://open.spotify.com/album/7rCkwVnsrySVnacJiOEfmG) | 2:54 | 2022-05-20 |  |
 | [Gröna små äpplen](https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Gröna små äpplen](https://open.spotify.com/album/2LaTtgxHN1GgPAY6DiSvCI) | 3:45 | 2022-05-20 |  |
 | [Gånglåt från Mockfjärd](https://open.spotify.com/track/721bqy1Z2J4uGG3a0oZlKw) | [Göteborgs Symfonietta](https://open.spotify.com/artist/4nl9UTIL3ppsexgT6bAMuk), [Tomas Blank](https://open.spotify.com/artist/5SSD0QKd5eTn5pnNInsipO) | [Folktoner och visor på klassiskt vis](https://open.spotify.com/album/1mPsSL1ujXhaPfa8Q8mtYl) | 1:44 | 2022-05-20 |  |
-| [Hush \- 1998 Remix](https://open.spotify.com/track/4sTUkIe8cha0RCcTKvfc2J) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple \(30th Anniversary Edition\)](https://open.spotify.com/album/4OjTMhCfhJHdUDdIT1wi6D) | 4:13 | 2022-05-20 |  |
-| [In kommer Gösta](https://open.spotify.com/track/0XzEb0HDIaJ6b0SE0qAM63) | [Philemon Arthur & The Dung](https://open.spotify.com/artist/5o1e7nzu4Jwk0NTnb4mSLc) | [Musikens historia del I och II](https://open.spotify.com/album/4gHcVYrYYQojElRfZglvHY) | 3:16 | 2022-05-20 |  |
+| [Hush](https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/3VV3uHT9dEGPbgQJQRMAEy) | 4:24 | 2022-05-20 |  |
+| [Hush \- 1998 Remix](https://open.spotify.com/track/4sTUkIe8cha0RCcTKvfc2J) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple \(30th Anniversary Edition\)](https://open.spotify.com/album/4OjTMhCfhJHdUDdIT1wi6D) | 4:13 | 2022-05-20 | 2024-04-19 |
+| [In kommer Gösta](https://open.spotify.com/track/0XzEb0HDIaJ6b0SE0qAM63) | [Philemon Arthur & The Dung](https://open.spotify.com/artist/5o1e7nzu4Jwk0NTnb4mSLc) | [Musikens historia del I och II](https://open.spotify.com/album/4gHcVYrYYQojElRfZglvHY) | 3:16 | 2022-05-20 | 2024-04-19 |
+| [In kommer Gösta](https://open.spotify.com/track/43dFoCqQ1JTWAdr1ujT20Y) | [Philemon Arthur & The Dung](https://open.spotify.com/artist/5o1e7nzu4Jwk0NTnb4mSLc) | [Musikens historia del I och II](https://open.spotify.com/album/4KcwX9LrC1uUsuni6omTom) | 3:16 | 2022-05-20 |  |
 | [Insidan av ditt lår](https://open.spotify.com/track/1Me15CdSWachkVw3meFVkr) | [Robert Broberg](https://open.spotify.com/artist/05JNHlwtdHqPJ6wcW7Mil5) | [En typisk rund LP med hål i mitten](https://open.spotify.com/album/53cTy0dZLxqWoZ13bnkGlP) | 3:19 | 2022-05-20 |  |
 | [Jag ska fånga en ängel](https://open.spotify.com/track/3No0idjeViPyWDP4gh1YGo) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Ted](https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d) | 3:54 | 2022-05-20 |  |
 | [Jailhouse Rock](https://open.spotify.com/track/1j6hcZQjMfJqGtRCAIjdzU) | [Eilert Pilarm](https://open.spotify.com/artist/7aS6aXw9eYfVQxCG1RcVEK) | [Greatest Hits](https://open.spotify.com/album/1olabweZy11HNOJwtPAnxE) | 1:54 | 2022-05-20 |  |
@@ -41,9 +43,11 @@
 | [Ut i kylan](https://open.spotify.com/track/49M8hUFEjINPrDJE4IltOq) | [Nationalteatern](https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U) | [Livet är en fest \- En samling 1972\-80](https://open.spotify.com/album/3iOSyCmrXz33OrpCL9loF2) | 2:25 | 2022-05-20 |  |
 | [Vandra vidare](https://open.spotify.com/track/59B9EFh2ghzRwUMU8Vmgvd) | [Gunnar Wiklund](https://open.spotify.com/artist/7DNQbLb6TYUiLL9QNOivtG) | [32'29 minuter med Gunnar Wiklund](https://open.spotify.com/album/36Wry8voFXZ0kxm965ncgj) | 2:26 | 2022-05-20 |  |
 | [Varm korv boogie](https://open.spotify.com/track/2huvYgcL2c9ortiXWtHOIx) | [Owe Thörnqvist](https://open.spotify.com/artist/5gcvW6H0e7pudeOGevacuw) | [14 x Owe Thörnqvist](https://open.spotify.com/album/12Mrq9D1C77Sa1ZH2rAfGQ) | 1:54 | 2022-05-20 |  |
-| [Vilken härlig dag](https://open.spotify.com/track/0nk3h30DqVdMWMFC6B8FS6) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Nya spår](https://open.spotify.com/album/7C5rqgDo1c0mwVL4lNw3Fz) | 2:35 | 2022-05-20 |  |
+| [Vilken härlig dag](https://open.spotify.com/track/0VxtLzp4pbprAzjmGM6Fjb) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Nya Spår](https://open.spotify.com/album/5Zx6LwNaId3iaBROp8XRYA) | 2:35 | 2022-05-20 |  |
+| [Vilken härlig dag](https://open.spotify.com/track/0nk3h30DqVdMWMFC6B8FS6) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Nya spår](https://open.spotify.com/album/7C5rqgDo1c0mwVL4lNw3Fz) | 2:35 | 2022-05-20 | 2024-04-19 |
 | [Vintage Modern](https://open.spotify.com/track/5MGXK89VLqRsiOqJqKib2n) | [Mikael Åkerfeldt](https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan) | [Clark \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt) | 3:34 | 2022-05-20 |  |
-| [We Are All The Winners](https://open.spotify.com/track/7K4nPxmgWTNRBN0PnCmfV7) | [Nick Borgen](https://open.spotify.com/artist/08xbQKOh6oLZVa7VoxuJzU) | [We Are All The Winners](https://open.spotify.com/album/6rJtluOZr0nkPsSIzN07rb) | 3:08 | 2022-05-20 |  |
+| [We Are All The Winners](https://open.spotify.com/track/7K4nPxmgWTNRBN0PnCmfV7) | [Nick Borgen](https://open.spotify.com/artist/08xbQKOh6oLZVa7VoxuJzU) | [We Are All The Winners](https://open.spotify.com/album/6rJtluOZr0nkPsSIzN07rb) | 3:08 | 2022-05-20 | 2024-04-19 |
+| [We Are All The Winners](https://open.spotify.com/track/51cOCcB9c8tjUI50trrD4r) | [Nick Borgen](https://open.spotify.com/artist/08xbQKOh6oLZVa7VoxuJzU) | [Mitt Kära Östersund](https://open.spotify.com/album/7o8rsuLHhYkgLCwsAgN6Vp) | 3:10 | 2022-05-20 |  |
 | [Wish You Were There](https://open.spotify.com/track/3GbKaVG1TvnO7jMsAOjOem) | [Mikael Åkerfeldt](https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan) | [Clark \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt) | 2:51 | 2022-05-20 |  |
 | [Zing en liten zong](https://open.spotify.com/track/4tCM9K49azlLeNDqQyGShL) | [Alice Babs och Staffan Broms](https://open.spotify.com/artist/0MnZLXx0VCQ7nlNiHSefnU) | [Metronome\-åren 1951\-1958](https://open.spotify.com/album/5gvx8DvTtHYAcBKsoVO9H4) | 2:29 | 2022-05-20 |  |
 

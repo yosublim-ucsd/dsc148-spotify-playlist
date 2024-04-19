@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219053,
       "name": "All About Tonight - Live",
       "url": "https://open.spotify.com/track/2bqx5ywTyyiZMLdNG1tpJD"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 471093,
       "name": "Baba O'Riley - Live at Fenway Park, Boston, MA, 08.20.2016",
       "url": "https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 471093,
       "name": "Baba O'Riley - Live at Fenway Park, Boston, MA, 08.20.2016",
       "url": "https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346426,
       "name": "Can't You See (feat. Kid Rock) - Live",
       "url": "https://open.spotify.com/track/7Ht6JlOdCjN2UWefpaIf5u"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 346426,
       "name": "Can't You See (feat. Kid Rock) [Live] [Pass The Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre In Atlanta]",
       "url": "https://open.spotify.com/track/5WEVM8TCxYLE6ChEe1Tom6"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 310773,
       "name": "Chicken Fried (Live) [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/1ut0xFxNXho4lONKCfAu28"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310773,
       "name": "Chicken Fried - Live",
       "url": "https://open.spotify.com/track/6xviD33Mf4CInD5pnfIKJL"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269533,
       "name": "Colder Weather (feat. Little Big Town) - Live",
       "url": "https://open.spotify.com/track/6TUK6UJ3A0YbGsiyPgYzYV"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269533,
       "name": "Colder Weather (feat. Little Big Town) [Live] [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/6zshANE5F24ouL8THcKfxc"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210877,
       "name": "County Roads (Live At The Basement East)",
       "url": "https://open.spotify.com/track/4bvW4uSC2l8njWBBngBXRp"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 210877,
       "name": "County Roads - Live At The Basement East",
       "url": "https://open.spotify.com/track/3R9PwZfJT95NP9E2UuIcld"
@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Going Home (Live)",
+        "url": "https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Going Home - Live",
+      "url": "https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO"
+    },
+    {
+      "album": {
         "name": "Good as You (Live)",
         "url": "https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243973,
       "name": "Good Day - Live From Europe",
       "url": "https://open.spotify.com/track/4AQUPrWg2NKDJbLpHXBhol"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243973,
       "name": "Good Day - Live From Europe",
       "url": "https://open.spotify.com/track/7d0qq889i0z5coOE9cA0Np"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182426,
       "name": "Good Time To Me (feat. Lainey Wilson) (Live From Nashville's Big Bash)",
       "url": "https://open.spotify.com/track/4skqcqegMq41BXYpJp0C9Z"
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 182426,
       "name": "Good Time To Me (feat. Lainey Wilson) - Live From Nashville's Big Bash",
       "url": "https://open.spotify.com/track/0aHmuFZ34nExkvbmjDv7ek"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255093,
       "name": "Highway 20 Ride (Live) [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/7cLBnEsJgrnMQaaaCcaczx"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255093,
       "name": "Highway 20 Ride - Live",
       "url": "https://open.spotify.com/track/0lTdSjQGlWeT2dc7g3XXV6"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367973,
       "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
       "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301826,
       "name": "Maybe It Was Memphis",
       "url": "https://open.spotify.com/track/7Cu1WRfqU2sm1470dCutxZ"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 299840,
       "name": "Maybe It Was Memphis - Live",
       "url": "https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0"
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Over For You - Live in Melbourne",
       "url": "https://open.spotify.com/track/05n88AzLQdSxS3qNQeTJBl"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214000,
       "name": "Over For You - Live in Melbourne",
       "url": "https://open.spotify.com/track/5GAMPTTXZgtFJZzN7VcDNX"
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164343,
       "name": "Pick Up the Tempo - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
       "url": "https://open.spotify.com/track/5VpZHfbzYfN6o8F0WyUwfa"
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 167546,
       "name": "Pick Up the Tempo - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
       "url": "https://open.spotify.com/track/5Ck5ySY5fVPXUndrPYXjym"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247240,
       "name": "Small Town USA - Live at the Ryman",
       "url": "https://open.spotify.com/track/3IlNQTAmA6HPbAmXQkjdhi"
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247240,
       "name": "Small Town USA - Live at the Ryman",
       "url": "https://open.spotify.com/track/78XFo6H6HLkHRZ6DtKeuMz"
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168280,
       "name": "Somebody Else Will - Live at the Ryman",
       "url": "https://open.spotify.com/track/0tKMXjaXtRwEmjw30dakhe"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168280,
       "name": "Somebody Else Will - Live at the Ryman",
       "url": "https://open.spotify.com/track/47SHs54oXgZSWp56gMY0oj"
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273986,
       "name": "Toes (feat. Shawn Mullins) - Live",
       "url": "https://open.spotify.com/track/7yjMKrD1HgUvHYs4CXaMHs"
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273986,
       "name": "Toes (feat. Shawn Mullins) [Live] [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/4Wp0a9KdPSdQsNSB8JQ3lB"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 367973,
       "name": "Waymore\u2019s Blues - Live at The Fillmore New York at Irving Plaza/ 2010",
       "url": "https://open.spotify.com/track/2mmtL4ZNo77BwzorkT8yjx"

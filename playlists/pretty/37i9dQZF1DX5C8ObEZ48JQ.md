@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ?si=bgxQ66CTRU6WO9agwpHVog">Njerae</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,347 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,388 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 35 | [Why](https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW) | [Asomacy](https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX) | [Why](https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq) | 2:17 |
 | 36 | [Your Body](https://open.spotify.com/track/5L5ThSgm3GgmySejY90AGf) | [Daboy Kenzi](https://open.spotify.com/artist/77HPdxhFodvllNDHT3JBmf) | [Your Body](https://open.spotify.com/album/2raMBlYLKnrFXLrCcm90P0) | 2:53 |
 | 37 | [Know](https://open.spotify.com/track/2c9dcjP15etxA83s5PkMdn) | [Nelsane](https://open.spotify.com/artist/1tCLSQV2yTnQe9pXMqgU8H) | [Know](https://open.spotify.com/album/2g8AFiRnGHdabgm78uvmj5) | 3:04 |
-| 38 | [Vitamin D](https://open.spotify.com/track/38wwH8rLOM07KQ2iYscUiY) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U), [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w) | [Vitamin D / Dey Play](https://open.spotify.com/album/5ZR8Ae56tRPjiEB2fOGt4h) | 3:07 |
+| 38 | [Vitamin D](https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U) | [Vitamin D](https://open.spotify.com/album/0oiSNg8MdYofwQrLSdQDUf) | 3:07 |
 | 39 | [Pandora](https://open.spotify.com/track/3rhO9ZLssnQS3BJMYE7cA6) | [Joe C](https://open.spotify.com/artist/20QRbyJxYbLD00PbrrMG6O) | [Wierdo](https://open.spotify.com/album/11AlbCsKNoqdpYJag9IUsn) | 2:36 |
 | 40 | [Where The Angels Are](https://open.spotify.com/track/6ySWhreO9o23bsflA81nqx) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y) | [Road To Nirvana](https://open.spotify.com/album/5BHWoiwBKnvOXyBCYingCi) | 2:07 |
 | 41 | [Casanova](https://open.spotify.com/track/4ZvDUUJcpywNxrEetDl3vT) | [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [ROCKSTAR EP](https://open.spotify.com/album/3ZZNbRPy6alzU2zC05BXlb) | 2:44 |

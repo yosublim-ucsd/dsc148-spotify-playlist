@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 
 > Jumping BoAs, Our Beloved BoA is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,232 likes - 108 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,246 likes - 108 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 24 | [Black](https://open.spotify.com/track/5mJV0fXk6rRey5B1KeYbNQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:14 |
 | 25 | [Every Heart\-ミンナノキモチ\-](https://open.spotify.com/track/2R0EAqFQQ60m274ZyNA2Bg) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Every Heart \-ミンナノキモチ\-](https://open.spotify.com/album/10eyCFPQlZsdaSsApJwHPQ) | 4:32 |
 | 26 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
-| 27 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
+| 27 | [Atlantis Princess](https://open.spotify.com/track/1bBEBI7wralxxUD2Sasygs) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [Sm Best Album 3, Vol\. 2](https://open.spotify.com/album/6qdEGTvS2E0jwxzcjUqXXc) | 3:43 |
 | 28 | [LISTEN TO MY HEART](https://open.spotify.com/track/1FwQCoeyKWaWyKPeSTnQaa) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [LISTEN TO MY HEART](https://open.spotify.com/album/7MbckmjrDXeNy4k1caTgbM) | 3:56 |
 | 29 | [七色の明日〜brand new beat〜](https://open.spotify.com/track/3CDQDcJqja37FsMWvRPm0u) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MADE IN TWENTY\(20\)](https://open.spotify.com/album/0F9dZ8Cdm6Rr5tXkAZvW45) | 4:30 |
 | 30 | [ID; Peace B](https://open.spotify.com/track/5rvP5mbQ48itt4dtosn9Yf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ID;Peace B \- The 1st Album](https://open.spotify.com/album/1cXbNduXaQp1NqV6EvgHFx) | 3:58 |
 | 31 | [공중정원 \(Garden In The Air\)](https://open.spotify.com/track/5amlt6BjwV7CIqjSvDQFFK) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:51 |
-| 32 | [Girls On Top](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:38 |
+| 32 | [Girls On Top](https://open.spotify.com/track/5CwcXW9AxmWZ5jFMl1HtQx) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [Sm Best Album 3, Vol\. 3](https://open.spotify.com/album/1OgGpsVaGKxnOrjEq9hom9) | 3:37 |
 | 33 | [Butterfly](https://open.spotify.com/track/6bnf1RbzUaHRBogKfKme47) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:33 |
 | 34 | [I Don't Mind](https://open.spotify.com/track/5ffHoSTXIRq9ZOPdxZzUkh) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:21 |
 | 35 | [Think About You](https://open.spotify.com/track/1yhCvY8JZPspkBeexWtrhu) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:13 |
-| 36 | [My Name](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:13 |
+| 36 | [My Name](https://open.spotify.com/track/3gL6WWT39ksG2otEMmY9MX) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [Sm Best Album 3, Vol\. 2](https://open.spotify.com/album/6qdEGTvS2E0jwxzcjUqXXc) | 3:12 |
 | 37 | [MASAYUME CHASING](https://open.spotify.com/track/3Hg898AnfapEcgRwa4PT9L) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:39 |
 | 38 | [Spring Rain](https://open.spotify.com/track/7lSsi84E0g6QDGyDY1j5y6) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Spring Rain \- SM STATION](https://open.spotify.com/album/7olAhWsexMgcvhLfxeJuGC) | 3:37 |
 | 39 | [DESTINY](https://open.spotify.com/track/07e2fLU8mfscLxUkKfps60) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MIRACLE \- The 2.5th Album](https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w) | 4:18 |
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 49 | [Who Are You](https://open.spotify.com/track/5NonMh25FGFcP3flxU64sa) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Kiss My Lips \- The 8th Album](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) | 3:43 |
 | 50 | [Spark](https://open.spotify.com/track/6QCeHBgTZPLqF6mdgh3rgp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:15 |
 | 51 | [First Time](https://open.spotify.com/track/5y2OdzPeFn06dnWGJLnn0Y) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:45 |
-| 52 | [NEGA DOLA](https://open.spotify.com/track/3mKxSCbDR7WeP632sIaxG2) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 2:56 |
+| 52 | [NEGA DOLA](https://open.spotify.com/track/6ZpAhrztJy8Hr08xnOPqvH) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT](https://open.spotify.com/album/5YLTtEcUBfBLnGc4GlWF4G) | 2:56 |
 | 53 | [Possibility \- duet with 三浦大知](https://open.spotify.com/track/7JZVVou5Ql9v9H4he1OggE) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [IDENTITY](https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j) | 4:06 |
 | 54 | [Fox](https://open.spotify.com/track/50E7JEHhsqk3resRnYNcLk) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Kiss My Lips \- The 8th Album](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) | 3:58 |
 | 55 | [永遠](https://open.spotify.com/track/104yjVsAOGHnYEKmYEjNAI) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BEST&USA](https://open.spotify.com/album/6rxKoQYvB6DO6pIL9sijT8) | 4:33 |
 | 56 | [Double](https://open.spotify.com/track/7eYLkqpfD9qeHtfAr6BLn1) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Double \- The 1st Single](https://open.spotify.com/album/4sSlZNLxtV4w1GB5xWop4d) | 3:26 |
-| 57 | [ALWAYS, ALL WAYS](https://open.spotify.com/track/1tHKHyxFIxipoMNHDr0QhX) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:41 |
+| 57 | [ALWAYS, ALL WAYS](https://open.spotify.com/track/5HmnsPW0AfLHks9VoV9dRZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [ONE SHOT, TWO SHOT](https://open.spotify.com/album/5YLTtEcUBfBLnGc4GlWF4G) | 3:41 |
 | 58 | [Call my name](https://open.spotify.com/track/6Z6DqvCo8pX43VVpme5XcS) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Message/Call my name](https://open.spotify.com/album/0XsIS678Sk3jhoFtOqCVLg) | 3:42 |
 | 59 | [the Love Bug](https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX) | [m\-flo loves BoA](https://open.spotify.com/artist/68gI97RDfQskym4DCauxp5), [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ASTROMANTIC](https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm) | 4:02 |
 | 60 | [LOVE&HONESTY](https://open.spotify.com/track/6hxCxYOz6FfROr9qRs9dBA) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [LOVE & HONESTY](https://open.spotify.com/album/7bHEsVSq63nLFv5y2rK3wR) | 4:40 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 70 | [Jazzclub](https://open.spotify.com/track/4vMDAZTZuLMtFwec3H4iqO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [私このままでいいのかな](https://open.spotify.com/album/3aubaYePHVY5rQVtpUwf1y) | 2:50 |
 | 71 | [Amazing Kiss](https://open.spotify.com/track/7yYVoMQp93NnZgOprsGVJA) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BEST OF SOUL](https://open.spotify.com/album/0gxS6h33HGI5jEAgcMsTWA) | 4:31 |
 | 72 | [STILL.](https://open.spotify.com/track/1UJJ4tx0qwyF9XIh4VrD7c) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MADE IN TWENTY\(20\)](https://open.spotify.com/album/0F9dZ8Cdm6Rr5tXkAZvW45) | 4:48 |
-| 73 | [CAMO](https://open.spotify.com/track/2zdshfZnGJSvr62uKJhitz) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:19 |
+| 73 | [CAMO](https://open.spotify.com/track/5QfcdaQs4TcBNxjWqu3Ulq) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT](https://open.spotify.com/album/5YLTtEcUBfBLnGc4GlWF4G) | 3:19 |
 | 74 | [U&I](https://open.spotify.com/track/2QaCwg7NuZCvC8YHzph4CF) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WOMAN \- The 9th Album](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) | 3:02 |
 | 75 | [私このままでいいのかな](https://open.spotify.com/track/1XZWgqE1VayfZKBtEI3qzX) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [私このままでいいのかな](https://open.spotify.com/album/3aubaYePHVY5rQVtpUwf1y) | 4:48 |
 | 76 | [DO THE MOTION](https://open.spotify.com/track/1NsqllAour4RkQLN5p1QCn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [OUTGROW](https://open.spotify.com/album/0PQNmH3X9nZJRoihzP7uZz) | 4:12 |

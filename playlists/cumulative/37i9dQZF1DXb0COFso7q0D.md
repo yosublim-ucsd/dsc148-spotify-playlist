@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras, powering <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a> Cover: Luis R Conriquez & Neton Vega
+> The playlist sin fronteras, powering <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a> Cover: Oscar Maydon, Junior H, Luis R Conriquez & Gerardo Ortiz
 
 578 songs - 1 day 6 hr 0 min
 

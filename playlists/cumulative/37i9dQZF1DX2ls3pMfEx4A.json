@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117626,
       "name": "B-I-N-G-O",
       "url": "https://open.spotify.com/track/2q67HZ25Viu7m1wJM1AwkM"
+    },
+    {
+      "album": {
+        "name": "52 Sing-A-Long Silly Songs",
+        "url": "https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117626,
+      "name": "B-I-N-G-O",
+      "url": "https://open.spotify.com/track/7e0f3POtMu3Msxj5nssikz"
     },
     {
       "album": {
@@ -74,24 +92,6 @@
       "duration_ms": 117626,
       "name": "B-I-N-G-O",
       "url": "https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn"
-    },
-    {
-      "album": {
-        "name": "52 Sing-A-Long Silly Songs",
-        "url": "https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX"
-      },
-      "artists": [
-        {
-          "name": "Cooltime Kids",
-          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
-        }
-      ],
-      "date_added": "2022-03-11",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 117626,
-      "name": "B-I-N-G-O",
-      "url": "https://open.spotify.com/track/7e0f3POtMu3Msxj5nssikz"
     },
     {
       "album": {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 31307,
       "name": "Bill Nye the Science Guy",
       "url": "https://open.spotify.com/track/2sq0n4doIKKCPXm1is950U"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 31307,
       "name": "Bill Nye the Science Guy",
       "url": "https://open.spotify.com/track/6L33GgWMpd53M1vldLstrW"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190880,
       "name": "Bing Bong Zoo",
       "url": "https://open.spotify.com/track/72lIFn0eGPHFj7qbRjtRfV"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190891,
       "name": "Bing Bong Zoo",
       "url": "https://open.spotify.com/track/4P442Q5ggBqF0nSi68CDTE"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 97711,
       "name": "Farting Is A Part Of Life",
       "url": "https://open.spotify.com/track/0515aQJacIJ1DzopSYSvJL"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97711,
       "name": "Farting Is a Part of Life",
       "url": "https://open.spotify.com/track/34mZzYo0duXZRlZqs7rHOV"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148040,
       "name": "Fruit Salad",
       "url": "https://open.spotify.com/track/05VFDrNnvtKHn9GwCQrsSZ"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148066,
       "name": "Fruit Salad",
       "url": "https://open.spotify.com/track/0jxWlzadnSzb9f49f9jxfz"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 105510,
       "name": "Games On My Computer",
       "url": "https://open.spotify.com/track/3RahKhz9mGQCJ252EbUifz"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105510,
       "name": "Games on My Computer",
       "url": "https://open.spotify.com/track/50BOZZkh9X3CmbaWbHOAlO"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 79840,
       "name": "Hot Potato",
       "url": "https://open.spotify.com/track/3JIFjAYZjDqnl20jkhkC4a"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 81066,
       "name": "Hot Potato",
       "url": "https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW"
@@ -670,25 +670,25 @@
     {
       "album": {
         "name": "Kid in a Candy Store",
-        "url": "https://open.spotify.com/album/6lY2JtBkLSZNdv23wo0zik"
+        "url": "https://open.spotify.com/album/4MXFo0cqJvqmFQsaxiMozJ"
       },
       "artists": [
         {
-          "name": "JoJo Siwa",
+          "name": "Jojo Siwa (Kids)",
           "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
         }
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2024-04-19",
       "duration_ms": 181631,
       "name": "Kid in a Candy Store",
-      "url": "https://open.spotify.com/track/3i6kLnrrhnOnHNGjfMBm7h"
+      "url": "https://open.spotify.com/track/10PHhsCeV0Wsw1tWFJ5pEe"
     },
     {
       "album": {
         "name": "Kid in a Candy Store",
-        "url": "https://open.spotify.com/album/4MXFo0cqJvqmFQsaxiMozJ"
+        "url": "https://open.spotify.com/album/6lY2JtBkLSZNdv23wo0zik"
       },
       "artists": [
         {
@@ -701,7 +701,7 @@
       "date_removed": null,
       "duration_ms": 181631,
       "name": "Kid in a Candy Store",
-      "url": "https://open.spotify.com/track/10PHhsCeV0Wsw1tWFJ5pEe"
+      "url": "https://open.spotify.com/track/3i6kLnrrhnOnHNGjfMBm7h"
     },
     {
       "album": {
@@ -716,7 +716,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 71975,
       "name": "Mr Butt",
       "url": "https://open.spotify.com/track/5LE6ragFpfU11QQymnZBGR"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 71975,
       "name": "Mr Butt",
       "url": "https://open.spotify.com/track/6bM6ODk3nkv3ZD6vzP1spw"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151933,
       "name": "Mr Clicketty Cane (Wash Your Face In Orange Juice)",
       "url": "https://open.spotify.com/track/6CSR4ZKN43afBsT0K156RP"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 231096,
       "name": "Putt Putt Butt Butt",
       "url": "https://open.spotify.com/track/06QdgOu6C18330sXSrcpWR"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231096,
       "name": "Putt Putt Butt Butt",
       "url": "https://open.spotify.com/track/0B0xYkmx0RrlR0aeKE21V1"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166578,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/1YyFEBVK5vitR8gI4t8r0U"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 166578,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/48iEwZRRBJqkkEQjmmKx65"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "The Art of the Fart",
       "url": "https://open.spotify.com/track/07l6K0SMn009HJF0g7wqzx"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156000,
       "name": "The Art of the Fart",
       "url": "https://open.spotify.com/track/3yLgiW9dJAAxQcvgkcZhfK"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144200,
       "name": "Toot Toot, Chugga Chugga, Big Red Car",
       "url": "https://open.spotify.com/track/2qlWTYxYdY8thpMvMm8C01"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 144204,
       "name": "Toot Toot, Chugga Chugga, Big Red Car",
       "url": "https://open.spotify.com/track/6Vs0mW2cnly5i2R7AL8Jgp"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Topsy Turvy Zoo",
       "url": "https://open.spotify.com/track/38ZPI2hWI0UWJjPHAEjj78"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140000,
       "name": "Topsy Turvy Zoo",
       "url": "https://open.spotify.com/track/5EBbDp29yvVo6dF9OECQbM"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 154133,
       "name": "Wash Your Face in Orange Juice",
       "url": "https://open.spotify.com/track/5jRkrMEQx5FSGIK4EAFvNa"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175291,
       "name": "Y.M.C.A.",
       "url": "https://open.spotify.com/track/2Ls4QknWvBoGSeAlNKw0Xj"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175291,
       "name": "Y.M.C.A.",
       "url": "https://open.spotify.com/track/45WZ2N9hK3b7KhOECCUGkh"

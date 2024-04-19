@@ -4,7 +4,7 @@
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-93 songs - 4 hr 17 min
+94 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Lonely Go!](https://open.spotify.com/track/23b70WxAS1W3x9X69MlVSo) | [Brian the Sun](https://open.spotify.com/artist/5CVx8gIHxBaYMuQVXr8ogM) | [MEME](https://open.spotify.com/album/3DH1SzNyX3FLsEM28ktmbg) | 3:56 | 2022-07-12 |  |
 | [Maybe I](https://open.spotify.com/track/3OFmx7v5NpQNnr1Wqo3ebH) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Maybe I](https://open.spotify.com/album/6mlEJlbrwyzFrsoivfy2MC) | 3:46 | 2022-07-12 |  |
 | [OVER](https://open.spotify.com/track/7cMxM6wyIrBfXqWY81mONM) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [OVER/ヒカルカケラ \(Special Edition\)](https://open.spotify.com/album/4ViNQyh4NIoTxhhnIbY7qX) | 3:58 | 2022-07-12 |  |
-| [Prologue](https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WANDERING \(Special Edition\)](https://open.spotify.com/album/5zfUqHCsRWT7BaQT3mKuUY) | 3:37 | 2022-07-12 |  |
+| [Prologue](https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WANDERING \(Special Edition\)](https://open.spotify.com/album/5zfUqHCsRWT7BaQT3mKuUY) | 3:37 | 2022-07-12 | 2024-04-19 |
 | [Prologue](https://open.spotify.com/track/1iZeVXwYthcY3HWarxbXNb) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [KIZUNA \(Special Edition\)](https://open.spotify.com/album/2PkIFK9tEzYBVKeuiEFVSi) | 3:37 | 2022-11-02 | 2022-11-14 |
+| [Prologue](https://open.spotify.com/track/3g7Fpu5Ii99ZfR4JytRSeI) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Prologue](https://open.spotify.com/album/5ZWCH7ZaHbqcV8lvdyGNxV) | 3:37 | 2023-01-24 |  |
 | [Ride or Die](https://open.spotify.com/track/41HSCNYMTJKQya6P9vJF6Y) | [Skypeace](https://open.spotify.com/artist/67B3zxnhGAjiz0OVdPidXk) | [BE BOY](https://open.spotify.com/album/2a4VMfObyCTWgYOPVw4sMo) | 3:53 | 2022-07-12 |  |
 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 | 2022-07-12 |  |
 | [Who are you?](https://open.spotify.com/track/2jjtyENFrV2g4XocVqjUGi) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [Who are you? / 星座して二人](https://open.spotify.com/album/3y24ZDMTWldEr0NASCKErU) | 3:29 | 2022-07-12 |  |

@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 79129,
       "name": "BodyPartz",
       "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
@@ -470,6 +470,28 @@
       "duration_ms": 89600,
       "name": "BORDERLINE PERSONALITY DISORDER - CLUB MIX",
       "url": "https://open.spotify.com/track/0q9nAzxAkkW2Pt4EfG5kSt"
+    },
+    {
+      "album": {
+        "name": "BREAK A NECK (w/ Ayesha Erotica)",
+        "url": "https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116330,
+      "name": "BREAK A NECK (w/ Ayesha Erotica)",
+      "url": "https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp"
     },
     {
       "album": {
@@ -518,6 +540,28 @@
       "duration_ms": 164633,
       "name": "BUSCAPROBLEMAS",
       "url": "https://open.spotify.com/track/4XPojnLqugTqXuhGJJEytm"
+    },
+    {
+      "album": {
+        "name": "CANADA (w/ jnhygs)",
+        "url": "https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110054,
+      "name": "CANADA (w/ jnhygs)",
+      "url": "https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK"
     },
     {
       "album": {
@@ -608,7 +652,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112018,
       "name": "corpse",
       "url": "https://open.spotify.com/track/0V6nYXxQCghLMQYtxLu5al"
@@ -626,7 +670,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 112018,
       "name": "corpse",
       "url": "https://open.spotify.com/track/12Tkvx9SClYpEQKrCtqEfY"
@@ -666,7 +710,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121881,
       "name": "crystallize",
       "url": "https://open.spotify.com/track/1PvmpEdGf0OnE5eINVbrCJ"
@@ -684,7 +728,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 121899,
       "name": "crystallize",
       "url": "https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI"
@@ -1150,7 +1194,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 115200,
       "name": "every pill",
       "url": "https://open.spotify.com/track/0DaqmS2yJdMHG6cRZKpzMm"
@@ -1368,7 +1412,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 126102,
       "name": "F\u039bSHION - Speed Up",
       "url": "https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3"
@@ -1386,7 +1430,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126102,
       "name": "F\u039bSHION - Speed Up",
       "url": "https://open.spotify.com/track/7hbqhzGV5y3cxtGE1ajbpb"
@@ -1634,7 +1678,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 134544,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/04gSLX5nUhkKiMe1geeqnA"
@@ -1686,7 +1730,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK"
@@ -1836,6 +1880,24 @@
       "duration_ms": 93709,
       "name": "I <3 LATINAS",
       "url": "https://open.spotify.com/track/5ZYc494Yhj18o8nbG777LV"
+    },
+    {
+      "album": {
+        "name": "Internet Famous",
+        "url": "https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110784,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5abQLQCkP7scCOzRzS9DUZ"
     },
     {
       "album": {
@@ -2084,7 +2146,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 134237,
       "name": "Just A Hint",
       "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
@@ -2958,7 +3020,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125861,
       "name": "party addict",
       "url": "https://open.spotify.com/track/0i5Lv2pnFSqZopukoniHcv"
@@ -2984,7 +3046,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 125861,
       "name": "party addict",
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
@@ -4212,7 +4274,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/2otVGlTIMyGhIAyCcwb79v"
@@ -4264,7 +4326,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Agonize",
+        "url": "https://open.spotify.com/album/6PMNbI3D4rsYwWWgXZ9JHS"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171971,
+      "name": "Agonize",
+      "url": "https://open.spotify.com/track/3FeGZb9pg7ws79UhhZP8lv"
+    },
+    {
+      "album": {
         "name": "The Self",
         "url": "https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171971,
       "name": "Agonize",
       "url": "https://open.spotify.com/track/4iG6wXPpZIYIpOVkra8SCh"
@@ -484,10 +502,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172000,
       "name": "Arturo",
       "url": "https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW"
+    },
+    {
+      "album": {
+        "name": "Arturo",
+        "url": "https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT"
+      },
+      "artists": [
+        {
+          "name": "Lucas Forch",
+          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Arturo",
+      "url": "https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E"
     },
     {
       "album": {
@@ -3044,10 +3080,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146462,
       "name": "I Was Here",
       "url": "https://open.spotify.com/track/3ez7DtheENs1TZ6ifP8pl0"
+    },
+    {
+      "album": {
+        "name": "I Was Here",
+        "url": "https://open.spotify.com/album/5xODkBzdjQmoXTAuA4b7l3"
+      },
+      "artists": [
+        {
+          "name": "Mikael Sapin",
+          "url": "https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146462,
+      "name": "I Was Here",
+      "url": "https://open.spotify.com/track/47CrKzr1UF48IUkefXrsJv"
     },
     {
       "album": {
@@ -4158,6 +4212,24 @@
     {
       "album": {
         "name": "Logos",
+        "url": "https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc"
+      },
+      "artists": [
+        {
+          "name": "Alex BH",
+          "url": "https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Logos",
+      "url": "https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s"
+    },
+    {
+      "album": {
+        "name": "Logos",
         "url": "https://open.spotify.com/album/3BGBYHmNBBNJE8gv51xzut"
       },
       "artists": [
@@ -4168,7 +4240,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211764,
       "name": "Logos",
       "url": "https://open.spotify.com/track/1amYrmZJg6aFSREx06JSym"
@@ -6688,10 +6760,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184220,
       "name": "Spheroidal",
       "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
+    },
+    {
+      "album": {
+        "name": "Spheroidal",
+        "url": "https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh"
     },
     {
       "album": {
@@ -7761,6 +7851,24 @@
     },
     {
       "album": {
+        "name": "Velez-Malaga",
+        "url": "https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl"
+      },
+      "artists": [
+        {
+          "name": "Rosa Monteiro",
+          "url": "https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194948,
+      "name": "Velez-Malaga",
+      "url": "https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq"
+    },
+    {
+      "album": {
         "name": "Relaxing Piano Classics",
         "url": "https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz"
       },
@@ -7772,7 +7880,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194948,
       "name": "Velez-Malaga",
       "url": "https://open.spotify.com/track/7lTwRNweZTKc9C4COzTihs"

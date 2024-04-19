@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,482 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,511 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 46 | [Apaga La Luz \- Mike Dunn Re\-Touch](https://open.spotify.com/track/4a0TBax0pbJVEM4bzTMAt9) | [Tony Touch](https://open.spotify.com/artist/19MNIbED5OlB4TxiAYStlH), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Apaga La Luz \(Mike Dunn Re\-Touch\)](https://open.spotify.com/album/1rhxbK9E2ZLGI0i2x2oNoU) | 5:11 |
 | 47 | [Disposition](https://open.spotify.com/track/6Y8uPXtMEpA74FUSaPFduO) | [USAW](https://open.spotify.com/artist/2YWkNiWSekZQ46hJlwpyIv) | [Disposition](https://open.spotify.com/album/6U2nZMCzsBnbNmxcQznxyt) | 5:30 |
 | 48 | [Lost in the Deep](https://open.spotify.com/track/5uKb1xRoaVBFyjscyAhnMN) | [Vince Watson](https://open.spotify.com/artist/2Y3cH3SUZL9XKfKD3novXt) | [Another Moment in Time](https://open.spotify.com/album/2nsFp8cCdMbgW4tFw6jI3m) | 7:03 |
-| 49 | [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 |
+| 49 | [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 |
 | 50 | [Genesis](https://open.spotify.com/track/1lxADy4IBOAGjrMKCp4Uvc) | [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Genesis](https://open.spotify.com/album/4eHfmGh4usaxSs4jCp0tqV) | 6:57 |
 
 Snapshot ID: `MTcxMTExODA2OCwwMDAwMDAwMGIwZGI3NzM1YzVhNWNmNTY4YjRmNWQ0YjYzZTI4MmI1`

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3yS8gcHmbKBK6XhLmq7ZcK"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/0I4yYE831a8SW8QIx6bz4x"
+    },
+    {
+      "album": {
         "name": "Crimson & Clover / Some Kind of Love",
         "url": "https://open.spotify.com/album/7D5t5lcmEzFyZcr8a1avmL"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208666,
       "name": "Crimson and Clover (Single Version)",
       "url": "https://open.spotify.com/track/74ohdXevc7VsXl96ofi3Kn"
@@ -348,10 +366,28 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204521,
       "name": "Everybody's Gotta Live",
       "url": "https://open.spotify.com/track/53KaWf8R44BwbEwKEkvlUq"
+    },
+    {
+      "album": {
+        "name": "Reel To Real",
+        "url": "https://open.spotify.com/album/5fhrpFxoThV3rhboaG1PzC"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Everybody\u2019s Gotta Live",
+      "url": "https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb"
     },
     {
       "album": {
@@ -690,10 +726,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166680,
       "name": "Itchycoo Park (Mono Version) - 2012 Remaster",
       "url": "https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK"
+    },
+    {
+      "album": {
+        "name": "Small Faces (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/272beLTeCHahNEM6RoymEK"
+      },
+      "artists": [
+        {
+          "name": "Small Faces",
+          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Itchycoo Park (Mono)",
+      "url": "https://open.spotify.com/track/5q1dqOJ4qBL6cMaOvL0mWR"
     },
     {
       "album": {
@@ -798,7 +852,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281231,
       "name": "My Sweet Lord (2014 Remaster)",
       "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
@@ -820,6 +874,24 @@
       "duration_ms": 281231,
       "name": "My Sweet Lord - 2014 Remaster",
       "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281226,
+      "name": "My Sweet Lord - Remastered 2014",
+      "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
     },
     {
       "album": {
@@ -1072,7 +1144,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 210525,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
@@ -1090,7 +1162,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212946,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
@@ -1198,7 +1270,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 127733,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
@@ -1216,10 +1288,28 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128306,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/5mNjFEWm65zdqHoVKKttv4"
+    },
+    {
+      "album": {
+        "name": "Time of the Season / She's Not There",
+        "url": "https://open.spotify.com/album/3U7gkGSzvOl0QqCe0dnOdW"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/2iUyvvPhSYN68f67c7xeVo"
     },
     {
       "album": {
@@ -1252,7 +1342,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214040,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"

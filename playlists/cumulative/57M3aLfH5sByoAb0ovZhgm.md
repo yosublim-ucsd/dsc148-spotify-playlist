@@ -4,7 +4,7 @@
 
 > cookin&\#x27;
 
-113 songs - 6 hr 57 min
+114 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dejavu](https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Dejavu](https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF) | 2:26 | 2023-06-12 |  |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2023-06-10 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:10 | 2023-06-12 |  |
+| [Dil Ki Mez \(From "Merry Christmas"\)](https://open.spotify.com/track/3J5MyBYgvaAIfCquTXrbyx) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Merry Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ta3Yg6C2BRudYedr3o5vr) | 3:37 | 2024-04-17 |  |
 | [Drop The Game](https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 3:41 | 2023-06-12 |  |
 | [Drops](https://open.spotify.com/track/5lctI6kFdwU558kS3CrdTX) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [TheSoundYouNeed, Vol\. 2](https://open.spotify.com/album/5JXtABcOTFkhFmfCTGBexs) | 4:01 | 2023-06-11 |  |
 | [Easy Bake Easy Wake](https://open.spotify.com/track/37jlSwK5rjIOTvkzAeV21B) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Easy Bake Easy Wake](https://open.spotify.com/album/7oPrvDPosF3XdPCnhTIM0I) | 5:03 | 2023-06-11 |  |

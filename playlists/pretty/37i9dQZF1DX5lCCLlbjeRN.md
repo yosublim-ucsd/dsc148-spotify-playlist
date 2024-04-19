@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lCCLlbjeRN.md) - [plain]
 
 > Canciones y cuentos de tus clásicos favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,277 likes - 59 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,373 likes - 59 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Ratita Blanca](https://open.spotify.com/track/4nAxKGzccUeBGDY5HJrSK1) | [Había una Vez Cuentos Infantiles](https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX) | [La Ratita Blanca](https://open.spotify.com/album/4bb9aux1YYIg2XLU5rIMWw) | 2:17 |
+| 1 | [La Ratita Blanca](https://open.spotify.com/track/2NItaEQ97YaPyPWRhloac0) | [Había una Vez Cuentos Infantiles](https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX) | [La Ratita Blanca](https://open.spotify.com/album/0oyGL1KdUiWGyDRBiFTgvS) | 2:17 |
 | 2 | [El Lobo y los Cabritos](https://open.spotify.com/track/307IytxKSnyxI70SgsQGmJ) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fabulas, Vol\. 1](https://open.spotify.com/album/2JzdTvk8UOrJTdmeeXAICK) | 9:48 |
 | 3 | [A Madru Señores](https://open.spotify.com/track/01gDAFjRiW4LdrhtWa8lnI) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fabulas, Vol\. 1](https://open.spotify.com/album/2JzdTvk8UOrJTdmeeXAICK) | 1:34 |
 | 4 | [Las Dos Doncellas y el Gallo](https://open.spotify.com/track/5eRN3nP8ZRg5H9B2U3KPuy) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fabulas, Vol\. 1](https://open.spotify.com/album/2JzdTvk8UOrJTdmeeXAICK) | 4:13 |

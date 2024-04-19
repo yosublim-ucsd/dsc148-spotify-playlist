@@ -350,7 +350,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/19hkRoctnBAVQ7VnLYM6je"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232000,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/4NraPJT1UqJZG925x8JKs0"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 172289,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172289,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180327,
       "name": "Californication (Feels Like I'm Falling In Love)",
       "url": "https://open.spotify.com/track/16xOOeiaf3Hn5Rpn4l9QIY"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 180327,
       "name": "Californication (Feels Like I'm Falling In Love)",
       "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A"
@@ -1601,6 +1601,28 @@
     },
     {
       "album": {
+        "name": "Drowning in Your Love (Gold Edit)",
+        "url": "https://open.spotify.com/album/3cSZQigbAfpOfBcaDRaFaF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        },
+        {
+          "name": "Kartell",
+          "url": "https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227781,
+      "name": "Drowning in Your Love - Gold Edit",
+      "url": "https://open.spotify.com/track/2wi5SH9O2HrLIZpivx4xzE"
+    },
+    {
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p"
       },
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227781,
       "name": "Drowning in Your Love - Gold Edit",
       "url": "https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO"
@@ -1718,10 +1740,28 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200453,
       "name": "Echo In The Chamber",
       "url": "https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei"
+    },
+    {
+      "album": {
+        "name": "Echo In The Chamber",
+        "url": "https://open.spotify.com/album/3ywLr5Ciaxauop3NuF2DFJ"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Echo In The Chamber",
+      "url": "https://open.spotify.com/track/7mamMoh4j7RUpYrT7IvRov"
     },
     {
       "album": {
@@ -1970,6 +2010,24 @@
       "duration_ms": 178708,
       "name": "Find My Balance",
       "url": "https://open.spotify.com/track/504gjXtirBdrvFv7NATVmU"
+    },
+    {
+      "album": {
+        "name": "We'll Talk Soon",
+        "url": "https://open.spotify.com/album/62FAK7BPLY2AB0oq6mCJ0p"
+      },
+      "artists": [
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262560,
+      "name": "Fishes",
+      "url": "https://open.spotify.com/track/44A7sEU3BaDxjAPE5aupcS"
     },
     {
       "album": {
@@ -2234,7 +2292,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233690,
       "name": "Glorious Game",
       "url": "https://open.spotify.com/track/1EbvT0QXJmpAFCv8uoR8qT"
@@ -2260,7 +2318,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 233690,
       "name": "Glorious Game",
       "url": "https://open.spotify.com/track/7s88KE6XfHDLyuQahHHuYk"
@@ -2689,6 +2747,32 @@
     },
     {
       "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+    },
+    {
+      "album": {
         "name": "I Can't Sleep (LPACA Remix)",
         "url": "https://open.spotify.com/album/0q3eTPz8Kbi8g8pi8MaCdc"
       },
@@ -2726,7 +2810,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185591,
       "name": "I Got Your Back",
       "url": "https://open.spotify.com/track/5qPqZ4TMhr3uF1Vv0y3LRf"
@@ -2744,7 +2828,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 185687,
       "name": "I Got Your Back",
       "url": "https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll"
@@ -2956,7 +3040,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z"
@@ -2974,7 +3058,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221873,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
@@ -3018,7 +3102,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196133,
       "name": "It's Okay (Lakim Remix)",
       "url": "https://open.spotify.com/track/5PjDJG3QXS3rlIC6aTprnC"
@@ -3044,7 +3128,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 196133,
       "name": "It's Okay - Lakim Remix",
       "url": "https://open.spotify.com/track/1rcUxbqjw9FTohyDqDNSDo"
@@ -3396,7 +3480,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182455,
       "name": "Losing My Perfection",
       "url": "https://open.spotify.com/track/2Vfs8GaDfVbdQNapLdgPsQ"
@@ -3432,7 +3516,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 182455,
       "name": "Losing My Perfection",
       "url": "https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB"
@@ -3492,6 +3576,28 @@
     {
       "album": {
         "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
+    },
+    {
+      "album": {
+        "name": "Lover/Friend",
         "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
       },
       "artists": [
@@ -3506,7 +3612,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
@@ -3695,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Mesmerised",
+        "url": "https://open.spotify.com/album/0lNVS4zekuz2HUrByHvr0A"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252973,
+      "name": "Mesmerised",
+      "url": "https://open.spotify.com/track/4s5mgc5yk3zwlPUaamoZYZ"
+    },
+    {
+      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -3706,7 +3830,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252973,
       "name": "Mesmerised",
       "url": "https://open.spotify.com/track/7qfnAR8gVQZG1cSsRIoKnG"
@@ -4467,6 +4591,28 @@
     },
     {
       "album": {
+        "name": "Pelota (Cut a Rug Mix)",
+        "url": "https://open.spotify.com/album/2cvz3KTomD5JNGIBnCfiGD"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301995,
+      "name": "Pelota (Cut a Rug Mix)",
+      "url": "https://open.spotify.com/track/380cW88WvjXFmX3wzK1NOf"
+    },
+    {
+      "album": {
         "name": "Mordechai Remixes",
         "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
@@ -4482,7 +4628,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301995,
       "name": "Pelota (Cut a Rug Mix)",
       "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
@@ -4752,7 +4898,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259311,
       "name": "Quebrada",
       "url": "https://open.spotify.com/track/4Ika1bBabb94jkejNQ0NxI"
@@ -4770,7 +4916,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 259311,
       "name": "Quebrada",
       "url": "https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H"
@@ -4990,7 +5136,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 192062,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/0G01ay8eyUgrtKlrVP3Mt7"
@@ -5016,7 +5162,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192062,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/1fowwO5FLJpv7Suxf0vOC6"
@@ -5112,7 +5258,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP"
@@ -5138,7 +5284,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
@@ -5264,7 +5410,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 235219,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/2gdklwx9RchkYL2L8FeYMs"
@@ -5286,7 +5432,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235241,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/6dVIrBdzowfuvAq1NbLcjW"
@@ -5628,6 +5774,24 @@
     {
       "album": {
         "name": "Soul Tropical",
+        "url": "https://open.spotify.com/album/1baqXft8RGX75y3kQMsgUw"
+      },
+      "artists": [
+        {
+          "name": "David Walters",
+          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Soul Tropical",
+      "url": "https://open.spotify.com/track/7hvrQQy078O9WbemnHcZzG"
+    },
+    {
+      "album": {
+        "name": "Soul Tropical",
         "url": "https://open.spotify.com/album/0G8qxLCQc0ZVAR1RKOYhDm"
       },
       "artists": [
@@ -5638,7 +5802,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224466,
       "name": "Soul Tropical",
       "url": "https://open.spotify.com/track/45zW45OwpItrFbKzAW9jA0"
@@ -5896,7 +6060,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272211,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH"
@@ -5914,7 +6078,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
@@ -6722,7 +6886,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
@@ -6774,7 +6938,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp"
@@ -6934,10 +7098,32 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209040,
       "name": "Young Hearts (Polo & Pan Remix)",
       "url": "https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV"
+    },
+    {
+      "album": {
+        "name": "Young Hearts (Polo & Pan Remix)",
+        "url": "https://open.spotify.com/album/2wMAaNgsWO0egLsDGdNsf9"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Young Hearts - Polo & Pan Remix",
+      "url": "https://open.spotify.com/track/3mxeFg1uMVSOWZtYd5glBV"
     },
     {
       "album": {

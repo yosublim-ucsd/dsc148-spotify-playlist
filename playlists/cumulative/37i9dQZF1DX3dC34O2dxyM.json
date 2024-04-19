@@ -42,7 +42,7 @@
     {
       "album": {
         "name": "A Day's Worth",
-        "url": "https://open.spotify.com/album/63dDQzdwERMFdAD7Kn1hM9"
+        "url": "https://open.spotify.com/album/6D7m482LLhS7YDD4IIc7WI"
       },
       "artists": [
         {
@@ -53,6 +53,24 @@
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 69578,
+      "name": "A Day's Worth",
+      "url": "https://open.spotify.com/track/45cWUJN3WmVg8puobl5wGc"
+    },
+    {
+      "album": {
+        "name": "A Day's Worth",
+        "url": "https://open.spotify.com/album/63dDQzdwERMFdAD7Kn1hM9"
+      },
+      "artists": [
+        {
+          "name": "Lunng Fern",
+          "url": "https://open.spotify.com/artist/3uuXHV6ZEj5MlSBNjBY2c9"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 69578,
       "name": "A Day's Worth",
       "url": "https://open.spotify.com/track/5LFpPmEb0XLUXejA719JP2"
@@ -1266,7 +1284,7 @@
     {
       "album": {
         "name": "First Lullaby",
-        "url": "https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs"
+        "url": "https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk"
       },
       "artists": [
         {
@@ -1277,6 +1295,24 @@
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 60330,
+      "name": "First Lullaby",
+      "url": "https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH"
+    },
+    {
+      "album": {
+        "name": "First Lullaby",
+        "url": "https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs"
+      },
+      "artists": [
+        {
+          "name": "All the Raw Melodies",
+          "url": "https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 60330,
       "name": "First Lullaby",
       "url": "https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6"

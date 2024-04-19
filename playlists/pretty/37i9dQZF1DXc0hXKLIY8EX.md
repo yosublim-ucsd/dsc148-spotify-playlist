@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover: <a href="spotify:artist:0hCNtLu0JehylgoiP8L4Gh">Nicki Minaj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,136 likes - 59 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,154 likes - 59 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 56 | [The Mystery Begins](https://open.spotify.com/track/1XuVitZUlgvCCcprWsdjq5) | [Jaden Castro](https://open.spotify.com/artist/6MhJ8mIAI9bkA14a0qlY1Q) | [Voyager 1](https://open.spotify.com/album/25jXeNfxcvzvq1twKOpHq0) | 3:28 |
 | 57 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:20 |
 | 58 | [Stuck In My Ways](https://open.spotify.com/track/52K77MKrAormrzJHhL7fYr) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Stuck In My Ways](https://open.spotify.com/album/0tLpo1x2gVMIgoHpRYvtNw) | 2:14 |
-| 59 | [Attachments](https://open.spotify.com/track/7r8U5TxVpwett8yGmUuoiW) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Attachments](https://open.spotify.com/album/4xvYlRKTn1Il04iydxqG7t) | 2:59 |
+| 59 | [Attachments](https://open.spotify.com/track/2cGc9f17zZeQk8Dcrrb67T) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Attachments](https://open.spotify.com/album/7qWPPA28exnMZBE9949HrL) | 2:59 |
 
 Snapshot ID: `MTcwMjY2ODU0NCwwMDAwMDAwMGVhN2ViMTUzYTllZjllNWFjNjJkMjI0YTFlODc2ZWIy`

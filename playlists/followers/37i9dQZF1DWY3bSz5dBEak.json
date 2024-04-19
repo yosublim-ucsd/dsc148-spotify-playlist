@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 53964,
+  "2024-04-19": 53999,
   "date_first_scraped": "2022-06-20",
   "description": "Beethoven's famous works for piano, from wistful sonatas to ghostly trios.",
   "name": "Beethoven Piano",
@@ -470,28 +470,6 @@
     },
     {
       "album": {
-        "name": "Diabelli Variations - 33 Variations on a Waltz by Anton Diabelli, Op. 120",
-        "url": "https://open.spotify.com/album/4293SPqEXe9mFXt5Wb1k6U"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163693,
-      "name": "Diabelli Variations - 33 Variations on a Waltz by Anton Diabelli, Op. 120: Var. 24 - Fughetta. Andante",
-      "url": "https://open.spotify.com/track/023p766xovCahvVNl7kmCj"
-    },
-    {
-      "album": {
         "name": "Beethoven: Piano Variations",
         "url": "https://open.spotify.com/album/2T2DYQb9778c6rhnueNW73"
       },
@@ -617,6 +595,50 @@
       "duration_ms": 919013,
       "name": "Fantasia in C Minor, Op. 80 \"Choral Fantasy\": II. Finale. Allegro - Allegretto, ma non troppo, quasi andante con moto",
       "url": "https://open.spotify.com/track/1aLs8G7GNBWLloglhNP0Nd"
+    },
+    {
+      "album": {
+        "name": "Glenn Gould plays Beethoven: Piano Sonatas Nos. 1-3; 5-10; 12-14; 15-18; 23; 30-32",
+        "url": "https://open.spotify.com/album/1TTTmdzL8E6NgrvVJ0ZPF0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264746,
+      "name": "I. Allegro",
+      "url": "https://open.spotify.com/track/0LhOmbF5ai9nySQ9vezj9T"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 8-10 (Gould Remastered)",
+        "url": "https://open.spotify.com/album/0isMuQNesHMv674ps90zDj"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285653,
+      "name": "II. Adagio cantabile - Remastered",
+      "url": "https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF"
     },
     {
       "album": {
@@ -1612,28 +1634,6 @@
     },
     {
       "album": {
-        "name": "Glenn Gould plays Beethoven: Piano Sonatas Nos. 1-3; 5-10; 12-14; 15-18; 23; 30-32",
-        "url": "https://open.spotify.com/album/1TTTmdzL8E6NgrvVJ0ZPF0"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
-        }
-      ],
-      "date_added": "2024-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264746,
-      "name": "Piano Sonata No. 6 in F Major, Op. 10 No. 2: I. Allegro",
-      "url": "https://open.spotify.com/track/0LhOmbF5ai9nySQ9vezj9T"
-    },
-    {
-      "album": {
         "name": "Beethoven: Piano Sonatas, Vol. 1",
         "url": "https://open.spotify.com/album/43GCnAwtdvNJpXzsDo4iNj"
       },
@@ -2140,28 +2140,6 @@
     },
     {
       "album": {
-        "name": "Beethoven: Piano Sonatas Nos. 8-10 (Gould Remastered)",
-        "url": "https://open.spotify.com/album/0isMuQNesHMv674ps90zDj"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285653,
-      "name": "Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile - Remastered",
-      "url": "https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF"
-    },
-    {
-      "album": {
         "name": "Beethoven: Piano Trios, Op. 1 - Hache: Desinstalation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34B3UU8P8kXbIQob7QHZ7b"
       },
@@ -2259,6 +2237,28 @@
       "duration_ms": 125638,
       "name": "Turkish March, Op.113 No.4",
       "url": "https://open.spotify.com/track/4Jha1ZUIC012EmLyod413r"
+    },
+    {
+      "album": {
+        "name": "Diabelli Variations - 33 Variations on a Waltz by Anton Diabelli, Op. 120",
+        "url": "https://open.spotify.com/album/4293SPqEXe9mFXt5Wb1k6U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "Var. 24 - Fughetta. Andante",
+      "url": "https://open.spotify.com/track/023p766xovCahvVNl7kmCj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY3bSz5dBEak"

@@ -210,6 +210,28 @@
     {
       "album": {
         "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148304,
+      "name": "ALL ABOUT ME",
+      "url": "https://open.spotify.com/track/1jKmxTVnBzINL8r63zxpct"
+    },
+    {
+      "album": {
+        "name": "GLOBAL WARNING",
         "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
       },
       "artists": [
@@ -224,7 +246,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148304,
       "name": "ALL ABOUT ME",
       "url": "https://open.spotify.com/track/2ZW4EoAqKdxhPQBcnXQUyQ"
@@ -368,10 +390,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "Bold And Brave",
       "url": "https://open.spotify.com/track/2SFzf5hp9itASMzGykdVWZ"
+    },
+    {
+      "album": {
+        "name": "Back To Skool",
+        "url": "https://open.spotify.com/album/6YjJLpfds43mkfSObfw50s"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Bold And Brave",
+      "url": "https://open.spotify.com/track/7HZzB7zkpy0AciPo7vsAkU"
     },
     {
       "album": {
@@ -616,7 +656,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161933,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/35alWvmJmu77GoW3Y57cuT"
@@ -642,7 +682,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 161357,
       "name": "FRIEND ZONE",
       "url": "https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv"
@@ -778,6 +818,28 @@
     {
       "album": {
         "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168178,
+      "name": "HOBBIES",
+      "url": "https://open.spotify.com/track/11yCYW6r6MYoZDZmEZ7f5l"
+    },
+    {
+      "album": {
+        "name": "GLOBAL WARNING",
         "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
       },
       "artists": [
@@ -792,7 +854,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168178,
       "name": "HOBBIES",
       "url": "https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6"
@@ -928,7 +990,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 173656,
       "name": "Kikli",
       "url": "https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3"
@@ -950,7 +1012,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173656,
       "name": "Kikli",
       "url": "https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4"
@@ -994,7 +1056,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201351,
       "name": "LKLG",
       "url": "https://open.spotify.com/track/0fkgAhvWsDOzQpLjJafDka"
@@ -1020,7 +1082,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 201351,
       "name": "LKLG",
       "url": "https://open.spotify.com/track/4M5WhMWntRfnKaHF38DsTb"
@@ -1624,10 +1686,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179154,
       "name": "Rank 1",
       "url": "https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p"
+    },
+    {
+      "album": {
+        "name": "Never Before",
+        "url": "https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Rank 1",
+      "url": "https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP"
     },
     {
       "album": {
@@ -1937,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "WE ROLLIN",
+        "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "WE ROLLIN",
+      "url": "https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt"
+    },
+    {
+      "album": {
         "name": "We Rollin",
         "url": "https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf"
       },
@@ -1948,7 +2050,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCmi37MoU6.md) - [plain]
 
 > El Hip\-Hop Mexicano es único\. Conoce los 50 tracks esenciales de Toy Selectah y Diego Madrigal
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,776 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,931 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCmi37MoU6.md) - [plain]
 | 14 | [Eme Ces Infalsificables](https://open.spotify.com/track/2lBij2LLml12XmbVBH7zKa) | [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf) | [Abriendo Puertas](https://open.spotify.com/album/1MkwIwYRzcJKeYlj76tphv) | 6:17 |
 | 15 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 |
 | 16 | [El Barrio](https://open.spotify.com/track/5ygLlDKTo2bQysufOgQprn) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Sick Jacken](https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4), [Cynic](https://open.spotify.com/artist/4PIm6QYwbiUIT1ITELJ41N) | [The Legend Of The Mask & The Assasin](https://open.spotify.com/album/2VDt6ZSul6beOvhO5wZ6gt) | 4:19 |
-| 17 | [Sueño de un Writer](https://open.spotify.com/track/2JrUTURPp4leSGwAZuVd6V) | [Magisterio](https://open.spotify.com/artist/0XkoZO9HrPX0ejS3HSjuk1) | [Cuadrivium Era Deuda](https://open.spotify.com/album/66KIVPcyjq6dmHsqh1pmAG) | 4:59 |
+| 17 | [Sueño de un Writter](https://open.spotify.com/track/6FHEgU5e7wDljxDgnP8Psp) | [Magisterio](https://open.spotify.com/artist/0XkoZO9HrPX0ejS3HSjuk1) | [Cuadrivium Era Deuda](https://open.spotify.com/album/6pVUHBSdOdZLF1A1Jo8tMc) | 4:59 |
 | 18 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
 | 19 | [Lupitas Taco Shop](https://open.spotify.com/track/0ZlmMf7cF1OI62VdiPFRzP) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [Mantequilla Hip Hop Sessions Vol\. 1](https://open.spotify.com/album/6IKAvy9Y6dnAD6qoxypxku) | 3:34 |
 | 20 | [Manos Vacías \(feat\. Lengualerta\)](https://open.spotify.com/track/3UJqoYlKz4eck2AIdpsTSb) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Postdata](https://open.spotify.com/album/6m2zfzGBMYO85UrwqR05Nj) | 3:43 |

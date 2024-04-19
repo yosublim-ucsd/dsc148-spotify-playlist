@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Miguel Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,671 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,711 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 22 | [Ya No Me Preguntes \- En Vivo](https://open.spotify.com/track/5xUXAUbRZB2aPFapukx7E1) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg) | [Parrandeando Con La Nueva Estrategia \(En Vivo\)](https://open.spotify.com/album/4LObS1CzsB8rOzlIdWyvFR) | 3:05 |
 | 23 | [La Más Deseada \- En Vivo](https://open.spotify.com/track/1gNFmW398YlioyPnu4ll1c) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [El Flaco Elizalde](https://open.spotify.com/artist/0cqLn5qlLKHRSueujVMJyr) | [Parrandeando Con La Nueva Estrategia \(En Vivo\)](https://open.spotify.com/album/4LObS1CzsB8rOzlIdWyvFR) | 3:14 |
 | 24 | [En Chino Iba A Estar \- En Vivo](https://open.spotify.com/track/2SCQTIlIZTPrlRVJo0iAE0) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [En Chino Iba A Estar \(En Vivo\)](https://open.spotify.com/album/4IibUoD3WlT5h69Lgq5nAN) | 3:44 |
-| 25 | [Maracas](https://open.spotify.com/track/15XX6d9QPjcaMOtZghjSOG) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Mario Bautista](https://open.spotify.com/artist/6fXGOQ8CLhMZomA9PCmNfa) | [Soy Como Quiero Ser](https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8) | 3:03 |
-| 26 | [Sangoloteadito](https://open.spotify.com/track/7E0VVIGnQI4PruOYBn1mHd) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8) | 2:45 |
-| 27 | [La Prietita Que Yo Quiero](https://open.spotify.com/track/5F2r2rN7mGGgmmXuz83cC8) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8) | 2:56 |
+| 25 | [Maracas](https://open.spotify.com/track/0JTWNYUddOo4EfR7XBQYIR) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Mario Bautista](https://open.spotify.com/artist/6fXGOQ8CLhMZomA9PCmNfa) | [Soy Como Quiero Ser](https://open.spotify.com/album/1IA28U4u4TqPWcGl3mM3X9) | 3:03 |
+| 26 | [Sangoloteadito](https://open.spotify.com/track/3YJT3H1PDzTBWucbj4woxA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/1IA28U4u4TqPWcGl3mM3X9) | 2:45 |
+| 27 | [La Prietita Que Yo Quiero](https://open.spotify.com/track/2RrFo2KKiXqzIS58DWTrgm) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/1IA28U4u4TqPWcGl3mM3X9) | 2:56 |
 | 28 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 |
 | 29 | [Hice \(En Vivo\)](https://open.spotify.com/track/4DfpqWSzsEyDWG3OHpZVXa) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Memo Garza](https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F) | [Hice \(En Vivo\)](https://open.spotify.com/album/7BlYGsZDeFu64x851JTSX2) | 3:13 |
 | 30 | [Ya Lo Sé \- Acá Entre Nos \(En Vivo\)](https://open.spotify.com/track/0hJBAaV76N5hWguz9iCIqy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Ya Lo Sé \- Acá Entre Nos \(En Vivo\)](https://open.spotify.com/album/60xjaVsdhDer21ocf9eRJT) | 8:20 |

@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 174123,
       "name": "Ai Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2i2L1439P8JJRqp1jiKfUR"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134880,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204281,
       "name": "Borboletas",
       "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173461,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 142222,
       "name": "LOUCA",
       "url": "https://open.spotify.com/track/0FJpeAT75XI6LImeMhpdU3"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 208068,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192417,
       "name": "Lua",
       "url": "https://open.spotify.com/track/5KYxsXz9RnMHED7ggDLfbv"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136615,
       "name": "O Poder Dessa Garota",
       "url": "https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT"
@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Placas",
       "url": "https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K"
@@ -3648,10 +3648,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170558,
       "name": "Pre\u00e7o Certo",
       "url": "https://open.spotify.com/track/4CSB7RdBx6Jc8BFFiRFE6K"
+    },
+    {
+      "album": {
+        "name": "Pre\u00e7o Certo",
+        "url": "https://open.spotify.com/album/7CYsvZRIdJWXrBb6gVfA0m"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mafama",
+          "url": "https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170558,
+      "name": "Pre\u00e7o Certo",
+      "url": "https://open.spotify.com/track/4Ttr1mkX4DLIBzI8TRrtWb"
     },
     {
       "album": {
@@ -3824,7 +3842,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 189600,
       "name": "Rainha",
       "url": "https://open.spotify.com/track/1ALqTZkiENayQhd1KXzDGP"
@@ -4628,7 +4646,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214270,
       "name": "Trava na Pose, Chama no Zoom, Da um Close (feat. Mc Rennan)",
       "url": "https://open.spotify.com/track/5aqmWrDgnyQ2OVn6UgBko3"
@@ -4738,7 +4756,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176239,
       "name": "Tudo Me Lembra Voc\u00ea",
       "url": "https://open.spotify.com/track/3PdwCmtzejJgjjLOEnbSEB"

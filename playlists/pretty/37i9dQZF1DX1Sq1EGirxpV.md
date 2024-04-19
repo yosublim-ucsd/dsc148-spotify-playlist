@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,224 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,231 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 | 63 | [Curated by Park Sung Hoon](https://open.spotify.com/track/0rk3oatAupEjST9I94Qgmd) | [Not Others](https://open.spotify.com/artist/7gAFa9eIYVgs5KTKXYl7BW) | [Not Others audio liners](https://open.spotify.com/album/142it3I6v0EUt97ZUbxPMr) | 0:53 |
 | 64 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1/24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 |
 | 65 | [출국](https://open.spotify.com/track/2VSFXn3CvX3ZJXeJEkalHC) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [다중인격자](https://open.spotify.com/album/3AYmdPL0hv4zDfVj1uZ55t) | 4:34 |
-| 66 | [Starting Over](https://open.spotify.com/track/2HAB05mHjOAK2tRgewGryD) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Someone's Playlist \#5](https://open.spotify.com/album/6JKO2elIIqJU5OQXvdI1HF) | 4:52 |
+| 66 | [덧칠](https://open.spotify.com/track/3ix0pg2CqztyynmigM72se) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Someone's playlist \#5](https://open.spotify.com/album/26twLmpKO6M8Yo5rytkHlk) | 4:52 |
 | 67 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 |
-| 68 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
+| 68 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 |
 
 Snapshot ID: `MTY5NDA1NDcxMSwwMDAwMDAwMDJjMTY1MmRhYTYwZThjM2QwN2NiZDQzMWZlZTMxNzk3`

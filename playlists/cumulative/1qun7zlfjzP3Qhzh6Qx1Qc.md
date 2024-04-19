@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyoncé
 
-116 songs - 6 hr 29 min
+117 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Rest of Your Life](https://open.spotify.com/track/1bB7sNIQG3yBhlP9XSIccf) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Rest of Your Life](https://open.spotify.com/album/0RYIEgUnNfz1DaTETsrmVs) | 3:10 | 2024-01-19 | 2024-03-23 |
 | [Right Now](https://open.spotify.com/track/5HS8aICH7tjYXSBxzjE9PU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Right Now](https://open.spotify.com/album/5c6gRadNcBezr5lzERoRsv) | 3:04 | 2024-01-12 | 2024-04-02 |
 | [Rolling Stoned Again](https://open.spotify.com/track/1QC5apn9Ye3gC6z2XkPtYJ) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/0Jd8RkTQ1kqieqVlENwyJR) | 4:43 | 2024-02-02 |  |
+| [Rust](https://open.spotify.com/track/1EdAfme2rPCUkzIYvSucYX) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Rust](https://open.spotify.com/album/0OpM8xRUkHma1V1biL0cc1) | 2:49 | 2024-04-19 |  |
 | [Rustin' In The Rain](https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 3:36 | 2023-11-03 |  |
 | [Same Drunk](https://open.spotify.com/track/7ia6WjhKSljuub3g3KVkBG) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Sober Thoughts](https://open.spotify.com/album/0KgmDZFkeMg2HfZlKxiek8) | 3:16 | 2024-04-05 |  |
 | [Small Town Somethin'](https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/0U1acuLEmKlqtPoiCX7vqU) | 2:32 | 2023-11-03 | 2024-02-03 |
@@ -94,7 +95,7 @@
 | [Solitary Road](https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Solitary Road](https://open.spotify.com/album/4wHGvE8T3rOrUeUuY9iPoM) | 3:31 | 2024-04-05 |  |
 | [Southeast Oklahoma Pines](https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Southeast Oklahoma Pines](https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA) | 3:51 | 2023-12-01 |  |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-23 |  |
-| [Stoned in Bridge Creek](https://open.spotify.com/track/3PaELvtTj5bNXT6kDOrfV5) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Stoned in Bridge Creek](https://open.spotify.com/album/34UP11wojrp6YFBlmWIy3O) | 2:50 | 2024-01-19 |  |
+| [Stoned in Bridge Creek](https://open.spotify.com/track/3PaELvtTj5bNXT6kDOrfV5) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Stoned in Bridge Creek](https://open.spotify.com/album/34UP11wojrp6YFBlmWIy3O) | 2:50 | 2024-01-19 | 2024-04-19 |
 | [Strangers](https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Strangers](https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq) | 3:31 | 2024-01-26 |  |
 | [Take It To The Highway](https://open.spotify.com/track/62ydigyjJjnnDglH1F31ov) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 3:12 | 2024-03-15 |  |
 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 | 2023-11-03 |  |

@@ -32,6 +32,28 @@
     {
       "album": {
         "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
         "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
       },
       "artists": [
@@ -46,7 +68,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168500,
       "name": "6 Feet Down",
       "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
@@ -214,7 +236,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140658,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5wDb7EEG3XzalL8qCOPElP"
@@ -232,7 +254,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 140658,
       "name": "Almost",
       "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
@@ -722,7 +744,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 151752,
       "name": "Deal With It",
       "url": "https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe"
@@ -740,7 +762,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152997,
       "name": "Deal With It",
       "url": "https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz"
@@ -758,7 +780,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218083,
       "name": "Deathcab",
       "url": "https://open.spotify.com/track/4CntijvDDzDpURDLjrJEkQ"
@@ -776,7 +798,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 218083,
       "name": "Deathcab",
       "url": "https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn"
@@ -820,7 +842,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 111467,
       "name": "Devil In A Dress",
       "url": "https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav"
@@ -838,7 +860,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111467,
       "name": "Devil In A Dress",
       "url": "https://open.spotify.com/track/3wNsLWIAFQsi5RuLyHFfMN"
@@ -874,7 +896,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158389,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/222VjaQ6wUWhe3SnbNHJ2K"
@@ -892,7 +914,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 158389,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl"
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 255482,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc"
@@ -1146,7 +1168,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255482,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG"
@@ -2672,6 +2694,24 @@
     {
       "album": {
         "name": "No Way Out",
+        "url": "https://open.spotify.com/album/5DVTPLZ6UgNdnTxZr8BwHC"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/2dfocqbqtBiVdRyTECyyjf"
+    },
+    {
+      "album": {
+        "name": "No Way Out",
         "url": "https://open.spotify.com/album/691Gig8MDUNe2CtunjHPj6"
       },
       "artists": [
@@ -2682,7 +2722,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188307,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/6uR3Pr3DzBeXfgnADboooC"
@@ -3238,7 +3278,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Stunnin' (feat. Harm Franklin)",
       "url": "https://open.spotify.com/track/2JSmxLqt8h7ZpJJkfuLJvK"
@@ -3260,7 +3300,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144000,
       "name": "Stunnin' (feat. Harm Franklin) (Explicit)",
       "url": "https://open.spotify.com/track/1AZlrB115OgwTVA948JiTI"

@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 146645,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/2f3bnOItTiQNELrLBl5Ztc"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146645,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6uUmofdoXLelV2SQ0gSiBs"
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "70's Hits",
+        "url": "https://open.spotify.com/album/2uRb5ak9Qyo1nhlTViw8MZ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249253,
+      "name": "Baker Street - Edit",
+      "url": "https://open.spotify.com/track/5N5wKkqofPHfsMHtquybgF"
+    },
+    {
+      "album": {
         "name": "Classic Rock",
         "url": "https://open.spotify.com/album/2QaATxSGlkOmg7BhJfihl3"
       },
@@ -244,7 +262,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248826,
       "name": "Baker Street - Radio Edit",
       "url": "https://open.spotify.com/track/2OvXUMw8CmgU8fuaWiQ0fK"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274960,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 278693,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 372866,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 372813,
       "name": "Enjoy the Silence - 2006 Remaster",
       "url": "https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 155525,
       "name": "Fiel Enamorado",
       "url": "https://open.spotify.com/track/25oPfVNfZu0cSc4mUuJic7"
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155525,
       "name": "Fiel Enamorado",
       "url": "https://open.spotify.com/track/7M7Vfgtg3SRbRNPF3LSXGp"
@@ -1190,7 +1208,7 @@
     {
       "album": {
         "name": "Music Featured in \"Narcos\" Season 4",
-        "url": "https://open.spotify.com/album/0nOIGoDPdfv9AoJG3Y0Dh5"
+        "url": "https://open.spotify.com/album/2WCWhb7TgVkHjle6C3SUtU"
       },
       "artists": [
         {
@@ -1201,6 +1219,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 98999,
+      "name": "Flor de Orinoco",
+      "url": "https://open.spotify.com/track/0gG7at0g0UUvEu6E75p9Q6"
+    },
+    {
+      "album": {
+        "name": "Music Featured in \"Narcos\" Season 4",
+        "url": "https://open.spotify.com/album/0nOIGoDPdfv9AoJG3Y0Dh5"
+      },
+      "artists": [
+        {
+          "name": "Guy Lukowski",
+          "url": "https://open.spotify.com/artist/35Lkxkt757TcCkP82I2zHf"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 98999,
       "name": "Flor de Orinoco",
       "url": "https://open.spotify.com/track/1nDHqlwfxB5unIohRZO2vi"
@@ -1243,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Music Featured in \"Narcos\" Season 4",
+        "url": "https://open.spotify.com/album/2WCWhb7TgVkHjle6C3SUtU"
+      },
+      "artists": [
+        {
+          "name": "Anthony King",
+          "url": "https://open.spotify.com/artist/0cMCJ6yH6Dl6MnPgVBHuRf"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104346,
+      "name": "Four A.M",
+      "url": "https://open.spotify.com/track/21h6OBRJZbJLf43MBoxCHf"
+    },
+    {
+      "album": {
         "name": "1960s Cool Jazz",
         "url": "https://open.spotify.com/album/7tfaVHiHJqOxtjG9q7m7fh"
       },
@@ -1254,7 +1308,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104346,
       "name": "Four A.M",
       "url": "https://open.spotify.com/track/7eVhUvv2QSKv6uSsxsDaCx"
@@ -1510,7 +1564,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159453,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/3JJtV0X9UkseQeNq3ueGbM"
@@ -1528,7 +1582,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 159453,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/5cJeMWOdCPmoUxmfXQMqZh"
@@ -1572,7 +1626,7 @@
     {
       "album": {
         "name": "Syliphone, 40\u00e8me anniversaire, Vol. 2",
-        "url": "https://open.spotify.com/album/70vnxeeitOd14Roe0MYFr0"
+        "url": "https://open.spotify.com/album/4GfsDdf2zmoYxORNSRuIQ6"
       },
       "artists": [
         {
@@ -1583,6 +1637,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 286120,
+      "name": "Kadia Blues",
+      "url": "https://open.spotify.com/track/0Uyc6XwEwDeOIjgUiPdSgb"
+    },
+    {
+      "album": {
+        "name": "Syliphone, 40\u00e8me anniversaire, Vol. 2",
+        "url": "https://open.spotify.com/album/70vnxeeitOd14Roe0MYFr0"
+      },
+      "artists": [
+        {
+          "name": "Orchestre de la Paillote",
+          "url": "https://open.spotify.com/artist/1VOknf5hdVCEMuH9BoD2bF"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 286120,
       "name": "Kadia Blues",
       "url": "https://open.spotify.com/track/6W9zUJcakKsIBxw4yKfe2b"
@@ -1868,10 +1940,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168760,
       "name": "Los Ojos De Pancha",
       "url": "https://open.spotify.com/track/54HNHWS4n1tkOBv66qN7Lm"
+    },
+    {
+      "album": {
+        "name": "Bajando La Sierra",
+        "url": "https://open.spotify.com/album/4N6Yf9cQ85SV1rCnQvzMeN"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168829,
+      "name": "Los Ojos De Pancha",
+      "url": "https://open.spotify.com/track/5CVG0fsujGhCotH4lbrbVq"
     },
     {
       "album": {
@@ -1940,7 +2030,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172211,
       "name": "Maria Luisa",
       "url": "https://open.spotify.com/track/1ENQifGWL12IyWzq2JKrQ2"
@@ -1958,7 +2048,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 172212,
       "name": "Maria Luisa",
       "url": "https://open.spotify.com/track/0u9WSmDjetDnZp0ijtW6Mj"
@@ -1976,7 +2066,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 167720,
       "name": "Me Estas Olvidando",
       "url": "https://open.spotify.com/track/118Zh7ww83PyF7hhZEsdf1"
@@ -1994,10 +2084,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167720,
       "name": "Me Estas Olvidando",
       "url": "https://open.spotify.com/track/4tlSAWzLrwNMLDCO1lLGtW"
+    },
+    {
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/7JpnizHjHzyVmEwaa3YzPk"
+      },
+      "artists": [
+        {
+          "name": "Traffic Sound",
+          "url": "https://open.spotify.com/artist/2zDfxMt07hBq0Gdp93WcAa"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325400,
+      "name": "Meshkalina",
+      "url": "https://open.spotify.com/track/1NnQDWQJmEvFxOa80kC1cw"
     },
     {
       "album": {
@@ -2012,7 +2120,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325400,
       "name": "Meshkalina",
       "url": "https://open.spotify.com/track/1ZN3If2mKYhRtltBFo6IRY"
@@ -2248,7 +2356,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168866,
       "name": "Oro Falso",
       "url": "https://open.spotify.com/track/4u0aRgrsSnYEKEko0AtsBm"
@@ -2266,7 +2374,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 168866,
       "name": "Oro Falso",
       "url": "https://open.spotify.com/track/6WO2tX3R2aF6bomEowLqfQ"
@@ -2320,7 +2428,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/1X9IzjIAPlwibW4XkwFPHa"
@@ -2338,7 +2446,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178266,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/2XVYOgto4sMUCkUXzy5Iqc"
@@ -2450,7 +2558,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296466,
       "name": "Pop Muzik (12 Inch Version)",
       "url": "https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4"
@@ -2476,7 +2584,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 296466,
       "name": "Pop Muzik - 12 Inch Version",
       "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
@@ -2701,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound Of Colombia 1962 - 72 (Soundway Records)",
+        "url": "https://open.spotify.com/album/3xklLOSuR5dM2SwlLGyHIU"
+      },
+      "artists": [
+        {
+          "name": "Cantina Y Su Combo",
+          "url": "https://open.spotify.com/artist/4TPybqX1I0ZB2a91g4tY8S"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210853,
+      "name": "Santa Marta Cumbia",
+      "url": "https://open.spotify.com/track/1PUuvjFX5rvFAruqg4HYZt"
+    },
+    {
+      "album": {
         "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
         "url": "https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY"
       },
@@ -2712,7 +2838,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210853,
       "name": "Santa Marta Cumbia",
       "url": "https://open.spotify.com/track/2O3NdhVjt0cuWR4teNYOsZ"
@@ -2737,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Kubrick",
+        "url": "https://open.spotify.com/album/0BwFE93fXAkbMDlGApS4AY"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Sarabande (From \"Barry Lyndon\")",
+      "url": "https://open.spotify.com/track/30rslAeXSOl9o9RVXHcHCl"
+    },
+    {
+      "album": {
         "name": "Reel Chill",
         "url": "https://open.spotify.com/album/0mEAwgHQfcw9hQ1dyXNqzw"
       },
@@ -2752,7 +2896,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242120,
       "name": "Sarabande - From \"Barry Lyndon\"",
       "url": "https://open.spotify.com/track/1EjwahAfvGotwH5HBLEplT"
@@ -2796,7 +2940,7 @@
     {
       "album": {
         "name": "Innovative Life",
-        "url": "https://open.spotify.com/album/01xpSLUMbM1hIucsNQdgsD"
+        "url": "https://open.spotify.com/album/1PglD8sqJRRG7boaMDHmJV"
       },
       "artists": [
         {
@@ -2807,6 +2951,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278640,
+      "name": "Situation Hot",
+      "url": "https://open.spotify.com/track/0HqeIfiAbvwj5GGrO6xQtQ"
+    },
+    {
+      "album": {
+        "name": "Innovative Life",
+        "url": "https://open.spotify.com/album/01xpSLUMbM1hIucsNQdgsD"
+      },
+      "artists": [
+        {
+          "name": "Arabian Prince",
+          "url": "https://open.spotify.com/artist/5NMN8ahOjFuRoyYVjKGFGq"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 278640,
       "name": "Situation Hot",
       "url": "https://open.spotify.com/track/0jpIZubC70dCWpiwjte0wy"
@@ -3002,7 +3164,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157733,
       "name": "Te Fuistes",
       "url": "https://open.spotify.com/track/12pOLSkoQlKzIDT1TCHHMe"
@@ -3020,7 +3182,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 157733,
       "name": "Te Fuistes",
       "url": "https://open.spotify.com/track/37SBIe8UhpBoJNeozHTkGi"
@@ -3128,10 +3290,46 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254133,
       "name": "Tiahuanaco 2014",
       "url": "https://open.spotify.com/track/5jmpQH2vdv7bfbsldNmr1S"
+    },
+    {
+      "album": {
+        "name": "Salsa Pa Todo el Mundo",
+        "url": "https://open.spotify.com/album/2AvkxPZOAFxXkoCKZbypTe"
+      },
+      "artists": [
+        {
+          "name": "Alfredito Linares Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2rfWa1N0tdepG6ehLN0KZ6"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "Tiahuanaco 2014",
+      "url": "https://open.spotify.com/track/1HT74rq1VrebTngXrcwgFY"
+    },
+    {
+      "album": {
+        "name": "Guitarra Internacional",
+        "url": "https://open.spotify.com/album/4CS5Hw16ej3R1IbESH9jax"
+      },
+      "artists": [
+        {
+          "name": "Miguel Alcaide",
+          "url": "https://open.spotify.com/artist/6W3Shyqt3OdymZ3uiyF6Bf"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178040,
+      "name": "Tico Tico",
+      "url": "https://open.spotify.com/track/4GHhgiceOfEqdxlM9ZNL3g"
     },
     {
       "album": {
@@ -3164,7 +3362,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180666,
       "name": "Tico Tico",
       "url": "https://open.spotify.com/track/7ajj4Jgw0JJMNzvRogOE8h"
@@ -3218,7 +3416,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 171026,
       "name": "Un Mal Paso",
       "url": "https://open.spotify.com/track/3bq2CvGqasgE41VsEKqxFU"
@@ -3236,7 +3434,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171026,
       "name": "Un Mal Paso",
       "url": "https://open.spotify.com/track/6WOcBPFPFC1Od55wbkB9IH"
@@ -3402,7 +3600,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 570280,
       "name": "Who're You",
       "url": "https://open.spotify.com/track/3kqckRQ4p8tsqgTIoseosr"
@@ -3420,7 +3618,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 570280,
       "name": "Who're You",
       "url": "https://open.spotify.com/track/4tmwN5EgWlC8SSHMxzD7fo"

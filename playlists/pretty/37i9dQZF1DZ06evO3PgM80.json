@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 18829,
+  "num_followers": 18836,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDlmNTM3MDIyYjZkYzM2NDI3YjljZDQ0N2VjODhhMjA1",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGQxZmM5OTMyMzUxM2ZjODk0ZTU3ZTJiNjBmOTQ5M2Y1",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438653,
-      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vem",
         "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 382880,
       "name": "Vem",
       "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438653,
+      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
     },
     {
       "added_at": null,

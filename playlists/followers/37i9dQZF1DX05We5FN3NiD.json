@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 43524,
+  "2024-04-19": 43553,
   "date_first_scraped": "2022-09-17",
   "description": "2019 highlights from the home of indie music.",
   "name": "Best of Indie 2019",
@@ -97,6 +97,24 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+    },
+    {
+      "album": {
+        "name": "Miss Universe",
+        "url": "https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281170,
+      "name": "Baby Blu",
+      "url": "https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz"
     },
     {
       "album": {
@@ -2335,7 +2353,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 199320,
       "name": "Turn The Light",
       "url": "https://open.spotify.com/track/3gIGGjvUXexyUKLQsGsE4n"

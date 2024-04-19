@@ -90,8 +90,8 @@
           "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
         },
         {
-          "name": "Vignesh Srikanth",
-          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
         }
       ],
       "date_added": "2024-04-15",
@@ -606,7 +606,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199398,
       "name": "Dharala Prabhu Title Track",
       "url": "https://open.spotify.com/track/7MtK3lPdVPq2WGO6EWHB9V"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201777,
       "name": "Koranaaru (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/1hQCcHIb2x6NNrx547yTPP"
@@ -1389,7 +1389,7 @@
         },
         {
           "name": "Deva",
-          "url": "https://open.spotify.com/artist/3uVi0q6DLwjjLZTzs51zO1"
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
         },
         {
           "name": "Santhosh Hariharan",
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 201777,
       "name": "Koranaaru (From \"Captain Miller\") (Tamil)",
       "url": "https://open.spotify.com/track/27nmLlAoTajIHORlx6SBa6"
@@ -1436,6 +1436,32 @@
     {
       "album": {
         "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
+        "url": "https://open.spotify.com/album/50gPcC24AhRmimWeHZGGYf"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236025,
+      "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
+      "url": "https://open.spotify.com/track/65mFo8Otbl5FBsg82kWsWR"
+    },
+    {
+      "album": {
+        "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
         "url": "https://open.spotify.com/album/5p6Zi9WXx6sEjdKAa7SBYY"
       },
       "artists": [
@@ -1446,7 +1472,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236025,
       "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/0NNZnx8h1QdmSXOg9SBJlO"
@@ -2400,7 +2426,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 304670,
       "name": "Scene Ah Scene Ah",
       "url": "https://open.spotify.com/track/07CD0VJv0jGRNM0YAi1fRi"
@@ -2430,7 +2456,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304670,
       "name": "Scene Ah Scene Ah (From \"Maaveeran\")",
       "url": "https://open.spotify.com/track/4oH2lx7TZEE00dsxgQsBJr"
@@ -2626,6 +2652,32 @@
       "duration_ms": 168506,
       "name": "Thaalam",
       "url": "https://open.spotify.com/track/7dIyC8fFRmYYevMQrUCYAP"
+    },
+    {
+      "album": {
+        "name": "Thala Forever - Whistle for Dhoni",
+        "url": "https://open.spotify.com/album/2ZQjEJaQHe2opILdX8eHik"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Narendar Sankar",
+          "url": "https://open.spotify.com/artist/2sHlh9GXbnnLWMLKT3RqPG"
+        },
+        {
+          "name": "Arish",
+          "url": "https://open.spotify.com/artist/4Rdq83q6jEyKm1d93sMHqX"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208070,
+      "name": "Thala Forever - Whistle for Dhoni",
+      "url": "https://open.spotify.com/track/3ksNJELawyxwq4fLdKTPcV"
     },
     {
       "album": {
@@ -2926,7 +2978,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228257,
       "name": "Vaathi Coming (From \"Master\")",
       "url": "https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip"
@@ -2956,7 +3008,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206470,
       "name": "Vaathi Kabaddi (From \"Master\")",
       "url": "https://open.spotify.com/track/7uMf1DQzEMqgJOSQgc5K2Y"
@@ -2978,7 +3030,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"
@@ -3004,6 +3056,36 @@
       "duration_ms": 252800,
       "name": "Vandha Edam (From \"Jawan\")",
       "url": "https://open.spotify.com/track/1qiTVMkwHOy7bD8DCU460Q"
+    },
+    {
+      "album": {
+        "name": "Veeran Thiruvizha (From \"Veeran\")",
+        "url": "https://open.spotify.com/album/3pkFcrsLbgspPZkLRg3Q5r"
+      },
+      "artists": [
+        {
+          "name": "Muthu Sirpi",
+          "url": "https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm"
+        },
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        },
+        {
+          "name": "Pranavam Sasi",
+          "url": "https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R"
+        },
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221854,
+      "name": "Veeran Thiruvizha (From \"Veeran\")",
+      "url": "https://open.spotify.com/track/52TKvbodnvPjZYRiQdmGwY"
     },
     {
       "album": {
@@ -3034,7 +3116,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221854,
       "name": "Veeran Thiruvizha (From \"Veeran\")",
       "url": "https://open.spotify.com/track/4RgswzHJdeY8YhzEknzQwy"

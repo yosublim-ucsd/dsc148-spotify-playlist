@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11377,
+  "num_followers": 11392,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Galactic Highways",
-        "url": "https://open.spotify.com/album/59XJByKOEnmxePXKvKfTmY"
+        "name": "Gasolina",
+        "url": "https://open.spotify.com/album/6SDAXKA5lyCHjIjvDgKArc"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Teto Preto",
+          "url": "https://open.spotify.com/artist/71SeHRvF7QAnG8kSC9qbW5"
         }
       ],
-      "duration_ms": 357699,
-      "name": "Galactic Highways",
-      "url": "https://open.spotify.com/track/6k3EWtjkh3aAGVodMgk8fv"
+      "duration_ms": 466000,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/7rCNFbBjRhFedDMagiH32L"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -55,22 +55,6 @@
       "duration_ms": 234632,
       "name": "VO SOC\u00c1",
       "url": "https://open.spotify.com/track/4aO70Qd15wxqQxUhgeTn1P"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Gasolina",
-        "url": "https://open.spotify.com/album/6SDAXKA5lyCHjIjvDgKArc"
-      },
-      "artists": [
-        {
-          "name": "Teto Preto",
-          "url": "https://open.spotify.com/artist/71SeHRvF7QAnG8kSC9qbW5"
-        }
-      ],
-      "duration_ms": 466000,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/7rCNFbBjRhFedDMagiH32L"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -127,74 +111,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "DEUSA DO BRASIL",
-        "url": "https://open.spotify.com/album/5YvvoWgsTWV0LOFOizkv1Z"
-      },
-      "artists": [
-        {
-          "name": "Clementaum",
-          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
-        },
-        {
-          "name": "Umatheusa",
-          "url": "https://open.spotify.com/artist/0AdLEkAV9jGqB9ETwSZbJ5"
-        }
-      ],
-      "duration_ms": 176001,
-      "name": "DEUSA DO BRASIL",
-      "url": "https://open.spotify.com/track/1b84zRNSPUMopOZSe2F4hv"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Machooka",
-        "url": "https://open.spotify.com/album/2LyS6BUbTN5dK2kIFPbXIT"
-      },
-      "artists": [
-        {
-          "name": "BADSISTA",
-          "url": "https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb"
-        }
-      ],
-      "duration_ms": 215764,
-      "name": "Machooka",
-      "url": "https://open.spotify.com/track/6fsL0sv1oEm97D6qk2L0Vh"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Energy Sync",
-        "url": "https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F"
-      },
-      "artists": [
-        {
-          "name": "Terr",
-          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
-        }
-      ],
-      "duration_ms": 397107,
-      "name": "Energy Sync - Club Mix",
-      "url": "https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Rita Lee & Roberto - Classix Remix Vol. III",
         "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
       },
@@ -215,6 +131,42 @@
       "duration_ms": 421463,
       "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
       "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "DEUSA DO BRASIL",
+        "url": "https://open.spotify.com/album/5YvvoWgsTWV0LOFOizkv1Z"
+      },
+      "artists": [
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        },
+        {
+          "name": "Umatheusa",
+          "url": "https://open.spotify.com/artist/0AdLEkAV9jGqB9ETwSZbJ5"
+        }
+      ],
+      "duration_ms": 176001,
+      "name": "DEUSA DO BRASIL",
+      "url": "https://open.spotify.com/track/1b84zRNSPUMopOZSe2F4hv"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -251,22 +203,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Geleia de Morango",
-        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
-      },
-      "artists": [
-        {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
-        }
-      ],
-      "duration_ms": 349250,
-      "name": "Geleia de Morango",
-      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "mate & morra",
         "url": "https://open.spotify.com/album/2sAvfIryVuCAbCIcewxEOq"
       },
@@ -287,6 +223,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Geleia de Morango",
+        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
+      },
+      "artists": [
+        {
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+        }
+      ],
+      "duration_ms": 349250,
+      "name": "Geleia de Morango",
+      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Parente Neon",
         "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
       },
@@ -299,22 +251,6 @@
       "duration_ms": 149538,
       "name": "Moleque Vampiro",
       "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Pared\u00e3o",
-        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 258005,
-      "name": "De AK em Cima da CB1000",
-      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -423,22 +359,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Ideologia Chinesa",
-        "url": "https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt"
-      },
-      "artists": [
-        {
-          "name": "Pessoas Que Eu Conhe\u00e7o",
-          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
-        }
-      ],
-      "duration_ms": 323629,
-      "name": "House Aprovado Pelo Governo",
-      "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Benzine EP",
         "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
       },
@@ -455,22 +375,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
       },
       "artists": [
         {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
         }
       ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+      "duration_ms": 344741,
+      "name": "Charme",
+      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -503,6 +419,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
       },
@@ -519,22 +455,6 @@
       "duration_ms": 257600,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 344741,
-      "name": "Charme",
-      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -559,50 +479,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Keyboard Cats EP",
-        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
-      },
-      "artists": [
-        {
-          "name": "Amanda Mussi",
-          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
-        }
-      ],
-      "duration_ms": 369924,
-      "name": "Keyboard Cats",
-      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Proibidao EP",
-        "url": "https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj"
-      },
-      "artists": [
-        {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
-        },
-        {
-          "name": "Rosco Sledge",
-          "url": "https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5"
-        },
-        {
-          "name": "Selvagem",
-          "url": "https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt"
-        },
-        {
-          "name": "Trepanado",
-          "url": "https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ"
-        }
-      ],
-      "duration_ms": 398048,
-      "name": "Proibidao - Selvagem / Trepanado Remix",
-      "url": "https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kin Sharuba",
         "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
@@ -615,22 +491,6 @@
       "duration_ms": 469695,
       "name": "Kin Sharuba",
       "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
-      },
-      "artists": [
-        {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
-        }
-      ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -671,54 +531,42 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        }
+      ],
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Ch\u00e1 de trombeta",
+        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
       "artists": [
         {
           "name": "Entropia-Entalpia",
           "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        }
-      ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "V.Acina, Vol.1",
-        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
-      },
-      "artists": [
-        {
-          "name": "Gabto",
-          "url": "https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP"
         },
         {
-          "name": "Kauan Marco",
-          "url": "https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo"
-        }
-      ],
-      "duration_ms": 357128,
-      "name": "Dance n' Casa",
-      "url": "https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
-      },
-      "artists": [
+          "name": "Fel C",
+          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
+        },
         {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+          "name": "Bica",
+          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
         }
       ],
-      "duration_ms": 266133,
-      "name": "Orange Sunlight",
-      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
+      "duration_ms": 420000,
+      "name": "Ch\u00e1 de trombeta",
+      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -755,6 +603,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Sem Sono",
+        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+      },
+      "artists": [
+        {
+          "name": "Martinelli",
+          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+        }
+      ],
+      "duration_ms": 337643,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Conexao Riocife",
         "url": "https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp"
       },
@@ -775,42 +639,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Laiarai\u00e1 (Remixes)",
-        "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
       },
       "artists": [
         {
-          "name": "Henrique Portugal",
-          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "LOV.ini",
-          "url": "https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z"
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Laiarai\u00e1 (LOV.ini Remix)",
-      "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Sem Sono",
-        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
-      },
-      "artists": [
-        {
-          "name": "Martinelli",
-          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
-        }
-      ],
-      "duration_ms": 337643,
-      "name": "Sem Sono",
-      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -831,30 +671,6 @@
       "duration_ms": 303161,
       "name": "Corpo Fechado",
       "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Ch\u00e1 de trombeta",
-        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        },
-        {
-          "name": "Fel C",
-          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
-        },
-        {
-          "name": "Bica",
-          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Ch\u00e1 de trombeta",
-      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -891,18 +707,186 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Escola da Rua",
-        "url": "https://open.spotify.com/album/5KyTwDNDcc7IbZbobI8MxT"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
       },
       "artists": [
         {
-          "name": "Kauan Marco",
-          "url": "https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo"
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
         }
       ],
-      "duration_ms": 309677,
-      "name": "A Man Called Cory",
-      "url": "https://open.spotify.com/track/0ThxTOnrmRXc44u4dkNsR2"
+      "duration_ms": 432000,
+      "name": "Shine - Dance Version",
+      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Bajolo Vol. I",
+        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
+      },
+      "artists": [
+        {
+          "name": "Carrot Green",
+          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
+        }
+      ],
+      "duration_ms": 384480,
+      "name": "Vou Pra Longe (Floatin')",
+      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Kengaral Eletrohits, Vol. 1",
+        "url": "https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk"
+      },
+      "artists": [
+        {
+          "name": "Mari Herzer",
+          "url": "https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw"
+        }
+      ],
+      "duration_ms": 329500,
+      "name": "Autoconstru\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "V.A. Odara Vol.1 - Arde Mas Aguenta",
+        "url": "https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt"
+      },
+      "artists": [
+        {
+          "name": "Gabto",
+          "url": "https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP"
+        }
+      ],
+      "duration_ms": 376467,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Quando o Tempo d\u00e1 um Tempo",
+        "url": "https://open.spotify.com/album/394surSicOxNpbQV6tMSDC"
+      },
+      "artists": [
+        {
+          "name": "Kika Deeke",
+          "url": "https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE"
+        }
+      ],
+      "duration_ms": 308210,
+      "name": "Minguante",
+      "url": "https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Our Spacial Place",
+        "url": "https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3"
+      },
+      "artists": [
+        {
+          "name": "n\u00f8rus",
+          "url": "https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz"
+        }
+      ],
+      "duration_ms": 440000,
+      "name": "If I Never See U Again",
+      "url": "https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "VA IFN 001 - Techno Concept",
+        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 311129,
+      "name": "Fixity - Original Mix",
+      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Incarne",
+        "url": "https://open.spotify.com/album/4Zg2HeCfAX1Yb6arpZxv3s"
+      },
+      "artists": [
+        {
+          "name": "Tin Man",
+          "url": "https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK"
+        },
+        {
+          "name": "Davis",
+          "url": "https://open.spotify.com/artist/5eF6YOSwkaoA4qUp3J6SYc"
+        },
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 483006,
+      "name": "Incarne",
+      "url": "https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Easytiiger__001",
+        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
+      },
+      "artists": [
+        {
+          "name": "Mootron",
+          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "No Rave",
+      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/1cNxz3fo05EMxvqloj6Mn1"
+      },
+      "artists": [
+        {
+          "name": "Vermelho Wonder",
+          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Espelho (Malka Synthpop Rework)",
+      "url": "https://open.spotify.com/track/6aFLnRoJcUtnk1C5ZYGwL9"
     }
   ],
   "unique_name": "Front BR",

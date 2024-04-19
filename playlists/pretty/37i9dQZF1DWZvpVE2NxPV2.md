@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,408 likes - 159 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,508 likes - 159 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 109 | [Breathing Fresh Air \(Meditation\)](https://open.spotify.com/track/2wj2XZSRNcHuqHGgMwbUFe) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Breathing Fresh Air](https://open.spotify.com/album/4J8dh4zW2wYChtJZo8gIrj) | 3:52 |
 | 110 | [Walking Alongside the Gates of Heaven](https://open.spotify.com/track/6vOynuMgg62np7cBtV5qjk) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:04 |
 | 111 | [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 |
-| 112 | [Aspettami](https://open.spotify.com/track/06eKIv3GcoevTNVVyldzWw) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/0M7H8emADLzJH0cEOJ0zSB) | 2:05 |
+| 112 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 |
 | 113 | [Ledande Ljus](https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 |
 | 114 | [Om 432](https://open.spotify.com/track/4szL2rd05eMqb7vD27m6LK) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Om 432](https://open.spotify.com/album/7eDW71RjIS8WcDN79v4qE1) | 3:04 |
 | 115 | [Soul Sanctuary](https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Soul Sanctuary](https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH) | 3:17 |

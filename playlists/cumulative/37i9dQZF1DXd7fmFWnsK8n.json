@@ -158,7 +158,7 @@
     {
       "album": {
         "name": "Binary Vampire",
-        "url": "https://open.spotify.com/album/7Cc5sSu8MYibND5g4jK33J"
+        "url": "https://open.spotify.com/album/3P1sruyVLDOt5h8bO4vaIc"
       },
       "artists": [
         {
@@ -169,6 +169,24 @@
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Binary Vampire",
+      "url": "https://open.spotify.com/track/0hRjjmx3sLhmZsNVtyBRhc"
+    },
+    {
+      "album": {
+        "name": "Binary Vampire",
+        "url": "https://open.spotify.com/album/7Cc5sSu8MYibND5g4jK33J"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 211653,
       "name": "Binary Vampire",
       "url": "https://open.spotify.com/track/1kweGaOuEAeP4Jpby7sREy"
@@ -472,10 +490,32 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221760,
       "name": "Don't Analyze Me",
       "url": "https://open.spotify.com/track/0CmAuHBBggyxEhpy5KIxzG"
+    },
+    {
+      "album": {
+        "name": "Don't Analyze Me",
+        "url": "https://open.spotify.com/album/6h7S3OGLFlGfebxIDahy8K"
+      },
+      "artists": [
+        {
+          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
+          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
+        },
+        {
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221760,
+      "name": "Don't Analyze Me",
+      "url": "https://open.spotify.com/track/3HQAz5xbHddYgKSyqVlyEe"
     },
     {
       "album": {
@@ -708,7 +748,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192080,
       "name": "Haru no Yo no Yume",
       "url": "https://open.spotify.com/track/1v6HkMSPtQkYzEm1KPDiTa"
@@ -1130,7 +1170,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 288400,
       "name": "miss you...",
       "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
@@ -1872,10 +1912,40 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216946,
       "name": "Take my rose",
       "url": "https://open.spotify.com/track/4LwRwNdOtEFlFUPCTBlCDM"
+    },
+    {
+      "album": {
+        "name": "Take my rose",
+        "url": "https://open.spotify.com/album/4nJyeH7cjJ0fIwNtRU3jf4"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+        },
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
+        },
+        {
+          "name": "\u767e (CV.\u4fdd\u5fd7\u7dcf\u4e00\u6717)",
+          "url": "https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9"
+        },
+        {
+          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
+          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "Take my rose",
+      "url": "https://open.spotify.com/track/3II5q9WqmuH8JbwbjRKmoQ"
     },
     {
       "album": {
@@ -2094,7 +2164,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260560,
       "name": "Unfoggy Sight",
       "url": "https://open.spotify.com/track/1fzRdHYdn1BB9nNDh51AQr"
@@ -2120,7 +2190,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "Unfoggy Sight",
       "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
@@ -2481,6 +2551,32 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30eb\u30ce\u30e8\u30ce\u30e6\u30e1",
+        "url": "https://open.spotify.com/album/51KH1bvI23HtXxA40XVAR3"
+      },
+      "artists": [
+        {
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+        },
+        {
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
+        },
+        {
+          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "\u30cf\u30eb\u30ce\u30e8\u30ce\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/2ddtypjhCu2YFfgRLVSeWg"
+    },
+    {
+      "album": {
         "name": "VARIANT",
         "url": "https://open.spotify.com/album/5n3Xy8ZGY9kRNJ1TGpq2VV"
       },
@@ -2536,7 +2632,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310600,
       "name": "\u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0",
       "url": "https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2"
@@ -2724,7 +2820,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279266,
       "name": "\u604b\u306e\u304b\u3051\u3089",
       "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"
@@ -2778,7 +2874,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232893,
       "name": "\u672a\u6765\u7d75",
       "url": "https://open.spotify.com/track/0rrHfKEeBrsEXITZErWIyr"

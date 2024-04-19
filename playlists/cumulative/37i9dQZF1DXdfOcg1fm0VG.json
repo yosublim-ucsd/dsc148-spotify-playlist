@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338240,
       "name": "(Theme From) Red Dead Redemption",
       "url": "https://open.spotify.com/track/4BL3XnXe40ZS2YuRXWS4wX"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 338240,
       "name": "(Theme From) Red Dead Redemption",
       "url": "https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192426,
       "name": "9999999",
       "url": "https://open.spotify.com/track/4vdsb4vl6VtGmUwFteOeWA"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192426,
       "name": "9999999",
       "url": "https://open.spotify.com/track/7cb5qcpZusQZv5FVnj4sRg"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 239811,
       "name": "A Plague Tale Requiem",
       "url": "https://open.spotify.com/track/6QTIrIYGPNDpbcV961TJS1"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240174,
       "name": "A Plague Tale Requiem",
       "url": "https://open.spotify.com/track/7gsabNOGAMEaJyusi5pUt3"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 62000,
       "name": "Adventure Found Me",
       "url": "https://open.spotify.com/track/4JFqLr1cF9jWwVOCdQ69wd"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 62000,
       "name": "Adventure Found Me",
       "url": "https://open.spotify.com/track/6DGUzh0i57qQRHIjWL2W4m"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 151124,
       "name": "Aloy's Theme (feat. Julie Elven) - Part 1 - Motherland",
       "url": "https://open.spotify.com/track/14Raww1VcizsEpQQpbEqbd"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151124,
       "name": "Aloy's Theme (feat. Julie Elven) - Part 1 - Motherland",
       "url": "https://open.spotify.com/track/5d1EmpjegN3JqRH3KIOJEB"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195173,
       "name": "Assassin's Creed Valhalla Main Theme (feat. Einar Selvik)",
       "url": "https://open.spotify.com/track/59FMS2jznmqwLYx1Noa6H4"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 195440,
       "name": "Assassin's Creed Valhalla Main Theme (feat. Einar Selvik)",
       "url": "https://open.spotify.com/track/2hQIeYuMXRrvCASE6kB37E"
@@ -465,6 +465,32 @@
     },
     {
       "album": {
+        "name": "Tales of Arise - Beyond the Dawn (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1YQXfr59bJSE9bvdi4jy1m"
+      },
+      "artists": [
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        },
+        {
+          "name": "Tales of Series Sound Team",
+          "url": "https://open.spotify.com/artist/7AkMAVMGgyXoVJel1lgVO4"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97029,
+      "name": "Beyond the Dawn",
+      "url": "https://open.spotify.com/track/2fSXpnPjqPuRfp1xxm4G3R"
+    },
+    {
+      "album": {
         "name": "TALES OF ARISE - Beyond the Dawn Original Soundtrack",
         "url": "https://open.spotify.com/album/2HL2ppkJtrzXl1lu96JVGY"
       },
@@ -484,7 +510,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97029,
       "name": "Beyond the Dawn",
       "url": "https://open.spotify.com/track/1alyWxibSGkmwbwZYy9Hhe"
@@ -502,7 +528,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Bloodhunt Main Theme",
       "url": "https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m"
@@ -520,7 +546,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177000,
       "name": "Bloodhunt Main Theme",
       "url": "https://open.spotify.com/track/5YccTgIOcpRp4OUZpUSzC2"
@@ -640,7 +666,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 48629,
       "name": "Crash Bandicoot Main Theme",
       "url": "https://open.spotify.com/track/6LtiYg9rZXcqeonqFnGrQx"
@@ -658,7 +684,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 48630,
       "name": "Crash Bandicoot Main Theme",
       "url": "https://open.spotify.com/track/73gyiXLAKUUtX8sAiE2gGV"
@@ -1016,7 +1042,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218708,
       "name": "First Steps",
       "url": "https://open.spotify.com/track/03EyMyy76ZYLUh3lvGrNgE"
@@ -1034,7 +1060,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218708,
       "name": "First Steps",
       "url": "https://open.spotify.com/track/4MsC3bu5B8WQGHQjOoH2NG"
@@ -1056,7 +1082,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231360,
       "name": "Flame of Hope",
       "url": "https://open.spotify.com/track/2LRj7dos9qXcoMSJZ7E9xy"
@@ -1074,7 +1100,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 231360,
       "name": "Flame of Hope",
       "url": "https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM"
@@ -1150,7 +1176,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 141993,
       "name": "Geralt Of Rivia",
       "url": "https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv"
@@ -1168,7 +1194,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141993,
       "name": "Geralt Of Rivia",
       "url": "https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8"
@@ -1248,7 +1274,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 274666,
       "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/1K6kU7xS4BbYabECcpTA5O"
@@ -1270,7 +1296,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274666,
       "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu"
@@ -1354,7 +1380,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6DhcuZbi4FW28RLicWNmmx"
@@ -1376,7 +1402,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0htrx26DcVDcyXErXyJsTo"
@@ -1470,7 +1496,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Hostage - Connor",
       "url": "https://open.spotify.com/track/0OEZKBDeAOdqXFA4NPh1S4"
@@ -1506,7 +1532,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172000,
       "name": "Hostage - Connor",
       "url": "https://open.spotify.com/track/2lux5JzRo8SBpwjMWurAHb"
@@ -1656,7 +1682,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 221440,
       "name": "Kingdom of Wessex",
       "url": "https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B"
@@ -1678,7 +1704,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221440,
       "name": "Kingdom of Wessex",
       "url": "https://open.spotify.com/track/3wNSZ0ZowXgUeO4sEEHMRw"
@@ -1758,7 +1784,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123720,
       "name": "Leaving Earth",
       "url": "https://open.spotify.com/track/1ZUwoCWz8rJqzBTwtdscPN"
@@ -1776,7 +1802,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123720,
       "name": "Leaving Earth",
       "url": "https://open.spotify.com/track/1LpFMCykhFSQPWzNgxcvFs"
@@ -2002,7 +2028,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106960,
       "name": "Nascence",
       "url": "https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W"
@@ -2020,7 +2046,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 106960,
       "name": "Nascence",
       "url": "https://open.spotify.com/track/6zcP5A5Xv6bvCUpwXrswKa"
@@ -2038,7 +2064,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105515,
       "name": "Nate's Theme 2.0",
       "url": "https://open.spotify.com/track/0tYeu9EIruakcoksqC6991"
@@ -2056,7 +2082,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 105515,
       "name": "Nate's Theme 2.0",
       "url": "https://open.spotify.com/track/2xJCwA0WygA4INcY2tMQ5g"
@@ -2651,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Elden Ring (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gCFzRRO5acruR4y4QhIuI"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Saitoh",
+          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298444,
+      "name": "The Final Battle",
+      "url": "https://open.spotify.com/track/1nspl7hBhdl6W6GQzbn3V1"
+    },
+    {
+      "album": {
         "name": "Elden Ring (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
       },
@@ -2662,7 +2706,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298444,
       "name": "The Final Battle",
       "url": "https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ"
@@ -2838,7 +2882,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 376441,
       "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
       "url": "https://open.spotify.com/track/6QZXrA53z0pp9skkQHKwBa"
@@ -2908,7 +2952,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376441,
       "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
       "url": "https://open.spotify.com/track/7H3Ew1qOhm2cmSEau9mtPv"
@@ -3158,7 +3202,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193840,
       "name": "Tomb Raider Theme",
       "url": "https://open.spotify.com/track/1BJtsYb9mSh8y9BW6pB71N"
@@ -3176,7 +3220,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 193840,
       "name": "Tomb Raider Theme",
       "url": "https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f"
@@ -3194,7 +3238,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 43233,
       "name": "Triage at Dawn",
       "url": "https://open.spotify.com/track/3EAX272za8qK7lZziGwDDy"
@@ -3212,7 +3256,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 43233,
       "name": "Triage at Dawn",
       "url": "https://open.spotify.com/track/7Iu08xvGoJhOWGxqRN4Hyh"
@@ -3230,7 +3274,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 288876,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ"
@@ -3248,7 +3292,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288876,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/7hqCX9nPUOnFYk4q1XKq3e"
@@ -3324,7 +3368,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321093,
       "name": "Welcome Aboard The U.S.G. Ishimura",
       "url": "https://open.spotify.com/track/7dLtnUKOtrZ3CvQ3SMkpg8"
@@ -3346,7 +3390,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320788,
       "name": "Welcome Aboard The U.S.G. Ishimura",
       "url": "https://open.spotify.com/track/0albZjbwvxiUOEltWXj1ao"
@@ -3390,7 +3434,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189137,
       "name": "Whatever Comes (feat. Julie Elven & Melissa R. Kaplan)",
       "url": "https://open.spotify.com/track/5DXfjB2KmTcbaTrzjI6DWr"
@@ -3416,7 +3460,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189137,
       "name": "Whatever Comes (feat. Julie Elven & Melissa R. Kaplan)",
       "url": "https://open.spotify.com/track/6qV7yy8DwETobwsJgTLSCe"

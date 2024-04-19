@@ -24,7 +24,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 506940,
       "name": "Blumine",
       "url": "https://open.spotify.com/track/4mgLcAlGVuDgWkioFpZdx4"
@@ -54,48 +54,6 @@
       "duration_ms": 612760,
       "name": "Das himmlische Leben",
       "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
-    },
-    {
-      "album": {
-        "name": "Mahler: Das klagende Lied / Berg: Lulu-Suite",
-        "url": "https://open.spotify.com/album/4Ov78YRYesjbQrwv3QNRyh"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Dorothea R\u00f6schmann",
-          "url": "https://open.spotify.com/artist/2OSNMmbTJZZ1k7hIUCxlsY"
-        },
-        {
-          "name": "Anna Larsson",
-          "url": "https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN"
-        },
-        {
-          "name": "Johan Botha",
-          "url": "https://open.spotify.com/artist/4nBHLeDunbOoRTKh58wiEV"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        }
-      ],
-      "date_added": "2020-02-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 241093,
-      "name": "Das Klagende Lied / Pt. 2: Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live From Festspielhaus, Salzburg / 2011",
-      "url": "https://open.spotify.com/track/30zTMjRPtzMxZzVeVWEt4L"
     },
     {
       "album": {
@@ -141,6 +99,48 @@
     },
     {
       "album": {
+        "name": "Mahler: Das klagende Lied / Berg: Lulu-Suite",
+        "url": "https://open.spotify.com/album/4Ov78YRYesjbQrwv3QNRyh"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Dorothea R\u00f6schmann",
+          "url": "https://open.spotify.com/artist/2OSNMmbTJZZ1k7hIUCxlsY"
+        },
+        {
+          "name": "Anna Larsson",
+          "url": "https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN"
+        },
+        {
+          "name": "Johan Botha",
+          "url": "https://open.spotify.com/artist/4nBHLeDunbOoRTKh58wiEV"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "Wiener Staatsopernchor",
+          "url": "https://open.spotify.com/artist/6IimpgX9XQY41o0p4EuuHL"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Das Klagende Lied / Pt. 2: Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live From Festspielhaus, Salzburg / 2011",
+      "url": "https://open.spotify.com/track/30zTMjRPtzMxZzVeVWEt4L"
+    },
+    {
+      "album": {
         "name": "Boulez - Mahler",
         "url": "https://open.spotify.com/album/6wroBOCYmubAhwCb3yigIK"
       },
@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241093,
       "name": "Das Klagende Lied / Pt. 2: Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live From Festspielhaus, Salzburg / 2011",
       "url": "https://open.spotify.com/track/5yGpRXOFuki10rtqMWR2Y0"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 570586,
       "name": "Das Lied von der Erde (Song of the Earth): II. Der Einsame im Herbst (The Lonely One in Autumn)",
       "url": "https://open.spotify.com/track/0M8f4M5NRFuLkOm6RnPrtG"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1784293,
       "name": "Das Lied von der Erde (Song of the Earth): VI. Der Abschied (The Farewell)",
       "url": "https://open.spotify.com/track/1MgSNJghZVPGdSTMECzkMx"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 570586,
       "name": "Das Lied von der Erde: II. Der Einsame im Herbst (the Lonely One in Autumn)",
       "url": "https://open.spotify.com/track/2kTlRMiZlwwDlznr1QHDdY"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1784293,
       "name": "Das Lied von der Erde: VI. Der Abschied (the Farewell)",
       "url": "https://open.spotify.com/track/7aqhMfjjAYl6KTKI36Y7UE"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 509000,
       "name": "Des Knaben Wunderhorn: Wo die sch\u00f6nen Trompeten blasen - Live",
       "url": "https://open.spotify.com/track/0sfRQ0SpAlkzpke2y5T44Z"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1324586,
       "name": "I. Allegro maestoso",
       "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336967,
       "name": "Kindertotenlieder: In diesem Wetter",
       "url": "https://open.spotify.com/track/18F4kGlmsGOkjhaymciS9V"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 336967,
       "name": "Kindertotenlieder: In diesem Wetter",
       "url": "https://open.spotify.com/track/1auxLW7t1R28WqMs4zv05k"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 506931,
       "name": "Mahler: Blumine",
       "url": "https://open.spotify.com/track/2HoYwWckSvq3DCA48B7M5Y"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 660750,
       "name": "Piano Quartet in A minor (1876) Quartet for piano, violin, viola and cello: 1. Nicht zu schnell",
       "url": "https://open.spotify.com/track/7C8FVQPzPq756M9F9sHTZz"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 664000,
       "name": "Piano Quartet in A minor (1876) Quartet for piano, violin, viola and cello: 1. Nicht zu schnell",
       "url": "https://open.spotify.com/track/5ZWMSt8teEueoBW6mE1kqq"
@@ -1181,36 +1181,6 @@
     },
     {
       "album": {
-        "name": "Boulez - Mahler",
-        "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "date_added": "2020-02-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 172906,
-      "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
-      "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
-    },
-    {
-      "album": {
         "name": "Mahler: Des Knaben Wunderhorn; Adagio from Symphony No.10",
         "url": "https://open.spotify.com/album/3zDmMuKVskRiIBL3da9izQ"
       },
@@ -1234,10 +1204,40 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172906,
       "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
       "url": "https://open.spotify.com/track/5EuMyXy4CU3Ap10UfaZFdL"
+    },
+    {
+      "album": {
+        "name": "Boulez - Mahler",
+        "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
+      "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
     },
     {
       "album": {
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 509000,
       "name": "Songs From \"Des Knaben Wunderhorn\": Wo die sch\u00f6nen Trompeten blasen - Live",
       "url": "https://open.spotify.com/track/5UPrNbCf0f3Ben8ncNNkOh"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 446973,
       "name": "Symphony No. 1 in D Major \"Titan\": II. Kraftig bewegt, doch nicht zu schnell",
       "url": "https://open.spotify.com/track/4KCXImejmRO09bfsOP2LnB"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 452000,
       "name": "Symphony No. 1 in D Major \"Titan\": II. Kraftig bewegt, doch nicht zu schnell",
       "url": "https://open.spotify.com/track/5Upbhmdnw5Usc9NsA2DmEu"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 599120,
       "name": "Symphony No. 1 in D Major \"Titan\": III. Feierlich und gemessen, ohne zu schleppen",
       "url": "https://open.spotify.com/track/3LUHnlnenBwwwe14hH9LWp"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 602426,
       "name": "Symphony No. 1 in D Major \"Titan\": III. Feierlich und gemessen, ohne zu schleppen",
       "url": "https://open.spotify.com/track/6cu19WgrswmWhFrsn3bV1S"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1324586,
       "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
       "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 632386,
       "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato - Sehr gem\u00e4chlich - Nie eilen",
       "url": "https://open.spotify.com/track/0dDjHMJbArRUuK6K4dH9rG"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 610386,
       "name": "Symphony No. 2 in C Minor \"Resurrection\": III. In ruhig fliessender Bewegung - Sehr gem\u00e4chlich, nicht eilen",
       "url": "https://open.spotify.com/track/1Wi8j2OdftVBQYV6qRCABl"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 632386,
       "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
       "url": "https://open.spotify.com/track/2gC4HKZ2Bhubhi3dgICGay"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 610386,
       "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
       "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249080,
       "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
       "url": "https://open.spotify.com/track/4KsoqmJJis8uvvXOAjnU4M"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249080,
       "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
       "url": "https://open.spotify.com/track/4oXa32SjjuVrBBjEMm94Mx"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 994466,
       "name": "Symphony No. 4 in G Major: I. Bedachtig, nicht eilen",
       "url": "https://open.spotify.com/track/4EevDsETK8AhWOJP5YPve2"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 994466,
       "name": "Symphony No. 4 in G Major: I. Bed\u00e4chtig, nicht eilen",
       "url": "https://open.spotify.com/track/6pDRSOe1X4qreChmYZXd3q"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1262480,
       "name": "Symphony No. 4 in G Major: III. Ruhevoll, poco adagio",
       "url": "https://open.spotify.com/track/48XZL1SXiQx4xkeXYfNXbG"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1262480,
       "name": "Symphony No. 4 in G Major: III. Ruhevoll, poco adagio",
       "url": "https://open.spotify.com/track/4bqsrYQjtZTGZ72JLWzBaZ"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 564213,
       "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
       "url": "https://open.spotify.com/track/4qU7uo9ra85PqbCnOVaQQS"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 564213,
       "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
       "url": "https://open.spotify.com/track/7MSjAESpXgKmF3ewr119m3"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1250186,
       "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
       "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1250186,
       "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
       "url": "https://open.spotify.com/track/7kRZCzndQJeUNDRhKaFBV5"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 579986,
       "name": "Symphony No. 7 in E Minor: III. Scherzo. Schattenhaft",
       "url": "https://open.spotify.com/track/5CovWknOFg16vSEtiNULID"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 579986,
       "name": "Symphony No. 7 in E Minor: III. Scherzo: Schattenhaft",
       "url": "https://open.spotify.com/track/6donFiaElbTnuklM7XkPdp"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 835280,
       "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
       "url": "https://open.spotify.com/track/2DkYKQPhxXOidcyUbL0IAM"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 835280,
       "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
       "url": "https://open.spotify.com/track/6TK9PZ6Na7aBvvJimQMAAz"
@@ -2592,7 +2592,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1041746,
       "name": "Symphony No. 7 in E Minor: V. Rondo-Finale",
       "url": "https://open.spotify.com/track/3qLiuSbheZVxEqCvag42Fp"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1041746,
       "name": "Symphony No. 7 in E Minor: V. Rondo-Finale",
       "url": "https://open.spotify.com/track/6LFriNh4QuVEDHWt2IHbcH"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309186,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/1MVQZ6IHffWxf5y2Yf3SVw"
@@ -2744,8 +2744,8 @@
           "url": "https://open.spotify.com/artist/0TXrrXRp1mHq4yPA1dHuf9"
         },
         {
-          "name": "Prague Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/6zhM9WlE1iJnsLAUXuDS47"
+          "name": "Prague Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/1Rn0zX2Yet9c0CXSO9bJmi"
         },
         {
           "name": "Jongens en meisjes van het Kathedrale Koor St.Bavo, Haarlem",
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309209,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/2hurAdmJRAKfQBZCfVhNAM"
@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230666,
       "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": Dir, der Unber\u00fchrbaren",
       "url": "https://open.spotify.com/track/77HutfpFn6aRmARLktNEal"
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 84213,
       "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": Veni, Creator Spiritus",
       "url": "https://open.spotify.com/track/5UBLUjhAHaYfY60WyrWBfG"
@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230666,
       "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Dir, der Unberuhrbaren - Du schwebst zu Hohen der ewigen Reiche -",
       "url": "https://open.spotify.com/track/6VU155VZpBpveXfAuSYeuj"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 84213,
       "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Veni, Creator Spiritus -",
       "url": "https://open.spotify.com/track/2RGtWy0QKjMeAYQhbjUNGu"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1773213,
       "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
       "url": "https://open.spotify.com/track/3hcCcJC6p3mwQXecsKZrhf"
@@ -3106,7 +3106,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1773213,
       "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
       "url": "https://open.spotify.com/track/483VMfYNqtUAxcEWXRVvDn"
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 984626,
       "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
       "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 984626,
       "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
       "url": "https://open.spotify.com/track/6vjx3iXxIXR8PZFX7ku3Bj"
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204693,
       "name": "Winterlied",
       "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2020-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204693,
       "name": "Winterlied",
       "url": "https://open.spotify.com/track/21xmYdw32ZcvHAruFOFPmZ"

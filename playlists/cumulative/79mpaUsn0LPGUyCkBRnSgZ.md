@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-649 songs - 1 day 18 hr 35 min
+650 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,6 +609,7 @@
 | [Upside Down](https://open.spotify.com/track/3spmBjPY8HCNCR6Y0H7Ahd) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/2r05fWtfSBpLSj4L7V7Ix9) | 4:04 | 2024-01-08 |  |
 | [Velocity Girl](https://open.spotify.com/track/1sfI921cOH7r6HXGcJ7FnJ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Songs for Polarbears](https://open.spotify.com/album/7kYowijrwy9wBiZia6FzUs) | 4:37 | 2024-01-17 |  |
 | [Velvet Portraits](https://open.spotify.com/track/0SFgulpiL8xNREkhshoFJb) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P) | 1:33 | 2024-02-06 |  |
+| [Versailles](https://open.spotify.com/track/5XeSZTj2XOqFHcr78W9guM) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Despot](https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1) | [Aethiopes](https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD) | 3:07 | 2024-04-18 |  |
 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 | 2024-01-08 |  |
 | [Voicemail](https://open.spotify.com/track/7sWoi73RVYkbkd8S7duNAV) | [Antarctigo Vespucci](https://open.spotify.com/artist/574PYry9WzUvHwvtxmKKSW) | [Love in the Time of E\-Mail](https://open.spotify.com/album/5RddM7DlVMenEItqNJRk6i) | 1:37 | 2024-01-19 | 2024-03-28 |
 | [Waiting For The Sun](https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Hollywood Town Hall](https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH) | 4:20 | 2023-06-01 |  |
@@ -639,7 +640,7 @@
 | [Wife You Up](https://open.spotify.com/track/3kVXnFQkCWegpVmONNraop) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 4:36 | 2023-08-14 |  |
 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 | 2023-12-15 |  |
 | [Willow Tree](https://open.spotify.com/track/5H8gGN15unaHwUSNhKWPxm) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [Soft Airplane](https://open.spotify.com/album/2pKjG5kGU8DAJSey6cUmjB) | 3:13 | 2023-11-03 |  |
-| [Wings \[Intro\]](https://open.spotify.com/track/41csJZApoEcJf0zp5wWMCb) | [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Triple Digits \[112\]](https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg) | 0:52 | 2024-04-14 |  |
+| [Wings \[Intro\]](https://open.spotify.com/track/41csJZApoEcJf0zp5wWMCb) | [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Triple Digits \[112\]](https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg) | 0:52 | 2024-04-14 | 2024-04-19 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-01-15 | 2023-06-15 |
 | [Woolf and Plath](https://open.spotify.com/track/1pm4JOgUyHFcnWNrNTUkEW) | [Foonyap](https://open.spotify.com/artist/37cFjzZQ7aSlexb2IoNJgO) | [Palimpsest](https://open.spotify.com/album/10qM36T7cTV0YHRfQ6m0Wx) | 2:30 | 2024-01-18 |  |
 | [World in My Eyes \- 2006 Remaster](https://open.spotify.com/track/70B5oP5ng1QYClkJ9CeWly) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:27 | 2022-09-30 | 2024-01-17 |

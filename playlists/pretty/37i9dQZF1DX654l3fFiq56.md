@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,326 likes - 20 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,316 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 6 | [生日禮物2020](https://open.spotify.com/track/4xDPYSavntN5EiS193bT7u) | [Grady Guan](https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5) | [生日禮物2020](https://open.spotify.com/album/2Ff32hV23ytsfAScLNmA1a) | 3:54 |
 | 7 | [南方的月亮](https://open.spotify.com/track/5O8tEg0NEqZE6AgMpbAiZ0) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [南方的月亮](https://open.spotify.com/album/7p4Sy8J4q3Ix3HdNSpG1Rb) | 3:23 |
 | 8 | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/track/6Uy0XOFJC3cxAxdTIQNLKI) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/album/0I7RCQGDGZoXI2ZyUYlhNL) | 3:07 |
-| 9 | [Wait With Me \- Movie "KIDS" Ending Song](https://open.spotify.com/track/0BD2aB9XkKit3cxDaybByd) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Movie "KIDS" Soundtrack](https://open.spotify.com/album/1me16pQ0TSCXwvIeNBtAN0) | 4:58 |
+| 9 | [想等到你（電影《小子》片尾曲）](https://open.spotify.com/track/4hwbNoni5mm8oonukYqqdo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [《小子》電影原聲帶](https://open.spotify.com/album/7k9E3w9rNoiSHC5zQw1cMW) | 4:58 |
 | 10 | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/track/4jXWHwvxZreFh1fjXIStWs) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/album/6els5e7eyVp1WPF1MBtvqE) | 3:20 |
 | 11 | [船到橋頭自然直](https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [船到橋頭自然直](https://open.spotify.com/album/5gMcbYIRxCGPUAAIQ4v2XZ) | 3:51 |
-| 12 | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/3KnBxjcCOMnSPbKlHsBY14) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/3gh4JAff25DhwzGYPi4F6C) | 4:46 |
+| 12 | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/1QCNi3ceXPGyQXOJGTGExv) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/0eBxPugmXMw3EvdwwaaTI1) | 4:46 |
 | 13 | [愛麗絲1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 |
 | 14 | [冷戰](https://open.spotify.com/track/4fq1wnzohJvzP1yhx5kQQw) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [做舊](https://open.spotify.com/album/3MBFGMhVo9a0nlXbH9CONV) | 3:43 |
 | 15 | [带着梦想去旅行](https://open.spotify.com/track/5CGoSutS9MwRyAhOGzfzAI) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [带着梦想去旅行](https://open.spotify.com/album/6Xd8pcwRS7eho9zrBJVcmp) | 3:58 |

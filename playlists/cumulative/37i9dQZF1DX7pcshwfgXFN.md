@@ -4,7 +4,7 @@
 
 > A selection of Islamic Duaa.
 
-35 songs - 1 hr 41 min
+38 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,13 +35,16 @@
 | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/track/2ple70bGnZPJh2sppFGYby) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/album/0c8Kbb1MTtLsvwaZc2BuBj) | 0:39 | 2024-03-11 |  |
 | [دعاء ختم القرآن](https://open.spotify.com/track/4NW9H4kbsEvcGqnB4yscq2) | [الشيخ ماهر المعيقلي](https://open.spotify.com/artist/6HxcDnh44UND5HvvGmWP17) | [أدعية بصوت الشيخ ماهر المعيقلي](https://open.spotify.com/album/58QRUpaLEB9Q3KC6FUck6H) | 9:33 | 2024-03-11 |  |
 | [دعاء كل يوم في شهر رمضان](https://open.spotify.com/track/11jpKKK9qpz8AKTFjcU7xa) | [أبو أيمن](https://open.spotify.com/artist/2y3dfldORxkOXdixRoM64Y) | [أدعية شهر رمضان](https://open.spotify.com/album/4jVYVEL9E8Il4N62eEMwu9) | 1:44 | 2024-03-11 |  |
-| [دعاء لأموات المسلمين](https://open.spotify.com/track/7JtCs1nv5Udidv90hCAB8V) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء لأموات المسلمين](https://open.spotify.com/album/30t9bYphDgKX3qK0vjTih4) | 16:26 | 2024-03-11 |  |
-| [دعاء للأولاد](https://open.spotify.com/track/712s6jSSbyAzW7NCj9KuY2) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء للأولاد](https://open.spotify.com/album/2II5hQsW7s2188w2BAla0y) | 2:00 | 2024-03-11 |  |
+| [دعاء لأموات المسلمين](https://open.spotify.com/track/1kdnIvqcahooMtVpVuFKP4) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء لأموات المسلمين](https://open.spotify.com/album/4ki0bEvYcj30ky4CytwUNw) | 16:26 | 2024-03-17 |  |
+| [دعاء لأموات المسلمين](https://open.spotify.com/track/7JtCs1nv5Udidv90hCAB8V) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء لأموات المسلمين](https://open.spotify.com/album/30t9bYphDgKX3qK0vjTih4) | 16:26 | 2024-03-11 | 2024-04-19 |
+| [دعاء للأولاد](https://open.spotify.com/track/3zlIIcO3cpKbIpep2NCbK9) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء للأولاد](https://open.spotify.com/album/2gqn81d31PSMM2gxDnpJmZ) | 2:00 | 2024-03-17 |  |
+| [دعاء للأولاد](https://open.spotify.com/track/712s6jSSbyAzW7NCj9KuY2) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء للأولاد](https://open.spotify.com/album/2II5hQsW7s2188w2BAla0y) | 2:00 | 2024-03-11 | 2024-04-19 |
 | [دوما لك الحمد](https://open.spotify.com/track/4WBYfXVsxOzY6YLB1SgwTM) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دوما لك الحمد](https://open.spotify.com/album/1xVT0Cj6Rg6I5TARzwb7kJ) | 0:59 | 2024-03-11 |  |
 | [رب أدخلني مدخل صدق](https://open.spotify.com/track/6yq5Ykmww6QRDgrPbMDCXT) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية العشر الأواخر من رمضان](https://open.spotify.com/album/1abl7fBsl4zDaRmRUHstBS) | 1:06 | 2024-03-11 |  |
 | [ربنا لا تزغ قلوبنا بعد إذ هديتنا](https://open.spotify.com/track/3E0hqIswyneeE6jkxDHsdN) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية العشر الأواخر من رمضان](https://open.spotify.com/album/1abl7fBsl4zDaRmRUHstBS) | 1:02 | 2024-03-11 |  |
 | [سورة النجم](https://open.spotify.com/track/1XUTm7niP4gDEaymlQCIe7) | [Sheikh Raad Al Kurdi](https://open.spotify.com/artist/7AflKiIRBursuADYrUWbvL) | [تلاوات رمضانية](https://open.spotify.com/album/3lasvalpXz3Q2sifkROjxk) | 3:16 | 2024-03-11 |  |
 | [شهر رمضان الذي انزل فيه القران](https://open.spotify.com/track/6pv6fMeRHiXhQrwTB3w5xN) | [Nour al Houda](https://open.spotify.com/artist/2kvtOCzGgeWCgQTUovLF33) | [ادعية رمضان](https://open.spotify.com/album/1iwEVWsnYgm3lThBhamg5H) | 1:18 | 2024-03-11 |  |
-| [يا ذا العزة والجبروت](https://open.spotify.com/track/1SsuwZg29iLVeHK963WmwH) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [يا ذا العزة والجبروت](https://open.spotify.com/album/5k6SdjCHOqczbRcQPxPgtw) | 1:51 | 2024-03-11 |  |
+| [يا ذا العزة والجبروت](https://open.spotify.com/track/1SsuwZg29iLVeHK963WmwH) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [يا ذا العزة والجبروت](https://open.spotify.com/album/5k6SdjCHOqczbRcQPxPgtw) | 1:51 | 2024-03-11 | 2024-04-19 |
+| [يا ذا العزة والجبروت](https://open.spotify.com/track/7tRYG3bVGBOWjxBOEXl7tS) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [يا ذا العزة والجبروت](https://open.spotify.com/album/4hrSh96yW1b065Cwssg8og) | 1:51 | 2024-03-17 |  |
 
 \*This playlist was first scraped on 2024-03-12. Prior content cannot be recovered.

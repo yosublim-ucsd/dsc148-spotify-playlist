@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,503 likes - 105 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,664 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 20 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
 | 21 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 22 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
-| 23 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 |
+| 23 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 24 | [theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 4:57 |
 | 25 | [My Time As a Ghostly Someone Else](https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [My Time As a Ghostly Someone Else](https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO) | 4:20 |
 | 26 | [Forgotten, Fossilized, Archaic](https://open.spotify.com/track/61YVCATCLSWCAh7xDNN7Kw) | [Autumn's Grey Solace](https://open.spotify.com/artist/0f00mZvxmxeuhmxEot8LlP) | [Within The Depths Of A Darkened Forest](https://open.spotify.com/album/5Gk1Trdz04ixib0LV4LIdy) | 4:43 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 35 | [limbo](https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the star factory](https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB) | 3:02 |
 | 36 | [Punching Down](https://open.spotify.com/track/7EUgUNXbhgsPXaCr51uYta) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Ooh Rap I Ya](https://open.spotify.com/album/2kvz9frUn3LUK83imD2BQS) | 3:27 |
 | 37 | [Blue Sugar](https://open.spotify.com/track/0wZj8uoPCbK96GIcuMtiGu) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Muta / Blue Sugar](https://open.spotify.com/album/7sxcNLaLkNtfDolRxsPG8m) | 4:48 |
-| 38 | [Never Wanna Let Go](https://open.spotify.com/track/4yqptmbnL83yt8TP5SEpfz) | [David Hale](https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K) | [Paradigm](https://open.spotify.com/album/3yri9UWWeeMtgTHxAizMFj) | 4:46 |
+| 38 | [Never Wanna Let Go](https://open.spotify.com/track/1CB7zANKq4TYkOg7XCdw5v) | [David Hale](https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K) | [Paradigm](https://open.spotify.com/album/2Ca0nMYUgKUu70tNhEBhzW) | 4:46 |
 | 39 | [lungs](https://open.spotify.com/track/7hQmgR3ssV8Racno82rkB1) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [so close to ok](https://open.spotify.com/album/7eaSpxWkxWWYc3rSfHVfuv) | 2:01 |
 | 40 | [Rummage \(feat\. Orbiting Human Circus\)](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 |
 | 41 | [Steal The Air](https://open.spotify.com/track/3uIdz7rkBAvKVQY1WC4R1U) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Slide Back](https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV) | 3:34 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 44 | [MODERN FEAR](https://open.spotify.com/track/2zy5jtyDojdssT4w32XsAV) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [MODERN FEAR](https://open.spotify.com/album/6OlwT8dt60p6qgvGUfAnEE) | 3:45 |
 | 45 | [Too Late](https://open.spotify.com/track/6KYsdBZ0077Vf37ZL1ozrT) | [Lilts](https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG) | [Waiting Around](https://open.spotify.com/album/1LO0pYpUdVmbRWESTKMx0d) | 3:20 |
 | 46 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 |
-| 47 | [\(dream\)](https://open.spotify.com/track/17YNmMy03QLPirmBzWxFa6) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 1:24 |
+| 47 | [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 |
 | 48 | [I Cry While You Sleep \- Dream, Ivory Version](https://open.spotify.com/track/1i54OpHUYRrjxxA8Cg6P9a) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [I Cry While You Sleep \(Dream, Ivory Version\)](https://open.spotify.com/album/5nt93ckjegXoK5rJlLZJ22) | 3:10 |
 | 49 | [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 |
 | 50 | [EPHEMERAL](https://open.spotify.com/track/7x3dssNFWZtubSlXqRYGxl) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [EPHEMERAL](https://open.spotify.com/album/6Fdahq7wVU3h4NuukBRAIx) | 2:29 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 56 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 |
 | 57 | [Schwarzschild Drainhole](https://open.spotify.com/track/4UApIN6oyiQoGbl1j7TGmN) | [缺省](https://open.spotify.com/artist/32g75UA59s48aBhDpSEtdO) | [California Nebula](https://open.spotify.com/album/4GrpuTC5tCnxVmgfu9ZISQ) | 7:27 |
 | 58 | [Murder Your Memory](https://open.spotify.com/track/5imSIRUGtX4aeRRA81UakE) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Hyperview](https://open.spotify.com/album/1xRsnyytuSTf1rIxWV8m2r) | 2:36 |
-| 59 | [Avalon](https://open.spotify.com/track/5Zs526IB2ezqyXc9WthLuY) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon](https://open.spotify.com/album/6193L5p5jwFGW6ivHCxMkX) | 2:56 |
+| 59 | [Avalon](https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon](https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR) | 2:56 |
 | 60 | [gardenside](https://open.spotify.com/track/4poUtXSEEq14Nl00q9Yr0P) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [gardenside](https://open.spotify.com/album/5gVEAhuFA0zVlAtn4eYxPV) | 2:36 |
 | 61 | [i see pain](https://open.spotify.com/track/7kAkl44rGhMqNpJU66qoKT) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i see pain](https://open.spotify.com/album/5jVDZXzD12zdCEtsmrUGR5) | 2:43 |
 | 62 | [The Clouds Will Drop Ladders](https://open.spotify.com/track/6Ky0MGU5rsXTUCXf7wrLcW) | [Valium Aggelein](https://open.spotify.com/artist/6SDzqJ9bJXWCYlgBl6zXWw) | [Black Moon](https://open.spotify.com/album/13wXdYJA77QJCbsSZeRpEm) | 5:57 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 72 | [Solitude \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Solitude \(Felsmann + Tiley Reinterpretation\)](https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52) | 3:42 |
 | 73 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
 | 74 | [Under the Same Name](https://open.spotify.com/track/4HvvHSzR1fAS653pHO5XTu) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Feels Like You](https://open.spotify.com/album/1fyZK4ivI8xZCOdOuOgPa7) | 4:39 |
-| 75 | [aching](https://open.spotify.com/track/79xtBv3FQxdwVNA6BdI2pk) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [aching](https://open.spotify.com/album/1QYXkJgz7wPcCoZcO19TJL) | 3:27 |
+| 75 | [aching](https://open.spotify.com/track/1ioVkY9rh0szKZys1JmSgy) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [aching](https://open.spotify.com/album/3yovro8TSyXGwJQppYWf8O) | 3:27 |
 | 76 | [I Am Your Daughter](https://open.spotify.com/track/6s3DBMoTmoKxZU4kXD5gyq) | [Florence Rose](https://open.spotify.com/artist/63ZyqesWEYQfpkL12NFwre) | [I Am Your Daughter](https://open.spotify.com/album/5xBo2DR5cCyyZQs5TvwsVe) | 3:59 |
 | 77 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 |
 | 78 | [Nightjar](https://open.spotify.com/track/3th89PlDwtE7GHz7GD67rz) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Between Heavens](https://open.spotify.com/album/42jyTWOjjG9hUxo2PEmnz0) | 3:15 |
@@ -109,9 +109,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 99 | [If I Die](https://open.spotify.com/track/2mTffb4JPUXq31NWaqQgIN) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes / If I Die](https://open.spotify.com/album/0KTScQWu6RzOUg3phjUjlR) | 2:56 |
 | 100 | [Heart of Chambers](https://open.spotify.com/track/2ldmzcLJvYv4WHPrzGbBgq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Devotion](https://open.spotify.com/album/6Unw8A3kdy8ZPj6MmlbA7E) | 4:25 |
 | 101 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
-| 102 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
+| 102 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 |
 | 103 | [Paulie Bleeker](https://open.spotify.com/track/2MWpgaYQee0U6sKn1jJ2o8) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Paulie Bleeker](https://open.spotify.com/album/1jKpxJPohujeCGiEQfV3QI) | 3:19 |
 | 104 | [f my haterz anthem](https://open.spotify.com/track/6N0mSXLOh1j3agMiCxQlCo) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ), [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77), [Sweatcult](https://open.spotify.com/artist/31412uPiG5Il6jKLs4u2C4) | [f my haterz anthem](https://open.spotify.com/album/0s3ocpYpZlUtQmfnL6t1u2) | 3:56 |
-| 105 | [shutting me out](https://open.spotify.com/track/69vQ28ksF23utGYgq4YhxD) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:26 |
+| 105 | [shutting me out](https://open.spotify.com/track/0hxy957I8oiUktegIZPK9P) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/3KYjSlyLTpzkCxWNlg2IqL) | 2:26 |
 
 Snapshot ID: `MTcwOTMyMjYwNSwwMDAwMDAwMDRmMWUwN2M3ZjFhOGJmMjQzMDc2MGQyN2Y3MmQ5NDcy`

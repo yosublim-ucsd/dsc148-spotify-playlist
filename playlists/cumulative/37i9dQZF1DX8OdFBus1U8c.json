@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241583,
       "name": "Arivu",
       "url": "https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 241583,
       "name": "Arivu",
       "url": "https://open.spotify.com/track/7dj8zJse4K39kODoi1eGl2"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133333,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/2o7dxduoe3YXvuSyOFjROL"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183048,
       "name": "Christophonk (From \"Christopher\")",
       "url": "https://open.spotify.com/track/1UglxhqM4NJFs7Nzwrqg0q"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 183048,
       "name": "Christophonk (From \"Christopher\")",
       "url": "https://open.spotify.com/track/3XXWboGxbRNMBMvDFmrwNx"
@@ -990,6 +990,24 @@
     {
       "album": {
         "name": "Wish Hope Fly",
+        "url": "https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/0iSVHgbveiiQ3KWD2JGsRB"
+    },
+    {
+      "album": {
+        "name": "Wish Hope Fly",
         "url": "https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R"
       },
       "artists": [
@@ -1000,10 +1018,36 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246000,
       "name": "Fly",
       "url": "https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s"
+    },
+    {
+      "album": {
+        "name": "Galatta (From \"Aavesham\")",
+        "url": "https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130018,
+      "name": "Galatta - From \"Aavesham\"",
+      "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
     },
     {
       "album": {
@@ -1026,6 +1070,24 @@
     {
       "album": {
         "name": "Wish Hope Fly",
+        "url": "https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/19WKaVw42t88aLr04lH4Qk"
+    },
+    {
+      "album": {
+        "name": "Wish Hope Fly",
         "url": "https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R"
       },
       "artists": [
@@ -1036,7 +1098,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3oMeTMaSY44CZLkefVhQHR"
@@ -1495,6 +1557,32 @@
     },
     {
       "album": {
+        "name": "Kireedam (From \"Nadikar\")",
+        "url": "https://open.spotify.com/album/5ZCDubJcQbrJBA0ixYqwdh"
+      },
+      "artists": [
+        {
+          "name": "Yakzan Gary Pereira",
+          "url": "https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu"
+        },
+        {
+          "name": "Neha Nair",
+          "url": "https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk"
+        },
+        {
+          "name": "MC Couper",
+          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174079,
+      "name": "Kireedam - From \"Nadikar\"",
+      "url": "https://open.spotify.com/track/2g4039ejgn6ANY5cj3zPAh"
+    },
+    {
+      "album": {
         "name": "IRUTHALA PAKSHI",
         "url": "https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z"
       },
@@ -1900,10 +1988,6 @@
         {
           "name": "MC Couper",
           "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
         }
       ],
       "date_added": "2024-04-16",
@@ -2056,10 +2140,44 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228347,
       "name": "Namma Stories",
       "url": "https://open.spotify.com/track/3RcS3P11j5PL7ttgEG5viZ"
+    },
+    {
+      "album": {
+        "name": "Namma Stories",
+        "url": "https://open.spotify.com/album/6eDPOLEhnYFjOo8SP5qkki"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "SIRI",
+          "url": "https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        },
+        {
+          "name": "Kartik Shah",
+          "url": "https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228347,
+      "name": "Namma Stories",
+      "url": "https://open.spotify.com/track/3TmyH58VMepcWFbtPRNlUC"
     },
     {
       "album": {
@@ -2746,7 +2864,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200400,
       "name": "Sancharare (From \"Sayanna Varthakal\")",
       "url": "https://open.spotify.com/track/3OsylRuPBixUSzy3CnOEu7"
@@ -2772,7 +2890,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "Sancharare - From \"Sayanna Varthakal\"",
       "url": "https://open.spotify.com/track/29S65rYTdRlHtY73A0Brrm"
@@ -2878,7 +2996,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171600,
       "name": "THALAKKANAM",
       "url": "https://open.spotify.com/track/0rirJuOchyc5bDqDpL84YE"
@@ -2896,7 +3014,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 171600,
       "name": "THALAKKANAM",
       "url": "https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17"
@@ -3164,7 +3282,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167790,
       "name": "Vaa",
       "url": "https://open.spotify.com/track/50I3sAWquG9d5m6nXzMmIR"
@@ -3182,7 +3300,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 167790,
       "name": "Vaa",
       "url": "https://open.spotify.com/track/5Nm1pQ3mp1cWpGTrRIxaig"
@@ -3362,7 +3480,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 186874,
       "name": "Voice of Voiceless",
       "url": "https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce"
@@ -3380,7 +3498,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186874,
       "name": "Voice of Voiceless",
       "url": "https://open.spotify.com/track/6y6nB7wQRliOl0t31XL22I"

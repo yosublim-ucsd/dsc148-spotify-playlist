@@ -4,7 +4,7 @@
 
 > Listen to the music from and inspired by Priscilla, curated by Sofia Coppola.
 
-28 songs - 1 hr 32 min
+29 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [I Can't Let Go](https://open.spotify.com/track/0NwO3p2PGygdBuhfTkQwEW) | [Evie Sands](https://open.spotify.com/artist/7kSG6Dyyvf4MM8qWWrgKJq) | [Pop Treasures](https://open.spotify.com/album/6tgAVIcBVDKIslcCnMkAii) | 2:17 | 2023-11-10 |  |
 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 | 2023-11-10 |  |
 | [In a Turkish Town \- Demo](https://open.spotify.com/track/2Rm750fwr0mmTJdcAFmOl8) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [The Ritchie Valens Story](https://open.spotify.com/album/5rN2oLiwsCrZFaHXztJNr1) | 2:10 | 2023-11-10 |  |
-| [In and out of the Shadows](https://open.spotify.com/track/5nyeOQbEyAg3PBkTDBOeqq) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 4:18 | 2023-11-10 |  |
+| [In and out of the Shadows](https://open.spotify.com/track/1oAqkNd2VjS435uds7U9Ez) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be with You / Streetheart](https://open.spotify.com/album/6TkmkfaLuRjdXIdGGOCGj6) | 4:18 | 2023-11-10 |  |
+| [In and out of the Shadows](https://open.spotify.com/track/5nyeOQbEyAg3PBkTDBOeqq) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 4:18 | 2023-11-10 | 2024-04-19 |
 | [Lonely Sea \(Mono\)](https://open.spotify.com/track/465pSbGkS2UnH9ECAr22La) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Mono & Stereo\)](https://open.spotify.com/album/6zImwx0g5TZ4HrvS1E8MYu) | 2:23 | 2023-11-10 |  |
 | [My Elixir](https://open.spotify.com/track/5ShoQtH1YaLSmtE5STXspw) | [Sons of Raphael](https://open.spotify.com/artist/1stGFX6w6VMHQPDPlBqX74) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 3:49 | 2023-11-10 |  |
 | [Nobody Knows](https://open.spotify.com/track/3lyNjbIz8jjAmxLD9srXXL) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 6:28 | 2023-11-10 |  |

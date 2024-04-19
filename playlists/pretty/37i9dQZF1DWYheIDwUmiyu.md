@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYheIDwUmiyu.md) - [plain]
 
 > Myke Towers takes over Fuego! Featuring De La Ghetto, Alexis y Fido, Omar Courtz & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,709 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,725 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 2 | [Welcome To My Crib](https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Los Benjamins \- La Continuacion](https://open.spotify.com/album/5IsjHngPrl7LI1001ZUjTM) | 4:07 |
-| 3 | [Estás?](https://open.spotify.com/track/2GgRwHeFpFN8kBXKHMds17) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Estás?](https://open.spotify.com/album/0cyXQMUzCV5ywN9czgMeZ2) | 3:31 |
+| 3 | [Estás?](https://open.spotify.com/track/2t3bfwZMTUIdMRPstTOeoD) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Estás?](https://open.spotify.com/album/4nOL1zCqUxuXKBlDQMaHIB) | 3:31 |
 | 4 | [Tranquila](https://open.spotify.com/track/1meA8imRWltOs5Jp0kaL0y) | [Jadiel el Incomparable](https://open.spotify.com/artist/0ANypE7iy3sVMppNuKFpGh) | [Lo Mejor de Mi](https://open.spotify.com/album/5qzzkjzmwd0WF0KiEGILM4) | 3:17 |
 | 5 | [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 |
-| 6 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 |
+| 6 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 |
 | 7 | [Tuve un Sueno](https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty](https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI) | 3:09 |
 | 8 | [Bandida](https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:12 |
 | 9 | [TU REHÉN](https://open.spotify.com/track/7ffrqpG2Q6FaxtSUhgiLhM) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:58 |

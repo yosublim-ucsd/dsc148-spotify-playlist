@@ -4,7 +4,7 @@
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Get on the Train\-train and enjoy these pop/rock classics\. Cover: Train
 
-79 songs - 5 hr 7 min
+81 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,8 @@
 | [Everything](https://open.spotify.com/track/0QRcOtv4LE9C2QTfbbkL1e) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Fefe Dobson](https://open.spotify.com/album/12PDdl6duI4nUZJZzQuNdK) | 4:11 | 2023-06-08 |  |
 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 | 2023-06-08 |  |
 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 | 2023-07-06 |  |
-| [Feeling a Moment](https://open.spotify.com/track/26FPGV8xgRwsQUHefWKNg6) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/7mFJM4nlo4oaPYaUMJhSWv) | 4:08 | 2023-06-08 |  |
-| [Feeling A Moment](https://open.spotify.com/track/4nUrNul2oNVra6YAjigenk) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC) | 4:08 | 2023-06-08 | 2023-11-11 |
+| [Feeling a Moment](https://open.spotify.com/track/26FPGV8xgRwsQUHefWKNg6) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/7mFJM4nlo4oaPYaUMJhSWv) | 4:08 | 2023-06-08 | 2024-04-19 |
+| [Feeling A Moment](https://open.spotify.com/track/4nUrNul2oNVra6YAjigenk) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC) | 4:08 | 2023-06-08 |  |
 | [Follow Through](https://open.spotify.com/track/5TCmAlSKTSTWLsMTnJPTKY) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:59 | 2023-06-08 |  |
 | [Good Life](https://open.spotify.com/track/3NEiIromgW6zguXKxhsH9t) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Detour de Force \(Deluxe Edition\)](https://open.spotify.com/album/1qP0WiK1cW3bE91eNQqGpi) | 3:21 | 2023-06-08 |  |
 | [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 | 2023-06-08 |  |
@@ -50,7 +50,8 @@
 | [I Don't Want to Be](https://open.spotify.com/track/4vl2zwXsTmAxgu9iY0g6UK) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:37 | 2023-07-06 |  |
 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 | 2023-06-08 |  |
 | [If I Am](https://open.spotify.com/track/0yA6uXukVZbi29GcmtK6i5) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 4:18 | 2023-06-08 | 2023-07-07 |
-| [Inside Of Love](https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS) | 4:58 | 2023-06-08 |  |
+| [Inside Of Love](https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS) | 4:58 | 2023-06-08 | 2024-04-19 |
+| [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 | 2023-06-08 |  |
 | [Live Like We're Dying](https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Kris Allen](https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP) | 3:32 | 2023-07-06 |  |
 | [Lonely No More](https://open.spotify.com/track/4faFAhOflLzhfJECveRwva) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 3:46 | 2023-07-06 |  |
 | [Manhattan From The Sky](https://open.spotify.com/track/523xr53yavDWpxl7etEdag) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [A Fine Mess \(Deluxe\)](https://open.spotify.com/album/46Kny4qy8FGd0AE0L3M4Lz) | 3:31 | 2023-06-08 |  |
@@ -79,11 +80,12 @@
 | [The Time of My Life](https://open.spotify.com/track/6avyV3xlz2UFeiAUZ0SqyT) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [David Cook](https://open.spotify.com/album/4MJcuG31fFG8rimuSCvJyx) | 3:36 | 2023-07-06 |  |
 | [Until You](https://open.spotify.com/track/4iQhfDlMpWHoMnBtX09KM4) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Brother, Bring the Sun](https://open.spotify.com/album/6t3Flungcv9zkoADU6OBkm) | 4:05 | 2023-07-06 |  |
 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 | 2023-06-08 |  |
-| [What Matters Most](https://open.spotify.com/track/10Kylccyddh80NzTunQIlW) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr) | 4:10 | 2023-06-08 | 2024-04-13 |
-| [What Matters Most](https://open.spotify.com/track/4xE520XRdfPqt54rydEgNM) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/4vHxLvztgqDt1Jq4XgnMkG) | 4:10 | 2023-06-08 |  |
+| [What Matters Most](https://open.spotify.com/track/10Kylccyddh80NzTunQIlW) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr) | 4:10 | 2023-06-08 |  |
+| [What Matters Most](https://open.spotify.com/track/4xE520XRdfPqt54rydEgNM) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/4vHxLvztgqDt1Jq4XgnMkG) | 4:10 | 2023-06-08 | 2024-04-19 |
 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 | 2023-07-06 |  |
 | [When It Comes](https://open.spotify.com/track/65xy8QjJE4G87p8XAJ6aGg) | [Tyler Hilton](https://open.spotify.com/artist/1bKdOEfMk4ftojJQdyV2Ik) | [The Tracks Of \(U.S\. Release\)](https://open.spotify.com/album/6eiCZB3meE3D5AU9MecmCQ) | 3:44 | 2023-06-08 |  |
-| [When Love Takes Hold](https://open.spotify.com/track/7D7g34Lvt0WBMmnjnLwJF3) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [When Love Takes Hold](https://open.spotify.com/album/4ZvetUUysXQE67o8aobq4W) | 3:49 | 2023-06-08 |  |
+| [When Love Takes Hold](https://open.spotify.com/track/0BlVB5GBSpw1ljBTWLMYXW) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [When Love Takes Hold](https://open.spotify.com/album/16VUnr2RZiOnKKMh1cmLXT) | 3:49 | 2023-06-08 |  |
+| [When Love Takes Hold](https://open.spotify.com/track/7D7g34Lvt0WBMmnjnLwJF3) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [When Love Takes Hold](https://open.spotify.com/album/4ZvetUUysXQE67o8aobq4W) | 3:49 | 2023-06-08 | 2024-04-19 |
 | [Why Can't I?](https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Liz Phair](https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT) | 3:28 | 2023-07-06 |  |
 | [You and I Both](https://open.spotify.com/track/2mKjs6s0Z1imKKb6gOk628) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come](https://open.spotify.com/album/6I9GBueBmRdHdDQjbL7El1) | 3:38 | 2023-06-08 |  |
 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2023-06-08 |  |

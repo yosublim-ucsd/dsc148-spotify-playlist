@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,342 likes - 65 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,340 likes - 65 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 14 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/12m082qt1zlO0KybXIVgnu) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Christmas Time Is Here](https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf) | 1:19 |
 | 15 | [A Child Is Born](https://open.spotify.com/track/08Ro6cXojRdwIpXWgSLcHg) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [A Child Is Born](https://open.spotify.com/album/6dM8j77Mp1zqgv7IqwTWkH) | 1:39 |
 | 16 | [The Holly and the Ivy](https://open.spotify.com/track/2OSplb5nVkiivpWjjoSsuO) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Holly and the Ivy](https://open.spotify.com/album/2jpNCKfqEBi7eTSZODKfZo) | 2:46 |
-| 17 | [Away in a Manger](https://open.spotify.com/track/4oBbsBouyrXW33ZbGiPnlH) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/02EzVlaMiFQspWECiEBYLd) | 1:47 |
+| 17 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 |
 | 18 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 |
 | 19 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/2vwIMdSn7LSjFk5YleHKqF) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:08 |
 | 20 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 57 | [Let It Snow Let It Snow Let It Snow](https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 3:14 |
 | 58 | [O Christmas Tree \- Soft Piano Version](https://open.spotify.com/track/5KTMmMPIA6gUxxJX7OJP0R) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [O Christmas Tree \(Soft Piano Version\)](https://open.spotify.com/album/1UGJaMpcL6k1gbleCBUjDY) | 1:04 |
 | 59 | [O Tannenbaum](https://open.spotify.com/track/7h63D3GIj99OkdMILmrCZf) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Christmas Spa](https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib) | 5:05 |
-| 60 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3J7ntRLan3qorcv5kw8dYy) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/2KgQVNIrY94KosYdVPhZF8) | 3:47 |
+| 60 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 |
 | 61 | [Ave Maria](https://open.spotify.com/track/1igkY9A1HcPCcvq3PIMReq) | [Jonta Lei](https://open.spotify.com/artist/5bRtL6wZclxJEQiqsR9lNC) | [Religous Harp](https://open.spotify.com/album/4ThFe1arVGMNwLQTNONbWn) | 3:01 |
 | 62 | [Emmanuel](https://open.spotify.com/track/26FxkfhUC6opL8Kr7ej5nM) | [Will Ackerman](https://open.spotify.com/artist/5MHSgzpt7607DgUgvOTlLd) | [Windham Hill Holiday Guitar Collection](https://open.spotify.com/album/0wMljJkbo5ZcspfK2VzMgz) | 2:25 |
 | 63 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 |

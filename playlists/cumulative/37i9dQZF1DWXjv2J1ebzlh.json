@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 150080,
       "name": "A Deusa Dos Orix\u00e1s",
       "url": "https://open.spotify.com/track/2a8xb0Vn7pFi1pH8g53dlR"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150640,
       "name": "A Deusa Dos Orix\u00e1s",
       "url": "https://open.spotify.com/track/4NqR0cXGiQXh3ni3i4KJqV"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182626,
       "name": "A Misturada",
       "url": "https://open.spotify.com/track/2qq3D9tq2cPI4NnByGmdi2"
@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Jamb\u00fa - e os m\u00edticos sons da amaz\u00f4nia (Analog Africa No. 28)",
+        "url": "https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06"
+      },
+      "artists": [
+        {
+          "name": "Os Muiraquit\u00e3ns",
+          "url": "https://open.spotify.com/artist/7tyLpRfG9BaHcnrqSk39gk"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "A Misturada",
+      "url": "https://open.spotify.com/track/6mxvVaUEMICWjKJMKxgdzF"
+    },
+    {
+      "album": {
         "name": "Quem \u00c9 Quem",
         "url": "https://open.spotify.com/album/6GEO5pSp3ojwIm9vZqTtRd"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 151826,
       "name": "A R\u00e3",
       "url": "https://open.spotify.com/track/0wrx7YMUJXIcThebT8XDz5"
@@ -536,7 +554,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152573,
       "name": "A R\u00e3",
       "url": "https://open.spotify.com/track/7wpy0PpiuOgscZTF1cMTUB"
@@ -652,6 +670,24 @@
     {
       "album": {
         "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/5yuCUyZ5I9rgKQj9ljAkmJ"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266189,
+      "name": "Abraka",
+      "url": "https://open.spotify.com/track/1tzQYuBIeGuTwfCWh0yFKz"
+    },
+    {
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
         "url": "https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3"
       },
       "artists": [
@@ -680,7 +716,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266189,
       "name": "Abraka",
       "url": "https://open.spotify.com/track/4xlEdOHK6wyW4kNbCChrzR"
@@ -1062,10 +1098,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326978,
       "name": "Adome Nyueto",
       "url": "https://open.spotify.com/track/4JxUuQvXNpSWOZloyLpqVU"
+    },
+    {
+      "album": {
+        "name": "Togo Soul 70",
+        "url": "https://open.spotify.com/album/3zUEkykK3sqOpdOPohc05W"
+      },
+      "artists": [
+        {
+          "name": "Yta Jourias",
+          "url": "https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326978,
+      "name": "Adome Nyueto",
+      "url": "https://open.spotify.com/track/56q0Qovx0AZjocKjyNnKDm"
     },
     {
       "album": {
@@ -1634,7 +1688,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 602896,
       "name": "AH WO - Brand New Revolution",
       "url": "https://open.spotify.com/track/4eHZMPLge1CaV8m0vqBnVU"
@@ -1670,7 +1724,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 602896,
       "name": "AH WO - Brand New Revolution",
       "url": "https://open.spotify.com/track/6a2hgmQZfuL3sr2GqHKPJ3"
@@ -1724,7 +1778,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158200,
       "name": "Ahora S\u00e9 Que Me Quieres",
       "url": "https://open.spotify.com/track/7plFvy4S8BmnrtqQ6jlMfI"
@@ -1760,7 +1814,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Ahora S\u00e9 Que Me Quieres",
       "url": "https://open.spotify.com/track/5zAbo5AJpkQf3JbHolB3y5"
@@ -1778,7 +1832,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255560,
       "name": "Aht Uh Mi Hed",
       "url": "https://open.spotify.com/track/3bGVC25HcISA1ApJwux1LF"
@@ -1814,7 +1868,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257093,
       "name": "Aht Uh Mi Hed",
       "url": "https://open.spotify.com/track/6eOiJuoyzAQeY0JHf5ZBWX"
@@ -1922,7 +1976,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134573,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6ICYsILYG5nyNdQuG8EuJQ"
@@ -1958,7 +2012,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136253,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1JiNTK14u3BdgySsRQidwN"
@@ -2174,10 +2228,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 448914,
       "name": "Akula Owu Onyeara",
       "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
+    },
+    {
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/5yuCUyZ5I9rgKQj9ljAkmJ"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/78U7dsruM76CzAnTSZ4npT"
     },
     {
       "album": {
@@ -2414,6 +2486,24 @@
     {
       "album": {
         "name": "Keira",
+        "url": "https://open.spotify.com/album/2MCLTuwWCBLuWaI91DRpVP"
+      },
+      "artists": [
+        {
+          "name": "Susso",
+          "url": "https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272591,
+      "name": "Alagi",
+      "url": "https://open.spotify.com/track/2ZFdsjmnaovdILzLCaZaVw"
+    },
+    {
+      "album": {
+        "name": "Keira",
         "url": "https://open.spotify.com/album/6VZVFRzVDGVyNMDAiv0fUH"
       },
       "artists": [
@@ -2424,7 +2514,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272591,
       "name": "Alagi",
       "url": "https://open.spotify.com/track/64cpIilES9L1mlh71sP0A3"
@@ -2666,7 +2756,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309880,
       "name": "Alghoroub / \u0627\u0644\u063a\u0631\u0648\u0628",
       "url": "https://open.spotify.com/track/76bqaJIeqfoIQn3d6d6OS4"
@@ -2702,7 +2792,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309880,
       "name": "Alghoroub / \u0627\u0644\u063a\u0631\u0648\u0628",
       "url": "https://open.spotify.com/track/6I5X1eEQIFhyoFc4qx5qey"
@@ -2846,7 +2936,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Alvorada",
       "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
@@ -2864,7 +2954,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158800,
       "name": "Alvorada",
       "url": "https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D"
@@ -3246,7 +3336,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252653,
       "name": "Anlatmam Derdimi",
       "url": "https://open.spotify.com/track/5FWvMECg6c1MjiCq3Qhhgp"
@@ -3264,7 +3354,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252653,
       "name": "Anlatmam Derdimi",
       "url": "https://open.spotify.com/track/7fAYnSNNT1koavh4vcSJ76"
@@ -3362,6 +3452,24 @@
     {
       "album": {
         "name": "Keira",
+        "url": "https://open.spotify.com/album/2MCLTuwWCBLuWaI91DRpVP"
+      },
+      "artists": [
+        {
+          "name": "Susso",
+          "url": "https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325872,
+      "name": "Ansumana",
+      "url": "https://open.spotify.com/track/7HYUvtCD0BklQbtf6hoRjk"
+    },
+    {
+      "album": {
+        "name": "Keira",
         "url": "https://open.spotify.com/album/6VZVFRzVDGVyNMDAiv0fUH"
       },
       "artists": [
@@ -3372,7 +3480,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325872,
       "name": "Ansumana",
       "url": "https://open.spotify.com/track/7IxNCxNDEAvusIhzfL5Fmu"
@@ -3564,7 +3672,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175440,
       "name": "Asaw Fofor",
       "url": "https://open.spotify.com/track/33zf2XhRlh08LrYEvNt7xC"
@@ -3582,7 +3690,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175440,
       "name": "Asaw Fofor",
       "url": "https://open.spotify.com/track/5xeaAOXP45iC6nVBPHU7l3"
@@ -3698,6 +3806,24 @@
     {
       "album": {
         "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/2OZuC75dcQ0wO5aWVRQCIR"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479546,
+      "name": "Atomic Bomb",
+      "url": "https://open.spotify.com/track/5dEt0DGA9MGwBlwdBG6a62"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
         "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
       },
       "artists": [
@@ -3708,7 +3834,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 479546,
       "name": "Atomic Bomb",
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
@@ -4168,7 +4294,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278863,
       "name": "Badi Sabah Olmadan",
       "url": "https://open.spotify.com/track/76IH2fdRf9yXCRYEzcXZeP"
@@ -4186,7 +4312,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283398,
       "name": "Badi Sabah Olmadan",
       "url": "https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t"
@@ -4372,6 +4498,24 @@
     {
       "album": {
         "name": "Cumbia Cumbia 1 & 2",
+        "url": "https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM"
+      },
+      "artists": [
+        {
+          "name": "Los Guacheros",
+          "url": "https://open.spotify.com/artist/5Gz6owc3ZEEPpG15e263CK"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "Baila Rosita",
+      "url": "https://open.spotify.com/track/3g1JITIlyQ2sKpun6t6huA"
+    },
+    {
+      "album": {
+        "name": "Cumbia Cumbia 1 & 2",
         "url": "https://open.spotify.com/album/33nptLvg4fk3Alpy32a5s3"
       },
       "artists": [
@@ -4400,7 +4544,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174466,
       "name": "Baila Rosita",
       "url": "https://open.spotify.com/track/7Mw1VgKBqwMbveorpKZgYI"
@@ -4569,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "Bal",
+        "url": "https://open.spotify.com/album/3IEJGD1Nb49npTZm7imHw3"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312986,
+      "name": "Bal",
+      "url": "https://open.spotify.com/track/1eV4x1tCwZJn6mfiK57M2h"
+    },
+    {
+      "album": {
         "name": "Dost 2",
         "url": "https://open.spotify.com/album/4AqNq8liYqYhoOKBHbUsZu"
       },
@@ -4580,7 +4742,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312986,
       "name": "Bal",
       "url": "https://open.spotify.com/track/6k5V1UHTZoaQ5ULkIEYACx"
@@ -4620,7 +4782,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243680,
       "name": "Balada Borracha",
       "url": "https://open.spotify.com/track/027qnxITdioRnZKSuySpUF"
@@ -4664,7 +4826,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243680,
       "name": "Balada Borracha",
       "url": "https://open.spotify.com/track/4KGeMBmkTsyYf3v62nahBF"
@@ -5008,6 +5170,24 @@
     {
       "album": {
         "name": "Atomic Bomb",
+        "url": "https://open.spotify.com/album/2k5TrAeodafPre7e6ZN7RE"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505973,
+      "name": "Beautiful Baby",
+      "url": "https://open.spotify.com/track/6m6huMZwZlXHORG96RIa8E"
+    },
+    {
+      "album": {
+        "name": "Atomic Bomb",
         "url": "https://open.spotify.com/album/7dpwVWiLiTDzmIOALg2QPS"
       },
       "artists": [
@@ -5018,7 +5198,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 505986,
       "name": "Beautiful Baby",
       "url": "https://open.spotify.com/track/0YjaCe8mY3u2vmpBe3tY4e"
@@ -5134,6 +5314,24 @@
     {
       "album": {
         "name": "Atomic Bomb",
+        "url": "https://open.spotify.com/album/2k5TrAeodafPre7e6ZN7RE"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502720,
+      "name": "Better Change Your Mind",
+      "url": "https://open.spotify.com/track/2HQpXO6WJjWeG2fyLzzP2O"
+    },
+    {
+      "album": {
+        "name": "Atomic Bomb",
         "url": "https://open.spotify.com/album/1PHeK18oofQWSwJ8Ygg66b"
       },
       "artists": [
@@ -5162,7 +5360,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 502933,
       "name": "Better Change Your Mind",
       "url": "https://open.spotify.com/track/3QPbXJa0qz3hxAFCQO2hU0"
@@ -5590,6 +5788,24 @@
     {
       "album": {
         "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1ZxHhvsejg9L13FVHrt70H"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329746,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/3poDrygp0T61i5JYpCzRPU"
+    },
+    {
+      "album": {
+        "name": "Baile Bucanero",
         "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
       },
       "artists": [
@@ -5600,7 +5816,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329746,
       "name": "Bogot\u00e1",
       "url": "https://open.spotify.com/track/5UJ1qajLeDdRoBdHig6ipt"
@@ -5777,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Soul Jazz Records Presents Rastafari: The Dreads Enter Babylon 1955-83 (From Nyabinghi, Burro and Grounation to Roots and Revelation)",
+        "url": "https://open.spotify.com/album/2c4G777r87FjE1y1VyGtX5"
+      },
+      "artists": [
+        {
+          "name": "Ras Michael and The Sons Of Negus",
+          "url": "https://open.spotify.com/artist/1vc9BdsxN00MpgIY1lifuB"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341760,
+      "name": "Booma Yeah",
+      "url": "https://open.spotify.com/track/4vFkNjrsLCVeWdnMocUB0G"
+    },
+    {
+      "album": {
         "name": "Soul Jazz Records Presents Rastafari: The Dreads Enter Babylon 1955-83 - From Nyabinghi, Burro and Grounation to Roots and Revelation",
         "url": "https://open.spotify.com/album/3ZLihkxR4Hk4a2SFdB57qT"
       },
@@ -5788,7 +6022,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341760,
       "name": "Booma Yeah",
       "url": "https://open.spotify.com/track/6BtxrJFxfFe7D8N2a8sHDD"
@@ -6218,10 +6452,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359786,
       "name": "Cail la mand\u00e9 rous\u00e9",
       "url": "https://open.spotify.com/track/7D2rJBbARrD781fy6zPsdl"
+    },
+    {
+      "album": {
+        "name": "Nova le grand mix 2016",
+        "url": "https://open.spotify.com/album/3ShbPC0qbDnsDeaIOBvld9"
+      },
+      "artists": [
+        {
+          "name": "Toto N\u00e9cessit\u00e9",
+          "url": "https://open.spotify.com/artist/2FuKS7GsD89q336FtXQW05"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359760,
+      "name": "Caill la mand\u00e9 rous\u00e9",
+      "url": "https://open.spotify.com/track/0BYU5EVOlIWJsmOuyhC1oc"
     },
     {
       "album": {
@@ -6279,6 +6531,24 @@
     },
     {
       "album": {
+        "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
+        "url": "https://open.spotify.com/album/7rWxK7htj2ZT0vnDYDgS5S"
+      },
+      "artists": [
+        {
+          "name": "La Tromba",
+          "url": "https://open.spotify.com/artist/43wNUvXh1zVQ6jNT9Dxwwt"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "Calaba Calabao",
+      "url": "https://open.spotify.com/track/0M2KkTcCJSw6P0VaG0fqSD"
+    },
+    {
+      "album": {
         "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 - 91",
         "url": "https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq"
       },
@@ -6308,7 +6578,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229933,
       "name": "Calaba Calabao",
       "url": "https://open.spotify.com/track/7scoNOkySD9K0G8oWaOdjZ"
@@ -6380,7 +6650,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171586,
       "name": "Calypso Blues",
       "url": "https://open.spotify.com/track/6s0t55KTpnYhhfgsjZr480"
@@ -6398,7 +6668,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171594,
       "name": "Calypso Blues",
       "url": "https://open.spotify.com/track/2snp1kxxBehioucmM5F86b"
@@ -6478,6 +6748,24 @@
     {
       "album": {
         "name": "De La Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1cfuCp2ZZgoIsfAXRA5Pux"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186675,
+      "name": "Canci\u00f3n De Aplauso",
+      "url": "https://open.spotify.com/track/1fkADGYf5glUI6kgZZaQYZ"
+    },
+    {
+      "album": {
+        "name": "De La Canci\u00f3n",
         "url": "https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch"
       },
       "artists": [
@@ -6488,7 +6776,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186675,
       "name": "Canci\u00f3n De Aplauso",
       "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
@@ -6542,7 +6830,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200858,
       "name": "Canci\u00f3n del Rey",
       "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
@@ -6564,6 +6852,24 @@
       "duration_ms": 200858,
       "name": "Canci\u00f3n del Rey",
       "url": "https://open.spotify.com/track/2UXT7ScJLcd9czayXl2bWZ"
+    },
+    {
+      "album": {
+        "name": "5 Star Motel",
+        "url": "https://open.spotify.com/album/2hXlQhFjytZVPZOLpjsYAg"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200858,
+      "name": "Canci\u00f3n del Rey",
+      "url": "https://open.spotify.com/track/5aFfxdkeb1KGpdJpx8hams"
     },
     {
       "album": {
@@ -7202,7 +7508,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 168626,
       "name": "Cayetano",
       "url": "https://open.spotify.com/track/7A2oCgCKo2UiQ8ggGsm8GA"
@@ -7224,7 +7530,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168626,
       "name": "Cayetano",
       "url": "https://open.spotify.com/track/1BFaDSpomuQfAGhhIn6Oaj"
@@ -7267,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "World Psychedelic Classics: Love's A Real Thing",
+        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309800,
+      "name": "Ceddo End Title",
+      "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
+    },
+    {
+      "album": {
         "name": "World Psychedelic Classics 3: Love's a Real Thing",
         "url": "https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6"
       },
@@ -7278,7 +7602,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309800,
       "name": "Ceddo End Title",
       "url": "https://open.spotify.com/track/5d00kR2kWPxc1rnKsGh32S"
@@ -7678,7 +8002,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182635,
       "name": "Chella lla",
       "url": "https://open.spotify.com/track/7MGIfh58V15L5iqwsPa8LX"
@@ -7696,7 +8020,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182321,
       "name": "Chella Ll\u00e0 - Remaster 2001",
       "url": "https://open.spotify.com/track/3qOjrbUa4Xr1LHdEdUf3rD"
@@ -7768,7 +8092,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214553,
       "name": "Chicha Nola",
       "url": "https://open.spotify.com/track/1NGZ07IZFQ0LMVnsBst45o"
@@ -7822,7 +8146,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214553,
       "name": "Chicha Nola - Alternative Version",
       "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
@@ -8072,10 +8396,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177266,
       "name": "Coisa Da Antiga",
       "url": "https://open.spotify.com/track/725Wi8BXKcLdc497RPER2u"
+    },
+    {
+      "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180253,
+      "name": "Coisa Da Antiga",
+      "url": "https://open.spotify.com/track/7r3F5k3pccPAfYLSuGg18R"
     },
     {
       "album": {
@@ -8108,7 +8450,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175906,
       "name": "Cojeme la casa",
       "url": "https://open.spotify.com/track/3w2N2EBA0XVlE8GitLtc0U"
@@ -8126,7 +8468,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175906,
       "name": "Cojeme la casa",
       "url": "https://open.spotify.com/track/6BH4MEJbWT2KncSQGIPRUy"
@@ -8170,7 +8512,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129946,
       "name": "Colas-la",
       "url": "https://open.spotify.com/track/1rChu02dF4FwZondLw61Ef"
@@ -8196,6 +8538,28 @@
       "duration_ms": 129946,
       "name": "Colas-la",
       "url": "https://open.spotify.com/track/6AFdy4RwrrmyRN9mmCxCrd"
+    },
+    {
+      "album": {
+        "name": "Tumb\u00e9l\u00e9! Biguine, Afro & Latin Sounds from the French Caribbean, 1963-74",
+        "url": "https://open.spotify.com/album/0IaaLkuvylS7ANuXGxHnEM"
+      },
+      "artists": [
+        {
+          "name": "Claude Rolcin",
+          "url": "https://open.spotify.com/artist/1uwNOFTQGDpmt7ciBNXLSg"
+        },
+        {
+          "name": "Le West Indian Combo",
+          "url": "https://open.spotify.com/artist/66GvXb8hYThZC4EMEQptCQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129946,
+      "name": "Colas-la",
+      "url": "https://open.spotify.com/track/71QX9jpVz7gtbQbReimZni"
     },
     {
       "album": {
@@ -8412,7 +8776,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175533,
       "name": "Commotion",
       "url": "https://open.spotify.com/track/1iM56axnhLRRV4T9Q9yzyw"
@@ -8434,6 +8798,24 @@
       "duration_ms": 175533,
       "name": "Commotion",
       "url": "https://open.spotify.com/track/24yum3A1dltBKYMVOCJbsV"
+    },
+    {
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1ZxHhvsejg9L13FVHrt70H"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175533,
+      "name": "Commotion",
+      "url": "https://open.spotify.com/track/7tuzpjzU0gUm1VEwDSPD8e"
     },
     {
       "album": {
@@ -8650,10 +9032,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188200,
       "name": "Corre Riba, Corre Baxo",
       "url": "https://open.spotify.com/track/0EYWqqcA5u50FyEaFw1i5R"
+    },
+    {
+      "album": {
+        "name": "\"Space Echo\" - The mystery behind the \"Cosmic Sound\u201d of Cabo Verde finally revealed! (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/6QUlQVT0P1zqsIfyWTjxVt"
+      },
+      "artists": [
+        {
+          "name": "Abel Lima",
+          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Corre Riba, Corre Baxo",
+      "url": "https://open.spotify.com/track/2FtErelpxJIk3Z5yKwKf2e"
     },
     {
       "album": {
@@ -8722,7 +9122,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130160,
       "name": "Couleur caf\u00e9",
       "url": "https://open.spotify.com/track/5wU2HvqNDljN1GhTvOxWye"
@@ -8758,7 +9158,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134426,
       "name": "Couleur caf\u00e9",
       "url": "https://open.spotify.com/track/3qgx26V2POGIsGAFLyWJsx"
@@ -8820,6 +9220,28 @@
     {
       "album": {
         "name": "Azulejos",
+        "url": "https://open.spotify.com/album/24Y7GoTx4nvGgxmEWYp1dt"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322336,
+      "name": "Cru",
+      "url": "https://open.spotify.com/track/1XW2vH7WU831nnXEkip4Jx"
+    },
+    {
+      "album": {
+        "name": "Azulejos",
         "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
       "artists": [
@@ -8834,7 +9256,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322336,
       "name": "Cru",
       "url": "https://open.spotify.com/track/2Y0J8jtuYcyDoxdPCwNy0M"
@@ -9088,6 +9510,24 @@
     {
       "album": {
         "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/3KPBq25Rgfyoidys5MACB9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161426,
+      "name": "Cumbia de los Pajaritos",
+      "url": "https://open.spotify.com/track/2TPTqpa95UsloVWAhA1noC"
+    },
+    {
+      "album": {
+        "name": "Sonidos Gold",
         "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
       "artists": [
@@ -9098,7 +9538,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161426,
       "name": "Cumbia De Los Pajaritos",
       "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
@@ -9337,6 +9777,24 @@
     },
     {
       "album": {
+        "name": "The Original Sound of Cumbia",
+        "url": "https://open.spotify.com/album/0zTVwdBig40AeSrBmI4NBy"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Los Rumberos",
+          "url": "https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Cumbia del Puerto",
+      "url": "https://open.spotify.com/track/1VYVGqHZxNMFHClLeqnzDX"
+    },
+    {
+      "album": {
         "name": "La Edad De Oro De La Cumbia Colombiana",
         "url": "https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS"
       },
@@ -9384,7 +9842,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163840,
       "name": "Cumbia del Puerto",
       "url": "https://open.spotify.com/track/75g8LRxKHH7YmQyUWMWIy1"
@@ -9472,6 +9930,24 @@
     {
       "album": {
         "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
+    },
+    {
+      "album": {
+        "name": "Ondatr\u00f3pica",
         "url": "https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC"
       },
       "artists": [
@@ -9482,7 +9958,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245280,
       "name": "Cumbia Espacial",
       "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
@@ -9642,7 +10118,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 377293,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
@@ -9664,7 +10140,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377293,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/6znjOwrvur265V4hEx6mtl"
@@ -9711,6 +10187,24 @@
     },
     {
       "album": {
+        "name": "Mambo Calypso",
+        "url": "https://open.spotify.com/album/6b9wfpdK1qAXqxBBaA94ut"
+      },
+      "artists": [
+        {
+          "name": "Trio Serenata",
+          "url": "https://open.spotify.com/artist/1XQ6yrNWT17FAepFzRYI5q"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173019,
+      "name": "Cumbia Sobre El Mar",
+      "url": "https://open.spotify.com/track/7hrEH3ZniohPrJot0cknZj"
+    },
+    {
+      "album": {
         "name": "Soundway Presents: The Original Sound of Cumbia (The History of Colombian Cumbia & Porro As Told By The Phonograph 1948-79 Compiled by Quantic)",
         "url": "https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO"
       },
@@ -9740,10 +10234,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173493,
       "name": "Cumbia Sobre El Mar",
       "url": "https://open.spotify.com/track/37pWwirKiLXJM6EKHn3Soq"
+    },
+    {
+      "album": {
+        "name": "Cumbia Sobre el Mar / Inmortales (El B\u00faho Remixes)",
+        "url": "https://open.spotify.com/album/54UzgbjF7Jtq3xPJ2m2ylB"
+      },
+      "artists": [
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312914,
+      "name": "Cumbia Sobre el Mar (El B\u00faho Remix)",
+      "url": "https://open.spotify.com/track/3MKXaqOGIbJc2mF5wJc85U"
     },
     {
       "album": {
@@ -9792,7 +10308,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312914,
       "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo"
@@ -9898,7 +10414,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203446,
       "name": "Curious Story",
       "url": "https://open.spotify.com/track/6AWUPF6tmhik3ik3cxxGFN"
@@ -9916,7 +10432,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203446,
       "name": "Curious Story (Charanga)",
       "url": "https://open.spotify.com/track/5tyKRuLKOe0JO8G9Io4g1s"
@@ -9988,7 +10504,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304266,
       "name": "D'Leau Coco",
       "url": "https://open.spotify.com/track/1N2ZVmzlarsELFFsY0PYew"
@@ -10010,6 +10526,24 @@
       "duration_ms": 304266,
       "name": "D'Leau Coco",
       "url": "https://open.spotify.com/track/1z18618WILmJXuZj39euTv"
+    },
+    {
+      "album": {
+        "name": "Tumb\u00e9l\u00e9! Biguine, Afro & Latin Sounds from the French Caribbean, 1963-74",
+        "url": "https://open.spotify.com/album/0IaaLkuvylS7ANuXGxHnEM"
+      },
+      "artists": [
+        {
+          "name": "Les Leopards",
+          "url": "https://open.spotify.com/artist/18MXPLWA1Ufr1jpn9bMDzJ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304266,
+      "name": "D'Leau Coco",
+      "url": "https://open.spotify.com/track/31HvZopoiM41EZKzLnWrlQ"
     },
     {
       "album": {
@@ -10042,7 +10576,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193746,
       "name": "Da Garrafa Uma Pinga",
       "url": "https://open.spotify.com/track/1Mx1dnpKsecZqpkv2uzsKp"
@@ -10064,6 +10598,24 @@
       "duration_ms": 193746,
       "name": "Da Garrafa Uma Pinga",
       "url": "https://open.spotify.com/track/2OAXjiNO188ScJmSXzlS7t"
+    },
+    {
+      "album": {
+        "name": "Jamb\u00fa - e os m\u00edticos sons da amaz\u00f4nia (Analog Africa No. 28)",
+        "url": "https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06"
+      },
+      "artists": [
+        {
+          "name": "Verequete & Grupo Uirapuru",
+          "url": "https://open.spotify.com/artist/443ze6k50blSLjebUWckw4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193746,
+      "name": "Da Garrafa uma pinga",
+      "url": "https://open.spotify.com/track/7HirOACR0WnRmCodke8QDo"
     },
     {
       "album": {
@@ -10100,7 +10652,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234986,
       "name": "Dadje Von O Von Non",
       "url": "https://open.spotify.com/track/0yIuAckn8fWwz4PeUdobBJ"
@@ -10136,7 +10688,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234986,
       "name": "Dadje Von O Von Non",
       "url": "https://open.spotify.com/track/5a8TizTYNs7GKvCcMCZyT4"
@@ -10292,10 +10844,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278733,
       "name": "Dambakal\u00e9",
       "url": "https://open.spotify.com/track/0e6CzrvDYeiUGxegRRBQLT"
+    },
+    {
+      "album": {
+        "name": "Bambara Mystic Soul: The Raw Sound of Burkina Faso 1974 - 1979 (Analog Africa No. 11)",
+        "url": "https://open.spotify.com/album/06D1zsw2NrXd1gP4IwCIJ9"
+      },
+      "artists": [
+        {
+          "name": "Compaor\u00e9 Issouf",
+          "url": "https://open.spotify.com/artist/72oEnftvl9SdKX0I6xqfhR"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278733,
+      "name": "Dambakal\u00e9",
+      "url": "https://open.spotify.com/track/17VWZherB1IA0ZhSdwCl9h"
     },
     {
       "album": {
@@ -10462,6 +11032,24 @@
     {
       "album": {
         "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/5yuCUyZ5I9rgKQj9ljAkmJ"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240545,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/20w21c1iAykTm8yCndq3dE"
+    },
+    {
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
         "url": "https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3"
       },
       "artists": [
@@ -10508,7 +11096,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240545,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/5s9JAtLgPxQRZNnE3sqoGB"
@@ -10850,10 +11438,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207573,
       "name": "Dejala Corre",
       "url": "https://open.spotify.com/track/6s4WiH3x3f9TZdfumWTZ10"
+    },
+    {
+      "album": {
+        "name": "Nova - Coffret Danse",
+        "url": "https://open.spotify.com/album/6AQVXfeaP8m7o12jcQrSNb"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Hijos de La Ni\u00f1a Luz",
+          "url": "https://open.spotify.com/artist/3BT4HmMIyquactzeWgv3ql"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Dejala Corre",
+      "url": "https://open.spotify.com/track/5NhXaqO97kJcC1z9MDxY2f"
     },
     {
       "album": {
@@ -11081,6 +11687,24 @@
     },
     {
       "album": {
+        "name": "\"Space Echo\" - The mystery behind the \"Cosmic Sound\u201d of Cabo Verde finally revealed! (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/6QUlQVT0P1zqsIfyWTjxVt"
+      },
+      "artists": [
+        {
+          "name": "Dionisio Maio",
+          "url": "https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276981,
+      "name": "Dia Ja Manche",
+      "url": "https://open.spotify.com/track/58VKqjpTFlgL9PxOdUD61b"
+    },
+    {
+      "album": {
         "name": "Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! (Analog Africa No. 20)",
         "url": "https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP"
       },
@@ -11092,7 +11716,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276981,
       "name": "Dia Ja Manche",
       "url": "https://open.spotify.com/track/7zsFoCTsDuKvH7HUiA1yDi"
@@ -11114,7 +11738,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240458,
       "name": "Diablada Disco",
       "url": "https://open.spotify.com/track/75gwdqZPMjfsjBJTWNNj3w"
@@ -11180,7 +11804,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240458,
       "name": "Diablada Disco",
       "url": "https://open.spotify.com/track/03yeCQfsXJ4W7OYgHumYZW"
@@ -11394,7 +12018,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 440626,
       "name": "Djal Bai Si Camin",
       "url": "https://open.spotify.com/track/2DJl2LQ5YMtzGEGFYdN1U9"
@@ -11430,7 +12054,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 440626,
       "name": "Djal Bai Si Camin",
       "url": "https://open.spotify.com/track/68mOFQIOQhT0Lq8p6GyiOX"
@@ -11466,10 +12090,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192226,
       "name": "Do Leme Ao Pontal",
       "url": "https://open.spotify.com/track/70QAZmaOxrSQGP2OMY5DUz"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Do Leme Ao Pontal",
+      "url": "https://open.spotify.com/track/7k9lIvJqUOpo3JDCipLKoE"
     },
     {
       "album": {
@@ -11918,7 +12560,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225066,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/7IW4UNN8HenlxZAJg3KK3l"
@@ -11940,10 +12582,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223063,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/2FrpmzJunH9Au3UBJbHtvZ"
+    },
+    {
+      "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/09v7KPtkOq6WuzUYkhuKGz"
+      },
+      "artists": [
+        {
+          "name": "Pressure Drop",
+          "url": "https://open.spotify.com/artist/3RWRlV5ZZpIVFYdqHutuqo"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323546,
+      "name": "Dusk - Instrumental Edit",
+      "url": "https://open.spotify.com/track/5DUbukqxVig24jvCIOmBhq"
     },
     {
       "album": {
@@ -11958,7 +12618,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330269,
       "name": "Dusk - Instrumental Edit",
       "url": "https://open.spotify.com/track/0PtWwCYJ9Uz6WjMJs6WxsB"
@@ -12278,6 +12938,24 @@
     {
       "album": {
         "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
+        "url": "https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U"
+      },
+      "artists": [
+        {
+          "name": "Hedzoleh Soundz",
+          "url": "https://open.spotify.com/artist/7GCftuKAPtpukG1SW4FGF2"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "Edinya Benya",
+      "url": "https://open.spotify.com/track/2pw3ZjLo2EZ4nFJiqzy1MT"
+    },
+    {
+      "album": {
+        "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
         "url": "https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz"
       },
       "artists": [
@@ -12324,10 +13002,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197026,
       "name": "Edinya Benya",
       "url": "https://open.spotify.com/track/6pre7E5PU8rMvSYIT1HXgz"
+    },
+    {
+      "album": {
+        "name": "Baterista: Wilson Das Neves",
+        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114666,
+      "name": "Edmundo (In The Mood)",
+      "url": "https://open.spotify.com/track/2udIMpNxF68QIjKCwnyUeL"
     },
     {
       "album": {
@@ -12342,7 +13038,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117000,
       "name": "Edmundo (In The Mood)",
       "url": "https://open.spotify.com/track/1jbK6GJ8YHdGq3rQvDHOa3"
@@ -12364,28 +13060,6 @@
       "duration_ms": 115486,
       "name": "Edmundo (In the Mood) - Remastered",
       "url": "https://open.spotify.com/track/4FFdDbWsOeP85NUQI7kCF1"
-    },
-    {
-      "album": {
-        "name": "Baterista: Wilson Das Neves",
-        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        },
-        {
-          "name": "Oswaldo Borba E Sua Orquestra",
-          "url": "https://open.spotify.com/artist/4LFS1T3yghQZ2zanxmUuz8"
-        }
-      ],
-      "date_added": "2022-07-12",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 114666,
-      "name": "Edmundo (In The Mood) - Remastered",
-      "url": "https://open.spotify.com/track/2udIMpNxF68QIjKCwnyUeL"
     },
     {
       "album": {
@@ -12758,7 +13432,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322395,
       "name": "El Carretero",
       "url": "https://open.spotify.com/track/105o5Qruu5bJurKqnSxtRN"
@@ -12776,7 +13450,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 322395,
       "name": "El Carretero",
       "url": "https://open.spotify.com/track/19ekYLYeeZQkr2TAjRMZW1"
@@ -12856,7 +13530,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 329666,
       "name": "El Chiclan",
       "url": "https://open.spotify.com/track/3CLy9XwFhfq46F1gqlH13J"
@@ -12878,7 +13552,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329666,
       "name": "El Chiclan",
       "url": "https://open.spotify.com/track/3pBsTGaerL7pexxMyKdvhW"
@@ -13128,7 +13802,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182493,
       "name": "El Lobo",
       "url": "https://open.spotify.com/track/0CElgyNyOIQZ7b7tZa2m8e"
@@ -13150,6 +13824,24 @@
       "duration_ms": 182493,
       "name": "El Lobo",
       "url": "https://open.spotify.com/track/0dgxoGtXDjStLnCJeeErvO"
+    },
+    {
+      "album": {
+        "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
+        "url": "https://open.spotify.com/album/7rWxK7htj2ZT0vnDYDgS5S"
+      },
+      "artists": [
+        {
+          "name": "Wganda Kenya",
+          "url": "https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "El Lobo",
+      "url": "https://open.spotify.com/track/1uzzzHuooaIxnburo0DAk7"
     },
     {
       "album": {
@@ -13298,10 +13990,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250177,
       "name": "El Oro De La Tolita",
       "url": "https://open.spotify.com/track/2a6bEcIjhZtSPAVfpABuhP"
+    },
+    {
+      "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/4JIjvGMkw0IDOBq0d5MJIu"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        },
+        {
+          "name": "Grupo Taribo",
+          "url": "https://open.spotify.com/artist/4gN6W6ozbn0iO9xrinJfeO"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250177,
+      "name": "El Oro de la Tolita",
+      "url": "https://open.spotify.com/track/55ZWHXpqGpyysrzes9atsV"
     },
     {
       "album": {
@@ -13540,7 +14254,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152266,
       "name": "El sabrosito",
       "url": "https://open.spotify.com/track/2FFZfUaMUpAYMwWVJ7oILU"
@@ -13558,7 +14272,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152266,
       "name": "El sabrosito",
       "url": "https://open.spotify.com/track/7Jj7kSb5GZlVHPdVEUKFZc"
@@ -13872,10 +14586,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
+    },
+    {
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/5WSHxP5AtfzdVdZrLC8LjP"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376973,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/5kSw9ucij6ybyblVe7KQr5"
     },
     {
       "album": {
@@ -13973,6 +14705,24 @@
     },
     {
       "album": {
+        "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
+        "url": "https://open.spotify.com/album/7rWxK7htj2ZT0vnDYDgS5S"
+      },
+      "artists": [
+        {
+          "name": "Manuel Alvaraz Y Sus Dangers",
+          "url": "https://open.spotify.com/artist/5fOWsNwgW5dl7kIhpareql"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Esclavo Moderno",
+      "url": "https://open.spotify.com/track/6m8V1nyHoV67P0VHY5Qv0z"
+    },
+    {
+      "album": {
         "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 - 91",
         "url": "https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq"
       },
@@ -14002,7 +14752,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174640,
       "name": "Esclavo Moderno",
       "url": "https://open.spotify.com/track/5fu9lJ1F9kOTJduo3MByZq"
@@ -14038,7 +14788,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244653,
       "name": "Escravos de Jo",
       "url": "https://open.spotify.com/track/41pdFxcwmUfjk7mzrs1QGm"
@@ -14074,7 +14824,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244653,
       "name": "Escravos de Jo",
       "url": "https://open.spotify.com/track/6fmVkkfQMJFeLAzoeYmzDP"
@@ -14386,7 +15136,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248866,
       "name": "Exchange No Robbery",
       "url": "https://open.spotify.com/track/20bt7VayxjDIWoxaAvKAro"
@@ -14422,7 +15172,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248866,
       "name": "Exchange No Robbery",
       "url": "https://open.spotify.com/track/5DnTKViBDbm0J2yHo8ZoPG"
@@ -14566,10 +15316,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 386160,
       "name": "Fantastic Man",
       "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/2OZuC75dcQ0wO5aWVRQCIR"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/2B6945YOzaZaWncHmywJtO"
     },
     {
       "album": {
@@ -14646,7 +15414,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292506,
       "name": "Fatou",
       "url": "https://open.spotify.com/track/5R3bTkfYos0IiYPbvmPdjR"
@@ -14672,6 +15440,28 @@
       "duration_ms": 291844,
       "name": "Fatou",
       "url": "https://open.spotify.com/track/6b9WKmEeCkNvJ1kgL9CEVA"
+    },
+    {
+      "album": {
+        "name": "Amara Tour\u00e9 '1973 - 1980' (Analog Africa No. 18)",
+        "url": "https://open.spotify.com/album/0vqVDVxuGOgb7ktuYX8mHC"
+      },
+      "artists": [
+        {
+          "name": "Amara Tour\u00e9",
+          "url": "https://open.spotify.com/artist/5RGtAYEsGnRFhqcZeWIyOd"
+        },
+        {
+          "name": "L'Orchestre Massako",
+          "url": "https://open.spotify.com/artist/160LTtu0W4KJMruVLFSBbN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292506,
+      "name": "Fatou",
+      "url": "https://open.spotify.com/track/4jQRH9bDoB70h1NyuVTCP0"
     },
     {
       "album": {
@@ -14906,7 +15696,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155040,
       "name": "Fiesta de negritos",
       "url": "https://open.spotify.com/track/1fetWEwJbyD2V8t3ftrwsH"
@@ -14949,6 +15739,24 @@
     },
     {
       "album": {
+        "name": "Lucho Berm\u00fadez y Su Orquesta",
+        "url": "https://open.spotify.com/album/4nbvW9sYHdpu3R4jErUD5s"
+      },
+      "artists": [
+        {
+          "name": "Lucho Bermudez Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155040,
+      "name": "Fiesta de negritos",
+      "url": "https://open.spotify.com/track/6zDNIslMTDm2LT50XLRPR5"
+    },
+    {
+      "album": {
         "name": "Fiesta de negritos (Remastered)",
         "url": "https://open.spotify.com/album/14GgEmxWEPZxByGfVMFcyk"
       },
@@ -14985,6 +15793,24 @@
     },
     {
       "album": {
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
+    },
+    {
+      "album": {
         "name": "Sol de Ver\u00e3o 2021",
         "url": "https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH"
       },
@@ -14996,7 +15822,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139360,
       "name": "Figa De Guin\u00e9",
       "url": "https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7"
@@ -15786,6 +16612,24 @@
     {
       "album": {
         "name": "Padang Moonrise: The Birth of the Modern Indonesian Recording Industry (1955-69)",
+        "url": "https://open.spotify.com/album/1P3dbgNloU9QxymQxJxKQp"
+      },
+      "artists": [
+        {
+          "name": "Orkes Teruna Ria",
+          "url": "https://open.spotify.com/artist/1nODTtepYj7jrl1CBiHceD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Geleang Sapi",
+      "url": "https://open.spotify.com/track/0nVJUisPCzQepA5EM6p0wn"
+    },
+    {
+      "album": {
+        "name": "Padang Moonrise: The Birth of the Modern Indonesian Recording Industry (1955-69)",
         "url": "https://open.spotify.com/album/2VcjOyFmj6AW9OCMEIbWiT"
       },
       "artists": [
@@ -15814,7 +16658,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199000,
       "name": "Geleang Sapi",
       "url": "https://open.spotify.com/track/23FFvdTwB9sHjFHX9Ogdr5"
@@ -16772,6 +17616,24 @@
     {
       "album": {
         "name": "World Psychedelic Classics: Love's A Real Thing",
+        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
+      },
+      "artists": [
+        {
+          "name": "No. 1 De No. 1",
+          "url": "https://open.spotify.com/artist/1bYETljVMhDvjtFge0c8Ye"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312480,
+      "name": "Guajira Van",
+      "url": "https://open.spotify.com/track/0UQ5Ihb9d5W6i9LXMXmc9z"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics: Love's A Real Thing",
         "url": "https://open.spotify.com/album/0asepq8bUj1HDuIvLO1Pjz"
       },
       "artists": [
@@ -16800,7 +17662,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312480,
       "name": "Guajira Van",
       "url": "https://open.spotify.com/track/4rQNHz0qIqU95EctOoaviy"
@@ -16980,7 +17842,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226974,
       "name": "G\u00fczelli\u011fin On Para Etmez",
       "url": "https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr"
@@ -17016,7 +17878,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 226974,
       "name": "G\u00fczelli\u011fin On Para Etmez",
       "url": "https://open.spotify.com/track/5PP3y51Sfrv9kcGtVZqIWx"
@@ -17160,7 +18022,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196573,
       "name": "Haile Selassie",
       "url": "https://open.spotify.com/track/2ECEXcuVGtoXqiAxBUvpX8"
@@ -17196,7 +18058,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196573,
       "name": "Haile Selassie",
       "url": "https://open.spotify.com/track/7cV4CAFFkNkc5CQZ960UUv"
@@ -17545,6 +18407,24 @@
     },
     {
       "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/2OZuC75dcQ0wO5aWVRQCIR"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Heaven and Hell",
+      "url": "https://open.spotify.com/track/4gNlDPuBlf3rxkxRaDTAvf"
+    },
+    {
+      "album": {
         "name": "Box Set",
         "url": "https://open.spotify.com/album/4PxvAyPKkslgDI1k2f1L1Y"
       },
@@ -17592,7 +18472,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243053,
       "name": "Heaven and Hell",
       "url": "https://open.spotify.com/track/6ozxplTAjWO0BlUxN8ia0A"
@@ -17794,7 +18674,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 406870,
       "name": "Hind / \u0647\u0646\u062f",
       "url": "https://open.spotify.com/track/4KltOxhg2QpBNVUTp05YBQ"
@@ -17830,7 +18710,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406870,
       "name": "Hind / \u0647\u0646\u062f",
       "url": "https://open.spotify.com/track/4dAno0a4Qdia9eeciFCeE5"
@@ -18084,7 +18964,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
@@ -18128,7 +19008,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/7p6CgRGbeR6WyidudAzbsf"
@@ -18654,6 +19534,24 @@
     {
       "album": {
         "name": "Ifetayo (Love Excels All)",
+        "url": "https://open.spotify.com/album/3HTHCGuVm9zH3G0Qjuu16H"
+      },
+      "artists": [
+        {
+          "name": "Black Truth Rhythm Band",
+          "url": "https://open.spotify.com/artist/6uGsjLM37XoJ90qzxRnGjn"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348840,
+      "name": "Ifetayo",
+      "url": "https://open.spotify.com/track/4m7SkgUjSDnDBR7lOQpbWK"
+    },
+    {
+      "album": {
+        "name": "Ifetayo (Love Excels All)",
         "url": "https://open.spotify.com/album/7eldXOVLu4Vv3zrpgbNDhF"
       },
       "artists": [
@@ -18664,7 +19562,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348840,
       "name": "Ifetayo",
       "url": "https://open.spotify.com/track/6TkWfTj9tLd8tJzd2Y5o5Q"
@@ -18748,6 +19646,28 @@
     {
       "album": {
         "name": "Bienaventuranza",
+        "url": "https://open.spotify.com/album/0s9L2vFeDpsDbtgeBzAuAT"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300721,
+      "name": "Ilal\u00f3",
+      "url": "https://open.spotify.com/track/2rA9VFQX5Bp6ozzwyCsOJ0"
+    },
+    {
+      "album": {
+        "name": "Bienaventuranza",
         "url": "https://open.spotify.com/album/4drzgKTRP2tpl3Sic0osBQ"
       },
       "artists": [
@@ -18762,7 +19682,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300721,
       "name": "Ilal\u00f3",
       "url": "https://open.spotify.com/track/36MwyyD3Bf7RHlq1zqmfMr"
@@ -19250,7 +20170,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175906,
       "name": "J'Ouvert Barrio",
       "url": "https://open.spotify.com/track/4nfM78bIvljqrRJg0jYqY4"
@@ -19304,7 +20224,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279853,
       "name": "Jama ko",
       "url": "https://open.spotify.com/track/4M6FuBh0zCSLFgoJ2SAWuw"
@@ -19326,7 +20246,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279853,
       "name": "Jama ko",
       "url": "https://open.spotify.com/track/6sLY2CNublHBA0nsjnXvGR"
@@ -19438,7 +20358,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308653,
       "name": "Jean Fouille, Pie Fouille",
       "url": "https://open.spotify.com/track/0Q9S6mDV8VqFd6IW1t8gJX"
@@ -19478,6 +20398,24 @@
       "duration_ms": 308653,
       "name": "Jean Fouille, Pie Fouille",
       "url": "https://open.spotify.com/track/59J3fKAE0ZSEIEnxZ13q7u"
+    },
+    {
+      "album": {
+        "name": "Tumb\u00e9l\u00e9! Biguine, Afro & Latin Sounds from the French Caribbean, 1963-74",
+        "url": "https://open.spotify.com/album/0IaaLkuvylS7ANuXGxHnEM"
+      },
+      "artists": [
+        {
+          "name": "Robert Loison",
+          "url": "https://open.spotify.com/artist/7tLSBwXVdIm5XVX1KpoBf6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308653,
+      "name": "Jean Fouille, Pie Fouille",
+      "url": "https://open.spotify.com/track/7ze7ZP80r067UfYIp3XYyj"
     },
     {
       "album": {
@@ -19730,7 +20668,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175253,
       "name": "Jouvert Barrio",
       "url": "https://open.spotify.com/track/0TptVx34mCh71utmgZRJt7"
@@ -19774,6 +20712,24 @@
     {
       "album": {
         "name": "Ahyewa",
+        "url": "https://open.spotify.com/album/1T3dmaGKB3c8zed47cIxMp"
+      },
+      "artists": [
+        {
+          "name": "The Cranes",
+          "url": "https://open.spotify.com/artist/5KU2lTVjRMQqfJ9k6vjoxY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182459,
+      "name": "Joy - Quantic Edit",
+      "url": "https://open.spotify.com/track/6Jh7hXK2GDdNnCic5u2jFC"
+    },
+    {
+      "album": {
+        "name": "Ahyewa",
         "url": "https://open.spotify.com/album/5MFVi9GH7vh2NLiJjnQjGq"
       },
       "artists": [
@@ -19788,7 +20744,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182459,
       "name": "Joy - Quantic Edit",
       "url": "https://open.spotify.com/track/1XlJCrn4a3tBuuAG8ksZZP"
@@ -19828,7 +20784,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188986,
       "name": "Joy in the Morning",
       "url": "https://open.spotify.com/track/6tHoWTBzBWNCPYdvU4S8Yt"
@@ -19864,7 +20820,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194053,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/4NdDCtUmNNVg2mhfH8aAzB"
@@ -19886,7 +20842,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 363053,
       "name": "Juanita Bonita",
       "url": "https://open.spotify.com/track/1pJGUdtWBiO8xtjA3CjxEn"
@@ -19908,7 +20864,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365053,
       "name": "Juanita Bonita",
       "url": "https://open.spotify.com/track/0BSdonNooa2PaWaGSDOuH7"
@@ -19934,6 +20890,24 @@
       "duration_ms": 365053,
       "name": "Juanita Bonita",
       "url": "https://open.spotify.com/track/1Yv0a8yZssRlMp5U9Kwvag"
+    },
+    {
+      "album": {
+        "name": "Limbo!",
+        "url": "https://open.spotify.com/album/2AxAF75U6On28AUP1jW0Hn"
+      },
+      "artists": [
+        {
+          "name": "Lucho Perez",
+          "url": "https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156297,
+      "name": "Judith",
+      "url": "https://open.spotify.com/track/3GR5ADsQLrNrvarg1jfqFB"
     },
     {
       "album": {
@@ -19966,7 +20940,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156306,
       "name": "Judith",
       "url": "https://open.spotify.com/track/2RtB72NnXkwCCVQxHtV0NH"
@@ -20829,6 +21803,24 @@
     },
     {
       "album": {
+        "name": "Senegal 70: Sonic Gems & Previously Unreleased Recordings from the 70 \u0301s (Analog Africa No. 19)",
+        "url": "https://open.spotify.com/album/2A0EaPPmRwhKy7zViGIQ1O"
+      },
+      "artists": [
+        {
+          "name": "Le Tropical Jazz",
+          "url": "https://open.spotify.com/artist/42WEar0g2JiYuF0mZ0YoFo"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282946,
+      "name": "Kiko Medina",
+      "url": "https://open.spotify.com/track/5As4OA1eCJy7Ue7j1QFqpj"
+    },
+    {
+      "album": {
         "name": "Senegal 70 (Analog Africa No. 19)",
         "url": "https://open.spotify.com/album/2yjo4w2oMHXvkX8BmBhnbW"
       },
@@ -20858,7 +21850,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282946,
       "name": "Kiko Medina",
       "url": "https://open.spotify.com/track/6vLtDgaof96Ji8c3zVChAK"
@@ -20955,6 +21947,24 @@
     },
     {
       "album": {
+        "name": "Kenya Special (Selected East African Recordings from the 1970s & '80s)",
+        "url": "https://open.spotify.com/album/4j6rzICnhHJddgEaDGtjj0"
+      },
+      "artists": [
+        {
+          "name": "Kalambya Boys",
+          "url": "https://open.spotify.com/artist/5aV369AHwkAPC58roE38hz"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339666,
+      "name": "Kivelenge",
+      "url": "https://open.spotify.com/track/2szGes6zhubBykf3Gmg98Z"
+    },
+    {
+      "album": {
         "name": "Kenya Special (Selected East African Recordings From The 1970s & '80s)",
         "url": "https://open.spotify.com/album/0EWsL5JkTnESXxHXYozpxF"
       },
@@ -20966,7 +21976,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339666,
       "name": "Kivelenge",
       "url": "https://open.spotify.com/track/3lSMLwz51tG8EKGDu0dYhE"
@@ -21839,6 +22849,24 @@
     },
     {
       "album": {
+        "name": "Sonido Verde De Moyobamba (Analog Africa Dance Edition No.17)",
+        "url": "https://open.spotify.com/album/0YQ7jrLL8GC5TwlDiVxWhr"
+      },
+      "artists": [
+        {
+          "name": "Sonido Verde de Moyobamba",
+          "url": "https://open.spotify.com/artist/1Baty2g58xV5fK9iK2p4Lw"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167902,
+      "name": "La Longuita",
+      "url": "https://open.spotify.com/track/1nSU5cgoofTHTtplbeCTlF"
+    },
+    {
+      "album": {
         "name": "Sonido Verde De Moyobamba",
         "url": "https://open.spotify.com/album/5s4MiGctOORj7z0r6BIszJ"
       },
@@ -21868,7 +22896,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167902,
       "name": "La Longuita",
       "url": "https://open.spotify.com/track/5x0QbVk1XhVoCt6XN0f6tc"
@@ -22050,7 +23078,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143106,
       "name": "La Ni\u00f1a De Fuego",
       "url": "https://open.spotify.com/track/3O1NzJtNUdZXjj2j8sg43Q"
@@ -22068,7 +23096,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145760,
       "name": "La Ni\u00f1a de Fuego",
       "url": "https://open.spotify.com/track/08IDshmxLocyRlWQybyrGl"
@@ -22184,7 +23212,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178893,
       "name": "La Piojosa",
       "url": "https://open.spotify.com/track/0WLZ4Ld5myuUWegj8lPn4Y"
@@ -22202,7 +23230,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178893,
       "name": "La Piojosa",
       "url": "https://open.spotify.com/track/3VZn8K7aa6dTL5EFrmjV56"
@@ -22386,7 +23414,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203278,
       "name": "La Tuctuructia",
       "url": "https://open.spotify.com/track/3LutkHCkkDkqBqRS7WkHzb"
@@ -22404,7 +23432,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203278,
       "name": "La Tuctuructia",
       "url": "https://open.spotify.com/track/6Phbt2G9GjeAGEps5CauCc"
@@ -22922,6 +23950,24 @@
     {
       "album": {
         "name": "The Mauskovic Dance Band",
+        "url": "https://open.spotify.com/album/5uPvXB0e2W1eBGONJZjgqr"
+      },
+      "artists": [
+        {
+          "name": "The Mauskovic Dance Band",
+          "url": "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247389,
+      "name": "Late Night People",
+      "url": "https://open.spotify.com/track/0I8ozcAWDcqJlztRb8c8hj"
+    },
+    {
+      "album": {
+        "name": "The Mauskovic Dance Band",
         "url": "https://open.spotify.com/album/1LvkQ73MyTUewfK6CatwMN"
       },
       "artists": [
@@ -22968,7 +24014,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247389,
       "name": "Late Night People",
       "url": "https://open.spotify.com/track/5voF2PMcgmjzJpMdJIQaiL"
@@ -23040,7 +24086,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205253,
       "name": "Leki Santchi",
       "url": "https://open.spotify.com/track/4ECArMvZcZo5OkIZAFuw3I"
@@ -23058,7 +24104,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205253,
       "name": "Leki Santchi",
       "url": "https://open.spotify.com/track/4gx1jBrmMqdU7QEFXg921o"
@@ -23578,6 +24624,24 @@
     {
       "album": {
         "name": "Tequila",
+        "url": "https://open.spotify.com/album/7zjlanON8R5B2uVM3DbxoH"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropical",
+          "url": "https://open.spotify.com/artist/0OiG1SFAU2Upx6AcMh3Dnf"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/290UIZJGFkc7GqYmzt3Bx4"
+    },
+    {
+      "album": {
+        "name": "Tequila",
         "url": "https://open.spotify.com/album/6Hmy47Z7QAHf1JELfUe4yF"
       },
       "artists": [
@@ -23588,7 +24652,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147400,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2lnV7FeCi3UtS4pxVtZwQc"
@@ -23768,7 +24832,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165067,
       "name": "Lontano Lontano",
       "url": "https://open.spotify.com/track/4ZYGEZv0CaH3cRqM9N1yx2"
@@ -23804,7 +24868,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Lontano, lontano",
       "url": "https://open.spotify.com/track/7EDMham9KB0OcdKJLB1d4P"
@@ -24152,7 +25216,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173040,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/5D59MtvLu9EtqSvOPgAola"
@@ -24170,7 +25234,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173040,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/5OdguFsPQR1MV8uSIJDJ35"
@@ -24452,10 +25516,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 518583,
       "name": "Maimouna Cherie",
       "url": "https://open.spotify.com/track/5gDTakkdKSrR0QxxM59gQ8"
+    },
+    {
+      "album": {
+        "name": "Best Woman (Analog Africa Dance Edition No. 5)",
+        "url": "https://open.spotify.com/album/3y8lKrtACN6hXQjvEQIEWP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ahehehinnou",
+          "url": "https://open.spotify.com/artist/1EYbriX2mbaKMLdc5T77uj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518583,
+      "name": "Maimouna Cherie",
+      "url": "https://open.spotify.com/track/6KYQEFOlw5T3LSCDgsvX4O"
     },
     {
       "album": {
@@ -24536,6 +25618,24 @@
     {
       "album": {
         "name": "Make It Fast, Make It Slow",
+        "url": "https://open.spotify.com/album/7cDAES5MYHHvFKgEEvjPpt"
+      },
+      "artists": [
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/4bhBtxtDWGCSaRXztdrDMq"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326010,
+      "name": "Make It Fast, Make It Slow",
+      "url": "https://open.spotify.com/track/0NrrrQ0mtk46DEiMbrPd4N"
+    },
+    {
+      "album": {
+        "name": "Make It Fast, Make It Slow",
         "url": "https://open.spotify.com/album/4x6UecIxC8wmIffb272emB"
       },
       "artists": [
@@ -24546,7 +25646,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326010,
       "name": "Make It Fast, Make It Slow",
       "url": "https://open.spotify.com/track/0XLaqmFGcZMWJ2CJAiEZ1A"
@@ -24626,6 +25726,24 @@
     {
       "album": {
         "name": "Harmonies",
+        "url": "https://open.spotify.com/album/7H92t4WtiRDomQqY1g6MZr"
+      },
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Makossa No. 3",
+      "url": "https://open.spotify.com/track/0tfnUyntldkaIGg51iUmog"
+    },
+    {
+      "album": {
+        "name": "Harmonies",
         "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
       },
       "artists": [
@@ -24636,7 +25754,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241920,
       "name": "Makossa No. 3",
       "url": "https://open.spotify.com/track/1bSlPFhI3tQyhJiGPFSvrm"
@@ -24972,10 +26090,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196413,
       "name": "Malika",
       "url": "https://open.spotify.com/track/4QpQZfAYzhn9shfYhMPxkN"
+    },
+    {
+      "album": {
+        "name": "Chroniques terrestres (Vol.1)",
+        "url": "https://open.spotify.com/album/45sQMZUYfOlBQo5WU75ZYH"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        },
+        {
+          "name": "Ladaniva",
+          "url": "https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196413,
+      "name": "Malika",
+      "url": "https://open.spotify.com/track/4bXcnoXM3KaigReUEFH1hg"
     },
     {
       "album": {
@@ -25564,7 +26704,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 354653,
       "name": "Matinfa",
       "url": "https://open.spotify.com/track/3oUudjdOdEJI8JRCIPV3qj"
@@ -25582,7 +26722,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354653,
       "name": "Matinfa",
       "url": "https://open.spotify.com/track/5hpjstJLELLT4FM8JGl0iw"
@@ -25752,6 +26892,24 @@
     {
       "album": {
         "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
+        "url": "https://open.spotify.com/album/4C7XgAQpRQ3YU6DuQZyG1y"
+      },
+      "artists": [
+        {
+          "name": "Rosendo Y Su Banda",
+          "url": "https://open.spotify.com/artist/23diwJPVFPBRAV31o5aOmV"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "Me Voy Pa'la Costa",
+      "url": "https://open.spotify.com/track/2jDwWcJTiHajTXSgzZVl08"
+    },
+    {
+      "album": {
+        "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
         "url": "https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz"
       },
       "artists": [
@@ -25798,7 +26956,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237040,
       "name": "Me Voy Pa'la Costa",
       "url": "https://open.spotify.com/track/7nDMk083NoK0973mr0TA8j"
@@ -26180,7 +27338,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222920,
       "name": "Mi Swing es Tropical",
       "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
@@ -26236,7 +27394,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233306,
       "name": "Mi Swing Es Tropical",
       "url": "https://open.spotify.com/track/4EehpGBxUO8tOSvttzTucd"
@@ -26766,7 +27924,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209813,
       "name": "Mother Witch - Shuhusuhu",
       "url": "https://open.spotify.com/track/0TA1I9SGjvCxLDh9vhxRGv"
@@ -26788,6 +27946,24 @@
       "duration_ms": 209813,
       "name": "Mother Witch - Shuhusuhu",
       "url": "https://open.spotify.com/track/1bm6yvMgeoCXEG1szDAc36"
+    },
+    {
+      "album": {
+        "name": "Sir Victor Uwaifo: Guitar Boy Superstar 1970-76",
+        "url": "https://open.spotify.com/album/6bhj9gdMkEegi5UfmLwS0v"
+      },
+      "artists": [
+        {
+          "name": "Sir Victor Uwaifo",
+          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "Mother Witch - Shuhusuhu",
+      "url": "https://open.spotify.com/track/5hQE6wLAyWGQhZ1zbO5W0R"
     },
     {
       "album": {
@@ -26922,10 +28098,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209133,
       "name": "Mr. Brown",
       "url": "https://open.spotify.com/track/5IlPnmeeUkvLRAfFK0Fvum"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Early Singles",
+        "url": "https://open.spotify.com/album/3EDSy09tEbIcPG2SlSZuCP"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "Mr. Brown",
+      "url": "https://open.spotify.com/track/6KGXwuej1cAmrmy8vYPm0d"
     },
     {
       "album": {
@@ -26958,10 +28152,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138133,
       "name": "Mucha Muchacha",
       "url": "https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due"
+    },
+    {
+      "album": {
+        "name": "Latin-Esque",
+        "url": "https://open.spotify.com/album/4ms8tzubtfqjGjqGFhDWyq"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139506,
+      "name": "Mucha Muchacha",
+      "url": "https://open.spotify.com/track/7yx1DPeFep6kfAgU2WR2R5"
     },
     {
       "album": {
@@ -27558,7 +28770,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240278,
       "name": "Nadusilma",
       "url": "https://open.spotify.com/track/0IDlzqK5SQnYOE0A3hTPG5"
@@ -27576,7 +28788,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235800,
       "name": "Nadusilma - Instrumental",
       "url": "https://open.spotify.com/track/6ajUEn3yDD2pt2he3HifXH"
@@ -27634,7 +28846,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182706,
       "name": "Navidad Negra",
       "url": "https://open.spotify.com/track/0EZntlxPwi97Xx2m9d1NBn"
@@ -27652,7 +28864,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182706,
       "name": "Navidad Negra",
       "url": "https://open.spotify.com/track/4BYI2lj9mf5esouMPnQCiV"
@@ -28594,7 +29806,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258986,
       "name": "O Que \u00c9 O Que \u00c9?",
       "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b"
@@ -28630,7 +29842,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260760,
       "name": "O Que \u00c9 O Que \u00c9?",
       "url": "https://open.spotify.com/track/2u6dohtPb5vRYvmqEdxbcz"
@@ -28688,7 +29900,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254373,
       "name": "Oba, L\u00e1 Vem Ela",
       "url": "https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2"
@@ -28710,7 +29922,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252506,
       "name": "Oba, L\u00e1 Vem Ela",
       "url": "https://open.spotify.com/track/6MCaOLDl0epJPRN76H5S4N"
@@ -28746,7 +29958,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 590706,
       "name": "Obi Agye Me Dofo",
       "url": "https://open.spotify.com/track/3GN1GkAlZ1hd59ek8ySru7"
@@ -28768,6 +29980,24 @@
       "duration_ms": 590706,
       "name": "Obi Agye Me Dofo",
       "url": "https://open.spotify.com/track/6W4dRc4UDTTYanEJnpbLy6"
+    },
+    {
+      "album": {
+        "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
+        "url": "https://open.spotify.com/album/5xOwDD2HNXuZIQxvrhrN1U"
+      },
+      "artists": [
+        {
+          "name": "Vis a Vis",
+          "url": "https://open.spotify.com/artist/0zX9gAaZYmBeJwSlJSV2bm"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590706,
+      "name": "Obi Agye Me Dofo",
+      "url": "https://open.spotify.com/track/7HydrZ0ETV67X4ZE4phoyA"
     },
     {
       "album": {
@@ -29072,7 +30302,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265827,
       "name": "Ole",
       "url": "https://open.spotify.com/track/0Hdzb1Rw91cnFYFXW4IjeK"
@@ -29112,6 +30342,24 @@
       "duration_ms": 265827,
       "name": "Ole",
       "url": "https://open.spotify.com/track/3rh5cxOKFKNV311tQV4rNl"
+    },
+    {
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/5yuCUyZ5I9rgKQj9ljAkmJ"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265827,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/78qmmD27E4zyPxaq8hfiwP"
     },
     {
       "album": {
@@ -29398,6 +30646,24 @@
     {
       "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/5WSHxP5AtfzdVdZrLC8LjP"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn"
+    },
+    {
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
       },
       "artists": [
@@ -29426,7 +30692,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381040,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
@@ -29614,10 +30880,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155520,
       "name": "Otemo-Yan",
       "url": "https://open.spotify.com/track/64KUzO2aQsZrcsYUBt8Luf"
+    },
+    {
+      "album": {
+        "name": "Nova le grand mix 2016",
+        "url": "https://open.spotify.com/album/3ShbPC0qbDnsDeaIOBvld9"
+      },
+      "artists": [
+        {
+          "name": "Chiemi Eri",
+          "url": "https://open.spotify.com/artist/1nnACYa4vyzvnKIvmcJnoU"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "Otemoyan",
+      "url": "https://open.spotify.com/track/3kCpdPMLVxbcz3Fir8PBG9"
     },
     {
       "album": {
@@ -29676,6 +30960,24 @@
     {
       "album": {
         "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/6PJG1bw3YYgvT3OYhaZxeS"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo",
+      "url": "https://open.spotify.com/track/1XNc8U5CK5JDcgCfklTSma"
+    },
+    {
+      "album": {
+        "name": "Los Miticos del Ritmo",
         "url": "https://open.spotify.com/album/20m6aFmzKlDu9WRgn4AFXQ"
       },
       "artists": [
@@ -29704,7 +31006,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212746,
       "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
       "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
@@ -29762,7 +31064,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142288,
       "name": "Oyeme Mama",
       "url": "https://open.spotify.com/track/4GJDCDwjFHZjJxzXknF7ku"
@@ -30188,10 +31490,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168240,
       "name": "Patuleco",
       "url": "https://open.spotify.com/track/09bGYFnMVZRh0ilaVUiYio"
+    },
+    {
+      "album": {
+        "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
+        "url": "https://open.spotify.com/album/4C7XgAQpRQ3YU6DuQZyG1y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Sonora Curro",
+          "url": "https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "Patuleco",
+      "url": "https://open.spotify.com/track/3ph4nms2O3qe90PTfszAOB"
     },
     {
       "album": {
@@ -30499,6 +31819,24 @@
     },
     {
       "album": {
+        "name": "Kenya Special (Selected East African Recordings from the 1970s & '80s)",
+        "url": "https://open.spotify.com/album/4j6rzICnhHJddgEaDGtjj0"
+      },
+      "artists": [
+        {
+          "name": "The Eagles Lupopo",
+          "url": "https://open.spotify.com/artist/0O9rpCjClbC0LA3ikNiYeU"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261812,
+      "name": "Pelekani",
+      "url": "https://open.spotify.com/track/2fKfutHGwn9vO8yDPMIUF1"
+    },
+    {
+      "album": {
         "name": "Kenya Special (Selected East African Recordings From The 1970s & '80s)",
         "url": "https://open.spotify.com/album/3RX07gHtGTYR7pQsFL6FKO"
       },
@@ -30528,7 +31866,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261812,
       "name": "Pelekani",
       "url": "https://open.spotify.com/track/48IR5kUBk9WH2IgsUBKDdv"
@@ -30690,7 +32028,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158560,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/76tn9yQxd94SjVovKmp0mo"
@@ -30708,7 +32046,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158813,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/0TjJq5ZjN148h11hHHiRJu"
@@ -31117,6 +32455,24 @@
     },
     {
       "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/7flm3egB4T5o6N0J00f0C5"
+      },
+      "artists": [
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191374,
+      "name": "Pra Tr\u00e1s",
+      "url": "https://open.spotify.com/track/0CNtDmDFDkC4CHdaVkPfyY"
+    },
+    {
+      "album": {
         "name": "Pra Tr\u00e1s",
         "url": "https://open.spotify.com/album/4hcnI5z6bdi00Bfxb6Ahzg"
       },
@@ -31164,7 +32520,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191374,
       "name": "Pra Tr\u00e1s",
       "url": "https://open.spotify.com/track/6YMBLfjQilTvqdWpeUbySG"
@@ -31488,6 +32844,24 @@
     {
       "album": {
         "name": "A Festa \u00c9 Nossa",
+        "url": "https://open.spotify.com/album/0LAMVcC9knzwOloa1GWTLA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Controle Digital",
+          "url": "https://open.spotify.com/artist/5uNisGq3ouLS89g12oOWtk"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179235,
+      "name": "P\u00e2nico Geral",
+      "url": "https://open.spotify.com/track/6e2sPZorkILWag8XAQ4eHl"
+    },
+    {
+      "album": {
+        "name": "A Festa \u00c9 Nossa",
         "url": "https://open.spotify.com/album/2V09pctdsFAFvEHlU33aGU"
       },
       "artists": [
@@ -31498,7 +32872,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179235,
       "name": "P\u00e2nico Geral",
       "url": "https://open.spotify.com/track/7dfr71bUMbb2nK2md4k1l0"
@@ -31588,7 +32962,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
@@ -31628,6 +33002,24 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/73TTpGtSDdXRP8J7loLifZ"
     },
     {
       "album": {
@@ -31902,10 +33294,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220142,
       "name": "Rak\u0131ya Su Katamam",
       "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
+    },
+    {
+      "album": {
+        "name": "Rak\u0131ya Su Katamam",
+        "url": "https://open.spotify.com/album/38IAPFUl9gdcE1jILRhYyt"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220142,
+      "name": "Rak\u0131ya Su Katamam",
+      "url": "https://open.spotify.com/track/3B3nrRcPlut2N9P2bmlQn3"
     },
     {
       "album": {
@@ -31938,7 +33348,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/2CGfUFjgJCsDIfaBe73NsT"
@@ -31974,7 +33384,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE"
@@ -32192,6 +33602,24 @@
     {
       "album": {
         "name": "Hedzoleh Soundz",
+        "url": "https://open.spotify.com/album/2QzvEf3z63nVfDMp3OQD4c"
+      },
+      "artists": [
+        {
+          "name": "Hedzoleh Soundz",
+          "url": "https://open.spotify.com/artist/7GCftuKAPtpukG1SW4FGF2"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Rekpete",
+      "url": "https://open.spotify.com/track/5SAerExQubAqX1zGbEbcDu"
+    },
+    {
+      "album": {
+        "name": "Hedzoleh Soundz",
         "url": "https://open.spotify.com/album/0K4H7lBRJZnQKKdRHcGTMw"
       },
       "artists": [
@@ -32202,7 +33630,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212800,
       "name": "Rekpete",
       "url": "https://open.spotify.com/track/7MEUKbD90QymEPOdGHM9yO"
@@ -32364,7 +33792,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390280,
       "name": "Ride on Baby",
       "url": "https://open.spotify.com/track/1dSFUmePLinKKFOmXaHDQu"
@@ -32404,6 +33832,24 @@
       "duration_ms": 390280,
       "name": "Ride On Baby - 1977 Version",
       "url": "https://open.spotify.com/track/2irHUmOtWSnvrpQXPv9b6h"
+    },
+    {
+      "album": {
+        "name": "Crashes In Love (1977 Version)",
+        "url": "https://open.spotify.com/album/3d2McXoxc5zxmwjHr8zt4A"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390280,
+      "name": "Ride On Baby - 1977 Version",
+      "url": "https://open.spotify.com/track/52DcY4RSDQzvEEdLp1q02h"
     },
     {
       "album": {
@@ -32472,7 +33918,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "Ritmo de Tambo",
       "url": "https://open.spotify.com/track/13pMuGGcQ0jkdVgYdURKJe"
@@ -32490,7 +33936,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166400,
       "name": "Ritmo de Tambo",
       "url": "https://open.spotify.com/track/7bN8Z3GQcSe3obv5lYbxWx"
@@ -32544,7 +33990,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154693,
       "name": "Roda",
       "url": "https://open.spotify.com/track/3HShBNV3YuaHtp0LLgbtoe"
@@ -32562,7 +34008,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156200,
       "name": "Roda",
       "url": "https://open.spotify.com/track/074z8J1TfNfec30uKmcSVT"
@@ -33014,6 +34460,24 @@
     {
       "album": {
         "name": "Afro-Peruvian Classics: The Soul of Black Peru",
+        "url": "https://open.spotify.com/album/3v9EgK25CUfKJYbOs7Nv4D"
+      },
+      "artists": [
+        {
+          "name": "Lucila Campos",
+          "url": "https://open.spotify.com/artist/7ruyK2y9ppQaO6yKfIC74A"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197813,
+      "name": "Samba Malato",
+      "url": "https://open.spotify.com/track/1UiYirIzVyd5bkwc4UvXNp"
+    },
+    {
+      "album": {
+        "name": "Afro-Peruvian Classics: The Soul of Black Peru",
         "url": "https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas"
       },
       "artists": [
@@ -33024,7 +34488,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197813,
       "name": "Samba Malato",
       "url": "https://open.spotify.com/track/45FVk9df1DphMBZr3MmunP"
@@ -33114,7 +34578,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179680,
       "name": "San Jacinto",
       "url": "https://open.spotify.com/track/2WEbLiqbOz5EwqBMjpmiSP"
@@ -33139,6 +34603,24 @@
     },
     {
       "album": {
+        "name": "The Original Sound of Cumbia",
+        "url": "https://open.spotify.com/album/0zTVwdBig40AeSrBmI4NBy"
+      },
+      "artists": [
+        {
+          "name": "Anibal Vel\u00e1squez y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5OX9zsRS2bOW2ZGsYlc5JZ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "San Jacinto",
+      "url": "https://open.spotify.com/track/5khCD9VrXoAu3cMh82n5vc"
+    },
+    {
+      "album": {
         "name": "Wanted Cumbia: From Diggers to Music Lovers",
         "url": "https://open.spotify.com/album/0763xcXgEc0faIN0Ufz5ti"
       },
@@ -33150,7 +34632,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152016,
       "name": "Santa Lucia",
       "url": "https://open.spotify.com/track/1NepCheonvcc7rJt2BJCQO"
@@ -33168,7 +34650,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152525,
       "name": "Santa Luc\u00eda",
       "url": "https://open.spotify.com/track/2xssKuWT6JhTIxwycx2q4w"
@@ -33190,7 +34672,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376240,
       "name": "Santana en Salsa",
       "url": "https://open.spotify.com/track/2w5G88oakLBArNqrJ9e12a"
@@ -33238,6 +34720,28 @@
       "duration_ms": 376240,
       "name": "Santana en Salsa",
       "url": "https://open.spotify.com/track/5GAijRb3cfDrVcvtOovFE1"
+    },
+    {
+      "album": {
+        "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
+        "url": "https://open.spotify.com/album/4C7XgAQpRQ3YU6DuQZyG1y"
+      },
+      "artists": [
+        {
+          "name": "Crecencio Camacho",
+          "url": "https://open.spotify.com/artist/3x9jdXeqyMAz10RHUTztqN"
+        },
+        {
+          "name": "el Super Combo Curro",
+          "url": "https://open.spotify.com/artist/522sTHHFhhCDyAmKrYeP1j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376240,
+      "name": "Santana en Salsa",
+      "url": "https://open.spotify.com/track/7snio9mXdIb2aqJpGDwIyL"
     },
     {
       "album": {
@@ -33400,7 +34904,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201293,
       "name": "Se Na Min",
       "url": "https://open.spotify.com/track/1KosKcMt78N0oU4NnBhLw3"
@@ -33418,7 +34922,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201293,
       "name": "Se Na Min",
       "url": "https://open.spotify.com/track/2SMZzlrIkw17qPvvF3P0JJ"
@@ -33436,7 +34940,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186800,
       "name": "Se O Mundo Acabasse Em Mel",
       "url": "https://open.spotify.com/track/24IrgYEz7EkvDap8lYyQaZ"
@@ -33454,7 +34958,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186800,
       "name": "Se O Mundo Acabasse Em Mel",
       "url": "https://open.spotify.com/track/5epcSKvNHZymwOfo1ThHMi"
@@ -33862,7 +35366,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164779,
       "name": "Sidet Eskemeche",
       "url": "https://open.spotify.com/track/047oT92afW2LN6K1EeB9Re"
@@ -33888,6 +35392,28 @@
       "duration_ms": 164779,
       "name": "Sidet Eskemeche",
       "url": "https://open.spotify.com/track/0mCwBeActwACXBFNHtqdzL"
+    },
+    {
+      "album": {
+        "name": "Wondem",
+        "url": "https://open.spotify.com/album/4oicav54nYtc8npRckjcg4"
+      },
+      "artists": [
+        {
+          "name": "Dexter Story",
+          "url": "https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq"
+        },
+        {
+          "name": "Yared Teshale",
+          "url": "https://open.spotify.com/artist/1wdWyGEy7qAGwLxsIW5azQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164779,
+      "name": "Sidet Eskemeche",
+      "url": "https://open.spotify.com/track/2UQ0qqqddJ9bNllumIcw1u"
     },
     {
       "album": {
@@ -34140,7 +35666,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230746,
       "name": "Sol Clap",
       "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
@@ -34158,7 +35684,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Sol Clap",
       "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
@@ -34232,6 +35758,24 @@
     {
       "album": {
         "name": "Cumbia Cumbia 1 & 2",
+        "url": "https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM"
+      },
+      "artists": [
+        {
+          "name": "El Combo de los Galleros",
+          "url": "https://open.spotify.com/artist/3LLHG54nDGz5Ult2YEbtlm"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/4icDYkM3ZwAeNV0CoQdK9n"
+    },
+    {
+      "album": {
+        "name": "Cumbia Cumbia 1 & 2",
         "url": "https://open.spotify.com/album/33nptLvg4fk3Alpy32a5s3"
       },
       "artists": [
@@ -34260,7 +35804,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167880,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/7fG0bqv3XzEUW3CfQCoWfK"
@@ -35278,10 +36822,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 505213,
       "name": "Sweet Sweet Mbombo",
       "url": "https://open.spotify.com/track/08YkxIBozP61lB7Q14Ab7m"
+    },
+    {
+      "album": {
+        "name": "Kenya Special (Selected East African Recordings from the 1970s & '80s)",
+        "url": "https://open.spotify.com/album/4j6rzICnhHJddgEaDGtjj0"
+      },
+      "artists": [
+        {
+          "name": "Orchestre Baba National",
+          "url": "https://open.spotify.com/artist/3z5YPzAxPXIwKMjpuOrMlq"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505213,
+      "name": "Sweet Sweet Mbombo",
+      "url": "https://open.spotify.com/track/0jIfdip9iIUYTrDwXcBSM0"
     },
     {
       "album": {
@@ -35412,7 +36974,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182473,
       "name": "Ta Goumara Ki Apidia (Berries And Pears)",
       "url": "https://open.spotify.com/track/5aLa1d4PKhA1aEfj7j08Cm"
@@ -35452,7 +37014,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182473,
       "name": "Ta Goumara Ki Apidia (Berries And Pears)",
       "url": "https://open.spotify.com/track/2Bw6tmuy0oh940oqeEr6IG"
@@ -36119,6 +37681,24 @@
     },
     {
       "album": {
+        "name": "The Movers - Vol. 1 - 1970-1976 (Analog Africa No. 35)",
+        "url": "https://open.spotify.com/album/01vGEXvg6XS0ptkIBLAby4"
+      },
+      "artists": [
+        {
+          "name": "The Movers",
+          "url": "https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171366,
+      "name": "Tau Special",
+      "url": "https://open.spotify.com/track/0ngntzXMh8Z7scng196dWU"
+    },
+    {
+      "album": {
         "name": "The Movers - Vol. 1 - 1970-1976 (Analog Africa No.35)",
         "url": "https://open.spotify.com/album/7I0Gekl9NNLzgs5EGU6jjW"
       },
@@ -36130,7 +37710,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171366,
       "name": "Tau Special",
       "url": "https://open.spotify.com/track/34APgpzbIv9kkd2mM7kHUs"
@@ -36242,7 +37822,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383546,
       "name": "Te Pico el Yaibi",
       "url": "https://open.spotify.com/track/0ZXQJ0FrcmA0mQDXLV0ExD"
@@ -36264,7 +37844,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 383546,
       "name": "Te Pico el Yaibi",
       "url": "https://open.spotify.com/track/3tjbqj4EJ5xOBaIVuiLMJN"
@@ -36518,7 +38098,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161400,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0gYsZrZNhyYr9wVu47MpBC"
@@ -36554,7 +38134,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161400,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/2jVgtp6jgbFACMfJn8MeBy"
@@ -36626,10 +38206,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189573,
       "name": "Tetero",
       "url": "https://open.spotify.com/track/4xh8q9DCUTEjjgw5gdRxty"
+    },
+    {
+      "album": {
+        "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
+        "url": "https://open.spotify.com/album/7rWxK7htj2ZT0vnDYDgS5S"
+      },
+      "artists": [
+        {
+          "name": "Grupo Palma Africana",
+          "url": "https://open.spotify.com/artist/70NXcOOgp042A1RrebAzrm"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189573,
+      "name": "Tetero",
+      "url": "https://open.spotify.com/track/3i9z5nShch6iTVwgcbZRDG"
     },
     {
       "album": {
@@ -36972,7 +38570,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 467351,
       "name": "The Message",
       "url": "https://open.spotify.com/track/364k0PwcNv842UUjmleIN9"
@@ -37012,6 +38610,24 @@
       "duration_ms": 467351,
       "name": "The Message",
       "url": "https://open.spotify.com/track/4L9QE9eksxN2MKmPfPJY60"
+    },
+    {
+      "album": {
+        "name": "Gyedu-Blay Ambolley (Analog Africa Dance Edition No. 9)",
+        "url": "https://open.spotify.com/album/22Shg3Oe95wJ06M5co8HOj"
+      },
+      "artists": [
+        {
+          "name": "Gyedu-Blay Ambolley",
+          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467408,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/10ynUS4n231liRfGVZBfpe"
     },
     {
       "album": {
@@ -37342,7 +38958,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 301960,
       "name": "Thiely",
       "url": "https://open.spotify.com/track/5FLi8t9vrvY5Jy9zZVDCSj"
@@ -37360,7 +38976,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301960,
       "name": "Thiely",
       "url": "https://open.spotify.com/track/6bwONw9k1i6jGku05HNhHS"
@@ -37454,7 +39070,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233266,
       "name": "Tijuana",
       "url": "https://open.spotify.com/track/0WA7tnwR9n1R5ZgAzN418l"
@@ -37472,7 +39088,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233680,
       "name": "Tijuana",
       "url": "https://open.spotify.com/track/2fwCcBCjjSVAHShm291TZd"
@@ -37771,6 +39387,24 @@
     },
     {
       "album": {
+        "name": "Saturno 2000 - La Rebajada de Los Sonideros 1962-1983 (Analog Africa No. 34)",
+        "url": "https://open.spotify.com/album/594rQfRGyIS7q5YsGTRJff"
+      },
+      "artists": [
+        {
+          "name": "Grupo Celeste",
+          "url": "https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "Todo Lo Tengo De Ti Menos Tu Amor",
+      "url": "https://open.spotify.com/track/2ZyB72qZoE6ROV0oRz2ttV"
+    },
+    {
+      "album": {
         "name": "Saturno 2000 - La Rebajada de Los Sonideros 1962 - 1983 (Analog Africa No. 34)",
         "url": "https://open.spotify.com/album/4mBlqhoBB6M01gtMe3s3Ti"
       },
@@ -37782,7 +39416,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287986,
       "name": "Todo Lo Tengo De Ti Menos Tu Amor",
       "url": "https://open.spotify.com/track/4yceXkFrVe5rQbIey77RZj"
@@ -37948,7 +39582,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197160,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/3i5kPpgpdKkAGjU48Zl3je"
@@ -37984,7 +39618,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200426,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/41dv2yJDlnhrhFUTeM3jOq"
@@ -38114,7 +39748,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175320,
       "name": "Tsifteteli Pehnidiariko",
       "url": "https://open.spotify.com/track/4PanmTrdc0lStOxzoFY1bM"
@@ -38150,7 +39784,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176986,
       "name": "Tsifteteli Pehnidiariko",
       "url": "https://open.spotify.com/track/0TQ76Aw6zpF5pC0xMetzNH"
@@ -38348,7 +39982,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209805,
       "name": "Tuto Bay",
       "url": "https://open.spotify.com/track/2exc3mSXey6j3WfqIVh4fF"
@@ -38388,6 +40022,24 @@
       "duration_ms": 209805,
       "name": "Tuto Bay",
       "url": "https://open.spotify.com/track/52vQylHXkR26VOLNtsw0fE"
+    },
+    {
+      "album": {
+        "name": "Down in the Basement - EP",
+        "url": "https://open.spotify.com/album/0b9nMHBKVfYRNRdLZeLjnB"
+      },
+      "artists": [
+        {
+          "name": "The Mauskovic Dance Band",
+          "url": "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209805,
+      "name": "Tuto Bay",
+      "url": "https://open.spotify.com/track/6ijWDxNwRbDbxh4QqxkRak"
     },
     {
       "album": {
@@ -38500,7 +40152,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302280,
       "name": "Un Canto a Mi Tierra",
       "url": "https://open.spotify.com/track/7LiuGWABMa8tYiNcJUh1A2"
@@ -38544,7 +40196,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304280,
       "name": "Un Canto a Mi Tierra",
       "url": "https://open.spotify.com/track/3GTStXoQrapL8pMjrTXev0"
@@ -38566,7 +40218,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238856,
       "name": "Un Canto a Mi Tierra - Cut Chemist Instrumental Remix",
       "url": "https://open.spotify.com/track/44wKu2KOzXLC8qNOpNRAqU"
@@ -38614,7 +40266,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238856,
       "name": "Un Canto a Mi Tierra - Cut Chemist Instrumental Remix",
       "url": "https://open.spotify.com/track/4L6kfMcqDeHgIrGrsowVKG"
@@ -39032,10 +40684,28 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277810,
       "name": "Vallahi Yok",
       "url": "https://open.spotify.com/track/22TIuZCNYKuuXmkA4rIY0V"
+    },
+    {
+      "album": {
+        "name": "Vallahi Yok / K\u0131r\u0131k Cam",
+        "url": "https://open.spotify.com/album/2PEOvCM1cDnodVHjK7qbaF"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/4uKFoGueCWMwsZlelHezct"
     },
     {
       "album": {
@@ -39050,7 +40720,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187533,
       "name": "Vamos Farrear",
       "url": "https://open.spotify.com/track/0UGGKOyYjbgFJMJRLrEbKX"
@@ -39068,7 +40738,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187533,
       "name": "Vamos Farrear",
       "url": "https://open.spotify.com/track/3p948LSz78BhUQx6SWoCwO"
@@ -39140,10 +40810,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162520,
       "name": "Viejos Tiempos",
       "url": "https://open.spotify.com/track/1LRo9wZ0rvCk6VmIr5fY4s"
+    },
+    {
+      "album": {
+        "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
+        "url": "https://open.spotify.com/album/4C7XgAQpRQ3YU6DuQZyG1y"
+      },
+      "artists": [
+        {
+          "name": "Rufo Garrido Y Su Banda",
+          "url": "https://open.spotify.com/artist/1TFrtkP5626HcDmpXJqSqi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162520,
+      "name": "Viejos Tiempos",
+      "url": "https://open.spotify.com/track/5aB9tr6t0z5hrSyrzsm2f5"
     },
     {
       "album": {
@@ -39302,7 +40990,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168004,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
@@ -39320,7 +41008,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168229,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
@@ -39883,6 +41571,28 @@
     },
     {
       "album": {
+        "name": "You Hurt My Soul",
+        "url": "https://open.spotify.com/album/5hKknamldMC3Bv4CiPyver"
+      },
+      "artists": [
+        {
+          "name": "Lynn Taitt",
+          "url": "https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy"
+        },
+        {
+          "name": "The Jets",
+          "url": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201609,
+      "name": "Why Am I Treated so Bad?",
+      "url": "https://open.spotify.com/track/1HGjZ4j2MOLKHPldbQrPjQ"
+    },
+    {
+      "album": {
         "name": "You Hurt My Soul / Why Am I Treated So Bad?",
         "url": "https://open.spotify.com/album/0th3d2gseWOWH2ctk5UeUJ"
       },
@@ -39920,7 +41630,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201609,
       "name": "Why Am I Treated So Bad?",
       "url": "https://open.spotify.com/track/73xoXT1a2TfDkfog7j4Q0L"
@@ -40160,7 +41870,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203333,
       "name": "Xang\u00f4",
       "url": "https://open.spotify.com/track/2Zuo0TCDMw4t5jValufOvc"
@@ -40196,7 +41906,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203333,
       "name": "Xang\u00f4",
       "url": "https://open.spotify.com/track/6UuzGgbN8Ifz5fvL1m2H0f"
@@ -40394,7 +42104,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357480,
       "name": "Yabaal",
       "url": "https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia"
@@ -40416,6 +42126,24 @@
       "duration_ms": 357480,
       "name": "Yabaal",
       "url": "https://open.spotify.com/track/60Mcm7EkQIFrBrJ8tQBeCJ"
+    },
+    {
+      "album": {
+        "name": "Dur Dur of Somalia - Volume 1, Volume 2 & Previously Unreleased Tracks (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/1TFJEeA3dS0A08m9KafmPr"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/7lHzhPKP54t2syBbTo4LZT"
     },
     {
       "album": {
@@ -40640,10 +42368,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224426,
       "name": "Yoro",
       "url": "https://open.spotify.com/track/2ZzX7OESijgRaDu0eHsvOW"
+    },
+    {
+      "album": {
+        "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
+        "url": "https://open.spotify.com/album/7rWxK7htj2ZT0vnDYDgS5S"
+      },
+      "artists": [
+        {
+          "name": "Wganda Kenya",
+          "url": "https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Yoro",
+      "url": "https://open.spotify.com/track/3UzMktm3erzDU4Y4WFyo9G"
     },
     {
       "album": {
@@ -40964,7 +42710,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258315,
       "name": "Y\u00fcce Dag Basinda",
       "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
@@ -40982,7 +42728,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258315,
       "name": "Y\u00fcce Da\u011f Ba\u015f\u0131nda",
       "url": "https://open.spotify.com/track/6UOoLY8PSg1RiNCXi1EO5w"
@@ -41142,7 +42888,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189480,
       "name": "Zazueira",
       "url": "https://open.spotify.com/track/2Cj0oXvvEVs73P6BSTU0Pp"
@@ -41160,7 +42906,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190173,
       "name": "Zazueira",
       "url": "https://open.spotify.com/track/574RyCoZMUdJiJJI9AhyG7"
@@ -41182,7 +42928,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266267,
       "name": "Zifaf Filfada / \u0632\u0641\u0627\u0641 \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621",
       "url": "https://open.spotify.com/track/4OAj6HkujWB1wUzQjEj15b"
@@ -41200,7 +42946,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266267,
       "name": "Zifaf Filfada / \u0632\u0641\u0627\u0641 \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621",
       "url": "https://open.spotify.com/track/2IHpFKRvJ9VJNNlb3MWk8p"
@@ -41370,7 +43116,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170666,
       "name": "Zum-Zum",
       "url": "https://open.spotify.com/track/0K8xwzpW6hYmfDTMlsZOhp"
@@ -41388,7 +43134,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Zum-Zum",
       "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
@@ -41612,7 +43358,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144706,
       "name": "\u00d3yeme Mam\u00e1",
       "url": "https://open.spotify.com/track/6wwF4WKvYiIHSBBfnZADJY"

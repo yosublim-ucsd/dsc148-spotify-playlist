@@ -966,7 +966,7 @@
     {
       "album": {
         "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+        "url": "https://open.spotify.com/album/5Abelpx4c3FzhTOZP3ZIvS"
       },
       "artists": [
         {
@@ -977,6 +977,24 @@
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255146,
+      "name": "Uncatena",
+      "url": "https://open.spotify.com/track/2f5l2vw6KZXb6cbE0nl0pb"
+    },
+    {
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 255146,
       "name": "Uncatena",
       "url": "https://open.spotify.com/track/7vITd7ck8l9Ww62BWpIhTY"
@@ -1060,7 +1078,7 @@
     {
       "album": {
         "name": "Government Plates",
-        "url": "https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV"
+        "url": "https://open.spotify.com/album/2EuKpzSQ9RQ2n06Iu0pDop"
       },
       "artists": [
         {
@@ -1071,6 +1089,24 @@
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 397748,
+      "name": "Whatever I Want (Fuck Who's Watching)",
+      "url": "https://open.spotify.com/track/0d6RQcen3fnEVTWHES7IYy"
+    },
+    {
+      "album": {
+        "name": "Government Plates",
+        "url": "https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV"
+      },
+      "artists": [
+        {
+          "name": "Death Grips",
+          "url": "https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 397748,
       "name": "Whatever I Want (Fuck Who's Watching)",
       "url": "https://open.spotify.com/track/5ohsTkUXwgGfR1t9YEaM7W"

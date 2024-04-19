@@ -16,10 +16,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232760,
       "name": "Amigo Bronco",
       "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
+    },
+    {
+      "album": {
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227120,
+      "name": "Amigo Bronco - Remasterizado",
+      "url": "https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 148680,
       "name": "Caballito De Otate - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
@@ -124,10 +142,32 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Caballos de la Cordada",
       "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
+    },
+    {
+      "album": {
+        "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
+        "url": "https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211199,
+      "name": "Carrera a Muerte",
+      "url": "https://open.spotify.com/track/1uQ3jnkTvAnObnBgsv8m8U"
     },
     {
       "album": {
@@ -146,7 +186,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211199,
       "name": "Carrera a Muerte",
       "url": "https://open.spotify.com/track/77qBRFDkmrwsaTKiCxqocK"
@@ -225,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Inspiracion Nortena",
+        "url": "https://open.spotify.com/album/3W3Nzf46FADCAXYjjEpTVA"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Donde Estara Mi Caballo",
+      "url": "https://open.spotify.com/track/5GukrCjab9vqMBNV6YKqSd"
+    },
+    {
+      "album": {
         "name": "Inspiraci\u00f3n Norte\u00f1a",
         "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
       },
@@ -236,7 +294,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168746,
       "name": "Donde Estar\u00e1 Mi Caballo",
       "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
@@ -279,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
+        "url": "https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Edwin Luna",
+          "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181635,
+      "name": "El Alaz\u00e1n y el Rosillo",
+      "url": "https://open.spotify.com/track/2CSqRM3YG0JzXB9KMFdR0M"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
         "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
       },
@@ -312,7 +392,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253229,
       "name": "El Caballo Bayo",
       "url": "https://open.spotify.com/track/1xBZmAlcb1jgkWOCWgGPmD"
@@ -352,7 +432,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190906,
       "name": "El Caballo Jovero",
       "url": "https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY"
@@ -448,10 +528,44 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178272,
       "name": "El Cantador",
       "url": "https://open.spotify.com/track/5cOUrEO1AZEPbKJRRACkWq"
+    },
+    {
+      "album": {
+        "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
+        "url": "https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Edwin Luna",
+          "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Humberto Herrera",
+          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178272,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6k9wJzaGs5qBAfMGSMGHQn"
     },
     {
       "album": {
@@ -470,6 +584,24 @@
       "duration_ms": 187324,
       "name": "El Cantador",
       "url": "https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/5eAgdJxHc5RK1yoTKcubOz"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187324,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6t3R58KjOhsXXuuuIG9vw8"
     },
     {
       "album": {
@@ -545,6 +677,28 @@
     },
     {
       "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/4ZkNYJMP6iLQobERrLiwqt"
+      },
+      "artists": [
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229750,
+      "name": "El Dorado",
+      "url": "https://open.spotify.com/track/1FeAh9QTsAuzP7gG7nSgKf"
+    },
+    {
+      "album": {
         "name": "Con el Poder del Corrido",
         "url": "https://open.spotify.com/album/1D2hxYcke3d29b1vOkf9Wr"
       },
@@ -560,7 +714,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229750,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/5RhDoarqLwMX9ftRP3oz09"
@@ -618,10 +772,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160645,
       "name": "El Golden Boy",
       "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+    },
+    {
+      "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/6c2TLFewLrROUee7c6qkLL"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/5rSHtxvd1VIvhXyeh0GJLP"
     },
     {
       "album": {
@@ -702,6 +874,24 @@
     {
       "album": {
         "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/0FDZOl5djASGO2GO6oyNFy"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/48xE4Ro1GQxQEQKqYbT99I"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos",
         "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
       },
       "artists": [
@@ -712,7 +902,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205165,
       "name": "El Moro de Cumpas",
       "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
@@ -738,6 +928,24 @@
     {
       "album": {
         "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
+    },
+    {
+      "album": {
+        "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
       },
       "artists": [
@@ -748,7 +956,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
@@ -838,7 +1046,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131291,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
@@ -1022,7 +1230,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191961,
       "name": "El Rengo del Gallo Giro",
       "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
@@ -1116,7 +1324,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 199613,
       "name": "El Texano y el Machete",
       "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
@@ -1142,6 +1350,24 @@
     {
       "album": {
         "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "Eran Cuatro de a Caballo",
+      "url": "https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo"
+    },
+    {
+      "album": {
+        "name": "Las Tres Tumbas",
         "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
       },
       "artists": [
@@ -1152,7 +1378,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185306,
       "name": "Eran Cuatro de a Caballo",
       "url": "https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg"
@@ -1192,10 +1418,32 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206589,
       "name": "La Cecilia",
       "url": "https://open.spotify.com/track/0DGDOXnLnc0xlINfYEB6ar"
+    },
+    {
+      "album": {
+        "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
+        "url": "https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Humberto Herrera",
+          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206589,
+      "name": "La Cecilia",
+      "url": "https://open.spotify.com/track/1P20Yh2PLv1C8vAJW2kclG"
     },
     {
       "album": {
@@ -1210,10 +1458,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166112,
       "name": "La Feria de San Marcos",
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/5eAgdJxHc5RK1yoTKcubOz"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166112,
+      "name": "La Feria de San Marcos",
+      "url": "https://open.spotify.com/track/0CjTHwT5HRXO3Warn7SmQZ"
     },
     {
       "album": {
@@ -1289,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Joan Sebastian Con Tambora (Vol. 3)",
+        "url": "https://open.spotify.com/album/7L7ikrl8D5MM1xfi76KI2q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278058,
+      "name": "Manuel Juarez",
+      "url": "https://open.spotify.com/track/42RbwgUrgljhwMM3ZWMYJn"
+    },
+    {
+      "album": {
         "name": "Joan Sebastian con Tambora",
         "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
       },
@@ -1300,7 +1584,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278058,
       "name": "Manuel Ju\u00e1rez",
       "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
@@ -1336,10 +1620,28 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165341,
       "name": "Mi Caballo Pobre",
       "url": "https://open.spotify.com/track/2CzhEXk8qVDbvzF2Czy5wk"
+    },
+    {
+      "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165341,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/4wW1Xvbfwmq8CMJdjoR4fg"
     },
     {
       "album": {
@@ -1390,7 +1692,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181401,
       "name": "Mi Potra",
       "url": "https://open.spotify.com/track/50aNYSEuvsp0p20elTwI8W"
@@ -1426,7 +1728,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153855,
       "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
       "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
@@ -1444,7 +1746,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 246546,
       "name": "Nueve Caballos",
       "url": "https://open.spotify.com/track/0r4SPEierpcYrgErVkxqc0"
@@ -1470,6 +1772,24 @@
     {
       "album": {
         "name": "One Dashing Eagle",
+        "url": "https://open.spotify.com/album/1Vhtuz6IdryKO4crutpm9y"
+      },
+      "artists": [
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224129,
+      "name": "One Dashing Eagle",
+      "url": "https://open.spotify.com/track/3PtzZYnDamHnif0I6DtcLw"
+    },
+    {
+      "album": {
+        "name": "One Dashing Eagle",
         "url": "https://open.spotify.com/album/5jLznbo1EblcTlUEkQqAhi"
       },
       "artists": [
@@ -1480,7 +1800,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224130,
       "name": "One Dashing Eagle",
       "url": "https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU"
@@ -1524,7 +1844,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 134733,
       "name": "Ranchero Y Gallardo",
       "url": "https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7"
@@ -1542,7 +1862,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134739,
       "name": "Ranchero Y Gallardo",
       "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
@@ -1568,6 +1888,28 @@
     {
       "album": {
         "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
+        "url": "https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162867,
+      "name": "Se Vende un Caballo",
+      "url": "https://open.spotify.com/track/1JYTrgXZsXbrNLCBXfEwds"
+    },
+    {
+      "album": {
+        "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
         "url": "https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B"
       },
       "artists": [
@@ -1582,10 +1924,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162867,
       "name": "Se Vende un Caballo",
       "url": "https://open.spotify.com/track/4INGYD1uBRoEIwrIWLHoK3"
+    },
+    {
+      "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199836,
+      "name": "Trato De Muerte",
+      "url": "https://open.spotify.com/track/2rAKr8ccF24rWoFbC80706"
     },
     {
       "album": {
@@ -1600,7 +1960,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199836,
       "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
       "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"

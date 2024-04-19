@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: D-Block Europe",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: AJ Tracey",
   "name": "Rap UK",
   "tracks": [
     {
@@ -288,6 +288,28 @@
       "duration_ms": 341896,
       "name": "100mph Freestyle x3",
       "url": "https://open.spotify.com/track/3oNREEStm4dUTV5dSIbmIZ"
+    },
+    {
+      "album": {
+        "name": "10th Floor",
+        "url": "https://open.spotify.com/album/7GlhaF2tpBVuHcQpUOEKsM"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165187,
+      "name": "10th Floor",
+      "url": "https://open.spotify.com/track/245OHFpYqd3cvakVl7roVp"
     },
     {
       "album": {
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133150,
       "name": "BACK BONE",
       "url": "https://open.spotify.com/track/2oNTtpvE5qXkRNNmF1av6j"
@@ -3136,7 +3158,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182078,
       "name": "Backroad",
       "url": "https://open.spotify.com/track/2GjsYCM0V0SBDx4N7x2T9F"
@@ -3172,7 +3194,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 99121,
       "name": "BACKWIDDA",
       "url": "https://open.spotify.com/track/3tVS1wzLbIsWcvF3B1mAM0"
@@ -4142,7 +4164,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178231,
       "name": "Betting On Me",
       "url": "https://open.spotify.com/track/316rEtzvFnNMbjTLnYicJj"
@@ -4908,6 +4930,40 @@
       "duration_ms": 126000,
       "name": "Blood on the Floor",
       "url": "https://open.spotify.com/track/5fAZDL4rSkkiQHXlJE5Shk"
+    },
+    {
+      "album": {
+        "name": "Blow Trees (feat. MIST, Abra Cadabra, Tunde & Wardz)",
+        "url": "https://open.spotify.com/album/4ng0sEcp3quY0JjOjcnF9y"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        },
+        {
+          "name": "Wardz",
+          "url": "https://open.spotify.com/artist/0M1lN3mMhgliDlANe2a0A0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Blow Trees (feat. MIST, Abra Cadabra, Tunde & Wardz)",
+      "url": "https://open.spotify.com/track/5LgxU9EtzRK6aS88Fe5sSC"
     },
     {
       "album": {
@@ -8167,6 +8223,32 @@
     },
     {
       "album": {
+        "name": "Cry No More (feat. Stormzy & Tay Keith)",
+        "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204170,
+      "name": "Cry No More (feat. Stormzy & Tay Keith)",
+      "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/7hTRt1r8CvY0UFxdlLuhDt"
       },
@@ -11182,7 +11264,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159981,
       "name": "Englaso",
       "url": "https://open.spotify.com/track/0hDjvR6tcjTbpfpigqcJ4j"
@@ -11328,7 +11410,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160000,
       "name": "ETA (feat. Luciano)",
       "url": "https://open.spotify.com/track/2k0DfombK3vPkkaCVhEhEG"
@@ -11350,7 +11432,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "ETA (feat. Luciano)",
       "url": "https://open.spotify.com/track/422qTU33m36TliSm27uONY"
@@ -11818,7 +11900,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124958,
       "name": "Fancy (feat. Chow Lee)",
       "url": "https://open.spotify.com/track/4cMsSuziecXIO8Tjr4yD0W"
@@ -12740,7 +12822,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132976,
       "name": "French Tips",
       "url": "https://open.spotify.com/track/6ydEPFYftZ6q23eZkEuCMs"
@@ -14283,6 +14365,24 @@
     },
     {
       "album": {
+        "name": "HDC 2.0",
+        "url": "https://open.spotify.com/album/3qAkHTkd980qg0JzclEYuG"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "HDC 2.0",
+      "url": "https://open.spotify.com/track/6umH86JNGXD7Ape63zIMZl"
+    },
+    {
+      "album": {
         "name": "He Called Me",
         "url": "https://open.spotify.com/album/01dvDV3i7uXgclshiTge2G"
       },
@@ -15332,7 +15432,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228764,
       "name": "Human",
       "url": "https://open.spotify.com/track/1i6g63hF4NTHErvy8Hkd9w"
@@ -15566,6 +15666,32 @@
       "duration_ms": 178287,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/3tQWQvqyGt6okDrRHJKoMx"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6hSbR9hpHUJqmPZvVvh9zZ"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "JayBaloo",
+          "url": "https://open.spotify.com/artist/5HgBXgWlXOdTX48Wkrd0dJ"
+        },
+        {
+          "name": "AdeSTP",
+          "url": "https://open.spotify.com/artist/4KCJx85C3RUlu0MugVjPhz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135303,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2PsQzdPHrajGZ9tZiTyJXA"
     },
     {
       "album": {
@@ -16742,6 +16868,24 @@
       "duration_ms": 55774,
       "name": "Jme's Pattern",
       "url": "https://open.spotify.com/track/0MScFULzqw1TMzYqwDF9SM"
+    },
+    {
+      "album": {
+        "name": "Joga Bonito",
+        "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124471,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh"
     },
     {
       "album": {
@@ -19755,6 +19899,24 @@
     },
     {
       "album": {
+        "name": "Malicious Intentions",
+        "url": "https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148189,
+      "name": "Malicious Intentions",
+      "url": "https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47"
+    },
+    {
+      "album": {
         "name": "Mamacita Go",
         "url": "https://open.spotify.com/album/0cMX2N76HWvSpN0kCZvqUs"
       },
@@ -21933,6 +22095,24 @@
     },
     {
       "album": {
+        "name": "Concrete Rose",
+        "url": "https://open.spotify.com/album/3jAR6GwqSY4rXMv0TcVtas"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177717,
+      "name": "Need More",
+      "url": "https://open.spotify.com/track/2rgQHyZ9Aebcu8JVi65cpJ"
+    },
+    {
+      "album": {
         "name": "Neighbourhood Hero",
         "url": "https://open.spotify.com/album/1oquYifDek9GGLnd6XrhBP"
       },
@@ -23374,6 +23554,24 @@
       "duration_ms": 218943,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/7nXLZ598IP6i7YN0YjMBsW"
+    },
+    {
+      "album": {
+        "name": "Old School Era",
+        "url": "https://open.spotify.com/album/47NnC3P5UnJ9TFNs2iwArH"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135944,
+      "name": "Old School Era",
+      "url": "https://open.spotify.com/track/7izCltWKxb23ujmjnH4eBB"
     },
     {
       "album": {
@@ -31199,6 +31397,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boys Turned Sour",
+        "url": "https://open.spotify.com/album/6Gr9Upfd4Xf8rIgIbCfVVn"
+      },
+      "artists": [
+        {
+          "name": "Bashy",
+          "url": "https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192847,
+      "name": "Sweet Boys Turned Sour",
+      "url": "https://open.spotify.com/track/31QmFXYklf0s872nAp3GUg"
+    },
+    {
+      "album": {
         "name": "Sweet Flaws",
         "url": "https://open.spotify.com/album/2XeT6FdyyyONcAZMb8OoEV"
       },
@@ -32554,7 +32770,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173645,
       "name": "Thug With Me (feat. Mozzy)",
       "url": "https://open.spotify.com/track/6FwxOkqxFE4jfdlhwZHQee"
@@ -35409,6 +35625,24 @@
     },
     {
       "album": {
+        "name": "WHO ARE YOU?",
+        "url": "https://open.spotify.com/album/79LYqs5lMVSb9alz5bDKVT"
+      },
+      "artists": [
+        {
+          "name": "Cass",
+          "url": "https://open.spotify.com/artist/6TTjPbelnBIFcSOTtupewI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147483,
+      "name": "WHO ARE YOU?",
+      "url": "https://open.spotify.com/track/0SmsNRPxKNGkNSS2mivnRa"
+    },
+    {
+      "album": {
         "name": "Who Cares",
         "url": "https://open.spotify.com/album/3R5lhDTtJzKrqPdj2IXA1R"
       },
@@ -35620,7 +35854,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183935,
       "name": "Wifey Riddim 4",
       "url": "https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12"
@@ -35646,6 +35880,24 @@
       "duration_ms": 177534,
       "name": "Wildest",
       "url": "https://open.spotify.com/track/4TFumJif4oyWpVyHOMkoK4"
+    },
+    {
+      "album": {
+        "name": "Will You Ever?",
+        "url": "https://open.spotify.com/album/1WLbU1C1011DRYoDhsJw9h"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Will You Ever?",
+      "url": "https://open.spotify.com/track/6vcAHwVgJ3oNE85Grs1QIN"
     },
     {
       "album": {
@@ -36037,6 +36289,28 @@
     },
     {
       "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/2rfzTU6eD889ohkn7XEtXv"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150304,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/7ezqWiO4OTxHg5EJmdFnWm"
+    },
+    {
+      "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
       },
@@ -36066,7 +36340,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196597,
       "name": "Writers Block",
       "url": "https://open.spotify.com/track/3vASP3wHrxVBNDOsAuEBAh"
@@ -36240,7 +36514,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225333,
       "name": "yawn",
       "url": "https://open.spotify.com/track/56CNfi2sGoySvA6onBw8J5"

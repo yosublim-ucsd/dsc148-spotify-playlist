@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "Les meilleurs hits Pop du Maghreb sont ici. Cover: Zouhair Bahaoui",
+  "description": "Les meilleurs hits Pop du Maghreb sont ici. Cover: Kawtar",
   "name": "Top Maghreb Pop",
   "tracks": [
     {
@@ -106,10 +106,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
+    },
+    {
+      "album": {
+        "name": "Ajini",
+        "url": "https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Ajini",
+      "url": "https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6"
     },
     {
       "album": {
@@ -751,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Hada Hali Min Baadak",
+        "url": "https://open.spotify.com/album/2P5KHLfSqOKehqmB2Y8p3u"
+      },
+      "artists": [
+        {
+          "name": "Asma Lmnawar",
+          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "Hada Hali Min Baadak",
+      "url": "https://open.spotify.com/track/2lvG3rlN2hXJzien2hGU6t"
+    },
+    {
+      "album": {
         "name": "Heeya",
         "url": "https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX"
       },
@@ -816,7 +852,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 155280,
       "name": "Hyati",
       "url": "https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5"
@@ -834,7 +870,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155302,
       "name": "Hyati",
       "url": "https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow"
@@ -2048,7 +2084,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190769,
       "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
       "url": "https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr"

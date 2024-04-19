@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,716 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,852 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 3 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/0hje5OrPK3XNbcuGzmZwDV) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [I've Got a Feelin' \- Okeh & Savoy Recordings 1952\-56](https://open.spotify.com/album/23TvdUPk9uACZuIROsADwL) | 2:56 |
 | 4 | [Strange Things Happening Every Day](https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:47 |
 | 5 | [Saturday Night Fish Fry](https://open.spotify.com/track/2jPlhMe0ptZPA6Of2mwKEZ) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [The Best Of Louis Jordan](https://open.spotify.com/album/5fvGQvU2Hr99ABkrykFD7u) | 5:22 |
-| 6 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 |
-| 7 | [Work With Me Annie](https://open.spotify.com/track/6JqgGrA5uWjVFuar7EC8v8) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53) | 2:47 |
-| 8 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
+| 6 | [Work With Me Annie](https://open.spotify.com/track/6JqgGrA5uWjVFuar7EC8v8) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53) | 2:47 |
+| 7 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
+| 8 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 |
 | 9 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
 | 10 | [Choo Choo Ch'Boogie](https://open.spotify.com/track/0F18rDmCyWFBuwbbHxQdZs) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Somebody Up There Digs Me](https://open.spotify.com/album/3Oi4pLtW9GbwTX1Oycdjvt) | 2:17 |
 | 11 | [Good Rocking Tonight](https://open.spotify.com/track/29D3AG8rhX2OSWg8k9GIII) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Boogie Woogie Blues](https://open.spotify.com/album/5q7R4Xt2dh7oiIWLbeJTq4) | 3:34 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 29 | [That's All Right](https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right Mama](https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N) | 2:56 |
 | 30 | [Smokestack Lightnin'](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 3:08 |
 | 31 | [Rock Me Mama](https://open.spotify.com/track/12LedD0MvtCtmVIsCAQlpC) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Presenting Arthur "Big Boy" Crudup](https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ) | 2:29 |
-| 32 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 |
+| 32 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 |
 | 33 | [Rock It For Me](https://open.spotify.com/track/0C0H0Drjxe9gnQtYz2f5b6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chick Webb](https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb) | [The Early Years \- Part 1 \(1935\-1938\)](https://open.spotify.com/album/24lKvz4OOlIWhpYxBnHBTR) | 3:09 |
 | 34 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 |
 | 35 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 44 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
 | 45 | [She's A Sweet One](https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 3:01 |
 | 46 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
-| 47 | [Good Rockin Tonight](https://open.spotify.com/track/2k87zh87uA132TS9ENMpsw) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Presenting Roy Brown](https://open.spotify.com/album/4qP4SvX9u1r5hk3sxtmGYl) | 3:36 |
-| 48 | [Rock a While](https://open.spotify.com/track/0oMOMV1xeO3n6MDaieuhCh) | [Goree Carter](https://open.spotify.com/artist/37pKwOXXC8AxbS1wIBhtbP) | [Rock a While](https://open.spotify.com/album/5aOqm88qLw7kXDZdvk1tr3) | 2:40 |
-| 49 | [Sixty Minute Man](https://open.spotify.com/track/6O2ptWddF1zImt8CMwsdiF) | [Billy Ward & The Dominoes](https://open.spotify.com/artist/5N6BX9UJbyuWlb4rxH8mJk) | [Sixty Minute Man](https://open.spotify.com/album/7t26O9uEYKDVLhvmgLGeVo) | 2:33 |
+| 47 | [Rock a While](https://open.spotify.com/track/0oMOMV1xeO3n6MDaieuhCh) | [Goree Carter](https://open.spotify.com/artist/37pKwOXXC8AxbS1wIBhtbP) | [Rock a While](https://open.spotify.com/album/5aOqm88qLw7kXDZdvk1tr3) | 2:40 |
+| 48 | [Sixty Minute Man](https://open.spotify.com/track/6O2ptWddF1zImt8CMwsdiF) | [Billy Ward & The Dominoes](https://open.spotify.com/artist/5N6BX9UJbyuWlb4rxH8mJk) | [Sixty Minute Man](https://open.spotify.com/album/7t26O9uEYKDVLhvmgLGeVo) | 2:33 |
+| 49 | [Good Rockin Tonight](https://open.spotify.com/track/2k87zh87uA132TS9ENMpsw) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Presenting Roy Brown](https://open.spotify.com/album/4qP4SvX9u1r5hk3sxtmGYl) | 3:36 |
 | 50 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 
-Snapshot ID: `MTY4NjkxOTM4NiwwMDAwMDAwMDUxOWRiZTE0ODFhZTJkZjhjZTBmMmQ2MWQxYjg5NzE4`
+Snapshot ID: `MTcxMzM4MzAyNCwwMDAwMDAwMGYwM2M1NDlhMjE2ZjljNDA2ZjA2NjI5MzhmYWVhMjFk`

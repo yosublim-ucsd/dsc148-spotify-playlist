@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Tom Ashbrook continues The Classical Takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,357 likes - 26 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,372 likes - 26 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dusk](https://open.spotify.com/track/2602iitMkOR7xanDfbBP1b) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Nocturnes](https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI) | 2:20 |
-| 2 | [Immunity \- Remaster 2023](https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 9:56 |
+| 2 | [Immunity](https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 9:56 |
 | 3 | [1917](https://open.spotify.com/track/6TsRPIdwASJBXanGhftVjc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 1:17 |
 | 4 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 |
 | 5 | [Nocturne I](https://open.spotify.com/track/737hpponBaDFxw5wWNQ7pe) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Nocturnes](https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI) | 2:25 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 | 20 | [Coloquial](https://open.spotify.com/track/3uf3YHoAUbTksPq8pK7lWV) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Nocturnes](https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI) | 2:21 |
 | 21 | [Circle 26 \- Tom Ashbrook Rework](https://open.spotify.com/track/4j8p9TcazKNPKka3SD43Tt) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Full Circle Reworks](https://open.spotify.com/album/456HZjogXSlOUsCkKmjoqC) | 3:40 |
 | 22 | [Winda](https://open.spotify.com/track/7espL0QoALwgAwGybSFNqU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Nocturnes](https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI) | 4:03 |
-| 23 | [Mikey's Vision](https://open.spotify.com/track/7g8W0yqZ9A7mvOcJo7jjT8) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Goonies: 25th Anniversary Edition \(Original Motion Picture Score\)](https://open.spotify.com/album/1Ak5MfNDurLnAvctHfxkbP) | 1:52 |
+| 23 | [Mikey's Vision](https://open.spotify.com/track/5dyboqBGQnnxOAQiVVWwmV) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Goonies: 25th Anniversary Edition \(Original Motion Picture Score\)](https://open.spotify.com/album/1wqruXYx6jRrLsPzVGTP8F) | 1:52 |
 | 24 | [Morning Tides](https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Nocturnes](https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI) | 1:58 |
-| 25 | [Heroes](https://open.spotify.com/track/3JnUGjk4IoihcVDmcxDEA1) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Scratch My Back](https://open.spotify.com/album/6UvXlXqOAFv49ePZ22kEyn) | 4:08 |
+| 25 | [Heroes](https://open.spotify.com/track/1gYMahNjulEXAPhxlm27ek) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Scratch My Back](https://open.spotify.com/album/7EhHLOnxROkHHp4usKOKqn) | 4:08 |
 | 26 | [The Banquet](https://open.spotify.com/track/7pVfzHMdc4XHGiUcI7iqxj) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Hook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SNJN8cmx15IVdSa5jJCVR) | 3:07 |
 
 Snapshot ID: `MTY4ODcwMjQ2MCwwMDAwMDAwMGRhNjE2MjRiMjhmMjNkNjA5ZmIxNjI4ZTc4MDlmZmIz`

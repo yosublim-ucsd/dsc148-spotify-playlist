@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Samara",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : A.L.A",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167415,
       "name": "3almdar",
       "url": "https://open.spotify.com/track/2yi5HVJ7QZl1mJq3UwsZHx"
@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "9anoun El Ghaba",
+        "url": "https://open.spotify.com/album/2YH2Uxm9bsfrTVndEyfgKb"
+      },
+      "artists": [
+        {
+          "name": "G.G.A",
+          "url": "https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP"
+        },
+        {
+          "name": "Junior Hassen",
+          "url": "https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "9anoun El Ghaba",
+      "url": "https://open.spotify.com/track/5hfpH7uwzXEFZoAAKrJT55"
+    },
+    {
+      "album": {
         "name": "Ghram 2",
         "url": "https://open.spotify.com/album/71r5bb776Z9kz8Mizn9qa8"
       },
@@ -92,7 +114,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222439,
       "name": "9anoun El Ghaba",
       "url": "https://open.spotify.com/track/7olqWoMSAEDBNHAFpr96YG"
@@ -314,6 +336,24 @@
       "duration_ms": 213905,
       "name": "Fa9ou Biya",
       "url": "https://open.spotify.com/track/0bseLMJXgYr6M9MyVJQ35v"
+    },
+    {
+      "album": {
+        "name": "Ghaba",
+        "url": "https://open.spotify.com/album/3cjuodS53dH13S46iQavuk"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185449,
+      "name": "Ghaba",
+      "url": "https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT"
     },
     {
       "album": {
@@ -855,6 +895,28 @@
     },
     {
       "album": {
+        "name": "Stava Bene",
+        "url": "https://open.spotify.com/album/2WYGHDw0lmUlgKGlsY2FTF"
+      },
+      "artists": [
+        {
+          "name": "RedStar",
+          "url": "https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5"
+        },
+        {
+          "name": "Mc Artisan",
+          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224384,
+      "name": "Stava Bene",
+      "url": "https://open.spotify.com/track/0uEjppwk80YQMkyW4eWleQ"
+    },
+    {
+      "album": {
         "name": "\u0635\u0646\u0639 \u0628\u0633\u062d\u0631",
         "url": "https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu"
       },
@@ -870,7 +932,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224384,
       "name": "Stava Bene",
       "url": "https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT"

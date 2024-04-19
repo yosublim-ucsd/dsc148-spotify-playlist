@@ -1,28 +1,48 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot;, Enrique Iglesias &amp; El Alfa &quot;La Botella&quot;",
-  "num_followers": 54461,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot; Cover: Sky Rompiendo X Rauw Alejandro  ",
+  "num_followers": 54434,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDQxMixkZWM3YjU1NzcyOWI3ZjMzY2RkNDQ0YTc0MThhYTQ5M2IxNzIwNDg5",
+  "snapshot_id": "NDQxOSw3Mjg5YWQyNzdjMDg5ZmQzY2RmYmIxNTA0YTRlYzQ3ZmIyMWM5MDI3",
   "tracks": [
     {
-      "added_at": "2024-04-12 03:35:05",
+      "added_at": "2024-04-19 01:10:18",
       "album": {
-        "name": "Baja California",
-        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 187315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": "2024-04-19 04:06:37",
+      "album": {
+        "name": "Daruma",
+        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 178987,
+      "name": "Daruma",
+      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
     },
     {
       "added_at": "2024-04-12 03:57:48",
@@ -45,6 +65,46 @@
       "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
+      "added_at": "2024-04-19 05:09:32",
+      "album": {
+        "name": "Reir pa no llorar",
+        "url": "https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "Reir pa no llorar",
+      "url": "https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN"
+    },
+    {
+      "added_at": "2024-04-19 04:29:22",
+      "album": {
+        "name": "Fr\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/26Myqnfs2h2756VNPfPz1I"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 176606,
+      "name": "Fr\u00eda - Remix",
+      "url": "https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q"
+    },
+    {
       "added_at": "2024-03-22 04:09:49",
       "album": {
         "name": "Punter\u00eda",
@@ -63,6 +123,22 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr"
+    },
+    {
+      "added_at": "2024-04-12 03:35:05",
+      "album": {
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
     },
     {
       "added_at": "2024-04-05 18:51:00",
@@ -307,6 +383,22 @@
       "duration_ms": 204310,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp"
+    },
+    {
+      "added_at": "2024-01-11 16:56:02",
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "added_at": "2024-03-29 13:05:33",
@@ -851,22 +943,6 @@
       "duration_ms": 185294,
       "name": "est\u00e1 brillando la ciudad",
       "url": "https://open.spotify.com/track/6VFukssRvVuR8VFcDw2CLA"
-    },
-    {
-      "added_at": "2024-01-11 16:56:02",
-      "album": {
-        "name": "fantasmas",
-        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 287248,
-      "name": "fantasmas",
-      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "added_at": "2023-11-03 00:00:47",

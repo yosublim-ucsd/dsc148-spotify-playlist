@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Rina Sawayama
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,820 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,561 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 13 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
 | 14 | [His car](https://open.spotify.com/track/1COQ1NcGoreiQRKnxQkWXA) | [Matt Terry](https://open.spotify.com/artist/2JLqTvFXmC87BksiCsBezV) | [His car](https://open.spotify.com/album/1HPvXQcys0sKb8KMxFXGHq) | 3:06 |
 | 15 | [Would You \- From the Movie „Summer with Maria"](https://open.spotify.com/track/4J8zIgcx4Zxd9t4il7uyH4) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Would You \(From the Movie „Summer with Maria"\)](https://open.spotify.com/album/57E5ATNsiZ7wQ1bU5xBbVD) | 2:50 |
-| 16 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
+| 16 | [Lover/Friend](https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD) | 3:32 |
 | 17 | [Last Resort](https://open.spotify.com/track/4j8jFsBRbQMjJ88pjo4nvd) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Look To A Star](https://open.spotify.com/album/3adnlfMcaXUJHUTzusBjB0) | 2:51 |
 | 18 | [本世紀最怪](https://open.spotify.com/track/7k5eVvETDVDNJUrqBWdnGi) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [本世紀最怪](https://open.spotify.com/album/41XHCYpNdlcPtgyM6gORc7) | 5:02 |
 | 19 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 28 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 |
 | 29 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 |
 | 30 | [Couples Therapy](https://open.spotify.com/track/3RVzXiXKzu2AkCUnATH5ZQ) | [LuxJury](https://open.spotify.com/artist/2zLTVYCCfZSL5zLfKNTNKw) | [Couples Therapy](https://open.spotify.com/album/5HyLyqrPbhaRkckVuwllsE) | 5:15 |
-| 31 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 |
+| 31 | [I Don't Love You](https://open.spotify.com/track/3yv0PNx5lOY0YQ7P3FOXW8) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/2JSzdaZgvPilynY4B3VrCN) | 4:11 |
 | 32 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
 | 33 | [Sunburn](https://open.spotify.com/track/0ALiooMG99wGkBEVdQWOMQ) | [Harrison McClary](https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT) | [Sunburn](https://open.spotify.com/album/4FiXAKgcfMhWbqZRGIJane) | 3:25 |
 | 34 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 37 | [Tú](https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB) | [Mon & Marz](https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU), [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Tú](https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9) | 3:04 |
 | 38 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 |
 | 39 | [Why Me](https://open.spotify.com/track/6Htz5xLJVaA077rWehpt7g) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Why Me](https://open.spotify.com/album/25RIOMI5xdUFXEThfuYDig) | 3:06 |
-| 40 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5yemzKG0VNqq6NpeAmZ3fH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei) | 3:03 |
+| 40 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
 | 41 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 |
 | 42 | [Problem Child](https://open.spotify.com/track/74HpGJEl1eGyK16eOYiQFN) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Problem Child](https://open.spotify.com/album/3o4TWee7kX0DeIyHYf68XH) | 2:19 |
 | 43 | [No Estoy Bien](https://open.spotify.com/track/6r18wJlc9axfn3Dtaz4b2W) | [Rocío Saiz](https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm) | [Autoboicot y Descanso](https://open.spotify.com/album/1vTWQ4Gx12DBUPKVaTAerY) | 3:26 |
 | 44 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
-| 45 | [+Dti](https://open.spotify.com/track/1TFcz69v0KJ6QY1xznGoDL) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti / AcidSuperstar](https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM) | 2:39 |
+| 45 | [+Dti](https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti](https://open.spotify.com/album/2bdUAeGjviRgl7SlRIFGHk) | 2:39 |
 | 46 | [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 |
-| 47 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 |
+| 47 | [One More Night](https://open.spotify.com/track/7h3SmdSMPWiqeMJdX1YKLO) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/25XqmGzypcKDWVpwqZ5cIZ) | 2:44 |
 | 48 | [sweet](https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [sweet](https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB) | 2:11 |
-| 49 | [Gangbang](https://open.spotify.com/track/7eXxSzId7BWiwaJre9oLtS) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Gangbang](https://open.spotify.com/album/1lv5dbqg82UeGTkA6ZYxh5) | 2:16 |
+| 49 | [Gangbang](https://open.spotify.com/track/1x2TmFVVHYquL4yYdtKrUp) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Gangbang](https://open.spotify.com/album/1Nt80TxpfCjpOQFPs64k5q) | 2:16 |
 | 50 | [Elevator](https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH), [Unusual Magic](https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ) | [Elevator](https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz) | 2:03 |
 
 Snapshot ID: `MTcxMzI4MzIwMCwwMDAwMDAwMDk2Zjk3Yjk4NDcxMGY5N2NhYWIzNjJhMzcyMWJjMWZh`

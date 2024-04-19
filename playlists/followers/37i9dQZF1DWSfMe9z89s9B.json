@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 1381137,
+  "2024-04-19": 1380817,
   "date_first_scraped": "2021-12-21",
   "description": "Leaders of the new school...Alternative R&B. Cover: Avenoir",
   "name": "Vanguard",
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 164102,
       "name": "Blue Hundreds",
       "url": "https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi"
@@ -10753,6 +10753,24 @@
       "duration_ms": 220060,
       "name": "Laced",
       "url": "https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y"
+    },
+    {
+      "album": {
+        "name": "LADY",
+        "url": "https://open.spotify.com/album/50GdbECmzrTgVknqyh9Cps"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "LADY",
+      "url": "https://open.spotify.com/track/5ykAJMmkgLxayuV4sgOoLp"
     },
     {
       "album": {

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Alg\u00fan Contexto",
+        "url": "https://open.spotify.com/album/1Tx2sSctUPvcy544ZgvM4a"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174939,
+      "name": "Alg\u00fan Contexto",
+      "url": "https://open.spotify.com/track/2sDpADDQsdwl9VFQdhbcm1"
+    },
+    {
+      "album": {
         "name": "Armenia",
         "url": "https://open.spotify.com/album/1YNwE2V9vCmI66drR0swHr"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174939,
       "name": "Alg\u00fan Contexto",
       "url": "https://open.spotify.com/track/3CYJKHDRMB1gk3AZPluwe6"
@@ -178,10 +196,28 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232478,
       "name": "Ay Coraz\u00f3n (Silencio)",
       "url": "https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11"
+    },
+    {
+      "album": {
+        "name": "Ay Coraz\u00f3n (Silencio)",
+        "url": "https://open.spotify.com/album/0FJQgCTzwQdy0SYX5fQGXB"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232478,
+      "name": "Ay Coraz\u00f3n (Silencio)",
+      "url": "https://open.spotify.com/track/4XUrjgP3UQv4LviewC2G6j"
     },
     {
       "album": {
@@ -640,7 +676,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 259366,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/0ZjqSrxzjeMgLHqt1MMUXZ"
@@ -658,7 +694,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259366,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/2Fofr3MUi6NXUjO3xb9CjK"
@@ -716,10 +752,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204000,
       "name": "Estar Bien",
       "url": "https://open.spotify.com/track/1PQltLG8NezKxaW3cWAM57"
+    },
+    {
+      "album": {
+        "name": "Expuesta",
+        "url": "https://open.spotify.com/album/0JldJwdXISVEzlUH8POoxa"
+      },
+      "artists": [
+        {
+          "name": "Soy Emilia",
+          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Estar Bien",
+      "url": "https://open.spotify.com/track/3MDp8AskpkUp8BVXMxmknR"
     },
     {
       "album": {
@@ -886,7 +940,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/6urnTHBHzPOSEJEcizWtdP"
@@ -904,7 +958,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252000,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/2KiB4g5suCd59wsRcK5MGV"
@@ -922,7 +976,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218939,
       "name": "Grita",
       "url": "https://open.spotify.com/track/5MeHgKJfpKJd2awO1T5gCl"
@@ -940,7 +994,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 218939,
       "name": "Grita",
       "url": "https://open.spotify.com/track/5hHnZ2ty9FpXiFen169sfk"
@@ -976,7 +1030,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 180775,
       "name": "Inmerso",
       "url": "https://open.spotify.com/track/1yT5pnA2Ixa9MM1etHmHDR"
@@ -1012,7 +1066,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180923,
       "name": "Inmerso",
       "url": "https://open.spotify.com/track/37qHIRSEqzJ7Tvnj2qCWPt"
@@ -1110,10 +1164,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258750,
       "name": "Los \u00c1rboles (Briela Ojeda)",
       "url": "https://open.spotify.com/track/5aALfFoHbBVY3aibjVwitF"
+    },
+    {
+      "album": {
+        "name": "Los \u00c1rboles Ft. Briela Ojeda",
+        "url": "https://open.spotify.com/album/2anj5qCJRdX28bxYJliavk"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Los \u00c1rboles Ft. Briela Ojeda",
+      "url": "https://open.spotify.com/track/4av6LyXzHl3bNtqIr3ZuGg"
     },
     {
       "album": {
@@ -1136,6 +1212,24 @@
     {
       "album": {
         "name": "Luces Ne\u00f3n",
+        "url": "https://open.spotify.com/album/7npVc4YI5A14JlrIqOG2wH"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Luces Ne\u00f3n",
+      "url": "https://open.spotify.com/track/1KggS8Fk7lofj9rjtCEKv3"
+    },
+    {
+      "album": {
+        "name": "Luces Ne\u00f3n",
         "url": "https://open.spotify.com/album/1e4X4ReVQErGDwchkE34sN"
       },
       "artists": [
@@ -1146,7 +1240,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227368,
       "name": "Luces Ne\u00f3n",
       "url": "https://open.spotify.com/track/3Y8EuhwZ6LdGi3leKQHBXZ"
@@ -1200,10 +1294,46 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232306,
       "name": "Manos al Fuego",
       "url": "https://open.spotify.com/track/3oGlMejab90xmaoizmkdHe"
+    },
+    {
+      "album": {
+        "name": "Manos al Fuego",
+        "url": "https://open.spotify.com/album/1LRqlp2bAaVeaptfQdLnq3"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "Manos al Fuego",
+      "url": "https://open.spotify.com/track/4iaLgMm0Y79jrPiIm13FNn"
+    },
+    {
+      "album": {
+        "name": "Matizando",
+        "url": "https://open.spotify.com/album/0BLDyvnSOw07mqhIH9vVFH"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214069,
+      "name": "Matizando",
+      "url": "https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO"
     },
     {
       "album": {
@@ -1218,7 +1348,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214069,
       "name": "Matizando",
       "url": "https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq"
@@ -1341,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "No Me Dejes Caer",
+        "url": "https://open.spotify.com/album/04blY1FDXNGY5PxzT8p1Kw"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248964,
+      "name": "No Me Dejes Caer",
+      "url": "https://open.spotify.com/track/4PNmRatDNP2b5vsDb9wbWo"
+    },
+    {
+      "album": {
         "name": "No Hay Mal Que Dure una Vida",
         "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
       },
@@ -1352,7 +1500,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248964,
       "name": "No Me Dejes Caer",
       "url": "https://open.spotify.com/track/4gt9sXRxyfoo0Mlfx5Ik9z"
@@ -1410,7 +1558,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 170769,
       "name": "No Tengo Tiempo",
       "url": "https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX"
@@ -1428,7 +1576,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170769,
       "name": "No Tengo Tiempo",
       "url": "https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI"
@@ -1522,7 +1670,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 287701,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
@@ -1544,7 +1692,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287701,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
@@ -1792,6 +1940,24 @@
     {
       "album": {
         "name": "Sigo",
+        "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199294,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
+    },
+    {
+      "album": {
+        "name": "Sigo",
         "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
       },
       "artists": [
@@ -1802,7 +1968,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199294,
       "name": "Sigo",
       "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
@@ -1842,10 +2008,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244886,
       "name": "Sin Ver Atr\u00e1s",
       "url": "https://open.spotify.com/track/2oYKAFupDHhwwapxL1cpRP"
+    },
+    {
+      "album": {
+        "name": "Sin Ver Atr\u00e1s",
+        "url": "https://open.spotify.com/album/11GGaHVj8ybxURA058Z4Ee"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244886,
+      "name": "Sin Ver Atr\u00e1s",
+      "url": "https://open.spotify.com/track/3JXNmL4JDwr651Zudbxytk"
     },
     {
       "album": {

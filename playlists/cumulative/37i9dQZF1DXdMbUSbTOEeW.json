@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -1804,10 +1804,40 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271586,
       "name": "Hungama Ho Gaya (From \"Queen\")",
       "url": "https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271586,
+      "name": "Hungamaa Ho Gaya",
+      "url": "https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv"
     },
     {
       "album": {
@@ -2200,10 +2230,36 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163846,
       "name": "Jadi Buti",
       "url": "https://open.spotify.com/track/1kGL1Mt8kNNhZDZwCocBBF"
+    },
+    {
+      "album": {
+        "name": "Music Is The Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Jadi Buti",
+      "url": "https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ"
     },
     {
       "album": {
@@ -2230,36 +2286,6 @@
       "duration_ms": 163846,
       "name": "Jadi Buti",
       "url": "https://open.spotify.com/track/5MZ3ZUvMFbS0zKis6DwmAM"
-    },
-    {
-      "album": {
-        "name": "Music Is The Weapon (Reloaded)",
-        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "date_added": "2023-02-17",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
-      "duration_ms": 163846,
-      "name": "Jadi Buti (feat. Rashmeet Kaur)",
-      "url": "https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ"
     },
     {
       "album": {
@@ -2841,6 +2867,28 @@
     },
     {
       "album": {
+        "name": "Mera Dil Ye Pukare - Tu Aaja - Heartlock Mix",
+        "url": "https://open.spotify.com/album/31do7roahpdjKVBlvcSrDZ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Heartlock",
+          "url": "https://open.spotify.com/artist/0XqW9UITIzCIQ4CurIcgwz"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122608,
+      "name": "Mera Dil Ye Pukare - Tu Aaja - Heartlock Mix",
+      "url": "https://open.spotify.com/track/4rNlSH6WP8ML0Yke8sPmNx"
+    },
+    {
+      "album": {
         "name": "Mera Dil Ye Pukare - Tu Aaja (Heartlock Mix)",
         "url": "https://open.spotify.com/album/313XQLTvs8g357smdl4S0j"
       },
@@ -2856,7 +2904,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122608,
       "name": "Mera Dil Ye Pukare - Tu Aaja - Heartlock Mix",
       "url": "https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern"

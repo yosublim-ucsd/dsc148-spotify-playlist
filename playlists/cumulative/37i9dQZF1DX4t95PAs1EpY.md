@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-501 songs - 19 hr 15 min
+502 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,8 +188,8 @@
 | [Good Things Coming](https://open.spotify.com/track/0BZiMl6Z2kEtSByrJM8pCF) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Good Things Coming](https://open.spotify.com/album/6BQEOgTe5bo6XNfGYgyolp) | 2:36 | 2022-05-13 | 2022-09-09 |
 | [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 | 2022-09-16 |  |
 | [Grapefruit Park](https://open.spotify.com/track/3yEYawa3IMccZnBfvsAvp3) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Grapefruit Garden](https://open.spotify.com/album/7cGS9vNywltuBBmpKdcf55) | 1:39 | 2022-09-23 |  |
-| [Green Apple](https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/4blv62dlpmGnG2NWpcLALl) | 2:45 | 2022-10-28 | 2023-08-31 |
-| [Green Apple](https://open.spotify.com/track/75lI8teC4XoCbFosoDGrRk) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/44GAx3WI8GBIrTzBn4vB5e) | 2:45 | 2023-07-13 |  |
+| [Green Apple](https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/4blv62dlpmGnG2NWpcLALl) | 2:45 | 2022-10-28 |  |
+| [Green Apple](https://open.spotify.com/track/75lI8teC4XoCbFosoDGrRk) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/44GAx3WI8GBIrTzBn4vB5e) | 2:45 | 2023-07-13 | 2024-04-19 |
 | [grey](https://open.spotify.com/track/7hsBr3KD0MYwyqVrABtn0e) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [grey](https://open.spotify.com/album/2QZLDT2OG2f0MzQvWQp1EY) | 2:19 | 2022-09-09 |  |
 | [Growing Mind](https://open.spotify.com/track/2CwCf5ttFE2Ffkeg7z0YuU) | [milow](https://open.spotify.com/artist/5Fhirk5jON5pzTHB3BJaAo) | [Growing Mind](https://open.spotify.com/album/0VxszT15NOsmJBp6GXKteI) | 1:57 | 2023-06-06 | 2023-09-08 |
 | [Growing Up](https://open.spotify.com/track/1Cvq5cD9E221rkFkqWJikD) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Growing Up](https://open.spotify.com/album/1EqzxAnLs3MBuwDrdjM2Xv) | 2:16 | 2023-04-11 |  |
@@ -331,9 +331,10 @@
 | [Nostalgia](https://open.spotify.com/track/1IgmK98o6h5a0uWUMYZNVx) | [Tomh.](https://open.spotify.com/artist/0Jav1F9KkDu2SgE5Sc5MPU), [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Nostalgia](https://open.spotify.com/album/3OfPKcmUrcS9IvEeZEbbUN) | 2:10 | 2023-03-01 |  |
 | [Nostalgic Nites](https://open.spotify.com/track/4lPkVjs0htygD9B2XpWfoN) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Nostalgic Nites](https://open.spotify.com/album/6Uw7UIoOaYZ5wfr5VF72WP) | 2:03 | 2023-02-17 |  |
 | [Notes & Notes](https://open.spotify.com/track/5A9hqBLfGSiaxizL4hOqCI) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 1:41 | 2021-12-07 | 2022-05-20 |
+| [Nothing Stays Forever](https://open.spotify.com/track/3P5Z5olamZN11TCtMawGL5) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [ALIVE](https://open.spotify.com/album/6qzph8fuxA7HTKNcxCfxO3) | 3:42 | 2024-03-22 |  |
 | [Nothing Stays Forever](https://open.spotify.com/track/4xEllGKkPqykeyrmWfFwOT) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Nothing Stays Forever](https://open.spotify.com/album/2mwWimoYUMqHIuqZc3J5VR) | 3:42 | 2022-11-11 | 2023-02-14 |
 | [Nothing Stays Forever](https://open.spotify.com/track/6McX4XwMmBZeEKW3LeeL7O) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/1P28erNO6UqJiM4m5T4uLY) | 3:42 | 2023-02-07 | 2024-03-10 |
-| [Nothing Stays Forever](https://open.spotify.com/track/5yW8pNbHpiCS92iVcYEeEI) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/6XrrWdMJLMkAmrTGX5Et3w) | 3:42 | 2024-03-08 |  |
+| [Nothing Stays Forever](https://open.spotify.com/track/5yW8pNbHpiCS92iVcYEeEI) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [STILL ALIVE](https://open.spotify.com/album/6XrrWdMJLMkAmrTGX5Et3w) | 3:42 | 2024-03-08 | 2024-04-19 |
 | [Ohio](https://open.spotify.com/track/1yig3lUBlHAjXgDiFrjusj) | [TakeOff](https://open.spotify.com/artist/7byR68EzAwuOWkR0pwZ6DK) | [Ohio](https://open.spotify.com/album/5PFfLTv3qf8QEWcOjvT3hy) | 1:50 | 2021-12-07 | 2022-05-27 |
 | [On Repeat](https://open.spotify.com/track/3fY4AgYbIUJZvz7hl0326O) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [On Repeat](https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS) | 2:30 | 2021-12-07 |  |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2021-12-07 | 2022-09-03 |

@@ -4,7 +4,7 @@
 
 > Enjoy the NCT DREAM Berlin concert LIVE SET including the voices of members on stage! \(NCT DREAM 멤버들의 무대의 목소리가 포함된 베를린 콘서트 LIVE SET을 즐겨보세요!\)
 
-40 songs - 2 hr 9 min
+42 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,11 @@
 | [Countdown \(3, 2, 1\)](https://open.spotify.com/track/5ngy93w3QaZl3mN9YinIux) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:34 | 2023-05-29 |  |
 | [Diggity](https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:29 | 2023-05-29 |  |
 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 | 2023-05-29 |  |
-| [Dreaming](https://open.spotify.com/track/79IikGOqOg2Rnnz0Fo5Qao) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:10 | 2023-05-29 |  |
+| [Dreaming](https://open.spotify.com/track/00Qg5kk0QM1UtQMXPEPo7j) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 3:10 | 2023-05-29 |  |
+| [Dreaming](https://open.spotify.com/track/79IikGOqOg2Rnnz0Fo5Qao) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:10 | 2023-05-29 | 2024-04-19 |
 | [Drive](https://open.spotify.com/track/5kU7ejlQb3T56BIwYOiudl) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:18 | 2023-05-29 |  |
-| [Déjà Vu](https://open.spotify.com/track/1fFcWSwHHYdrNlDIJWNT0R) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:27 | 2023-05-29 |  |
+| [Déjà Vu](https://open.spotify.com/track/1fFcWSwHHYdrNlDIJWNT0R) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:27 | 2023-05-29 | 2024-04-19 |
+| [Déjà Vu](https://open.spotify.com/track/73TM9iCEp8VtKZNXZADbQb) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/1rGpCbxrR8efs4nMPdUj1q) | 3:27 | 2023-05-29 |  |
 | [Ending Comments from Individual Members](https://open.spotify.com/track/28UwuJUZlvlkNlxj7bsgNc) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’](https://open.spotify.com/album/4h8UgrSzeee1AmvokOOxfy) | 11:50 | 2023-05-29 |  |
 | [Ending Comments from NCT DREAM](https://open.spotify.com/track/4fIXGQvr0dqSFqNejKGtBn) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’](https://open.spotify.com/album/4h8UgrSzeee1AmvokOOxfy) | 0:52 | 2023-05-29 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2023-05-29 |  |

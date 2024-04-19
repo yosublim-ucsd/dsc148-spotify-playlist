@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,828 likes - 225 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,203 likes - 225 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,7 +212,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 202 | [Luscinia](https://open.spotify.com/track/41SC5tLZA5YviFCtQZBuTK) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Luscinia](https://open.spotify.com/album/5kjm7UxgQ63iSdpRfifn1n) | 1:48 |
 | 203 | [Curls](https://open.spotify.com/track/2ECNr4Li4S3wgmhlgzzDnz) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Curls](https://open.spotify.com/album/0XR83mn0IyWx3sFn1mp6YK) | 2:45 |
 | 204 | [Love + Death](https://open.spotify.com/track/54dFCQKrgsfEgbqkLKZ575) | [Kewlie](https://open.spotify.com/artist/3Nu9d1nTBjPHOfI9HccCrZ) | [Love + Death](https://open.spotify.com/album/5a4WFiRmEACsugFbT1s8cg) | 2:21 |
-| 205 | [Final Destination](https://open.spotify.com/track/4PGaMtP5HLcPTiNEevGj82) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/4LRikK5f2nmBqXvFqotAwJ) | 2:34 |
+| 205 | [Final Destination](https://open.spotify.com/track/4fAOUcDYMVuw2gvU1ZR8Ql) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/3aqhM9qEU5KZuX8yD7GduK) | 2:34 |
 | 206 | [Merchant](https://open.spotify.com/track/4IucBScpBN0d9j8Dr67BQn) | [Sloepoke](https://open.spotify.com/artist/4PA0B5xujSlQnGiTiAPb1E) | [Merchant](https://open.spotify.com/album/1I3PubNkqlT5cRkKW58znq) | 1:30 |
 | 207 | [Moving on](https://open.spotify.com/track/3AQ8Dl7oJjO9kyX7jPRy5E) | [Nymano](https://open.spotify.com/artist/3BoSEarTgKiw8sHE0ixJNK), [Suuna](https://open.spotify.com/artist/6oRyIjMVFpqq6iGpHEKvVd) | [Moving On](https://open.spotify.com/album/207yAnLznfQciZTxIioet8) | 3:11 |
 | 208 | [Landing](https://open.spotify.com/track/6PvjEMUp5hfunQCAmakT6v) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Landing](https://open.spotify.com/album/0e6UefvoUcVPvyhbD5TWOd) | 2:36 |
@@ -226,8 +226,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 216 | [Soaring Skies](https://open.spotify.com/track/6BYqDQYn9ZkXsEior0XqzL) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Soaring Skies & Chatty Mountains](https://open.spotify.com/album/0dqIbxk81W1siCTh1eBP8a) | 2:48 |
 | 217 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 |
 | 218 | [Tea Leaves](https://open.spotify.com/track/7LINIBYL3Nqc4tK7mmmWsx) | [littlehouse](https://open.spotify.com/artist/2FNVpme1c5oaaSp8ubShra), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Tea Leaves](https://open.spotify.com/album/6kWCwBJw2tWfoVWP5gGJAv) | 2:06 |
-| 219 | [Rolling Down the Road](https://open.spotify.com/track/0yhi622ykvVQdSHsAzXd0J) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Rolling Down the Road](https://open.spotify.com/album/5ykum1DnzuEwqXg5IWCtpp) | 2:02 |
-| 220 | [Cadillac Moon](https://open.spotify.com/track/5FL8WNc3o0Y457aP6P2XxF) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/2ZGsDR8rXrJxINXoM4KIxs) | 1:33 |
+| 219 | [Rolling Down the Road](https://open.spotify.com/track/6S1p0yGzPBOR6miNkXTnrt) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Rolling Down the Road](https://open.spotify.com/album/5yBaPe9qmfalOLsRyJfmIQ) | 2:02 |
+| 220 | [Cadillac Moon](https://open.spotify.com/track/6L0akuFYGDxpuqhcbMBX37) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/6De3gGKyllrv8bn01ihpds) | 1:33 |
 | 221 | [Pond Jumping](https://open.spotify.com/track/3Sy7c30lh7w6L9olCcm1FE) | [Ippi](https://open.spotify.com/artist/5Apq17wh3bdYdX52rCYkQK) | [Pond Jumping](https://open.spotify.com/album/7z1hKpabLTophAUB2oGTq2) | 2:19 |
 | 222 | [Only Memories](https://open.spotify.com/track/087DXuWYOFFXpslcEpD3mY) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Only Memories](https://open.spotify.com/album/6J9Coi8rv4rv7l27AoiSIv) | 2:14 |
 | 223 | [Time](https://open.spotify.com/track/6qS8xBmJSAbsED3LBkkeGE) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Time](https://open.spotify.com/album/33RqAG4mxKha0ofu1IjKo9) | 1:47 |

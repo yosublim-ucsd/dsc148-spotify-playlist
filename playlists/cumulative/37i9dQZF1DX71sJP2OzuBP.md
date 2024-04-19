@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-1,477 songs - 3 day 22 hr 27 min
+1,479 songs - 3 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [My Love](https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [My Love](https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd) | 3:00 | 2023-05-01 | 2023-06-06 |
 | [My Tiffany](https://open.spotify.com/track/3ThM5aCfTL8yjAxrsbZaqQ) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [My Tiffany](https://open.spotify.com/album/6NDstGNTEHxpy1GlMlSw4i) | 4:15 | 2022-09-19 | 2022-10-25 |
 | [Netflix & Chill](https://open.spotify.com/track/3lkC6INhJoIYQ4OjnjKspY) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [桃皮搗蛋 Peachievous](https://open.spotify.com/album/4v2x0Hzcbwex8EW5hxJFa3) | 2:28 | 2023-07-10 | 2023-07-25 |
-| [Never Again](https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK) | 4:00 | 2023-07-31 |  |
+| [Never Again](https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK) | 4:00 | 2023-07-31 | 2024-04-19 |
 | [No One Else but You](https://open.spotify.com/track/4Sj3jeyShkgMwFBqzHrrKy) | [Richard Lim 林耀亮](https://open.spotify.com/artist/7udFRD8aeVyZBuJWnfJmNH), [安映霏](https://open.spotify.com/artist/01TNqVsmC0GF1VTBab9Emr), [罗振宏](https://open.spotify.com/artist/2nbMroXrzyBOJIvJKAYfRG) | [No One Else but You](https://open.spotify.com/album/71UqkCjNLHW5ytfmBWLLfT) | 3:46 | 2023-09-18 | 2023-10-03 |
 | [No Way](https://open.spotify.com/track/7Kk3sKPPGHFUU80wKOC6wy) | [未來少女 薄荷水晶](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [No Way](https://open.spotify.com/album/0rAHdp6v0OYOrj7PlafpLv) | 3:58 | 2023-10-02 | 2023-10-31 |
 | [Not Good Enough](https://open.spotify.com/track/48eKVc1WyOJyE6HDdTngCD) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [Not Good Enough](https://open.spotify.com/album/57RimKyMNZ8XfSqgWfj9GB) | 2:47 | 2023-11-20 | 2024-02-13 |
@@ -329,6 +329,7 @@
 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 | 2022-12-19 | 2023-01-10 |
 | [不再](https://open.spotify.com/track/5bpio06g40uZXbTNpzn4ZH) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [不再](https://open.spotify.com/album/57cJL3zt3kuvvzxfV3Qxnv) | 3:31 | 2022-07-25 | 2022-09-06 |
 | [不再](https://open.spotify.com/track/72F5kPw5PzWvLzMiKAxbBQ) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [不再](https://open.spotify.com/album/5i8d9xSHnV1QbIy7HZeRLb) | 3:31 | 2022-06-06 | 2022-07-29 |
+| [不再可以](https://open.spotify.com/track/6GsZOW5IBV20TP2V4j4rAr) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/7u2tfOPAU2ZzHCEPKPKtX3) | 4:00 | 2024-04-15 |  |
 | [不冬眠](https://open.spotify.com/track/6yQoPwwb56Uvrvbouzuw4f) | [劉耀文](https://open.spotify.com/artist/5FVgvRVA9Eh8OQxbV5TQSc) | [不冬眠](https://open.spotify.com/album/4KvTQsGq0iDJsbhFXiWtZu) | 4:19 | 2022-12-26 | 2023-03-07 |
 | [不動聲色](https://open.spotify.com/track/1FcIDPwbkyQw7yFukStn84) | [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [不動聲色](https://open.spotify.com/album/5SBT6Gr0oPJXCDRfdeQQkj) | 4:41 | 2024-04-08 |  |
 | [不去管](https://open.spotify.com/track/3ZcxhKEpgX0m3L9Y97OavO) | [Tiger Hu](https://open.spotify.com/artist/3PpIzdLny8HwTnKp9joXdj) | [不去管](https://open.spotify.com/album/5Mbo64jjU1jbXvxCufkbJI) | 3:57 | 2023-07-10 | 2023-08-01 |
@@ -753,7 +754,8 @@
 | [心和脈搏 \- 《我的牙想你》插曲](https://open.spotify.com/track/6iyvLVCAOvamkcb0WmGhIl) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [心和脈搏 \(《我的牙想你》插曲\)](https://open.spotify.com/album/7pxwPz8QUwuIDvcWw62xSB) | 3:24 | 2022-10-24 | 2022-12-20 |
 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 | 2022-06-06 | 2022-06-14 |
 | [心碎情人節](https://open.spotify.com/track/4WL9YIZ8oeVmRWtOFjPj7P) | [7LING](https://open.spotify.com/artist/2uoLJ1UsIqdbK6uiJmhw47) | [心碎情人節](https://open.spotify.com/album/20xaCgxrxpiEPCtahYm6Vf) | 3:13 | 2023-03-20 | 2023-04-04 |
-| [心锚](https://open.spotify.com/track/7mbrCYWBWGlTwNLLOtXvRY) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [心錨](https://open.spotify.com/album/7fJgHlMNoZzCzt1GzNHbdu) | 4:28 | 2024-04-01 |  |
+| [心锚](https://open.spotify.com/track/08WKNnRQYRGsFnzanawMTn) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [心锚](https://open.spotify.com/album/5eUA16SRa2Cx4aCxX4uiHo) | 4:28 | 2024-04-15 |  |
+| [心锚](https://open.spotify.com/track/7mbrCYWBWGlTwNLLOtXvRY) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [心錨](https://open.spotify.com/album/7fJgHlMNoZzCzt1GzNHbdu) | 4:28 | 2024-04-01 | 2024-04-19 |
 | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/track/5vK9eZXr6rPzGMam2gM3Rb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/album/74q1Dvfb9naAGqNXwIhbTC) | 3:25 | 2023-05-01 | 2023-05-16 |
 | [心际迷航](https://open.spotify.com/track/4CVYcOJACqdjl7qtCRDXmq) | [陈颖恩](https://open.spotify.com/artist/3kDuOTiKwVAGGiVArHoEzD) | [心际迷航](https://open.spotify.com/album/3Rmu9OF71Da0ZsI4ZO01po) | 3:52 | 2022-11-07 | 2022-12-27 |
 | [忘不掉的星](https://open.spotify.com/track/4NiohVOgR2wVrv5jUilos4) | [Cola B](https://open.spotify.com/artist/3LrZ1mrMzMFm5forQrdBVn) | [忘不掉的星](https://open.spotify.com/album/4kbOmiWpTcvhFDYbvFemVx) | 4:20 | 2024-02-12 | 2024-02-27 |

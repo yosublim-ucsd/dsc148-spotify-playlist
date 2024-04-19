@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover:  Ellen Allien
 
-1,405 songs - 3 day 0 hr 36 min
+1,406 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,8 @@
 | [Happiness](https://open.spotify.com/track/1cdXPtassjG2G4mtagd0sL) | [Freekind.](https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV) | [Happiness](https://open.spotify.com/album/3awLtgdFb637B2kY7eQ3dq) | 3:24 | 2022-09-06 | 2022-10-05 |
 | [Happy](https://open.spotify.com/track/0AEXLqtldKlp5Kl48oSahy) | [WE ARE AVA](https://open.spotify.com/artist/5jJAPoKkkgYZyPnnoNLTLw) | [Happy](https://open.spotify.com/album/6xmmaNNmc3Ml6vGADbMKeX) | 2:39 | 2022-05-31 | 2022-07-06 |
 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 | 2024-03-05 | 2024-04-03 |
-| [Hare Ram](https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar) | 3:19 | 2024-04-02 |  |
+| [Hare Ram](https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar) | 3:19 | 2024-04-02 | 2024-04-19 |
+| [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 | 2024-04-02 |  |
 | [Harley Quinn](https://open.spotify.com/track/40cLuVN3G96ZcGjWluuBAQ) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Harley Quinn](https://open.spotify.com/album/1GeXEh6XRAv8tvnC7W8hZD) | 2:07 | 2022-07-05 | 2022-08-03 |
 | [hausflur](https://open.spotify.com/track/4eZQUtvU0l7rFZzajOfF1I) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [hausflur](https://open.spotify.com/album/1edD0IzK7r5KxKtNlWVgPa) | 2:47 | 2022-03-07 | 2022-04-06 |
 | [hausflur](https://open.spotify.com/track/6xlnblDNPhIcEKrAePjNgV) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [verlierer](https://open.spotify.com/album/0q8XIgIhKo2O2oukgDsy2s) | 2:47 | 2022-11-30 | 2023-01-04 |

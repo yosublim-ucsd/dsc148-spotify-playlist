@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-100 songs - 5 hr 8 min
+101 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 | 2023-12-15 |  |
 | [Gozando en Matanzas](https://open.spotify.com/track/05lZq4yh4QdWx2ZYusZjGx) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:27 | 2023-12-15 |  |
 | [Guajira En F](https://open.spotify.com/track/4F6Nt1JNncQFuvUQfPX3a3) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [Guajira En F](https://open.spotify.com/album/77PDkLl1ZBM7L6RmikwgQW) | 2:48 | 2023-12-15 |  |
-| [Guantanamera](https://open.spotify.com/track/5kuNPTnpZPDInDaGFpuao9) | [Berta Rojas](https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY), [Carlos Barbosa\-Lima](https://open.spotify.com/artist/6hznHFy1sAJBOO6pmOdxV5) | [Alma Y Corazon](https://open.spotify.com/album/1XrxVoDGaMXWF67dDJHJws) | 3:28 | 2023-12-15 |  |
+| [Guantanamera](https://open.spotify.com/track/5kuNPTnpZPDInDaGFpuao9) | [Berta Rojas](https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY), [Carlos Barbosa\-Lima](https://open.spotify.com/artist/6hznHFy1sAJBOO6pmOdxV5) | [Alma Y Corazon](https://open.spotify.com/album/1XrxVoDGaMXWF67dDJHJws) | 3:28 | 2023-12-15 | 2024-04-19 |
+| [Guantanamera](https://open.spotify.com/track/5xcJY6gg4ja8bVdXP612Kr) | [Joseito Fernandez](https://open.spotify.com/artist/3k5yvrU4CBsA1SRBBKxx0O), [Carlos Barbosa Lima & Berta Rojas](https://open.spotify.com/artist/6YCtYyfGIjpsNwT7hmRW15) | [Alma Y Corazon](https://open.spotify.com/album/2AUUHqjY7aWSrmTiGsznSi) | 3:28 | 2024-04-05 |  |
 | [Hello](https://open.spotify.com/track/5ItnxwkIQ2Hz6CNtDGfAmE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Hello](https://open.spotify.com/album/0O7nnSoaclFgc9BFXW9eWc) | 2:41 | 2023-12-15 |  |
 | [Horizonte](https://open.spotify.com/track/2GnkchiEEX9BvQOrCD7Rh7) | [Ferdinand Eisner](https://open.spotify.com/artist/7Ag3zdwV2fqC7BKdXwjVsD) | [White Stone](https://open.spotify.com/album/1YoEhz6VaIj5IL7xFBuOmy) | 2:40 | 2023-12-15 |  |
 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 | 2023-12-15 |  |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 277706,
       "name": "$ea Pimp",
       "url": "https://open.spotify.com/track/11KBYCu1z3GfjRNbHr5yc3"
@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "BABABASS",
+        "url": "https://open.spotify.com/album/30iFuo0xeskQRG3OIV7m77"
+      },
+      "artists": [
+        {
+          "name": "ZEKE BEATS",
+          "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        {
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "BABABASS",
+      "url": "https://open.spotify.com/track/2TBVfT3IWdjRSeRFtwv6Jq"
+    },
+    {
+      "album": {
         "name": "Back Once",
         "url": "https://open.spotify.com/album/5B8QqeBqkTb9EUYk50p8zg"
       },
@@ -546,7 +568,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197830,
       "name": "Balaclava",
       "url": "https://open.spotify.com/track/7w6TttBaxpBtN5xVBee0cs"
@@ -898,7 +920,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 373839,
       "name": "Bliss - Original Mix",
       "url": "https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20"
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160000,
       "name": "Chamber",
       "url": "https://open.spotify.com/track/0YZRI7gnGiwqtsvNb6I5so"
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286935,
       "name": "Classic Edition",
       "url": "https://open.spotify.com/track/3pF74ZpVjsyM5HnxhFQFfL"
@@ -1862,7 +1884,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/7mmElHLJIXL42Z3FE511xs"
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 217750,
       "name": "Dark Wing",
       "url": "https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w"
@@ -2280,7 +2302,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 222857,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4eCKotoixCMh0U6Gfp7XI9"
@@ -2964,7 +2986,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 211862,
       "name": "False Angel",
       "url": "https://open.spotify.com/track/5yvNQcSjq21zPFBUaQvJvh"
@@ -3196,7 +3218,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Fools Gold",
       "url": "https://open.spotify.com/track/1H8U2t2JrjbGld8YPmjX0w"
@@ -3306,7 +3328,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260035,
       "name": "Forest Creature",
       "url": "https://open.spotify.com/track/24FFTMGz9qesaHsQY2N6Y9"
@@ -4413,7 +4435,7 @@
       "artists": [
         {
           "name": "Asad Khan",
-          "url": "https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q"
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
         },
         {
           "name": "Equanimous",
@@ -4422,7 +4444,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 185699,
       "name": "Insight",
       "url": "https://open.spotify.com/track/1TmCCPrOJjyByclYIHr5mC"
@@ -4614,6 +4636,24 @@
       "duration_ms": 312274,
       "name": "Juce",
       "url": "https://open.spotify.com/track/1YLCRZDFbNNdBJc53jUfF9"
+    },
+    {
+      "album": {
+        "name": "JUDGMENT/FREEFALL",
+        "url": "https://open.spotify.com/album/2FoG5IIVpcjhJI0f7YkMiY"
+      },
+      "artists": [
+        {
+          "name": "REMNANT.exe",
+          "url": "https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "JUDGMENT",
+      "url": "https://open.spotify.com/track/5onP6GliL0YHed3aFXpcou"
     },
     {
       "album": {
@@ -4960,7 +5000,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303942,
       "name": "Lankershim Stroll",
       "url": "https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx"
@@ -5324,7 +5364,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269834,
       "name": "Lion (feat Taso)",
       "url": "https://open.spotify.com/track/0IvYno5HGUyEGjvsLoG7Bg"
@@ -5432,7 +5472,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112241,
       "name": "lone idol",
       "url": "https://open.spotify.com/track/08CMcVNAuetyhdwSwQCD9v"
@@ -6040,10 +6080,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 144857,
       "name": "Monomyth",
       "url": "https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE"
+    },
+    {
+      "album": {
+        "name": "movelikethis",
+        "url": "https://open.spotify.com/album/6XSfdiAub5nmcAJOpaXyHt"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "movelikethis",
+      "url": "https://open.spotify.com/track/45e1BYbwh9VF93xUDbHiVs"
     },
     {
       "album": {
@@ -7062,7 +7120,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250285,
       "name": "Power Outage",
       "url": "https://open.spotify.com/track/7IxQnOdr8vxk0tWS9aPwK9"
@@ -7164,7 +7222,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155330,
       "name": "Profit",
       "url": "https://open.spotify.com/track/1tPKSiahAXhNGFNHIFlTDQ"
@@ -7572,7 +7630,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229714,
       "name": "Reaper - Monty & Visages Remix",
       "url": "https://open.spotify.com/track/6efm793uEcSkkZkwdCWOKe"
@@ -7774,7 +7832,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Reptilian",
       "url": "https://open.spotify.com/track/3nSyqoqpbYypTYYg4ZCdh0"
@@ -8744,7 +8802,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260575,
       "name": "Slow Waves",
       "url": "https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8"
@@ -9514,7 +9572,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 255326,
       "name": "Sworda",
       "url": "https://open.spotify.com/track/5Kb6VKVsDanGOM43JQpdt9"
@@ -10044,7 +10102,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208581,
       "name": "The Progress",
       "url": "https://open.spotify.com/track/3VuMvmrQgXoGmuJYXqMtW1"
@@ -10558,7 +10616,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303428,
       "name": "Vacant",
       "url": "https://open.spotify.com/track/4KtEedfcRM9VycSED3sWnF"
@@ -10682,6 +10740,32 @@
       "duration_ms": 226285,
       "name": "Wanchai",
       "url": "https://open.spotify.com/track/5TOrZM4bLcvrJSRSeSGO4y"
+    },
+    {
+      "album": {
+        "name": "War (Truth Remix)",
+        "url": "https://open.spotify.com/album/6GKQS093OPPoORbtWAtPSt"
+      },
+      "artists": [
+        {
+          "name": "Widow",
+          "url": "https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse"
+        },
+        {
+          "name": "Logan",
+          "url": "https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek"
+        },
+        {
+          "name": "Truth",
+          "url": "https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "War - Truth Remix",
+      "url": "https://open.spotify.com/track/0u6O7D2ou9cXGANFxM0XIo"
     },
     {
       "album": {
@@ -10922,7 +11006,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 348072,
       "name": "Wisdom",
       "url": "https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9"
@@ -11118,7 +11202,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266281,
       "name": "Yellow & Grey - VIP",
       "url": "https://open.spotify.com/track/6220rBuMBMeJExA503QKaP"

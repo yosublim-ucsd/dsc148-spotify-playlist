@@ -121,8 +121,8 @@
     },
     {
       "album": {
-        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
+        "name": "As I Am (with Peter CottonTale)",
+        "url": "https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4"
       },
       "artists": [
         {
@@ -142,13 +142,13 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
     },
     {
       "album": {
-        "name": "As I Am (with Peter CottonTale)",
-        "url": "https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4"
+        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
       },
       "artists": [
         {
@@ -158,14 +158,18 @@
         {
           "name": "Peter CottonTale",
           "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Melodie Wagner",
+          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
         }
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2024-04-19",
       "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale)",
-      "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
+      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
     },
     {
       "album": {
@@ -572,7 +576,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202960,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
@@ -688,7 +692,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199000,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
@@ -724,7 +728,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 254026,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
@@ -944,7 +948,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
@@ -1146,7 +1150,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225856,
       "name": "Heaven On Earth - Radio Single",
       "url": "https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670"
@@ -1204,7 +1208,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 243817,
       "name": "Highest Praise",
       "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
@@ -1298,7 +1302,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201371,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
@@ -1454,7 +1458,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "It's Your Love",
       "url": "https://open.spotify.com/track/5FiQ8fKxKN3ROICLV1aDKG"
@@ -1872,7 +1876,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222597,
       "name": "Love Goes On - Remix",
       "url": "https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR"
@@ -2014,7 +2018,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194374,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
@@ -2036,6 +2040,24 @@
       "duration_ms": 193312,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6qUWiMokzyMYbqa3IXHhPd"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306398,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0qaN2WzhuKAARHaeNjLUW0"
     },
     {
       "album": {
@@ -2238,7 +2260,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 196506,
       "name": "Nobody But You - Live",
       "url": "https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop"
@@ -2256,7 +2278,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
@@ -2354,7 +2376,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
@@ -2408,7 +2430,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162894,
       "name": "Phenomena (DA DA) - Live",
       "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
@@ -2462,7 +2484,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 162894,
       "name": "Phenomena (DA DA) - Live",
       "url": "https://open.spotify.com/track/5SU08C7u2nFFZ10QyvI8RO"
@@ -2498,7 +2520,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199573,
       "name": "Pray It Up",
       "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
@@ -2556,7 +2578,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb"
@@ -2596,7 +2618,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206960,
       "name": "Right Where You Want Me",
       "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
@@ -2744,7 +2766,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 208866,
       "name": "Stand Firm",
       "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
@@ -2784,7 +2806,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221693,
       "name": "State Of Mind - Live",
       "url": "https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl"
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 288626,
       "name": "Surely Now",
       "url": "https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc"
@@ -2864,7 +2886,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244653,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
@@ -2934,7 +2956,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
@@ -2992,7 +3014,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224693,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
@@ -3014,7 +3036,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 208411,
       "name": "Till the Earth",
       "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
@@ -3032,7 +3054,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 194493,
       "name": "To Get To Me",
       "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CJ4VSZ8TKr.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第4弾。故郷への思いや未来への希望に満ちたメッセージソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,205 likes - 45 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,215 likes - 45 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 |
+| 1 | [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 |
 | 2 | [素敵な夢を叶えましょう](https://open.spotify.com/track/0ZvD5T4M5xR09faA7WZpwS) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 5:09 |
 | 3 | [平和の琉歌](https://open.spotify.com/track/164X7E7Q4Lcv3bUCRv1UIF) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [海のYeah!!](https://open.spotify.com/album/7jgjFck3NyzARjBImnDqxE) | 3:24 |
 | 4 | [希望の轍](https://open.spotify.com/track/1PxSiKj0jedCGmOo4fvqPn) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [海のYeah!!](https://open.spotify.com/album/7jgjFck3NyzARjBImnDqxE) | 4:15 |
-| 5 | [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 |
+| 5 | [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 |
 | 6 | [人生の散歩道](https://open.spotify.com/track/1F4irlL1FQBTUeEKX2OiQt) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ピースとハイライト](https://open.spotify.com/album/50jUxZCQFjT0p0PV5jqdCH) | 4:02 |
 | 7 | [Hey! Ryudo!\(ヘイ!リュード!\)](https://open.spotify.com/track/4D0Q8bUuo9i8Lu0fI1oviX) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙のアベニュー](https://open.spotify.com/album/59SSrcVyoTH9dgJxXAW0l8) | 4:23 |
 | 8 | [ロックンロール・スーパーマン \~Rock’n Roll Superman\~](https://open.spotify.com/track/0t569xtgbuSI22j5r9EU2v) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 5:01 |

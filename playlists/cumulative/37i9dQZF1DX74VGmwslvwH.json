@@ -2290,10 +2290,32 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192473,
       "name": "Siddharthas Echoes",
       "url": "https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf"
+    },
+    {
+      "album": {
+        "name": "Siddharthas Echoes",
+        "url": "https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b"
+      },
+      "artists": [
+        {
+          "name": "Vedic Moon",
+          "url": "https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7"
+        },
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Siddharthas Echoes",
+      "url": "https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm"
     },
     {
       "album": {
@@ -2416,7 +2438,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218000,
       "name": "Spiritual air",
       "url": "https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1"
@@ -2434,7 +2456,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Spiritual air",
       "url": "https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk"

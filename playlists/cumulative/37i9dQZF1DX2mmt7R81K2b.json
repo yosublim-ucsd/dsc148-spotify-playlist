@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326773,
       "name": "'Raindrop' Pr\u00e9lude in D-flat major (Op. 28, No. 15)",
       "url": "https://open.spotify.com/track/2NFFPpVALKAo6cG06AOvFC"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 326773,
       "name": "'Raindrop' Pr\u00e9lude in D-flat major (Op. 28, No. 15)",
       "url": "https://open.spotify.com/track/3KwwWYRDpF5kSwm5sFrjWa"
@@ -116,7 +116,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 762840,
       "name": "Adagietto (From \"Symphony No. 5 in C-Sharp Minor\") [Live]",
       "url": "https://open.spotify.com/track/7p5NYxs2LzmRFdlAt2kJGm"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 313026,
       "name": "Beethoven's Piano Sonata No. 8, Pathetique",
       "url": "https://open.spotify.com/track/7hdbfMdjsdclkZONmT7lD6"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313026,
       "name": "Beethoven's Piano Sonata No. 8, Pathetique",
       "url": "https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr"
@@ -476,10 +476,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 667733,
       "name": "Clair de Lune",
       "url": "https://open.spotify.com/track/273VxALm722DRN4PNujOF8"
+    },
+    {
+      "album": {
+        "name": "The Epic",
+        "url": "https://open.spotify.com/album/4XpN8C7ulShkadw4dGJuPy"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 667744,
+      "name": "Clair de Lune",
+      "url": "https://open.spotify.com/track/7pa1EJv9TrLtrx1ogsGtPL"
     },
     {
       "album": {
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405020,
       "name": "Moonlight Sonata",
       "url": "https://open.spotify.com/track/0yERcLFHXV0kbdZZktZMqZ"
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 409000,
       "name": "Moonlight Sonata",
       "url": "https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q"
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116400,
       "name": "Nocturne No. 20 In C-Sharp Minor, Op. Posth.",
       "url": "https://open.spotify.com/track/4LvG1nirz2wv1ln5weaCyE"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116743,
       "name": "Nocturne No. 20 in C-sharp minor, Op. posthume",
       "url": "https://open.spotify.com/track/7btkqjF0Jw2DopaH6wvgvD"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237000,
       "name": "Orchestersuite D-Dur BWV 1068: No. 3 Air (Arr. Stefan K\u00f6nig)",
       "url": "https://open.spotify.com/track/5iVIFUBgVvatmKufC2CbVW"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (On a G String)",
       "url": "https://open.spotify.com/track/4FsUPnXoCN6VSgkU6wXAwz"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "Orph\u00e9e & Eurydice: M\u00e9lodie - Arranged by Charl du Plessis",
       "url": "https://open.spotify.com/track/3N3QAAN8Z1VKOy4GEl0Yjf"
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223200,
       "name": "Orph\u00e9e & Eurydice: M\u00e9lodie - Arranged by Charl du Plessis",
       "url": "https://open.spotify.com/track/7Cm2CaZc35mndY9XBfFfqD"
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324573,
       "name": "Pavane",
       "url": "https://open.spotify.com/track/1IdTBf0QfIvl4giLRuNOk0"
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 324573,
       "name": "Pavane",
       "url": "https://open.spotify.com/track/1pASaPpC5gkDDQlcZi1QKi"
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 762840,
       "name": "Symphony No. 5 Adagietto",
       "url": "https://open.spotify.com/track/3AGMN7ej0BFlFIy5LAvAmW"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275066,
       "name": "Variation d'Apollon",
       "url": "https://open.spotify.com/track/7xfirUVtWnX4xkFiTlSUbP"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273426,
       "name": "Variation d\u2019Apollon",
       "url": "https://open.spotify.com/track/4xxsj5DGpSyqpe4IwaAHkP"

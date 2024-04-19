@@ -20,10 +20,32 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180906,
       "name": "1, 2 Many",
       "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
+    },
+    {
+      "album": {
+        "name": "1, 2 Many",
+        "url": "https://open.spotify.com/album/2Vhpj39fiR6IC6YgBTuAxL"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "1, 2 Many",
+      "url": "https://open.spotify.com/track/4OlBux2r07KoOtfomcade6"
     },
     {
       "album": {
@@ -96,10 +118,32 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
+    },
+    {
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199786,
+      "name": "All My Favorite People (feat. Brothers Osborne)",
+      "url": "https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo"
     },
     {
       "album": {
@@ -258,7 +302,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 165090,
       "name": "BOOTS 'N ALL",
       "url": "https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ"
@@ -276,7 +320,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165090,
       "name": "Boots 'N All",
       "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
@@ -330,10 +374,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238146,
       "name": "Chicken Fried",
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+    },
+    {
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/4dGJf1SER1T6ooX46vwzRB"
     },
     {
       "album": {
@@ -366,10 +428,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "album": {
+        "name": "Copperhead Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
     },
     {
       "album": {
@@ -489,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Day Drunk",
+        "url": "https://open.spotify.com/album/1Ryrll6yqZVxp2MVZLN3ON"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194565,
+      "name": "Day Drunk",
+      "url": "https://open.spotify.com/track/1YGnxla52qGpfE7FC6fj83"
+    },
+    {
+      "album": {
         "name": "Things That We Drink To",
         "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
       },
@@ -500,7 +598,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194898,
       "name": "Day Drunk",
       "url": "https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q"
@@ -583,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Country Stuff",
+        "url": "https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Fancy Like",
+      "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
+    },
+    {
+      "album": {
         "name": "Country Stuff The Album",
         "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
       },
@@ -594,10 +710,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
+    },
+    {
+      "album": {
+        "name": "Feels Like a Party",
+        "url": "https://open.spotify.com/album/1fq3r9Z7zpEcSLqV7Cu46X"
+      },
+      "artists": [
+        {
+          "name": "LOCASH",
+          "url": "https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168416,
+      "name": "Feels Like a Party",
+      "url": "https://open.spotify.com/track/2xuImfspsSwSGs7Qr1kGLt"
     },
     {
       "album": {
@@ -630,7 +764,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168746,
       "name": "Feels Like a Party",
       "url": "https://open.spotify.com/track/4AUAAVm6aSWEf7G1BEhpUP"
@@ -836,10 +970,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172711,
       "name": "KEITH - Pop Remix",
       "url": "https://open.spotify.com/track/4CzCd0VNYi5r3NI8MOyrrl"
+    },
+    {
+      "album": {
+        "name": "KEITH (Pop Remix)",
+        "url": "https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172711,
+      "name": "KEITH - Pop Remix",
+      "url": "https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN"
     },
     {
       "album": {
@@ -861,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Top Country Party Hits",
+        "url": "https://open.spotify.com/album/1eVWgQcpHkLkx3SZ45NbXJ"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274426,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/6VzrvdnYvAdzAA9ql5SBzL"
+    },
+    {
+      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -872,7 +1042,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276320,
       "name": "Life is a Highway",
       "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
@@ -919,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Lonely If You Are",
+        "url": "https://open.spotify.com/album/5oTMku8FuJiOES9xZ5Vvwb"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "Lonely If You Are",
+      "url": "https://open.spotify.com/track/1Ut1A8UaNqGuwsHgWq75PW"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4"
       },
@@ -948,10 +1136,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176728,
       "name": "Lonely If You Are",
       "url": "https://open.spotify.com/track/678ZYWiGobZ6fZmcZF0KP2"
+    },
+    {
+      "album": {
+        "name": "Look What God Gave Her",
+        "url": "https://open.spotify.com/album/302VQGTJKXl3wUNxHntBnH"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "Look What God Gave Her",
+      "url": "https://open.spotify.com/track/1HY7Ze0NWqDJkl4g4MV62Q"
     },
     {
       "album": {
@@ -966,7 +1172,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168960,
       "name": "Look What God Gave Her",
       "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
@@ -991,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "My Truck (feat. Sam Hunt) [Remix]",
+        "url": "https://open.spotify.com/album/32YStx2udireBc25DXqGfD"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159888,
+      "name": "My Truck (feat. Sam Hunt) - Remix",
+      "url": "https://open.spotify.com/track/09aFODXcLmVNchPH0drlDG"
+    },
+    {
+      "album": {
         "name": "Cross Country: The Extra Mile",
         "url": "https://open.spotify.com/album/47Neda2C9GGMDkgyM3fuqs"
       },
@@ -1006,7 +1234,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159888,
       "name": "My Truck (feat. Sam Hunt) - Remix",
       "url": "https://open.spotify.com/track/0vInSJATtcoZZ0GofWNGjP"
@@ -1068,7 +1296,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
@@ -1086,7 +1314,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
@@ -1205,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "One Shot",
+        "url": "https://open.spotify.com/album/7E3k5e3tirdv7eTYgEYmdp"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150893,
+      "name": "One Shot",
+      "url": "https://open.spotify.com/track/68lDOwyMitLVn7fuZD1ggl"
+    },
+    {
+      "album": {
         "name": "Wild Blue, Part I",
         "url": "https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL"
       },
@@ -1216,7 +1462,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150893,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/6smVfDjrVkJKfO1MasrbE9"
@@ -1296,10 +1542,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196775,
       "name": "Party Down Under",
       "url": "https://open.spotify.com/track/6voVE1ccTkRYYNE9BtkIqV"
+    },
+    {
+      "album": {
+        "name": "Party Down Under",
+        "url": "https://open.spotify.com/album/261v3tccJPEZIIbjoQ1gDQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "Party Down Under",
+      "url": "https://open.spotify.com/track/4iGD8yuJdjFSmq59g8Jbry"
     },
     {
       "album": {
@@ -1332,10 +1596,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211986,
       "name": "Party Mode",
       "url": "https://open.spotify.com/track/3MA10oqmhqP1iRRZu1dF9Z"
+    },
+    {
+      "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211986,
+      "name": "Party Mode",
+      "url": "https://open.spotify.com/track/7ivOkXLuP1182ZtzA54Vbw"
     },
     {
       "album": {
@@ -1518,6 +1800,24 @@
     {
       "album": {
         "name": "Wired",
+        "url": "https://open.spotify.com/album/2tJ15wx7pKOp8VfDjcfkIy"
+      },
+      "artists": [
+        {
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Thank God I'm A Country Boy",
+      "url": "https://open.spotify.com/track/0ihAsdbpsY2N4WLncykpAW"
+    },
+    {
+      "album": {
+        "name": "Wired",
         "url": "https://open.spotify.com/album/2YVoRvMleX9NQyNvUC3de0"
       },
       "artists": [
@@ -1528,7 +1828,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173746,
       "name": "Thank God I'm a Country Boy",
       "url": "https://open.spotify.com/track/5IwLILDE1d5yVI4bfXTV3K"
@@ -1553,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Nothin' But Trouble",
+        "url": "https://open.spotify.com/album/58Hg8q762Mzix9uIbIGp0J"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182974,
+      "name": "That Kinda Night",
+      "url": "https://open.spotify.com/track/0BIUDhZmBSZg3WuqS7yRE9"
+    },
+    {
+      "album": {
         "name": "Nothin' but Trouble",
         "url": "https://open.spotify.com/album/6x0Ii6bxYJONhprG5YjkRp"
       },
@@ -1564,7 +1882,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182974,
       "name": "That Kinda Night",
       "url": "https://open.spotify.com/track/2ALDZH8bUO84jspKLBvNqA"
@@ -1600,7 +1918,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
@@ -1618,7 +1936,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
@@ -1817,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "You Brought The Party",
+        "url": "https://open.spotify.com/album/3yivs0kxmodVga18FPhcad"
+      },
+      "artists": [
+        {
+          "name": "Christie Lamb",
+          "url": "https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F"
+        },
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "You Brought The Party",
+      "url": "https://open.spotify.com/track/0OYM6Pfwjcrs7RYnd9Ml22"
+    },
+    {
+      "album": {
         "name": "Broken Lines",
         "url": "https://open.spotify.com/album/1IlwXF0W69Am2wVpy7x88l"
       },
@@ -1832,7 +2172,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159053,
       "name": "You Brought the Party",
       "url": "https://open.spotify.com/track/3yY6s065hgNhzorFn3UMlc"

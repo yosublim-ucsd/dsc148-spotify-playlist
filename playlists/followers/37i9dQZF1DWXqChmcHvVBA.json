@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 192877,
+  "2024-04-19": 193696,
   "date_first_scraped": "2023-12-22",
   "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Gusty DJ, DobleP & Salastkbron.",
   "name": "RKT  & Turreo",
@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Ando RKT",
+        "url": "https://open.spotify.com/album/709oUpSNnGvzpvwOVxPLYB"
+      },
+      "artists": [
+        {
+          "name": "Lautaro DDJ",
+          "url": "https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150820,
+      "name": "Ando RKT",
+      "url": "https://open.spotify.com/track/4O5EfpTgSjIVfHOMO0QWJq"
+    },
+    {
+      "album": {
         "name": "Ando RKT (feat. Keko DJ)",
         "url": "https://open.spotify.com/album/2vx8AxbgNe0dV5vOvhHyYq"
       },
@@ -205,7 +223,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 150820,
       "name": "Ando RKT - Remix",
       "url": "https://open.spotify.com/track/5IlGH7Tn7HNVI8lKUci06n"

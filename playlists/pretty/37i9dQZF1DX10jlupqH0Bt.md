@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,839 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,983 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 44 | [inner strength 852 Hz](https://open.spotify.com/track/4qBvDbNnTPZyeTTDkJDmzP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 |
 | 45 | [852 Hz Prismatic Pathways](https://open.spotify.com/track/1QL3c88UYwTWKVsxsw2k0l) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [852 Hz Prismatic Pathways](https://open.spotify.com/album/5CzZUkRV4KBju9hH5HQcL5) | 2:42 |
 | 46 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 |
-| 47 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/4DFwQXEIVn26fSd6GRC7Tb) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/4JBqvqMjI9bB5OVhoQnSiI) | 5:03 |
+| 47 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/38XEEQHlHqevPvaIYgAcp0) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/6fGBewvgdMj4OKZqywVphx) | 5:03 |
 | 48 | [Alignment 852 Hz](https://open.spotify.com/track/6yJXNUxkwtw0jXhy6a1Yrr) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:45 |
 | 49 | [852 Hz Breath Activation](https://open.spotify.com/track/1RPRIsnAg04j1ioC0eRUEp) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Breath Activation](https://open.spotify.com/album/44qz6aN5PyUkZ7NZpwj9p5) | 3:23 |
 | 50 | [Borders 852 Hz](https://open.spotify.com/track/7z8XqddZ2pvWKhEdmUbn5l) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:38 |

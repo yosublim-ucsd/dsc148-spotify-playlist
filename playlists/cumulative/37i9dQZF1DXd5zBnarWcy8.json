@@ -20,7 +20,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286760,
       "name": "Arleen",
       "url": "https://open.spotify.com/track/3124OFc2BeP3GqvHp3rrDF"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 286760,
       "name": "Arleen",
       "url": "https://open.spotify.com/track/3DeUYpweIXiJUnxCOB044F"
@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Bow Down",
+        "url": "https://open.spotify.com/album/2oSZjjRQDOmn9Fhuywm6uA"
+      },
+      "artists": [
+        {
+          "name": "Cha Wa",
+          "url": "https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/046MQs8b85n3grgTpWAk0x"
+    },
+    {
+      "album": {
         "name": "My People",
         "url": "https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204320,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/75zPkWTK4UY6thDZEiFp3x"
@@ -226,10 +244,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292400,
       "name": "Do You",
       "url": "https://open.spotify.com/track/4YSfp2I61liqg6NtWTBrxp"
+    },
+    {
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/148wDTLIKVYD7iNXvK7kJu"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292400,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/6Po6hrICRrMUQPaDkL8elp"
     },
     {
       "album": {
@@ -378,10 +414,58 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246773,
       "name": "Here Come The Girls",
       "url": "https://open.spotify.com/track/3wiSzBv2UUK3skM74i22uM"
+    },
+    {
+      "album": {
+        "name": "With You In Mind",
+        "url": "https://open.spotify.com/album/6yO8rZ1Tl4FWP584x3t4rf"
+      },
+      "artists": [
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        },
+        {
+          "name": "Cyril Neville",
+          "url": "https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246773,
+      "name": "Here Come The Girls (feat. Cyril Neville & Trombone Shorty)",
+      "url": "https://open.spotify.com/track/3Gh2FhaBv0QEfds0YHq41w"
+    },
+    {
+      "album": {
+        "name": "The Hook and Sling",
+        "url": "https://open.spotify.com/album/53SjmooRijz0WBGgZ9aWFa"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bo",
+          "url": "https://open.spotify.com/artist/6yJkbSRofSN6kk4BWaqlax"
+        },
+        {
+          "name": "The Soul Finders",
+          "url": "https://open.spotify.com/artist/5i32E7qY43IHqFmuTh8RU8"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Hey Mama Here Comes the Preacher",
+      "url": "https://open.spotify.com/track/2lilIIokXyZ5eGhLVxKbKd"
     },
     {
       "album": {
@@ -400,7 +484,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160800,
       "name": "Hey Mama Here Comes the Preacher",
       "url": "https://open.spotify.com/track/5NkYVRo3pmlke8N0iFS45m"
@@ -444,7 +528,7 @@
     {
       "album": {
         "name": "Psychedelphia",
-        "url": "https://open.spotify.com/album/5VhtqB6aBGOxY2TcL7qznX"
+        "url": "https://open.spotify.com/album/5biOWOxXzduoE0X2a1x3At"
       },
       "artists": [
         {
@@ -455,6 +539,24 @@
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188133,
+      "name": "I've Got Reasons",
+      "url": "https://open.spotify.com/track/4tDXJiS5xIYLz7thE3nQUz"
+    },
+    {
+      "album": {
+        "name": "Psychedelphia",
+        "url": "https://open.spotify.com/album/5VhtqB6aBGOxY2TcL7qznX"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Hooper",
+          "url": "https://open.spotify.com/artist/3I44vrVBXPqMTiY0Z5SkQm"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 188133,
       "name": "I've Got Reasons",
       "url": "https://open.spotify.com/track/7Gmb33nmkxVETieoPSiukO"
@@ -498,6 +600,28 @@
     {
       "album": {
         "name": "Justice",
+        "url": "https://open.spotify.com/album/31jDtYwdinBgdmjg0cdLrV"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271838,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/1IG8HWAvN6CIEpScisLhQX"
+    },
+    {
+      "album": {
+        "name": "Justice",
         "url": "https://open.spotify.com/album/2OTNeV0bYLqLdXEUclQGgS"
       },
       "artists": [
@@ -512,7 +636,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271838,
       "name": "Justice",
       "url": "https://open.spotify.com/track/1OYRTU6qBHvf4TnFVgdzDA"
@@ -548,7 +672,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 396773,
       "name": "Keepin' It Funky",
       "url": "https://open.spotify.com/track/14hdi3R1TVvH5qGEIZfMD0"
@@ -566,7 +690,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396773,
       "name": "Keepin' It Funky",
       "url": "https://open.spotify.com/track/3DwJcbUHZmoQKvNz5tU7Ua"
@@ -620,7 +744,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216124,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/1j2iplFjazFwShpHmlx10W"
@@ -638,7 +762,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 216124,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/7n6pjSxN5rnIzNgr11zX7Z"
@@ -664,7 +788,7 @@
     {
       "album": {
         "name": "My People",
-        "url": "https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c"
+        "url": "https://open.spotify.com/album/2XxMbJBnX2ig8H9Fvn7TC4"
       },
       "artists": [
         {
@@ -675,6 +799,24 @@
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230373,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/4GnYJTGoutZsKqdqPod48s"
+    },
+    {
+      "album": {
+        "name": "My People",
+        "url": "https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c"
+      },
+      "artists": [
+        {
+          "name": "Cha Wa",
+          "url": "https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 230373,
       "name": "My People",
       "url": "https://open.spotify.com/track/5Oyetsx1wOyE5P9WoyT6OA"
@@ -862,7 +1004,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 271594,
       "name": "Stompin' Ground",
       "url": "https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC"
@@ -884,7 +1026,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271594,
       "name": "Stompin' Ground",
       "url": "https://open.spotify.com/track/7eAyJmVmk60rHkoD0xniKM"
@@ -924,10 +1066,32 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153226,
       "name": "The Booger Man",
       "url": "https://open.spotify.com/track/0urdlB0O4g9GmevYMKt7y6"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/4zJW3O0HomRazpI9tEVqTq"
+      },
+      "artists": [
+        {
+          "name": "The Gaturs",
+          "url": "https://open.spotify.com/artist/2EHyjVJsfQWhloS0nJErz9"
+        },
+        {
+          "name": "Willie Tee",
+          "url": "https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "The Booger Man",
+      "url": "https://open.spotify.com/track/2qwDtBXtrJh5lQwEvo5ysb"
     },
     {
       "album": {
@@ -942,10 +1106,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141200,
       "name": "Things Are Better",
       "url": "https://open.spotify.com/track/32wspsaaxv8cVqeHdJGfwI"
+    },
+    {
+      "album": {
+        "name": "Funky Funky New Orleans, Vol. 2",
+        "url": "https://open.spotify.com/album/1Ex2x3PcbJWsc2qARjidz3"
+      },
+      "artists": [
+        {
+          "name": "Ernie and The Top Notes, Inc.",
+          "url": "https://open.spotify.com/artist/0AetmnbULfArJpZ8cEC7Ua"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141200,
+      "name": "Things Are Better",
+      "url": "https://open.spotify.com/track/5D5ndYBR4NkLuoGlx5abKb"
     },
     {
       "album": {
@@ -1084,7 +1266,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 207826,
       "name": "You Got Soul",
       "url": "https://open.spotify.com/track/1vYUTYYAcf2LXSoXUHlRHB"
@@ -1102,7 +1284,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207826,
       "name": "You Got Soul",
       "url": "https://open.spotify.com/track/2JKm37HM6FtS7ryk8KZUB5"

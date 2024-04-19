@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 32657,
+  "num_followers": 32698,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDY2MGFiN2MxY2IzMGE1YWVmODYzYzNhNzU1ZTFiZDk2",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGZhZmM2ODQ0NmNiNGUwZDFiMDE5ZGM4M2I0NDc5NjE1",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr.Trance (Soundtrack From The Animated Series)",
+        "url": "https://open.spotify.com/album/7osyDyziI2EhWM60gcPtlV"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 169667,
+      "name": "Mr.Trance",
+      "url": "https://open.spotify.com/track/1EmplgI51VcVtLHYOHOfHc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 186613,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr.Trance (Soundtrack From The Animated Series)",
-        "url": "https://open.spotify.com/album/7osyDyziI2EhWM60gcPtlV"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 169667,
-      "name": "Mr.Trance",
-      "url": "https://open.spotify.com/track/1EmplgI51VcVtLHYOHOfHc"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 236356,
       "name": "Destino",
       "url": "https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G"
     },
     {
       "added_at": null,

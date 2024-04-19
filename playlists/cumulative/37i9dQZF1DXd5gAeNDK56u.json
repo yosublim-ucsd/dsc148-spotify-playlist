@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 170126,
       "name": "2face",
       "url": "https://open.spotify.com/track/2NVEDeZ8ZJcEqIBpSAARLT"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170126,
       "name": "2face",
       "url": "https://open.spotify.com/track/6g8gWk2DX4olY3lVT0dDGz"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215000,
       "name": "Ed\u00e9n",
       "url": "https://open.spotify.com/track/3ZjNl4bDL5yD82s8tR1g2L"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Ed\u00e9n",
       "url": "https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 189295,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189295,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6PuJovR9z3hph9MDCiIVgS"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286258,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/4jZs172JnEdiYFEIIIW5Cq"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 286258,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/3QxAOyiUiKi0ln1puVsjAX"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176842,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/1U77lwBD0RppViVldWJZDc"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 176842,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi"
@@ -1474,6 +1474,24 @@
     {
       "album": {
         "name": "Resurrection",
+        "url": "https://open.spotify.com/album/3ZquHqKJqQMJPh8K7VKHfH"
+      },
+      "artists": [
+        {
+          "name": "illuZion",
+          "url": "https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178886,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/1X1AsQHt0GdsIG046qoAMV"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
         "url": "https://open.spotify.com/album/3dcsLFbkuCRO6fpgf3XeQN"
       },
       "artists": [
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178886,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/2YHz6Vamqq7fNKdEwXHLpw"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168000,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/0fCP1lNsTbAkM9ZR8g5Mny"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/6lfBScufvQpMszD2FCHHb1"

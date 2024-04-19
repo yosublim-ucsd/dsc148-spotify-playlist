@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM7w8HbieGZ.md) - [plain]
 
 > Enjoy music of Gian from Doraemon　テレビアニメ「ドラえもん」からジャイアンが歌う歌を中心にセレクトした公式プレイリスト！©︎藤子プロ・小学館・テレビ朝日・シンエイ・ADK
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,165 likes - 29 songs - 58 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 13,177 likes - 29 songs - 58 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ジャイアンボイス1](https://open.spotify.com/track/2wL2Qzy4DbMpuQYkkz2uRt) | [ジャイアン\(CV:木村昴\)](https://open.spotify.com/artist/5sZj8DwbFGNLhahAZihqm4) | [ドラえもん/ジャイアンのうた\- Gian's Recital \-](https://open.spotify.com/album/2tidZAeKWlVy8WmNpuAoR4) | 0:08 |
-| 2 | [ジャイアントドリーム](https://open.spotify.com/track/2QGqo6bp23EVUsOxaOakeY) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 3:13 |
+| 2 | [ジャイアントドリーム](https://open.spotify.com/track/3QtZdWRhA2eO4FyhNNSrw0) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアンのスーパーリサイタル](https://open.spotify.com/album/2dte56ghkrCaC2nlxiwknn) | 3:12 |
 | 3 | [ジャイアンボイス2](https://open.spotify.com/track/6bhc9kufy9sDfdbmnbN3uZ) | [ジャイアン\(CV:木村昴\)](https://open.spotify.com/artist/5sZj8DwbFGNLhahAZihqm4) | [ドラえもん/ジャイアンのうた\- Gian's Recital \-](https://open.spotify.com/album/2tidZAeKWlVy8WmNpuAoR4) | 0:05 |
-| 4 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 |
+| 4 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/2CJovjXxZEAD2QkRh0vD48) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアンのスーパーリサイタル](https://open.spotify.com/album/2dte56ghkrCaC2nlxiwknn) | 2:07 |
 | 5 | [ジャイアンにボエボエ](https://open.spotify.com/track/0JK7wrUDV3b9Z6S0EHpRWK) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアンのスーパーリサイタル](https://open.spotify.com/album/2dte56ghkrCaC2nlxiwknn) | 2:47 |
 | 6 | [そこのけ! ジャイアンさまだ](https://open.spotify.com/track/6XQsO0TNqUdbHFCtWLkLRH) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアンのスーパーリサイタル](https://open.spotify.com/album/2dte56ghkrCaC2nlxiwknn) | 3:13 |
 | 7 | [ありがとう、オーレ!](https://open.spotify.com/track/5fuvIZBOovr1mcByrEuIEs) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアンのスーパーリサイタル](https://open.spotify.com/album/2dte56ghkrCaC2nlxiwknn) | 1:37 |

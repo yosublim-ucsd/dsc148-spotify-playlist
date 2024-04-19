@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 132013,
       "name": "As The Dogs Were Playing",
       "url": "https://open.spotify.com/track/2gSp1FsyOfrCYM4Xe3KVak"
@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132013,
       "name": "As The Dogs Were Playing",
       "url": "https://open.spotify.com/track/3G3mzsZRaLMOuNH2cT0IG2"
@@ -16826,10 +16826,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205240,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS"
+    },
+    {
+      "album": {
+        "name": "Excalibur / Toy",
+        "url": "https://open.spotify.com/album/0otqoDLNYY23IMA9xZyZKl"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/2Y2nA9IKV1wFPNdzQe116n"
     },
     {
       "album": {
@@ -31186,6 +31204,24 @@
     {
       "album": {
         "name": "Little Sadness",
+        "url": "https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Little Sadness",
+      "url": "https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL"
+    },
+    {
+      "album": {
+        "name": "Little Sadness",
         "url": "https://open.spotify.com/album/5x1S070dZjshXHN5bwSPWN"
       },
       "artists": [
@@ -31196,7 +31232,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220266,
       "name": "Little Sadness",
       "url": "https://open.spotify.com/track/49g1H0rJged6uMSSNWjVPK"
@@ -32348,10 +32384,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182453,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU"
+    },
+    {
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/6XKaETQeUN4i27oMn94iIC"
+      },
+      "artists": [
+        {
+          "name": "Maina Doe",
+          "url": "https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/4trMnWPyJyaWCSUGPKfwxt"
     },
     {
       "album": {
@@ -52787,6 +52841,28 @@
     },
     {
       "album": {
+        "name": "The Song of You",
+        "url": "https://open.spotify.com/album/4NUKgm26zPv5N4VKz266gR"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130759,
+      "name": "The Song of You",
+      "url": "https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1"
+    },
+    {
+      "album": {
         "name": "The Song Of You",
         "url": "https://open.spotify.com/album/6Ad7G1yO4M0ub2ijUkbszq"
       },
@@ -52802,7 +52878,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130759,
       "name": "The Song Of You",
       "url": "https://open.spotify.com/track/6qPPNp1IXn5StfE3SrCbw1"

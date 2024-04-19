@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,737 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,790 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 | 41 | [Shallow](https://open.spotify.com/track/19pOWdI17nYv5WidFpNzOS) | [Francesca Sanchez](https://open.spotify.com/artist/6oOwFwJ5HylL5In2mQ5lMw) | [Shallow](https://open.spotify.com/album/1Tqj8mhmcaklLMTxvbWzMP) | 3:54 |
 | 42 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 |
 | 43 | [Baa Baa Black Sheep](https://open.spotify.com/track/2YPzs7MqwyDeV5koISgp5i) | [Rosemary Lauter](https://open.spotify.com/artist/4Omowtg1gZ1ziXFl4rHQU1) | [Five Little Monkeys](https://open.spotify.com/album/4ijvU9elNltEYZ2xPhEgkP) | 1:46 |
-| 44 | [Wings To Fly](https://open.spotify.com/track/6TQz8WoqWFtvFtDEdtFzwo) | [Josef Bel Habib](https://open.spotify.com/artist/6ZISq2vN9lwN6RZQ4kqcRI) | [Near And Far](https://open.spotify.com/album/5KGtQ9I19PwuTk9C2Fbsve) | 2:11 |
+| 44 | [Wings To Fly](https://open.spotify.com/track/7htCsBqjokWQ2fqU9N6F0L) | [Josef Bel Habib](https://open.spotify.com/artist/6ZISq2vN9lwN6RZQ4kqcRI) | [Near And Far](https://open.spotify.com/album/0b2YmF7G6T3beD2SeVnxPw) | 2:11 |
 | 45 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 |
 
 Snapshot ID: `MTcxMjU5NjA2NiwwMDAwMDAwMDA2YTcwYTg2MmI2YmFiMDZjYmRmNWYxZjBmYmIyMWVl`

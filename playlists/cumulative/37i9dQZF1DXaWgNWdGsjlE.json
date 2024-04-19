@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249050,
       "name": "As Above, So Below",
       "url": "https://open.spotify.com/track/0CxrhLohV65mdYOlGX4Zw4"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249050,
       "name": "As Above, So Below",
       "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
@@ -340,6 +340,28 @@
     {
       "album": {
         "name": "Believe the Hype",
+        "url": "https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167834,
+      "name": "Believe the Hype",
+      "url": "https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB"
+    },
+    {
+      "album": {
+        "name": "Believe the Hype",
         "url": "https://open.spotify.com/album/4LrLxDQQA1MoxU9ZRyL95Q"
       },
       "artists": [
@@ -376,32 +398,10 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167834,
       "name": "Believe the Hype",
       "url": "https://open.spotify.com/track/5LaT6csofzDEaFf8cmqoaQ"
-    },
-    {
-      "album": {
-        "name": "Believe the Hype (feat. Oli Sykes)",
-        "url": "https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        }
-      ],
-      "date_added": "2022-07-01",
-      "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
-      "duration_ms": 167834,
-      "name": "Believe the Hype (feat. Oli Sykes)",
-      "url": "https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB"
     },
     {
       "album": {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256812,
       "name": "Brainfreeze",
       "url": "https://open.spotify.com/track/4Eb3gMQ7N2dpPNJM3g0BQf"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256812,
       "name": "Brainfreeze",
       "url": "https://open.spotify.com/track/4NaclRxoM5U9fyWV3dBUwW"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133888,
       "name": "BURNING RUBBER",
       "url": "https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 133888,
       "name": "BURNING RUBBER",
       "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242091,
       "name": "Choke",
       "url": "https://open.spotify.com/track/3CCPPygZiu0tBGHDzVcQWk"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242091,
       "name": "Choke",
       "url": "https://open.spotify.com/track/7BWyFa7hnm2D31CVydyUMl"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 157565,
       "name": "Dead",
       "url": "https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157565,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 126456,
       "name": "deprecating",
       "url": "https://open.spotify.com/track/0S3hKgCbYTWPOesdVM4bg7"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126456,
       "name": "deprecating",
       "url": "https://open.spotify.com/track/3OBIepWxoJFgdQ2HTIEEuD"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/3Yc9SNoO8A1u3d5CMUUYWJ"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183333,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/6gkqY0rDnrzGwGpFyTugi9"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 150191,
       "name": "GauzeValley",
       "url": "https://open.spotify.com/track/23W69K592RCQ6bHhtCERd1"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150191,
       "name": "GauzeValley",
       "url": "https://open.spotify.com/track/36sdifWfDrwaR5x4QrrQ6Y"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 210564,
       "name": "Gravedigger",
       "url": "https://open.spotify.com/track/4zo6O0UO5Kz6ZT0CpTCCb3"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210564,
       "name": "Gravedigger",
       "url": "https://open.spotify.com/track/640WAiBLYvKmUBtskbfEYG"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 248273,
       "name": "HATEFUL",
       "url": "https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248273,
       "name": "HATEFUL [Feat. SIERRA]",
       "url": "https://open.spotify.com/track/7Gms5d2KYbWOGLIIJK3kD9"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133333,
       "name": "HEARTSTOPPER",
       "url": "https://open.spotify.com/track/362y5MOIwF4ueAFlYrwuCy"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "HEARTSTOPPER",
       "url": "https://open.spotify.com/track/4YDATcqz2STt6QpMVWtj5Q"
@@ -1996,21 +1996,21 @@
       },
       "artists": [
         {
-          "name": "Meg Myers",
+          "name": "MEG MYERS",
           "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        },
-        {
-          "name": "Carmen Vandenberg",
-          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
         },
         {
           "name": "Luna Shadows",
           "url": "https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ"
+        },
+        {
+          "name": "Carmen Vandenberg",
+          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
         }
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
       "url": "https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195133,
       "name": "HTIS (Feat. Luna Shadows & Carmen Vandenberg)",
       "url": "https://open.spotify.com/track/49bgDubnZxg7dxhRkD3Et6"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 247154,
       "name": "Idol (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247154,
       "name": "Idol (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 124683,
       "name": "Intrusive",
       "url": "https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124683,
       "name": "Intrusive",
       "url": "https://open.spotify.com/track/277bSPoxSJT51c43jXVw7q"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234134,
       "name": "Invisible Hand",
       "url": "https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 234134,
       "name": "Invisible Hand",
       "url": "https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 150087,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM"
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150087,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/6xHaeHANs3uH5qabszr3dX"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254269,
       "name": "Last Resort & Spa",
       "url": "https://open.spotify.com/track/0XTF9X6GQuH44vh4K0bdps"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254269,
       "name": "Last Resort & Spa",
       "url": "https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205866,
       "name": "Legend Has It",
       "url": "https://open.spotify.com/track/4RnfMhMUMqHlrn4V6A3KfS"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205866,
       "name": "Legend Has It",
       "url": "https://open.spotify.com/track/7satW8tFLasyZbftvrWFBP"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188670,
       "name": "LITTLE GODZ",
       "url": "https://open.spotify.com/track/2Nx04cmbMe4udzfvyGm9LZ"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188670,
       "name": "LITTLE GODZ",
       "url": "https://open.spotify.com/track/7ravEcNtnUuiJw6w8tUnjy"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134400,
       "name": "Mega City Nine (unknown virus 4.)",
       "url": "https://open.spotify.com/track/2dqFCjvajPzIisD9bSxPXj"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Mega City Nine (unknown virus 4.)",
       "url": "https://open.spotify.com/track/4rMBG6PXvcI3AJ85NJfEPN"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174111,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/0NbhRyA2rGt2AsgDggaSUE"
@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174111,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/51EU0HEsjbN3YudW5oPj08"
@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312324,
       "name": "My Eyes",
       "url": "https://open.spotify.com/track/5Rinf7kiB6r1g1zZsPMMq0"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 315150,
       "name": "My Eyes",
       "url": "https://open.spotify.com/track/1HM3k9oiGCQwNqG8kP35bt"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216540,
       "name": "My Own Summer",
       "url": "https://open.spotify.com/track/1RJQu4Pq5tZUJEJpo5zqOf"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216540,
       "name": "My Own Summer",
       "url": "https://open.spotify.com/track/1eyKn1c88LnydR6vsRdbVs"
@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/0isrhXBLy3hrbG6ZrNOBmK"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 175153,
       "name": "Potluck Lunch for Cannibals",
       "url": "https://open.spotify.com/track/1RhwmWCuBpIDDrYXUGwtPH"
@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175153,
       "name": "Potluck Lunch for Cannibals",
       "url": "https://open.spotify.com/track/6u4Yl1YjcgkHjr6mzKxtx1"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158358,
       "name": "Scissorhands",
       "url": "https://open.spotify.com/track/2QtkUSwKWSNTWBwq54HRes"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 158358,
       "name": "Scissorhands",
       "url": "https://open.spotify.com/track/5wC6xF8adOW6WQKZEBibCq"
@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 135160,
       "name": "Undertaker - FEVER 333 Remix",
       "url": "https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ"
@@ -3912,7 +3912,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135160,
       "name": "Undertaker - Fever 333 Remix",
       "url": "https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w"
@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 334688,
       "name": "We Appreciate Power",
       "url": "https://open.spotify.com/track/5b0DJPEs6UUlDmpZuoDD2X"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335289,
       "name": "We Appreciate Power",
       "url": "https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT"
@@ -4282,7 +4282,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 162468,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/10IbUW87Q8kTs3ySisuLVc"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162468,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1qoZPeWgIWC8RWbYRjUElS"

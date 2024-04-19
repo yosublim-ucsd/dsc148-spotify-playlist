@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Flakk\u00eb",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Alok, Yawanawa Saiti Kaya",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -76,7 +76,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 187857,
       "name": "2 Much 2 Handle (Cheyenne Giles Remix)",
       "url": "https://open.spotify.com/track/5PRprahs97yR5uwQkpgz4L"
@@ -102,7 +102,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187857,
       "name": "2 Much 2 Handle (Cheyenne Giles Remix)",
       "url": "https://open.spotify.com/track/5RHPVQCHefm78e7yjJRdQP"
@@ -710,6 +710,36 @@
       "duration_ms": 162576,
       "name": "Beat Of Your Love (feat. EKKO)",
       "url": "https://open.spotify.com/track/38GLEGOO8XnC74hAMluTme"
+    },
+    {
+      "album": {
+        "name": "Begging for Healing",
+        "url": "https://open.spotify.com/album/2FH3Uiw6KBcTpSiFYtXeMQ"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Patrus",
+          "url": "https://open.spotify.com/artist/6B3adjXTdWVjypvXfYnR8D"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "Begging For Healing",
+      "url": "https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6"
     },
     {
       "album": {
@@ -1934,7 +1964,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150559,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/6h9Ff5LGaS2h0G3iB5jim6"
@@ -2175,6 +2205,32 @@
     },
     {
       "album": {
+        "name": "For Life (feat. Zak Abel & Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175803,
+      "name": "For Life (feat. Zak Abel & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
         "name": "Fractions",
         "url": "https://open.spotify.com/album/1vKhgWfkuKbQbVZi6xhBzZ"
       },
@@ -2314,7 +2370,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144000,
       "name": "Ghost of You",
       "url": "https://open.spotify.com/track/13Gd3M1Kw5hNCWOy31kP1z"
@@ -2681,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6vVVqLmvPbXQHXwesjFbjb"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315483,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/05RSroax2kf33xq65Rqyb6"
+    },
+    {
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/5UM3WxDcuJxZ494yrvP37S"
       },
@@ -2714,6 +2788,28 @@
       "duration_ms": 216000,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1"
+    },
+    {
+      "album": {
+        "name": "Fusion Remixes 02/03",
+        "url": "https://open.spotify.com/album/3gAmmo8L2dq96uDr1cMHnt"
+      },
+      "artists": [
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408661,
+      "name": "Hymn - ANNA Remix",
+      "url": "https://open.spotify.com/track/71lO40gARZpKOkwfuhxcuR"
     },
     {
       "album": {
@@ -2877,6 +2973,28 @@
     },
     {
       "album": {
+        "name": "ININNA TORA",
+        "url": "https://open.spotify.com/album/6OwWOIw2ng93HOi9DyKCfV"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145511,
+      "name": "ININNA TORA",
+      "url": "https://open.spotify.com/track/1anRgdIoPvr8kVnAMJrASt"
+    },
+    {
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/1Mss70p4SsVGvj6N4bkkwM"
       },
@@ -2918,7 +3036,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199218,
       "name": "Inside Your Head",
       "url": "https://open.spotify.com/track/4gyEEkiTjh3QMWP1KTkcUe"
@@ -3076,6 +3194,24 @@
       "duration_ms": 157283,
       "name": "Just Like You Do",
       "url": "https://open.spotify.com/track/78nADVmhPNONKTed3XmuhW"
+    },
+    {
+      "album": {
+        "name": "Just Take Me",
+        "url": "https://open.spotify.com/album/2rn6qGFGIYsJPJ9mcRwzwg"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173907,
+      "name": "Just Take Me",
+      "url": "https://open.spotify.com/track/2pqGW8qgxikgKWU4K3RoAz"
     },
     {
       "album": {
@@ -3921,6 +4057,28 @@
     },
     {
       "album": {
+        "name": "Nobody's Perfect (feat. Dana Williams)",
+        "url": "https://open.spotify.com/album/45MTITXwCkGEPiPWL9BtND"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300120,
+      "name": "Nobody's Perfect (feat. Dana Williams)",
+      "url": "https://open.spotify.com/track/6YmGoncnyDLR0nTgCLihyE"
+    },
+    {
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
@@ -4529,6 +4687,24 @@
     },
     {
       "album": {
+        "name": "Redline",
+        "url": "https://open.spotify.com/album/0aXKQ2PXqOWt7I1b2zHNc9"
+      },
+      "artists": [
+        {
+          "name": "Reezer",
+          "url": "https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "Redline",
+      "url": "https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw"
+    },
+    {
+      "album": {
         "name": "May 23rd",
         "url": "https://open.spotify.com/album/465uKcpgmFpMmcEAwIW8J1"
       },
@@ -4764,7 +4940,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205714,
       "name": "RUN IT UP",
       "url": "https://open.spotify.com/track/5nW0TJJ2gAlJQ5A7J4E62O"
@@ -4978,7 +5154,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158769,
       "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
       "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
@@ -5069,6 +5245,28 @@
     },
     {
       "album": {
+        "name": "THE FUTURE IS ANCESTRAL",
+        "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Yawanawa Saiti Kaya",
+          "url": "https://open.spotify.com/artist/6LGmos5f8NjKasqSazopGg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209925,
+      "name": "Sina Vaishu",
+      "url": "https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4"
+    },
+    {
+      "album": {
         "name": "Sirene",
         "url": "https://open.spotify.com/album/0h4aiXFDpKfbU7UBrs8OoW"
       },
@@ -5106,6 +5304,32 @@
       "duration_ms": 162914,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
+    },
+    {
+      "album": {
+        "name": "Reduto EP",
+        "url": "https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd"
+      },
+      "artists": [
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
+        },
+        {
+          "name": "2STRANGE",
+          "url": "https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340182,
+      "name": "Sophisticated",
+      "url": "https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH"
     },
     {
       "album": {
@@ -6004,6 +6228,28 @@
       "duration_ms": 130231,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3"
+    },
+    {
+      "album": {
+        "name": "WATCH ME",
+        "url": "https://open.spotify.com/album/3F2CDmwfYCnxJl4WLWhEKP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mota",
+          "url": "https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1"
+        },
+        {
+          "name": "RED\u00dcKT",
+          "url": "https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/0s7OB8XUR78pGZWNFA5e3p"
     },
     {
       "album": {

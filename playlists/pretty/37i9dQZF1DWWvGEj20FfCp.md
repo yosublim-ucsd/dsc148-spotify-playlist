@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,028 likes - 47 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,014 likes - 47 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 7 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
 | 8 | [I Knew I Loved You](https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Truly Madly Completely \- The Best of Savage Garden](https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb) | 4:11 |
 | 9 | [Nali](https://open.spotify.com/track/74SCDpCqEMUqO7CjyW0ERu) | [Afrika](https://open.spotify.com/artist/0xPyImeLHwFXo3bieyc6oa) | [Song Of The Tribal Spirit](https://open.spotify.com/album/5uq2D7DHFnGNDarIXlwLFE) | 5:16 |
-| 10 | [Tears Of Africa](https://open.spotify.com/track/5jBEMc0GY8sDkmLH70y7KG) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tears Of Africa](https://open.spotify.com/album/5f2ozn0eMxuyHDNjWudqi5) | 9:52 |
+| 10 | [Tears Of Africa](https://open.spotify.com/track/5otfjlQ6XN8R4iClD5kmjb) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tears Of Africa](https://open.spotify.com/album/0DfTdhAVgcAWldmOmk0d0R) | 9:52 |
 | 11 | [Ali](https://open.spotify.com/track/6YNtzyH36eSrpG1zcOFYlV) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Ali](https://open.spotify.com/album/7M4L7JqkFP4NFiVft8oin7) | 3:12 |
 | 12 | [Give A Little Kindness \- Choir Version](https://open.spotify.com/track/7zbnY9B2B5aebswxrTfG13) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g), [Edenglen High School](https://open.spotify.com/artist/6FLPKxhLmxFuAL18W9RJqd) | [Give A Little Kindness \(Choir Version\)](https://open.spotify.com/album/6zbZUCTSUKDATtmc3nHmIw) | 4:12 |
 | 13 | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/track/4WXYOKcqr4OTiUpIrcX7RV) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/album/0Jcwe17QFJrA8Yny6hJxy4) | 2:37 |
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 23 | [Kiss](https://open.spotify.com/track/3TTK7YzkA9n9dz6oHJQZ01) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Kiss / Love or Money](https://open.spotify.com/album/2U9Y6Sc9o5XM3oUdLqMFVL) | 3:47 |
 | 24 | [On the Low](https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:05 |
 | 25 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 |
-| 26 | [Mama Ararira](https://open.spotify.com/track/5QQAklyPOsTJZZVsPDXvyx) | [Afro Celt Sound System](https://open.spotify.com/artist/0hUnACGIFz6oHfeDIT36mp), [Dorothee Munyaneza](https://open.spotify.com/artist/5ztDZB5EmZry43HAFLjOIZ) | [Hotel Rwanda](https://open.spotify.com/album/7feMz3fDVgMUwtcLHZJhuD) | 3:41 |
+| 26 | [Mama Ararira](https://open.spotify.com/track/21KVuGxaGNwoBqDXxnsECn) | [Afro Celt Sound System](https://open.spotify.com/artist/0hUnACGIFz6oHfeDIT36mp), [Dorothee Munyaneza](https://open.spotify.com/artist/5ztDZB5EmZry43HAFLjOIZ) | [Hotel Rwanda](https://open.spotify.com/album/1oB7DuHxiwy0FkPwJ9ay8Q) | 3:41 |
 | 27 | [Nterini \- A COLORS SHOW](https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Nterini \- A COLORS SHOW](https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq) | 3:51 |
 | 28 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 | 29 | [Si Tu Veux](https://open.spotify.com/track/4iCCl05tKKSjtMpBGsBa65) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [The Very Best](https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO) | [Johannesburg](https://open.spotify.com/album/5G95gtnruMUnjXA6dPAMoJ) | 4:46 |
-| 30 | [Sowa](https://open.spotify.com/track/1AScQHvOOjfz5U1JOc9wrx) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P) | 3:06 |
+| 30 | [Sowa](https://open.spotify.com/track/4rmQdz7qbI5CEzSpy1Puq2) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:06 |
 | 31 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 | 32 | [Ouchies](https://open.spotify.com/track/18EGw1StZNDftpUcX8PM74) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:02 |
-| 33 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
+| 33 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 |
 | 34 | [Deep End](https://open.spotify.com/track/6w2WWyBAOXQeP6waVT9s5O) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Deep End](https://open.spotify.com/album/5lxES27OgTtXmCDhsBrvKP) | 3:22 |
 | 35 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 36 | [Ending \- 2018 Version](https://open.spotify.com/track/2bdcjvz9xilANvSfkCDtlv) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq) | 4:11 |

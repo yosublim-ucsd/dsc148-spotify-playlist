@@ -140,7 +140,7 @@
     {
       "album": {
         "name": "Antes de Ameri",
-        "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
+        "url": "https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO"
       },
       "artists": [
         {
@@ -163,6 +163,36 @@
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250933,
+      "name": "CSIpher (audio latino)",
+      "url": "https://open.spotify.com/track/2M6XdDkJ3zRDo9XTsFoBME"
+    },
+    {
+      "album": {
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 250933,
       "name": "CSIpher (audio latino)",
       "url": "https://open.spotify.com/track/4bp3MHLtiKfPaNL3iSbQ20"

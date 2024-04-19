@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3e6ZqyhDUkiPdVaQ9MiNm7) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/38cBGrq39q9tN2M2TdcxbC) | 0:00 | 2014-01-02 |  |
+| [](https://open.spotify.com/track/3e6ZqyhDUkiPdVaQ9MiNm7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/38cBGrq39q9tN2M2TdcxbC) | 0:00 | 2014-01-02 |  |
 | [50 Words For Snow](https://open.spotify.com/track/6MtXVfbFWxYUWSaMwKsyZJ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/1VAB3Xn92dPKPWzocgQqkh) | 8:30 | 2014-01-02 |  |
 | [A Hazy Shade of Winter](https://open.spotify.com/track/0quVAA0KO9Ph79wndSJBXy) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Essential Simon & Garfunkel](https://open.spotify.com/album/12BwdaXk3rbOjTnIKxXa4G) | 2:17 | 2014-01-02 |  |
 | [Amid the Falling Snow](https://open.spotify.com/track/69BSguYY4m6b1yibQdUBst) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Amarantine](https://open.spotify.com/album/2efGoxVxoX55EATLcD0o8y) | 3:38 | 2014-01-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 김주리\(juri kim\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,384 likes - 64 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,394 likes - 64 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 12 | [Acting Crazy](https://open.spotify.com/track/2X89NmA9AIp0m2EtwUiE6S) | [절대歌인](https://open.spotify.com/artist/3YaJoDao3oqcusy3N7MHYo) | [Acting Crazy](https://open.spotify.com/album/18yKiwtJRYdodXlX99RpmU) | 4:49 |
 | 13 | [Hold On](https://open.spotify.com/track/6iL5nFlHD67jA4A7EGuJ2c) | [Band SAENA](https://open.spotify.com/artist/6Hv33o342AHLVbM14Oh5DK) | [Hold On](https://open.spotify.com/album/676rlhuwqogP7irl3BpHtE) | 3:49 |
 | 14 | [THE RED MOOn](https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np) | [EruhWa](https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q) | [THE RED MOOn](https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS) | 3:06 |
-| 15 | [NOZANOZA](https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 5:01 |
+| 15 | [NOZANOZA](https://open.spotify.com/track/5GSAyule2TvNbu3WtZq0H7) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/5EyQuCN4hW7ufsNJtKxyG9) | 5:01 |
 | 16 | [Journey to Utopia](https://open.spotify.com/track/4UrukZWEXWUKJK3O1ByCKx) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Journey to Utopia](https://open.spotify.com/album/3WCc3Mk44tZ66eWQt3I3lR) | 4:00 |
 | 17 | [사랑가](https://open.spotify.com/track/5TPFp4x1XZfeyh5uNdVGb0) | [국악인가요](https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe) | [국악IN가요](https://open.spotify.com/album/1PsixE91NtJBahibMDufbr) | 3:46 |
 | 18 | [Ongheya](https://open.spotify.com/track/0A46uytgiwGuIqBWbUa3Wv) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO) | [Ongheya](https://open.spotify.com/album/51ERJzQK3NtQvA85qThAAS) | 3:36 |
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 27 | [산세가](https://open.spotify.com/track/6UFOH0T8vDqjsdagF2bWU8) | [fullmoon project](https://open.spotify.com/artist/3eTwOC2mxAQJcfYFXGHzmh) | [산세가](https://open.spotify.com/album/2Kcj1lqZj8qh2cmtvHa6qk) | 3:30 |
 | 28 | [CHILJUNPALGI \- Progressive Mix](https://open.spotify.com/track/2gTcecQU8w6SwQjSkS08Yj) | [Gony Slowly](https://open.spotify.com/artist/3zFEbSBtwo1TcyHL4KekhE), [50mang](https://open.spotify.com/artist/1vV7xlmiyiLLKxpQljKwSx) | [CHILJUNPALGI \(Progressive Mix\)](https://open.spotify.com/album/2R0TcqfM89IOscvXwz4Ikt) | 3:20 |
 | 29 | [A dream that misses you](https://open.spotify.com/track/2TuCwj0qqQX5qBottrDLml) | [JIN JU](https://open.spotify.com/artist/6vmnjbKZsgDFzGJEYZ9YFI) | [A dream that misses you](https://open.spotify.com/album/5Vjqa7KWRyWuIEu4niXo2n) | 3:54 |
-| 30 | [farewell song](https://open.spotify.com/track/7F4j0ajE6AKZouEh33R52r) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [farewell song](https://open.spotify.com/album/24O48umyQCklMttrpWzHst) | 4:04 |
+| 30 | [이별가 Ibyeolga \(farewell song\)](https://open.spotify.com/track/4veY29tsr2j6MKha1HMTet) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [이별가 Ibyeolga \(farewell song\)](https://open.spotify.com/album/5NTx3PD2jwWAVrRULH7FqT) | 4:04 |
 | 31 | [Lion Dance \(feat\. Lee Na Yeon\)](https://open.spotify.com/track/2y3MucKBmwS9GC4qQxk4jL) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO), [Lee Na Yeon](https://open.spotify.com/artist/07qYcfFjfplSt67qQ0QLzm) | [Chosun Electronic Music Big Party](https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub) | 2:46 |
-| 32 | [홀로아리랑 \(prod\. 박경훈\)](https://open.spotify.com/track/2NYhv60zNkD4nciDt0GJUO) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:46 |
+| 32 | [홀로아리랑 \(Prod\. 박경훈\)](https://open.spotify.com/track/1YEPlFih5U3nsThB67Rz5A) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:46 |
 | 33 | [Nolja Taryeong](https://open.spotify.com/track/1OETWDN0GQwfv0pdskSgIy) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO) | [Chosun Electronic Music Big Party](https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub) | 1:56 |
-| 34 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
+| 34 | [사랑가 Sarang\-Ga](https://open.spotify.com/track/05OWC7eELEIfnP6X9br8YQ) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가 Sarang\-Ga](https://open.spotify.com/album/71FMTaK6SY0JM7BaP6tuUn) | 3:58 |
 | 35 | [ride the wind \(feat\. Blank!d\)](https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer), [Blank!d](https://open.spotify.com/artist/18LCQDhzfktqMyKT8pqFQ3) | [ride the wind](https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz) | 5:07 |
 | 36 | [Night Sea](https://open.spotify.com/track/2efR2mfIfPAx9Sf96pOtNL) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [In Summer](https://open.spotify.com/album/5sDkMwuCbhOOw8oFMyh6yx) | 3:03 |
 | 37 | [Arirang for you](https://open.spotify.com/track/02Li3zuBHmYvTU3snTt48H) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 3:27 |
 | 38 | [sEcREt](https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [sEcREt](https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO) | 3:35 |
-| 39 | [Wind Blowing From The East](https://open.spotify.com/track/4nQxpwAHhLMZGG9g6HyFPB) | [Mago](https://open.spotify.com/artist/3JoAChLOYQem9dlwqaTW1t) | [Wind Blowing From The East](https://open.spotify.com/album/4yb06uEYQVKG8HpZdroRuz) | 4:38 |
+| 39 | [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/track/34LtGQ7tuZC9A3jdGxtnob) | [김신일\(Electreecity\)](https://open.spotify.com/artist/2r0sbNAu8c2hLlh0GuR9TS), [Mago 마고](https://open.spotify.com/artist/7dAsAiYMBahaIoSsm7cIGt) | [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/album/5yv7dPP2Z4lmGw1xSb2sCC) | 4:38 |
 | 40 | [Here comes Byeoljubu](https://open.spotify.com/track/3n2xF9MQ8emHwLHtfr4QmV) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer) | [Here comes Byeoljubu](https://open.spotify.com/album/0Hz72QFtM5VQQB6fP8tasS) | 2:53 |
 | 41 | [farewell song](https://open.spotify.com/track/7F4j0ajE6AKZouEh33R52r) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [farewell song](https://open.spotify.com/album/24O48umyQCklMttrpWzHst) | 4:04 |
 | 42 | [In My View](https://open.spotify.com/track/1QJIIMzo6sSf7SLfkLHII3) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX), [ColdoK](https://open.spotify.com/artist/78tQQcdlRdUWKILrwpdolL) | [In My View](https://open.spotify.com/album/4BQs0ok8uj0FIKgd9K2IxN) | 3:35 |

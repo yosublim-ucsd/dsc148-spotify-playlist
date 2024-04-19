@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:47TMF0JlFsz01KilGzc5Ly">Kalan.FrFr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,621 likes - 56 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,631 likes - 56 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 6 | [Pop Out \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1WboXt3VYGGcYePmGUdLV4) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [The Night Shift](https://open.spotify.com/album/25oOBjKtoIRSYzC4h5Gl2G) | 2:58 |
 | 7 | [Touch Me Back](https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Touch Me Back](https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL) | 2:44 |
 | 8 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
-| 9 | [Put It Down](https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0) | 2:45 |
+| 9 | [Put It Down](https://open.spotify.com/track/2Q5lu2KbEkBuAqqPFRvRla) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/2jnGkkqnf1mLtFGFl3DACW) | 2:45 |
 | 10 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 |
 | 11 | [Old Me](https://open.spotify.com/track/2t6qn1HFpnxriCJcXzYG43) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz) | [Gift Of Gab](https://open.spotify.com/album/5JADDdJIATLB6YydiYr3Dh) | 2:33 |
 | 12 | [CUHMUNNITY MONEY 2009 \(feat\. AD\)](https://open.spotify.com/track/5oTZvnzeM9LzTPpwcPB2Us) | [JasonMartin](https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI) | [A Compton Story](https://open.spotify.com/album/5f3ar4qWYfif5VySZZbkSc) | 0:55 |

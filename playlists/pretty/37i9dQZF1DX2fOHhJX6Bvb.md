@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fOHhJX6Bvb.md) - [plain]
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,510 likes - 134 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,570 likes - 134 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fOHhJX6Bvb.md) - [plain]
 | 118 | [You're Gonna Live Forever In Me](https://open.spotify.com/track/6dNzoKTuLLYJ6rrE3gAEam) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [You're Gonna Live Forever In Me](https://open.spotify.com/album/2o7o94d9DTw7e9ZdQeK4Pu) | 2:54 |
 | 119 | [Halo](https://open.spotify.com/track/4lu6zYkghmAlCnDcgKqJcY) | [Mia Carrera](https://open.spotify.com/artist/00zoOzjXViIF4Fs8XQSK9m) | [Halo](https://open.spotify.com/album/0ud9AD3KGlQX1NRLJQpOQ4) | 3:30 |
 | 120 | [It's A Heartache](https://open.spotify.com/track/3lNgovZW5k6yasJqocDyKa) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [It's A Heartache](https://open.spotify.com/album/1tOdmnCWx6X1aZScGY51xz) | 3:04 |
-| 121 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3ZbvHn0IRGGEJiH3CJoggk) | 2:28 |
+| 121 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3M2wA7kvyghCBHnpLCpXrC) | 2:28 |
 | 122 | [As it was](https://open.spotify.com/track/7wwSfI1U4kMKf3u5UP2owx) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:21 |
 | 123 | [More Than Words](https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [More Than Words](https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE) | 3:04 |
 | 124 | [Easy on me](https://open.spotify.com/track/5Qxt1qqgNGaoXUb0lSvaJJ) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Forever Young](https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX) | 3:15 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fOHhJX6Bvb.md) - [plain]
 | 129 | [Love yourself](https://open.spotify.com/track/7As5gdvmXsPrIG26UKHEdl) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:52 |
 | 130 | [Moral Of The Story](https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Moral Of The Story](https://open.spotify.com/album/62uE56qivExWUDjBJnzpwj) | 3:26 |
 | 131 | [Does Your Mother Know](https://open.spotify.com/track/6juhT2a3M7NmCA085Kb1w0) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Does Your Mother Know](https://open.spotify.com/album/7LF6CwL6GELbzGZKcchpiK) | 3:18 |
-| 132 | [Golden Hour \- Piano](https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:38 |
+| 132 | [Golden Hour \- Piano](https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Golden Hour \(Piano\)](https://open.spotify.com/album/7H4URknmYd8Am6pQLtZny6) | 2:38 |
 | 133 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 |
 | 134 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 |
 

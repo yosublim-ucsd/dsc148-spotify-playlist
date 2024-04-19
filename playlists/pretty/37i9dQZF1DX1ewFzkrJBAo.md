@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,609 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,615 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [エロティカ・セブン EROTICA SEVEN](https://open.spotify.com/track/3cL7lXa3QIPDSiWFbKEyke) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [エロティカ・セブン EROTICA SEVEN](https://open.spotify.com/album/2HHtmHMgSIV5e8q1znDVSL) | 4:00 |
-| 2 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 |
+| 2 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 |
 | 3 | [愛と欲望の日々](https://open.spotify.com/track/4LBeEalws5w5e20pGU0r1V) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [愛と欲望の日々/LONELY WOMAN](https://open.spotify.com/album/3MbadmKiGX4Pq4z48Q7OWc) | 4:26 |
 | 4 | [シュラバ★ラ★バンバ SHULABA\-LA\-BAMBA](https://open.spotify.com/track/55vjKvDgczpngRvZYZTFTe) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [シュラバ★ラ★バンバ SHULABA\-LA\-BAMBA](https://open.spotify.com/album/5lIt4NA3A4zViCzmamPaOR) | 5:02 |
 | 5 | [My Foreplay Music](https://open.spotify.com/track/5bRNf1QcDH7AYG5OBWCHgq) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [栞\(しおり\)のテーマ](https://open.spotify.com/album/0UVRQBkemLSxV0t9G6H17A) | 3:56 |

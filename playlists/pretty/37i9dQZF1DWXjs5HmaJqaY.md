@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,493 likes - 62 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,657 likes - 62 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 53 | [Flight Number](https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK) | [Shift Sequence](https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn) | 5:56 |
 | 54 | [Hallucination](https://open.spotify.com/track/2BjmsOlTMYwkeIvhzVNyW5) | [ASK:ME](https://open.spotify.com/artist/39vA0tgkcBq6RYH8Nn4CzU), [El Muerto](https://open.spotify.com/artist/5T3rnJF06EZ8CsJbnIYdhO) | [Delusion EP](https://open.spotify.com/album/7xDR68UbbPefc7NWwgTjEZ) | 5:38 |
 | 55 | [Fire](https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Fire](https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv) | 4:25 |
-| 56 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Day](https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn) | 5:15 |
+| 56 | [Something Half Way](https://open.spotify.com/track/7fmWi55u24fRasWaju85y1) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Something Half Way](https://open.spotify.com/album/5ygCu6YaMTkoawV5CAedtx) | 5:15 |
 | 57 | [Trauma \- Worakls Remix](https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Hungry 5 \(The Best of 5 Years\)](https://open.spotify.com/album/6cjXNVPvBuQdrCbllisAbD) | 10:00 |
 | 58 | [Marionette](https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Marionette](https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E) | 11:22 |
 | 59 | [Good Life \- Inner City Edit of Carl Craig Remix](https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [30 Years EP](https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ) | 3:15 |
 | 60 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 |
-| 61 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 |
+| 61 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 | 62 | [Freedom \- Breitenstein Remix](https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Freedom Remixes](https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv) | 7:02 |
 
 Snapshot ID: `MTcxMjMwNTgyNCwwMDAwMDAwMGJhNTQ1NDkwMzg4MDQ3NjU5NTQ0ZjFiYTJhZGNhNTUx`

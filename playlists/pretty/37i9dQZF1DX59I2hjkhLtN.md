@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 27 | [Proximidade](https://open.spotify.com/track/23kRJYPprDKzjrGqdiAyCq) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Proximidade](https://open.spotify.com/album/29s8RGmjjzv1KbtSt3mPFZ) | 2:49 |
 | 28 | [Montra](https://open.spotify.com/track/01adv1uHdmEbOMUm0Y2vbQ) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [Montra](https://open.spotify.com/album/2tzfm5FnxrmZrGImNNYDKQ) | 3:26 |
 | 29 | [CARA TAPADA](https://open.spotify.com/track/3jCX0SLp8CETvgR6d9Iomt) | [clxro](https://open.spotify.com/artist/4hVPqfvxGcxmIWJlEpsMqE) | [CARA TAPADA](https://open.spotify.com/album/5eLxvGeLisaLG73rd0qMsi) | 2:00 |
-| 30 | [Baila Comigo](https://open.spotify.com/track/5LAPVYNMzHO7qGHNTvbfdd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [MIKELPOTTER](https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ) | [Baila Comigo](https://open.spotify.com/album/7K4yBeaatjskwlJQd6igOt) | 2:16 |
+| 30 | [Baila Comigo](https://open.spotify.com/track/5LAPVYNMzHO7qGHNTvbfdd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [Potter](https://open.spotify.com/artist/3lEPRRwewQnDzDO1rjLj3q) | [Baila Comigo](https://open.spotify.com/album/7K4yBeaatjskwlJQd6igOt) | 2:16 |
 | 31 | [Different Way](https://open.spotify.com/track/75IaLJ5Y564PgI1yUOSGjI) | [RBoy](https://open.spotify.com/artist/0yfYb8zcJhOTaZFFiIsCjD), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Different Way](https://open.spotify.com/album/4q2yBCJnH6rzehzCUyeEIa) | 3:48 |
 | 32 | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/track/1Fz1vSPH9JxwmJRtCQPiS6) | [Tekilla](https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM), [Coca FSM](https://open.spotify.com/artist/7nBujSP0pSaB93RkhIWIiG) | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR) | 3:34 |
 | 33 | [Fotossíntese](https://open.spotify.com/track/6kCAwwPzYFk2HmH5YPzVSd) | [NOIATT](https://open.spotify.com/artist/0KZUlXo9Xt5pxkSRZhNJo3) | [Oblíquo](https://open.spotify.com/album/54Df7jJFSVaesioPnZi30T) | 3:02 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 65 | [Bixho \- Jersey Drill](https://open.spotify.com/track/4KOBYsQsXhVzu3lVmoOXIH) | [João Tamura](https://open.spotify.com/artist/3sPu1TUK3Sg53uMqMBvNzT), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Meireles](https://open.spotify.com/artist/580dOPH0y6qmSC2ZDUHVTp) | [Bixho](https://open.spotify.com/album/5ZaPdJ3EG9xAzUun8G4qY0) | 2:26 |
 | 66 | [CCTV](https://open.spotify.com/track/0lCLNYtUE8BOO9mNfijvxJ) | [Sandrini 2830](https://open.spotify.com/artist/336uZ00PeB8m0gPWb2AcR2) | [CCTV](https://open.spotify.com/album/7ocUFN1RTtV5x26izeQYrX) | 2:41 |
 | 67 | [Deixa](https://open.spotify.com/track/7r3nqcHskM4rew92ZhkSpm) | [TuTu](https://open.spotify.com/artist/2NpSttd4scLuopeAOP3gzn) | [Deixa](https://open.spotify.com/album/4Nb7DPcC2NiIMcqA8bEbgn) | 2:49 |
-| 68 | [Na Vida Amor](https://open.spotify.com/track/5wu4m694O2qTSFoLCLaaxA) | [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Na Vida Amor](https://open.spotify.com/album/1T0HjZ6o7AuST4mfq2peR0) | 3:45 |
+| 68 | [Na Vida Amor](https://open.spotify.com/track/1ktwc6bGOBReJR1Vb2Lqzn) | [Boxx](https://open.spotify.com/artist/3SjKGeoaYL1P5EqScTHgqh) | [Na Vida Amor](https://open.spotify.com/album/2dZjslkb3UmfEpdJQdFmd2) | 3:45 |
 | 69 | [Abismo](https://open.spotify.com/track/4Y19gfDi0pLbTSCVJLwFRI) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP), [DoG](https://open.spotify.com/artist/1mg1eLA0s55Mq7jAcoVR7R) | [Abismo](https://open.spotify.com/album/25We05uwp3c3TsE6kxUCn3) | 3:16 |
 | 70 | [STEP / ME OR SUM FREESTYLE](https://open.spotify.com/track/71cVW3oDzFab0TGD0qpW6e) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC) | [DARK HOURS](https://open.spotify.com/album/3UTzqYgsmY88mEWZ7M5APx) | 3:26 |
 | 71 | [Paradoxo](https://open.spotify.com/track/0VVU6WXpkDjtuRQDwSUfMZ) | [Rudy21](https://open.spotify.com/artist/7BJNlefzGMxapgQy6XvZBf) | [Paradoxo](https://open.spotify.com/album/0aZYc9gXKNSDGNaaELACtM) | 2:35 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 89 | [Namora](https://open.spotify.com/track/1uwXGg0mhXqkt2QsoiXuBK) | [Faro G](https://open.spotify.com/artist/4seDADXKokUxbtWnCczwcK), [prodcerqueira](https://open.spotify.com/artist/0mOhVQ5TtY2dmbjo354qBk) | [Namora](https://open.spotify.com/album/6B3IQPXXEHlzXE7NzQ1png) | 3:27 |
 | 90 | [Banzai](https://open.spotify.com/track/1gDVF5NsjxmfuAkrv9sLI4) | [Karma](https://open.spotify.com/artist/0O5Z4pSF4hBNMCyZwhZGlM), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [A1onee](https://open.spotify.com/artist/63ULtQsrcXmae3KSSr31st), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Banzai](https://open.spotify.com/album/1GvPtB2fOyxkcnWXmkB3Tb) | 3:05 |
 | 91 | [RALPH LAUREN BLUE](https://open.spotify.com/track/540lH0hhSc2MQn1FKNS8Jb) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [RALPH LAUREN BLUE](https://open.spotify.com/album/6N4oQk83JTBNT8BGIK2ozn) | 4:28 |
-| 92 | [FLEX](https://open.spotify.com/track/5gQ2ydTW2kQfFH2vbgOK1r) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/7ucFwRGanISNilfByQyILP) | 2:44 |
+| 92 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
 | 93 | [Big Poppa](https://open.spotify.com/track/3OvhDBI0Au2TDDsS02YcoN) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB) | [Big Poppa](https://open.spotify.com/album/6z7xEVu8UPNIUge2gSzdUH) | 3:36 |
 | 94 | [Atividade](https://open.spotify.com/track/48x1lR1NnXfqJdYceZVU2M) | [Krazye Loko](https://open.spotify.com/artist/4I6Abuoma3TJBURyGNTI1G), [CemManha](https://open.spotify.com/artist/0fbbKfkVWrPRWgjoRa1jxf) | [Atividade](https://open.spotify.com/album/2pLgfyIhoZ01kFwnSR8Fmg) | 2:51 |
 | 95 | [FUMO NA PANELA](https://open.spotify.com/track/122syuxBPapmRt9CRXZfMY) | [Conjunto Corona](https://open.spotify.com/artist/7g0sTWeRrr9xUiBGOkWBWy) | [ESTILVS MISTICVS](https://open.spotify.com/album/0da0siZKs2vXIOEmUnsz1f) | 3:47 |
 | 96 | [I.G.I](https://open.spotify.com/track/6v9BxSZSYJ7crFCaGB0JVQ) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP), [DTM4535](https://open.spotify.com/artist/41GyohIwX2ngEqFmBKViVj), [SomeOne](https://open.spotify.com/artist/6zxBdkNQMucMYpijGdotmW) | [I.G.I](https://open.spotify.com/album/70BkuhaGcQPUzjwGSprSPv) | 2:43 |
 | 97 | [Uhhh](https://open.spotify.com/track/1iZXkSTeRP5bPcOpHfNqSr) | [Pepinz](https://open.spotify.com/artist/5RSOOjDzMG5bf6TdM5VOfR) | [Uhhh](https://open.spotify.com/album/7MEglQk1l4RfMwcgmbRccc) | 2:21 |
 | 98 | [Nocivo](https://open.spotify.com/track/58IwGlBIXwExd2BXohsmYM) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Nocivo](https://open.spotify.com/album/48VdO7ErRTz3GmHB5I3xUA) | 2:50 |
-| 99 | [TERRA DO NUNCA](https://open.spotify.com/track/1zRfFIkeNhH6UpqAT0r0uK) | [pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [OKAY OKAY](https://open.spotify.com/album/6iefuQOEzgoYh3UHbHpkQN) | 2:13 |
+| 99 | [TERRA DO NUNCA](https://open.spotify.com/track/01cFjPA03rVNK96QMrWohA) | [pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [OKAY OKAY](https://open.spotify.com/album/60nJUMUtWra4hzJRvyKvo9) | 2:13 |
 | 100 | [TOP!AN](https://open.spotify.com/track/7HS2rF70uFwJn9fgM5G8hD) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [TOP!AN](https://open.spotify.com/album/31a9nXSPEAtaU1hTMSO6vg) | 3:41 |
 
 Snapshot ID: `MTcwNjI1OTE5OSwwMDAwMDAwMGMxYTA0ZDM5ODUzMGUxNjJlZWViYjhmNmE2YmUyZGFi`

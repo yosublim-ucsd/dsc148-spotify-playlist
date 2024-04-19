@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! / 音楽で辿る、2009年放送開始のアニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147">鋼の錬金術師</a>\(2003年放送開始\)はこちら\(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,145 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,260 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 | 4 | [ゴールデンタイムラバー](https://open.spotify.com/track/66DAA9F0AFPpDvezYunqm3) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [ゴールデンタイムラバー](https://open.spotify.com/album/4VBStx3XhYhQiWJSTLEwg4) | 5:40 |
 | 5 | [Period](https://open.spotify.com/track/2Hv8CIxNzaCJoRPEzdvMTY) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [Period](https://open.spotify.com/album/2wuaOJR1IPuwlaURm3IGDN) | 3:37 |
 | 6 | [レイン](https://open.spotify.com/track/4hKUNjXvTRp1Xpv9n4O8IK) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [レイン](https://open.spotify.com/album/1GbrjrBv1o9AHZolbFP9Jw) | 4:16 |
-| 7 | [嘘](https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK) | 3:25 |
+| 7 | [嘘](https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy) | 3:25 |
 | 8 | [LET IT OUT](https://open.spotify.com/track/3O6uWEmwDlkT7EmucuRdvB) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [LET IT OUT](https://open.spotify.com/album/1HrYt6AXwsWvj6x0eJTy8J) | 4:20 |
 | 9 | [つないだ手](https://open.spotify.com/track/2s6bnkPox8TOQQo3slqMSN) | [Lil'B](https://open.spotify.com/artist/73RYTxKqVXkXo52SYyFJAC) | [つないだ手](https://open.spotify.com/album/2H4rThitVL3Z8g8hJyO7zi) | 4:39 |
 | 10 | [瞬間センチメンタル](https://open.spotify.com/track/2CFY24ovop3Ueel7ECzw0Y) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [瞬間センチメンタル](https://open.spotify.com/album/62O4WeE1UZtdtCFrAcjHBP) | 3:46 |

@@ -580,10 +580,28 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "album": {
+        "name": "Every DAY6 February",
+        "url": "https://open.spotify.com/album/52mBcbwJ0Im0XCIXv4hPLs"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/75oevn5AunR1yAalrm6VL2"
     },
     {
       "album": {
@@ -624,24 +642,6 @@
       "duration_ms": 266137,
       "name": "\ub118\uc5b4\uc640 (Feat. \ubc31\uc608\ub9b0)",
       "url": "https://open.spotify.com/track/7LN1f9jAIu7yxBzsLMN7RB"
-    },
-    {
-      "album": {
-        "name": "Every DAY6 February",
-        "url": "https://open.spotify.com/album/52mBcbwJ0Im0XCIXv4hPLs"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2022-10-04",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 283160,
-      "name": "\uc608\ubee4\uc5b4 You Were Beautiful",
-      "url": "https://open.spotify.com/track/75oevn5AunR1yAalrm6VL2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4Z5FphlroPF"

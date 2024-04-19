@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira, Ardhito Pramono",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Adikara",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -146,10 +146,44 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 673152,
       "name": "3 Days Before",
       "url": "https://open.spotify.com/track/3Rul4Ej5kyHy1i1xeWrGPW"
+    },
+    {
+      "album": {
+        "name": "3 Days Before",
+        "url": "https://open.spotify.com/album/4Y6aHnwn95PzJtibuFE0y1"
+      },
+      "artists": [
+        {
+          "name": "Dimas Pradipta",
+          "url": "https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD"
+        },
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        },
+        {
+          "name": "Bass G",
+          "url": "https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ"
+        },
+        {
+          "name": "Marthin Siahaan",
+          "url": "https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD"
+        },
+        {
+          "name": "Zorsy",
+          "url": "https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 674209,
+      "name": "3 Days Before",
+      "url": "https://open.spotify.com/track/3cUWmQ32KNBeNZyK90yWKX"
     },
     {
       "album": {
@@ -637,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/0ss6hyjblBNVw8Hmwrtt77"
+      },
+      "artists": [
+        {
+          "name": "Rubina",
+          "url": "https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263594,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/2WQI1voN9wyAqtpDwUxoIC"
+    },
+    {
+      "album": {
         "name": "Modinha",
         "url": "https://open.spotify.com/album/6AdW9SB1FDBv5mxA35VAZn"
       },
@@ -648,7 +700,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263594,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/2eNQgIisOJLKnGSfZjUgPB"
@@ -892,10 +944,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199000,
       "name": "Di Pusat Jakarta",
       "url": "https://open.spotify.com/track/1nXD12slBGEda2af9gl84v"
+    },
+    {
+      "album": {
+        "name": "Di Pusat Jakarta",
+        "url": "https://open.spotify.com/album/4xH2VwMdlg44P9P3qMnjjR"
+      },
+      "artists": [
+        {
+          "name": "Michael Aldi",
+          "url": "https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Di Pusat Jakarta",
+      "url": "https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf"
     },
     {
       "album": {
@@ -1171,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "eyes closed",
+        "url": "https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa"
+      },
+      "artists": [
+        {
+          "name": "dilasarah",
+          "url": "https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188696,
+      "name": "eyes closed",
+      "url": "https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g"
+    },
+    {
+      "album": {
         "name": "fake optics",
         "url": "https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw"
       },
@@ -1248,6 +1336,24 @@
       "duration_ms": 223000,
       "name": "Forever Last",
       "url": "https://open.spotify.com/track/4VqjN6MoZ5MPuVkeQKHs3Y"
+    },
+    {
+      "album": {
+        "name": "Foto kita blur",
+        "url": "https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271477,
+      "name": "Foto kita blur",
+      "url": "https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ"
     },
     {
       "album": {
@@ -1562,10 +1668,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303680,
       "name": "I Can\u2019t Make You Love Me",
       "url": "https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Make You Love Me",
+        "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303680,
+      "name": "I Can\u2019t Make You Love Me",
+      "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
     },
     {
       "album": {
@@ -2016,7 +2140,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209650,
       "name": "Like It Was Meant To Be",
       "url": "https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju"
@@ -2034,7 +2158,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 209650,
       "name": "Like It Was Meant To Be",
       "url": "https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB"
@@ -2180,10 +2304,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316512,
       "name": "Makna Nostalgia",
       "url": "https://open.spotify.com/track/5UzwDbdDqEyU7pQc9kh1Bu"
+    },
+    {
+      "album": {
+        "name": "Makna Nostalgia",
+        "url": "https://open.spotify.com/album/1q7bfBILGBE6SALzgqZEKo"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316512,
+      "name": "Makna Nostalgia",
+      "url": "https://open.spotify.com/track/5oEZn7bhmZwTxeJTdKchXK"
     },
     {
       "album": {
@@ -2536,7 +2678,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236286,
       "name": "Pengungkapan Hatimu",
       "url": "https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67"
@@ -2554,7 +2696,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 236286,
       "name": "Pengungkapan Hatimu Feat. Andien",
       "url": "https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d"
@@ -2830,10 +2972,48 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224000,
       "name": "Sapalah Dia",
       "url": "https://open.spotify.com/track/6w3cndfdgSaWRxNwLaFTv6"
+    },
+    {
+      "album": {
+        "name": "Ruang Malam",
+        "url": "https://open.spotify.com/album/7oTPRaFY44BUTuDqUmFQH5"
+      },
+      "artists": [
+        {
+          "name": "Fadhilonn",
+          "url": "https://open.spotify.com/artist/1Dd9BdeYo1NJF7aV76ffUc"
+        },
+        {
+          "name": "Ferdinand Chandra",
+          "url": "https://open.spotify.com/artist/3BSvvioYoBts4vLctGluCg"
+        },
+        {
+          "name": "Gaung Granitto",
+          "url": "https://open.spotify.com/artist/2uHFN9B71lBuDYJUAn4Vio"
+        },
+        {
+          "name": "Gearda Dewantara",
+          "url": "https://open.spotify.com/artist/2vri5OFowsJBeTFKTtPXc9"
+        },
+        {
+          "name": "Kasyfi Kalyasyena",
+          "url": "https://open.spotify.com/artist/69zLpKqzwRVxoh6OnnGXjb"
+        },
+        {
+          "name": "Nash Ersandy",
+          "url": "https://open.spotify.com/artist/3HNMbh9cGOwID5okXQzJnf"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Sapalah Dia",
+      "url": "https://open.spotify.com/track/72y8aKnZzuc1OmQZk2jkqo"
     },
     {
       "album": {
@@ -3192,7 +3372,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 411453,
       "name": "Swarna Jingga",
       "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
@@ -3226,6 +3406,36 @@
       "duration_ms": 411453,
       "name": "Swarna Jingga",
       "url": "https://open.spotify.com/track/4wLAbniSEi6S0SFn1bNo7l"
+    },
+    {
+      "album": {
+        "name": "Naurora",
+        "url": "https://open.spotify.com/album/1DhDO5lZznfjIqmZdZfMCi"
+      },
+      "artists": [
+        {
+          "name": "Dewa Budjana",
+          "url": "https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB"
+        },
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/5Oa5VCcY0RBBSz7AGgDkOr"
+        },
+        {
+          "name": "Jimmy Johnson",
+          "url": "https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B"
+        },
+        {
+          "name": "Mateus Asato",
+          "url": "https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411453,
+      "name": "Swarna Jingga",
+      "url": "https://open.spotify.com/track/0J7GpXSdG2U6WNvyT8vnYj"
     },
     {
       "album": {
@@ -3400,7 +3610,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298314,
       "name": "Wait for the Dawn",
       "url": "https://open.spotify.com/track/51C7LDpnAcUVrbfTSKK0Xm"
@@ -3418,7 +3628,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 298314,
       "name": "Wait for the Dawn",
       "url": "https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK"

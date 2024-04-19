@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162162,
       "name": "02.02.99",
       "url": "https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149460,
       "name": "Ain\u2019t Enough",
       "url": "https://open.spotify.com/track/0RUBz3zwSfq8VBaqlZFyRn"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120149,
       "name": "Blue Devils",
       "url": "https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 129925,
       "name": "Blue Devils",
       "url": "https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG"
@@ -6483,6 +6483,24 @@
     },
     {
       "album": {
+        "name": "Cry for help",
+        "url": "https://open.spotify.com/album/3EOwxkksdhm4ThD0WpDdJJ"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164513,
+      "name": "Cry for help",
+      "url": "https://open.spotify.com/track/36F2s1GsdiXpOg4qBgQXiI"
+    },
+    {
+      "album": {
         "name": "Crying On Your Birthday",
         "url": "https://open.spotify.com/album/7H0ZaJMQRQTquLuFN2jXqn"
       },
@@ -6732,7 +6750,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120260,
       "name": "Dat Business",
       "url": "https://open.spotify.com/track/3OcGYX2gjvVTcU3OVCE9iZ"
@@ -8281,6 +8299,24 @@
     },
     {
       "album": {
+        "name": "Duck No Smoke",
+        "url": "https://open.spotify.com/album/2p7V3z2se4VaW4U6enT88E"
+      },
+      "artists": [
+        {
+          "name": "FTO Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184537,
+      "name": "Duck No Smoke",
+      "url": "https://open.spotify.com/track/2qEhdXuJxmVA7xNMxmPiTa"
+    },
+    {
+      "album": {
         "name": "Duffy",
         "url": "https://open.spotify.com/album/6ATQjKvOPzjrNfzOFAdUmn"
       },
@@ -8728,7 +8764,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142804,
       "name": "Evil Twin",
       "url": "https://open.spotify.com/track/5ogdlI3bD8y3xj9uCepauq"
@@ -9451,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94666,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
+    },
+    {
+      "album": {
         "name": "THE INSPECTION",
         "url": "https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B"
       },
@@ -10116,6 +10170,24 @@
       "duration_ms": 183931,
       "name": "Free Agency",
       "url": "https://open.spotify.com/track/7tJOSbWE58Tk9dF3S0YsYz"
+    },
+    {
+      "album": {
+        "name": "Free Big Meech",
+        "url": "https://open.spotify.com/album/7A7joLcL7BLhK5fA7Y4ODP"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Free Big Meech",
+      "url": "https://open.spotify.com/track/0PBYOiDJxW54ZRjMl8xXs8"
     },
     {
       "album": {
@@ -10890,7 +10962,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 179612,
       "name": "Get Lucki",
       "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
@@ -11170,6 +11242,24 @@
       "duration_ms": 132640,
       "name": "Go",
       "url": "https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ"
+    },
+    {
+      "album": {
+        "name": "Dennis Daughter (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "GO GET YA MOTHA",
+      "url": "https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq"
     },
     {
       "album": {
@@ -14465,6 +14555,24 @@
     },
     {
       "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o"
+    },
+    {
+      "album": {
         "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
         "url": "https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ"
       },
@@ -14484,7 +14592,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127442,
       "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
       "url": "https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF"
@@ -14574,7 +14682,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158515,
       "name": "Jennifer\u2019s Body",
       "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
@@ -15926,7 +16034,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
@@ -15944,7 +16052,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
@@ -16634,7 +16742,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180338,
       "name": "Lil Bastard (feat. Rob49)",
       "url": "https://open.spotify.com/track/6mn8RvMkKooyaKqJ9V4Ndw"
@@ -16714,7 +16822,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118823,
       "name": "Live From The 206",
       "url": "https://open.spotify.com/track/08L2HjrdjB7eoMq9bBzDrI"
@@ -22718,7 +22826,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203646,
       "name": "Plate",
       "url": "https://open.spotify.com/track/6OlDKy2uwA20B84yJKDR7C"
@@ -23630,6 +23738,28 @@
       "duration_ms": 131868,
       "name": "Q-Pid",
       "url": "https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L"
+    },
+    {
+      "album": {
+        "name": "R.I.C.O.",
+        "url": "https://open.spotify.com/album/67YBVlnEXCvoBsr6lSI231"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248730,
+      "name": "R.I.C.O.",
+      "url": "https://open.spotify.com/track/1xwwiCARYUFeKtmPoT048O"
     },
     {
       "album": {
@@ -24578,6 +24708,28 @@
       "duration_ms": 193613,
       "name": "Rick and Morty",
       "url": "https://open.spotify.com/track/7HZFXrFwKITySCO81GbM48"
+    },
+    {
+      "album": {
+        "name": "Ride Home",
+        "url": "https://open.spotify.com/album/73tlDSppnnmvWbbBPRQDI6"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178559,
+      "name": "Ride Home",
+      "url": "https://open.spotify.com/track/2rnWo5yqcjpx0lldvnTdIU"
     },
     {
       "album": {
@@ -26442,7 +26594,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140624,
       "name": "Shy Kid",
       "url": "https://open.spotify.com/track/5wnRBkl2S25GSTS5WqJVJ0"
@@ -26900,7 +27052,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135000,
       "name": "Slidin",
       "url": "https://open.spotify.com/track/3zqKsjvAVMowlJKpwDHmh5"
@@ -27063,6 +27215,24 @@
     },
     {
       "album": {
+        "name": "SNA!",
+        "url": "https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128011,
+      "name": "SNA!",
+      "url": "https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq"
+    },
+    {
+      "album": {
         "name": "Sniper Gang Freestyle Pt. 2",
         "url": "https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW"
       },
@@ -27128,7 +27298,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 114135,
       "name": "soak city (do it)",
       "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
@@ -27164,7 +27334,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 123547,
       "name": "Soak City (Do it)",
       "url": "https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi"
@@ -28050,7 +28220,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149400,
       "name": "Still In Shocc",
       "url": "https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9"
@@ -28640,7 +28810,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 104470,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
@@ -31863,6 +32033,24 @@
     },
     {
       "album": {
+        "name": "We Getting Money",
+        "url": "https://open.spotify.com/album/4nV9be7YSCuTiz4pUS5Xj6"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146096,
+      "name": "We Getting Money",
+      "url": "https://open.spotify.com/track/6sQL7RyIeEyH6FulV1uFgl"
+    },
+    {
+      "album": {
         "name": "We Not Humping (Remix)",
         "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
       },
@@ -33042,7 +33230,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 223471,
       "name": "Wop Wop",
       "url": "https://open.spotify.com/track/0XPbfOslBygbuNk3Is3j8v"
@@ -33064,7 +33252,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223471,
       "name": "Wop Wop",
       "url": "https://open.spotify.com/track/12D9IFgV6Dmo6Qx9DbcQxK"
@@ -33240,7 +33428,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200771,
       "name": "WTW",
       "url": "https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn"

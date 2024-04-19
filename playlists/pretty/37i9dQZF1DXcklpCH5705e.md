@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,579 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,556 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 3 | [初戀](https://open.spotify.com/track/5PXsG3sAAq4NvqKSe4jvSf) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [初戀](https://open.spotify.com/album/5mNIZekIfHHPTYjmJAYe7e) | 3:57 |
 | 4 | [約定](https://open.spotify.com/track/55clCVll09oHjttrkShr8x) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Eason Chan Duo Concert 2010](https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62) | 5:36 |
 | 5 | [有誰共鳴](https://open.spotify.com/track/6WeK60Z3tB1VdEONdBWfmq) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [有誰共鳴](https://open.spotify.com/album/6p1lJXhCHRZDygLpQORcVK) | 3:12 |
-| 6 | [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/track/3SFgidWdBgZNLcjy8ymzH0) | [小肥](https://open.spotify.com/artist/1IEuhKA77qmOfPSgrCaFCs), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/album/3lic9Btq2yShkvJfC7YnvE) | 4:07 |
+| 6 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay 小肥](https://open.spotify.com/artist/14wCkmaUSQPkMjqo0MRhRv), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 |
 | 7 | [飛女正傳](https://open.spotify.com/track/5sj0UfCx4Wjs0epsmL45ZQ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [金牌醇音樂](https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR) | 4:16 |
 | 8 | [忘記他](https://open.spotify.com/track/4BMsm71hl8wqqSbfAdgIHV) | [Shirley Kwan](https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63) | [All Time Favourites](https://open.spotify.com/album/0WpcnKMjK0ovshd1NLiJvp) | 3:20 |
 | 9 | [牆紙 \- Dear Jane Studio Live](https://open.spotify.com/track/7rML5aT5sPdTpiQsc8CVnU) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [101](https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD) | 4:33 |
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 20 | [愛後餘生 \- Dear Jane Studio Live](https://open.spotify.com/track/36wCLNl1ZP8srQH77sHzQQ) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [101](https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD) | 3:20 |
 | 21 | [夢伴](https://open.spotify.com/track/1CrRwZz4ODSKQhhUIuy27K) | [Shirley Kwan](https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63) | [All Time Favourites](https://open.spotify.com/album/0WpcnKMjK0ovshd1NLiJvp) | 3:26 |
 | 22 | [還你門匙 \- 2020 Music Suite Live](https://open.spotify.com/track/6fhiLQP3SHGxV6ptDgguan) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:28 |
-| 23 | [分手總要在雨天](https://open.spotify.com/track/5GWjuO8Fq0180HXbny1HNo) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [E11](https://open.spotify.com/album/53pbunTdvp1O77bS2rRN1Q) | 4:41 |
+| 23 | [分手總要在雨天](https://open.spotify.com/track/2XyuLogi1ft16ssQrNWjRH) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [E11](https://open.spotify.com/album/1HSffKn6QYxfYScbqvkv3z) | 4:41 |
 | 24 | [活著](https://open.spotify.com/track/711bVTOFjmjte4eNXzcbc7) | [Charlene Choi](https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP) | [Blooming](https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL) | 3:32 |
 | 25 | [A.I.N.Y\. \(愛你\)](https://open.spotify.com/track/13l9dTRexqjXmzPESkaHU9) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [Neway Music Live X 林欣彤音樂會](https://open.spotify.com/album/5ppZ6CAbt2jAf4HgH3Ov7K) | 2:50 |
-| 26 | [暗湧 \- 電影"愈快樂愈墮落"歌曲](https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 3:49 |
+| 26 | [暗湧](https://open.spotify.com/track/23pf1KLKsOqwFufDrliFmQ) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新REBORN \(環球精選\)](https://open.spotify.com/album/2OIg1BweYzUeevdKt6VTX3) | 3:51 |
 | 27 | [迷湖 \(音樂永續 作品\)](https://open.spotify.com/track/0ZGpiiBfbfgKXg7VzTx8fb) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [迷湖 \(音樂永續 作品\)](https://open.spotify.com/album/4jZnGsjUQP04qfUxPYyslf) | 4:07 |
-| 28 | [初恋](https://open.spotify.com/track/40z4u67Cm6I4WUQvM3atmb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/3yNL4RvDIZShXbY1HHiVqA) | 3:27 |
+| 28 | [初戀](https://open.spotify.com/track/1aiIwk71j3bdlAoashJ99C) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [初戀](https://open.spotify.com/album/5j0dn66FEK13qHKnGHuVuz) | 3:27 |
 | 29 | [手望\(守望版\) \- Chill Club Version](https://open.spotify.com/track/72xWqUAWRuYhP0BZhroJjF) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [手望\(守望版\) \[Chill Club Version\]](https://open.spotify.com/album/55YNpYQPgwvhxCXte6OtN7) | 3:58 |
 | 30 | [我](https://open.spotify.com/track/41UFHG32WkZpDozEPon4Vo) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [唱與被唱：張國榮在環球的歌](https://open.spotify.com/album/373fpLNHrcRu3FsSdfMZqc) | 3:45 |
 | 31 | [損友 \(音樂永續作品\)](https://open.spotify.com/track/58NLb3BrpY5ulbRRaFH8bU) | [SoulJase](https://open.spotify.com/artist/0DxUeiPWLakywVP1UocKim) | [損友 \(音樂永續作品\)](https://open.spotify.com/album/23Bihif9rjkXe3oSL7qmTU) | 4:24 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 33 | [但願人長久](https://open.spotify.com/track/0K9JlgBeEtcx5I2OgX9hlg) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [晴歌集](https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1) | 4:19 |
 | 34 | [習慣失戀](https://open.spotify.com/track/5p9lznconoyjwg1sR3LW1t) | [Hacken Lee](https://open.spotify.com/artist/3PV11RNUoGfX9tMN2wVljB) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 3:52 |
 | 35 | [紅豆](https://open.spotify.com/track/5TkQbhQm9BXONk2agDo4w9) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Timeless](https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK) | 3:56 |
-| 36 | [每天愛你多一些](https://open.spotify.com/track/6netQHYLJxJfWXHYnvOEJA) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [4 In Love](https://open.spotify.com/album/1LQlxBcbxarDHZfS04TrxR) | 4:18 |
+| 36 | [每天愛你多一些](https://open.spotify.com/track/3Lf8ij7RDmjADYqj56Dobx) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [4 In Love](https://open.spotify.com/album/5fGPGMiJ0OUEVWelINi205) | 4:15 |
 | 37 | [給最開心的人](https://open.spotify.com/track/2VDeyWFIuARXVnR4sJIkDE) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [JOYCE](https://open.spotify.com/album/02Brb1tEIxIPc7t5DwX4xv) | 4:18 |
 | 38 | [祝君好](https://open.spotify.com/track/5bSF9Tlr0RM7buiMbCoamZ) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [金牌醇音樂](https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR) | 4:00 |
 | 39 | [你是我的女人](https://open.spotify.com/track/6jDLdVKCa0lM8RyzNuvnxn) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [Robynn & Kendy](https://open.spotify.com/album/4Kh0aJr49Tb4lDBEJu5kAq) | 3:36 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 48 | [友情歲月](https://open.spotify.com/track/1EzjQgHyJL3RoDdQBwIG06) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 5:08 |
 | 49 | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg) | 4:01 |
 | 50 | [陪著你走 \- 劇集 "不懂撒嬌的女人" 插曲](https://open.spotify.com/track/6ZowYBoRWQaS7bPmmDuWpS) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Lonely](https://open.spotify.com/album/7jtCtoHovPWMOmzpTNNvVO) | 3:32 |
-| 51 | [那個下午我在舊居燒信](https://open.spotify.com/track/3MhbxjiQhfZUzvEAC6NYQc) | [PixelToy](https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty) | [愛．科學](https://open.spotify.com/album/7IK6GFEJ9GawVntkX9zJHe) | 4:15 |
+| 51 | [那個下午我在舊居燒信](https://open.spotify.com/track/7aZi6m1EhPhLyDFsZ0nUY9) | [PixelToy](https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty) | [愛.科學](https://open.spotify.com/album/05RQbvDpjorpaUYUNCOYsQ) | 4:15 |
 | 52 | [甘心替代你 \- 2020 Music Suite Live](https://open.spotify.com/track/5aB9F7Ku4KwzuvEmQqXnPI) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:25 |
 | 53 | [禁色](https://open.spotify.com/track/3upZiipbPQ6ewvm0PDyarH) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [達明一代](https://open.spotify.com/album/512ilWYaatApFMRpBoohXl) | 3:54 |
 | 54 | [最後的歌](https://open.spotify.com/track/2cSNM2l9koIzxoKoOkPE9m) | [陳輝陽 x 女聲合唱](https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU) | [最後的歌](https://open.spotify.com/album/6obk6R6XuJmp0VFjCGaypj) | 3:30 |
 | 55 | [花街70號](https://open.spotify.com/track/3zt402DLJ4BmCSGeq6K04K) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [Until We Meet Again](https://open.spotify.com/album/638h6Jjo6BtVm6vOJKjFbJ) | 3:40 |
-| 56 | [情深說話未曾講 \- Live](https://open.spotify.com/track/3X3MlR0hbNJLY1zlS3L8UU) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U), [何秉舜](https://open.spotify.com/artist/0LkhfZsXSBqDc0y0CwppkY) | [十八種香港 Reimagine HK 2015 \(LIVE\)](https://open.spotify.com/album/1MU1FyMYaQnjNz6tWK12Ym) | 6:30 |
+| 56 | [情深說話未曾講](https://open.spotify.com/track/3IU0tRFjaP7FsoPnXz5KEf) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [十八種香港 Reimagine HK 2015 \(LIVE\)](https://open.spotify.com/album/0yOGZZK7klwmqhP7ll81Jg) | 6:30 |
 | 57 | [再見 PUPPY LOVE](https://open.spotify.com/track/4Ate1rLOyiVyi9CQjWmJx2) | [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC), [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [一期一會](https://open.spotify.com/album/5CzYuHAN4K1nxoiiq8U36X) | 4:32 |
 | 58 | [春光乍洩](https://open.spotify.com/track/2i5W0vHE6fdx9Sp569wjE8) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Cross Over](https://open.spotify.com/album/5epxfLiiZq2Q3ou0PL4Xuu) | 3:48 |
 | 59 | [愛是.....](https://open.spotify.com/track/3h8gXeNOawPxOp78OIP5ka) | [Qiu Hong](https://open.spotify.com/artist/6ai1TRHwDWWZ71PoNljoTq) | [LMFXXYEARFEST](https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb) | 3:27 |

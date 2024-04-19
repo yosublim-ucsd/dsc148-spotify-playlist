@@ -1,12 +1,12 @@
 {
-  "description": "Go hard or go home. Cover: Disrupta",
-  "num_followers": 58398,
+  "description": "Go hard or go home. Cover: SOTA",
+  "num_followers": 58474,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMTA2NTY2MCwwMDAwMDAwMGU1ZmZlMWExYTc5YjU3ZmI5OTA2OWNjNjFjZWIzM2Vi",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGQwZWFjNjU2OTY5MjM0YmVhMjA4NjE5OGU4MjEzNWZh",
   "tracks": [
     {
       "added_at": "2024-03-01 11:56:20",
@@ -33,24 +33,20 @@
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
+      "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Wild (Disrupta Remix)",
-        "url": "https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W"
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Wild - Disrupta Remix",
-      "url": "https://open.spotify.com/track/1siHenGtsl36Q6vs7c20O9"
+      "duration_ms": 183448,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -244,7 +240,7 @@
       "added_at": "2024-03-01 11:56:20",
       "album": {
         "name": "Cobra / Riddim",
-        "url": "https://open.spotify.com/album/1LrKr549uqGd77TPGJKKFr"
+        "url": "https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO"
       },
       "artists": [
         {
@@ -258,7 +254,7 @@
       ],
       "duration_ms": 230232,
       "name": "Cobra",
-      "url": "https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs"
+      "url": "https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -591,38 +587,6 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
         "name": "IFTK (Vibe Chemistry Remix)",
         "url": "https://open.spotify.com/album/62F2vp2ZSP3o2hbv75MzjQ"
       },
@@ -643,22 +607,6 @@
       "duration_ms": 193643,
       "name": "IFTK - Vibe Chemistry Remix",
       "url": "https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -763,6 +711,22 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
         "name": "Polarity (VIP)",
         "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
@@ -779,26 +743,6 @@
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
-        "name": "Overload / Somebody Else, Pt. 2",
-        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        },
-        {
-          "name": "Lydia Plain",
-          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
-        }
-      ],
-      "duration_ms": 197485,
-      "name": "Somebody Else, Pt. 2",
-      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -831,22 +775,6 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
         "name": "Break It Down",
         "url": "https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw"
       },
@@ -859,6 +787,26 @@
       "duration_ms": 203164,
       "name": "Break It Down",
       "url": "https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Wild (Disrupta Remix)",
+        "url": "https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Wild - Disrupta Remix",
+      "url": "https://open.spotify.com/track/1siHenGtsl36Q6vs7c20O9"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -955,30 +903,6 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Freak (Used Remix)",
-        "url": "https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Used",
-          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
-        }
-      ],
-      "duration_ms": 252342,
-      "name": "Freak - Used Remix",
-      "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
         "name": "Take You Higher",
         "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
       },
@@ -995,22 +919,26 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Forever Changes",
-        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+        "name": "Confliction",
+        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
       },
       "artists": [
         {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+          "name": "CrossBreed",
+          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
         },
         {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+          "name": "MTD",
+          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
         }
       ],
-      "duration_ms": 184065,
-      "name": "Forever Changes",
-      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
+      "duration_ms": 200228,
+      "name": "Confliction",
+      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -1047,26 +975,22 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Confliction",
-        "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
       },
       "artists": [
         {
-          "name": "CrossBreed",
-          "url": "https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
         },
         {
-          "name": "MTD",
-          "url": "https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
         }
       ],
-      "duration_ms": 200228,
-      "name": "Confliction",
-      "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -1099,6 +1023,78 @@
       "duration_ms": 309986,
       "name": "Lady Petrol",
       "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
+        "name": "Back To Normal",
+        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 268939,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
+        "name": "Firebreak (1991 Remix)",
+        "url": "https://open.spotify.com/album/6hjfikVWj1TJ3gFl3gOrNK"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "duration_ms": 117530,
+      "name": "Firebreak - 1991 Remix",
+      "url": "https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Patch Edison",
+          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
+        }
+      ],
+      "duration_ms": 237284,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
+        "name": "Rocker / Darkness",
+        "url": "https://open.spotify.com/album/0rgubeVj85d7sTnUoTgxn6"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/4ZyQtgBP1fTI3i6ho4jNdY"
     }
   ],
   "unique_name": "Jump Up!",

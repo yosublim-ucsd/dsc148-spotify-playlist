@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain]
 
 > Fire up your rocket and sing\-along with Fei Fei to the Moon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,683 likes - 37 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,686 likes - 37 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain]
 | 26 | [Volaré \- De La Película De Netflix "Más Allá De La Luna"](https://open.spotify.com/track/5DBmcSflPbZWW3yYec9hif) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Volaré \(De La Película De Netflix "Más Allá De La Luna”\)](https://open.spotify.com/album/5x7utQZPz8aUtxlZucmVhU) | 2:13 |
 | 27 | [صاروخ للقمر \(من فيلم Netflix “فوق القمر”\)](https://open.spotify.com/track/3juMVk4WoySe8tNATFFkKU) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [صاروخ للقمر \(من فيلم Netflix “فوق القمر”\)](https://open.spotify.com/album/58Fs9zS80bNXHPx1yePZFR) | 2:13 |
 | 28 | [ロケット・トゥ・ザ・ムーン\~信じた世界へ\~ \(Netflix 映画『フェイフェイと月の冒険』より\)](https://open.spotify.com/track/1vzZJBvKSsJ0KLImDE6Pey) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ロケット・トゥ・ザ・ムーン\~信じた世界へ\~ \(Netflix 映画『フェイフェイと月の冒険』より\)](https://open.spotify.com/album/72z020EmzNNrjfovPHd7LM) | 2:13 |
-| 29 | [Volo via \(dal film Netflix "Over the Moon \- Il fantastico mondo di Lunaria"\)](https://open.spotify.com/track/7v5LkagPuy2xflmpIXhqPc) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Il fantastico mondo di Lunaria \(musica del film Netflix\)](https://open.spotify.com/album/0G3sM7ZCRugZFXgtNPtclP) | 2:16 |
+| 29 | [Volo via \(dal film Netflix "Over the Moon \- Il fantastico mondo di Lunaria"\)](https://open.spotify.com/track/6COKrjpZtMjwV7VKWZBYDT) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Volo Via dal film "Il fantastico mondo di Lunaria" \- EP](https://open.spotify.com/album/0izsgW6kUoxoACejwq1QgJ) | 2:16 |
 | 30 | [Raket naar de maan \- Voor de Netflix film 'Fei Fei en de Maan'](https://open.spotify.com/track/6o9U7pA3R9XybQJqsPj8Ew) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg) | [Raket naar de maan](https://open.spotify.com/album/3xzBbi2MzZcQl3erCM4C1a) | 2:12 |
 | 31 | [Wznieść Się Chcę \- z filmu Netflix "Wyprawa Na Księżyc”](https://open.spotify.com/track/565keVOeBhjgrL3ZkEOSrD) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Wznieść Się Chcę \(z filmu Netflix "Wyprawa Na Księżyc”\)](https://open.spotify.com/album/3K5C4HxFkAVlLIMiBgiwYE) | 2:15 |
 | 32 | [M'envoler \(Extrait du film Netflix "Voyage vers la Lune"\)](https://open.spotify.com/track/6IdmozotOMcMx9aRUBjSct) | [Camille Bertault](https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n) | [M'envoler \(Extrait du film Netflix "Voyage vers la Lune"\)](https://open.spotify.com/album/44jvxuGwOC2GQjzGLaBjU2) | 2:13 |

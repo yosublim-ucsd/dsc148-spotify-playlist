@@ -68,7 +68,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 497773,
       "name": "4 Impromptus, Op. 90, D.899: No. 4 in A Flat Major: Allegretto",
       "url": "https://open.spotify.com/track/4acoaqSa5dno7qMFExRG2w"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 497773,
       "name": "4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto",
       "url": "https://open.spotify.com/track/1M2RkUUJ9wXRsW3jN1MCHS"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 706000,
       "name": "Adagio for Strings and Organ in G Minor",
       "url": "https://open.spotify.com/track/7BmRd83zm8CHffrAPe2ZR7"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 708933,
       "name": "Adagio for Strings and Organ in G Minor",
       "url": "https://open.spotify.com/track/7bvuOKIFqMyRSkLozmaoRg"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 707173,
       "name": "An der sch\u00f6nen blauen Donau, Op. 314",
       "url": "https://open.spotify.com/track/4J0e4gEqaLQlG5EM0wws1K"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 707173,
       "name": "An der sch\u00f6nen blauen Donau, Op.314",
       "url": "https://open.spotify.com/track/0dzl6bBvsIAfHLlTbBObTW"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256573,
       "name": "Ave Maria, D. 839",
       "url": "https://open.spotify.com/track/02gKGdCyRltEpfwmGauElu"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256573,
       "name": "Ave Maria, D. 839",
       "url": "https://open.spotify.com/track/4GnVpbnWjHFrpXjAcPHvqM"
@@ -538,6 +538,32 @@
       "duration_ms": 537426,
       "name": "Barber: Adagio for Strings",
       "url": "https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau"
+    },
+    {
+      "album": {
+        "name": "The King's Speech OST",
+        "url": "https://open.spotify.com/album/44jCEaOBXfvbmTDMXLphji"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Terry Davies",
+          "url": "https://open.spotify.com/artist/3NgsK1tWaHynBkdHN4ZBA9"
+        },
+        {
+          "name": "Members Of The London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1rnHt5XG7VPH2jgec03HcE"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302986,
+      "name": "Beethoven: Speaking Unto Nations (Beethoven Symphony no 7 - II )",
+      "url": "https://open.spotify.com/track/4EcOBeGY1r0j26Z8FJ1nVZ"
     },
     {
       "album": {
@@ -680,7 +706,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 942000,
       "name": "Cello Concerto In B Minor, Op. 104, B. 191: I. Allegro",
       "url": "https://open.spotify.com/track/0nE5LAhlotmOrADLNeU5n9"
@@ -710,7 +736,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 942000,
       "name": "Cello Concerto In B Minor, Op.104, B. 191: 1. Allegro",
       "url": "https://open.spotify.com/track/0neipEnwEzyd66aUqUsg5P"
@@ -796,7 +822,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359666,
       "name": "Cello Concerto No. 1, Op. 107: 1. Allegretto",
       "url": "https://open.spotify.com/track/4CD6Jf096kKD8F0eHK8yCw"
@@ -826,7 +852,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 359666,
       "name": "Cello Concerto No.1, Op.107: 1. Allegretto",
       "url": "https://open.spotify.com/track/7dchPojQcmY6eMBFJAo64i"
@@ -848,7 +874,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151733,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
@@ -870,7 +896,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152280,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
@@ -1006,7 +1032,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
@@ -1024,7 +1050,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/4O2N861eOnF9q8EtpH8IJu"
@@ -1088,7 +1114,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442693,
       "name": "Danse Macabre, Op. 40, R.171",
       "url": "https://open.spotify.com/track/5OenUWwcUBDltPyN1Hh40D"
@@ -1144,7 +1170,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 442693,
       "name": "Danse Macabre, Op.40, R.171",
       "url": "https://open.spotify.com/track/0pCHzhuRt6kOU3FUEG3HnC"
@@ -1322,7 +1348,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 455466,
       "name": "El\u00e9gie in C Minor, Op. 24 (Arr. Parkin for Cello Ensemble)",
       "url": "https://open.spotify.com/track/4WyfQ9OavlPgFqiaV1sy8V"
@@ -1438,7 +1464,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 455466,
       "name": "El\u00e9gie in C Minor, Op. 24 (Arr. Parkin)",
       "url": "https://open.spotify.com/track/4QfYHdV8hMoyS9qKUct98q"
@@ -1566,7 +1592,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140040,
       "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
       "url": "https://open.spotify.com/track/1ENZ1YHuOp5MMFJlWBQ6V7"
@@ -1588,7 +1614,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140040,
       "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
       "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
@@ -1688,7 +1714,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179893,
       "name": "Holberg Suite, Op. 40: I. Pr\u00e4ludium (Allegro vivace)",
       "url": "https://open.spotify.com/track/07xafomqQcYmFJbr4jpfHa"
@@ -1714,7 +1740,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Holberg Suite, Op. 40: I. Pr\u00e4ludium (Allegro vivace)",
       "url": "https://open.spotify.com/track/2f0RHvSl1vVGsnT9oxOHsS"
@@ -1784,7 +1810,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150506,
       "name": "Hungarian Dance No. 5 in G Minor, WoO 1, No. 5",
       "url": "https://open.spotify.com/track/2cFsO1qC65joLn2GzRViBI"
@@ -1810,7 +1836,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152160,
       "name": "Hungarian Dance No. 5 in G Minor, WoO 1, No. 5",
       "url": "https://open.spotify.com/track/5d6FOGCa0EDqCJSpccEh8s"
@@ -1862,7 +1888,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 425000,
       "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
       "url": "https://open.spotify.com/track/1chTrqszWQEOP4RsNuOZf7"
@@ -1888,7 +1914,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 425000,
       "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
       "url": "https://open.spotify.com/track/4dGkPPLnIdVgogqpyaAjbc"
@@ -1958,7 +1984,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186840,
       "name": "Kinderszenen, Op. 15: No. 7 in F Major, Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/18QVbIw5S0MJHGWF2qLX75"
@@ -1982,13 +2008,13 @@
           "url": "https://open.spotify.com/artist/5tQs2q4OYuqqHL2a5u4B61"
         },
         {
-          "name": "Czech Philharmonic Orchestra",
+          "name": "Czech Philharmonic",
           "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
         }
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/50VVlZROGaROAwNqAMxA6B"
@@ -2018,7 +2044,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 649200,
       "name": "Kol Nidrei - Adagio For Cello, Opus 47",
       "url": "https://open.spotify.com/track/0iEIVX3DPGPX3ESUEXNsQv"
@@ -2048,7 +2074,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 649200,
       "name": "Kol Nidrei - Adagio For Cello, Opus 47",
       "url": "https://open.spotify.com/track/6O1x5c79fKwC1dKLzZ5UPd"
@@ -2152,7 +2178,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 596000,
       "name": "Lohengrin: Prelude",
       "url": "https://open.spotify.com/track/2x6mect1PKsrxXmsg2O23B"
@@ -2178,7 +2204,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 596000,
       "name": "Lohengrin: Prelude",
       "url": "https://open.spotify.com/track/5NQ41wfi4Pykv4eDTlAoIs"
@@ -2234,7 +2260,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 337253,
       "name": "Meditation: M\u00e9ditation from Tha\u00efs",
       "url": "https://open.spotify.com/track/6Uk28Hs2MulezLxMrd1rBD"
@@ -2354,7 +2380,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 277147,
       "name": "Merry Christmas Mr. Lawrence (Arr. Metcalfe)",
       "url": "https://open.spotify.com/track/5bVlEvO3SadcOyh6rnWW4P"
@@ -2388,7 +2414,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277147,
       "name": "Merry Christmas Mr. Lawrence (Arr. Metcalfe)",
       "url": "https://open.spotify.com/track/6aHZQ2a2ZgBDLZsx1usftw"
@@ -2448,7 +2474,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331933,
       "name": "M\u00e9ditation from Tha\u00efs",
       "url": "https://open.spotify.com/track/0XfFRLi9G87t57kqZAzeef"
@@ -2466,7 +2492,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106960,
       "name": "Nascence",
       "url": "https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W"
@@ -2484,7 +2510,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 106960,
       "name": "Nascence",
       "url": "https://open.spotify.com/track/6zcP5A5Xv6bvCUpwXrswKa"
@@ -2522,13 +2548,13 @@
           "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
         },
         {
-          "name": "Voces8",
+          "name": "VOCES8",
           "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
         }
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "Nimrod (Lux Aeterna)",
       "url": "https://open.spotify.com/track/0URENFI2Nk9oVMdhz4SQKM"
@@ -2550,10 +2576,32 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232666,
       "name": "Nimrod (Lux Aeterna)",
       "url": "https://open.spotify.com/track/1aJcDNDrKduMegTZzOemVd"
+    },
+    {
+      "album": {
+        "name": "Chopin: The Nocturnes",
+        "url": "https://open.spotify.com/album/4Lq2ben6ERqYOQB1PM5QfB"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334053,
+      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/1EGFCxKCQ3isMnlPzEW8G1"
     },
     {
       "album": {
@@ -2572,7 +2620,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334053,
       "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
       "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
@@ -2598,28 +2646,6 @@
       "duration_ms": 248933,
       "name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
       "url": "https://open.spotify.com/track/2TB6PQkgnw9rrFRK4VOOrC"
-    },
-    {
-      "album": {
-        "name": "Chopin: The Nocturnes",
-        "url": "https://open.spotify.com/album/4Lq2ben6ERqYOQB1PM5QfB"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 334053,
-      "name": "Nocturne No.1 in B flat minor, Op.9 No.1",
-      "url": "https://open.spotify.com/track/1EGFCxKCQ3isMnlPzEW8G1"
     },
     {
       "album": {
@@ -2682,7 +2708,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176546,
       "name": "Ombra Mai Fu",
       "url": "https://open.spotify.com/track/29ym283kpgDLDvpHkBFmFN"
@@ -2720,7 +2746,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 371746,
       "name": "On the Nature of Daylight",
       "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
@@ -2758,7 +2784,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 371746,
       "name": "On The Nature Of Daylight",
       "url": "https://open.spotify.com/track/5DFUsGW4Cmltv8Spd0u1aV"
@@ -2818,7 +2844,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 409000,
       "name": "Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)",
       "url": "https://open.spotify.com/track/6JoMhlsYqtzwBCVZaEdO6j"
@@ -2848,7 +2874,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 410160,
       "name": "Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)",
       "url": "https://open.spotify.com/track/6GDuB7BvASYD9JePYvOEX1"
@@ -2922,7 +2948,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302093,
       "name": "Pachelbel: Canon and Gigue in D Major for 3 Violins and Continuo, P. 37: I. Canon (Orchestral Version)",
       "url": "https://open.spotify.com/track/5x3TUfYzgZIdt0Kaop64ss"
@@ -2948,7 +2974,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300613,
       "name": "Pachelbel: Canon and Gigue in D Major: Canon",
       "url": "https://open.spotify.com/track/712Pm7DCa8lL8dGZ7LdXQS"
@@ -3100,7 +3126,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 766212,
       "name": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
       "url": "https://open.spotify.com/track/0QTaXZRWdzfPdssiQThdCL"
@@ -3130,7 +3156,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 766212,
       "name": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
       "url": "https://open.spotify.com/track/62yRch6aOnrQ44oftphdDq"
@@ -3250,7 +3276,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 1252321,
       "name": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso - Allegro con spirito",
       "url": "https://open.spotify.com/track/1Xy6MHSaX3IUGGqst6RzYM"
@@ -3298,7 +3324,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1252605,
       "name": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso - Allegro con spirito",
       "url": "https://open.spotify.com/track/1LsVhKuf7RyZYQF17yfhbJ"
@@ -3388,7 +3414,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 564640,
       "name": "Piano Concerto No. 3 in C, Op. 26: 1. Andante - Allegro",
       "url": "https://open.spotify.com/track/2b9jjrVhyalVAu9jmlH5eG"
@@ -3425,6 +3451,36 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564640,
+      "name": "Piano Concerto No. 3 in C, Op. 26: 1. Andante - Allegro",
+      "url": "https://open.spotify.com/track/3QqPgzOcv9titKufFR0gsQ"
+    },
+    {
+      "album": {
         "name": "Beethoven: Complete Piano Concertos (Live at Konzerthaus Berlin / 2018)",
         "url": "https://open.spotify.com/album/5WT7AdeH0fFbj3tuXY6S1H"
       },
@@ -3452,36 +3508,6 @@
       "duration_ms": 473786,
       "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso - Live at Konzerthaus Berlin / 2018",
       "url": "https://open.spotify.com/track/76wXMaJVSr0nSsKsSdwAiu"
-    },
-    {
-      "album": {
-        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
-        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Behzod Abduraimov",
-          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
-        },
-        {
-          "name": "Orchestra Sinfonica Nazionale Della RAI",
-          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
-        },
-        {
-          "name": "Juraj Valcuha",
-          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 564640,
-      "name": "Piano Concerto No.3 in C, Op.26: 1. Andante - Allegro",
-      "url": "https://open.spotify.com/track/3QqPgzOcv9titKufFR0gsQ"
     },
     {
       "album": {
@@ -3698,7 +3724,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 644333,
       "name": "Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune, L.86",
       "url": "https://open.spotify.com/track/02dVj5B3vXOjylEFYCCsYQ"
@@ -3728,7 +3754,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 644333,
       "name": "Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune, L.86",
       "url": "https://open.spotify.com/track/1oMtwEc8xjDTNarCsMlI8B"
@@ -3806,10 +3832,40 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151506,
       "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
       "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
       "album": {
@@ -3918,7 +3974,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 890000,
       "name": "Rhapsody in Blue",
       "url": "https://open.spotify.com/track/0g7AZiNDzDuEYOwV27qoXb"
@@ -3948,9 +4004,9 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 890000,
-      "name": "Rhapsody In Blue",
+      "name": "Rhapsody in Blue",
       "url": "https://open.spotify.com/track/0yzhOPf0iw2qWwcXRRta5L"
     },
     {
@@ -3978,7 +4034,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
       "url": "https://open.spotify.com/track/419qlOGNXoyICx4jO0hqaj"
@@ -4038,7 +4094,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
       "url": "https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz"
@@ -4068,7 +4124,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143573,
       "name": "Rigoletto / Act 3: \"La donna \u00e8 mobile\"",
       "url": "https://open.spotify.com/track/30CNRidKfNGwImhmvHpUS0"
@@ -4098,7 +4154,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141600,
       "name": "Rigoletto, Act III: La donna \u00e8 mobile",
       "url": "https://open.spotify.com/track/5cR6xfzyicyDyAr52zB48k"
@@ -4224,7 +4280,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239333,
       "name": "Schumann: Widmung, Op. 25 No. 1 (Arr. Liszt, S. 566a)",
       "url": "https://open.spotify.com/track/5U7T2widXE5MqoQ6dmi3O9"
@@ -4346,7 +4402,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330000,
       "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
       "url": "https://open.spotify.com/track/0XkcuWNLacWDwEDmvq4CCy"
@@ -4368,7 +4424,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 330293,
       "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
       "url": "https://open.spotify.com/track/5Zf5prtvv7KRQ1J6kNn4C6"
@@ -4412,7 +4468,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176546,
       "name": "Serse, HWV 40: Ombra mai f\u00f9",
       "url": "https://open.spotify.com/track/3POuw6qjxYxsySeGC3my1c"
@@ -4490,7 +4546,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 503000,
       "name": "Sonata for 2 Pianos in D Major, K. 448/375a: I. Allegro con spirito",
       "url": "https://open.spotify.com/track/3UkKnjU33EiKspyDjNPTOO"
@@ -4542,7 +4598,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 500500,
       "name": "Sonata for 2 pianos in D, K.448: 1. Allegro con spirito",
       "url": "https://open.spotify.com/track/5i7bLnNE0R3m1MNUY7UsqT"
@@ -4616,7 +4672,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302986,
       "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
       "url": "https://open.spotify.com/track/0PiKaKQ6gtovR4DtVg8aNn"
@@ -4675,32 +4731,6 @@
     },
     {
       "album": {
-        "name": "The King's Speech OST",
-        "url": "https://open.spotify.com/album/44jCEaOBXfvbmTDMXLphji"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Terry Davies",
-          "url": "https://open.spotify.com/artist/3NgsK1tWaHynBkdHN4ZBA9"
-        },
-        {
-          "name": "Members Of The London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1rnHt5XG7VPH2jgec03HcE"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 302986,
-      "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
-      "url": "https://open.spotify.com/track/4EcOBeGY1r0j26Z8FJ1nVZ"
-    },
-    {
-      "album": {
         "name": "Classical Music for the Background: Beethoven",
         "url": "https://open.spotify.com/album/0vwqo5xb7ODEgPpUCUtOl6"
       },
@@ -4753,36 +4783,6 @@
     },
     {
       "album": {
-        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
-        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Konzerthaus Kammerorchester Berlin",
-          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
-        },
-        {
-          "name": "Andre de Ridder",
-          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 151506,
-      "name": "Spring 1 - 2012",
-      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
-    },
-    {
-      "album": {
         "name": "Bach, J.S. St. Matthew Passion - Arias & Choruses",
         "url": "https://open.spotify.com/album/1KtqRUSVnbGFvmYFuAqlGT"
       },
@@ -4832,7 +4832,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250253,
       "name": "St. Paul's Suite : 3. Intermezzo: Andante con moto",
       "url": "https://open.spotify.com/track/6oaSX9Q0uZi8x6DttspP5D"
@@ -4858,7 +4858,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250333,
       "name": "St. Paul's Suite, Op. 29 No. 2, H 118: 3. Intermezzo: Andante con moto",
       "url": "https://open.spotify.com/track/5jhPy1TXr41vrh6NsUSdCc"
@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 363253,
       "name": "Suite No. 3 in D Major, BWV 1068: II. Air",
       "url": "https://open.spotify.com/track/0DqFXzLtKkj9JO421NJpl1"
@@ -5132,7 +5132,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 365146,
       "name": "Suite No. 3 in D Major, BWV 1068: II. Air",
       "url": "https://open.spotify.com/track/7h6GoPvGHC9uzZJ8bNvfIq"
@@ -5158,7 +5158,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1215573,
       "name": "Symphonic Variations on an African Air, Op. 63",
       "url": "https://open.spotify.com/track/5xjh7foPsLNJClLE6c8B98"
@@ -5184,7 +5184,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1215573,
       "name": "Symphonic Variations on an African Air, Op.63",
       "url": "https://open.spotify.com/track/2ceu417OdiSxzR3K7B1n2M"
@@ -5222,7 +5222,7 @@
       },
       "artists": [
         {
-          "name": "Franz Joseph Haydn",
+          "name": "Joseph Haydn",
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 381466,
       "name": "Symphony No. 104 in D Major, Hob.I:104 \"London\": 4. Finale (Spiritoso) - Live",
       "url": "https://open.spotify.com/track/4TYZpMB5tGOdlMmnS2pB2m"
@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381451,
       "name": "Symphony No. 104 in D Major, Hob.I:104 \"London\": 4. Finale (Spiritoso) - Live from City Recital Hall, Sydney, 2018",
       "url": "https://open.spotify.com/track/2842sfEeH0y3YinrowwkX0"
@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 460026,
       "name": "Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",
       "url": "https://open.spotify.com/track/64ta7ZvTJeThz7Ns4LmAHS"
@@ -5340,9 +5340,9 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 461000,
-      "name": "Symphony No. 25 in G minor, K.183: 1. Allegro con brio",
+      "name": "Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",
       "url": "https://open.spotify.com/track/1opln0FV3xQdUJxt9bWhgB"
     },
     {
@@ -5422,7 +5422,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 703720,
       "name": "Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I",
       "url": "https://open.spotify.com/track/17Jz3qHrV3d0aDcK3HWzyp"
@@ -5448,7 +5448,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 703720,
       "name": "Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I",
       "url": "https://open.spotify.com/track/7vJhOBgOkXyEJvw1vsU6HB"
@@ -5552,7 +5552,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/2ygeBLTP9uu3OW3VTulD8N"
@@ -5578,7 +5578,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
@@ -5604,7 +5604,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 481600,
       "name": "Symphony No. 5 in E-Flat Major, Op. 82: 3. Allegro molto",
       "url": "https://open.spotify.com/track/2s7oaW721ExcKoyxzDWD1D"
@@ -5682,7 +5682,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 902466,
       "name": "Symphony No. 8 In B Minor, D.759 - \"Unfinished\": 1. Allegro moderato",
       "url": "https://open.spotify.com/track/62PbW2vKBkNcCEAUUZyuES"
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 906000,
       "name": "Symphony No. 8 In B Minor, D.759 - \"Unfinished\": 1. Allegro moderato",
       "url": "https://open.spotify.com/track/52GmHO5DikTIKc3yBmTTT1"
@@ -5786,7 +5786,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 482000,
       "name": "Symphony No.5 in E flat, Op.82: 3. Allegro molto",
       "url": "https://open.spotify.com/track/7xGcLLeK1de0I71lH28DeM"
@@ -5838,7 +5838,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249640,
       "name": "Tahiti Trot, Op. 16 (After V. Youmans's \"Tea for Two\")",
       "url": "https://open.spotify.com/track/1uARLLfeQPlBf1jSN4P0yK"
@@ -5864,7 +5864,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249640,
       "name": "Tahiti Trot, Op. 16 (orchestral transcription of Youmans' Tea for Two): Taiti Trot (Tahiti Trot), Op. 16 (arr. of V. Youmans - Tea for Two)",
       "url": "https://open.spotify.com/track/76i4IBw3KsuDw783tvHB0e"
@@ -6102,7 +6102,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 933075,
       "name": "The Lark Ascending",
       "url": "https://open.spotify.com/track/4YPPXfCUuKEWvvsnl64BEA"
@@ -6132,7 +6132,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 935360,
       "name": "The Lark Ascending",
       "url": "https://open.spotify.com/track/2kAgCRZPG3YQR2VMqRvLmb"
@@ -6210,7 +6210,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191160,
       "name": "The Nutcracker, Op. 71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
       "url": "https://open.spotify.com/track/7kIOMHUvbjjosQywMTre1N"
@@ -6236,7 +6236,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191160,
       "name": "The Nutcracker, Op.71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
       "url": "https://open.spotify.com/track/5eQKtxGSPvl9NEPXAuzzTJ"
@@ -6412,7 +6412,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201000,
       "name": "Trois chansons, M.69: 2. Trois beaux oiseaux du Paradis",
       "url": "https://open.spotify.com/track/1ryIM6NJH9i7gIPuMcC9Fc"
@@ -6454,7 +6454,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Trois chansons, M.69: 2. Trois beaux oiseaux du Paradis",
       "url": "https://open.spotify.com/track/3U34uG4BRoMb0lrlrOhtxC"
@@ -6540,7 +6540,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 177333,
       "name": "Turandot, SC 91, Act III: Nessun dorma!",
       "url": "https://open.spotify.com/track/74WjYdm3Lvbwnds4thYPUU"
@@ -6578,7 +6578,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182933,
       "name": "Turandot, SC 91, Act III: Nessun dorma!",
       "url": "https://open.spotify.com/track/1nCyd4Wxa9ZSolNvnRsfQt"
@@ -6754,7 +6754,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 727786,
       "name": "Violin Concerto in E Minor, Op. 64, MWV O 14: 1. Allegro molto appassionato",
       "url": "https://open.spotify.com/track/4Ivo07fh9EyPtPinrxXlC4"
@@ -6814,7 +6814,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 730666,
       "name": "Violin Concerto In E Minor, Op.64, MWV O14: 1. Allegro molto appassionato",
       "url": "https://open.spotify.com/track/2mPd1593fOWtbSGqA0VVcS"
@@ -6844,10 +6844,40 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 473893,
       "name": "Violin Concerto No. 1 in G minor, Op. 26: 1. Vorspiel (Allegro moderato)",
       "url": "https://open.spotify.com/track/2kWBaubfvDNKmrHjWMhllH"
+    },
+    {
+      "album": {
+        "name": "Bruch & Dvorak Violin Concertos",
+        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Julia Fischer",
+          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473893,
+      "name": "Violin Concerto No. 1 in G minor, Op. 26: 1. Vorspiel (Allegro moderato)",
+      "url": "https://open.spotify.com/track/3uLsZpdHrJsR9AjrrxMI66"
     },
     {
       "album": {
@@ -6937,36 +6967,6 @@
     },
     {
       "album": {
-        "name": "Bruch & Dvorak Violin Concertos",
-        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
-      },
-      "artists": [
-        {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Julia Fischer",
-          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
-        },
-        {
-          "name": "Tonhalle Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 473893,
-      "name": "Violin Concerto No.1 in G minor, Op.26: 1. Vorspiel (Allegro moderato)",
-      "url": "https://open.spotify.com/track/3uLsZpdHrJsR9AjrrxMI66"
-    },
-    {
-      "album": {
         "name": "French Impressions",
         "url": "https://open.spotify.com/album/5FUPAG4ZjlOSJf0t3uITB7"
       },
@@ -7008,7 +7008,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237960,
       "name": "Widmung, Op. 25 No. 1",
       "url": "https://open.spotify.com/track/2ml2xRwuFLv7NtDPzyssfL"

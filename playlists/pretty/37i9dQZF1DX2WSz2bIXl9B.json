@@ -1,13 +1,542 @@
 {
   "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: Somos Estupendas, Sof\u00e1 manta y crimen, Radio La Pera, La placita amarilla,  Coquetas y bravas.\n",
-  "num_followers": 3402,
+  "num_followers": 3403,
   "original_name": "RADAR Podcasters Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "MTcwNTkxNzI5MiwwMDAwMDAwMDgxZjQ3YTI3NmE5M2U4MmUxZjg3Nzk3NDkzMDIzYzcz",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2024-01-22 09:51:27",
+      "album": {
+        "name": "Radio La Pera",
+        "url": "https://open.spotify.com/album/1dFgIzX4ApzkKigwlWbTVA"
+      },
+      "artists": [
+        {
+          "name": "Radio La Pera",
+          "url": "https://open.spotify.com/show/1dFgIzX4ApzkKigwlWbTVA"
+        }
+      ],
+      "duration_ms": 5228137,
+      "name": "Nos han hecho unfollow | Radio La Pera 2x06",
+      "url": "https://open.spotify.com/episode/2XhU542Ev1E0KrvnedKRyQ"
+    },
+    {
+      "added_at": "2024-01-22 09:51:27",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 2787754,
+      "name": "2x18 El brujo del Moquinal & Pogo El payaso",
+      "url": "https://open.spotify.com/episode/6822hT1dicXPUDYH1ISBlD"
+    },
+    {
+      "added_at": "2024-01-22 09:51:27",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 2491776,
+      "name": "Autoexigencia y perfeccionismo con @arethafuste | Ep.147",
+      "url": "https://open.spotify.com/episode/23Y0jR3oMAliwJ7JFEN4Hl"
+    },
+    {
+      "added_at": "2024-01-22 09:51:27",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 9593704,
+      "name": "1X27. SR CHEETO | \u00bfQu\u00e9 pas\u00f3 con Yo Interneto? La cultura de la cancelaci\u00f3n",
+      "url": "https://open.spotify.com/episode/2a7IzJzKjmz4YvLjyEBvFw"
+    },
+    {
+      "added_at": "2024-01-22 09:51:27",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 5543800,
+      "name": "Operaci\u00f3n Triunfo, recuerdos de la infancia, cumple de Capri | 3x17",
+      "url": "https://open.spotify.com/episode/7hVi6WQhSRVauUoNTHReIL"
+    },
+    {
+      "added_at": "2023-11-16 08:39:01",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 2042240,
+      "name": "Entrevista a Maite Irulegi: \"Dejar ir te empodera porque sabes que te est\u00e1s eligiendo a ti\" | Ep.143",
+      "url": "https://open.spotify.com/episode/11azXihDJQnLt1Gv261BYH"
+    },
+    {
+      "added_at": "2023-11-16 08:39:01",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 9090925,
+      "name": "1x21. ALBA MORENO - FISICAMR | \"El tiempo no existe, es una ilusi\u00f3n humana\"",
+      "url": "https://open.spotify.com/episode/0Fw63Z7NEUf8t5xB8tqaus"
+    },
+    {
+      "added_at": "2023-11-16 08:39:01",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 6714261,
+      "name": "Discusiones entre amigas, fans por la calle, hijos veganos | Coquetas y Bravas 3x10",
+      "url": "https://open.spotify.com/episode/20sAh4HPpbToCkSZqH8KIy"
+    },
+    {
+      "added_at": "2023-11-16 08:39:01",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 2540053,
+      "name": "2x10 El Asesino de la Baraja & Yiya Murano",
+      "url": "https://open.spotify.com/episode/3B0f8ncFsHStNYvJmYe9EU"
+    },
+    {
+      "added_at": "2023-10-17 08:04:39",
+      "album": {
+        "name": "Radio La Pera",
+        "url": "https://open.spotify.com/album/1dFgIzX4ApzkKigwlWbTVA"
+      },
+      "artists": [
+        {
+          "name": "Radio La Pera",
+          "url": "https://open.spotify.com/show/1dFgIzX4ApzkKigwlWbTVA"
+        }
+      ],
+      "duration_ms": 3591662,
+      "name": "Cansados de fingir ser listos | Radio La Pera Limonera",
+      "url": "https://open.spotify.com/episode/2j1qg879rc42Cjij16THVU"
+    },
+    {
+      "added_at": "2023-11-09 14:28:10",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 2771136,
+      "name": "2x09 Anneliese Michel & Peter Porco",
+      "url": "https://open.spotify.com/episode/3uXox1Ndlx9rYgksJy6KxK"
+    },
+    {
+      "added_at": "2023-11-09 14:28:10",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 6882951,
+      "name": "1x20. CHARLIE SARRIA, EXPERTO EN TIBURONES | \"Me qued\u00e9 sin ox\u00edgeno a 20 metros\"",
+      "url": "https://open.spotify.com/episode/060sgZ37oD4VVBsbpUGrW2"
+    },
+    {
+      "added_at": "2023-11-09 14:28:10",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 6388441,
+      "name": "El viejo cul\u00f3n, OT 2017, escapada a Toledo | Coquetas y Bravas 3x09",
+      "url": "https://open.spotify.com/episode/660ozH4u0WCiaL7mlF82y6"
+    },
+    {
+      "added_at": "2023-11-09 14:28:10",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 1558165,
+      "name": "Las heridas de la infancia | Ep.142",
+      "url": "https://open.spotify.com/episode/2x1774eXuzGRCxDTkWV253"
+    },
+    {
+      "added_at": "2023-10-17 08:04:39",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 1942528,
+      "name": "\"La adopci\u00f3n es trauma y duelo\" | Ep. 139",
+      "url": "https://open.spotify.com/episode/10PVVSi4DXFWYlccFmgqCi"
+    },
+    {
+      "added_at": "2023-10-17 08:04:39",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 2524437,
+      "name": "2x06 James Bulger & Las Gemelas Vazquez",
+      "url": "https://open.spotify.com/episode/0q3L0xiHjpVabVoXXwxGs5"
+    },
+    {
+      "added_at": "2023-10-17 08:04:39",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 5215957,
+      "name": "Presentaciones, mansplaining perruno, adi\u00f3s abono joven, | Coquetas y Bravas 3x05",
+      "url": "https://open.spotify.com/episode/5A6ocVIOiWT0oL7qQnMYgX"
+    },
+    {
+      "added_at": "2023-10-17 08:04:39",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 8668055,
+      "name": "1x17. ANDONI | \"Los influencers de fitness m\u00e1s conocidos usan qu\u00edmica\"",
+      "url": "https://open.spotify.com/episode/2RZOb93KJqM2JefyVOSYkK"
+    },
+    {
+      "added_at": "2023-10-11 08:33:16",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 6062367,
+      "name": "1x16. ABBY | \"La gente pensaba que me fui a Andorra a evadir impuestos\"",
+      "url": "https://open.spotify.com/episode/0lx7UUpTnYI3EYokyUIS7E"
+    },
+    {
+      "added_at": "2023-10-11 08:33:16",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 5637015,
+      "name": "Enfermas grumpies, cortes de pelo, la movida de comer | Coquetas y Bravas 3x04",
+      "url": "https://open.spotify.com/episode/6lYIZ2r52FH3fEyzshXUJN"
+    },
+    {
+      "added_at": "2023-10-11 08:33:16",
+      "album": {
+        "name": "Radio La Pera",
+        "url": "https://open.spotify.com/album/1dFgIzX4ApzkKigwlWbTVA"
+      },
+      "artists": [
+        {
+          "name": "Radio La Pera",
+          "url": "https://open.spotify.com/show/1dFgIzX4ApzkKigwlWbTVA"
+        }
+      ],
+      "duration_ms": 4294159,
+      "name": "\"No s\u00e9 decir que no\" | Radio La Pera Limonera",
+      "url": "https://open.spotify.com/episode/4G5gaY4LO2kUql88MHS0iI"
+    },
+    {
+      "added_at": "2023-10-11 08:33:16",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 2896746,
+      "name": "2x05 Natalia Grace & Nevada-tan",
+      "url": "https://open.spotify.com/episode/2mDObNbpjpwHHWikpVgx1i"
+    },
+    {
+      "added_at": "2023-10-11 08:33:16",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 1825322,
+      "name": "T\u00e9cnicas de resoluci\u00f3n de conflictos | Ep.138",
+      "url": "https://open.spotify.com/episode/1YeqrB4MerU6FyFDDMQiei"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 2255445,
+      "name": "Vivir con ansiedad | Ep. 116",
+      "url": "https://open.spotify.com/episode/5gej4jd0ITF8CoXLBvgL2x"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Radio La Pera",
+        "url": "https://open.spotify.com/album/1dFgIzX4ApzkKigwlWbTVA"
+      },
+      "artists": [
+        {
+          "name": "Radio La Pera",
+          "url": "https://open.spotify.com/show/1dFgIzX4ApzkKigwlWbTVA"
+        }
+      ],
+      "duration_ms": 5165460,
+      "name": "Sobre la virginidad | Radio La Pera 1x05",
+      "url": "https://open.spotify.com/episode/78r5M5bLVEzw8JNMxosBJp"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 4962861,
+      "name": "Mear de rodillas, monarqu\u00eda inglesa y pajas entre colegas | Coquetas y Bravas 1x03",
+      "url": "https://open.spotify.com/episode/6ifSrFJlQHpVO93pFRn45x"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 3563776,
+      "name": "2x02 Charles Cullen & Remedios Sanchez",
+      "url": "https://open.spotify.com/episode/6TJragnGfXtScV9LIkY99O"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 9697724,
+      "name": "1x12. MASI | \"La sobreexposici\u00f3n me est\u00e1 afectando\"",
+      "url": "https://open.spotify.com/episode/7M5vs2XfoxELpTvnreLTce"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 2577738,
+      "name": "1x21 El asesino de la Katana & El exorcismo de Almansa",
+      "url": "https://open.spotify.com/episode/7ck78Kf7lvzvLwBFcZNMDr"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 2274496,
+      "name": "Inestabilidad emocional: \u00bfc\u00f3mo gestiono mis emociones? | Ep. 108",
+      "url": "https://open.spotify.com/episode/39RPrS8tMQ0bsIpEgtNzfu"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 10899644,
+      "name": "1X07. ILLOJUAN | \"Quiero tomar Twitch y los directos como un hobby\"",
+      "url": "https://open.spotify.com/episode/2zk3CfmTtQ6Ny7aoQOPLp1"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Radio La Pera",
+        "url": "https://open.spotify.com/album/1dFgIzX4ApzkKigwlWbTVA"
+      },
+      "artists": [
+        {
+          "name": "Radio La Pera",
+          "url": "https://open.spotify.com/show/1dFgIzX4ApzkKigwlWbTVA"
+        }
+      ],
+      "duration_ms": 6191020,
+      "name": "Ser joven en la era de internet | Radio La Pera 1x19",
+      "url": "https://open.spotify.com/episode/2vs5BwBCTL4uC3Hnbmryj1"
+    },
+    {
+      "added_at": "2023-10-05 05:16:49",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 5507384,
+      "name": "Ser una pringada, fiestas de empresa, Pdr Snchz y su barba| Coquetas y Bravas 2x05",
+      "url": "https://open.spotify.com/episode/26c2y1nbuOtoXQdQ2AaEzG"
+    }
+  ],
   "unique_name": "RADAR Podcasters Espa\u00f1a",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B"
 }

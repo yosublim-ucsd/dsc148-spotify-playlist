@@ -4,7 +4,7 @@
 
 > ¡Canciones para sonreír durante el día seleccionadas por Caloncho! 🌻
 
-159 songs - 9 hr 11 min
+160 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2021-11-26 | 2024-03-23 |
 | [Dulce Pa' Mí](https://open.spotify.com/track/1NU1H9woXBAeu31yHSrw6u) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [Dulce Pa' Mí](https://open.spotify.com/album/4sb1Sjex902EaMNRHvY5eO) | 2:33 | 2021-11-26 | 2024-03-23 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-08-29 | 2024-03-23 |
-| [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2024-03-22 |  |
+| [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2024-03-22 | 2024-04-19 |
+| [El Palomito](https://open.spotify.com/track/2a1XHa182p1xnineorh0jB) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Exitos Originales](https://open.spotify.com/album/69v2wJSvgM28Ig46Lp8Z2f) | 3:19 | 2024-03-22 |  |
 | [Ella Es Mía](https://open.spotify.com/track/3UfC3MPrfQPU0JZMPvwXYJ) | [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Abed Nego \- Reggae Classics en Español, Vol\. 1](https://open.spotify.com/album/1kmXlZG4qjhUWExceDGpiw) | 3:45 | 2024-03-22 |  |
 | [Energía](https://open.spotify.com/track/4gVsC6cmPuF2tBMcm0DfoZ) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Energía](https://open.spotify.com/album/0XW7CLD5UPOKwoAqV28Qeq) | 3:36 | 2021-11-26 | 2024-03-23 |
 | [Fence Me In](https://open.spotify.com/track/2eiST85lwbXZb2AyGR1tlH) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Legao](https://open.spotify.com/album/20miVEKSd4rROeopXZr831) | 3:10 | 2024-03-22 |  |

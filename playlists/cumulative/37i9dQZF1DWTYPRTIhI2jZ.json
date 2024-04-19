@@ -402,7 +402,7 @@
     {
       "album": {
         "name": "Sounds Within",
-        "url": "https://open.spotify.com/album/5jtVJUMHXAzZzUpT8HVkcP"
+        "url": "https://open.spotify.com/album/4er746XFD0CI3ST5Vf5mQX"
       },
       "artists": [
         {
@@ -413,6 +413,24 @@
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 358200,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/1U7tWom0onFzD211UXIVhM"
+    },
+    {
+      "album": {
+        "name": "Sounds Within",
+        "url": "https://open.spotify.com/album/5jtVJUMHXAzZzUpT8HVkcP"
+      },
+      "artists": [
+        {
+          "name": "Elegia",
+          "url": "https://open.spotify.com/artist/14iFADA4IWhWbfXeohSDbQ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 358200,
       "name": "Basic",
       "url": "https://open.spotify.com/track/5K2VkgNtI2ONyCtdEsUBp6"
@@ -2666,10 +2684,40 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 425893,
       "name": "Island Breeze - Trentem\u00f8ller Mix",
       "url": "https://open.spotify.com/track/2DZjpzHSJPoujWJ4GLvwoj"
+    },
+    {
+      "album": {
+        "name": "Island Breeze",
+        "url": "https://open.spotify.com/album/50ZvsarPmGwli4jhSvDWGF"
+      },
+      "artists": [
+        {
+          "name": "Kid Massive",
+          "url": "https://open.spotify.com/artist/3Wq3JblaHx1jlVWTbdzGvC"
+        },
+        {
+          "name": "Raoul",
+          "url": "https://open.spotify.com/artist/0yywetg3dHDMT1R6NzoS2E"
+        },
+        {
+          "name": "Ijeoma",
+          "url": "https://open.spotify.com/artist/65zJ4aejV1IkPtteSBaTgb"
+        },
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425893,
+      "name": "Island Breeze - Trentem\u00f8ller Mix",
+      "url": "https://open.spotify.com/track/41WjLMpoFA95oMHD7FI4XM"
     },
     {
       "album": {
@@ -2800,10 +2848,28 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341026,
       "name": "Junk Funk",
       "url": "https://open.spotify.com/track/2ApUcfZ3olSRxyoPT4w2kA"
+    },
+    {
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/1MmLQhLGzRsPID8qeGdE2n"
+      },
+      "artists": [
+        {
+          "name": "Vegas Soul",
+          "url": "https://open.spotify.com/artist/6ls5pTXRJYJWSGoktFKnVj"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340680,
+      "name": "Junk Funk",
+      "url": "https://open.spotify.com/track/61kLd9fYdDDNR3MmsaPK8X"
     },
     {
       "album": {
@@ -2967,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Live Your Life With Me",
+        "url": "https://open.spotify.com/album/3COtCzoJGJzWPMsuQoErUU"
+      },
+      "artists": [
+        {
+          "name": "Corrina Joseph",
+          "url": "https://open.spotify.com/artist/4U8tctx9dLNEwTm7PTnEjy"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516266,
+      "name": "Live Your Life With Me - Narcotic Dub",
+      "url": "https://open.spotify.com/track/2q2Zj3J15BxdGAm03OBync"
+    },
+    {
+      "album": {
         "name": "Live Your Life with Me",
         "url": "https://open.spotify.com/album/14S3gw7V91gTar2nA2KaHZ"
       },
@@ -2978,7 +3062,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 516266,
       "name": "Live Your Life With Me - Narcotic Dub",
       "url": "https://open.spotify.com/track/5oqk3l9oPDO8V0hqUdeVP5"
@@ -3171,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Kitsun\u00e9: Man with Guitar",
+        "url": "https://open.spotify.com/album/52d1vBv9dacplnbsaNfbHj"
+      },
+      "artists": [
+        {
+          "name": "Man With Guitar",
+          "url": "https://open.spotify.com/artist/2kAN180iKI5DJbyksuTnE0"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358360,
+      "name": "Man with Guitar",
+      "url": "https://open.spotify.com/track/4xzhj6GQTiVJqFVIomBgxd"
+    },
+    {
+      "album": {
         "name": "Man with Guitar",
         "url": "https://open.spotify.com/album/1oOESBEBhi3uJ7jPyImkhY"
       },
@@ -3182,7 +3284,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 358360,
       "name": "Man with Guitar",
       "url": "https://open.spotify.com/track/53p0TinwZZ3KGhmMRwJftz"

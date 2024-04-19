@@ -284,7 +284,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214269,
       "name": "En Manasa Kalachale",
       "url": "https://open.spotify.com/track/014UeXeHR9DeqZiQZx9FZW"
@@ -296,17 +296,13 @@
       },
       "artists": [
         {
-          "name": "Manoj Kumar.M",
-          "url": "https://open.spotify.com/artist/3HF2g6nt0a3ZX6oZ8gO3gT"
-        },
-        {
-          "name": "Sibhi",
-          "url": "https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD"
+          "name": "Manoj Kumar.M, Sibhi",
+          "url": "https://open.spotify.com/artist/5GKDMTkfivrBS17gPP6h0b"
         }
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 214269,
       "name": "En Manasa Kalachale",
       "url": "https://open.spotify.com/track/6MpPuw9ZJjRwty1QuiyloN"
@@ -438,10 +434,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231924,
       "name": "Hey Singari",
       "url": "https://open.spotify.com/track/3BY6Ez06AcR1MO2KljC1QC"
+    },
+    {
+      "album": {
+        "name": "Hey Singari",
+        "url": "https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts"
+      },
+      "artists": [
+        {
+          "name": "Arul Raj",
+          "url": "https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231924,
+      "name": "Hey Singari",
+      "url": "https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv"
     },
     {
       "album": {
@@ -489,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Kaadhalae Thalli Pogadhae - Single",
+        "url": "https://open.spotify.com/album/3ctUBiDN7Wibe8uT6yBmf8"
+      },
+      "artists": [
+        {
+          "name": "Aswath Ajith",
+          "url": "https://open.spotify.com/artist/4C56AkIkyjcnR9rB94c6Nz"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190183,
+      "name": "Kaadhalae Thalli Pogadhae",
+      "url": "https://open.spotify.com/track/7Ig3FFPdw2saocwylElPVx"
+    },
+    {
+      "album": {
         "name": "Kaadhalae Thalli Pogadhae",
         "url": "https://open.spotify.com/album/7mRoK0kbC9SKdaqXiYE5Wa"
       },
@@ -500,7 +536,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190183,
       "name": "Kaadhalae Thalli Pogadhae",
       "url": "https://open.spotify.com/track/1Af3YD9ZL83s9hYMk3s8HX"
@@ -594,7 +630,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224470,
       "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
       "url": "https://open.spotify.com/track/28xBzzDqiX1oieW4RTxtZ5"
@@ -620,7 +656,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 224470,
       "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
       "url": "https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd"
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210104,
       "name": "Nin Kannil - Ambient Version (feat. Nikhil Mathew)",
       "url": "https://open.spotify.com/track/2wRLunksIKll4stq6xZNoY"
@@ -1192,21 +1228,13 @@
       },
       "artists": [
         {
-          "name": "Aditya Ramkumar",
-          "url": "https://open.spotify.com/artist/7geUhmzRoB8LJUGtrnyacf"
-        },
-        {
-          "name": "Vishal - Aditya",
-          "url": "https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT"
-        },
-        {
-          "name": "Vishal Ramakrishnan",
-          "url": "https://open.spotify.com/artist/1KSeWs9MdFRE8H5jDa3ojg"
+          "name": "Vishal-Aditya,Vishal Ramakrishnan",
+          "url": "https://open.spotify.com/artist/5PxoZ7gW7rGidm9Kpd4JXn"
         }
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 210104,
       "name": "Nin Kannin - Ambient Version",
       "url": "https://open.spotify.com/track/5Vu4diOCD4PPirW1uK7g40"
@@ -1302,7 +1330,7 @@
     {
       "album": {
         "name": "Po Po Yen - Single",
-        "url": "https://open.spotify.com/album/09GPze3xA8OTTXJVflbstY"
+        "url": "https://open.spotify.com/album/4lRcrxaljMocjoJkQiWjzP"
       },
       "artists": [
         {
@@ -1317,6 +1345,28 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 246986,
+      "name": "Po Po Yen",
+      "url": "https://open.spotify.com/track/31qVBkJJd48frcwBgIkBqF"
+    },
+    {
+      "album": {
+        "name": "Po Po Yen - Single",
+        "url": "https://open.spotify.com/album/09GPze3xA8OTTXJVflbstY"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "A H Kaashif",
+          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 246986,
       "name": "Po Po Yen",
       "url": "https://open.spotify.com/track/6Q5Qwg86SsmUhlWlVFc1Le"
@@ -1572,10 +1622,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339442,
       "name": "Usuraiya Tholaichaen",
       "url": "https://open.spotify.com/track/12D1SCxBRDjbROUa5GQkf1"
+    },
+    {
+      "album": {
+        "name": "Usuraiya Tholaichaen",
+        "url": "https://open.spotify.com/album/18SW4drLNNIyFyaPmf1wGi"
+      },
+      "artists": [
+        {
+          "name": "Stephen Zechariah",
+          "url": "https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG"
+        },
+        {
+          "name": "Pragathi Guruprasad",
+          "url": "https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339503,
+      "name": "Usuraiya Tholaichaen",
+      "url": "https://open.spotify.com/track/2rQBXXubpc4vSztWADytxc"
     },
     {
       "album": {

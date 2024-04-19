@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:4pwGjEvQsgeFE27Sk31r7I\">Transformation Worship</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236404,
       "name": "All of the Glory - Radio Edit",
       "url": "https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255047,
       "name": "Always (Father I Trust You) - Live",
       "url": "https://open.spotify.com/track/6cDXh0bXke7O8tLKevbSxG"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 255047,
       "name": "Always (Father I Trust You) - Live",
       "url": "https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut"
@@ -844,6 +844,24 @@
     {
       "album": {
         "name": "Chapter X: See The Goodness",
+        "url": "https://open.spotify.com/album/6iP0DlL8708D8nNiTeSC6H"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286263,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/1sYoZAvZsS7fmrwWieTz9q"
+    },
+    {
+      "album": {
+        "name": "Chapter X: See The Goodness",
         "url": "https://open.spotify.com/album/2rYt6wbQu2xdts8lKYvRrH"
       },
       "artists": [
@@ -854,7 +872,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286263,
       "name": "Battle",
       "url": "https://open.spotify.com/track/3pyxDOeBvwTiue0BOpob1K"
@@ -1372,6 +1390,24 @@
     {
       "album": {
         "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298050,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c"
+    },
+    {
+      "album": {
+        "name": "Come Jesus Come",
         "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
       },
       "artists": [
@@ -1382,7 +1418,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298050,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
@@ -2843,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "I Got Away",
+        "url": "https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347990,
+      "name": "He Came Through (PMJ Trap Praise Break)",
+      "url": "https://open.spotify.com/track/5H3JXipTNglmYN6GczFHVj"
+    },
+    {
+      "album": {
         "name": "He Can Handle It (Live)",
         "url": "https://open.spotify.com/album/1GzTFUmq8Kd3f6j3IZosN7"
       },
@@ -3259,6 +3313,32 @@
     },
     {
       "album": {
+        "name": "Help Me (Live)",
+        "url": "https://open.spotify.com/album/4Y9GK9A0dCcwYNnQekeSos"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Evans & Renew\u2019d",
+          "url": "https://open.spotify.com/artist/0ztWgllgVHTaStstSvoosF"
+        },
+        {
+          "name": "Jamal Roberts",
+          "url": "https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg"
+        },
+        {
+          "name": "Tyler Little",
+          "url": "https://open.spotify.com/artist/2eu7LaS3mC5CHE8hGbCJOX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429986,
+      "name": "Help Me - Live",
+      "url": "https://open.spotify.com/track/2m7eTXWOfC19aMwK1dqUZP"
+    },
+    {
+      "album": {
         "name": "Help My Unbelief",
         "url": "https://open.spotify.com/album/33zXQpDDvEeeOAo56CK0WC"
       },
@@ -3270,7 +3350,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 276427,
       "name": "Help My Unbelief",
       "url": "https://open.spotify.com/track/49QfFQkp1ulRJmCaVBX2Ca"
@@ -3288,7 +3368,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276427,
       "name": "Help My Unbelief",
       "url": "https://open.spotify.com/track/5CMwzT512KRhxgw0OuHDu1"
@@ -3537,6 +3617,46 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/01k2HpcTyskg6kgU6cAq1w"
+      },
+      "artists": [
+        {
+          "name": "Keyla Richardson",
+          "url": "https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236003,
+      "name": "Home - Radio Edit",
+      "url": "https://open.spotify.com/track/5CKIHOvdEwa7KC7U8rrswe"
+    },
+    {
+      "album": {
+        "name": "Testimony Service (Live)",
+        "url": "https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0"
+      },
+      "artists": [
+        {
+          "name": "Randy Weston",
+          "url": "https://open.spotify.com/artist/6Cx6WhEWHJWPeiFspDCwDR"
+        },
+        {
+          "name": "Judah Band",
+          "url": "https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249404,
+      "name": "Hosanna (Blessed Be The Rock) - Live",
+      "url": "https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof"
+    },
+    {
+      "album": {
         "name": "House of the Lord",
         "url": "https://open.spotify.com/album/3ZyVz0tykiXHBpkRN5x6yy"
       },
@@ -3620,7 +3740,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 347166,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3MXe7rfZlSxth92oEhzP9c"
@@ -3638,7 +3758,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347166,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7lwresPIdcakDrANA7ErOA"
@@ -3888,7 +4008,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367306,
       "name": "I See Good",
       "url": "https://open.spotify.com/track/3d1ZDOFoNd6ruROmgrgdK8"
@@ -3906,7 +4026,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 367306,
       "name": "I See Good",
       "url": "https://open.spotify.com/track/7ICspKZzvN08ubrSticzeo"
@@ -4260,7 +4380,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233766,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW"
@@ -4322,7 +4442,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 221749,
       "name": "In My Name - Radio Edit",
       "url": "https://open.spotify.com/track/15w0pp8cDjI99gs2lAPsOY"
@@ -4340,10 +4460,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221749,
       "name": "In My Name - Radio Edit",
       "url": "https://open.spotify.com/track/7eIdt5l9ouZwCuox8ZOufQ"
+    },
+    {
+      "album": {
+        "name": "On God (Deluxe)",
+        "url": "https://open.spotify.com/album/3Vs240nBf77WCUiuEt4uHg"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153277,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/1U7lTpzMzmhspBP3892Gmy"
     },
     {
       "album": {
@@ -4614,7 +4752,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328709,
       "name": "Jesus Christ Is Lord",
       "url": "https://open.spotify.com/track/2bOSk8YuxG0Bym3M4tmZgF"
@@ -5314,10 +5452,36 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208000,
       "name": "Love Is U",
       "url": "https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu"
+    },
+    {
+      "album": {
+        "name": "Love it All",
+        "url": "https://open.spotify.com/album/46sVbAB7JHfIMLgAxu2eZs"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Dia Day",
+          "url": "https://open.spotify.com/artist/1VlVqLddJC57GJqavMynQ6"
+        },
+        {
+          "name": "Dedani",
+          "url": "https://open.spotify.com/artist/0nWi63z95UXZNmC3wurMfP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197641,
+      "name": "Love it All",
+      "url": "https://open.spotify.com/track/6o31q8H6s4AnIGqw88kQ7N"
     },
     {
       "album": {
@@ -5744,7 +5908,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236000,
       "name": "Miracles Signs & Wonders - Radio Edit",
       "url": "https://open.spotify.com/track/7HUpfDG2preBwTYBkRC20b"
@@ -5762,7 +5926,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Miracles Signs & Wonders - Radio Edit",
       "url": "https://open.spotify.com/track/7uxkNadLgW6di2LPOPUX2L"
@@ -6718,7 +6882,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242823,
       "name": "Planted",
       "url": "https://open.spotify.com/track/5E6lx3w4GqLbKPKQrYyFIn"
@@ -6864,7 +7028,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275620,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/5WowSj4txQLAl48zdUQSZP"
@@ -6882,7 +7046,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 275620,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/6YlAikG2vnFgcMO4tfijub"
@@ -6972,10 +7136,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 453689,
       "name": "Revival Medley",
       "url": "https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO"
+    },
+    {
+      "album": {
+        "name": "Revival Medley",
+        "url": "https://open.spotify.com/album/1gMmy9RnRInV3WCXBLfpuF"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453689,
+      "name": "Revival Medley",
+      "url": "https://open.spotify.com/track/4ZAdZMMuBlCNNjWGWV6viA"
     },
     {
       "album": {
@@ -7842,7 +8024,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 431265,
       "name": "Tell 'Em Yes - Live",
       "url": "https://open.spotify.com/track/1YqC5VYiLVxOIYId3MPOly"
@@ -7868,7 +8050,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 431265,
       "name": "Tell 'Em Yes - Live",
       "url": "https://open.spotify.com/track/31wgNbo7TK6cMH9GRJJrY8"
@@ -8538,7 +8720,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252879,
       "name": "To Worship You",
       "url": "https://open.spotify.com/track/7lYb03C6Fvli51HYEGGHFJ"
@@ -8706,6 +8888,24 @@
     {
       "album": {
         "name": "Up Up Up",
+        "url": "https://open.spotify.com/album/0CylFxmZ1kFfUKmkyemBb7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208672,
+      "name": "Up Up Up - Single Version",
+      "url": "https://open.spotify.com/track/08Gac8vZ7kfxJSkDXFqXa8"
+    },
+    {
+      "album": {
+        "name": "Up Up Up",
         "url": "https://open.spotify.com/album/1Dynwt6R6gEX1o4iS1T153"
       },
       "artists": [
@@ -8716,7 +8916,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208672,
       "name": "Up Up Up - Single Version",
       "url": "https://open.spotify.com/track/4VKw12aRDfkgO6ByHdsUWq"
@@ -9094,7 +9294,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 499448,
       "name": "We Adore You - Live",
       "url": "https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE"
@@ -9120,7 +9320,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 499448,
       "name": "We Adore You - Live",
       "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
@@ -9636,7 +9836,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 299224,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/0b0LHkoM7MlK1owCllWXan"
@@ -9658,7 +9858,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299224,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/5gUupwXAfesFedvF7mwhS2"
@@ -9687,6 +9887,28 @@
     },
     {
       "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0ddPHmRdbTS08fQWu8be5w"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648600,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/7CYsFTShQRUWE6ngFI2ph5"
+    },
+    {
+      "album": {
         "name": "Yahweh (feat. Melvin Crispell III)",
         "url": "https://open.spotify.com/album/3S9zXJEffxC6wifOimpH4d"
       },
@@ -9702,7 +9924,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 648600,
       "name": "Yahweh (feat. Melvin Crispell III)",
       "url": "https://open.spotify.com/track/2tEy4qY15zdIGP5N93KyO4"

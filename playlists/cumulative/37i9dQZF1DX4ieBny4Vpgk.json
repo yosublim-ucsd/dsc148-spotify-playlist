@@ -574,10 +574,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293973,
       "name": "Chicago Blues",
       "url": "https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy"
+    },
+    {
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Chicago Blues",
+      "url": "https://open.spotify.com/track/0XA8HGtG7ypDQVdv1utqtP"
     },
     {
       "album": {
@@ -1116,10 +1138,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332262,
       "name": "I Am What I Am",
       "url": "https://open.spotify.com/track/2yNAX7gJ7d8jInRnXtINEE"
+    },
+    {
+      "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332262,
+      "name": "I Am What I Am",
+      "url": "https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8"
     },
     {
       "album": {
@@ -1356,40 +1396,6 @@
     {
       "album": {
         "name": "Conjuring",
-        "url": "https://open.spotify.com/album/5fBQi90drFsrA3seUJlw3b"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        }
-      ],
-      "date_added": "2023-11-29",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
-      "duration_ms": 185296,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1lSVaS9kpEO1hSMQcjPGpN"
-    },
-    {
-      "album": {
-        "name": "Conjuring",
         "url": "https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X"
       },
       "artists": [
@@ -1416,10 +1422,44 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185296,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5HkkshNeJCmfEwUI06wbTZ"
+    },
+    {
+      "album": {
+        "name": "Conjuring",
+        "url": "https://open.spotify.com/album/5fBQi90drFsrA3seUJlw3b"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185296,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1lSVaS9kpEO1hSMQcjPGpN"
     },
     {
       "album": {
@@ -1530,7 +1570,7 @@
     {
       "album": {
         "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/5Jbs3q02uedHLy8QVbZzmk"
+        "url": "https://open.spotify.com/album/0qshBfZ7c1fQLjr8fIAROW"
       },
       "artists": [
         {
@@ -1541,6 +1581,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177214,
+      "name": "If I Didn't Care",
+      "url": "https://open.spotify.com/track/3wZWkqbqKCyJwBYv35Pyh6"
+    },
+    {
+      "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/5Jbs3q02uedHLy8QVbZzmk"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 177214,
       "name": "If I Didn't Care",
       "url": "https://open.spotify.com/track/73VnXjXnvO3mjR6S7U6ud8"
@@ -2522,10 +2580,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330240,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/29MVxLGiyZNXIqyjnTv8pK"
+    },
+    {
+      "album": {
+        "name": "Your Requests",
+        "url": "https://open.spotify.com/album/5ZKGvXVoKyatuwZaaOSkNB"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330240,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/5SJgT8054Lwgb8zhkGLFHx"
     },
     {
       "album": {
@@ -2612,10 +2692,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
     },
     {
       "album": {

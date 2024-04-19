@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Kim Na Young\(김나영\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,194 songs - 3 day 5 hr 22 min
+1,195 songs - 3 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,11 +546,12 @@
 | [Leave](https://open.spotify.com/track/77mtDpjG5MXCqqY4NusYgW) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/43wpzZRIko2hqhjZMkR32n) | 4:51 | 2022-02-25 | 2022-04-11 |
 | [Let's break up \(2022\)](https://open.spotify.com/track/3SSX55BjRYW4Qal3wnfR5I) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Let's break up \(2022\)](https://open.spotify.com/album/2OexZPJLBuWflTSkB3d9Dt) | 4:06 | 2022-12-16 | 2023-01-21 |
 | [Let's End It Here](https://open.spotify.com/track/1QKgKxIn9AjgOXjq7OhFMN) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Let's End It Here](https://open.spotify.com/album/5qUpfQ1O0Y70ibRHKXgBBr) | 3:36 | 2022-06-08 | 2022-08-13 |
-| [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 | 2023-04-20 |  |
+| [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 | 2023-04-20 | 2024-04-19 |
 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 | 2023-07-07 | 2023-12-14 |
 | [Letter To The Sky](https://open.spotify.com/track/72dQcV33Ssp7lKU8b9bCHU) | [Andnew](https://open.spotify.com/artist/292GXpdx9IglUfxrfvh2l9) | [Letter To The Sky](https://open.spotify.com/album/69wQyItYqJpRwT3cfvG0zX) | 4:32 | 2023-02-24 | 2023-04-27 |
 | [Letting go](https://open.spotify.com/track/710NqCm6L83EHgBM918bSt) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [SAEBYEOK.UHGUI](https://open.spotify.com/album/6rF6nN1A6krBUHpnc0vsUs) | 3:58 | 2022-03-31 | 2022-04-13 |
 | [Let’s Breathe for a While](https://open.spotify.com/track/26haC2I4xS8KIqPMZVHEIO) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [maum.ondo 36.5 Part.1](https://open.spotify.com/album/3iX2cNfIPF5uUAelM4dQNj) | 4:40 | 2024-03-20 |  |
+| [Let’s Say Goodbye](https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/2gExd6MximoW6GNvG7tw5D) | 4:03 | 2024-04-15 |  |
 | [Lifetime](https://open.spotify.com/track/2QGAi0XJUCowVqPlnIAoMk) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/38sPcF1CXr9lkLCI4AIIFY) | 4:06 | 2023-01-20 | 2023-02-25 |
 | [LIGHT](https://open.spotify.com/track/5wZsoZu6pIO7QYtnZhy7iS) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [LIGHT](https://open.spotify.com/album/5sb137DVbWJeiO8wlk0o2A) | 3:33 | 2022-08-12 | 2022-11-23 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2022-12-27 |

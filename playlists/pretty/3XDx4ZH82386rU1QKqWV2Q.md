@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,967 likes - 143 songs - 5 hr 41 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,077,106 likes - 143 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 111 | [Graveyard Shift](https://open.spotify.com/track/3u0PESn0CxRhmpXeIpHj6c) | [NIK P](https://open.spotify.com/artist/2o874yOIwfz6MuDQMYYCCS) | [Graveyard Shift](https://open.spotify.com/album/1lxwba0YBp1w4dLXRlWPOB) | 5:18 |
 | 112 | [Ты и Я \- TikTok Remix](https://open.spotify.com/track/22sQjY9bOaw2ZaIvD0WXZY) | [Mooney Tunes](https://open.spotify.com/artist/6E0mkX5e82a2mza83653qh), [yeanix](https://open.spotify.com/artist/6tqRPlUavLUI398ZRw7M6e) | [Ты и Я \(TikTok Remix\)](https://open.spotify.com/album/7JGf5iNkvRJXWztNIKLXVm) | 3:02 |
 | 113 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
-| 114 | [Back to the Future Past](https://open.spotify.com/track/7m1Kdayk77cmtwBWxydWpH) | [BlackSaiph](https://open.spotify.com/artist/5lD79Lk9bsPeUyg9URl0s9), [Guantanamo Bae](https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos), [This Saturday](https://open.spotify.com/artist/02xaQQuvJsMy510ovUomPP) | [Back to the Future Past](https://open.spotify.com/album/2jO0JSob7gD52BBptVDzyp) | 3:12 |
+| 114 | [Back to the Futures Past](https://open.spotify.com/track/7m1Kdayk77cmtwBWxydWpH) | [Guantanamo Bae](https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos), [This Saturday](https://open.spotify.com/artist/02xaQQuvJsMy510ovUomPP), [BlackSaiph](https://open.spotify.com/artist/5lD79Lk9bsPeUyg9URl0s9) | [Back to the Futures Past](https://open.spotify.com/album/2jO0JSob7gD52BBptVDzyp) | 3:12 |
 | 115 | [friXion](https://open.spotify.com/track/0Jp6V3dvaKX4G5MJTsqYyX) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [friXion](https://open.spotify.com/album/0KKl3EhaLzoQAarr7E7S7z) | 2:56 |
 | 116 | [Love Me \(ecstazzz Remix\)](https://open.spotify.com/track/7ahabzYSnRJlsozhUgXvaR) | [Zyrex](https://open.spotify.com/artist/33FP9bOTWc2zzSuDnh5O5Q) | [Love Me \(ecstazzz Remix\)](https://open.spotify.com/album/73X5q7MSq6w1dmyEtmtxIb) | 2:07 |
 | 117 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |

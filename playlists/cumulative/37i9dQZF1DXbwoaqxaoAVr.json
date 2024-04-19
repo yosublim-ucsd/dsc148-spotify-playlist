@@ -140,7 +140,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205629,
       "name": "As You Are - Shy FX Remix",
       "url": "https://open.spotify.com/track/1NMgDAdSgLbC58dW5nZfK2"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205629,
       "name": "As You Are - Shy FX Remix",
       "url": "https://open.spotify.com/track/5LBsjW8qNjTpHFPeBoVwca"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230115,
       "name": "Caribbean Plans (Remix)",
       "url": "https://open.spotify.com/track/2NwpY1CMi4LJBNJNEGGd1A"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230115,
       "name": "Caribbean Plans - Remix",
       "url": "https://open.spotify.com/track/2zIkY5vcsW2KoMHqBOmHF9"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201320,
       "name": "Circle of Peace",
       "url": "https://open.spotify.com/track/0NUnfqwO7g4jAijTRhrjGv"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201331,
       "name": "Circle Of Peace",
       "url": "https://open.spotify.com/track/6xqnSKk0vyzp8KhkeKj9oG"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252633,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/2yoxgmN6Z1YHzRkbOk9x5s"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252633,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/4BstuGRgFLQM4Z5OJ1MAwS"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 231603,
       "name": "Every Day (feat. Romain Virgo & Fiji)",
       "url": "https://open.spotify.com/track/2TDczXsQh4YjEo31TJtrN9"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231603,
       "name": "Every Day (feat. Romain Virgo, Fiji)",
       "url": "https://open.spotify.com/track/6MaY1vrV1kgOhUxb0XwfjD"
@@ -857,6 +857,46 @@
     },
     {
       "album": {
+        "name": "UB45",
+        "url": "https://open.spotify.com/album/5i2LoUAn14jJLH1tZ6jNgo"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "Food For Thought",
+      "url": "https://open.spotify.com/track/3YKbh8t03W3XzFR5SNM3Bu"
+    },
+    {
+      "album": {
+        "name": "Get Free",
+        "url": "https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289694,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb"
+    },
+    {
+      "album": {
         "name": "Free The Universe (Extended Version)",
         "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
       },
@@ -894,7 +934,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289973,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW"
@@ -920,28 +960,6 @@
       "duration_ms": 289973,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/5BervU7PHyHTtYpzT3bYAD"
-    },
-    {
-      "album": {
-        "name": "Get Free (feat. Amber of Dirty Projectors)",
-        "url": "https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Amber of Dirty Projectors",
-          "url": "https://open.spotify.com/artist/6ZNxsFRXMi2yGGgOtVZsrr"
-        }
-      ],
-      "date_added": "2021-11-25",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 289694,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb"
     },
     {
       "album": {
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238250,
       "name": "Hello (Reggae Cover)",
       "url": "https://open.spotify.com/track/0vq0qoIMXjE8uFzIIyiOy9"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238250,
       "name": "Hello (Reggae Cover)",
       "url": "https://open.spotify.com/track/55zkWif6hmMdBdIQdjXk82"
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210573,
       "name": "IRL",
       "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3NURF3IznpXjSnfSHySTmM"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202533,
       "name": "Light My Fire (feat. Gwen Stefani & Shenseea)",
       "url": "https://open.spotify.com/track/0D85y6hjCaHRjeB4VEXqPy"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "Light My Fire (feat. Gwen Stefani & Shenseea)",
       "url": "https://open.spotify.com/track/1egbEbrblp5ujK8mABDl10"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 248780,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248780,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/7D3PK92kbJXsPoviayoLN3"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 252812,
       "name": "Magic Potion",
       "url": "https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg"
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252865,
       "name": "Magic Potion (with Lion Rezz)",
       "url": "https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC"
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 335773,
       "name": "Make Love",
       "url": "https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX"
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335773,
       "name": "Make Love",
       "url": "https://open.spotify.com/track/2kmHiD7l8Scxi2qxHxmIl7"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/1tdlBFoIRKslWFZmjL4OTj"
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL"
@@ -3162,7 +3180,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 262452,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX"
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262501,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5yzNWZVVkSTuxwG6qENxCi"

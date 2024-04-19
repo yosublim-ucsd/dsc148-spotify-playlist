@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 292040,
       "name": "Abandon Meant",
       "url": "https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292040,
       "name": "Abandon Meant",
       "url": "https://open.spotify.com/track/6yYRYER1dqMZsSyTmqfxrC"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139042,
       "name": "Asking for It",
       "url": "https://open.spotify.com/track/5AazJxSbvETGO1SrFrat76"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 139042,
       "name": "Asking For It",
       "url": "https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156401,
       "name": "Cliffhanger",
       "url": "https://open.spotify.com/track/3Ulrp2jJIlDkShwJxgOU4G"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 156401,
       "name": "Cliffhanger",
       "url": "https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772"
@@ -980,6 +980,24 @@
     {
       "album": {
         "name": "F.E.A.R",
+        "url": "https://open.spotify.com/album/5f7PQY309Ebga4P0ed23Dv"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128800,
+      "name": "F.E.A.R",
+      "url": "https://open.spotify.com/track/0k6EtwsAebp1IewsFR4sDX"
+    },
+    {
+      "album": {
+        "name": "F.E.A.R",
         "url": "https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz"
       },
       "artists": [
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128800,
       "name": "F.E.A.R",
       "url": "https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1"
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 232679,
       "name": "Madman",
       "url": "https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS"
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232679,
       "name": "Madman",
       "url": "https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 233643,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0uZCYK1sLwDbLtvx27HZdf"
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233643,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3erXSpEt7pYUJp0Y7LGF5Y"
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 171486,
       "name": "Survive",
       "url": "https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x"
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171486,
       "name": "Survive",
       "url": "https://open.spotify.com/track/1cKk7nrg2SvXF9Vc32TxLk"
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 199240,
       "name": "WRAITH",
       "url": "https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx"
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199240,
       "name": "WRAITH",
       "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"

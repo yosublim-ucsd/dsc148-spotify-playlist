@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "#SELFIE",
-        "url": "https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI"
+        "url": "https://open.spotify.com/album/1CwTQl3oL06qrjTithl9lB"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183750,
+      "name": "#SELFIE",
+      "url": "https://open.spotify.com/track/0zkiQH567SDLqfWNBaU3hv"
+    },
+    {
+      "album": {
+        "name": "#SELFIE",
+        "url": "https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 183750,
       "name": "#SELFIE",
       "url": "https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo"
@@ -34,10 +52,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205053,
       "name": "Adagio For Strings - Radio Edit",
       "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
+    },
+    {
+      "album": {
+        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
+        "url": "https://open.spotify.com/album/285IDbC2qfQaVGgqCdBXIt"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Adagio For Strings - Radio Edit",
+      "url": "https://open.spotify.com/track/4Li1koEIphW5KitMm3panO"
     },
     {
       "album": {
@@ -52,10 +88,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176117,
       "name": "Animals - Radio Edit",
       "url": "https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176120,
+      "name": "Animals - Radio Edit",
+      "url": "https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5"
     },
     {
       "album": {
@@ -118,10 +172,36 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170625,
       "name": "Bad (feat. Vassy) - Radio Edit",
       "url": "https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Bad (feat. Vassy) - Radio Edit",
+      "url": "https://open.spotify.com/track/6eIacmhkE82vZlMDnGS7aP"
     },
     {
       "album": {
@@ -136,10 +216,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214883,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
+    },
+    {
+      "album": {
+        "name": "Better Off Alone (Laidback Luke Remix)",
+        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
+      },
+      "artists": [
+        {
+          "name": "Alice DJ",
+          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215246,
+      "name": "Better Off Alone - 1999 Original Hit Radio",
+      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
     },
     {
       "album": {
@@ -162,6 +260,32 @@
       "duration_ms": 212960,
       "name": "Blame (feat. John Newman)",
       "url": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
+    },
+    {
+      "album": {
+        "name": "Boneless (Remixes)",
+        "url": "https://open.spotify.com/album/2aXItG3t99T9Siy4kXae5P"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/4qPnE8jBZN3wmgGxspsOcP"
     },
     {
       "album": {
@@ -210,10 +334,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270000,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/75f4fO9adbAYJqNBKJNrxs"
+    },
+    {
+      "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/43baGAToTn6j7MMy7YU0yT"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/1zsDbmrf4ZkjW5hsSsaDjO"
     },
     {
       "album": {
@@ -228,7 +370,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
@@ -246,10 +388,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169426,
       "name": "Call On Me - Radio Edit",
       "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
+    },
+    {
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/3ukCPdSolXB251ff5wy8H5"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/65Wn0KpbPXTVLNQNEMtK1j"
     },
     {
       "album": {
@@ -268,6 +428,32 @@
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
+    },
+    {
+      "album": {
+        "name": "Calling (Lose My Mind)",
+        "url": "https://open.spotify.com/album/68ORvGqWXloU4WOUOdW8bm"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/5Sey3HgGa6KB46mlOyCClZ"
     },
     {
       "album": {
@@ -290,7 +476,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205440,
       "name": "Calling (Lose My Mind) - Radio Edit",
       "url": "https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6"
@@ -367,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Hands Up!",
+        "url": "https://open.spotify.com/album/0hN2WOLMD22hUYH5MBQ4pw"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223111,
+      "name": "Destination Calabria (Feat. Crystal Waters) - Original Radio Edit",
+      "url": "https://open.spotify.com/track/2QMdxS78DaXP8aS8qJqGzU"
+    },
+    {
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -382,10 +586,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223111,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Child (Radio Edit) [feat. John Martin]",
+        "url": "https://open.spotify.com/album/4ckmncQnT2rkPww9XdT54u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child (Radio Edit) [feat. John Martin]",
+      "url": "https://open.spotify.com/track/1oF75Qbv8UvOBm1imUAE51"
     },
     {
       "album": {
@@ -404,7 +626,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
@@ -422,10 +644,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197124,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
+    },
+    {
+      "album": {
+        "name": "Original Me",
+        "url": "https://open.spotify.com/album/2jYO6IuvdX7qTbUIQCX3Bs"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Everytime We Touch - Radio Edit",
+      "url": "https://open.spotify.com/track/74PyndGWYtfs86n60lAsYW"
     },
     {
       "album": {
@@ -440,10 +680,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212106,
       "name": "Faded",
       "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz"
+    },
+    {
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/4pvMZr2Kfe1typbTqMHa8z"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212626,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/1brwdYwjltrJo7WHpIvbYt"
     },
     {
       "album": {
@@ -568,10 +826,32 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224520,
       "name": "I Don't Know What to Do - Radio Edit",
       "url": "https://open.spotify.com/track/0nabAPNBb94D30NFf5EZrv"
+    },
+    {
+      "album": {
+        "name": "Adrenalina 2011 Vol.2 - One - Transam\u00e9rica Fm (Radio Dance House Top Hits)",
+        "url": "https://open.spotify.com/album/6hX2pS5y0Nma9UACQBIxZQ"
+      },
+      "artists": [
+        {
+          "name": "Tiko's Groove",
+          "url": "https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE"
+        },
+        {
+          "name": "Gosha",
+          "url": "https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224520,
+      "name": "I Don't Know What to Do - Radio Edit",
+      "url": "https://open.spotify.com/track/40K3E52jzmfXbi0nDy7EUV"
     },
     {
       "album": {
@@ -608,10 +888,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171680,
       "name": "I Found U - Radio Edit",
       "url": "https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV"
+    },
+    {
+      "album": {
+        "name": "I Found U",
+        "url": "https://open.spotify.com/album/09Ju1NeMEJAIHgMMBow0Ci"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/2bC91HahcxJ8SW72X5llRm"
     },
     {
       "album": {
@@ -630,6 +928,28 @@
       "duration_ms": 171692,
       "name": "I Found U - Remode Radio Edit",
       "url": "https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t"
+    },
+    {
+      "album": {
+        "name": "Random Album Title",
+        "url": "https://open.spotify.com/album/64SsM8JQXemXaXvHOmRTJe"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593604,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/796D36lWeLRHSP95uEyfBh"
     },
     {
       "album": {
@@ -666,7 +986,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 593613,
       "name": "I Remember - Vocal Mix",
       "url": "https://open.spotify.com/track/5pMX0wUtcxFudpIeWlFQNM"
@@ -691,6 +1011,28 @@
     },
     {
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/5gvQnGdJ7FFcD4DhXjp08k"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346647,
+      "name": "In The Dark (Dirty South Remix)",
+      "url": "https://open.spotify.com/track/18Lb54pl6I7Xkc0ditLYyY"
+    },
+    {
+      "album": {
         "name": "Elements of Life (Bonus Version)",
         "url": "https://open.spotify.com/album/2GMSOwQAysOQSqs5i4CFOG"
       },
@@ -702,7 +1044,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346920,
       "name": "In the Dark - Dirty South Remix",
       "url": "https://open.spotify.com/track/6SDZjgocJSpDSIVng85avv"
@@ -790,7 +1132,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
@@ -823,6 +1165,50 @@
     },
     {
       "album": {
+        "name": "Peace Is The Mission",
+        "url": "https://open.spotify.com/album/2XBnxKeRZi76u2iyGcMych"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176561,
+      "name": "Lean On (feat. M\u00d8 & DJ Snake)",
+      "url": "https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4"
+    },
+    {
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/4mkvtXQd6rD7zuAHhexEvb"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199903,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/0JhKJg5ejeQ8jq89UQtnw8"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
       },
@@ -834,7 +1220,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199906,
       "name": "Levels - Radio Edit",
       "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
@@ -860,10 +1246,54 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216893,
       "name": "Like A G6",
       "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
+    },
+    {
+      "album": {
+        "name": "Dirty Bass (Deluxe)",
+        "url": "https://open.spotify.com/album/78ysj0YXG9moP8Gv9izzm4"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "The Cataracs",
+          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Like A G6",
+      "url": "https://open.spotify.com/track/2s5YN9O8Qv25BjQobPHWVZ"
+    },
+    {
+      "album": {
+        "name": "Just a Little More Love",
+        "url": "https://open.spotify.com/album/51fJbB1qe3EfUvb3fMK2jr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/0mIAWTIXUP9Os5RBXKclO6"
     },
     {
       "album": {
@@ -878,10 +1308,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216893,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
+    },
+    {
+      "album": {
+        "name": "Miami 2 Ibiza",
+        "url": "https://open.spotify.com/album/6xDzR5VsC0EEFRG9oEd0g8"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204661,
+      "name": "Miami 2 Ibiza",
+      "url": "https://open.spotify.com/track/56QCGK2tyUmlma8k94zLal"
     },
     {
       "album": {
@@ -900,7 +1348,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206460,
       "name": "Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah",
       "url": "https://open.spotify.com/track/5ZFVacinyPxz19eK2vTodL"
@@ -1006,10 +1454,36 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262173,
       "name": "Party Rock Anthem",
       "url": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
+    },
+    {
+      "album": {
+        "name": "Party Rock Anthem",
+        "url": "https://open.spotify.com/album/52ses1wF3YRG1I4Hqa7AMF"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lauren Bennett",
+          "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
+        },
+        {
+          "name": "GoonRock",
+          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263360,
+      "name": "Party Rock Anthem",
+      "url": "https://open.spotify.com/track/1CNJyTUh56oj3OCZOZ5way"
     },
     {
       "album": {
@@ -1032,10 +1506,54 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201000,
       "name": "Play Hard (feat. Ne-Yo & Akon)",
       "url": "https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo"
+    },
+    {
+      "album": {
+        "name": "Play Hard (feat. Ne-Yo & Akon) [New Edit]",
+        "url": "https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208845,
+      "name": "Play Hard (feat. Ne-Yo & Akon) - New Edit",
+      "url": "https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG"
+    },
+    {
+      "album": {
+        "name": "Ultimate Club Dance 90s",
+        "url": "https://open.spotify.com/album/1hSXj2r4RtH2MCAR7ffclY"
+      },
+      "artists": [
+        {
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/1ZtzjvhIcLoogzOpt4rKoa"
     },
     {
       "album": {
@@ -1050,7 +1568,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
@@ -1072,10 +1590,50 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi"
+    },
+    {
+      "album": {
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+    },
+    {
+      "album": {
+        "name": "You've Come a Long Way Baby (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7Avi8h7vv4Ustd6DsN2jYx"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387706,
+      "name": "Right Here, Right Now",
+      "url": "https://open.spotify.com/track/0qnqsfFYgBo0sPHM2JmfTq"
     },
     {
       "album": {
@@ -1090,7 +1648,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387706,
       "name": "Right Here, Right Now",
       "url": "https://open.spotify.com/track/3Pb9QabepyR9e9D8NqorPH"
@@ -1108,10 +1666,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227073,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "album": {
+        "name": "Runaway (U & I)",
+        "url": "https://open.spotify.com/album/4AvWWrL9TB38MwVUuB2tTO"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/4qABfS1RaGVXdBhj2BQyhO"
     },
     {
       "album": {
@@ -1152,10 +1728,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216573,
       "name": "Saturday Night - DJ F.R.A.N.K's UK Radio Edit",
       "url": "https://open.spotify.com/track/3AuXkWjFWfvBzZMEdkQ7Dw"
+    },
+    {
+      "album": {
+        "name": "Playlist Transam\u00e9rica Ibiza 2012 (Ibiza Radio Dance House Top Hits)",
+        "url": "https://open.spotify.com/album/5UNLloXjgsNyAbUee3DWgs"
+      },
+      "artists": [
+        {
+          "name": "The Underdog Project",
+          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215713,
+      "name": "Saturday Night - DJ Frank R\u00e1dio Version",
+      "url": "https://open.spotify.com/track/75DxNBqqxBDQEI8YvUJXhT"
     },
     {
       "album": {
@@ -1247,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Summer Jam (Remake)",
+        "url": "https://open.spotify.com/album/2OhKKwxWIGv3xe8IrVpJGn"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181858,
+      "name": "Summer Jam (Remake)",
+      "url": "https://open.spotify.com/track/46BeD9ci6Zra3UsOg1I78f"
+    },
+    {
+      "album": {
         "name": "Summer Jam - Remake",
         "url": "https://open.spotify.com/album/6FFy8NzLR5YFGqwcwqbSNg"
       },
@@ -1262,7 +1878,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181858,
       "name": "Summer Jam - Remake",
       "url": "https://open.spotify.com/track/5ANQcP9cHO6rC53lEWPnqq"
@@ -1357,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Take Over Control",
+        "url": "https://open.spotify.com/album/1GXqE2FTs1xeanQheyjtCA"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Eva Simons",
+          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208619,
+      "name": "Take Over Control",
+      "url": "https://open.spotify.com/track/24ATpf896KofEEDCd13myS"
+    },
+    {
+      "album": {
         "name": "Take Over Control (feat. Eva Simons) [Radio Edit]",
         "url": "https://open.spotify.com/album/720C2Wgilz2KBQtk3Sjq85"
       },
@@ -1372,7 +2010,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208620,
       "name": "Take Over Control (feat. Eva Simons) - Radio Edit",
       "url": "https://open.spotify.com/track/5DdDbJvoaT8fqQMJkiGg4T"
@@ -1390,10 +2028,46 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 550360,
       "name": "The Man With the Red Face - Video Edit",
       "url": "https://open.spotify.com/track/2TNAP0cq2IZkeSUx2Zbzrw"
+    },
+    {
+      "album": {
+        "name": "Unreasonable Behaviour",
+        "url": "https://open.spotify.com/album/2IBm4EZ2AUUCSYzFAgCNBL"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551493,
+      "name": "The Man With The Red Face - Video Edit",
+      "url": "https://open.spotify.com/track/0y0LNqWSA4Pv2KawzSi4MW"
+    },
+    {
+      "album": {
+        "name": "Why Try Harder - The Greatest Hits",
+        "url": "https://open.spotify.com/album/5vpSQUagobcDEf6IVcmM1m"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "The Rockafeller Skank - Remastered Version",
+      "url": "https://open.spotify.com/track/2EiYIBGH83p6ORjs14Rdgy"
     },
     {
       "album": {
@@ -1408,7 +2082,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241466,
       "name": "The Rockafeller Skank - Short Edit",
       "url": "https://open.spotify.com/track/6QuBlKmaadzwQn21IUTPPX"
@@ -1437,6 +2111,28 @@
     },
     {
       "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -1452,7 +2148,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
@@ -1496,10 +2192,46 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/4c1UVOzAFB4mqGYZGadOru"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249693,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/294vBlXfZYspeI29SXZaON"
+    },
+    {
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207080,
+      "name": "Waves - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/1g1fMz4uglH73sVEu1bjBW"
     },
     {
       "album": {
@@ -1518,7 +2250,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
@@ -1536,7 +2268,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
@@ -1554,10 +2286,32 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "album": {
+        "name": "When Love Takes Over",
+        "url": "https://open.spotify.com/album/27255AeNTU1KuApN9KjmjM"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y"
     },
     {
       "album": {
@@ -1576,7 +2330,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
@@ -1598,10 +2352,32 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277520,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/4PPiV0xlKze0D4G93UWLji"
+    },
+    {
+      "album": {
+        "name": "Settle",
+        "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277687,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1wap9wHVL6wzhmQOuyhwMH"
     },
     {
       "album": {
@@ -1620,7 +2396,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199194,
       "name": "World Hold On (Children of the Sky) - Radio Edit",
       "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
@@ -1649,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Noah's Arc Soundtrack",
+        "url": "https://open.spotify.com/album/5Qp8SukYcNbQBo7f6oqPU9"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar feat. Steve Edwards",
+          "url": "https://open.spotify.com/artist/4EWTo8sJxv8T3ZrDqEWEOh"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/734t4W5gXNP395BK9PXRPR"
+    },
+    {
+      "album": {
         "name": "YAWANAWA",
         "url": "https://open.spotify.com/album/18gSAGIAfHEJJCphhBNQaJ"
       },
@@ -1667,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/02cVeTcA0KkEF8CMqnqzSB"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221286,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3vToiuX2Xqi1iMIhsDJn2s"
+    },
+    {
+      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -1678,7 +2490,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221286,
       "name": "You",
       "url": "https://open.spotify.com/track/7gUg4GdOA6Y6yRDe36GIjK"
@@ -1696,10 +2508,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189826,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/3nmaQ5PCaFdVxXcxXstacj"
+    },
+    {
+      "album": {
+        "name": "Disco Alegr\u00eda 2003",
+        "url": "https://open.spotify.com/album/6ydljwpiD7QUe8YH2ajsUN"
+      },
+      "artists": [
+        {
+          "name": "Yomanda",
+          "url": "https://open.spotify.com/artist/1PyczlWcgtczHvUkXtUFdL"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/23hi33S4mbkQHBaoq33x5F"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbiYDjc6fn8m"

@@ -186,7 +186,7 @@
     {
       "album": {
         "name": "Bastard Jargon",
-        "url": "https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf"
+        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
       },
       "artists": [
         {
@@ -201,6 +201,28 @@
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Do You Well (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/19BqqhEAwdLrSghLgWjfoO"
+    },
+    {
+      "album": {
+        "name": "Bastard Jargon",
+        "url": "https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 213293,
       "name": "Do You Well (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/1jMFGctmGpa5qLqQZfpXNB"
@@ -492,10 +514,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192746,
       "name": "Is It All over My Face? (Single Female Vocal Version)",
       "url": "https://open.spotify.com/track/1VlhbDOBiMzw10zLoa6C4x"
+    },
+    {
+      "album": {
+        "name": "Pop Your Funk - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/2MxgPjv3jn3x5xzJSK3fRy"
+      },
+      "artists": [
+        {
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "Is It All over My Face? - Single Female Vocal Version",
+      "url": "https://open.spotify.com/track/149kJutrlIcPfxFNi2QUpx"
     },
     {
       "album": {
@@ -532,10 +572,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230624,
       "name": "It's Okay To Cry",
       "url": "https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2"
+    },
+    {
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230624,
+      "name": "It's Okay To Cry",
+      "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
     },
     {
       "album": {
@@ -713,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Something Wrong",
+        "url": "https://open.spotify.com/album/6MHCdB8CInfFwX56eX9JUw"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183312,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM"
+    },
+    {
+      "album": {
         "name": "Sugar the Bruise",
         "url": "https://open.spotify.com/album/6GnYy4az2e4zUR7ChMERqZ"
       },
@@ -724,7 +800,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183312,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/4gMUmiLng8cPWB55zE33QP"

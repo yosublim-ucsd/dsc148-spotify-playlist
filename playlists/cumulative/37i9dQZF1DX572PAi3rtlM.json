@@ -742,10 +742,28 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261240,
       "name": "Candida Follia",
       "url": "https://open.spotify.com/track/16KXqHSpt6VexSv0pQgJej"
+    },
+    {
+      "album": {
+        "name": "Nada (Remastered)",
+        "url": "https://open.spotify.com/album/7pMnBTHcfyQVe8rBqhgOSH"
+      },
+      "artists": [
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Candida Follia",
+      "url": "https://open.spotify.com/track/2o7jQstTBpnBadknercWwc"
     },
     {
       "album": {
@@ -984,10 +1002,28 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228866,
       "name": "Crepuscolo",
       "url": "https://open.spotify.com/track/1mZDsbctVhnnIJ3cO2GvEb"
+    },
+    {
+      "album": {
+        "name": "Crepuscolo D'Amore (Remastered)",
+        "url": "https://open.spotify.com/album/1vi8otdQ7g6w3tgy2DGskk"
+      },
+      "artists": [
+        {
+          "name": "Umberto Rosario Balsamo",
+          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233413,
+      "name": "Crepuscolo",
+      "url": "https://open.spotify.com/track/2vQMqcRP3lGbwxTgG6RNm4"
     },
     {
       "album": {
@@ -2024,7 +2060,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 224973,
       "name": "Il vecchiaccio",
       "url": "https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1"
@@ -2042,7 +2078,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225613,
       "name": "Il vecchiaccio",
       "url": "https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu"
@@ -2265,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Malgrado Tutto...L'Angelo Azzurro (Remastered)",
+        "url": "https://open.spotify.com/album/4r5XsuDyj5byIcyk7DDyMq"
+      },
+      "artists": [
+        {
+          "name": "Umberto Rosario Balsamo",
+          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "L'Angelo Azzurro",
+      "url": "https://open.spotify.com/track/1iCdpqivkMCONTx9lN7psi"
+    },
+    {
+      "album": {
         "name": "Le Sue Piu' Belle Canzoni",
         "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
       },
@@ -2276,7 +2330,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209426,
       "name": "L'Angelo Azzurro",
       "url": "https://open.spotify.com/track/1QKwDSlVsEsVl61yTjeBva"
@@ -2319,6 +2373,32 @@
     },
     {
       "album": {
+        "name": "La voglia la pazzia l'incoscienza l'allegria",
+        "url": "https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "La voglia, la pazzia",
+      "url": "https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h"
+    },
+    {
+      "album": {
         "name": "Tutto Vanoni",
         "url": "https://open.spotify.com/album/1KKOGLYEy0GQUf0OvRv4JG"
       },
@@ -2338,7 +2418,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173866,
       "name": "La voglia, la pazzia",
       "url": "https://open.spotify.com/track/1ugLJamlBBbvW72ymH09BD"
@@ -4042,36 +4122,6 @@
     {
       "album": {
         "name": "Questo Disco",
-        "url": "https://open.spotify.com/album/6JSVuzS7iXWFSSR3xC9Zbg"
-      },
-      "artists": [
-        {
-          "name": "Better Call Savnko",
-          "url": "https://open.spotify.com/artist/4TCFbpx6POdDCpQmn8RE62"
-        },
-        {
-          "name": "Savnko",
-          "url": "https://open.spotify.com/artist/6LP9McRfEirD7mamCEK4Ck"
-        },
-        {
-          "name": "Ricky Borsieri",
-          "url": "https://open.spotify.com/artist/0iAsdWb3cA4D6dgsuNYkXL"
-        },
-        {
-          "name": "Ursula Casadei",
-          "url": "https://open.spotify.com/artist/0hGchcNTe3TJG7NOj2QLkN"
-        }
-      ],
-      "date_added": "2023-10-01",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
-      "duration_ms": 198568,
-      "name": "Questo Disco",
-      "url": "https://open.spotify.com/track/1fz5UbtfPnSl4CX4CEsiaN"
-    },
-    {
-      "album": {
-        "name": "Questo Disco",
         "url": "https://open.spotify.com/album/5UcIbaEvHyTeLfNjpwoxq6"
       },
       "artists": [
@@ -4094,10 +4144,40 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198568,
       "name": "Questo Disco",
       "url": "https://open.spotify.com/track/0huZLKwetU2qCHkcsneUoD"
+    },
+    {
+      "album": {
+        "name": "Questo Disco",
+        "url": "https://open.spotify.com/album/6JSVuzS7iXWFSSR3xC9Zbg"
+      },
+      "artists": [
+        {
+          "name": "Savnko",
+          "url": "https://open.spotify.com/artist/6LP9McRfEirD7mamCEK4Ck"
+        },
+        {
+          "name": "Better Call Savnko",
+          "url": "https://open.spotify.com/artist/4TCFbpx6POdDCpQmn8RE62"
+        },
+        {
+          "name": "Ricky Borsieri",
+          "url": "https://open.spotify.com/artist/0iAsdWb3cA4D6dgsuNYkXL"
+        },
+        {
+          "name": "Ursula Casadei",
+          "url": "https://open.spotify.com/artist/0hGchcNTe3TJG7NOj2QLkN"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198568,
+      "name": "Questo Disco",
+      "url": "https://open.spotify.com/track/1fz5UbtfPnSl4CX4CEsiaN"
     },
     {
       "album": {
@@ -5026,10 +5106,28 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
+      "album": {
+        "name": "Tienat\u00e9",
+        "url": "https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278749,
+      "name": "Tienat\u00e9",
+      "url": "https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg"
     },
     {
       "album": {

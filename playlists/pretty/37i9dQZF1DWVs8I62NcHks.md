@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > For 100 years, our passion has been storytelling\.  From one generation to the next, the greatest stories live forever\.  You made this dream come true.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,040,988 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,041,240 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 | 40 | [Colors of the Wind](https://open.spotify.com/track/2KLr3dKxIINgnWKiMK37ST) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Walt Disney Records The Legacy Collection: Pocahontas](https://open.spotify.com/album/4M9kB42Y2SfXzwuH903ycJ) | 3:50 |
 | 41 | [Shiny](https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:05 |
 | 42 | [Beauty and the Beast \- Remastered 2018](https://open.spotify.com/track/4f1BwLXtk02i8GjJvK9cUL) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) | [Walt Disney Records The Legacy Collection: Beauty and the Beast](https://open.spotify.com/album/7hq1LYjKOhg1jn39YzbqVK) | 2:42 |
-| 43 | [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 |
+| 43 | [When She Loved Me](https://open.spotify.com/track/6lMh9k54E4mxbGBMkSwYhT) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 3:05 |
 | 44 | [Almost There](https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:24 |
 | 45 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/7GmiJVBAzWNikX5VkNQg85) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:28 |
 | 46 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l) | [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:00 |

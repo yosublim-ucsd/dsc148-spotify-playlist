@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,475 likes - 33 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,461 likes - 33 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 | 7 | [Tresno Waranggono \(feat\. Dimas Tedjo & Ririk\)](https://open.spotify.com/track/5YBxUUuoJJMDMUsNXnKM4K) | [Campursari Sangga Buana](https://open.spotify.com/artist/3vzL5Lh8QtWRE2JIvAeerl), [Dimas Tedjo](https://open.spotify.com/artist/7fYeWW12JYNs9Q0NNeNQfw), [Ririk](https://open.spotify.com/artist/4IRcdXzVnitoIfqxpTEY5b) | [Tresno Waranggono](https://open.spotify.com/album/1ScGtZUbpAPldwhs51shzJ) | 6:36 |
 | 8 | [Sesideman](https://open.spotify.com/track/54WzEPk5jj1HksfjZIecFg) | [SESIDEMAN](https://open.spotify.com/artist/1n9pyYhDHvpqHM87XafxNJ) | [Langgam Campursari Terbaru](https://open.spotify.com/album/7ef0UrcSwgXxZc14vFUeAK) | 4:58 |
 | 9 | [Ojo Ngece](https://open.spotify.com/track/5KKw46Zn88G7ONXNStBVdx) | [Koes Plus](https://open.spotify.com/artist/01qO0VcjpvkpAyrnYuz4bu) | [Mustika Pop Jawa Koes Plus 2](https://open.spotify.com/album/6Q7sm6Jcv98IxhB4TxK6MT) | 2:44 |
-| 10 | [Di Bawah Sinar Bulan Purnama](https://open.spotify.com/track/3VaEcF8qbzZVlTBMg22nJ1) | [Sundari Soekotjo](https://open.spotify.com/artist/1IuDMRAhrGICHG8k5vxAOd) | [20 Lagu\-Lagu Keroncong Mus Mulyadi & Sundari Sukotjo](https://open.spotify.com/album/3K6MNZIM3hOYuBIgIqA84D) | 4:04 |
+| 10 | [Di Bawah Sinar Bulan Purnama](https://open.spotify.com/track/1l4BwBpohsLW7xvaysHyvO) | [Sundari Soekotjo](https://open.spotify.com/artist/1IuDMRAhrGICHG8k5vxAOd) | [Best Of Sundari Soekotjo](https://open.spotify.com/album/0JA66DgJe07uF3VuePnGEW) | 4:04 |
 | 11 | [Sri Wis Bali](https://open.spotify.com/track/1PC3bOb6wFFBbh2rV22Z2H) | [Sonny Josz](https://open.spotify.com/artist/5yapZ4C6jBYI1hpkzrDp3A) | [Campursari Campur Goyang](https://open.spotify.com/album/5q8cx91MlrVeyq8M7hoInp) | 5:12 |
-| 12 | [Gudeg Yogya \(feat\. Lilis Diana\)](https://open.spotify.com/track/2SgDeaOv1QZQXyPu2n7sPL) | [Manthous](https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn), [Lilis Diana](https://open.spotify.com/artist/4sSTofPgVFn2NKi9rMT0wX) | [Tembang Jawa Kenangan](https://open.spotify.com/album/263b3G7UzygOZFCufxjeLj) | 4:30 |
-| 13 | [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/2bUNxmVxYx3jQabY7auzGn) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa Waldjinah, Vol\. 1](https://open.spotify.com/album/6TxMzEMJFb9kh6ma3LU20h) | 5:02 |
+| 12 | [Gudeg Yogya](https://open.spotify.com/track/6JWhjzPyefqVNjVZtSAUS6) | [Lilis Diana](https://open.spotify.com/artist/4sSTofPgVFn2NKi9rMT0wX), [Manthous](https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn) | [Tembang Jawa Kenangan](https://open.spotify.com/album/7tSfLE6PKlfYmhkuogEO9B) | 4:30 |
+| 13 | [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/5xb4N5tuOUiMUKBpXjz24L) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa WALDJINAH vol\. 1](https://open.spotify.com/album/3f8EroNL1dc01rF1bcenF9) | 5:02 |
 | 14 | [Lingsir Wengi](https://open.spotify.com/track/2UEsnTotIckTJogkzyxzs6) | [Aniek Sunyahni](https://open.spotify.com/artist/5sc7I3orxiNDHXrwRxq6g6) | [Emas Legendaris Ratu Campursari Aniek Sunyahni, Vol\. 4](https://open.spotify.com/album/3jTmE4Rua2H5kPYD7P5WHa) | 5:00 |
 | 15 | [Lgm\. Rangkaian Melati](https://open.spotify.com/track/6MOYiLhv1H67v7UWdfZb6x) | [Tuti Maryati](https://open.spotify.com/artist/62DEg5GSzqVFYqYGccks4q) | [3 Ratu Keroncong](https://open.spotify.com/album/6JhOJJzBNX2wkgYnsLDrlL) | 4:11 |
 | 16 | [Kr\. Idaman Hati](https://open.spotify.com/track/0UXEGBqp5CmoLBekkF597g) | [Sri Widadi](https://open.spotify.com/artist/4j0a81xxwodxUdWZ3K1Hiz) | [Album Emas Keroncong: Sri Widadi](https://open.spotify.com/album/74TgG3PAC7ezyGRWlO0N6p) | 3:09 |

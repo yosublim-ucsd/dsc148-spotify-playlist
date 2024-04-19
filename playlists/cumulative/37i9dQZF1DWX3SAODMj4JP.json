@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 326136,
       "name": "Eu Te Amo, Senhor",
       "url": "https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280161,
       "name": "Eu Te Vejo Em Tudo - Acoustic Session",
       "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
@@ -678,10 +678,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 352173,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
+    },
+    {
+      "album": {
+        "name": "III (Studio Sessions)",
+        "url": "https://open.spotify.com/album/34C8jcy3TMTrrq0m07CYPX"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351771,
+      "name": "Highs & Lows - Acoustic",
+      "url": "https://open.spotify.com/track/5g4kuydmePUJAMYGNACvRy"
     },
     {
       "album": {
@@ -1382,10 +1404,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360223,
       "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Penso em Voc\u00ea (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2IsWffAYL5GfwcRwL08f4d"
+      },
+      "artists": [
+        {
+          "name": "Mateus Brito",
+          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360223,
+      "name": "S\u00f3 Penso em Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/34MJL68sX5xdWJdA1NnoHf"
     },
     {
       "album": {
@@ -1582,10 +1622,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234973,
       "name": "Upper Room - Acoustic/Live",
       "url": "https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0wYYGYuFQUvZqspe4WPvfm"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Upper Room - Live Acoustic Session",
+      "url": "https://open.spotify.com/track/6SWkxwTgYxTPfIkKHc04Ks"
     },
     {
       "album": {

@@ -42,10 +42,36 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207700,
       "name": "Adu Rayu",
       "url": "https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb"
+    },
+    {
+      "album": {
+        "name": "Adu Rayu",
+        "url": "https://open.spotify.com/album/6h4KWlzry7wdgIAKfiVCER"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        },
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207700,
+      "name": "Adu Rayu",
+      "url": "https://open.spotify.com/track/3FcCAFQj4bLpfxo8gj1kk9"
     },
     {
       "album": {
@@ -554,7 +580,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278200,
       "name": "Cintaku",
       "url": "https://open.spotify.com/track/41S84NxXxO4IkYRp4WHr1d"
@@ -572,7 +598,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 282453,
       "name": "Cintaku",
       "url": "https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ"
@@ -782,7 +808,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229110,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/4haBSzLuFrT1hWqH5ErIWw"
@@ -800,7 +826,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 229110,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/6a1mt15RL1Y3FxeU6Zoh3W"
@@ -1036,6 +1062,24 @@
     {
       "album": {
         "name": "Inikah Cinta",
+        "url": "https://open.spotify.com/album/3oea1a9yO8jCAyEg47fQpT"
+      },
+      "artists": [
+        {
+          "name": "Soundwave",
+          "url": "https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Inikah Cinta",
+      "url": "https://open.spotify.com/track/6YsXid1FOtqxPlQB85xq7w"
+    },
+    {
+      "album": {
+        "name": "Inikah Cinta",
         "url": "https://open.spotify.com/album/77q9eYQmTvAbuAWRLM1eof"
       },
       "artists": [
@@ -1046,7 +1090,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225834,
       "name": "Inikah Cinta",
       "url": "https://open.spotify.com/track/7r5qxtubYpPXYNSLX8CoGr"
@@ -1162,7 +1206,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320760,
       "name": "Kala Cinta Menggoda",
       "url": "https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW"
@@ -1180,7 +1224,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 324333,
       "name": "Kala Cinta Menggoda",
       "url": "https://open.spotify.com/track/1NmxBjg8ybFwQkiKVnRxws"
@@ -1346,7 +1390,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw"
@@ -1364,7 +1408,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
@@ -1534,10 +1578,28 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204293,
       "name": "Mata Ke Hati (Acoustic Version)",
       "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
+    },
+    {
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Mata Ke Hati (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5eF8Hn5AHY4qT3aZsVYAzO"
     },
     {
       "album": {
@@ -1658,7 +1720,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187066,
       "name": "O... Ya...",
       "url": "https://open.spotify.com/track/4nGfDDgOFVIqMajwVaWNgb"
@@ -1676,7 +1738,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 187066,
       "name": "O..Ya",
       "url": "https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF"
@@ -1738,6 +1800,24 @@
     {
       "album": {
         "name": "Penantian Berharga",
+        "url": "https://open.spotify.com/album/5YGTnbhEQaPBYXQY4kTvll"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217759,
+      "name": "Penantian Berharga",
+      "url": "https://open.spotify.com/track/1n6l1bcpVPXbKd8FhrwxT3"
+    },
+    {
+      "album": {
+        "name": "Penantian Berharga",
         "url": "https://open.spotify.com/album/5zhXlETGMYS961e8GC8pCc"
       },
       "artists": [
@@ -1766,7 +1846,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218910,
       "name": "Penantian Berharga",
       "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
@@ -1878,7 +1958,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 199761,
       "name": "Ragu?",
       "url": "https://open.spotify.com/track/6oW5w1IAVnBrLA8uDes0Gl"
@@ -1896,10 +1976,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199774,
       "name": "Ragu?",
       "url": "https://open.spotify.com/track/68LuQlKVtKkILNcDJwqMPr"
+    },
+    {
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "Remaja",
+      "url": "https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf"
     },
     {
       "album": {
@@ -1914,7 +2012,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218426,
       "name": "Remaja",
       "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
@@ -2062,10 +2160,28 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234066,
       "name": "Selamat Pagi",
       "url": "https://open.spotify.com/track/493V5dhXECdFJ7SBqOsybH"
+    },
+    {
+      "album": {
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/6MyZfF9K8Uqs0BSmqECGl6"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Selamat Pagi",
+      "url": "https://open.spotify.com/track/5ZvravJccV8uy4YKg8ABKZ"
     },
     {
       "album": {

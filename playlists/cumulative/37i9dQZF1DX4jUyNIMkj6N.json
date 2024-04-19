@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168373,
       "name": "Alle Snakker Sant",
       "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
@@ -460,6 +460,24 @@
       "duration_ms": 244381,
       "name": "Asymmetry",
       "url": "https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv"
+    },
+    {
+      "album": {
+        "name": "Avignon",
+        "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179812,
+      "name": "Avignon",
+      "url": "https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc"
     },
     {
       "album": {
@@ -615,6 +633,42 @@
     },
     {
       "album": {
+        "name": "Bloodshed",
+        "url": "https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215620,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221166,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0"
+    },
+    {
+      "album": {
         "name": "Joni Was Right Pt. II",
         "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
       },
@@ -662,7 +716,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
@@ -1118,7 +1172,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 222750,
       "name": "Departure",
       "url": "https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ"
@@ -1244,7 +1298,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
@@ -1280,7 +1334,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
@@ -1338,7 +1392,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283708,
       "name": "For Someone",
       "url": "https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ"
@@ -1482,7 +1536,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
@@ -1536,7 +1590,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175252,
       "name": "From the Heart",
       "url": "https://open.spotify.com/track/7Mnv2hYsy2ONDPtziGSWJm"
@@ -1934,7 +1988,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ"
@@ -2006,7 +2060,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193453,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
@@ -2024,7 +2078,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 256548,
       "name": "Honey In The Waves",
       "url": "https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df"
@@ -2150,7 +2204,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204840,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
@@ -2266,6 +2320,24 @@
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
+    },
+    {
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "album": {
@@ -2486,7 +2558,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188080,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
@@ -2648,7 +2720,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
@@ -2774,7 +2846,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293760,
       "name": "Modern Drift",
       "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
@@ -2868,7 +2940,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 168556,
       "name": "Mornings and Afternoons",
       "url": "https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf"
@@ -3052,7 +3124,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
@@ -3276,7 +3348,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 241785,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
@@ -3348,7 +3420,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241400,
       "name": "Signals",
       "url": "https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt"
@@ -3460,7 +3532,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
@@ -3644,7 +3716,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 275613,
       "name": "Sun, Moon, Stars",
       "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
@@ -3662,7 +3734,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184533,
       "name": "Sunny Road",
       "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
@@ -3724,7 +3796,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240360,
       "name": "Svarteboka",
       "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
@@ -3934,7 +4006,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231133,
       "name": "The Longer The Waiting (The Sweeter The Kiss)",
       "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
@@ -4252,6 +4324,24 @@
     {
       "album": {
         "name": "Ulveham",
+        "url": "https://open.spotify.com/album/55SbqoLhR1YAZ99wEKNLlB"
+      },
+      "artists": [
+        {
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Ulveham",
+      "url": "https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om"
+    },
+    {
+      "album": {
+        "name": "Ulveham",
         "url": "https://open.spotify.com/album/1GtVgb3TUKeAn466kCjgwJ"
       },
       "artists": [
@@ -4262,7 +4352,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182346,
       "name": "Ulveham",
       "url": "https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s"
@@ -4316,7 +4406,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 174553,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
@@ -4476,7 +4566,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
@@ -4840,7 +4930,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"

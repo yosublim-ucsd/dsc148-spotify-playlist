@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 171866,
       "name": "Aimer - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
       "url": "https://open.spotify.com/track/12x3erRdPdMLrCY4vPMLq1"
@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Ferrat chante Aragon, l'int\u00e9grale",
+        "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141106,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
+    },
+    {
+      "album": {
         "name": "Aline",
         "url": "https://open.spotify.com/album/0R5sCENJleZp9oxN9JcXgR"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169946,
       "name": "Aline",
       "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
@@ -240,7 +258,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163306,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W"
@@ -292,6 +310,24 @@
       "duration_ms": 277786,
       "name": "Belle (with Patrick Fiori & Garou)",
       "url": "https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg"
+    },
+    {
+      "album": {
+        "name": "Besoin De Rien, Envie De Toi",
+        "url": "https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF"
+      },
+      "artists": [
+        {
+          "name": "Peter & Sloane",
+          "url": "https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Besoin de rien, envie de toi",
+      "url": "https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW"
     },
     {
       "album": {
@@ -360,7 +396,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294146,
       "name": "Comme ils disent",
       "url": "https://open.spotify.com/track/7pO5P9AWsB9cQE6McCNgIH"
@@ -378,10 +414,28 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148506,
       "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
       "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
     },
     {
       "album": {
@@ -450,7 +504,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201200,
       "name": "Entre nous",
       "url": "https://open.spotify.com/track/6j3MV6TuybbmOKwId3DEEG"
@@ -468,7 +522,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195986,
       "name": "Et m\u00eame apr\u00e8s je t'aimerai",
       "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
@@ -522,7 +576,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237653,
       "name": "Evidemment",
       "url": "https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy"
@@ -540,7 +594,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 263066,
       "name": "Femmes... Je vous aime",
       "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
@@ -602,6 +656,24 @@
       "duration_ms": 280826,
       "name": "J'attends",
       "url": "https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV"
+    },
+    {
+      "album": {
+        "name": "Marcher Dans Le Sable",
+        "url": "https://open.spotify.com/album/7669yAkyDYTr33Hc0cAdhn"
+      },
+      "artists": [
+        {
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "J'en r\u00eave encore - Radio Edit",
+      "url": "https://open.spotify.com/track/07aWTEpDmPPCx5XkqhRHfH"
     },
     {
       "album": {
@@ -674,7 +746,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
@@ -696,6 +768,24 @@
       "duration_ms": 273133,
       "name": "Je sais pas",
       "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "album": {
+        "name": "Je Suis Malade",
+        "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
+      },
+      "artists": [
+        {
+          "name": "Serge Lama",
+          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249826,
+      "name": "Je suis malade",
+      "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
     },
     {
       "album": {
@@ -775,6 +865,24 @@
     },
     {
       "album": {
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+    },
+    {
+      "album": {
         "name": "Il suffit d'y croire (Version deluxe)",
         "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
       },
@@ -790,7 +898,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172626,
       "name": "Je vous trouve un charme fou - En duo avec Ga\u00ebtan Roussel",
       "url": "https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd"
@@ -927,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Laisse moi t'aimer",
+      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
+    },
+    {
+      "album": {
         "name": "Le coeur grenadine",
         "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
       },
@@ -938,7 +1064,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 347520,
       "name": "Le coeur grenadine",
       "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
@@ -978,6 +1104,24 @@
       "duration_ms": 144826,
       "name": "Le temps de l'amour",
       "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
+    },
+    {
+      "album": {
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
     },
     {
       "album": {
@@ -1028,7 +1172,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250613,
       "name": "Les mots bleus",
       "url": "https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc"
@@ -1082,7 +1226,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 208200,
       "name": "Les yeux ouverts",
       "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
@@ -1176,7 +1320,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256506,
       "name": "Message personnel - Remasteris\u00e9 en 2013",
       "url": "https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y"
@@ -1219,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Morgane De Toi (Remastered)",
+        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372186,
+      "name": "Morgane de toi",
+      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
+    },
+    {
+      "album": {
         "name": "La Valse A Mille Temps (Vol.4)",
         "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
       },
@@ -1248,7 +1410,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199546,
       "name": "Nous",
       "url": "https://open.spotify.com/track/5KURaCww90G5JWY3HAZ5tn"
@@ -1363,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Que reste-t-il de nos amours ?",
+      "url": "https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L"
+    },
+    {
+      "album": {
         "name": "La montagne 1964",
         "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
       },
@@ -1392,7 +1572,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168626,
       "name": "Quelqu'un m'a dit",
       "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
@@ -1634,7 +1814,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"

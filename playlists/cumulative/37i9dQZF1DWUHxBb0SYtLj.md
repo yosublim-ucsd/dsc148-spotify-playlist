@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Angelica
 
-974 songs - 2 day 0 hr 39 min
+975 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Fiamme](https://open.spotify.com/track/2lAcIougDejveyLgAGHXoP) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [Fiamme](https://open.spotify.com/album/6OlYreAidBgOvp5BYSwjel) | 3:58 | 2021-12-07 | 2022-04-06 |
 | [Fiamme](https://open.spotify.com/track/12CYTXEbVhBmb7Cb3bn5pS) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [Fiamme](https://open.spotify.com/album/11iHMc69wzqJe9OAtL75dP) | 2:38 | 2022-01-04 | 2022-02-03 |
 | [Figli del deserto](https://open.spotify.com/track/7KD2GB046PewY5Nvqsbaq0) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Figli del deserto](https://open.spotify.com/album/56JPIb7GyWkjLqjkTbe2tG) | 2:07 | 2024-01-09 | 2024-02-08 |
-| [figliafutura](https://open.spotify.com/track/7zICTxRBg8BF1JsuHvpGfk) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5tVGZVMIH8xNqPmwhoLgp5) | 2:54 | 2024-04-02 |  |
+| [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 | 2024-04-02 |  |
+| [figliafutura](https://open.spotify.com/track/7zICTxRBg8BF1JsuHvpGfk) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5tVGZVMIH8xNqPmwhoLgp5) | 2:54 | 2024-04-02 | 2024-04-19 |
 | [Figlie della Luna](https://open.spotify.com/track/2e0EbWEyOvWaeoopakkZWn) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Figlie della Luna](https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg) | 2:48 | 2023-11-29 | 2024-01-10 |
 | [Figlie della Luna](https://open.spotify.com/track/4SceTQLARIDQbsI5AT25iu) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Gipsy chic // ɔıɥɔ ʎsdıƃ](https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi) | 2:48 | 2023-08-01 | 2023-10-04 |
 | [Fila indiana](https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM) | 3:13 | 2024-01-11 | 2024-02-08 |

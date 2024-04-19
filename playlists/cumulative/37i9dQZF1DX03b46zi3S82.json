@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131483,
       "name": "Derri\u00e8re le carreau ferm\u00e9",
       "url": "https://open.spotify.com/track/0PeioVXpgkx0gAjjXWZgrI"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": null,
       "duration_ms": 131483,
       "name": "Derri\u00e8re le carreau ferm\u00e9",
       "url": "https://open.spotify.com/track/659EQJMW0XdMy1aLN4Kcxo"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 148767,
       "name": "First Sunlight",
       "url": "https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148767,
       "name": "First Sunlight",
       "url": "https://open.spotify.com/track/51NAW2O7tsdkt5VbRvWGoP"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP"
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX"
@@ -3726,7 +3726,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137013,
       "name": "Nederlag",
       "url": "https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 137013,
       "name": "Nederlag",
       "url": "https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt"
@@ -5574,7 +5574,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/3mZ1vH8XtCcBL1HNrHfGWU"
@@ -5592,7 +5592,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6goPA6XgFxqaIhaIk1IXhY"
@@ -6212,6 +6212,24 @@
     {
       "album": {
         "name": "Waves",
+        "url": "https://open.spotify.com/album/3BkQQlkS7ROeILw3aoJ2zu"
+      },
+      "artists": [
+        {
+          "name": "Astrid Evans",
+          "url": "https://open.spotify.com/artist/4f3z31SdUpS0auVOk6h2Vj"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144575,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3Q4SprlTUVDg4HkH0e9vQR"
+    },
+    {
+      "album": {
+        "name": "Waves",
         "url": "https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI"
       },
       "artists": [
@@ -6222,7 +6240,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144334,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L"
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167000,
       "name": "\u00d3tta",
       "url": "https://open.spotify.com/track/1HIsNXsMp337FECrM521V0"
@@ -6528,7 +6546,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "\u00d3tta",
       "url": "https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m"

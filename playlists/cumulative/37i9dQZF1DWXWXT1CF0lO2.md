@@ -4,7 +4,7 @@
 
 > Ajude seu bebê a adormecer com esta playlist relaxante com as favoritos da Disney.
 
-77 songs - 3 hr 45 min
+78 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Lavender Blue \(Dilly Dilly\) \- Instrumental](https://open.spotify.com/track/41xfXGP8qwohCKMIv61DmF) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:31 | 2021-04-26 |  |
 | [London Bridge/Tura\-Lura\-Lural \(That's An Irish Lullaby\) \- Instrumental](https://open.spotify.com/track/7lE2IEY8KXtqQRGs3TZhX0) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:30 | 2021-04-26 |  |
 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 | 2021-04-26 |  |
-| [Meg's Garden](https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 1:14 | 2021-04-26 |  |
+| [Meg's Garden](https://open.spotify.com/track/1OkdPo7U61GS697VFzmXTI) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 1:14 | 2024-01-30 |  |
+| [Meg's Garden](https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 1:14 | 2021-04-26 | 2024-04-19 |
 | [Mickey Mouse Clubhouse Theme](https://open.spotify.com/track/6PsshaEg0aa2OgB4xiD01b) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:25 | 2021-04-26 |  |
 | [Muppet Babies Theme 2018](https://open.spotify.com/track/2nvNhtBQmzW1SfclVIsvqG) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2021-04-26 |  |
 | [Nowhere to Go But Up](https://open.spotify.com/track/6UIUumGM96FmXKtMuDibZS) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:52 | 2021-04-26 |  |

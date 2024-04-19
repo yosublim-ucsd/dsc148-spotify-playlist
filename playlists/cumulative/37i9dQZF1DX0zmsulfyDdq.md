@@ -2,9 +2,9 @@
 
 ### [Disney Lullaby](https://open.spotify.com/playlist/37i9dQZF1DX0zmsulfyDdq)
 
-> Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.
+> Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-214 songs - 10 hr 44 min
+215 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [The Ship](https://open.spotify.com/track/4KdrgmXjJ29AsCjE6x1qr3) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 4:55 | 2022-04-15 |  |
 | [The Tiki, Tiki, Tiki Room](https://open.spotify.com/track/58cGVTWIpbFOdoB2IWTyHm) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 2:25 | 2022-04-15 |  |
 | [This Is Halloween](https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM) | [Chantry Johnson](https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW) | [Little Nightmares](https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG) | 4:35 | 2022-04-15 |  |
+| [This Wish](https://open.spotify.com/track/0SPQCd6HwTZpccRVexR229) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Wish](https://open.spotify.com/album/3SYfKw3qLbZqeXhMKhW8mI) | 3:36 | 2024-04-19 |  |
 | [This Wish \- Orgel Version](https://open.spotify.com/track/7rxTDN1TVl1mqxhBTPLqkH) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol\. 2](https://open.spotify.com/album/0iswLGj4W2QE1ou9vK7Mqn) | 4:56 | 2024-03-19 |  |
 | [True Love's Kiss](https://open.spotify.com/track/1gQDe3rSARbQT2dzGeCDfa) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Balance](https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW) | 2:47 | 2022-04-15 |  |
 | [Trust in Me](https://open.spotify.com/track/7zQejxywqVxvAB56WVlJV6) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Serenity](https://open.spotify.com/album/6yR9o27G8Cnxu8BLrOyKsN) | 1:50 | 2022-04-15 |  |

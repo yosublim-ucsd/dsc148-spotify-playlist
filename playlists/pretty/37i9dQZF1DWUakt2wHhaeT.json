@@ -1,6 +1,6 @@
 {
   "description": "Manifest some motivation with Broadway's best \"I Want\" songs. Cover: Hamilton",
-  "num_followers": 44477,
+  "num_followers": 44530,
   "original_name": "I Want My Broadway",
   "owner": {
     "name": "Spotify",
@@ -231,8 +231,8 @@
     {
       "added_at": "2021-12-14 17:49:40",
       "album": {
-        "name": "Little Shop of Horrors (The New Cast Album)",
-        "url": "https://open.spotify.com/album/0v8V3y9zW14NRDTXs0Rt9S"
+        "name": "Little Shop of Horrors (The New Off-Broadway Cast Album)",
+        "url": "https://open.spotify.com/album/7Cag7tktEaptbKO2PhtUJ0"
       },
       "artists": [
         {
@@ -254,7 +254,7 @@
       ],
       "duration_ms": 254842,
       "name": "Somewhere That's Green",
-      "url": "https://open.spotify.com/track/5igY2rvBf3uSnwthz2UvNW"
+      "url": "https://open.spotify.com/track/5dejTARgzKS5idERfXHA4R"
     },
     {
       "added_at": "2021-12-14 17:49:40",
@@ -620,7 +620,7 @@
       "added_at": "2021-12-14 17:49:40",
       "album": {
         "name": "Anastasia (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI"
+        "url": "https://open.spotify.com/album/2dDzJlbHoVGKMGZF4wQfla"
       },
       "artists": [
         {
@@ -630,13 +630,13 @@
       ],
       "duration_ms": 196120,
       "name": "Journey to the Past",
-      "url": "https://open.spotify.com/track/5bVNYvkjRZuaQnKKdAGuq5"
+      "url": "https://open.spotify.com/track/1T0OMgJ1bSqlMDD8cWbvnL"
     },
     {
       "added_at": "2021-12-14 17:49:40",
       "album": {
         "name": "Funny Girl (Original Broadway Cast / 50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6DT6MMtBCJihW7nz6FbpWp"
+        "url": "https://open.spotify.com/album/5lc9AB69AA3THudUN6btkP"
       },
       "artists": [
         {
@@ -646,7 +646,7 @@
       ],
       "duration_ms": 240760,
       "name": "I'm The Greatest Star",
-      "url": "https://open.spotify.com/track/3UIhR0lLom0pyhUk9ZjuA0"
+      "url": "https://open.spotify.com/track/3oacQK3zx5H5yCC3HzZrv5"
     },
     {
       "added_at": "2021-12-14 17:49:40",
@@ -772,7 +772,7 @@
       "added_at": "2021-12-14 17:49:40",
       "album": {
         "name": "Spring Awakening (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
+        "url": "https://open.spotify.com/album/22BNtGKmvhmIcalNXzS9xC"
       },
       "artists": [
         {
@@ -782,7 +782,7 @@
       ],
       "duration_ms": 121533,
       "name": "All That's Known - Original Broadway Cast Recording/2006",
-      "url": "https://open.spotify.com/track/3mcjClYAydv7jqqcu0tgQF"
+      "url": "https://open.spotify.com/track/2rva0M9ct40LyAxwFi047X"
     },
     {
       "added_at": "2021-12-14 17:49:40",
@@ -803,18 +803,22 @@
     {
       "added_at": "2021-12-14 17:49:40",
       "album": {
-        "name": "13 (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0PYHx9i2CuaxoYzVpc1ZIY"
+        "name": "13 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62Oww5qIS1QtGvVDBgHBvx"
       },
       "artists": [
         {
-          "name": "Allie Trimm",
-          "url": "https://open.spotify.com/artist/1QeNFOV8X0a0norZlixQp3"
+          "name": "13 Orginal Cast",
+          "url": "https://open.spotify.com/artist/1W4GVkbBIEXOuzrUrqLZ2A"
+        },
+        {
+          "name": "Original Cast Recording",
+          "url": "https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw"
         }
       ],
       "duration_ms": 182013,
-      "name": "The Lamest Place in the World",
-      "url": "https://open.spotify.com/track/4APkwJ3qSt74pQAw70POWm"
+      "name": "The Lamest Place In The World",
+      "url": "https://open.spotify.com/track/0oUxFqumachSOZoIAhxybk"
     },
     {
       "added_at": "2021-12-14 17:49:40",
@@ -988,25 +992,29 @@
       "added_at": "2021-12-14 17:49:40",
       "album": {
         "name": "Baby (Original Broadway Cast)",
-        "url": "https://open.spotify.com/album/2BwaoDYtFyIR3MDFb7vX3u"
+        "url": "https://open.spotify.com/album/49TWxT07oS56bH3DT8SwlQ"
       },
       "artists": [
+        {
+          "name": "Original Broadway Cast of Baby",
+          "url": "https://open.spotify.com/artist/0Fd5DsEvNvd0GAJ3ozkkVu"
+        },
+        {
+          "name": "Liz Callaway",
+          "url": "https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb"
+        },
         {
           "name": "Beth Fowler",
           "url": "https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV"
         },
         {
           "name": "Catherine Cox",
-          "url": "https://open.spotify.com/artist/5BBPmV6YcypBkKU6uK3VMh"
-        },
-        {
-          "name": "Liz Callaway",
-          "url": "https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb"
+          "url": "https://open.spotify.com/artist/3Do2pdsFEeQ4lFWZwBoHmZ"
         }
       ],
-      "duration_ms": 251812,
+      "duration_ms": 253800,
       "name": "I Want It All",
-      "url": "https://open.spotify.com/track/5bYdYslgoM3G6y1ibfSqHZ"
+      "url": "https://open.spotify.com/track/06YfwovFh3bNg5ijqp6Wn5"
     },
     {
       "added_at": "2021-12-14 17:49:40",
@@ -1440,7 +1448,7 @@
       "added_at": "2021-12-14 17:49:40",
       "album": {
         "name": "Once on This Island (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi"
+        "url": "https://open.spotify.com/album/4Gbxn6WBheHhcMXTC8jIQs"
       },
       "artists": [
         {
@@ -1449,12 +1457,12 @@
         },
         {
           "name": "Once On This Island Storytellers",
-          "url": "https://open.spotify.com/artist/2Am9K49DTac0Pf0YOa3qwF"
+          "url": "https://open.spotify.com/artist/3CoXUJj9mSjynSVi2e9Ax4"
         }
       ],
       "duration_ms": 205040,
       "name": "Waiting for Life",
-      "url": "https://open.spotify.com/track/0SIBJD3PsOMO1QiS3TI2xm"
+      "url": "https://open.spotify.com/track/1XS2iQd8STgEwI7ptzXnT0"
     }
   ],
   "unique_name": "I Want My Broadway",

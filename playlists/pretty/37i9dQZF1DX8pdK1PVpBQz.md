@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: CLYPSO  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,702 likes - 95 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,739 likes - 95 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 9 | [Rather Be Lonely](https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Rather Be Lonely](https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc) | 3:08 |
 | 10 | [Lightbeam](https://open.spotify.com/track/63MnejjfHkNdQlrUGzN1l1) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [Lightbeam](https://open.spotify.com/album/5zVOeRGGjKcHf86HlZCT29) | 3:13 |
 | 11 | [SMILE](https://open.spotify.com/track/5HE2WW4xWWMMFLRNvlPqYI) | [bKIDD](https://open.spotify.com/artist/0VMrLeJ3ASWqhpfbJnUiD1), [Dei Hamo](https://open.spotify.com/artist/1Xx40ueLyOU9IaT3qwHzUL) | [SMILE](https://open.spotify.com/album/6RQ0O05c5k7pi9zINlZyKP) | 3:06 |
-| 12 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
+| 12 | [Lucid Dreams](https://open.spotify.com/track/4trMnWPyJyaWCSUGPKfwxt) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/6XKaETQeUN4i27oMn94iIC) | 3:02 |
 | 13 | [Rockabye](https://open.spotify.com/track/1yMzSOuuTWGG4HEGNJYqWE) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Rockabye](https://open.spotify.com/album/1KqHxx5Q7SHF9u7ws1up2v) | 2:30 |
 | 14 | [Bury Me](https://open.spotify.com/track/0LhFzBT21BMCfm4VvXwn7W) | [neish](https://open.spotify.com/artist/4OhS3bWx7rkNbSe5VWnlNa) | [Bury Me](https://open.spotify.com/album/4odJErHwgNYOzT31qR2omg) | 2:55 |
 | 15 | [Where did you go?](https://open.spotify.com/track/6O0J156D4V7SuAXuYkg9EG) | [Psychic Social Club](https://open.spotify.com/artist/3zdmOqsxv0670azOyHTFYY) | [Where did you go?](https://open.spotify.com/album/5AeBiMsgZeCp5ENB2KZK9U) | 3:19 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 31 | [Echo](https://open.spotify.com/track/2GZpe5Q1JLrD0vQGlcxGoK) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Echo](https://open.spotify.com/album/4REFGlIKveSFVZhPSpT4Lt) | 2:22 |
 | 32 | [High](https://open.spotify.com/track/3zmAl3GgHYDxVr7DOmkRvV) | [Paige Valentine](https://open.spotify.com/artist/03CUg2BV0QxiYIq0IfAsBS) | [Lucky Blue](https://open.spotify.com/album/3oLiKGuHbekpoydOhBzMAM) | 3:42 |
 | 33 | [Life of the Party](https://open.spotify.com/track/3xMrX3EA2e6fcdarak6Vnf) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Life of the Party](https://open.spotify.com/album/4025IhiFCcsu3OzI3aEzoz) | 2:56 |
-| 34 | [The Song Of You](https://open.spotify.com/track/6qPPNp1IXn5StfE3SrCbw1) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [The Song Of You](https://open.spotify.com/album/6Ad7G1yO4M0ub2ijUkbszq) | 2:10 |
+| 34 | [The Song of You](https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [The Song of You](https://open.spotify.com/album/4NUKgm26zPv5N4VKz266gR) | 2:10 |
 | 35 | [Replay](https://open.spotify.com/track/4BAIKNDhzBhO90nKPEVP4b) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Replay](https://open.spotify.com/album/5FLiuv7yv19N5iuezp0qQO) | 2:19 |
 | 36 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
 | 37 | [Party Boy](https://open.spotify.com/track/51miOuPRpcixpAMvEPfqHe) | [Eaglemont](https://open.spotify.com/artist/29lNdWVT8FA54OsgO0TUca) | [Party Boy](https://open.spotify.com/album/5rDfCNRou1diPQdMyp7cht) | 3:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 46 | [Kill My Vibe](https://open.spotify.com/track/7rEna9icPrPPFf9sde2wK4) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Kill My Vibe](https://open.spotify.com/album/2cHTrXqBuuyUNEfwxpoy5A) | 2:45 |
 | 47 | [Leave](https://open.spotify.com/track/39WIyVtD3MSKopbQpkrAQR) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Leave](https://open.spotify.com/album/3XOEU693kFWRGUmoOQNGM0) | 4:06 |
 | 48 | [If Only](https://open.spotify.com/track/1gVxcBMmlJOZ1NoOyDShfx) | [smol fish](https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v) | [If Only](https://open.spotify.com/album/0TDVyWkWvoaY3Rw32g9ElZ) | 3:23 |
-| 49 | [Little Sadness](https://open.spotify.com/track/49g1H0rJged6uMSSNWjVPK) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Little Sadness](https://open.spotify.com/album/5x1S070dZjshXHN5bwSPWN) | 3:40 |
+| 49 | [Little Sadness](https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Little Sadness](https://open.spotify.com/album/4pD4Kemo4z4bwpdzEFg9F0) | 3:40 |
 | 50 | [THANK GOD! FOR ASTROLOGY!](https://open.spotify.com/track/3sNRUmiiZBa21zat5emMO9) | [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [DOG BEACH](https://open.spotify.com/album/2QsAoMMPHazYtCObBvriN2) | 3:14 |
 | 51 | [Motive](https://open.spotify.com/track/3IEPhX1Xk2XlLcLor1whVT) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Motive](https://open.spotify.com/album/3pzH6jllgnJ6viOtPqxbd4) | 2:49 |
 | 52 | [Bigga Tingz](https://open.spotify.com/track/5ErzteijeVjwkTAgZ5CB18) | [Rubi Du](https://open.spotify.com/artist/3omcGuSFdQRpFptKW9iG1H) | [Bigga Tingz](https://open.spotify.com/album/2fsgxwOEVEQJw4FMEe5FNZ) | 2:26 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 69 | [Piny Lara](https://open.spotify.com/track/133uiqDWdBnBquBue2QHiD) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Piny Lara](https://open.spotify.com/album/6wnC1RGtXXcf6VDvvQgBAc) | 4:19 |
 | 70 | [Fun Guy](https://open.spotify.com/track/73LdrN3D21BjIp6dEZCVMj) | [Peter Bibby](https://open.spotify.com/artist/2hL4zRvjx5funfrhNUxUS2) | [Fun Guy](https://open.spotify.com/album/07uNMCzVWA7rORdxzIfpWR) | 3:24 |
 | 71 | [YOU DON'T LIKE ME](https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [YOU DON'T LIKE ME](https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4) | 2:44 |
-| 72 | [As The Dogs Were Playing](https://open.spotify.com/track/3G3mzsZRaLMOuNH2cT0IG2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 2:12 |
+| 72 | [As The Dogs Were Playing](https://open.spotify.com/track/2gSp1FsyOfrCYM4Xe3KVak) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/1BqjZpIGkCIsDrxEhpv5a2) | 2:12 |
 | 73 | [CHAMPIONSH\*T](https://open.spotify.com/track/66Po89QR7n52bkS1l5y0qc) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [CHAMPIONSH\*T](https://open.spotify.com/album/5G9MfsgH8AEmBHCXtxXiK1) | 3:34 |
 | 74 | [Weaponz](https://open.spotify.com/track/00pmqiJxIvnorE7dDR8Hnr) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Weaponz](https://open.spotify.com/album/3DRQt80MAHsSJC2vraQVaX) | 2:29 |
 | 75 | [In Your Arms](https://open.spotify.com/track/44sEj97dAR6P6t5kE7YwFV) | [Mason Watts](https://open.spotify.com/artist/3U0qz6QvONMmrEb3gO1jZN) | [In Your Arms](https://open.spotify.com/album/1P6oYn2wbWX4P6iGNaBvNU) | 2:23 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 78 | [Leonard Cohen](https://open.spotify.com/track/17K47MuEJurkcEaU0XLJde) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [Leonard Cohen](https://open.spotify.com/album/6pXF5fPTRHYdz4zS0n9oy3) | 3:43 |
 | 79 | [NO MORE](https://open.spotify.com/track/3xZjrvycRWfj9KCJhUKmOn) | [coolthekid](https://open.spotify.com/artist/72VGlD2XP1a2eGhsZx2VaE) | [NO MORE](https://open.spotify.com/album/0NXCuIYen954onmzYyKnhb) | 3:43 |
 | 80 | [Don't I Know U](https://open.spotify.com/track/6jj2udCihiPt9jOM0BuzPu) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Don't I Know U](https://open.spotify.com/album/55JMXmtkWoP35YvryUGNib) | 3:16 |
-| 81 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 |
+| 81 | [Excalibur](https://open.spotify.com/track/2Y2nA9IKV1wFPNdzQe116n) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0otqoDLNYY23IMA9xZyZKl) | 3:25 |
 | 82 | [this wasn't meant to be a sad song](https://open.spotify.com/track/77oU5ehFVuvbkxmLlKtkTK) | [sleepy benjamin](https://open.spotify.com/artist/2Dpw5rzcRedRcJLH9eyVRc) | [this wasn't meant to be a sad song](https://open.spotify.com/album/6P63qBgh8PYPRMhMnOevmi) | 2:42 |
 | 83 | [Better](https://open.spotify.com/track/51imhLkXIPKe1w22SHi6u8) | [Benjamin Mack](https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY), [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [Better](https://open.spotify.com/album/36aH5y8cdEVUoCElSjlhrr) | 3:11 |
 | 84 | [Floodgate](https://open.spotify.com/track/5gGdwj2Pww9BJb7lFYqnFg) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Floodgate](https://open.spotify.com/album/1wuMBPwFasiQZxPff61IAO) | 1:54 |

@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Bang Bang (Future Swing Mix)",
+        "url": "https://open.spotify.com/album/2AyWBB2grQkYia6WDEbWTt"
+      },
+      "artists": [
+        {
+          "name": "Masha Ray",
+          "url": "https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW"
+        },
+        {
+          "name": "Bbop",
+          "url": "https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123500,
+      "name": "Bang Bang - Future Swing Mix",
+      "url": "https://open.spotify.com/track/2hal3K1iZA1G0ttAwfMoPV"
+    },
+    {
+      "album": {
         "name": "Barbie Girl (Electro Swing Remix)",
         "url": "https://open.spotify.com/album/5LUTrIZZJ6ORJhc73mwTo2"
       },
@@ -446,7 +468,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211500,
       "name": "Bei Mir Bistu Shein - Electro Swing Mix",
       "url": "https://open.spotify.com/track/6w21L3eVgP07fWiYew9Tsd"
@@ -522,7 +544,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189956,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/18WzUm7C5zIco4EvaFIszy"
@@ -540,7 +562,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189956,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC"
@@ -1604,7 +1626,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190508,
       "name": "Empires",
       "url": "https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh"
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190508,
       "name": "Empires",
       "url": "https://open.spotify.com/track/7BilkHwC8zy0Mv67wsGiUM"
@@ -1804,7 +1826,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 189679,
       "name": "Fever - Radio edit",
       "url": "https://open.spotify.com/track/2wAfJqzEXakJyDJeR8hYnW"
@@ -1826,7 +1848,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189679,
       "name": "Fever - Radio edit",
       "url": "https://open.spotify.com/track/4fCYVbqX8lhTwVDsJgQNsh"
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 209773,
       "name": "Gypsie Doodle",
       "url": "https://open.spotify.com/track/4CKlQsRoWRQHK78FyxY9CJ"
@@ -2248,7 +2270,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209773,
       "name": "Gypsie Doodle - Live",
       "url": "https://open.spotify.com/track/629f1Dy6T4NtcoHalprl6c"
@@ -3226,7 +3248,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233879,
       "name": "Light up the Night",
       "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
@@ -3256,7 +3278,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233879,
       "name": "Light up the Night",
       "url": "https://open.spotify.com/track/1fbZDbnXkNXN4wbzme7Kk0"
@@ -3328,7 +3350,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL"
@@ -3346,7 +3368,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/6Ntz1uQoMF8L2E4w518BFp"
@@ -3390,7 +3412,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 168142,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/6wOKNE9JL9ueQzUAaXpa5l"
@@ -3408,7 +3430,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168142,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/6zAhQwaJcFUppYAqq9sm9D"
@@ -3680,7 +3702,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 164582,
       "name": "Marcianito - Cristina Renzetti Vocal Version",
       "url": "https://open.spotify.com/track/0gcOlRU3P9yu3Jhqd3ZYUZ"
@@ -3702,7 +3724,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164582,
       "name": "Marcianito - Cristina Renzetti Vocal Version",
       "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
@@ -4166,7 +4188,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 283738,
       "name": "My Bad Alice",
       "url": "https://open.spotify.com/track/03ERbwKRWWdgPz60LOwrKy"
@@ -4184,7 +4206,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283738,
       "name": "My Bad Alice",
       "url": "https://open.spotify.com/track/1z4VodQtJDaAGwVXfCDhYg"
@@ -4209,7 +4231,7 @@
     },
     {
       "album": {
-        "name": "Never let you go",
+        "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/6ilFub0J7EMvDS4BHEH5yZ"
       },
       "artists": [
@@ -4224,7 +4246,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 191506,
       "name": "Never let you go",
       "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
@@ -4246,7 +4268,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193639,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/4KMIxYB3OX5GvKGH2XXOiq"
@@ -4388,7 +4410,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229189,
       "name": "Otto Croy",
       "url": "https://open.spotify.com/track/2t9zpAfTNMZbUrDvYos1us"
@@ -4406,7 +4428,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 229189,
       "name": "Otto Croy",
       "url": "https://open.spotify.com/track/5kAbhPC9z3sJEfQQxaoMfu"
@@ -4916,7 +4938,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 211879,
       "name": "Scruffy",
       "url": "https://open.spotify.com/track/1mMFvnyJ3kjfq0PvUklgoM"
@@ -4942,7 +4964,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211879,
       "name": "Scruffy",
       "url": "https://open.spotify.com/track/7yG0SwtX3oxC9NiFuiCN13"
@@ -5314,7 +5336,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 196470,
       "name": "So Good",
       "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
@@ -5332,7 +5354,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196470,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6JUW1SeVIe3Rtdq7beQ6eM"
@@ -5420,7 +5442,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330893,
       "name": "Speed Dating An Arsonist",
       "url": "https://open.spotify.com/track/2FhInxwW01SyhpDp9LbInt"
@@ -5438,7 +5460,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 330893,
       "name": "Speed Dating An Arsonist",
       "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
@@ -5728,7 +5750,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328441,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
@@ -5746,7 +5768,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 327837,
       "name": "Superhero - Original Mix",
       "url": "https://open.spotify.com/track/6kWxGDy6M6IBoUphdmYTSq"
@@ -5768,7 +5790,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 265627,
       "name": "Swag Bag",
       "url": "https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a"
@@ -5790,7 +5812,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270967,
       "name": "Swag Bag",
       "url": "https://open.spotify.com/track/32gRfQc1O71YyaEzcBPUuZ"
@@ -6048,7 +6070,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 200559,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
@@ -6066,7 +6088,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200559,
       "name": "Take It Easy - Original",
       "url": "https://open.spotify.com/track/5StNWVFBLz4XBXtmf6Rxrs"
@@ -6110,6 +6132,24 @@
       "duration_ms": 199963,
       "name": "Taking You with Me",
       "url": "https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG"
+    },
+    {
+      "album": {
+        "name": "Whiskey and a Saddle",
+        "url": "https://open.spotify.com/album/16Ry8wgSgQEQqK5C6wBBwE"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190116,
+      "name": "Texas Toni Lee",
+      "url": "https://open.spotify.com/track/6HkahosgrmPvvVKtZoLBiT"
     },
     {
       "album": {
@@ -6164,7 +6204,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 173284,
       "name": "The Cat Came Back - Bdd Remix Edit",
       "url": "https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12"
@@ -6186,7 +6226,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173296,
       "name": "The Cat Came Back - Bdd Remix Edit",
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
@@ -6760,7 +6800,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189186,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/2pAkvdCFORWTiFJHVjojdC"
@@ -6778,7 +6818,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 189186,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/7wTmnOSpVJcIzj5FIz2I04"
@@ -6976,7 +7016,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207793,
       "name": "Wake Up Romeo",
       "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
@@ -7338,7 +7378,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 171020,
       "name": "Why Don't You",
       "url": "https://open.spotify.com/track/2FOPJIJvirxmqIVeAqeTx2"
@@ -7356,7 +7396,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170273,
       "name": "Why Don't You - Radio Edit",
       "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"

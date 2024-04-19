@@ -1,13 +1,29 @@
 {
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: ZAYN",
-  "num_followers": 906627,
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Shaya Zamora",
+  "num_followers": 907216,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMDk3OTMyN2IxNzdkOTIxYjI0NWVjZmU5Y2MxZDIwYjk2",
+  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDI1YmQ0YjI5YmUzNWVmOGY5MDliMjk1NWE2NmE5ZDY4",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Pretty Little Devil",
+        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 167690,
+      "name": "Pretty Little Devil",
+      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
+    },
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 262974,
+      "name": "So Long, London",
+      "url": "https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE"
+    },
+    {
+      "added_at": "2024-03-29 17:12:39",
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -59,22 +123,6 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -87,6 +135,54 @@
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/3AiBf52cAcDxVpFnfx8Xjr"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 211187,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/7ksg8Q9dVls297TACKj91s"
+    },
+    {
+      "added_at": "2024-03-29 17:12:39",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/6Bf4Ppas9nS1Puv4J5hkNH"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 164227,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6jIjQHf2S6jVh25TbNV6TM"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -103,6 +199,22 @@
       "duration_ms": 196210,
       "name": "The Mountain Is You",
       "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Let Me Out",
+        "url": "https://open.spotify.com/album/7dtfGtbqAhjCSzspHltyHo"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Let Me Out",
+      "url": "https://open.spotify.com/track/2bhxAQ0lh38pYYD6xPhkoy"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -176,7 +288,7 @@
       "added_at": "2024-03-29 17:12:39",
       "album": {
         "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
       },
       "artists": [
         {
@@ -186,7 +298,7 @@
       ],
       "duration_ms": 148317,
       "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -467,8 +579,8 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "County Line",
-        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
       },
       "artists": [
         {
@@ -478,7 +590,7 @@
       ],
       "duration_ms": 231724,
       "name": "Rearview",
-      "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -648,7 +760,7 @@
       "added_at": "2024-03-29 17:12:39",
       "album": {
         "name": "my friend's toyota",
-        "url": "https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah"
+        "url": "https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg"
       },
       "artists": [
         {
@@ -658,7 +770,7 @@
       ],
       "duration_ms": 194400,
       "name": "my friend's toyota",
-      "url": "https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF"
+      "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -759,8 +871,8 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "Sonder (2023)",
-        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
       },
       "artists": [
         {
@@ -770,7 +882,7 @@
       ],
       "duration_ms": 198221,
       "name": "Better Days",
-      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+      "url": "https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -792,7 +904,7 @@
       "added_at": "2024-03-29 17:12:39",
       "album": {
         "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
       },
       "artists": [
         {
@@ -814,7 +926,7 @@
       ],
       "duration_ms": 234933,
       "name": "Not Strong Enough",
-      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+      "url": "https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -867,54 +979,6 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 164227,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
         "name": "Leave It Better Than You Found It",
         "url": "https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8"
       },
@@ -952,7 +1016,7 @@
       "added_at": "2024-03-29 17:12:39",
       "album": {
         "name": "My Home",
-        "url": "https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND"
+        "url": "https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R"
       },
       "artists": [
         {
@@ -962,7 +1026,7 @@
       ],
       "duration_ms": 206250,
       "name": "My Home",
-      "url": "https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q"
+      "url": "https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -979,42 +1043,6 @@
       "duration_ms": 249825,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
-        "name": "Mr. Nobody",
-        "url": "https://open.spotify.com/album/64OuLnO1a6e8hg5I0EKICU"
-      },
-      "artists": [
-        {
-          "name": "Zach Seabaugh",
-          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
-        }
-      ],
-      "duration_ms": 201610,
-      "name": "Mr. Nobody",
-      "url": "https://open.spotify.com/track/4Wt2BCVTuHmOJm6CEGgxaM"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -1100,7 +1128,7 @@
       "added_at": "2024-03-29 17:12:39",
       "album": {
         "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
       },
       "artists": [
         {
@@ -1110,7 +1138,7 @@
       ],
       "duration_ms": 292080,
       "name": "First Light",
-      "url": "https://open.spotify.com/track/0xCYHtz6bHgKY9zqP7Yciu"
+      "url": "https://open.spotify.com/track/70DOGQeW4mp3KdDv7pRGlD"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -1167,8 +1195,8 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "We're Starting to Look Like Each Other",
-        "url": "https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD"
       },
       "artists": [
         {
@@ -1178,7 +1206,7 @@
       ],
       "duration_ms": 248694,
       "name": "Flora",
-      "url": "https://open.spotify.com/track/6LGEAepdRhTsUW57oyOEHa"
+      "url": "https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -1235,28 +1263,8 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
       "artists": [
         {
@@ -1264,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 223240,
+      "duration_ms": 222815,
       "name": "Misnomer",
-      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -1287,8 +1295,8 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
       "artists": [
         {
@@ -1298,7 +1306,7 @@
       ],
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -1319,22 +1327,6 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
-      },
-      "artists": [
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
-    },
-    {
-      "added_at": "2024-03-29 17:12:39",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -1351,8 +1343,8 @@
     {
       "added_at": "2024-03-29 17:12:39",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+        "name": "All We Ever Knew",
+        "url": "https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX"
       },
       "artists": [
         {
@@ -1362,7 +1354,7 @@
       ],
       "duration_ms": 225560,
       "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+      "url": "https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu"
     },
     {
       "added_at": "2024-03-29 17:12:39",

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f6ejuDaRcD.md) - [plain]
 
 > Enjoy the soundtrack of Twenty Five Twenty One! \(청춘을 이야기하는 드라마 스물다섯 스물하나의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,075 likes - 53 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,212 likes - 53 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
 | 2 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
-| 3 | [With](https://open.spotify.com/track/73ZHqY7Ma03NpKiKs26yQU) | [Kim Taeri](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X), [Nam Joohyuk](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv), [Bona\(WJSN\)](https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL), [Choi Hyunwook](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ), [Lee Joomyung](https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6) | [Twenty\-Five Twenty\-One OST](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) | 4:29 |
+| 3 | [With](https://open.spotify.com/track/0Rzx0irygv7gZd8YlvK5aO) | [Kim Taeri](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X), [Nam Joohyuk](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv), [Bona\(WJSN\)](https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL), [Choi Hyunwook](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ), [Lee Joomyung](https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6) | [Twenty\-Five Twenty\-One OST Part 7](https://open.spotify.com/album/17DDjzS1wvt4zixJVxF9wX) | 4:29 |
 | 4 | [Shine on You with Blinding Flash of Light](https://open.spotify.com/track/0j9yFNJ0Y8UagSzwRE7gFM) | [giseong bae](https://open.spotify.com/artist/5zQ3RXLNUzbZvaJ327K6YI) | [Twenty\-Five Twenty\-One OST Part 2](https://open.spotify.com/album/7u0L0BrXdwSdPO1hSXNnBr) | 3:13 |
 | 5 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |
 | 6 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
 | 7 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 | 8 | [Free](https://open.spotify.com/track/44QDTpkTR3eLLfXEKTjyul) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Twenty\-Five Twenty\-One OST Part 8](https://open.spotify.com/album/5TAaxv56fHpUoRZOyOppbl) | 3:46 |
 | 9 | [Your world](https://open.spotify.com/track/27kzK6uZ1njMM5VDZ4nRAD) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 |
-| 10 | [스물다섯, 스물하나](https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS) | 4:44 |
+| 10 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 11 | [Starlight \(Inst.\)](https://open.spotify.com/track/4fFXvYidUH9rYbQwr3DZkI) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
 | 12 | [Shine on You with Blinding Flash of Light \(Inst.\)](https://open.spotify.com/track/1HRdXMQ7qncXGCelrfVFOa) | [giseong bae](https://open.spotify.com/artist/5zQ3RXLNUzbZvaJ327K6YI) | [Twenty\-Five Twenty\-One OST Part 2](https://open.spotify.com/album/7u0L0BrXdwSdPO1hSXNnBr) | 3:13 |
 | 13 | [Very, Slowly \(Inst.\)](https://open.spotify.com/track/2b9AClFYJJd5rHV7PzcRD1) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,294 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,265 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 8 | [Maliciosa](https://open.spotify.com/track/4soVnFUDnqQ61kyjW2zwTm) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Maliciosa](https://open.spotify.com/album/1t6dYhg6LajxlQpexrfZW0) | 2:46 |
 | 9 | [MINHA CURA \- REMIX](https://open.spotify.com/track/3LxUi6dRPOza6BFcM6xXdW) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:34 |
 | 10 | [Iludidão \- Ao Vivo](https://open.spotify.com/track/6UdXR4Vhhm0O9PlztqwZUd) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 3:02 |
-| 11 | [Delirante](https://open.spotify.com/track/5kxLK18tj3pPTpGAJA4CeF) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Pagode para os apaixonados](https://open.spotify.com/album/0IZu7wSFDI2293yVAsZSgI) | 3:30 |
+| 11 | [Delirante](https://open.spotify.com/track/4sxFTkiFbC0oJXrIUvFY60) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [ESQUENTHA Tardezinha](https://open.spotify.com/album/4upLAEC3VhsPKkBUJI6KkS) | 3:30 |
 | 12 | [Ele ou Eu \- Ao Vivo](https://open.spotify.com/track/0yNK8lgXqfpIuyANr1uX1m) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:21 |
 | 13 | [Daria Tudo \- Ao Vivo](https://open.spotify.com/track/7zFscGIctVxkUNY8IrmOKH) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Tá Na Mente](https://open.spotify.com/artist/0o7OTu2UXjtxWdVh7UbHGK) | [Trajetória, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4xCvnAbARmubVh3RxzGmds) | 2:54 |
 | 14 | [Sinais / Engano / Ainda Bem \- Ao Vivo](https://open.spotify.com/track/1H6XaF8TkBmohdc4uZjtKB) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Sinais / Engano / Ainda Bem \(Ao Vivo\)](https://open.spotify.com/album/2A42rUF3QhJhIjMFxbEY6w) | 5:14 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 45 | [Novela Perigosa](https://open.spotify.com/track/5WbtEw4C8v81LLWb91No3x) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Trajetória, Vol\. 2](https://open.spotify.com/album/2eCLz8mUNxl4V6V4xN2fHv) | 2:42 |
 | 46 | [Querendo Mais \- Ao Vivo](https://open.spotify.com/track/6962LFd5bjJJ8gxL4wz6WG) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Querendo Mais \(Ao Vivo\)](https://open.spotify.com/album/0EprvIKwgELetTgmauNnyp) | 2:38 |
 | 47 | [Não Era Eu \- Ao Vivo](https://open.spotify.com/track/7vJfy8FJIqWfxHNv5iBYLU) | [Guga Nandes](https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH) | [Ainda Bem Que É Pagode \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/1QGPYrO6JRfGyO0ilOT5BW) | 2:29 |
-| 48 | [Minha Paz É Você \- Ao Vivo](https://open.spotify.com/track/0rSrh1tdO1HLEbGmJRDuH4) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Esse Menino Sou Eu: Bloco Minha Família \(Ao Vivo\)](https://open.spotify.com/album/5bmlai4xqQhIOZCA4kprCG) | 4:02 |
+| 48 | [Minha Paz É Você \- Ao Vivo](https://open.spotify.com/track/5E85AnRsJn1Rl28pInrolD) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Esse Menino Sou Eu: Bloco Minha Família \(Ao Vivo\)](https://open.spotify.com/album/76t3WyiBPM5oYttYo9tdVI) | 4:02 |
 | 49 | [Princípio, Meio e Fim \- Ao Vivo](https://open.spotify.com/track/3Xxhc8X9toGvIDDxVAnmnn) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Marquinho Sathan](https://open.spotify.com/artist/6pGDvf6PGo4GLcZnOw5Wd7) | [Bom Gosto No Cacique \(Ao Vivo\)](https://open.spotify.com/album/1yY1GVqgmQtBR1GY8j8ffS) | 4:46 |
 | 50 | [Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/6nXYDIFHCJuZu1l8F4E4Hg) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music \(Ao Vivo\)](https://open.spotify.com/album/4dvNnE6w4eBxyNxG59UEdL) | 2:47 |
 

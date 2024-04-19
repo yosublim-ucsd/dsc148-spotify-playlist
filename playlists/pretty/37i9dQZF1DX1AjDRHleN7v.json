@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 307567,
+  "num_followers": 307838,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+        "name": "Pre\u00e7o Curto, Prazo Longo",
+        "url": "https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
+      "duration_ms": 252226,
+      "name": "Z\u00f3io De Lula",
+      "url": "https://open.spotify.com/track/0AsfpL8bzbmEyJsfbPPYnj"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Liberdade Pra Dentro da Cabe\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Acordei Bem Cedo",
         "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 377142,
       "name": "Acordei Bem Cedo",
       "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Liberdade Pra Dentro da Cabe\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -203,26 +203,6 @@
       "duration_ms": 193205,
       "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
       "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "TROPICALIA",
-        "url": "https://open.spotify.com/album/2Kx09C96ugvfDpiE2cfeMp"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 227294,
-      "name": "Love So Strong",
-      "url": "https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -347,22 +327,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "vida leve",
         "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
       },
@@ -379,6 +343,22 @@
       "duration_ms": 156909,
       "name": "vida leve",
       "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -451,54 +431,18 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+        "name": "Flor de Aruanda",
+        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         }
       ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk"
-      },
-      "artists": [
-        {
-          "name": "Mateus Menezes",
-          "url": "https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz"
-        }
-      ],
-      "duration_ms": 179816,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Transpira\u00e7\u00e3o Cont\u00ednua Prolongada - Edi\u00e7\u00e3o Comemorativa",
-        "url": "https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Z\u00f3io De Lula",
-      "url": "https://open.spotify.com/track/0qmzAFEijLDdvR2VbjFsPH"
+      "duration_ms": 183146,
+      "name": "Flor de Aruanda",
+      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -515,6 +459,26 @@
       "duration_ms": 209719,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 174858,
+      "name": "pequena - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -575,22 +539,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "tudo \u00e9 mt distante",
-        "url": "https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
@@ -603,22 +551,6 @@
       "duration_ms": 170608,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Saquarema (Remix)",
-        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
-      },
-      "artists": [
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 232353,
-      "name": "Saquarema - Remix",
-      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -639,18 +571,18 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Fica um Pouco Mais",
-        "url": "https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr"
+        "name": "Saquarema (Remix)",
+        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
       },
       "artists": [
         {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Fica um Pouco Mais",
-      "url": "https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1"
+      "duration_ms": 232353,
+      "name": "Saquarema - Remix",
+      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -667,22 +599,6 @@
       "duration_ms": 245312,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Rouxin\u00f3is",
-        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        }
-      ],
-      "duration_ms": 190410,
-      "name": "Rouxin\u00f3is",
-      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -739,6 +655,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Rouxin\u00f3is",
+        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        }
+      ],
+      "duration_ms": 190410,
+      "name": "Rouxin\u00f3is",
+      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Santa Terra",
         "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
       },
@@ -751,26 +683,6 @@
       "duration_ms": 276509,
       "name": "Santa Terra",
       "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Eleva",
-        "url": "https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA"
-      },
-      "artists": [
-        {
-          "name": "Refinaria",
-          "url": "https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ"
-        },
-        {
-          "name": "Chico Martins",
-          "url": "https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw"
-        }
-      ],
-      "duration_ms": 214798,
-      "name": "Eleva",
-      "url": "https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -791,22 +703,6 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Ascenda",
-        "url": "https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "Tchau Querido",
-      "url": "https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -847,22 +743,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
-      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Lua Crescente",
         "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
       },
@@ -879,22 +759,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -907,6 +771,22 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -959,6 +839,22 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
@@ -979,22 +875,6 @@
     {
       "added_at": "2024-04-12 03:01:00",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -1007,30 +887,6 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2024-04-12 03:01:00",
-      "album": {
-        "name": "Que Vem Do Mar",
-        "url": "https://open.spotify.com/album/6aXTdntsgmdS6VLhVumua0"
-      },
-      "artists": [
-        {
-          "name": "Angatu",
-          "url": "https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym"
-        },
-        {
-          "name": "Dasplanta",
-          "url": "https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP"
-        },
-        {
-          "name": "Krabah",
-          "url": "https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB"
-        }
-      ],
-      "duration_ms": 240003,
-      "name": "Que Vem Do Mar",
-      "url": "https://open.spotify.com/track/0HnnjltageT1ZwKjVeG1u8"
     },
     {
       "added_at": "2024-04-12 03:01:00",
@@ -1067,6 +923,138 @@
       "duration_ms": 203333,
       "name": "Sou T\u00e3o Eu",
       "url": "https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
+      },
+      "artists": [
+        {
+          "name": "Solano Jacob",
+          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
+        },
+        {
+          "name": "Rafael Senegal",
+          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
+        }
+      ],
+      "duration_ms": 242948,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
+      },
+      "artists": [
+        {
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
+        }
+      ],
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Abre a Janela",
+        "url": "https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os"
+      },
+      "artists": [
+        {
+          "name": "Maresia Ragga Surf",
+          "url": "https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Abre a Janela",
+      "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
+        "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
+      },
+      "artists": [
+        {
+          "name": "Mateus Menezes",
+          "url": "https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Pra Que Fazer Assim? - Vers\u00e3o Instrumental",
+      "url": "https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Manh\u00e3s Azuis",
+        "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
+      },
+      "artists": [
+        {
+          "name": "Rafa!",
+          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Manh\u00e3s Azuis",
+      "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
+    },
+    {
+      "added_at": "2024-04-12 03:01:00",
+      "album": {
+        "name": "Todo Corpo",
+        "url": "https://open.spotify.com/album/2nwFfB3kFNkM9qehdqmxNm"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9loa",
+          "url": "https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi"
+        }
+      ],
+      "duration_ms": 220431,
+      "name": "Todo Corpo",
+      "url": "https://open.spotify.com/track/1MvZd2Ti0NJvYr58bBArn3"
     }
   ],
   "unique_name": "Praiana",

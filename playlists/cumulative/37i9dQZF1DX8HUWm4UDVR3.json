@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Charlotte Cardin",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ana\u00efs MVA",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 187928,
       "name": "100 X",
       "url": "https://open.spotify.com/track/3OsfDyci8C9BM6ieOwq90J"
+    },
+    {
+      "album": {
+        "name": "24 F\u00e9vrier",
+        "url": "https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139901,
+      "name": "24 F\u00e9vrier",
+      "url": "https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo"
     },
     {
       "album": {
@@ -250,7 +268,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183703,
       "name": "Baby Boom",
       "url": "https://open.spotify.com/track/1nBH9j0nyQiMjAT02rz35b"
@@ -470,6 +488,24 @@
       "duration_ms": 181066,
       "name": "B\u00eatise",
       "url": "https://open.spotify.com/track/6OmdFCxnpRCwuMX9kprUXU"
+    },
+    {
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118834,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK"
     },
     {
       "album": {
@@ -736,7 +772,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152336,
       "name": "Crises d'angoisse",
       "url": "https://open.spotify.com/track/4HFAZTPBdCFuUnSS57Syyx"
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
@@ -1338,7 +1374,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS"
@@ -1480,6 +1516,24 @@
       "duration_ms": 164906,
       "name": "Langue de P***",
       "url": "https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk"
+    },
+    {
+      "album": {
+        "name": "Le bonheur et la tristesse",
+        "url": "https://open.spotify.com/album/6LuBZMDUnsdkmyTYC3rF9M"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Le bonheur et la tristesse",
+      "url": "https://open.spotify.com/track/2YUJ40ggS5vW61ZufiCOK8"
     },
     {
       "album": {
@@ -1700,7 +1754,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194666,
       "name": "LOVE'n'TENDRESSE",
       "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
@@ -1819,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Mille morceaux",
+        "url": "https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD"
+      },
+      "artists": [
+        {
+          "name": "Basile Palace",
+          "url": "https://open.spotify.com/artist/4ASHH7WSwXwrGF8R3TLfAh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183160,
+      "name": "Mille morceaux",
+      "url": "https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/3jAsb2wtV7QcJEvoeClT1y"
       },
@@ -1878,6 +1950,24 @@
       "duration_ms": 187829,
       "name": "Moi du Pass\u00e9",
       "url": "https://open.spotify.com/track/72bwy4wAvp7D2oRsZZ65pp"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s la pluie",
+        "url": "https://open.spotify.com/album/34WUIUhO70T0QUQvoTS16U"
+      },
+      "artists": [
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Mon corps",
+      "url": "https://open.spotify.com/track/2zP3QL9m9TNv0EgEKNiHR8"
     },
     {
       "album": {
@@ -2286,7 +2376,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170772,
       "name": "Popcorn",
       "url": "https://open.spotify.com/track/4dKQSpZXVwNYMgZ9DDIwLM"
@@ -2380,7 +2470,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169293,
       "name": "Que des coeurs",
       "url": "https://open.spotify.com/track/030g4LPa9Nnlx8GA8QzM6R"
@@ -2416,10 +2506,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 169293,
       "name": "Que des coeurs",
       "url": "https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX"
+    },
+    {
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/51EdMV48no4HCO33L6x9aj"
+      },
+      "artists": [
+        {
+          "name": "Doria D",
+          "url": "https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150945,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1MuIj3SP4hYQZGgdRvvmKP"
     },
     {
       "album": {
@@ -3062,7 +3170,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138299,
       "name": "\u00c9tat normal",
       "url": "https://open.spotify.com/track/5gpNCEmwRtF9WmlVc3y9RJ"
@@ -3080,7 +3188,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160813,
       "name": "\u00eatre moi-m\u00eame",
       "url": "https://open.spotify.com/track/1QkNQXYEKusDSWe592C98z"

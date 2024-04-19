@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 179400,
       "name": "Johnny Got A Boom Boom",
       "url": "https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179813,
       "name": "Johnny Got A Boom Boom",
       "url": "https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234826,
       "name": "Life Is A Rollercoaster",
       "url": "https://open.spotify.com/track/1vlTMKVV0FxG6CxGTmSY3t"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234826,
       "name": "Life Is A Rollercoaster",
       "url": "https://open.spotify.com/track/5lQfI9cYzezWGvqwrWkzqh"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "A Tonic For The Troops",
+        "url": "https://open.spotify.com/album/2meIZ6h6faEEjkN9vw9HnV"
+      },
+      "artists": [
+        {
+          "name": "The Boomtown Rats",
+          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310773,
+      "name": "Rat Trap",
+      "url": "https://open.spotify.com/track/1id02aKCKGGxZnwjwrR5Ij"
+    },
+    {
+      "album": {
         "name": "Classic Album Selection: Six Albums 1977-1984",
         "url": "https://open.spotify.com/album/1M0U3K2D8pQp4dHQLZOaoV"
       },
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310773,
       "name": "Rat Trap",
       "url": "https://open.spotify.com/track/4R8P78kaHXgaEKabSaioLv"
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/3j5QcKYJ836ZBbcj1OoEod"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
@@ -2613,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
+    },
+    {
+      "album": {
         "name": "Hozier (Deluxe)",
         "url": "https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz"
       },
@@ -2660,10 +2696,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241693,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+    },
+    {
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/5lVtnzCHr3IAncUK710Mkv"
+      },
+      "artists": [
+        {
+          "name": "The Undertones",
+          "url": "https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Teenage Kicks",
+      "url": "https://open.spotify.com/track/4wNATViXFXHOKsGgEehnBT"
     },
     {
       "album": {
@@ -2696,7 +2750,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148480,
       "name": "Teenage Kicks",
       "url": "https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA"
@@ -2866,7 +2920,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178400,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/5Cs37m6r609nGjzOQEqZ1X"
@@ -2910,7 +2964,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180520,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/1i92xro4lPLyjiOd3y2aqA"
@@ -3022,7 +3076,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181653,
       "name": "The Night Pat Murphy Died",
       "url": "https://open.spotify.com/track/41gyi3lBZzLRiHwfAAoI1G"
@@ -3040,7 +3094,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 184266,
       "name": "The Night Pat Murphy Died",
       "url": "https://open.spotify.com/track/3gPgHc1d2PhLlZXDD362SA"
@@ -3164,10 +3218,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233170,
       "name": "The Rocky Road to Dublin",
       "url": "https://open.spotify.com/track/1e4DwZkbjygJ6KI4qogBSR"
+    },
+    {
+      "album": {
+        "name": "The Rocky Road",
+        "url": "https://open.spotify.com/album/29CByTBRTrmrD3CKHoyc9Z"
+      },
+      "artists": [
+        {
+          "name": "Damien Dempsey",
+          "url": "https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW"
+        },
+        {
+          "name": "John Sheahan",
+          "url": "https://open.spotify.com/artist/47bIBf0VhURaVlMejr9d76"
+        },
+        {
+          "name": "Barney McKenna",
+          "url": "https://open.spotify.com/artist/152JwEyjVlhnDmt5MvvTUV"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233170,
+      "name": "The Rocky Road to Dublin",
+      "url": "https://open.spotify.com/track/6n2oqs9CkyfR4ClztdY85n"
     },
     {
       "album": {
@@ -3182,7 +3262,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196720,
       "name": "The Rocky Road to Dublin",
       "url": "https://open.spotify.com/track/07HkevwkwmCXWjQhgBei1V"
@@ -3200,7 +3280,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196720,
       "name": "The Rocky Road To Dublin",
       "url": "https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1"
@@ -3446,7 +3526,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161773,
       "name": "Whiskey in the Jar",
       "url": "https://open.spotify.com/track/1rJCuds0vDMAjF5RdZU7bq"
@@ -3468,7 +3548,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161773,
       "name": "Whiskey in the Jar",
       "url": "https://open.spotify.com/track/1wnnHnjWQgcrD2qT05JXD1"
@@ -3548,7 +3628,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177200,
       "name": "You're Such A Good Looking Woman",
       "url": "https://open.spotify.com/track/2i0WVW0yJ5spZghfiAqwFL"
@@ -3566,7 +3646,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177520,
       "name": "You're Such a Good Looking Woman",
       "url": "https://open.spotify.com/track/4JRDPPLROcM4Csy5rJLZK6"

@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30ed\u30fc\u30d0\u30c3\u30afTHURSDAY\u4e00\u89a7\u306f<a href=\"spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM\">\u3053\u3061\u3089</a>\u304b\u3089\u3002Cover: \u4e45\u4fdd\u7530\u5229\u4f38 \u25a0 \u30a2\u30e0\u30e9\u30fc\u51fa\u73fe \u25a0\u305f\u307e\u3054\u3063\u3061\u30d2\u30c3\u30c8 \u25a0\u5973\u5b50\u9ad8\u751f\u306e\u63f4\u52a9\u4ea4\u969b\u304c\u793e\u4f1a\u554f\u984c\u5316 \u25a0\u300c\u81ea\u5206\u3067\u81ea\u5206\u3092\u307b\u3081\u305f\u3044\u300d\uff08\u6709\u68ee\u88d5\u5b50\uff09\u25a0\u300c\u30e1\u30fc\u30af\u30c9\u30e9\u30de\u300d\uff08\u9577\u5d8b\u8302\u96c4\uff09\u25a0\u300c\u30c1\u30e7\u30d9\u30ea\u30d0 / \u30c1\u30e7\u30d9\u30ea\u30b0\u300d\u25a0\u6e21\u8fba\u6df3\u4e00\u300e\u5931\u697d\u5712\u300f\u30d9\u30b9\u30c8\u30bb\u30e9\u30fc",
-  "num_followers": 2972,
+  "num_followers": 2984,
   "original_name": "\u30b9\u30ed\u30fc\u30d0\u30c3\u30afTHURSDAY: 1996\u5e74\u306e\u30d2\u30c3\u30c8\u66f2",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTcwMDA0MjU2MCwwMDAwMDAwMGU2YTc1ZDg2YTg0OTk4ZDYxN2MxMTFkZWE0MGExNWNj",
   "tracks": [
+    {
+      "added_at": "2023-11-15 10:02:40",
+      "album": {
+        "name": "Spotify \"\u30b9\u30ed\u30fc\u30d0\u30c3\u30afTHURSDAY with FM COCOLO\"",
+        "url": "https://open.spotify.com/album/4S3eXAVbG6i2eGwimwLG4I"
+      },
+      "artists": [
+        {
+          "name": "Spotify \"\u30b9\u30ed\u30fc\u30d0\u30c3\u30afTHURSDAY with FM COCOLO\"",
+          "url": "https://open.spotify.com/show/4S3eXAVbG6i2eGwimwLG4I"
+        }
+      ],
+      "duration_ms": 1391316,
+      "name": "Throwback Thursday with FM COCOLO: 1996\u5e74\u7279\u96c6",
+      "url": "https://open.spotify.com/episode/0nbDou8zFvYhUcxDK8RdUW"
+    },
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
@@ -63,8 +79,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "BEST SELECTION:KAHALA TOMOMI",
-        "url": "https://open.spotify.com/album/0XKUyqrf2Tvbs4SJRPiQJe"
+        "name": "I'm proud",
+        "url": "https://open.spotify.com/album/35hQ5CEQGk2RMTzWKDlhEA"
       },
       "artists": [
         {
@@ -72,9 +88,9 @@
           "url": "https://open.spotify.com/artist/44ABnS2hBJ3womOeTqx5jp"
         }
       ],
-      "duration_ms": 272040,
-      "name": "I'm proud - Radio Edit",
-      "url": "https://open.spotify.com/track/4h63N7AkekowRMrXFEcS9e"
+      "duration_ms": 273000,
+      "name": "I'm proud (Radio Edit)",
+      "url": "https://open.spotify.com/track/6yxwKzzNE07zmGSuEWEexc"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -191,8 +207,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Single Collection (Remastered)",
-        "url": "https://open.spotify.com/album/1avJGtKZStCiLApBcCSLuG"
+        "name": "SPARK",
+        "url": "https://open.spotify.com/album/0DC23W2ulsY8kU6aklzvS5"
       },
       "artists": [
         {
@@ -200,9 +216,9 @@
           "url": "https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg"
         }
       ],
-      "duration_ms": 256680,
-      "name": "Spark - Remastered",
-      "url": "https://open.spotify.com/track/7c3HiceWuapisqZ2JaR2N3"
+      "duration_ms": 252533,
+      "name": "SPARK",
+      "url": "https://open.spotify.com/track/36su8TL5WpFGWlXlD4rABP"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -287,8 +303,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Primal",
-        "url": "https://open.spotify.com/album/4r4nDANap4u8swNnap4jvm"
+        "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
+        "url": "https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm"
       },
       "artists": [
         {
@@ -297,14 +313,14 @@
         }
       ],
       "duration_ms": 292960,
-      "name": "Primal",
-      "url": "https://open.spotify.com/track/2jtTVvCC3emBccOq63JLuY"
+      "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
+      "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
     },
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "\u305d\u3070\u304b\u3059",
-        "url": "https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT"
+        "name": "The Great Escape -COMPLETE BEST-",
+        "url": "https://open.spotify.com/album/0oCdyZMlfxliVsshegOPsM"
       },
       "artists": [
         {
@@ -312,15 +328,15 @@
           "url": "https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9"
         }
       ],
-      "duration_ms": 255200,
+      "duration_ms": 253826,
       "name": "\u305d\u3070\u304b\u3059",
-      "url": "https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr"
+      "url": "https://open.spotify.com/track/5cdFxxGV3b3gcGuXTpPWXt"
     },
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
         "name": "Odelay",
-        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
+        "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
       },
       "artists": [
         {
@@ -328,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 195440,
+      "duration_ms": 192933,
       "name": "Devils Haircut",
-      "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
+      "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -367,8 +383,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Cafe Japan",
-        "url": "https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb"
+        "name": "CAFE JAPAN",
+        "url": "https://open.spotify.com/album/2HSrcUXXNh5ib1T2oXxM08"
       },
       "artists": [
         {
@@ -378,7 +394,7 @@
       ],
       "duration_ms": 219666,
       "name": "\u7530\u5712",
-      "url": "https://open.spotify.com/track/6mkmn00ou8o08iEADwzKCg"
+      "url": "https://open.spotify.com/track/0b2PHexDZWgFbvRRswrfRk"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -400,7 +416,7 @@
       "added_at": "2023-11-15 10:02:40",
       "album": {
         "name": "Tears",
-        "url": "https://open.spotify.com/album/34AwiLybeA7K1vznsxClnt"
+        "url": "https://open.spotify.com/album/2MQWQP1gesZVfr82Kr1oEG"
       },
       "artists": [
         {
@@ -410,7 +426,7 @@
       ],
       "duration_ms": 295333,
       "name": "Another Orion",
-      "url": "https://open.spotify.com/track/1tRz98Nrggv6YhEiykamrK"
+      "url": "https://open.spotify.com/track/43fBHTp92KRKgJy78RsiUx"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -432,7 +448,7 @@
       "added_at": "2023-11-15 10:02:40",
       "album": {
         "name": "K",
-        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
+        "url": "https://open.spotify.com/album/36jftdZTGKwWquJeTmE3vE"
       },
       "artists": [
         {
@@ -440,15 +456,15 @@
           "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
         }
       ],
-      "duration_ms": 250026,
+      "duration_ms": 250533,
       "name": "Hey Dude",
-      "url": "https://open.spotify.com/track/7jNjrIgYfZUPj6EVi8PL5s"
+      "url": "https://open.spotify.com/track/66Vp0lK0dCcNOaG6zV6dzO"
     },
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
         "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+        "url": "https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 323400,
+      "duration_ms": 324840,
       "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
+      "url": "https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -543,8 +559,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Elephant Kashimashi Jisen Sakuhin Shuu Pony Canyon Romanki",
-        "url": "https://open.spotify.com/album/6M4SNsJPALXKnOrlQSRyKi"
+        "name": "\u30b3\u30b3\u30ed\u306b\u82b1\u3092",
+        "url": "https://open.spotify.com/album/6ZiH1sEKirgojyLwKsNx0y"
       },
       "artists": [
         {
@@ -552,15 +568,15 @@
           "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
         }
       ],
-      "duration_ms": 155080,
-      "name": "Kanashimi no Hate",
-      "url": "https://open.spotify.com/track/2bxFgtt6VB8uLDDWYy7JJa"
+      "duration_ms": 154173,
+      "name": "\u60b2\u3057\u307f\u306e\u679c\u3066",
+      "url": "https://open.spotify.com/track/4nYrT4h72JvsNh3t80FmG0"
     },
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Time Flies...1994-2009",
+        "url": "https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+      "duration_ms": 290253,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/1xRRPtBWty61XDG7BvMdmL"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -607,8 +623,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Love Unlimited",
-        "url": "https://open.spotify.com/album/3poYdPi1gTeYSNUj1uKWQo"
+        "name": "LOVE UNLIMITED \u221e",
+        "url": "https://open.spotify.com/album/5bq8QzxnZDV68DhayQWKUm"
       },
       "artists": [
         {
@@ -618,7 +634,7 @@
       ],
       "duration_ms": 252426,
       "name": "7\u67087\u65e5\u3001\u6674\u308c",
-      "url": "https://open.spotify.com/track/3kIRHs5ws31xXdRXJw7CaL"
+      "url": "https://open.spotify.com/track/2vKGbj0z20jJrx5pkXjQLL"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -655,8 +671,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Single Collection (Remastered)",
-        "url": "https://open.spotify.com/album/1avJGtKZStCiLApBcCSLuG"
+        "name": "SINGLE COLLECTION (Remastered)",
+        "url": "https://open.spotify.com/album/1kuqRusuVuLzMaYYsP9NnX"
       },
       "artists": [
         {
@@ -665,8 +681,8 @@
         }
       ],
       "duration_ms": 318573,
-      "name": "Jam - Remastered",
-      "url": "https://open.spotify.com/track/1q5tEL2YtCjEar9LfwYBRC"
+      "name": "JAM - Remastered",
+      "url": "https://open.spotify.com/track/6GtByH6TpcU64V5MaFLVIZ"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -843,8 +859,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "90S&NEW REVIVAL",
-        "url": "https://open.spotify.com/album/0h7OSDn5VkGnlLyvCQ9gl9"
+        "name": "paradox",
+        "url": "https://open.spotify.com/album/5zTUmtgNx0NSc4Ys76oo42"
       },
       "artists": [
         {
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk"
         }
       ],
-      "duration_ms": 241131,
+      "duration_ms": 240233,
       "name": "\u604b\u5fc3",
-      "url": "https://open.spotify.com/track/2lRuHzFxdxbw8JsfwG7jgG"
+      "url": "https://open.spotify.com/track/5uahx7d4O9N8Si9TFTuIMj"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -911,6 +927,22 @@
       "duration_ms": 287546,
       "name": "How Do U Want It (ft. K-Ci & JoJo)",
       "url": "https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC"
+    },
+    {
+      "added_at": "2023-11-15 10:02:40",
+      "album": {
+        "name": "R.",
+        "url": "https://open.spotify.com/album/4yRYsQZfQpzkoVWH2XCX66"
+      },
+      "artists": [
+        {
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "duration_ms": 320666,
+      "name": "I Believe I Can Fly",
+      "url": "https://open.spotify.com/track/2RzJwBCXsS1VnjDm2jKKAa"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1015,8 +1047,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "\u61d0-\u30ca\u30c4-\u30a8\u30e2\u30c6\u30a3\u30c3\u30af J-POP \u795eBUZZ HIT SONGS (DJ KOO PLAYLIST MEGA MIX)",
-        "url": "https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS"
+        "name": "Red",
+        "url": "https://open.spotify.com/album/4FrooSyN6shIGMvXYwdmW5"
       },
       "artists": [
         {
@@ -1024,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk"
         }
       ],
-      "duration_ms": 258066,
+      "duration_ms": 258833,
       "name": "\u5922\u898b\u308b\u5c11\u5973\u3058\u3083\u3044\u3089\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/65NHDWEJfhizqVLAtnP4GP"
+      "url": "https://open.spotify.com/track/4weY9jkPw2d1daBnhHhacD"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1063,8 +1095,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+        "name": "Garbage (20th Anniversary Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zMVQsor2FNTEMdEhsQ48S"
       },
       "artists": [
         {
@@ -1072,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
         }
       ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl - Remastered 2015",
-      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
+      "duration_ms": 257756,
+      "name": "Stupid Girl - 2015 - Remaster",
+      "url": "https://open.spotify.com/track/02bDwHxd8UuWJyeytiohaK"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1112,7 +1144,7 @@
       "added_at": "2023-11-15 10:02:40",
       "album": {
         "name": "Expressions",
-        "url": "https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx"
+        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
       },
       "artists": [
         {
@@ -1121,8 +1153,8 @@
         }
       ],
       "duration_ms": 292773,
-      "name": "Konya Ha Hearty Party - Single Mix",
-      "url": "https://open.spotify.com/track/1DJxzP7tXOoibVVbGrsC7P"
+      "name": "\u4eca\u591c\u306fHearty Party - \u30b7\u30f3\u30b0\u30eb\u30fb\u30df\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/7f7CxSyRYL1ikeicMkTWBB"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1323,8 +1355,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Shapes And Patterns",
-        "url": "https://open.spotify.com/album/3S8NPnv0sIbV8NI7xxW5c5"
+        "name": "BALLADS -Sweet & Tears Collection-",
+        "url": "https://open.spotify.com/album/6odwpOtu3mTN2Ly68UajBk"
       },
       "artists": [
         {
@@ -1332,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/4phr5rAgWhcZtWJu8w8lKv"
         }
       ],
-      "duration_ms": 276360,
+      "duration_ms": 283653,
       "name": "Now You're Not Here",
-      "url": "https://open.spotify.com/track/3eRWYusadfxSvuiD9EAY87"
+      "url": "https://open.spotify.com/track/06UiUhpyc7jfFc98QEoSsw"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1356,7 +1388,7 @@
       "added_at": "2023-11-15 10:02:40",
       "album": {
         "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
       },
       "artists": [
         {
@@ -1364,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 230733,
+      "duration_ms": 230386,
       "name": "Get Down (You're the One for Me) - LP Edit No Rap",
-      "url": "https://open.spotify.com/track/1btqbebzIS2IK0QkRUpShJ"
+      "url": "https://open.spotify.com/track/6KPMiBhU6O9RBImTQXQNCe"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1420,7 +1452,7 @@
       "added_at": "2023-11-15 10:02:40",
       "album": {
         "name": "cult grass stars",
-        "url": "https://open.spotify.com/album/3RsTbe4muNGtM2EmSgC84u"
+        "url": "https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n"
       },
       "artists": [
         {
@@ -1430,7 +1462,7 @@
       ],
       "duration_ms": 346866,
       "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
-      "url": "https://open.spotify.com/track/7aPAOQoDp7gzqliUmP61F0"
+      "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1483,8 +1515,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "City Pop Essentials - Idols -",
-        "url": "https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o"
+        "name": "UN",
+        "url": "https://open.spotify.com/album/4CIMXsMWRtEqKSgOROGQMm"
       },
       "artists": [
         {
@@ -1494,7 +1526,7 @@
       ],
       "duration_ms": 297026,
       "name": "\u30a8\u30b9\u30ab\u30ec\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/2owODQv8rJnVlcMxVHFhum"
+      "url": "https://open.spotify.com/track/3e5OU3Z26CJvxhVNcqOhk3"
     },
     {
       "added_at": "2023-11-15 10:02:40",
@@ -1531,8 +1563,8 @@
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "\u30e9\u30d6\uff06\u30b9\u30de\u30a4\u30eb",
-        "url": "https://open.spotify.com/album/2Re4xLfkm57CApVRZ7oSNj"
+        "name": "\u51ac\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+        "url": "https://open.spotify.com/album/70fJFQwLh1oUjNEER6I8xu"
       },
       "artists": [
         {
@@ -1540,15 +1572,15 @@
           "url": "https://open.spotify.com/artist/5JOAZKg6DBbDulvpP9Otg8"
         }
       ],
-      "duration_ms": 297560,
+      "duration_ms": 298693,
       "name": "\u51ac\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
-      "url": "https://open.spotify.com/track/0IIod51MVVz0K5gCIfvedy"
+      "url": "https://open.spotify.com/track/1UF2oaGAWa2NkESr67zQyk"
     },
     {
       "added_at": "2023-11-15 10:02:40",
       "album": {
-        "name": "Cafe Japan",
-        "url": "https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb"
+        "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/6qopAYdNu59O4d4Hy88NXo"
       },
       "artists": [
         {
@@ -1556,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
         }
       ],
-      "duration_ms": 280280,
+      "duration_ms": 275933,
       "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR"
+      "url": "https://open.spotify.com/track/35ULe4fU7c5mNimS5lrkq3"
     },
     {
       "added_at": "2023-11-15 10:02:40",

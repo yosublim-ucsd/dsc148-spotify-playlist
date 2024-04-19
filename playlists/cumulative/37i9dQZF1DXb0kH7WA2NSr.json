@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 304615,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304615,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7K2yIbJIanAThF37SlxPey"
@@ -2618,10 +2618,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203826,
       "name": "The Bomb! (These Sound Fall into My Mind) - Radio Edit",
       "url": "https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9"
+    },
+    {
+      "album": {
+        "name": "The Bomb (These Sounds Fall Into My Mind)",
+        "url": "https://open.spotify.com/album/0PeidEigo3NDHu6RiQLPfg"
+      },
+      "artists": [
+        {
+          "name": "The Bucketheads",
+          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202825,
+      "name": "The Bomb! (These Sounds Fall Into My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/0qQiqwzddwQmtoGcF3Uzm5"
     },
     {
       "album": {

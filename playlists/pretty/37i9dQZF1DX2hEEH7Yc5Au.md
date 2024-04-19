@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 陳嘉樺 \(Ella\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,851 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,894 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 11 | [清醒夢](https://open.spotify.com/track/24NFRGYbm1MUUPDScdJ7SR) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Boomerang](https://open.spotify.com/album/2V2VAi4Rb2aDUWBtSvICMR) | 4:26 |
 | 12 | [水墨如烟](https://open.spotify.com/track/4KIcfnbcJyeiX3sglJ4zb0) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [水墨如烟](https://open.spotify.com/album/21GSra1VVaY2qSp6WoE1sr) | 4:42 |
 | 13 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 |
-| 14 | [兽](https://open.spotify.com/track/0Jw0566ai4dmtPZ4BUGafk) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/3VpitbMNyK9B8ZWat7xyiK) | 4:09 |
+| 14 | [兽](https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW) | 4:09 |
 | 15 | [Looonely](https://open.spotify.com/track/1lBxGvrnW7wUVfPNurc9Wj) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T), [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [OOG](https://open.spotify.com/artist/5UG5vVkxLw3HdVJrrxgFqD) | [越洋電話, Vol\. 1](https://open.spotify.com/album/4PsbzDRyyoTbZ9TfN68l97) | 3:55 |
 | 16 | [愛沒有錯](https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [愛沒有錯](https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8) | 4:41 |
 | 17 | [新造的人](https://open.spotify.com/track/4i1edRqVVt9eRO9xeaPf6n) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [周處除三害（電影原聲帶）](https://open.spotify.com/album/2XIKrfbqiVgMTK2s5cXvUa) | 3:07 |
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 22 | [時間到](https://open.spotify.com/track/76jdZKvfqLf0jOdRTE00ZI) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp), [Daniel Lo](https://open.spotify.com/artist/5ecXGNDkVKndKd0lvODR89) | [時間到](https://open.spotify.com/album/0ijX8P7Paxzg4bd9HIpnkM) | 3:20 |
 | 23 | [喵喵咪呀](https://open.spotify.com/track/4sPShxzz0hGB2Ow7aJb4yt) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [喵喵咪呀](https://open.spotify.com/album/6IO908xbixK8SyD9YVIIcG) | 3:23 |
 | 24 | [慷慨](https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [慷慨](https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg) | 4:34 |
-| 25 | [荒野志 \(伴奏版\)](https://open.spotify.com/track/5yJrtNq8eEiYhhwVkuXCyV) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [影視劇《虎鶴妖師錄》原聲帶](https://open.spotify.com/album/1c376efZZhFRsSy8eqH9Sa) | 3:55 |
-| 26 | [信愛成癮](https://open.spotify.com/track/6FgTqGczJsDVQN8I7mwhQV) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [WHY NOT](https://open.spotify.com/album/1xtrFAteSTcj9DsjGZ8d7q) | 4:34 |
+| 25 | [荒野志 \(影視劇《虎鶴妖師錄》片頭曲\)](https://open.spotify.com/track/0bi0Dx5chSN1Vl8D0AwVHd) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [荒野志](https://open.spotify.com/album/4SLsunR4ntaR50vc8nz9D9) | 3:55 |
+| 26 | [信愛成癮](https://open.spotify.com/track/1e3revlbqWb7wn8TvXaQz8) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [WHY NOT](https://open.spotify.com/album/40j1P0pTMtw141uIqmZY8l) | 4:34 |
 | 27 | [愛上了一條街](https://open.spotify.com/track/45gemUf20vf0bTVZ0Wa6sv) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Show Your Love](https://open.spotify.com/album/4ptIiyHHmqUi4s2rebWRHt) | 4:24 |
 | 28 | [月光](https://open.spotify.com/track/0S1qNnKSIW6UxlfgBFrvgC) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 4:05 |
 | 29 | [我無所謂](https://open.spotify.com/track/1NkUE8Q94l1Map8dCl4tAk) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [妹力四射 \(1998 張惠妹演唱會提前先聽版\)](https://open.spotify.com/album/7C3sSfEuJ1UTgoSiLFdHcs) | 4:59 |
 | 30 | [給我一個理由忘記](https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [寂寞不痛](https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR) | 4:45 |
 | 31 | [stay in 17](https://open.spotify.com/track/7xTJK8fcNF51xxPRgVlhBh) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [stay in 17](https://open.spotify.com/album/1gFenmBSXfKe8bewjkiFiv) | 3:42 |
-| 32 | [我想我不會愛你](https://open.spotify.com/track/46Ubg39vkLzVQWrgSAXCGN) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/3LS8Yu3yTT5CnUvkTcISyC) | 4:41 |
+| 32 | [我想我不會愛你](https://open.spotify.com/track/0uhtg2jhQTRvZyloPslikU) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/5kQpJhfXQhkksNmzaXH1nR) | 4:41 |
 | 33 | [不難](https://open.spotify.com/track/3LOTdehsLMCm3u0CNJwsL3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [理想人生](https://open.spotify.com/album/7dKLZlMYgc3Cz6f0e49gbn) | 4:40 |
 | 34 | [猜](https://open.spotify.com/track/515jKw39039ufXjQ8ZiEsN) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [猜](https://open.spotify.com/album/0XyUjHgykrME24vWhD1DL3) | 2:58 |
 | 35 | [無歡](https://open.spotify.com/track/73p05XarRTMLRzjRKSHPq9) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [無歡](https://open.spotify.com/album/70wJ16N6RCQUKu1K698cjM) | 3:08 |

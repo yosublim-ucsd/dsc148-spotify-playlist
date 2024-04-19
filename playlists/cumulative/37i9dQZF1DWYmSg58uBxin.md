@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-261 songs - 12 hr 5 min
+268 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Equipoise](https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Equipoise](https://open.spotify.com/album/54epGztbs8gWarb8ChOzgj) | 2:56 | 2020-10-20\* |  |
 | [Esja](https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Esja](https://open.spotify.com/album/0qexfmJhl1Ao6mBzgZpA95) | 4:21 | 2020-10-20\* | 2022-07-29 |
 | [Esja](https://open.spotify.com/track/0qLJdyq6rqXQmdlzjtcCs1) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Esja](https://open.spotify.com/album/6UEnWtk3BxIxw4tJYFwm4P) | 4:21 | 2022-07-22 | 2023-09-09 |
+| [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 | 2024-04-17 |  |
 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2020-10-20\* | 2023-09-09 |
 | [Eternal Slumber](https://open.spotify.com/track/4LmDvBu7x3Udb2ntXcFyOy) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:35 | 2020-10-20\* |  |
 | [Eternity](https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5) | [String Astronauts](https://open.spotify.com/artist/3uesHPllAYmqsy4sdQqFJr) | [Eternity](https://open.spotify.com/album/5F9HeSB4R2MUHZ9IUPC0ry) | 2:50 | 2020-10-20\* | 2023-09-09 |
@@ -88,6 +89,8 @@
 | [Falling Into Myself](https://open.spotify.com/track/1s2H9ipBuw8CbqTvmi9wc4) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Dreamland](https://open.spotify.com/album/1NwKSU521fcHWGet98ka6r) | 2:14 | 2020-10-20\* | 2021-09-24 |
 | [Falling Leaves](https://open.spotify.com/track/16dhRq1tbtLnqtjWUPje17) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Falling Leaves](https://open.spotify.com/album/60rJEO2Kkzak6sxmV5784E) | 2:29 | 2020-10-20\* | 2021-11-17 |
 | [Far Away](https://open.spotify.com/track/1mqK2PZBW1KAjERJkoIRKe) | [Elena Fallwell](https://open.spotify.com/artist/0nDRFIhjddwj0YGtSYwrZ7) | [Far Away](https://open.spotify.com/album/1xquyPMS8YUC2kiohgH68P) | 1:58 | 2020-10-20\* | 2023-09-09 |
+| [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 | 2024-04-17 |  |
+| [Flower Wings](https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [Flower Wings](https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv) | 2:18 | 2024-04-17 |  |
 | [Following a Bark Boat](https://open.spotify.com/track/45p8aONeFVLbkK10UmVxEy) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Flirting at the Masquerade](https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB) | 3:00 | 2020-10-20\* | 2023-09-09 |
 | [Foreseeable Future](https://open.spotify.com/track/31yTOwrJEks6Uz9Vz25WWR) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Foreseeable Future](https://open.spotify.com/album/5fH8yNs6J9KbiAFO1gKL36) | 2:14 | 2023-09-26 |  |
 | [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2020-10-20\* | 2021-10-21 |
@@ -133,7 +136,8 @@
 | [Let It Be Us](https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Let It Be Us](https://open.spotify.com/album/3lI2vFP5irpgNbkg1ikc97) | 2:33 | 2023-09-08 |  |
 | [Liedchen](https://open.spotify.com/track/5Ly26x1z1XshVyBKos1PXw) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Liedchen](https://open.spotify.com/album/195rTFzMloA4cdl0ncy3cU) | 2:35 | 2023-09-08 |  |
 | [Lifeline \- Piano Version](https://open.spotify.com/track/7bm4pv15CYFsBTqbPip9tb) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Lifeline](https://open.spotify.com/album/4Tpe4sBxpvwyUZjW5VC4GG) | 3:24 | 2020-10-20\* | 2023-09-09 |
-| [Lift You Up](https://open.spotify.com/track/4zt61UGwRgupmP0Nnora00) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:36 | 2023-09-08 |  |
+| [Lift You Up](https://open.spotify.com/track/4zt61UGwRgupmP0Nnora00) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:36 | 2023-09-08 | 2024-04-19 |
+| [Lift You Up](https://open.spotify.com/track/53OFIjoBnCgoRIfJxGbdSE) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Lift You Up](https://open.spotify.com/album/3g1dQHWNHo5QVibxMirUl0) | 2:36 | 2024-04-17 |  |
 | [Light Pillars](https://open.spotify.com/track/2wwSUWVy8nttJ4htUbRAJc) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Light Pillars](https://open.spotify.com/album/39YVd7eeMkZtK7s7dpBdgF) | 2:40 | 2020-10-20\* | 2023-09-09 |
 | [Looking Back](https://open.spotify.com/track/6zDnGUDRPfzvQNcHAhdJ3T) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Looking Back](https://open.spotify.com/album/5ZmWkoX1e5QYjW4L2K7F32) | 2:50 | 2021-07-29 |  |
 | [Looking Out For You](https://open.spotify.com/track/5HiUuy4wQxWW1QaAGXNCET) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Looking Out For You](https://open.spotify.com/album/65hTmCf4NXGB5WSyd7g1iN) | 2:14 | 2023-11-13 |  |
@@ -203,6 +207,7 @@
 | [Sleepless](https://open.spotify.com/track/5oH5ijHVrmgwEfUttQ9pjX) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Sleepless](https://open.spotify.com/album/5ngJnKqFA5xkve0BQxjUUv) | 2:53 | 2020-10-20\* | 2023-09-09 |
 | [Snowfall](https://open.spotify.com/track/2clc722RMKNSOSgleEgXE4) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Snowfall](https://open.spotify.com/album/4Lr598YUKKD8cMRZu8QPf0) | 2:11 | 2023-09-08 |  |
 | [Sol Da Manhã](https://open.spotify.com/track/50N1j5jEo9Wj30rnG6OuIH) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Sol Da Manhã](https://open.spotify.com/album/6j4tS64diWDcR9suydI2dz) | 2:38 | 2020-10-20\* |  |
+| [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 | 2024-04-17 |  |
 | [Someone Else's Memories](https://open.spotify.com/track/0dbeYro3abzF7yIrRorb3o) | [So Vea](https://open.spotify.com/artist/3HKvIprAGifH1akdCwAm3u) | [Someone Else's Memories](https://open.spotify.com/album/21iNC9S6FJxEAbqTVFQW30) | 3:28 | 2020-10-20\* | 2023-09-09 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-09-18 |  |
 | [Sommernacht](https://open.spotify.com/track/1UOcTdl0c9FV6kRJtlDstp) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Zeitwende](https://open.spotify.com/album/5r6ZeOl1BWKav1ygarn1Gd) | 2:30 | 2023-09-08 | 2024-01-10 |
@@ -244,9 +249,11 @@
 | [The Sleeping Waltz](https://open.spotify.com/track/4zBUzzH43GCKw5wPaHqKx2) | [Lanai String Section](https://open.spotify.com/artist/31uknRwrjJ98yyV6tg0CXa) | [The Sleeping Waltz](https://open.spotify.com/album/343Vj6jhU4SaQGOyOchcAE) | 2:24 | 2023-09-08 |  |
 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* | 2022-09-03 |
 | [Thoughts](https://open.spotify.com/track/3MUvt8kUIA6QPSBTEnjgMr) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Empty Canvas](https://open.spotify.com/album/6xla5pUFL0vlN6NjCEeOV3) | 3:21 | 2020-10-20\* | 2023-09-09 |
+| [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2024-04-17 |  |
 | [Tia](https://open.spotify.com/track/2kWVfdLPztoMrIwwwSapdC) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3), [Carlos Britez](https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax) | [Sueño](https://open.spotify.com/album/1uW5yFeZO4V0W14SDxG61w) | 3:03 | 2023-10-10 |  |
 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 | 2020-10-20\* | 2021-09-03 |
 | [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2020-10-20\* | 2022-05-20 |
+| [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 | 2024-04-17 |  |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2020-10-20\* |  |
 | [Traumtänzer](https://open.spotify.com/track/07cIvi3D7cHWRkJLTY0JCh) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Traumtänzer](https://open.spotify.com/album/4uSHjDIZrc1wxbZmlIQUEE) | 2:02 | 2023-09-18 |  |
 | [Treetops](https://open.spotify.com/track/2Bc6RUt59expV4jOAadt1G) | [Hans Vincent](https://open.spotify.com/artist/0Y4WR89pA1Dx4IcwMswWWQ) | [Treetops](https://open.spotify.com/album/2WIucGO1ZHGgwnsOOy7Qmr) | 3:08 | 2021-04-22 |  |

@@ -158,10 +158,36 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300240,
       "name": "A Thousand Heartaches",
       "url": "https://open.spotify.com/track/3M4wqYQdjjQMEtEVprBflj"
+    },
+    {
+      "album": {
+        "name": "A Thousand Heartaches",
+        "url": "https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300240,
+      "name": "A Thousand Heartaches",
+      "url": "https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS"
     },
     {
       "album": {
@@ -516,6 +542,24 @@
     {
       "album": {
         "name": "Bad Spell (Acoustic)",
+        "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194970,
+      "name": "Bad Spell - Acoustic",
+      "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
+    },
+    {
+      "album": {
+        "name": "Bad Spell (Acoustic)",
         "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
       },
       "artists": [
@@ -526,7 +570,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194970,
       "name": "Bad Spell - Acoustic",
       "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
@@ -840,7 +884,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 170440,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
@@ -858,7 +902,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170440,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33"
@@ -1828,7 +1872,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 247380,
       "name": "Get Real High",
       "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
@@ -1846,7 +1890,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247380,
       "name": "Get Real High",
       "url": "https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq"
@@ -1972,7 +2016,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
@@ -1990,7 +2034,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S"
@@ -2156,7 +2200,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144985,
       "name": "Have a Ball",
       "url": "https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD"
@@ -2174,7 +2218,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 144985,
       "name": "Have a Ball",
       "url": "https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7"
@@ -2436,7 +2480,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259946,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q"
@@ -2458,7 +2502,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259946,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
@@ -2512,7 +2556,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248590,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
@@ -2530,7 +2574,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 248590,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy"
@@ -2950,7 +2994,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208266,
       "name": "It Feels Alright",
       "url": "https://open.spotify.com/track/0UDe6J6OfgOnHeQToYLRmo"
@@ -2968,7 +3012,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 208266,
       "name": "It Feels Alright",
       "url": "https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW"
@@ -3362,7 +3406,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX"
@@ -3380,7 +3424,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
@@ -3758,7 +3802,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/3j3AQiQEe24de1EcYqVxc3"
@@ -3776,7 +3820,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
@@ -3866,7 +3910,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205533,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4"
@@ -3884,7 +3928,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 205533,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/2KbNZUsmY1jg6sCyN2Xtrd"
@@ -4104,7 +4148,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 180995,
       "name": "Nothing's Gonna Stop Me Feeling Good",
       "url": "https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn"
@@ -4122,7 +4166,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180995,
       "name": "Nothing's Gonna Stop Me Feeling Good",
       "url": "https://open.spotify.com/track/4rmOzQCwbGIiukTKmpRHlC"
@@ -5062,7 +5106,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278474,
       "name": "Somebody Tryin\u2019 to Hoodoo Me",
       "url": "https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT"
@@ -5080,7 +5124,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 278474,
       "name": "Somebody Tryin\u2019 to Hoodoo Me",
       "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"
@@ -5134,7 +5178,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 213093,
       "name": "Souled Out On You",
       "url": "https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH"
@@ -5152,7 +5196,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213093,
       "name": "Souled Out On You",
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
@@ -5402,7 +5446,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309936,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1InEnV5LtvOlIi5tSp17vA"
@@ -5420,7 +5464,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 309936,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/53b1hEONbOjbiM4jrd9nPb"
@@ -5536,6 +5580,24 @@
     {
       "album": {
         "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "album": {
+        "name": "Take My Heart",
         "url": "https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI"
       },
       "artists": [
@@ -5564,7 +5626,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
@@ -5582,7 +5644,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 243314,
       "name": "Taking Me Higher",
       "url": "https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68"
@@ -5600,7 +5662,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243314,
       "name": "Taking Me Higher",
       "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
@@ -6178,7 +6240,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
@@ -6200,6 +6262,32 @@
       "duration_ms": 214500,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d"
+    },
+    {
+      "album": {
+        "name": "Feel Like Going Home (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        },
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185984,
+      "name": "Trouble (Sunday Version)",
+      "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
     },
     {
       "album": {
@@ -6250,7 +6338,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 204629,
       "name": "Unchange",
       "url": "https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl"
@@ -6268,7 +6356,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204629,
       "name": "Unchange",
       "url": "https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A"
@@ -6604,7 +6692,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185160,
       "name": "Worry",
       "url": "https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM"
@@ -6622,7 +6710,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185160,
       "name": "Worry",
       "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
@@ -6702,7 +6790,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 219746,
       "name": "Yet to Be (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf"
@@ -6724,7 +6812,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219746,
       "name": "Yet to Be (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE"

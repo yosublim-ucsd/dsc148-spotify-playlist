@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 306254,
+  "2024-04-19": 306462,
   "date_first_scraped": "2023-09-07",
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Alok",
   "name": "Dance Brandneu",
@@ -16598,6 +16598,28 @@
     },
     {
       "album": {
+        "name": "Need Ur Love",
+        "url": "https://open.spotify.com/album/4anubaQwzDDvguyItOglNv"
+      },
+      "artists": [
+        {
+          "name": "Fixed withGlue",
+          "url": "https://open.spotify.com/artist/6HUWmTkXlft3pPWAEiF14I"
+        },
+        {
+          "name": "m3gatron",
+          "url": "https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135641,
+      "name": "Need Ur Love",
+      "url": "https://open.spotify.com/track/6Xz14I4TgeEHOhZoolP8Fg"
+    },
+    {
+      "album": {
         "name": "Need you",
         "url": "https://open.spotify.com/album/5MnrvjNLuy6hR13XJGcxxt"
       },
@@ -16635,28 +16657,6 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "album": {
-        "name": "Need Your Love",
-        "url": "https://open.spotify.com/album/4anubaQwzDDvguyItOglNv"
-      },
-      "artists": [
-        {
-          "name": "Fixed withGlue",
-          "url": "https://open.spotify.com/artist/6HUWmTkXlft3pPWAEiF14I"
-        },
-        {
-          "name": "m3gatron",
-          "url": "https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj"
-        }
-      ],
-      "date_added": "2024-04-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135641,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/6Xz14I4TgeEHOhZoolP8Fg"
     },
     {
       "album": {

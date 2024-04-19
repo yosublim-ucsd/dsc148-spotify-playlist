@@ -210,6 +210,24 @@
     {
       "album": {
         "name": "Gog Magog",
+        "url": "https://open.spotify.com/album/19SxsrS6nqyQavBa5LrC8q"
+      },
+      "artists": [
+        {
+          "name": "The Trials of Cato",
+          "url": "https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274680,
+      "name": "Aberdaron",
+      "url": "https://open.spotify.com/track/0PKDX1FsMSYKTIC1ZcHNuW"
+    },
+    {
+      "album": {
+        "name": "Gog Magog",
         "url": "https://open.spotify.com/album/59sjbeBja91tPzMz8NjFFL"
       },
       "artists": [
@@ -220,7 +238,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274680,
       "name": "Aberdaron",
       "url": "https://open.spotify.com/track/78AR5TTe5vSvhv2rPvZt4a"
@@ -4208,10 +4226,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259682,
       "name": "Haunted Mountain",
       "url": "https://open.spotify.com/track/2mU9kb0aboNfWii8i4r4Wv"
+    },
+    {
+      "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/1y3VrSoxUmqiiqqzJ9MuFY"
+      },
+      "artists": [
+        {
+          "name": "Jolie Holland",
+          "url": "https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259682,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk"
     },
     {
       "album": {
@@ -5078,6 +5114,24 @@
     {
       "album": {
         "name": "Imaginary People",
+        "url": "https://open.spotify.com/album/6Kzw3VkXXYmCk3VSQBuQh8"
+      },
+      "artists": [
+        {
+          "name": "Viv & Riley",
+          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247986,
+      "name": "Imaginary People",
+      "url": "https://open.spotify.com/track/0AwEYMlgDsG1OcrBmJn7Kn"
+    },
+    {
+      "album": {
+        "name": "Imaginary People",
         "url": "https://open.spotify.com/album/05VOD3O5ApFaTOygdhZo6C"
       },
       "artists": [
@@ -5088,7 +5142,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247986,
       "name": "Imaginary People",
       "url": "https://open.spotify.com/track/7z14ixeZiXcPa5La4gfNE4"
@@ -7786,6 +7840,24 @@
     {
       "album": {
         "name": "House to House",
+        "url": "https://open.spotify.com/album/1bgLbawfHvuMhOEE9WQA8w"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/1hMyjL6US0O882EZJ6tRih"
+    },
+    {
+      "album": {
+        "name": "House to House",
         "url": "https://open.spotify.com/album/120E5ApM0a40DxBE42tK0r"
       },
       "artists": [
@@ -7796,7 +7868,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/3mMAm6PHzUdHDXgkCVdcnj"
@@ -8010,10 +8082,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255893,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/5DqpN7Jnd8Pv2zFYMqY157"
+    },
+    {
+      "album": {
+        "name": "Slow Coming Alive",
+        "url": "https://open.spotify.com/album/2GAhrMjdSXZaxs98UmDfgl"
+      },
+      "artists": [
+        {
+          "name": "Mirja Klippel",
+          "url": "https://open.spotify.com/artist/3CZa09tcpdWlAMs2G4heMb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/69aiFsJYG9WjYphMRcZnIq"
     },
     {
       "album": {
@@ -12542,10 +12632,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218089,
       "name": "Your Heart's a Big Tent",
       "url": "https://open.spotify.com/track/0WcjhFRttvRNxr4uMQVS94"
+    },
+    {
+      "album": {
+        "name": "Peculiar, Missouri",
+        "url": "https://open.spotify.com/album/2du0e8sCmH8T6Dx78FdMmS"
+      },
+      "artists": [
+        {
+          "name": "Willi Carlisle",
+          "url": "https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218089,
+      "name": "Your Heart's a Big Tent",
+      "url": "https://open.spotify.com/track/0ZCfSbSOzO9pWTmjKoHPVO"
     },
     {
       "album": {

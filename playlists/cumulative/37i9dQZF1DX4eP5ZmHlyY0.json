@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221017,
       "name": "Furete",
       "url": "https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 205493,
       "name": "HAPPY UNBIRTHDAY",
       "url": "https://open.spotify.com/track/2o0XgPxLvZKlVsuQjZ0WzO"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176666,
       "name": "Kyoutou feat. RYOKI from BE:FIRST",
       "url": "https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ"
@@ -2862,7 +2862,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191973,
       "name": "Under the skin",
       "url": "https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7"
@@ -3449,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30ec\u30c6",
+        "url": "https://open.spotify.com/album/2RGxcd9HcRGn2icyENk0u6"
+      },
+      "artists": [
+        {
+          "name": "Urashimasakatasen",
+          "url": "https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221017,
+      "name": "\u30d5\u30ec\u30c6",
+      "url": "https://open.spotify.com/track/5nyG0wVakDTYiqZMQGaUta"
+    },
+    {
+      "album": {
         "name": "\u30de\u30eb\u30c1\u30d0\u30fc\u30b9\u30fb\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP"
       },
@@ -3464,6 +3482,28 @@
       "duration_ms": 196266,
       "name": "\u30de\u30eb\u30c1\u30d0\u30fc\u30b9\u30fb\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
       "url": "https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U"
+    },
+    {
+      "album": {
+        "name": "\u5171\u95d8 feat. RYOKI from BE:FIRST",
+        "url": "https://open.spotify.com/album/1Bnpg0kRAWkmCkxIN1aEwU"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        },
+        {
+          "name": "RYOKI",
+          "url": "https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "\u5171\u95d8 feat. RYOKI from BE:FIRST",
+      "url": "https://open.spotify.com/track/4yhuShHeIeTJYKmQcMAYJC"
     },
     {
       "album": {

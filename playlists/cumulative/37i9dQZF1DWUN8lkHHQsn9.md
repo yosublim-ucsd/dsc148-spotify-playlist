@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5nGEwOuyd7RFe64eB0kWd8">Iwona Skv</a>
 
-197 songs - 11 hr 4 min
+198 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Inspiracje](https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Inspiracje](https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh) | 2:38 | 2023-08-07 |  |
 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 | 2022-06-07 |  |
 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 | 2022-06-01 | 2024-02-13 |
-| [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 | 2021-06-22 | 2024-04-16 |
+| [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 | 2021-06-22 |  |
 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 | 2022-06-03 |  |
 | [Kapitał](https://open.spotify.com/track/076XHfTDuN1nqeseWLNMcj) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Kapitał](https://open.spotify.com/album/3B1tI4mwm8eIVvOeMcssNF) | 2:20 | 2023-03-17 | 2023-06-24 |
 | [Kiedy Chcę](https://open.spotify.com/track/0pmfleJhXSffwFhcCwU0X4) | [Amba Fatima](https://open.spotify.com/artist/12ivTmFWs3JKtKOGxdSszN) | [Kiedy Chcę](https://open.spotify.com/album/1hfBy3gnykFhIssAvV9Fwr) | 2:41 | 2023-10-09 | 2024-02-15 |
@@ -125,10 +125,10 @@
 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 | 2022-06-01 |  |
 | [Pocałunek](https://open.spotify.com/track/141Jp2FUxUmyrE3Y5X9rZC) | [Rebeka](https://open.spotify.com/artist/5441nqOH4evDBl4IISiadm) | [Pocałunek](https://open.spotify.com/album/1sd80sFziTx0q58IozhGzR) | 3:30 | 2021-06-22 | 2022-06-01 |
 | [Poczuj Moją Magię](https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Poczuj Moją Magię](https://open.spotify.com/album/7DhvmxSAbN3vJuddh0V0o2) | 3:19 | 2023-06-20 | 2023-08-08 |
-| [Pod Kapturem](https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV) | 1:36 | 2023-01-24 |  |
+| [Pod Kapturem](https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV) | 1:36 | 2023-01-24 | 2024-04-19 |
 | [Pod Kapturem](https://open.spotify.com/track/6G1l68r9FYheCv5gAFpFDG) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/02e776XtxYIbk1viSjeDqr) | 1:36 | 2022-06-01 | 2023-02-10 |
 | [Poduszka](https://open.spotify.com/track/4d9jglP0b8TlQN9fOOAdLd) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/1nwwoJavMoYDULwVqyn51W) | 3:44 | 2023-10-20 | 2023-11-16 |
-| [Poduszka](https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv) | 3:44 | 2023-11-13 |  |
+| [Poduszka](https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv) | 3:44 | 2023-11-13 | 2024-04-19 |
 | [Podziemny Slam](https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Podziemny Slam](https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP) | 2:59 | 2023-10-09 |  |
 | [Pokolenie Dobrobytu](https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ), [Ajman](https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl) | [Pokolenie Dobrobytu](https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS) | 3:14 | 2023-01-24 | 2023-08-08 |
 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 | 2022-06-17 |  |
@@ -187,6 +187,7 @@
 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 | 2022-06-01 | 2024-03-12 |
 | [W innym kolorze](https://open.spotify.com/track/1SKOsQeGx7heZSoylQfqzM) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df), [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [W innym kolorze](https://open.spotify.com/album/6QSIyBrOVK6poPpEebfPtn) | 3:22 | 2023-10-09 | 2023-11-14 |
 | [Wal się](https://open.spotify.com/track/4KZAOF5G7EhNAPyVtpnwWM) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Wal się](https://open.spotify.com/album/3MUPSb6vNKNJ70t5YlAFW0) | 3:22 | 2021-06-22 | 2022-06-01 |
+| [Warszawska](https://open.spotify.com/track/4l3f66EteyRh0AjpI7SllF) | [Lesbijski Groove](https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC) | [Lesbijski Groove](https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK) | 3:50 | 2024-04-08 |  |
 | [wciąż pamiętam o tobie.](https://open.spotify.com/track/4Z1qMryDH9yO9n0ui1dgFl) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [wciąż pamiętam o tobie.](https://open.spotify.com/album/0ovG9QlD7ljXckbIhep6pQ) | 2:52 | 2024-04-08 |  |
 | [We Will Love You](https://open.spotify.com/track/2HxM37qi9QD92PCaYoyJWB) | [Rebeka](https://open.spotify.com/artist/5441nqOH4evDBl4IISiadm) | [Post Dreams](https://open.spotify.com/album/0aAOa1NeG7gZwbGpIM47yF) | 4:10 | 2021-06-22 | 2022-06-01 |
 | [Wiem, że Smakuję Jak...](https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Przekleństwa Niewinności](https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5) | 2:51 | 2023-09-11 |  |

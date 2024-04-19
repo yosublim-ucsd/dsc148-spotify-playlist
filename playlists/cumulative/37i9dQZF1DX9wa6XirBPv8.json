@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 324266,
       "name": "Absinthe Party At The Fly Honey Warehouse",
       "url": "https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255175,
       "name": "Alive With the Glory of Love",
       "url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 166360,
       "name": "Art Is Hard",
       "url": "https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Aside",
       "url": "https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189693,
       "name": "At Your Funeral",
       "url": "https://open.spotify.com/track/3UBDdFbJw8h0zLMaXGftE6"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179986,
       "name": "Buried a Lie",
       "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187546,
       "name": "Can't Be Saved",
       "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
@@ -614,6 +614,24 @@
       "duration_ms": 228706,
       "name": "Car Underwater",
       "url": "https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX"
+    },
+    {
+      "album": {
+        "name": "Beneath Medicine Tree",
+        "url": "https://open.spotify.com/album/2A3RTuMZ7RgGmcvTSpRe6A"
+      },
+      "artists": [
+        {
+          "name": "Copeland",
+          "url": "https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/3kfAwtNyAYduUt1jhxDKZQ"
     },
     {
       "album": {
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209626,
       "name": "Devotion And Desire",
       "url": "https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH"
@@ -779,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Do You Feel",
+        "url": "https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J"
+      },
+      "artists": [
+        {
+          "name": "The Rocket Summer",
+          "url": "https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160973,
+      "name": "Do You Feel",
+      "url": "https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl"
+    },
+    {
+      "album": {
         "name": "Dear Diary, My Teen Angst Has A Body Count",
         "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
       },
@@ -826,7 +862,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241453,
       "name": "Existentialism On Prom Night",
       "url": "https://open.spotify.com/track/7GUizFgoBcD2RT6BKIdOYl"
@@ -1024,10 +1060,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i"
+    },
+    {
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs"
+      },
+      "artists": [
+        {
+          "name": "Lovehatehero",
+          "url": "https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213413,
+      "name": "Goodbye My Love",
+      "url": "https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM"
     },
     {
       "album": {
@@ -1096,7 +1150,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186866,
       "name": "Hands Down",
       "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
@@ -1247,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "For All Of This",
+        "url": "https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "I Want To Hear You Sad",
+      "url": "https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU"
+    },
+    {
+      "album": {
         "name": "Leaving Through The Window",
         "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
       },
@@ -1258,7 +1330,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252866,
       "name": "I Woke Up In A Car",
       "url": "https://open.spotify.com/track/3kaK1EohdhDXT5ICBMRGkz"
@@ -1373,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Brother, Sister",
+        "url": "https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg"
+      },
+      "artists": [
+        {
+          "name": "mewithoutYou",
+          "url": "https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326066,
+      "name": "In A Sweater Poorly Knit",
+      "url": "https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH"
+    },
+    {
+      "album": {
         "name": "Diary (Remastered and Expanded Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1456,7 +1546,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209453,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n"
@@ -1478,6 +1568,24 @@
       "duration_ms": 209906,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/5bSud2NmPvQgMGXOE9vsPi"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216853,
+      "name": "Juneau",
+      "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
     },
     {
       "album": {
@@ -1586,7 +1694,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 229706,
       "name": "Lucky Denver Mint",
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
@@ -1622,7 +1730,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208280,
       "name": "MakeDamnSure",
       "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX"
@@ -1640,7 +1748,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208280,
       "name": "MakeDamnSure",
       "url": "https://open.spotify.com/track/6fx1fKIs5e0pBL5FpdC7RB"
@@ -1820,7 +1928,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207586,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
@@ -1874,7 +1982,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
@@ -1964,7 +2072,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 122880,
       "name": "Oh Messy Life",
       "url": "https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE"
@@ -1982,7 +2090,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244480,
       "name": "Ohio Is For Lovers",
       "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
@@ -2018,7 +2126,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244480,
       "name": "Ohio Is for Lovers",
       "url": "https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn"
@@ -2126,7 +2234,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 183960,
       "name": "Polygraph, Right Now!",
       "url": "https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J"
@@ -2148,6 +2256,24 @@
       "duration_ms": 236346,
       "name": "Position",
       "url": "https://open.spotify.com/track/1ekKg9U4Ah4McvdDydmAQr"
+    },
+    {
+      "album": {
+        "name": "Stories And Alibis",
+        "url": "https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL"
+      },
+      "artists": [
+        {
+          "name": "Matchbook Romance",
+          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY"
     },
     {
       "album": {
@@ -2205,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Casually Dressed & Deep In Conversation",
+        "url": "https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Rookie Of The Year",
+      "url": "https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp"
+    },
+    {
+      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -2234,7 +2378,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229320,
       "name": "Say Anything (Else)",
       "url": "https://open.spotify.com/track/4YoM9p4lEpwPHKE16j3VGJ"
@@ -2360,7 +2504,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205209,
       "name": "Skyway Avenue",
       "url": "https://open.spotify.com/track/2UVY6DZVBuGUKWKqKqJsbB"
@@ -2504,7 +2648,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
@@ -2526,6 +2670,24 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "album": {
+        "name": "Maybe This Place Is The Same And We're Just Changing",
+        "url": "https://open.spotify.com/album/15hosvWOCdHKAhXNomH9Ln"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201577,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6IJPRTfpS3CkUy67iNCnIg"
     },
     {
       "album": {
@@ -2630,7 +2792,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219973,
       "name": "Tell Me I'm A Wreck",
       "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
@@ -2846,7 +3008,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
@@ -2864,7 +3026,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8"
@@ -2936,7 +3098,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203560,
       "name": "The Permanent Rain",
       "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
@@ -2972,7 +3134,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 215204,
       "name": "The Season",
       "url": "https://open.spotify.com/track/67mSnPBrCNWevJjLplCW66"
@@ -3062,7 +3224,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243466,
       "name": "This Could Be Anywhere In The World",
       "url": "https://open.spotify.com/track/6hKnIY2Ssrmqw2TYXW0K5e"
@@ -3242,7 +3404,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212186,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/0tkJnDYPIxF1xqxKe8x8YU"
@@ -3296,10 +3458,28 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205706,
       "name": "We Own the Night",
       "url": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5"
+    },
+    {
+      "album": {
+        "name": "Emotion Is Dead",
+        "url": "https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll"
+      },
+      "artists": [
+        {
+          "name": "The Juliana Theory",
+          "url": "https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "We're At The Top Of The World",
+      "url": "https://open.spotify.com/track/4BejqreqjhlN3FcR2irbKg"
     },
     {
       "album": {
@@ -3332,10 +3512,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269026,
       "name": "What It Is To Burn - New Version",
       "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269093,
+      "name": "What It Is To Burn - New Version",
+      "url": "https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ"
     },
     {
       "album": {
@@ -3440,7 +3638,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179453,
       "name": "You're So Last Summer",
       "url": "https://open.spotify.com/track/22opp9Depbmn43q5gSERwH"

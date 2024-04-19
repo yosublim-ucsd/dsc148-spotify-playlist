@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 137777,
       "name": "3730",
       "url": "https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137810,
       "name": "3730",
       "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
@@ -1747,6 +1747,28 @@
     },
     {
       "album": {
+        "name": "Delincuente Con Traje",
+        "url": "https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G"
+      },
+      "artists": [
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        },
+        {
+          "name": "Dime Platino",
+          "url": "https://open.spotify.com/artist/2LC4ljtDWdhDMGPprXWyZN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Delincuente Con Traje",
+      "url": "https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM"
+    },
+    {
+      "album": {
         "name": "Depues De Las 3",
         "url": "https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ"
       },
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248869,
       "name": "DOGGY DOGGY",
       "url": "https://open.spotify.com/track/2ttPWsLqYc7AqxvZkMqxhw"
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 248869,
       "name": "Doggy Doggy",
       "url": "https://open.spotify.com/track/5WOzZJJJIEuh0thdCS0LkF"
@@ -2116,7 +2138,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 188864,
       "name": "D\u00e1\u00f1alo",
       "url": "https://open.spotify.com/track/1TB3c1a7LlmWBcNC8Qdmck"
@@ -2134,7 +2156,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188864,
       "name": "D\u00e1\u00f1alo Rap",
       "url": "https://open.spotify.com/track/6ZnkClcM1zfA1NhnCVkeW5"
@@ -2420,7 +2442,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194400,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/31xzUK9jMLTNB0TXBdiWfQ"
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160093,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t"
@@ -2474,7 +2496,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 160093,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
@@ -2980,7 +3002,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
@@ -3002,7 +3024,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
@@ -3156,7 +3178,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
@@ -3174,7 +3196,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
@@ -4054,7 +4076,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199304,
       "name": "LOS POBRES Y LOS RICOS",
       "url": "https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz"
@@ -4080,7 +4102,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 199304,
       "name": "LOS POBRES Y LOS RICOS",
       "url": "https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF"
@@ -4616,7 +4638,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 257075,
       "name": "Microphone Check - All Star",
       "url": "https://open.spotify.com/track/6ic9vYTTIMl5vJmIiesaXo"
@@ -4654,7 +4676,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257075,
       "name": "Microphone Check - All Star",
       "url": "https://open.spotify.com/track/709TwQltBD5C7wA5grutpN"
@@ -5426,7 +5448,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 224482,
       "name": "Paketum",
       "url": "https://open.spotify.com/track/1Tam1wR5Hm7CudXEcX6dU9"
@@ -5452,7 +5474,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224482,
       "name": "Paketum",
       "url": "https://open.spotify.com/track/6hL2ueGsHbV7SgMSwMmTcR"
@@ -5622,6 +5644,28 @@
       "duration_ms": 124000,
       "name": "Pingoneo",
       "url": "https://open.spotify.com/track/1E2Gnj5DBKmMDZrpnriSTB"
+    },
+    {
+      "album": {
+        "name": "Playa De Noche",
+        "url": "https://open.spotify.com/album/1ru47SxuI2JKYGEGoRaV9j"
+      },
+      "artists": [
+        {
+          "name": "DJ Maff",
+          "url": "https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Playa De Noche",
+      "url": "https://open.spotify.com/track/5b2XliG3dFPaToQ4SSM9M8"
     },
     {
       "album": {
@@ -6266,7 +6310,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184784,
       "name": "Spotify",
       "url": "https://open.spotify.com/track/1YfzQcjFqCGEHDJ2Lko8ve"
@@ -6556,7 +6600,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 142372,
       "name": "Tan Quedao",
       "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
@@ -6578,7 +6622,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142372,
       "name": "Tan Quedao",
       "url": "https://open.spotify.com/track/6IhKaUibbPr6XAh916LIKu"

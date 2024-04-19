@@ -762,10 +762,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333520,
       "name": "Algo Nuevo",
       "url": "https://open.spotify.com/track/2hTjF2hls2VmPYbwvfCPAh"
+    },
+    {
+      "album": {
+        "name": "Algo Nuevo",
+        "url": "https://open.spotify.com/album/32nQaVGrjbB4BBJsv4aK9A"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333520,
+      "name": "Algo Nuevo",
+      "url": "https://open.spotify.com/track/4FzAvQx5KkEG5NQ9unlQ5b"
     },
     {
       "album": {
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Conf\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270000,
       "name": "Conf\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/7GIv9QngRgd0oc12Umc3Pc"
@@ -7154,7 +7172,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195584,
       "name": "Milagro de Amor",
       "url": "https://open.spotify.com/track/4FkwzleyGqcBmEqrFZ8RKz"
@@ -11970,6 +11988,28 @@
       "duration_ms": 351542,
       "name": "Yo Te Busco",
       "url": "https://open.spotify.com/track/2yYEoYSJnQyZlQpch07h5f"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor qu\u00e9?",
+        "url": "https://open.spotify.com/album/1ng7i0E8PZa5PtOaIVUboh"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Samu Robles",
+          "url": "https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162992,
+      "name": "\u00bfPor qu\u00e9?",
+      "url": "https://open.spotify.com/track/6qupOPVn8IldSRBz2SbuZJ"
     },
     {
       "album": {

@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180023,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 211091,
       "name": "dark snowy night - Slowed & Reverb Version",
       "url": "https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 65000,
       "name": "Dead Metal",
       "url": "https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 85748,
       "name": "Dreaming of Her",
       "url": "https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280749,
       "name": "Escape",
       "url": "https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 94488,
       "name": "Everything is against me",
       "url": "https://open.spotify.com/track/1WLOJLdu9ypubk5GZy7yUY"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170769,
       "name": "fable",
       "url": "https://open.spotify.com/track/4dNCtqHEBPcFt08498i6oW"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191066,
       "name": "Greenland",
       "url": "https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 102857,
       "name": "i watch the moon",
       "url": "https://open.spotify.com/track/1kMwxNvErwIquLxKGdSE3r"
@@ -1884,6 +1884,24 @@
       "duration_ms": 102857,
       "name": "i watch the moon",
       "url": "https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV"
+    },
+    {
+      "album": {
+        "name": "I wish you never left",
+        "url": "https://open.spotify.com/album/73FwdotjhGwThHRk2TBJ2h"
+      },
+      "artists": [
+        {
+          "name": "18FEARS",
+          "url": "https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "I wish you never left",
+      "url": "https://open.spotify.com/track/4AdLYkDiso32rnGCNyrbpZ"
     },
     {
       "album": {
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173337,
       "name": "Melanine",
       "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 118976,
       "name": "mirage",
       "url": "https://open.spotify.com/track/7gy6sob5awFll0Pc5zPP1w"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 105000,
       "name": "No Time Left",
       "url": "https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl"
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140800,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/2qxRVh7mFAYt7Lw2IWM9xu"
@@ -2882,6 +2900,24 @@
       "duration_ms": 140800,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/6IC0untdEsc2PeKcQgZWN9"
+    },
+    {
+      "album": {
+        "name": "one wish",
+        "url": "https://open.spotify.com/album/7dMV1akU13qe0zDVhOfWJn"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131946,
+      "name": "one wish",
+      "url": "https://open.spotify.com/track/4DgNUcwtWoessi8WgVqfKh"
     },
     {
       "album": {
@@ -3106,6 +3142,24 @@
       "duration_ms": 122014,
       "name": "pyjamas",
       "url": "https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0"
+    },
+    {
+      "album": {
+        "name": "4 am",
+        "url": "https://open.spotify.com/album/0r33EYAdVNiPjkdMBLmLT6"
+      },
+      "artists": [
+        {
+          "name": "nowt",
+          "url": "https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217561,
+      "name": "quiet solitude",
+      "url": "https://open.spotify.com/track/1ZT290xMIqeRETvWmpsHO7"
     },
     {
       "album": {
@@ -3706,7 +3760,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "star struck",
       "url": "https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC"
@@ -3724,7 +3778,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133437,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I"
@@ -4186,7 +4240,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 82245,
       "name": "Tlt Corecore Depressed",
       "url": "https://open.spotify.com/track/4xfoRRnDPMu6EyFdQfXOXi"
@@ -4262,6 +4316,28 @@
       "duration_ms": 186485,
       "name": "two door tiffany",
       "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
+    },
+    {
+      "album": {
+        "name": "among the stars",
+        "url": "https://open.spotify.com/album/1sa2gJbqfvcbYyjJmwCHL9"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "Etsu",
+          "url": "https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "unconscious",
+      "url": "https://open.spotify.com/track/0TMta5TSf2nTRhU0VUWrr8"
     },
     {
       "album": {

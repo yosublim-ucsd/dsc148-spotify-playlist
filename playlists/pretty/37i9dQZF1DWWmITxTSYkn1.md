@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain]
 
 > Enjoy the SUGA \| Agust D Seoul concert LIVE SET including the voices of him on stage! \(SUGA \| Agust D의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,411 likes - 29 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,139 likes - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain]
 | 6 | [Greeting from SUGA](https://open.spotify.com/track/1n4Rlc4qt1qCGkbxTCIlhJ) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [SUGA \| Agust D \[D\-DAY TOUR\]](https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d) | 2:25 |
 | 7 | [Trivia 轉 : Seesaw](https://open.spotify.com/track/0mZI1NpihIVcho2f9MmqSW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:06 |
 | 8 | [SDL](https://open.spotify.com/track/2vRoAkwc3UBEPW2udvN0u9) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:51 |
-| 9 | [People](https://open.spotify.com/track/6HDHaCnH2FCSdEwXrJfEVF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:17 |
+| 9 | [People](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:17 |
 | 10 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:33 |
 | 11 | [Transition](https://open.spotify.com/track/2o5kzwuPQShtuR5MGHms7P) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [SUGA \| Agust D \[D\-DAY TOUR\]](https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d) | 1:55 |
-| 12 | [Moonlight](https://open.spotify.com/track/1NuwEuQH7vbDLA9eg5TvEg) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 2:43 |
-| 13 | [Burn It \(feat\. MAX\)](https://open.spotify.com/track/2hX8rtWyNxYyaBT64H3LYU) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf) | 3:12 |
+| 12 | [Moonlight](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 2:43 |
+| 13 | [Burn It \(feat\. MAX\)](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:12 |
 | 14 | [Interlude : Shadow](https://open.spotify.com/track/7om4LRoSct9hiMPo0fPn7m) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:19 |
 | 15 | [BTS Cypher Pt.3: Killer](https://open.spotify.com/track/5OlieB5VdsOMuBuCtllXGW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Supreme Boi](https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:27 |
 | 16 | [BTS Cypher 4](https://open.spotify.com/track/4cTSnpyaIR1qGaTOLJunDM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:54 |
@@ -36,6 +36,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain]
 | 26 | [D\-Day](https://open.spotify.com/track/22W6wI4hDTjMAYKKBQW9dU) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:31 |
 | 27 | [Encore](https://open.spotify.com/track/0PgpcwBfURH7ENtbdv3dtU) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [SUGA \| Agust D \[D\-DAY TOUR\]](https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d) | 7:12 |
 | 28 | [Intro: Never Mind](https://open.spotify.com/track/6JbPyMiLnWaaKusic64bCq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 2:16 |
-| 29 | [The Last](https://open.spotify.com/track/2FUZnIf0LasXgvXMewJ0lO) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 4:05 |
+| 29 | [The Last](https://open.spotify.com/track/5GPiG4vIuDfYus1gRcXEok) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 4:05 |
 
 Snapshot ID: `MTY4ODcwMjQ2MCwwMDAwMDAwMGM3MmUxMzY2ZTAwNjUwZjI3YjcyZDkzZWRjZTRlMWJj`

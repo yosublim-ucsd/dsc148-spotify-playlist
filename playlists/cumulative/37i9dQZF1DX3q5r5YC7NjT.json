@@ -64,6 +64,24 @@
     {
       "album": {
         "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 947500,
+      "name": "Gravity that Binds",
+      "url": "https://open.spotify.com/track/2HhmgZpEPxIbndxrmX4l9L"
+    },
+    {
+      "album": {
+        "name": "Patterns Of Consciousness",
         "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
       },
       "artists": [
@@ -74,7 +92,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 947500,
       "name": "Gravity that Binds",
       "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 358386,
       "name": "Votiv",
       "url": "https://open.spotify.com/track/6L56pepR6uJYg4cQoG1W1n"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 358386,
       "name": "Votiv",
       "url": "https://open.spotify.com/track/7dhotWWze1Ml2ZFD6B0dn6"

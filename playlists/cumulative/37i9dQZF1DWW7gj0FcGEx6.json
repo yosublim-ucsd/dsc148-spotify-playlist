@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137266,
       "name": "25 Years",
       "url": "https://open.spotify.com/track/3sc30oDHL0cYWBpt1FHVT7"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 137574,
       "name": "25 Years",
       "url": "https://open.spotify.com/track/277WR3fUAz1T1QNkede17l"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 261795,
       "name": "A Time of Quiet Between the Storms",
       "url": "https://open.spotify.com/track/18bwTFfiQi3cGbU61l1OIj"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261795,
       "name": "A Time of Quiet Between the Storms",
       "url": "https://open.spotify.com/track/7lG5m4JN0exualOkghSNXq"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177520,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3lve6DLYGjfrYe2QsoDoeu"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 177520,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 194389,
       "name": "Came Here To Die",
       "url": "https://open.spotify.com/track/2SyWyjZm32D0sOJtFhmSMe"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194389,
       "name": "Came Here To Die",
       "url": "https://open.spotify.com/track/67v63GLYUbLPxYXD0Ro5lI"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 79710,
       "name": "Citadel (Main Title Theme)",
       "url": "https://open.spotify.com/track/3koRMFxZIBO9iDCDLRUmnF"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 79710,
       "name": "Citadel (Main Title Theme)",
       "url": "https://open.spotify.com/track/6HB5R1sNMWYJ5eRqCWTPqo"
@@ -1176,10 +1176,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 95266,
       "name": "Dungeons and Dragons",
       "url": "https://open.spotify.com/track/30NS4OLaCDe0aJOPCcrF1J"
+    },
+    {
+      "album": {
+        "name": "Dungeons & Dragons: Honour Among Thieves (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5xiv7MsgDHRpIGETS0hXrm"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95266,
+      "name": "Dungeons and Dragons",
+      "url": "https://open.spotify.com/track/6mvqaruxBnqbgFEEvnUzaA"
     },
     {
       "album": {
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 352658,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/1ZPmsTDkoBH63pX25YLAOa"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 352658,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118601,
       "name": "Friendship Theme",
       "url": "https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b"
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 118601,
       "name": "Friendship Theme - From \"Chaos Walking\" Soundtrack",
       "url": "https://open.spotify.com/track/2AxvuvkyxM3XvLJjtNaDn7"
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 212040,
       "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
       "url": "https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj"
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212040,
       "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
       "url": "https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg"
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 72658,
       "name": "I Importune You (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/7AjH6bywEZga06Y3bEkyqh"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72658,
       "name": "I Importune You (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/7muq4xFFXRAZ7Kl3ZFPZNf"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 80727,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4NugB1xXN1iWAf0iHhG7Ex"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 80727,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4qiU2MttlW4RKfV1IbjrxI"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 200293,
       "name": "Khazad-d\u00fbm",
       "url": "https://open.spotify.com/track/1eF4PXrF3P1y7G5NghaiIB"
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200293,
       "name": "Khazad-d\u00fbm",
       "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
@@ -2552,6 +2570,28 @@
     {
       "album": {
         "name": "Star Trek: Picard, Season 3 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3SVQGHzJrMR1C3No6qXKUN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Frederik Wiedmann",
+          "url": "https://open.spotify.com/artist/4y9AcaqpYbyZuO8MjnVADB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104226,
+      "name": "Legacy And Future",
+      "url": "https://open.spotify.com/track/3bV15ZQVafG8w1EhefnuHe"
+    },
+    {
+      "album": {
+        "name": "Star Trek: Picard, Season 3 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6VT2WdWemFKW7127XBsESH"
       },
       "artists": [
@@ -2566,7 +2606,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104226,
       "name": "Legacy And Future",
       "url": "https://open.spotify.com/track/5W302Z0r4L9N4P3pHoMGac"
@@ -2652,6 +2692,10 @@
         {
           "name": "Pinar Toprak",
           "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
+        },
+        {
+          "name": "Tyler Durham",
+          "url": "https://open.spotify.com/artist/4jYtPUSVUu0ZRDKxpAIGq9"
         }
       ],
       "date_added": "2024-04-12",
@@ -2764,7 +2808,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156200,
       "name": "Main Titles",
       "url": "https://open.spotify.com/track/0HY36x94MbEBf0ZNw0eHsP"
@@ -2782,7 +2826,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156200,
       "name": "Main Titles",
       "url": "https://open.spotify.com/track/5BRpHMeMmznGplORyurX5n"
@@ -2890,7 +2934,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 181880,
       "name": "Mane Title",
       "url": "https://open.spotify.com/track/1MmTr1ahz7VuHhsCKYONz4"
@@ -3014,7 +3058,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141066,
       "name": "Mercy - from \"The Hunger Games: The Ballad of Songbirds and Snakes\" Score",
       "url": "https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E"
@@ -3032,7 +3076,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 141066,
       "name": "Mercy - from \"The Hunger Games: The Ballad of Songbirds and Snakes\" Score",
       "url": "https://open.spotify.com/track/6moXCi6h6LFqaSg8wkya7W"
@@ -3140,7 +3184,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130453,
       "name": "Moon Knight",
       "url": "https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk"
@@ -3158,7 +3202,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 128800,
       "name": "Moon Knight - From \"Moon Knight\"",
       "url": "https://open.spotify.com/track/3IvbyVYgQEKqvwQhquFKNn"
@@ -3274,7 +3318,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196947,
       "name": "My Pafology - From \"American Fiction\" Soundtrack",
       "url": "https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe"
@@ -3292,7 +3336,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 196947,
       "name": "My Pafology - From \"American Fiction\" Soundtrack",
       "url": "https://open.spotify.com/track/7BCvV8CqFW9nfHpcULwglX"
@@ -3328,7 +3372,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 190371,
       "name": "Nandor Fodor Main Theme",
       "url": "https://open.spotify.com/track/2lzWWH2tHyNvQTiXhAUgNi"
@@ -3346,7 +3390,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190371,
       "name": "Nandor Fodor Main Theme",
       "url": "https://open.spotify.com/track/4qZ5wCkJ16ZmVqct7hBzSs"
@@ -3472,7 +3516,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 121000,
       "name": "No Ball Games (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4HUsC4vT6Aqeql8FKLfnbJ"
@@ -3490,7 +3534,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121000,
       "name": "No Ball Games (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
@@ -3943,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Renaissance (Main Title Theme) [from \"The White Lotus: Season 2\"]",
+        "url": "https://open.spotify.com/album/1zCT4I0eZ0GI0xuQoALLYQ"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98440,
+      "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
+      "url": "https://open.spotify.com/track/0qyssIlX3W388jWlzb6oln"
+    },
+    {
+      "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
       },
@@ -3954,7 +4016,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 98440,
       "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
       "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
@@ -4006,7 +4068,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 92125,
       "name": "Resting (Short)",
       "url": "https://open.spotify.com/track/2jljiAZnZtzi2vvD4RmpYK"
@@ -4036,7 +4098,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 92125,
       "name": "Resting - Short",
       "url": "https://open.spotify.com/track/4gdMWFOlSyIHTJLOfgX1tj"
@@ -4090,7 +4152,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314786,
       "name": "Ripples in the Sand",
       "url": "https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH"
@@ -4108,7 +4170,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314786,
       "name": "Ripples in the Sand",
       "url": "https://open.spotify.com/track/6YuwwEkKJAbFm4QlBT4Xas"
@@ -4498,6 +4560,24 @@
     {
       "album": {
         "name": "Star Trek: Strange New Worlds (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/265Cg2RYP8kNDhcfT7tvPi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111826,
+      "name": "Star Trek: Strange New Worlds (Main Title Theme)",
+      "url": "https://open.spotify.com/track/21cwaPCSoxKeosWjEWYZ4E"
+    },
+    {
+      "album": {
+        "name": "Star Trek: Strange New Worlds (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2P5KuodhuREeyUQ45YB1OS"
       },
       "artists": [
@@ -4508,7 +4588,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111826,
       "name": "Star Trek: Strange New Worlds (Main Title Theme)",
       "url": "https://open.spotify.com/track/474E7jGAWAeCIKIO4Dz3wL"
@@ -4526,7 +4606,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235270,
       "name": "Stephen Trains Alessia",
       "url": "https://open.spotify.com/track/07RExMA8WI7Xl5yLPZ3Hnf"
@@ -4544,7 +4624,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 235270,
       "name": "Stephen Trains Alessia",
       "url": "https://open.spotify.com/track/1E3nN6LhvpqizoguRFfVhs"
@@ -4602,10 +4682,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 102013,
       "name": "Succession (Main Title Theme)",
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
+    },
+    {
+      "album": {
+        "name": "Succession, Season 1 (HBO Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2JsH6mfSAfojZhQJ5CuLMK"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102013,
+      "name": "Succession - Main Title Theme",
+      "url": "https://open.spotify.com/track/3jI7Yeg7a2d7BMc8CxABVM"
     },
     {
       "album": {
@@ -4736,7 +4834,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232186,
       "name": "Thank You For Being My Friend",
       "url": "https://open.spotify.com/track/16zZ6xJoy1MQ03K2RgItua"
@@ -4754,7 +4852,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "Thank You for Being My Friend",
       "url": "https://open.spotify.com/track/1exYML70PCk5Exyky12SnY"
@@ -4880,7 +4978,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/0hs3unYvc0bFG2NgheFdkO"
@@ -4898,7 +4996,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
@@ -4942,7 +5040,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175699,
       "name": "The Book of Boba Fett",
       "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
@@ -4954,13 +5052,13 @@
       },
       "artists": [
         {
-          "name": "Ludwig Goransson",
+          "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175699,
       "name": "The Book of Boba Fett - From \"The Book of Boba Fett\"",
       "url": "https://open.spotify.com/track/1YGJWCGQq7YduP7ENxgCJC"
@@ -5106,7 +5204,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93254,
       "name": "The Gilded Age (Main Title Theme)",
       "url": "https://open.spotify.com/track/5mDWx1oPXw1bvOcTBVL93w"
@@ -5128,7 +5226,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 92799,
       "name": "The Gilded Age (Main Title) - from \"The Gilded Age\"",
       "url": "https://open.spotify.com/track/5Q8rGIeJMxJsdaEoTvZgk9"
@@ -5222,7 +5320,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174800,
       "name": "The Last Smile",
       "url": "https://open.spotify.com/track/3upwv1DPliAh0ACVYBGNIg"
@@ -5446,7 +5544,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274271,
       "name": "The Prince That Was Promised",
       "url": "https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl"
@@ -5464,7 +5562,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 274271,
       "name": "The Prince That Was Promised (from \"House of the Dragon\")",
       "url": "https://open.spotify.com/track/4PJXXyHln0QBOir9G0GTtM"
@@ -5808,7 +5906,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127344,
       "name": "Thrinos",
       "url": "https://open.spotify.com/track/1BLhw0Jg5xhXxqsuk32IMN"
@@ -5826,7 +5924,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 127344,
       "name": "Thrinos",
       "url": "https://open.spotify.com/track/3Ma4JDl9bU1UInwwCiVIfU"
@@ -6026,7 +6124,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232851,
       "name": "Video Games - from \"Westworld: Season 4\"",
       "url": "https://open.spotify.com/track/2zFhqeicX665k6vGPeTeDW"
@@ -6062,7 +6160,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232851,
       "name": "Video Games - from \"Westworld: Season 4\"",
       "url": "https://open.spotify.com/track/4WbSUuY31KdjUOmnmANNUi"
@@ -6178,7 +6276,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122565,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/5HTUwlijsog2BomPCl5P3M"
@@ -6196,7 +6294,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 122565,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/6FdZa2ipXEDOd6Hw3wE3r6"
@@ -6232,7 +6330,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181880,
       "name": "Werewolf By Night: Mane Title",
       "url": "https://open.spotify.com/track/6bh3vf93ab2mBMpsJnj8BC"
@@ -6348,7 +6446,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 149060,
       "name": "Worlds Collide",
       "url": "https://open.spotify.com/track/5s3kCq0CzYs1lb2TPjU3MC"
@@ -6366,7 +6464,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149060,
       "name": "Worlds Collide",
       "url": "https://open.spotify.com/track/7xrhSAPdP786IAddAhZiAE"
@@ -6392,6 +6490,24 @@
     {
       "album": {
         "name": "Star Trek: Discovery (Season 4) [Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/7qUMbpq5MsKF6A50UBeE02"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269720,
+      "name": "Wrap Up",
+      "url": "https://open.spotify.com/track/3FzH2Ukw68NNLsYKDkgdLW"
+    },
+    {
+      "album": {
+        "name": "Star Trek: Discovery (Season 4) [Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/5XleeeAeYOAQV1bLKDnNQl"
       },
       "artists": [
@@ -6402,7 +6518,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269720,
       "name": "Wrap Up",
       "url": "https://open.spotify.com/track/4jHpdfiSeaiE4n3ef9fVay"
@@ -6482,6 +6598,24 @@
       "duration_ms": 150345,
       "name": "Zen - Grogu and Dust Bunnies",
       "url": "https://open.spotify.com/track/2junXTf8UTWYmwZcDN7z6q"
+    },
+    {
+      "album": {
+        "name": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b\u3000\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "\u6700\u5f8c\u306e\u307b\u307b\u3048\u307f",
+      "url": "https://open.spotify.com/track/4XmQRSaVSKFtk8Sed7eTh5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW7gj0FcGEx6"

@@ -4,7 +4,7 @@
 
 > Grab a quick nap for an instant refresher\. Zzzz...
 
-179 songs - 8 hr 39 min
+180 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-08 |  |
 | [Still And Calm](https://open.spotify.com/track/01LxVoyk6e42ifx6gFZB0C) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Still And Calm](https://open.spotify.com/album/62BOhkDJRSeyiwnrWf1QGB) | 3:06 | 2024-02-08 |  |
 | [Storm](https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Storm](https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU) | 2:36 | 2024-02-08 |  |
-| [Suavizar El Dolor](https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar El Dolor](https://open.spotify.com/album/1eepNMy4qQaYaKt6zUuc8n) | 2:07 | 2024-03-06 |  |
+| [Suavizar El Dolor](https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar El Dolor](https://open.spotify.com/album/1eepNMy4qQaYaKt6zUuc8n) | 2:07 | 2024-03-06 | 2024-04-19 |
+| [Suavizar el Dolor](https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar el Dolor](https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP) | 2:07 | 2024-03-06 |  |
 | [Sublime Solitude](https://open.spotify.com/track/1a5wALPS5MtdxlNpw68DJK) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Sublime Solitude](https://open.spotify.com/album/1uYDTaXUyAhmhmTR5KCaVq) | 2:56 | 2024-03-06 |  |
 | [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 | 2023-11-15 | 2024-02-09 |
 | [Terdiam](https://open.spotify.com/track/2j1IXyTxl3Qhu8orYsj5LP) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Terdiam](https://open.spotify.com/album/1vb8fI3ouZ09XNPv0XW8wM) | 2:22 | 2023-11-15 |  |

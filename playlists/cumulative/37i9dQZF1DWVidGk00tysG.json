@@ -5,50 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "Chopin: \u00c9tudes",
-        "url": "https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Jan Lisiecki",
-          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 124626,
-      "name": "12 Etudes, Op.10: No. 1 in C Major \"Waterfall\"",
-      "url": "https://open.spotify.com/track/741PxAwkQFMmrqOxgOfzN4"
-    },
-    {
-      "album": {
-        "name": "Chopin: \u00c9tudes",
-        "url": "https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Jan Lisiecki",
-          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 90386,
-      "name": "12 Etudes, Op.10: No. 2 in A Minor",
-      "url": "https://open.spotify.com/track/3rXYoFjHSkikmuJKmLJK7r"
-    },
-    {
-      "album": {
         "name": "Let\u2019s Waltz with Chopin",
         "url": "https://open.spotify.com/album/6BRtn4HumUeRE9y4MQk7gO"
       },
@@ -86,10 +42,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124626,
       "name": "12 \u00c9tudes, Op. 10: No. 1 in C Major \"Waterfall\"",
       "url": "https://open.spotify.com/track/6Uctr2eBhLmAmm1PuBxcbo"
+    },
+    {
+      "album": {
+        "name": "Chopin: \u00c9tudes",
+        "url": "https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124626,
+      "name": "12 \u00c9tudes, Op. 10: No. 1 in C Major \"Waterfall\"",
+      "url": "https://open.spotify.com/track/741PxAwkQFMmrqOxgOfzN4"
     },
     {
       "album": {
@@ -130,10 +108,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 90386,
       "name": "12 \u00c9tudes, Op. 10: No. 2 in A Minor",
       "url": "https://open.spotify.com/track/3EEfOzF1ia1ioqw2oIczpP"
+    },
+    {
+      "album": {
+        "name": "Chopin: \u00c9tudes",
+        "url": "https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90386,
+      "name": "12 \u00c9tudes, Op. 10: No. 2 in A Minor",
+      "url": "https://open.spotify.com/track/3rXYoFjHSkikmuJKmLJK7r"
     },
     {
       "album": {
@@ -174,7 +174,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131120,
       "name": "12 \u00c9tudes, Op. 10: No. 4 in C-Sharp Minor",
       "url": "https://open.spotify.com/track/0M3o2f1cTTBdOyx7SSR6fi"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131120,
       "name": "12 \u00c9tudes, Op. 10: No. 4 in C-Sharp Minor",
       "url": "https://open.spotify.com/track/42oVt243Ixw2bohhSMmdpL"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196920,
       "name": "12 \u00c9tudes, Op. 10: No. 6 in E-Flat Minor",
       "url": "https://open.spotify.com/track/1agUvChcIwZPgdopLc4fD6"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196920,
       "name": "12 \u00c9tudes, Op. 10: No. 6 in E-Flat Minor",
       "url": "https://open.spotify.com/track/6KDbcbrpyyyDrVlpnff49w"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160386,
       "name": "19 Polish Songs, Op. 74: No. 8, Sliczny chlopiec",
       "url": "https://open.spotify.com/track/5lEOJ0qNOafAp1ZUNuBqxd"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160386,
       "name": "19 Polish Songs, Op. 74: No. 8. Sliczny chlopiec",
       "url": "https://open.spotify.com/track/7wK8i2ASHx8ZIXwLhSMne2"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 41160,
       "name": "24 Preludes, Op. 28: No. 1 in C Major",
       "url": "https://open.spotify.com/track/6UlYfU3dCqFXKCOIcfTrb9"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 43093,
       "name": "24 Preludes, Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7nOhPlpTPrMkvcuMBBcJPm"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 88466,
       "name": "24 Preludes, Op. 28: No. 9 in E Major",
       "url": "https://open.spotify.com/track/6rjemuZ8zBQIz36tbqrPd7"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 41160,
       "name": "24 Preludes, Op. 28: Prelude No. 1 in C Major, Op. 28, No. 1",
       "url": "https://open.spotify.com/track/6Pz4ZJ0zxXZbhgjKvwnTU3"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 43093,
       "name": "24 Preludes, Op. 28: Prelude No. 7 in A Major, Op. 28, No. 7",
       "url": "https://open.spotify.com/track/2Xl4dbOYrRniOffrW0qvm0"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 88466,
       "name": "24 Preludes, Op. 28: Prelude No. 9 in E Major, Op. 28, No. 9",
       "url": "https://open.spotify.com/track/5Wv6QdmP6YAx3VIqOB227V"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144666,
       "name": "24 Pr\u00e9ludes, Op. 28: 24. In D Minor - 2011 Recording",
       "url": "https://open.spotify.com/track/0QcqxLcOWaIH4m58oRNT0z"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 144666,
       "name": "24 Pr\u00e9ludes, Op. 28: 24. In D Minor - 2011 Recording",
       "url": "https://open.spotify.com/track/4b9V3YphJiIjqYmifs05PV"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151000,
       "name": "3 Nouvelles etudes, Op. posth.: II. Etude No. 26 in A-Flat Major",
       "url": "https://open.spotify.com/track/3S9qdWjfdG7HYbJtiWRRHe"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "3 Nouvelles \u00e9tudes, B. 130: II. Etude No. 26 in A-Flat Major (Live)",
       "url": "https://open.spotify.com/track/0SzeTxpsFn5TaHHEkkLQqz"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 452333,
       "name": "Ballade No. 2 in F Major, Op. 38",
       "url": "https://open.spotify.com/track/6NcG7IDh8qC3zb1Mcr9fBS"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 461000,
       "name": "Ballade No. 2 in F Major, Op. 38",
       "url": "https://open.spotify.com/track/4FJJKMXwKerjg6YOZlSvIA"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 469613,
       "name": "Ballade No. 3 in A Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/1BPsXqDKyApGZTDQy69zOk"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 469613,
       "name": "Ballade No. 3 in A Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 68426,
       "name": "Cantabile in B-Flat Major",
       "url": "https://open.spotify.com/track/16OWr7l8ifV69Hb1FL6UZL"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 69426,
       "name": "Cantabile in B-Flat Major",
       "url": "https://open.spotify.com/track/18wnVI2y5Loy6Pr6ilqQ8r"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153733,
       "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
       "url": "https://open.spotify.com/track/5QS4Ww7pFtigfFqoSQJrP6"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153733,
       "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
       "url": "https://open.spotify.com/track/5eveZq0tpQo5iEAiuqyEQw"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 868346,
       "name": "Chopin: Fantasy on Polish Airs, Op. 13",
       "url": "https://open.spotify.com/track/00wHoETjCPnZzYxlgUzUTQ"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "Contredanse in G-Flat Major",
       "url": "https://open.spotify.com/track/7vOznp0NX9PTlW9D0BYv0L"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119213,
       "name": "Contredanse in G-Flat Major, BI 17 (1827)",
       "url": "https://open.spotify.com/track/0zqp77b4vRHHIwWcs096Rx"
@@ -1554,9 +1554,9 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 336093,
-      "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "name": "Fantaisie-Impromptu in C-Sharp Minor, Op. 66",
       "url": "https://open.spotify.com/track/0Y9BzZGT2FuLVPrHoq1g2G"
     },
     {
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336093,
       "name": "Fantaisie-Impromptu in C-Sharp Minor, Op. 66",
       "url": "https://open.spotify.com/track/4oowGH3baaetOYlEVUglhU"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 860520,
       "name": "Fantasia on Polish National Airs Op. 13",
       "url": "https://open.spotify.com/track/4XCmNP6ZrjKxCg5Hmj2cml"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 306773,
       "name": "Impromptu No. 3 in G-Flat Major, Op. 51",
       "url": "https://open.spotify.com/track/29ZAGoKOX6a4oeB0iFl14z"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308693,
       "name": "Impromptu No. 3 in G-Flat Major, Op. 51",
       "url": "https://open.spotify.com/track/1EFZ8ibrXlKnyU6WP1LL9q"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186640,
       "name": "Mazurka No. 14 in G Minor, Op. 24, No. 1",
       "url": "https://open.spotify.com/track/0LZh6bNs6HtMmvCL9cpEWM"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154293,
       "name": "Mazurka No. 16 in A-Flat Major, Op. 24, No. 3",
       "url": "https://open.spotify.com/track/5oncCymvZwEs7rWz53fVeF"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "Mazurkas, Op. 24: Mazurka No. 14 in G Minor, Op. 24, No. 1",
       "url": "https://open.spotify.com/track/6PPs4hQ4zbqpAixLYkvz92"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154266,
       "name": "Mazurkas, Op. 24: Mazurka No. 16 in A-Flat Major, Op. 24, No. 3",
       "url": "https://open.spotify.com/track/6mBWS5L6J61xrQZnPpxaNk"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1231333,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: 1. Allegro maestoso",
       "url": "https://open.spotify.com/track/5v46eIiHWK8RiQMOpIuykM"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 634933,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: 2. Romance (Larghetto)",
       "url": "https://open.spotify.com/track/2OxziEQaUt5MRXppGYXGpu"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 614213,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: 3. Rondo (Vivace)",
       "url": "https://open.spotify.com/track/3LP3moXNVftAVAWEORJZ3a"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1231333,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: I. Allegro maestoso",
       "url": "https://open.spotify.com/track/2YeDJ6GBFAO8iW0m7SoMFi"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 634933,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance (Larghetto)",
       "url": "https://open.spotify.com/track/2Tii3ZAtFI1OuUXqk3CY1l"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 614213,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: III. Rondo (Vivace)",
       "url": "https://open.spotify.com/track/4NFtAZNMvH3Qiv9d0YMKC2"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 841200,
       "name": "Piano Concerto No. 2 in F minor, Op. 21: I. Maestoso",
       "url": "https://open.spotify.com/track/6RxMj0c9bbALLbT6QOOqzO"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 841200,
       "name": "Piano Concerto No. 2 in F Minor, Op. 21: I. Maestoso",
       "url": "https://open.spotify.com/track/7aCl64PutenusyKQm4mIev"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 487146,
       "name": "Piano Concerto No. 2 in F minor, Op. 21: II. Larghetto",
       "url": "https://open.spotify.com/track/1XWZXXac1UvCVRd8eO3O1R"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 487146,
       "name": "Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",
       "url": "https://open.spotify.com/track/2iDzyPAKRXipSV5nqacm4W"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 515840,
       "name": "Piano Concerto No. 2 in F minor, Op. 21: III. Allegretto vivace",
       "url": "https://open.spotify.com/track/2kcCOdVpLqhGmUN0r2tKBz"
@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 515840,
       "name": "Piano Concerto No. 2 in F Minor, Op. 21: III. Allegretto vivace",
       "url": "https://open.spotify.com/track/4saS9RJWpMNYRKWXj0AwaU"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 306053,
       "name": "Polonaise No. 3 in A Major, Op. 40, No. 1 'Military'",
       "url": "https://open.spotify.com/track/0gC1ltoVLrVfP8wcBlqaVH"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306053,
       "name": "Polonaise No. 3 in A Major, Op. 40, No. 1 'Military'",
       "url": "https://open.spotify.com/track/4GIxB5XC9OeeQoIab7rM5S"
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 645333,
       "name": "Scherzo No. 1 in B Minor, Op. 20",
       "url": "https://open.spotify.com/track/0uk4R0EZdk1MolyGi1YOH9"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 645333,
       "name": "Scherzo No. 1 in B Minor, Op. 20",
       "url": "https://open.spotify.com/track/2U2QBnB0n1yPVooIRGihir"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 634173,
       "name": "Scherzo No. 4 in E Major, Op. 54",
       "url": "https://open.spotify.com/track/2qofLUQ13jdSfaOUeysowS"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 634173,
       "name": "Scherzo No. 4 in E Major, Op. 54",
       "url": "https://open.spotify.com/track/6sjKKyPwt6dnpnxuM9mtlT"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 628840,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 1. Allegro moderato",
       "url": "https://open.spotify.com/track/21csbl512BPunqsZ6FktCh"
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 628840,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 1. Allegro moderato",
       "url": "https://open.spotify.com/track/2Ba0v3LngJAXJCThCfDVCi"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/5GvFoTt81kcLw6eEJlfCKT"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361160,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 4. Finale (Allegro)",
       "url": "https://open.spotify.com/track/7AJrfBzKpHEjM0pFSvHha5"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 361160,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 4. Finale (Allegro)",
       "url": "https://open.spotify.com/track/7J90bcRGPqtK5TOopUyuIi"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178866,
       "name": "Tarantelle, Op. 43",
       "url": "https://open.spotify.com/track/49p2bQxoUynn6BFSzv11r7"
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182266,
       "name": "Tarantelle, Op. 43",
       "url": "https://open.spotify.com/track/76M1GHmM1OP9b440gVipPX"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172600,
       "name": "Valse in E Minor, Op. posth.",
       "url": "https://open.spotify.com/track/5hCGNc0Dtr20NoZ6gXGXw1"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 586733,
       "name": "Variations brillantes",
       "url": "https://open.spotify.com/track/5E0u613IN0MPi1JNPwf4gR"
@@ -3422,7 +3422,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 595000,
       "name": "Variations brillantes, Op. 12",
       "url": "https://open.spotify.com/track/5zJAsjM3CapmzBbkpgZLUT"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 172600,
       "name": "Waltz in E Minor, Op. Posth.",
       "url": "https://open.spotify.com/track/2YJgIsU0vreWfKytQelclt"
@@ -3510,7 +3510,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238906,
       "name": "Waltz No. 10 in B Minor, Op. 69, No. 2",
       "url": "https://open.spotify.com/track/7lAOLNDVHWwvBohU5frfG7"
@@ -3554,7 +3554,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172840,
       "name": "Waltz No. 13 in D-Flat Major, Op. 70, No. 3",
       "url": "https://open.spotify.com/track/5R3ibGmqjzbPnCrZZIEpvm"
@@ -3598,10 +3598,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Waltz No. 13 in D-Flat Major, Op. 70, No. 3",
       "url": "https://open.spotify.com/track/2BuOI4GjqpBqfzHYS2kIlP"
+    },
+    {
+      "album": {
+        "name": "Chopin: 19 Waltzes",
+        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Waltz No. 19 in A minor, Op. posth.",
+      "url": "https://open.spotify.com/track/795hdWK6qXc9SDwGwoBHfU"
     },
     {
       "album": {
@@ -3620,7 +3642,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152000,
       "name": "Waltz No. 19 in A minor, Op. posth.",
       "url": "https://open.spotify.com/track/2I7WcgmlZSKkWhC0zEAmQn"
@@ -3649,6 +3671,28 @@
     },
     {
       "album": {
+        "name": "Chopin: 19 Waltzes",
+        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Waltz No. 5 in A Flat, Op. 42 - \"Grande valse\"",
+      "url": "https://open.spotify.com/track/1OcRiWp6PG6KpKv1yQGYCj"
+    },
+    {
+      "album": {
         "name": "Chopin: Waltzes",
         "url": "https://open.spotify.com/album/0h8hAxMUrF5wN2vHXzYW5k"
       },
@@ -3664,7 +3708,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276866,
       "name": "Waltz No. 5 in A Flat, Op. 42 - \"Grande valse\"",
       "url": "https://open.spotify.com/track/6wFKGWow2nmXDjir2Uvagd"
@@ -3712,50 +3756,6 @@
       "duration_ms": 220160,
       "name": "Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2",
       "url": "https://open.spotify.com/track/6K4yOmGK88m1a7qGn5NgYc"
-    },
-    {
-      "album": {
-        "name": "Chopin: 19 Waltzes",
-        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Claudio Arrau",
-          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 149000,
-      "name": "Waltz No.19 in A minor, Op.posth.",
-      "url": "https://open.spotify.com/track/795hdWK6qXc9SDwGwoBHfU"
-    },
-    {
-      "album": {
-        "name": "Chopin: 19 Waltzes",
-        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Claudio Arrau",
-          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 273000,
-      "name": "Waltz No.5 in A Flat, Op.42 - \"Grande valse\"",
-      "url": "https://open.spotify.com/track/1OcRiWp6PG6KpKv1yQGYCj"
     },
     {
       "album": {
@@ -3862,7 +3862,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Waltzes, Op. 69: No. 2 in B Minor",
       "url": "https://open.spotify.com/track/2VeL9mexNVTippORBuAHY3"

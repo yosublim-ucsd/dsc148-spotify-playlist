@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Bol Balay Meri Sarkaron Ke, Vol. 116",
+        "url": "https://open.spotify.com/album/6wmcnkH9L69TfG3KenKoid"
+      },
+      "artists": [
+        {
+          "name": "Owais Raza Qadri",
+          "url": "https://open.spotify.com/artist/1ymQAIQTQDQyskr4FEG0wO"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561946,
+      "name": "Bhar do jholi meri",
+      "url": "https://open.spotify.com/track/52SJ6ElZrBJfS9BRlTJc66"
+    },
+    {
+      "album": {
         "name": "Zarre Jhar Kar",
         "url": "https://open.spotify.com/album/6662K0VacXy850mNddx4Ad"
       },
@@ -356,7 +374,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 561880,
       "name": "Bhardo Jholi",
       "url": "https://open.spotify.com/track/4Wmqpglb15GFrY13sMhgLv"
@@ -400,6 +418,24 @@
     {
       "album": {
         "name": "Mera Koi Nahi Hai Tere Siwa",
+        "url": "https://open.spotify.com/album/17PnLUANmqDhCKf0QETqg8"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Ahmed Raza Qadri",
+          "url": "https://open.spotify.com/artist/4gWe0FXftf4GMQipZkdYwK"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473880,
+      "name": "Dar E Nabi Par",
+      "url": "https://open.spotify.com/track/2Yz5ndXpmODr8fwt2itgk9"
+    },
+    {
+      "album": {
+        "name": "Mera Koi Nahi Hai Tere Siwa",
         "url": "https://open.spotify.com/album/0n9T3j021b2vHzAvWCYw6b"
       },
       "artists": [
@@ -410,7 +446,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 473939,
       "name": "Dar E Nabi Par",
       "url": "https://open.spotify.com/track/06Vo3wIu8RW9FLohT45rcT"
@@ -518,10 +554,50 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322930,
       "name": "Gunahon Ki Aadat",
       "url": "https://open.spotify.com/track/4laPX6MLSSDYNJvwcNC8cX"
+    },
+    {
+      "album": {
+        "name": "Best Of Muhammad Owais Raza Qadri",
+        "url": "https://open.spotify.com/album/5wsRFYCxPWiOi3dOoVpMb0"
+      },
+      "artists": [
+        {
+          "name": "Alhajj Muhammad Owais Raza Qadri",
+          "url": "https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE"
+        },
+        {
+          "name": "Islamic Naats",
+          "url": "https://open.spotify.com/artist/0rNHahVtqe44Y5qGHkVz1K"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322930,
+      "name": "Gunahon Ki Aadat",
+      "url": "https://open.spotify.com/track/5GcpxpfYqlIWnm4fZc3mgv"
+    },
+    {
+      "album": {
+        "name": "Har Waqt Tasawur",
+        "url": "https://open.spotify.com/album/5iTej0lzHu86qYKjJFoCSn"
+      },
+      "artists": [
+        {
+          "name": "Owais Raza Qadri",
+          "url": "https://open.spotify.com/artist/1ymQAIQTQDQyskr4FEG0wO"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394040,
+      "name": "Har Waqt Tasawur",
+      "url": "https://open.spotify.com/track/58qN5kCsL0ogkloOGuXnG9"
     },
     {
       "album": {
@@ -536,7 +612,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 393733,
       "name": "Har Waqt Tasawur Mein Madine Ki",
       "url": "https://open.spotify.com/track/2pKgtW5QiBvlxFPueS2UcW"
@@ -1102,10 +1178,32 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334139,
       "name": "Mujhe Dar Pe Phir Bulana Madni",
       "url": "https://open.spotify.com/track/2rQ670BWcjcZTZL67pS1W4"
+    },
+    {
+      "album": {
+        "name": "Best Of Muhammad Owais Raza Qadri",
+        "url": "https://open.spotify.com/album/5wsRFYCxPWiOi3dOoVpMb0"
+      },
+      "artists": [
+        {
+          "name": "Alhajj Muhammad Owais Raza Qadri",
+          "url": "https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE"
+        },
+        {
+          "name": "Islamic Naats",
+          "url": "https://open.spotify.com/artist/0rNHahVtqe44Y5qGHkVz1K"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334139,
+      "name": "Mujhe Dar Pe Phir Bulana Madni",
+      "url": "https://open.spotify.com/track/2fGdrrEAITsKGR3sAd3YYk"
     },
     {
       "album": {
@@ -1302,7 +1400,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 199501,
       "name": "SALLALLAH ALA MUHAMMAD",
       "url": "https://open.spotify.com/track/4B4QZzjH5vln4m6jPj8m0J"
@@ -1320,7 +1418,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199501,
       "name": "SALLALLAH ALA MUHAMMAD",
       "url": "https://open.spotify.com/track/5GHDwlQAQNpHanxWhd9SXC"
@@ -1475,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "O My Lord: Islamic Nasheeds",
+        "url": "https://open.spotify.com/album/33ZbbZLx0FvJlsAqEYEXrj"
+      },
+      "artists": [
+        {
+          "name": "Ehsaan Tahmid",
+          "url": "https://open.spotify.com/artist/6xD9epVxHw6HDP3pBkUGMB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355009,
+      "name": "Tamanna",
+      "url": "https://open.spotify.com/track/6BcwPFajiB3Vv42oaNOANS"
+    },
+    {
+      "album": {
         "name": "O My Lord",
         "url": "https://open.spotify.com/album/4it2KqkQgQ6xtD7oAF6dOD"
       },
@@ -1486,7 +1602,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357042,
       "name": "Tamanna",
       "url": "https://open.spotify.com/track/22Dkx3cgtTE1qhShLYwzz7"
@@ -1515,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Tere Sadqe Main Aaqa",
+        "url": "https://open.spotify.com/album/7yN0Xz6SbSZ2WzzbtbMEv9"
+      },
+      "artists": [
+        {
+          "name": "Allama Hafiz Bilal Qadri",
+          "url": "https://open.spotify.com/artist/7Mx07LnQpMC1doVAYDpNkf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339011,
+      "name": "Tere Sadqe Main Aaqa",
+      "url": "https://open.spotify.com/track/5x7Z3YmkCopSTZZMhSdUcz"
+    },
+    {
+      "album": {
         "name": "Tere Sadqe Me Aaqa",
         "url": "https://open.spotify.com/album/0G4kBuIo9MnPLtud5pdhqj"
       },
@@ -1526,7 +1660,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339940,
       "name": "Tere Sadqe Me Aaqa",
       "url": "https://open.spotify.com/track/5I6u0LL9y3cqvf7XN4Xx3F"

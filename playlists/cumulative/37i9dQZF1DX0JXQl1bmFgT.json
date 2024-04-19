@@ -220,7 +220,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 308590,
       "name": "Barbara Wants",
       "url": "https://open.spotify.com/track/0fx5TUxwrHlz6hKjNZfQpp"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308590,
       "name": "Barbara Wants",
       "url": "https://open.spotify.com/track/2fEmm2oaywnpyVSRdsVI6W"
@@ -274,10 +274,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184018,
       "name": "Better Alone",
       "url": "https://open.spotify.com/track/6FOhiUB3CT6dOMqUdi50ZU"
+    },
+    {
+      "album": {
+        "name": "Better Alone",
+        "url": "https://open.spotify.com/album/0q2U9ju7gbpGSIetIo8Xs5"
+      },
+      "artists": [
+        {
+          "name": "Brayden Dunbar",
+          "url": "https://open.spotify.com/artist/718jt24mHnTl76rE6T5sSp"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184018,
+      "name": "Better Alone",
+      "url": "https://open.spotify.com/track/7AIeIxvnN0LoKvyevsfUZj"
     },
     {
       "album": {
@@ -412,10 +430,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166956,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/2jJgwg74be7o5WlFgxopD8"
+    },
+    {
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/77mFbrk2ptz8JsFdXIpAkS"
+      },
+      "artists": [
+        {
+          "name": "Ian Scott",
+          "url": "https://open.spotify.com/artist/2eOYAtEiQnCh4NVIgAh5Jn"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/0hh0MFZXSfjXU1881eF0Tv"
     },
     {
       "album": {
@@ -466,10 +502,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184760,
       "name": "Dark Room",
       "url": "https://open.spotify.com/track/2kf6JUfyPIvTi63HmDu4VV"
+    },
+    {
+      "album": {
+        "name": "Dark Room",
+        "url": "https://open.spotify.com/album/1mylw2QJddrZNsDEcGwWVp"
+      },
+      "artists": [
+        {
+          "name": "Michele Morrone",
+          "url": "https://open.spotify.com/artist/03fLoIOO015incUitpfkad"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Dark Room",
+      "url": "https://open.spotify.com/track/4BUtKyRwyhcQqGmkwYn1fj"
     },
     {
       "album": {
@@ -535,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/0IXzoHf4T9Jpi07ZGIotSC"
+      },
+      "artists": [
+        {
+          "name": "Michele Morrone",
+          "url": "https://open.spotify.com/artist/03fLoIOO015incUitpfkad"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5tBBOiOqzFnsm1SJUnv7lq"
+    },
+    {
+      "album": {
         "name": "Dark Room (Bonus Edition)",
         "url": "https://open.spotify.com/album/1VkTlPEWLrFtP7IGc10hGJ"
       },
@@ -564,7 +636,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159480,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1sntdOU6b9fMuUOm3NPIuY"
@@ -607,6 +679,24 @@
     },
     {
       "album": {
+        "name": "I See Red: Everybody Loves an Outlaw",
+        "url": "https://open.spotify.com/album/2mq4HAlGrOLpSGQ8DvDtaf"
+      },
+      "artists": [
+        {
+          "name": "Robbie Nevil",
+          "url": "https://open.spotify.com/artist/4NkLjsRsFnuPu9B4zqzBqq"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159412,
+      "name": "Give 'em Hell",
+      "url": "https://open.spotify.com/track/4erIlmqDxM8ZeBHqHonRXM"
+    },
+    {
+      "album": {
         "name": "I See Red",
         "url": "https://open.spotify.com/album/6vHqcjot5xlaVyJDdwAqxF"
       },
@@ -618,7 +708,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159412,
       "name": "Give Em Hell",
       "url": "https://open.spotify.com/track/3k4zd8iEKKtFrJB9oeX1Nl"
@@ -672,7 +762,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177946,
       "name": "Hard For Me",
       "url": "https://open.spotify.com/track/00PesUdTmC3Y5xtZbZND0p"
@@ -694,6 +784,24 @@
       "duration_ms": 177946,
       "name": "Hard For Me",
       "url": "https://open.spotify.com/track/0FKuKlAkF5loCCuy90FoHK"
+    },
+    {
+      "album": {
+        "name": "Dark Room",
+        "url": "https://open.spotify.com/album/1mylw2QJddrZNsDEcGwWVp"
+      },
+      "artists": [
+        {
+          "name": "Michele Morrone",
+          "url": "https://open.spotify.com/artist/03fLoIOO015incUitpfkad"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Hard For Me",
+      "url": "https://open.spotify.com/track/3nrxsQEntBXdY5JoqA39ES"
     },
     {
       "album": {
@@ -760,10 +868,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302226,
       "name": "Here She Comes Again",
       "url": "https://open.spotify.com/track/23HK5PldqTIdTt5A9cN2k5"
+    },
+    {
+      "album": {
+        "name": "The Inevitable End",
+        "url": "https://open.spotify.com/album/6q1uOMg6OEgMPMAfajpPTF"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302270,
+      "name": "Here She Comes Again",
+      "url": "https://open.spotify.com/track/0HYXjmzjW2gZ0v5fitjSNS"
     },
     {
       "album": {
@@ -804,6 +930,24 @@
     {
       "album": {
         "name": "I See Red",
+        "url": "https://open.spotify.com/album/2xaCNFQvryC7QYtDXk4XkY"
+      },
+      "artists": [
+        {
+          "name": "Everybody Loves an Outlaw",
+          "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230613,
+      "name": "I See Red",
+      "url": "https://open.spotify.com/track/2Xau3uNsnIb9FwzsvHR84z"
+    },
+    {
+      "album": {
+        "name": "I See Red",
         "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
       },
       "artists": [
@@ -814,7 +958,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230613,
       "name": "I See Red",
       "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
@@ -1156,6 +1300,32 @@
     {
       "album": {
         "name": "Sex for Breakfast",
+        "url": "https://open.spotify.com/album/3fpHLoFZr7iq0fBrkJNuOR"
+      },
+      "artists": [
+        {
+          "name": "LoFi Waiter",
+          "url": "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+        },
+        {
+          "name": "mood.",
+          "url": "https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99416,
+      "name": "Sex for Breakfast",
+      "url": "https://open.spotify.com/track/1CV3kh7DgTvs9wE45qWn9h"
+    },
+    {
+      "album": {
+        "name": "Sex for Breakfast",
         "url": "https://open.spotify.com/album/11aYGJ7EZ0B5uPJihRu1hE"
       },
       "artists": [
@@ -1174,7 +1344,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 99466,
       "name": "Sex for Breakfast",
       "url": "https://open.spotify.com/track/4Xj6PMlVsJQvGg1sGHGaNR"
@@ -1348,7 +1518,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156923,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2CCVbsCzLDnTL2CMXxmF86"
@@ -1366,7 +1536,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2iZfLHceRaPLsVLNgp0b5o"
@@ -1485,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Watch Me Burn",
+        "url": "https://open.spotify.com/album/4KREmStDTWpb2W2CcpVGpK"
+      },
+      "artists": [
+        {
+          "name": "Michele Morrone",
+          "url": "https://open.spotify.com/artist/03fLoIOO015incUitpfkad"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/47cvdvfCKN8SYOz2NMBoeA"
+    },
+    {
+      "album": {
         "name": "Dark Room",
         "url": "https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh"
       },
@@ -1496,7 +1684,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186013,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/3hiXR95RrJCaYqykCQmYLH"

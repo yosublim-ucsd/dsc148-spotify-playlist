@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214090,
       "name": "Bad Bad Thing",
       "url": "https://open.spotify.com/track/08qOBOkagQCSC0hjtEVmza"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 214090,
       "name": "Bad Bad Thing",
       "url": "https://open.spotify.com/track/6W7YVVTjv1o7sZNhC9UxYZ"
@@ -374,10 +374,28 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220829,
       "name": "Only Your Sins Know",
       "url": "https://open.spotify.com/track/3CORIvT2S7ODznfVBpvdM3"
+    },
+    {
+      "album": {
+        "name": "Twelve Steps",
+        "url": "https://open.spotify.com/album/2KFksgOyjO8CDoJz451cNe"
+      },
+      "artists": [
+        {
+          "name": "Subterranean Street Society",
+          "url": "https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220829,
+      "name": "Only Your Sins Know",
+      "url": "https://open.spotify.com/track/4dG7cPwKEn3BlemyoERLuN"
     },
     {
       "album": {
@@ -554,7 +572,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192750,
       "name": "Wandering Girl",
       "url": "https://open.spotify.com/track/0ml6VRj83ATU6oeRgKW7cm"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 192750,
       "name": "Wandering Girl",
       "url": "https://open.spotify.com/track/1pN6erZYtidSPV6GtxnJsV"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310966,
       "name": "YO! MY SAINT (Film Version)",
       "url": "https://open.spotify.com/track/3yxA66wvutupETiIsAjuNP"
@@ -714,7 +732,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 310966,
       "name": "YO! MY SAINT - Film Version",
       "url": "https://open.spotify.com/track/6SaCjxL5MEPEIRtAQVUo9x"

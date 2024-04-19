@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191578,
       "name": "Fog Elna Khil",
       "url": "https://open.spotify.com/track/4HATvYkdlNhejQbWX0Qshw"
@@ -354,7 +354,7 @@
     {
       "album": {
         "name": "Konty 2olely",
-        "url": "https://open.spotify.com/album/6drsdm3aNhB40RlKxPjekI"
+        "url": "https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf"
       },
       "artists": [
         {
@@ -365,6 +365,24 @@
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168695,
+      "name": "Konty 2olely",
+      "url": "https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx"
+    },
+    {
+      "album": {
+        "name": "Konty 2olely",
+        "url": "https://open.spotify.com/album/6drsdm3aNhB40RlKxPjekI"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 169732,
       "name": "Konty 2olely",
       "url": "https://open.spotify.com/track/2BMlZ6PzoAU90qm8yIGWMK"
@@ -389,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Lil",
+        "url": "https://open.spotify.com/album/2N35bVqxGecDP3Q97illwP"
+      },
+      "artists": [
+        {
+          "name": "Yvzid",
+          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Lil",
+      "url": "https://open.spotify.com/track/2Q1Wr0IHPZ1m0cAiqTV6x6"
+    },
+    {
+      "album": {
         "name": "Mehtag L Wogodk",
         "url": "https://open.spotify.com/album/25PmJy5QxLri5ehTxtWvkf"
       },
@@ -400,7 +436,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180927,
       "name": "Mehtag L Wogodk",
       "url": "https://open.spotify.com/track/1FwHKyVHjlKUpAB2v69whe"
@@ -461,6 +497,28 @@
     },
     {
       "album": {
+        "name": "Rawaa Demaghak",
+        "url": "https://open.spotify.com/album/6qvX2uQJ1hXJcIjxR7LfHI"
+      },
+      "artists": [
+        {
+          "name": "Cyrine Abdel Noor",
+          "url": "https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG"
+        },
+        {
+          "name": "Ahmed Fahmi",
+          "url": "https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Rawaa Demaghak",
+      "url": "https://open.spotify.com/track/2u4B6yk5N8lDUFohQQMOoI"
+    },
+    {
+      "album": {
         "name": "Shofy 7aly",
         "url": "https://open.spotify.com/album/0tp51eWdqHRg5xlW9QUFfO"
       },
@@ -472,7 +530,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212734,
       "name": "Shofy 7aly",
       "url": "https://open.spotify.com/track/72tpH2QKc9DKSoP6VGzg14"
@@ -526,7 +584,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207782,
       "name": "Wahdy Lakn",
       "url": "https://open.spotify.com/track/7KnhORe4K4igX70iw94J1x"
@@ -559,6 +617,42 @@
     },
     {
       "album": {
+        "name": "HANNET LEKLOUB",
+        "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254837,
+      "name": "Ya Ghrib",
+      "url": "https://open.spotify.com/track/2khKVpcq5xBBFYXD0oNjMz"
+    },
+    {
+      "album": {
+        "name": "Tekitoi?",
+        "url": "https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373106,
+      "name": "Ya Rayah",
+      "url": "https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK"
+    },
+    {
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF"
       },
@@ -570,7 +664,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 374466,
       "name": "Ya Rayah",
       "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"
@@ -649,8 +743,48 @@
     },
     {
       "album": {
+        "name": "\u062a\u062c\u0627\u0648\u0632",
+        "url": "https://open.spotify.com/album/2bsAJySmgxtPwwtHQ13SQE"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mohsen",
+          "url": "https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173434,
+      "name": "\u062a\u062c\u0627\u0648\u0632",
+      "url": "https://open.spotify.com/track/6dGF8eFaRmMMQ72EJd8c7W"
+    },
+    {
+      "album": {
         "name": "\u0642\u0644\u0628\u064a \u0641\u064a\u0646",
         "url": "https://open.spotify.com/album/5hkMZttd8VOaYjT9tKqzls"
+      },
+      "artists": [
+        {
+          "name": "Hala",
+          "url": "https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k"
+        },
+        {
+          "name": "\u0623\u0628\u064a\u0648\u0633\u0641",
+          "url": "https://open.spotify.com/artist/32nrhle1blySznEmk9OxMG"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 215977,
+      "name": "\u062d\u0641\u0631\u0629 (\u0645\u0639 \u0623\u0628\u064a\u0648\u0633\u0641)",
+      "url": "https://open.spotify.com/track/0PALOEtgrC1qil1iTjiFYZ"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0644\u0628\u064a \u0641\u064a\u0646",
+        "url": "https://open.spotify.com/album/3la6nheI10U25uw7auvl4h"
       },
       "artists": [
         {
@@ -667,7 +801,7 @@
       "date_removed": null,
       "duration_ms": 215977,
       "name": "\u062d\u0641\u0631\u0629 (\u0645\u0639 \u0623\u0628\u064a\u0648\u0633\u0641)",
-      "url": "https://open.spotify.com/track/0PALOEtgrC1qil1iTjiFYZ"
+      "url": "https://open.spotify.com/track/0lnUZr6u6UYGKvssmOcWkr"
     },
     {
       "album": {

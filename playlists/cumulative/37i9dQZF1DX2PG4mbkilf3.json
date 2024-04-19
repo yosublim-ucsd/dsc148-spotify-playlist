@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is r&b in Canada, elevate your aura with Zeina \u0632\u064a\u0646\u0629.",
+  "description": "This is r&b in Canada, elevate your aura with RealestK.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134506,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/3H9h3FWHgW2cLW6Smatki6"
@@ -2642,10 +2642,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151800,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf"
     },
     {
       "album": {
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159304,
       "name": "Certainty Of Life",
       "url": "https://open.spotify.com/track/0Gnz3IUlxu1JC0RRfKlXLL"
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156942,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7"
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "Fallback Queen (feat. Vory)",
       "url": "https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf"
@@ -5402,7 +5420,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200930,
       "name": "Fallback Queen (feat. Vory)",
       "url": "https://open.spotify.com/track/4di3AFoecpRWM8m3fHYOm5"
@@ -5967,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "Forgetting You",
+        "url": "https://open.spotify.com/album/7nrciYtE5hqzjPK2uIMK0J"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/2xzWSrvQQb2GTSPCzt9UYg"
+    },
+    {
+      "album": {
         "name": "FORKS ON THE ROAD",
         "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
       },
@@ -5986,7 +6022,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183887,
       "name": "FORKS ON THE ROAD",
       "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
@@ -6062,6 +6098,24 @@
       "duration_ms": 175226,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/1ehox98B211or5FMIDQMaF"
+    },
+    {
+      "album": {
+        "name": "Timelines",
+        "url": "https://open.spotify.com/album/3q1n3YZvRMo6hrkDK2jQp8"
+      },
+      "artists": [
+        {
+          "name": "Haley Smalls",
+          "url": "https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184180,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/2ymnrJcCqpKW9ZdtlaXY6v"
     },
     {
       "album": {
@@ -7200,6 +7254,28 @@
       "duration_ms": 337028,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1"
+      },
+      "artists": [
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "Sir Travis Knight",
+          "url": "https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239712,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd"
     },
     {
       "album": {
@@ -9250,6 +9326,24 @@
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140965,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN"
     },
     {
       "album": {
@@ -11345,6 +11439,24 @@
     },
     {
       "album": {
+        "name": "NIGHTS WITHOUT YOU",
+        "url": "https://open.spotify.com/album/3KzsCUhC3ln45SR5Vnbf8U"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "NIGHTS WITHOUT YOU",
+      "url": "https://open.spotify.com/track/1cEt75NXTPx7vzka7lKG38"
+    },
+    {
+      "album": {
         "name": "No Feelings",
         "url": "https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w"
       },
@@ -11752,7 +11864,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177813,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j"
@@ -13284,7 +13396,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -13310,7 +13422,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
@@ -13564,7 +13676,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177174,
       "name": "QUIET TYPE",
       "url": "https://open.spotify.com/track/6t3lDZ62QO2BsEhmBoZ2n2"
@@ -15301,6 +15413,24 @@
     },
     {
       "album": {
+        "name": "So Familiar",
+        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238055,
+      "name": "So Familiar",
+      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
+    },
+    {
+      "album": {
         "name": "SOFT LIFE",
         "url": "https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH"
       },
@@ -15962,6 +16092,24 @@
       "duration_ms": 186382,
       "name": "Stay A While",
       "url": "https://open.spotify.com/track/4tvmLiIsx7QlSbrgQjHBpR"
+    },
+    {
+      "album": {
+        "name": "Love Had Other Plans, Pt. 2",
+        "url": "https://open.spotify.com/album/0JMXQR3Ya4UI3KDK2IdHav"
+      },
+      "artists": [
+        {
+          "name": "Nicole Chambers",
+          "url": "https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Stay In Time",
+      "url": "https://open.spotify.com/track/1Nl0xn0EDNVfuY6yb7hKTv"
     },
     {
       "album": {
@@ -17392,7 +17540,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210666,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4I85wWrb3A7FHTS2zk0sxt"

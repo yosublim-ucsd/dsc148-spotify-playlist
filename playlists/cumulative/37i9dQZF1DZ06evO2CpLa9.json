@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Santa Fe Klan. Los temas esenciales, todos en una lista.",
+  "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
   "name": "This Is Santa Fe Klan",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 200547,
       "name": "Familia",
       "url": "https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222876,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY"

@@ -1,12 +1,12 @@
 {
-  "description": "This is: Micah Tyler. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 2579,
+  "description": "This Is Micah Tyler. Kaikki olennaiset kappaleet yhdess\u00e4 soittolistassa.",
+  "num_followers": 2592,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDA5ODgzZmE1NTRmN2VmNTYzYjc2YWE5ODJmZDY2ZGE1",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDExYzBlNjg5OWFjOTc3ZDhhNWNjN2U2OGMxYTZmZTA0",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 242508,
-      "name": "Mighty to Love",
-      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
+      "duration_ms": 202410,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 202410,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
+      "duration_ms": 242508,
+      "name": "Mighty to Love",
+      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
     },
     {
       "added_at": null,

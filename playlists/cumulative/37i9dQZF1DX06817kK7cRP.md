@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-165 songs - 7 hr 29 min
+166 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 | 2023-01-12 |  |
 | [What Now](https://open.spotify.com/track/3XC4cQ8qffBghftJ7W2QKC) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [What Now](https://open.spotify.com/album/7HorxGWOCHa1pLBH0wE8Iz) | 2:44 | 2023-01-12 |  |
 | [When You're In Love](https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB) | [Intel Music](https://open.spotify.com/artist/5FWeW4F0YAYHYqzW6iQdWA), [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lithography Vol\. 1](https://open.spotify.com/album/3YSXfVKvNTn58sbkhDNPdb) | 7:21 | 2023-01-12 |  |
-| [Willow Tree](https://open.spotify.com/track/2aL3zAplBlchkeDypG2f1U) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Willow Tree](https://open.spotify.com/album/5kkHs21NeN1Gf0wApHdgMU) | 2:15 | 2023-01-12 |  |
+| [Willow Tree](https://open.spotify.com/track/2aL3zAplBlchkeDypG2f1U) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Willow Tree](https://open.spotify.com/album/5kkHs21NeN1Gf0wApHdgMU) | 2:15 | 2023-01-12 | 2024-04-19 |
+| [Willow Tree](https://open.spotify.com/track/7wYizB7TRS0qaPlynGvWBF) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Willow Tree](https://open.spotify.com/album/3mNapgf1d88ND2hnAfMv31) | 2:15 | 2024-03-25 |  |
 | [Windless](https://open.spotify.com/track/0CiZ6qq5ntSvr9tNejgTp0) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Windless](https://open.spotify.com/album/16HOKv5OEH73eeo3ulWT76) | 2:39 | 2023-11-10 |  |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2023-01-12 |  |
 | [Working Buttons](https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Working Buttons](https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe) | 4:30 | 2023-02-23 |  |

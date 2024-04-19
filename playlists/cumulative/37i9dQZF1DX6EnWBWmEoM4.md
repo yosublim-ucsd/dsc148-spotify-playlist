@@ -4,7 +4,7 @@
 
 > Ya no vuelvas, a menos que sea cuarteteando\. Foto: Luck Ra.
 
-50 songs - 2 hr 53 min
+52 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 | 2023-11-29 |  |
 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-11-29 |  |
 | [Me Encanta / Latidos](https://open.spotify.com/track/3Thxy7NVkqg97PVWLrlt2n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Encanta / Latidos](https://open.spotify.com/album/3wsVKXC06eJiTL43eMgceJ) | 3:50 | 2023-11-29 |  |
-| [Me levante](https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pueden parar](https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N) | 3:28 | 2023-11-29 |  |
+| [Me levante](https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pueden parar](https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N) | 3:28 | 2023-11-29 | 2024-04-19 |
+| [Me Levanté](https://open.spotify.com/track/0IYIVNeNeDphcdMANoUyvk) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pueden Parar](https://open.spotify.com/album/4m5wD29P50228oXSubwb0o) | 3:28 | 2023-11-29 |  |
 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 | 2023-11-29 |  |
 | [Monotonia](https://open.spotify.com/track/73PhGO0aMHskiHBvmqiNDU) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Desde el Bar](https://open.spotify.com/album/7afSoxmiNzFuUnjmbDN3eF) | 2:22 | 2023-11-29 |  |
 | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS) | 4:24 | 2023-11-29 |  |
@@ -52,7 +53,8 @@
 | [Te Perdí](https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Te Perdí](https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng) | 3:30 | 2023-11-29 |  |
 | [Te Pido Que La Dejes](https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2) | 4:43 | 2023-11-29 |  |
 | [Triste Canción de Amor](https://open.spotify.com/track/1VB9mgCv8xb4KvtBjLp994) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Triste Canción de Amor / Lo Que Me Duele](https://open.spotify.com/album/5eKO50JWT0nlxZnCjU6yF6) | 1:53 | 2023-11-29 |  |
-| [Tu nombre](https://open.spotify.com/track/7q5VTxJ96XkX0z8Q7KZOVQ) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pueden parar](https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N) | 3:24 | 2023-11-29 |  |
+| [Tu Nombre](https://open.spotify.com/track/7Ekt8NAqtGGUuwv4hbDF5i) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pueden Parar](https://open.spotify.com/album/4m5wD29P50228oXSubwb0o) | 3:24 | 2023-11-29 |  |
+| [Tu nombre](https://open.spotify.com/track/7q5VTxJ96XkX0z8Q7KZOVQ) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pueden parar](https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N) | 3:24 | 2023-11-29 | 2024-04-19 |
 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 | 2023-11-29 |  |
 | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/track/3GJtk3noiskSGHCc9EcxAm) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Uno los Dos Cuarteto Sessions \#1](https://open.spotify.com/album/3pByc8VZkttOs8mq3Lw2Kd) | 3:55 | 2023-11-29 |  |
 | [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 | 2023-11-29 |  |

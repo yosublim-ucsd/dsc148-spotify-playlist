@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209734,
       "name": "I Love You 3000",
       "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 209734,
       "name": "I Love You 3000",
       "url": "https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 279344,
       "name": "Janji Kita",
       "url": "https://open.spotify.com/track/0GDxF5uQIqaKhc7qTDlqXZ"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279344,
       "name": "Janji Kita",
       "url": "https://open.spotify.com/track/1yaS5CVpNYQWV2OGiVoXug"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320760,
       "name": "Kala Cinta Menggoda",
       "url": "https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 324333,
       "name": "Kala Cinta Menggoda",
       "url": "https://open.spotify.com/track/1NmxBjg8ybFwQkiKVnRxws"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 205781,
       "name": "Makna Cinta",
       "url": "https://open.spotify.com/track/7B3zHfPqcLgV3DHcjQP2OM"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207176,
       "name": "Makna Cinta",
       "url": "https://open.spotify.com/track/3yDaw1mQrhDSAOCZTF01KD"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 241294,
       "name": "Rasa Cinta Ini",
       "url": "https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7"
@@ -1612,10 +1612,28 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241294,
       "name": "Rasa Cinta Ini",
       "url": "https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe"
+    },
+    {
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "Remaja",
+      "url": "https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf"
     },
     {
       "album": {
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218426,
       "name": "Remaja",
       "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
@@ -1652,10 +1670,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266093,
       "name": "Rest of My Life",
       "url": "https://open.spotify.com/track/299xFG2FLCNNM6JVBTB2s7"
+    },
+    {
+      "album": {
+        "name": "Rest of My Life",
+        "url": "https://open.spotify.com/album/4JVZIYazqIivp9laAekQGI"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        },
+        {
+          "name": "Ashira Zamita",
+          "url": "https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266093,
+      "name": "Rest of My Life",
+      "url": "https://open.spotify.com/track/7lGmjoVSl4aLVXwRMx45Ym"
     },
     {
       "album": {
@@ -1804,7 +1844,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
@@ -1822,7 +1862,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6nxQa68jVCLlYQsT3fi4G1"
@@ -1840,7 +1880,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211293,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/0FO12KD8xommTnYK9xqLY8"
@@ -1858,7 +1898,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 211306,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/2y3qRsc49ZmSatwK1SVLFi"
@@ -2032,7 +2072,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248039,
       "name": "You're Mine",
       "url": "https://open.spotify.com/track/6tl50DD3CKqCIClxLeUDO0"
@@ -2054,7 +2094,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 248039,
       "name": "You're Mine",
       "url": "https://open.spotify.com/track/7bHDQE9P4mF8uClGIlQKLR"

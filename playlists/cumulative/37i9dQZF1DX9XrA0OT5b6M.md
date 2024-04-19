@@ -4,14 +4,16 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-59 songs - 3 hr 25 min
+62 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A to Z \- ONE PIECE Edition](https://open.spotify.com/track/62kH8daI4ouLVcJRZzum6w) | [松井麻維](https://open.spotify.com/artist/1iAT4IDkq9D1Nx5GS6ZNBC) | [ONE PIECE Arrange Collection \(EUROBEAT\)](https://open.spotify.com/album/7kwFXNw8C2Jx5Yr15ajvJA) | 3:21 | 2023-08-23 |  |
-| [BEFORE DAWN](https://open.spotify.com/track/5VO43mOKxgeGJHJXbGb5OI) | [AI\-SACHI](https://open.spotify.com/artist/0NB3FoktZLjieA6PLykBK9) | [BEFORE DAWN](https://open.spotify.com/album/3q4uXJaP2O87vnJ3lCeYSy) | 3:17 | 2023-08-23 |  |
+| [BEFORE DAWN](https://open.spotify.com/track/70svbAw8qdNgEt271120u6) | [AI\-SACHI](https://open.spotify.com/artist/0NB3FoktZLjieA6PLykBK9) | [ONE PIECE 20th Anniversary BEST ALBUM \(Vol.2\)](https://open.spotify.com/album/2KEoWfLib0VdkbGLtaOVER) | 3:17 | 2024-03-26 |  |
+| [BEFORE DAWN](https://open.spotify.com/track/5VO43mOKxgeGJHJXbGb5OI) | [AI\-SACHI](https://open.spotify.com/artist/0NB3FoktZLjieA6PLykBK9) | [BEFORE DAWN](https://open.spotify.com/album/3q4uXJaP2O87vnJ3lCeYSy) | 3:17 | 2023-08-23 | 2024-04-19 |
 | [Believe](https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:46 | 2023-08-23 |  |
-| [Brand New World](https://open.spotify.com/track/1mV4Ti0I8kZF3Dd72qPEW5) | [D\-51](https://open.spotify.com/artist/5uisl58N23dXm8fGfbLF8m) | [Mitsuyoko Ichimura \(Standard Edition\)](https://open.spotify.com/album/6jD6G7QKuMHKJ5QRR5w0HO) | 4:18 | 2023-08-23 |  |
+| [Brand New World](https://open.spotify.com/track/1mV4Ti0I8kZF3Dd72qPEW5) | [D\-51](https://open.spotify.com/artist/5uisl58N23dXm8fGfbLF8m) | [Mitsuyoko Ichimura \(Standard Edition\)](https://open.spotify.com/album/6jD6G7QKuMHKJ5QRR5w0HO) | 4:18 | 2023-08-23 | 2024-04-19 |
+| [BRAND NEW WORLD](https://open.spotify.com/track/1DZRPXYhCkxFsu6ppy3nLb) | [D\-51](https://open.spotify.com/artist/5uisl58N23dXm8fGfbLF8m) | [BRAND NEW WORLD](https://open.spotify.com/album/1iUjY0UkYKJueq5eh4lyPK) | 4:19 | 2024-03-26 |  |
 | [Dear friends](https://open.spotify.com/track/5YRUnOfaenrnqNQOWiB5OB) | [TRIPLANE](https://open.spotify.com/artist/1NbiRwxHImuLW8Ym0fBzAH) | [home](https://open.spotify.com/album/4Gk4dFaOPaX7wtX34e6MaV) | 4:30 | 2023-08-23 |  |
 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 | 2024-01-07 |  |
 | [DREAMIN' ON](https://open.spotify.com/track/1rxh0iojvTB24C6BpOdfC1) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 3:55 | 2023-08-23 |  |
@@ -31,13 +33,14 @@
 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 | 2023-08-23 |  |
 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 | 2024-02-28 |  |
 | [Shining ray](https://open.spotify.com/track/2jxiuMVIyPeDeHP9qne6BJ) | [Janne Da Arc](https://open.spotify.com/artist/17OoiwOfChkOVxbqaLzB1W) | [ANOTHER STORY](https://open.spotify.com/album/7HCy1UvD6nkIMorKPYC1Nc) | 3:58 | 2023-08-23 |  |
+| [TVアニメ『ONE PIECE』25周年！ 【きただにひろし×田中公平】あーーっす！スペシャル対談](https://open.spotify.com/episode/4YdvgzkkZPAnA0ntN176Bm) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 41:44 | 2024-03-29 |  |
 | [Wake up!](https://open.spotify.com/track/2ZCkl705ROXLgLtXXKhBp2) | [AAA](https://open.spotify.com/artist/1AyWsgtaIgXbzjJlTx2ZDp) | [GOLD SYMPHONY](https://open.spotify.com/album/2K4rdeEWAiU0CgqI8XXdjR) | 3:43 | 2023-08-23 |  |
 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 | 2024-01-07 |  |
 | [おれの最高地点](https://open.spotify.com/track/6cufjZzevc6spKggsuDEJv) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [おれの最高地点](https://open.spotify.com/album/3LIV7v8sthlx3K5P13Y8R3) | 3:05 | 2023-08-23 |  |
 | [おれの最高地点](https://open.spotify.com/track/0chKjPMdnbJ1KXiSjbb267) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG), [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 3:03 | 2024-01-25 |  |
 | [しょうちのすけ](https://open.spotify.com/track/6G8uYcvbeQUcZFRotTUJEx) | [Suiteisho\-jo](https://open.spotify.com/artist/3hwWcZNHs2MXyC1e8JjAnY) | [16 \-sixteen\-](https://open.spotify.com/album/2IIdJPW3oosPTi6FoA1GXp) | 3:54 | 2023-08-23 |  |
-| [ウィーアー! \- for the new world](https://open.spotify.com/track/3F4d2nGPOSt89ZC1uwgApQ) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ONE PIECE ウィーアー!Song Complete](https://open.spotify.com/album/0Pgm2sbSVm2Q4OlDgXv1ez) | 3:58 | 2024-01-25 |  |
-| [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2023-08-23 | 2024-02-10 |
+| [ウィーアー! \- for the new world](https://open.spotify.com/track/3F4d2nGPOSt89ZC1uwgApQ) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ONE PIECE ウィーアー!Song Complete](https://open.spotify.com/album/0Pgm2sbSVm2Q4OlDgXv1ez) | 3:58 | 2024-01-25 | 2024-04-19 |
+| [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2023-08-23 |  |
 | [ウィーキャン!](https://open.spotify.com/track/55M7boCtVf0a3ncSyGvtzG) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx), [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーキャン!](https://open.spotify.com/album/2t1qZT1p1ZrEzCUcBaCbId) | 4:22 | 2023-08-23 |  |
 | [ウィーゴー!](https://open.spotify.com/track/2dA9mXOUIsKWBZNesDGqvm) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 4:08 | 2023-08-23 |  |
 | [エターナルポーズ](https://open.spotify.com/track/53FC7Hz9CaWLrYMiIYzDnI) | [Asia Engineer](https://open.spotify.com/artist/74wZs5STRphhABONtu04tt) | [エターナルポーズ](https://open.spotify.com/album/5TuF8BaJ6bEOWHPVSSIZBX) | 5:03 | 2023-08-23 |  |
@@ -64,8 +67,8 @@
 | [行け行け!麦わらの一味!!](https://open.spotify.com/track/3sJfHZoWQkP7uFPH0VLY70) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 1:45 | 2023-08-23 |  |
 | [覚醒したルフィの活躍](https://open.spotify.com/track/1XIw0Vp05DHkOcp0Rzkpii) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 1:44 | 2023-08-23 |  |
 | [頂上戦争](https://open.spotify.com/track/36m8jgxuYk5A6QWUJaUez0) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 1:28 | 2023-08-23 | 2024-01-08 |
-| [風をさがして](https://open.spotify.com/track/48Upc2XlJ66ckHn43e7Uet) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d) | [風をさがして](https://open.spotify.com/album/2EsJtDNBtiJgSjYiKAwk7W) | 4:05 | 2024-02-28 |  |
-| [風をさがして](https://open.spotify.com/track/6IePUG4Jy9dKA0zp3VAMeo) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d), [ストローハット](https://open.spotify.com/artist/122cdkCJMnlTpK8RVdA7Ht) | [風をさがして](https://open.spotify.com/album/3Y9UDMo90lvIwaEp2aAQlZ) | 4:05 | 2023-08-23 | 2024-03-21 |
+| [風をさがして](https://open.spotify.com/track/48Upc2XlJ66ckHn43e7Uet) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d) | [風をさがして](https://open.spotify.com/album/2EsJtDNBtiJgSjYiKAwk7W) | 4:05 | 2024-02-28 | 2024-04-19 |
+| [風をさがして](https://open.spotify.com/track/6IePUG4Jy9dKA0zp3VAMeo) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d), [ストローハット](https://open.spotify.com/artist/122cdkCJMnlTpK8RVdA7Ht) | [風をさがして](https://open.spotify.com/album/3Y9UDMo90lvIwaEp2aAQlZ) | 4:05 | 2023-08-23 |  |
 | [麦わらの一味VSマッドトレジャー一味](https://open.spotify.com/track/78Xn7fcliybiDG8zwK9Uqz) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:58 | 2023-08-23 | 2024-01-26 |
 
 \*This playlist was first scraped on 2023-08-24. Prior content cannot be recovered.

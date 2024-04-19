@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Fiera de Ojinaga en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. Los Primos del Este en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "365",
+        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
+    },
+    {
+      "album": {
+        "name": "365",
         "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
       },
       "artists": [
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188778,
       "name": "365",
       "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168232,
       "name": "Aqu\u00ed No Es",
       "url": "https://open.spotify.com/track/5rcziivicpqJDR7Y4OBqjC"
@@ -206,6 +224,24 @@
     {
       "album": {
         "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/098VAFbYJo4Syqkr4zqO1h"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192888,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/6p5fhJRJo4THCk3nch12yC"
+    },
+    {
+      "album": {
+        "name": "Bajo El Agua",
         "url": "https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg"
       },
       "artists": [
@@ -216,10 +252,32 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192888,
       "name": "Bajo El Agua",
       "url": "https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG"
+    },
+    {
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/1jYScoHmO4DZUQYafSLkPU"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        },
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204072,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/4YiuckLW9XY7VrpMmWpKfc"
     },
     {
       "album": {
@@ -234,7 +292,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200626,
       "name": "Besos Contados",
       "url": "https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN"
@@ -454,7 +512,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 160106,
       "name": "Contigo S\u00ed",
       "url": "https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m"
@@ -472,10 +530,36 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160106,
       "name": "Contigo S\u00ed",
       "url": "https://open.spotify.com/track/6JHTxDUpbZrhEMROHFFV6a"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Frio",
+        "url": "https://open.spotify.com/album/1zkiwuKEuZo6EOJcLFBQOR"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "Erick MA",
+          "url": "https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214137,
+      "name": "Coraz\u00f3n Frio",
+      "url": "https://open.spotify.com/track/1Kq49fOMiPc8wBDAfByqTB"
     },
     {
       "album": {
@@ -516,6 +600,28 @@
       "duration_ms": 234666,
       "name": "Cortinas Guindas",
       "url": "https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB"
+    },
+    {
+      "album": {
+        "name": "Cositas",
+        "url": "https://open.spotify.com/album/3rYzbcOh7z9z1k3P8eHzri"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155210,
+      "name": "Cositas",
+      "url": "https://open.spotify.com/track/361jOt9kNWfgvudSHLITxE"
     },
     {
       "album": {
@@ -808,6 +914,24 @@
     {
       "album": {
         "name": "Underground",
+        "url": "https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190258,
+      "name": "En Silencio",
+      "url": "https://open.spotify.com/track/24oTgyPewWFMYR43wHQ0Ef"
+    },
+    {
+      "album": {
+        "name": "Underground",
         "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
       },
       "artists": [
@@ -818,7 +942,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190258,
       "name": "En Silencio",
       "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
@@ -952,6 +1076,24 @@
     {
       "album": {
         "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
+    },
+    {
+      "album": {
+        "name": "Huapango Amor Ranchero",
         "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
       },
       "artists": [
@@ -962,7 +1104,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199314,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
@@ -980,10 +1122,46 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309253,
       "name": "Huapangos Perros",
       "url": "https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy"
+    },
+    {
+      "album": {
+        "name": "Puras Pa' Trapear",
+        "url": "https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309253,
+      "name": "Huapangos Perros",
+      "url": "https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n"
+    },
+    {
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH"
     },
     {
       "album": {
@@ -998,7 +1176,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178050,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
@@ -1064,6 +1242,24 @@
     {
       "album": {
         "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/1Ox5R02tG0QtL05vVa9yc9"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198687,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/13OHyNseYByEDHeRzO6sD2"
+    },
+    {
+      "album": {
+        "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
       "artists": [
@@ -1074,7 +1270,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198791,
       "name": "La Guitarra de Lolo (Huapango)",
       "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
@@ -1114,10 +1310,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241829,
       "name": "La Mejor Mujer del Mundo",
       "url": "https://open.spotify.com/track/0YISn1POZXbOZWVcwqGM0A"
+    },
+    {
+      "album": {
+        "name": "La Mini Mini",
+        "url": "https://open.spotify.com/album/5i7bHpi3UMEhsE4jgGNS7D"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144124,
+      "name": "La Mini Mini",
+      "url": "https://open.spotify.com/track/503eZ5ygoYu95VGQlZeZKj"
     },
     {
       "album": {
@@ -1136,6 +1350,24 @@
       "duration_ms": 232970,
       "name": "La Muchacha de los Ojos Tristes - Live",
       "url": "https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF"
+    },
+    {
+      "album": {
+        "name": "La V\u00edbora Ponzo\u00f1osa",
+        "url": "https://open.spotify.com/album/68m60RCa0E2H6z1rr00rKt"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153210,
+      "name": "La V\u00edbora Ponzo\u00f1osa",
+      "url": "https://open.spotify.com/track/3JGJOq5gVJA35pzyUp2XgT"
     },
     {
       "album": {
@@ -1316,7 +1548,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150386,
       "name": "Mala",
       "url": "https://open.spotify.com/track/1kYWC1juEaMS4TUoznTioR"
@@ -1363,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Mentira Que Me Quieres Mucho",
+        "url": "https://open.spotify.com/album/6jmuQBIqDXLtfG1AmpfGoZ"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132434,
+      "name": "Mentira Que Me Quieres Mucho",
+      "url": "https://open.spotify.com/track/3bR1WblcmJj11Vh8DoNuB4"
+    },
+    {
+      "album": {
         "name": "Mi Amigo el Alcohol",
         "url": "https://open.spotify.com/album/4qwkIuvjmIrVs2BLvCnMnG"
       },
@@ -1392,7 +1642,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227514,
       "name": "Mi Caballito",
       "url": "https://open.spotify.com/track/45rayF6mhylWyFdvDk6VJc"
@@ -1508,7 +1758,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 223968,
       "name": "Mu\u00f1eca De Ojos De Miel",
       "url": "https://open.spotify.com/track/5PbP28y4J2HUkvNkoiGA8z"
@@ -1530,7 +1780,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223968,
       "name": "Mu\u00f1eca Ojos De Miel",
       "url": "https://open.spotify.com/track/2MCnQe2auqNJJPsvxyxMee"
@@ -1609,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "No Hay Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/4XAO6xBCAuwIH1pqrGlCqu"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144981,
+      "name": "No Hay Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG"
+    },
+    {
+      "album": {
         "name": "Neta Que No",
         "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
       },
@@ -1674,10 +1942,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163866,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
+    },
+    {
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/3VRbg9jMgwCR606Nm21X2F"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/24BFgkBI2qTSNlsKi5WnJp"
     },
     {
       "album": {
@@ -1775,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Por Amarte Tanto",
+        "url": "https://open.spotify.com/album/31e2Di9GOGWK9Gs9IXvZIq"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173761,
+      "name": "Por Amarte Tanto",
+      "url": "https://open.spotify.com/track/1CU4kIdtvDjtrf1zXgTyLG"
+    },
+    {
+      "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/1ix9kL2uDaBIf1HDhiSLhG"
       },
@@ -1790,7 +2094,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172374,
       "name": "Por las Noches",
       "url": "https://open.spotify.com/track/0p8lGoIPQESNxb79UOt80R"
@@ -1860,6 +2164,24 @@
     {
       "album": {
         "name": "P\u00eddeme",
+        "url": "https://open.spotify.com/album/5VxCgnIHaW5x0CuuGefuti"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207679,
+      "name": "P\u00eddeme",
+      "url": "https://open.spotify.com/track/0AAAns3nqYVd9zKCipsSR2"
+    },
+    {
+      "album": {
+        "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
       },
       "artists": [
@@ -1870,7 +2192,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207679,
       "name": "P\u00eddeme",
       "url": "https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy"
@@ -1996,7 +2318,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 159519,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
@@ -2014,7 +2336,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159519,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/7dMaqgQCxXnAmfHFRYXpNG"
@@ -2126,7 +2448,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 180846,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/5yFHXr3m32xB4fGGMBOcjJ"
@@ -2148,10 +2470,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180924,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/2BuzAPLd2DEzmHVDD9kDI3"
+    },
+    {
+      "album": {
+        "name": "Sin Restricciones",
+        "url": "https://open.spotify.com/album/3f1u3CVH8GISuEK8becTRD"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156253,
+      "name": "Sin Restricciones",
+      "url": "https://open.spotify.com/track/55dxdLpehKWzWsxPwLkoBk"
     },
     {
       "album": {
@@ -2192,7 +2532,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186125,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
@@ -2293,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "Te Ves Tan Bien",
+        "url": "https://open.spotify.com/album/16iG0rwdDy5fETPFjiDzth"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Te Ves Tan Bien",
+      "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
+    },
+    {
+      "album": {
         "name": "Tonto Mi Corazon",
         "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
       },
@@ -2322,10 +2684,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230667,
       "name": "Total que m\u00e1s da",
       "url": "https://open.spotify.com/track/0XAocBz2uu1P0SKru9TpKz"
+    },
+    {
+      "album": {
+        "name": "P\u00eddeme",
+        "url": "https://open.spotify.com/album/5VxCgnIHaW5x0CuuGefuti"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230667,
+      "name": "Total que m\u00e1s da",
+      "url": "https://open.spotify.com/track/1gESMfrZOI5vDvBnxW3Fbh"
     },
     {
       "album": {
@@ -2340,7 +2720,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157354,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP"
@@ -2412,7 +2792,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186965,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu"
@@ -2430,7 +2810,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198520,
       "name": "Voy a Conquistarte",
       "url": "https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8"
@@ -2496,6 +2876,24 @@
     {
       "album": {
         "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/0uDSz61JSsXI1XgH3Wok0m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/4WuV8hZ2gAmRfFJwbzvpVk"
+    },
+    {
+      "album": {
+        "name": "Esper\u00e1ndote",
         "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
       },
       "artists": [
@@ -2506,7 +2904,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169041,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"

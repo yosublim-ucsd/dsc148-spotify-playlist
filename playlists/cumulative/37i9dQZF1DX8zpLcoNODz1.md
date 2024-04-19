@@ -4,7 +4,7 @@
 
 > Featuring Yeruza, Rauw Alejandro, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-25 songs - 1 hr 19 min
+26 songs - 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 | 2023-09-07 |  |
 | [Donde Sea <3](https://open.spotify.com/track/6eT3eE9Wz8Ea3CGaLWaOKP) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Donde Sea <3](https://open.spotify.com/album/18BPjNpW7yoRsBdUEifXmP) | 2:13 | 2023-09-07 |  |
 | [Easy](https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Easy](https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp) | 4:14 | 2023-09-07 |  |
-| [El Papi](https://open.spotify.com/track/6NqQDbkgW05BV3GcBFipPs) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [GRACIAS X](https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x) | 2:50 | 2023-09-07 |  |
+| [El Papi](https://open.spotify.com/track/6NqQDbkgW05BV3GcBFipPs) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [GRACIAS X](https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x) | 2:50 | 2023-09-07 | 2024-04-19 |
+| [El Papi](https://open.spotify.com/track/5QyUhnJWnndTxBYCA6EMRy) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [El Papi](https://open.spotify.com/album/5IErHXIHg87j2wlH36BpXh) | 2:50 | 2023-09-07 |  |
 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 | 2023-09-07 |  |
 | [Falsas Promesas](https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:26 | 2023-09-07 |  |
 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 | 2023-09-07 |  |

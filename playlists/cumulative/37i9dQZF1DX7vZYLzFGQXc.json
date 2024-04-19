@@ -12053,6 +12053,28 @@
     },
     {
       "album": {
+        "name": "Like a Star",
+        "url": "https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F"
+      },
+      "artists": [
+        {
+          "name": "Ellui",
+          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
+        },
+        {
+          "name": "Richboy Hardy",
+          "url": "https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Like a Star",
+      "url": "https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX"
+    },
+    {
+      "album": {
         "name": "Like Gravity",
         "url": "https://open.spotify.com/album/3Zt5Yd3Vm3uFxMBtlSWctQ"
       },

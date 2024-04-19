@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > ¡Canciones para sonreír durante el día seleccionadas por Caloncho! 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,434 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,347 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 20 | [Stir It Up \- Jamaican Extra Organ Version](https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire \(50th Anniversary\)](https://open.spotify.com/album/5fys4mnxoURHl9ThAEPoKU) | 3:50 |
 | 21 | [How Many Times](https://open.spotify.com/track/2oL15kGhfnzzOrY0ljmmb8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [All The Hits](https://open.spotify.com/album/5VwBSWKXpynQhAbQlcNLY2) | 2:24 |
 | 22 | [Veinticinco Rosas](https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:00 |
-| 23 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 |
+| 23 | [El Palomito](https://open.spotify.com/track/2a1XHa182p1xnineorh0jB) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Exitos Originales](https://open.spotify.com/album/69v2wJSvgM28Ig46Lp8Z2f) | 3:19 |
 | 24 | [Figuras en nubes](https://open.spotify.com/track/4xmfXfXcbyDIh801fmcaE7) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt) | 2:40 |
 | 25 | [Get Ready](https://open.spotify.com/track/1ZnEt1m6su6qBHXncpLt01) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 4:50 |
 | 26 | [Las Caguas](https://open.spotify.com/track/0BqJWXJMD6dioOjkOx6XYy) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:30 |

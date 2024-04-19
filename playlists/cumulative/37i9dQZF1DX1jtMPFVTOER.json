@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Arooj Aftab ",
   "name": "Orbit",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 270386,
       "name": "Alone Together (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270386,
       "name": "Alone Together (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/7Kf4XZWtern4bGBN7sxNvK"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181604,
       "name": "Angela",
       "url": "https://open.spotify.com/track/1RlwflrljoxcNGoRPjeeUT"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 181604,
       "name": "Angela",
       "url": "https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 247698,
       "name": "Beloved! Paradise! Jazz!?",
       "url": "https://open.spotify.com/track/1NaYVbEFgRgRbhYKKJMYui"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247698,
       "name": "Beloved! Paradise! Jazz!?",
       "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 316360,
       "name": "Box Of Stars Pt. 1",
       "url": "https://open.spotify.com/track/1bx9RTgRRTYN32ximVsKhI"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316360,
       "name": "Box Of Stars Pt. 1 (feat. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi)",
       "url": "https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ"
@@ -1844,6 +1844,28 @@
       "duration_ms": 190588,
       "name": "Broken Ivy",
       "url": "https://open.spotify.com/track/1fIeUrXu2KBe7JmDO5AhYV"
+    },
+    {
+      "album": {
+        "name": "Blue Eclipse",
+        "url": "https://open.spotify.com/album/2veHkCq3sm8RAedI04bDlG"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Natalie Lindi",
+          "url": "https://open.spotify.com/artist/6nXILNJclmemd6XXq6u7Fv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2Sf8zOw0J5qRxxaRYGknzC"
     },
     {
       "album": {
@@ -3768,7 +3790,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 389240,
       "name": "Feet Down South",
       "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
@@ -4390,7 +4412,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
@@ -4412,7 +4434,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
@@ -5391,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
+    },
+    {
+      "album": {
         "name": "IN THE WEE SMALL HOURS OF THE MORNING",
         "url": "https://open.spotify.com/album/6r5IkCSD0yy7XhhkxOf17i"
       },
@@ -5532,7 +5572,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229967,
       "name": "Into The Storm",
       "url": "https://open.spotify.com/track/6vEvwMUjgD7ory8TiEL3yu"
@@ -7544,7 +7584,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170287,
       "name": "No Confusion (feat. Kojey Radical) - Alternate Take",
       "url": "https://open.spotify.com/track/70dmUj66huxSjM5ecN5GXl"
@@ -7570,6 +7610,28 @@
       "duration_ms": 170287,
       "name": "No Confusion (feat. Kojey Radical) [Alternate Take]",
       "url": "https://open.spotify.com/track/6WHI0ZI3wAjxJrx4GQAAQF"
+    },
+    {
+      "album": {
+        "name": "No Confusion",
+        "url": "https://open.spotify.com/album/4lVNRXnGO5ChLVHHoMpWsN"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170287,
+      "name": "No Confusion - Alternate Take",
+      "url": "https://open.spotify.com/track/4AEXCKcdVexMOx2j9WmqRn"
     },
     {
       "album": {
@@ -8575,6 +8637,24 @@
     },
     {
       "album": {
+        "name": "Raat Ki Rani",
+        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
+    },
+    {
+      "album": {
         "name": "RagJazz",
         "url": "https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ"
       },
@@ -9016,10 +9096,40 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206706,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/3FQNBS4mPXhO1MdGN6e7Ro"
+    },
+    {
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0egI36OMLEcADQ8zJSbZGm"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Dream Mclean",
+          "url": "https://open.spotify.com/artist/0ojBbzNVKsx1wFf7Ag3YIv"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/7lKsazBrIDEv76YQzFt05s"
+        },
+        {
+          "name": "Wallace Rice",
+          "url": "https://open.spotify.com/artist/2jBrnxIU5OlEBG0DQY3Lqu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/76q8RxpJisulRDVQZaW7b2"
     },
     {
       "album": {
@@ -9138,7 +9248,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177873,
       "name": "Say Wow",
       "url": "https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch"
@@ -9578,6 +9688,24 @@
       "duration_ms": 347106,
       "name": "Slow Bones - Cool Cats Mix",
       "url": "https://open.spotify.com/track/7xNhZ0zftPVf4DK9Ql18yi"
+    },
+    {
+      "album": {
+        "name": "So Familiar",
+        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238055,
+      "name": "So Familiar",
+      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
     },
     {
       "album": {
@@ -10804,7 +10932,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273940,
       "name": "The Long Juju Slave Route of Arochokwu",
       "url": "https://open.spotify.com/track/2DvCrMyz3oq1xCmBGofrWG"
@@ -10910,7 +11038,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259012,
       "name": "THEO SAYS",
       "url": "https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6"
@@ -10936,7 +11064,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 259012,
       "name": "THEO SAYS (feat. Ego Ella May & D'LEAU)",
       "url": "https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK"
@@ -11423,6 +11551,32 @@
     },
     {
       "album": {
+        "name": "Unapologetically Me",
+        "url": "https://open.spotify.com/album/0FnsVtGkz6TSkwJdiPnKLe"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Khari Mateen",
+          "url": "https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248262,
+      "name": "Unapologetically Me",
+      "url": "https://open.spotify.com/track/0bgxUe4obsUVgjAnTCQnq3"
+    },
+    {
+      "album": {
         "name": "Intervals",
         "url": "https://open.spotify.com/album/3gGH4I0H5lJeP98FEhbKAO"
       },
@@ -11868,7 +12022,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 203319,
       "name": "What It Feels Like - Carrtoons Remix",
       "url": "https://open.spotify.com/track/3xIDPvwMOl7dTMmq6cSWet"
@@ -11902,7 +12056,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203319,
       "name": "What It Feels Like - Carrtoons Remix",
       "url": "https://open.spotify.com/track/6cBgiFiJ3qJgLRldC3MPtF"
@@ -12536,7 +12690,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196368,
       "name": "Your Eyes Tell Lies",
       "url": "https://open.spotify.com/track/6mzguPPGxYkrXoPCMaG7zF"

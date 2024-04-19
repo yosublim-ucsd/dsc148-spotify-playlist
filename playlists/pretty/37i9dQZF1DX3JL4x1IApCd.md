@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2023\. Cover: Uncojingjong
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,966 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,978 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 18 | [Pesa Ndogo](https://open.spotify.com/track/17SB8W5WdkVpsA6huzqu1X) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Pesa Ndogo](https://open.spotify.com/album/7tgBbKwNZAGHLbqyVEZIXH) | 3:08 |
 | 19 | [Alert](https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Alert](https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4) | 2:00 |
 | 20 | [Fukuru](https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Fukuru](https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp) | 3:51 |
-| 21 | [Ni Wetu](https://open.spotify.com/track/6wJhpkNh8SqevxU3c3TmvX) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:01 |
+| 21 | [Ni Wetu](https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Ni Wetu](https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o) | 3:01 |
 | 22 | [Weh Decide](https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Weh Decide](https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL) | 2:34 |
 | 23 | [Sipangwingwi](https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Sipangwingwi](https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn) | 3:26 |
 | 24 | [Mapema Ndio Best](https://open.spotify.com/track/5b8caYTRWpbi5I0jKrVah1) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7), [THEONLYDELO](https://open.spotify.com/artist/20oN1j6cWOJ2GgnBsN0lye), [K4kanali](https://open.spotify.com/artist/6dgXAgAu8iBRCAEk6Ie2TF) | [Mapema Ndio Best](https://open.spotify.com/album/5qz0x0K2k5b4N8DFjjQPoY) | 3:25 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 46 | [Rich Rich Man](https://open.spotify.com/track/3dwtuXIgLUVCdR6r4CAyww) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:31 |
 | 47 | [Oa Jane \(Mary Jane\)](https://open.spotify.com/track/3eSiZuYmqblGqRm9Kz9y2Q) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6) | [Oa Jane \(Mary Jane\)](https://open.spotify.com/album/6GXrNrDyjfoP1CTJTv1Fgb) | 2:48 |
 | 48 | [Makudiro](https://open.spotify.com/track/7pTswKcVWgaGBKtY42e31R) | [Kanairo](https://open.spotify.com/artist/3AJv488pOm46UfLBbVMeGf), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Makudiro](https://open.spotify.com/album/6abqMz7DpumeuYkHPkEjtu) | 2:29 |
-| 49 | [Btw](https://open.spotify.com/track/6pG7fWZPvTQCt6fqJDW0hP) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [ExRay](https://open.spotify.com/artist/4rFnZaLsIvYHRfyEg0SaLL), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Btw](https://open.spotify.com/album/3Pfe7CypHQF9EMJese4jlk) | 4:04 |
+| 49 | [Btw](https://open.spotify.com/track/1JbIMllQHyjAdq3S1yHeep) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Exray](https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Btw](https://open.spotify.com/album/1q84EwpxHLZf3dWlUsw0No) | 4:04 |
 | 50 | [Classy Feat \(Exray Taniua & Kristoff MWB\)](https://open.spotify.com/track/0tbntItotdcLQ8tb1aFDJ8) | [Mc Rayan The Dj](https://open.spotify.com/artist/230ekA5qM5ff89XJ7qIN4Z), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Kristoff MWB](https://open.spotify.com/artist/6rJsKSCMerhXVye0hh3y3e) | [Classy Feat \(Exray Taniua & Kristoff MWB\)](https://open.spotify.com/album/01fGcRXLXW5PjZJ2E90M1w) | 3:06 |
 
 Snapshot ID: `MTcwMTI2MDE2MCwwMDAwMDAwMDEwZTIzY2Y3YmM5MjViMjNjMDVmMGVkNDNkYjRkNDE5`

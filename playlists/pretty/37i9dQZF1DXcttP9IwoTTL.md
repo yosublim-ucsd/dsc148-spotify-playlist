@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,271 likes - 70 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,289 likes - 70 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 18 | [AQATETRA](https://open.spotify.com/track/4wRJXIAarsiw6dLeD2kJMw) | [AZARI](https://open.spotify.com/artist/4eQ3rdpKpUppzKWHnnly5S) | [AQATETRA](https://open.spotify.com/album/3wyqpPEYFP73FWqD918kSP) | 5:15 |
 | 19 | [Machine Alliance](https://open.spotify.com/track/1ExQrHJ07mVKYSgzR6slkm) | [Kerrie](https://open.spotify.com/artist/5VoWHmp9FzI1hDUAunlOPs) | [Machine Alliance](https://open.spotify.com/album/5RKPfwRRhnNGR0ZTSKwhwz) | 5:38 |
 | 20 | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be) | [Low End Activist](https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg) | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf) | 4:18 |
-| 21 | [Gye Wani](https://open.spotify.com/track/1ydHBt9OC9Uq1CePkbdK6a) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Gye Wani](https://open.spotify.com/album/0nUPjQCfXGvxzTpwuoAELW) | 5:23 |
+| 21 | [Gye Wani](https://open.spotify.com/track/3btvwWoGAdEJonpeIP64Vq) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Gye Wani](https://open.spotify.com/album/0NSIEztu6SFxbdDtiWqH42) | 5:23 |
 | 22 | [Absence Inachevée](https://open.spotify.com/track/6DraztRwZGcxOEHlMYE5fb) | [Cold Colors](https://open.spotify.com/artist/4832heYP1smdIcStcMF7nN) | [Vanishing Dreams](https://open.spotify.com/album/0OS2aH9fJaCCYk0peFBxh3) | 6:02 |
 | 23 | [Coral](https://open.spotify.com/track/5BfLBqr0hr9hMXaudLZA8y) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [Coral](https://open.spotify.com/album/6aCkMMmxHSVN396hAGdiZv) | 8:38 |
 | 24 | [Sunday 10 Times](https://open.spotify.com/track/01Eh7suwYN9Ej7KbcthePq) | [Talita Otović](https://open.spotify.com/artist/1aZNOlfv4umDVfdRVHsjCO) | [ALTÆR](https://open.spotify.com/album/1cqDvxoGGoZE6jpqdAxTbL) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 
 > Songs of pride and empowerment for the little listeners.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,996 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,015 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 17 | [Lovable and Capable](https://open.spotify.com/track/0TBhJccdn2lVCW1MbbLAVX) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Buddy's Magic Toy Box](https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip) | 3:23 |
 | 18 | [Clap Your Hands](https://open.spotify.com/track/0DggugSY9hCZ9C4M8ge9D2) | [The Magic Jones](https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:22 |
 | 19 | [I Love My Life](https://open.spotify.com/track/2B3EtzAgWYKIv5RYdCFPFb) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [I Love My Life](https://open.spotify.com/album/0GetBkIeD6pvIpM3tdI0TN) | 2:04 |
-| 20 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
+| 20 | [Good Day for a Good Day](https://open.spotify.com/track/4lmF7TNUOd5xpnGQoLgQG5) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Good Day for a Good Day \(Acoustic\)](https://open.spotify.com/album/7cTvygp5X7cEbrsAph8ZMU) | 3:10 |
 | 21 | [Count Me Out](https://open.spotify.com/track/1AFKbnV49aMFAzZouEaMEP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/3OqPkYVDzHKistrI9exrjR) | 4:43 |
 | 22 | [Ultralight Beam](https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:20 |
 | 23 | [Superwoman](https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:34 |

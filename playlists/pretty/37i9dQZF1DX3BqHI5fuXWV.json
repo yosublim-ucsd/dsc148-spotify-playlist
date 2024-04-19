@@ -1,6 +1,6 @@
 {
   "description": "The best tracks from the great Miles Davis.",
-  "num_followers": 229820,
+  "num_followers": 229894,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
@@ -187,34 +187,46 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Miles Davis And Horns",
-        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
+        "name": "Chronicles - The Complete Prestige Recordings 1951-1956",
+        "url": "https://open.spotify.com/album/0cRoLLAtFVtgCAaG20rc5K"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 180693,
+      "duration_ms": 181693,
       "name": "Blue Room - Take 2",
-      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
+      "url": "https://open.spotify.com/track/6ziyfY0Z0Dh64bFWabD18T"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Dig [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/2nJMaFsTHKycqV2H3h4Fyj"
+        "name": "Dig (Remastered)",
+        "url": "https://open.spotify.com/album/1WM4FY3k9QFGTX3wI0lo6z"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 379413,
-      "name": "Out Of The Blue - Album - Remastered",
-      "url": "https://open.spotify.com/track/4qCQh7NCxDzeSivKQO0aHB"
+      "duration_ms": 376200,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3FXZ7WtCRpqEpnZCaHOhTY"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -271,8 +283,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "The Musings Of Miles",
-        "url": "https://open.spotify.com/album/7fRwdr4MvqlJhhhssTKutU"
+        "name": "The Musings Of Miles (Remastered)",
+        "url": "https://open.spotify.com/album/3ASoBL3wTumlIG5I57Pz57"
       },
       "artists": [
         {
@@ -280,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 381360,
-      "name": "Will You Still Be Mine - RVG Remaster",
-      "url": "https://open.spotify.com/track/1PH1sjijtkUjujNiiIgPUN"
+      "duration_ms": 380800,
+      "name": "Will You Still Be Mine?",
+      "url": "https://open.spotify.com/track/784M5FJsdIvlImGFCfxcj3"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -303,8 +315,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Bags' Groove (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+        "name": "Bags' Groove (RVG Remaster)",
+        "url": "https://open.spotify.com/album/12pnhpbOmlqxhg3VL73TMR"
       },
       "artists": [
         {
@@ -320,49 +332,33 @@
           "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         },
         {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
-        },
-        {
           "name": "Percy Heath",
           "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
         }
       ],
-      "duration_ms": 299680,
+      "duration_ms": 297746,
       "name": "Airegin - RVG Remaster",
-      "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+      "url": "https://open.spotify.com/track/4j80lnJy3a5ODqyHjUBAYt"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
         "name": "Sorcerer",
-        "url": "https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo"
+        "url": "https://open.spotify.com/album/55tHsdolIq77ph1iiepCJt"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        },
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
         }
       ],
-      "duration_ms": 313613,
-      "name": "The Sorcerer (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)",
-      "url": "https://open.spotify.com/track/6RWbLrCrv9OwsPgHp7hH0A"
+      "duration_ms": 310066,
+      "name": "The Sorcerer",
+      "url": "https://open.spotify.com/track/7MzuCllm7kH5YYYWrDlVID"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -384,39 +380,27 @@
       "added_at": "2024-03-20 13:52:03",
       "album": {
         "name": "Miles Davis And Milt Jackson Quintet/Sextet",
-        "url": "https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7"
+        "url": "https://open.spotify.com/album/0W7d8ucfVSxe9laRaO3hN0"
       },
       "artists": [
         {
-          "name": "Miles Davis And Milt Jackson Quintet",
-          "url": "https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Milt Jackson Quintet",
+          "url": "https://open.spotify.com/artist/7FOIKk78Rah1SOdN9iyS2q"
         }
       ],
       "duration_ms": 430693,
       "name": "Changes",
-      "url": "https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq"
+      "url": "https://open.spotify.com/track/37wmiTbVrRgIgS3QpP7u5D"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Blue Moods",
-        "url": "https://open.spotify.com/album/6QNUsyQxf8merg8Sv696aI"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 303960,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3QHeOALQbMukSiCWQrP2b0"
-    },
-    {
-      "added_at": "2024-03-20 13:52:03",
-      "album": {
-        "name": "Miles Davis - A Jazz Legend",
-        "url": "https://open.spotify.com/album/6YlVEAfzDbm6ul89skqKXL"
+        "name": "Blue Moods / The Musings Of Miles",
+        "url": "https://open.spotify.com/album/72uGp1PIdFF6PbZM4aoLpw"
       },
       "artists": [
         {
@@ -424,9 +408,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 371053,
+      "duration_ms": 306066,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/0D4zoclhjrB0yvvkvxrPY5"
+    },
+    {
+      "added_at": "2024-03-20 13:52:03",
+      "album": {
+        "name": "Blue Haze - Miles Davis & the Modern Jazz Giants",
+        "url": "https://open.spotify.com/album/438JEFPa58t9nb9vgwxlbf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+        }
+      ],
+      "duration_ms": 369626,
       "name": "Blue Haze",
-      "url": "https://open.spotify.com/track/26Mp8qAMY9WaFu9BJ8DghW"
+      "url": "https://open.spotify.com/track/1RtmLOItbFRFWcGcVlE0yT"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -499,8 +499,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Nefertiti (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/1RmFQt2sOrHvtYcCF94Z9b"
       },
       "artists": [
         {
@@ -510,13 +510,13 @@
       ],
       "duration_ms": 470733,
       "name": "Nefertiti",
-      "url": "https://open.spotify.com/track/6AanQLrt4GtYXutqNiiQJG"
+      "url": "https://open.spotify.com/track/6Uvdk0inOxp86dB1OVQSxZ"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
         "name": "Filles De Kilimanjaro",
-        "url": "https://open.spotify.com/album/7pFyY6SvB0XlUKp8srk8Az"
+        "url": "https://open.spotify.com/album/3PNdqbnqRHlHqfV2O93M7m"
       },
       "artists": [
         {
@@ -525,8 +525,8 @@
         }
       ],
       "duration_ms": 484333,
-      "name": "Petits Machins (Little Stuff)",
-      "url": "https://open.spotify.com/track/4ab96AVzqHKjsICyFFEBHi"
+      "name": "Petits machins (Little Stuff)",
+      "url": "https://open.spotify.com/track/2j0lQZzeDUcg9bKPeZVEhG"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -691,8 +691,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/23ZZVPL64HrPnLNIJ6bEze"
+        "name": "Miles Davis - Volume 2 (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4Ll4WvIw7CYlGCGtvLuikf"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 200373,
-      "name": "Kelo",
-      "url": "https://open.spotify.com/track/5M78Uv9dWMW4oP69loBrHq"
+      "duration_ms": 198133,
+      "name": "Kelo - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/1pMMmZCiVcYVSs61hNUSB7"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -723,24 +723,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/2mwqZ9EDDJB7iYxBrAVotJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 197601,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/3qyYE0MZUhzwCeOJBXXJfA"
-    },
-    {
-      "added_at": "2024-03-20 13:52:03",
-      "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+        "name": "Here's Miles",
+        "url": "https://open.spotify.com/album/5IvWLZRXZp5DkK9eRBAOia"
       },
       "artists": [
         {
@@ -748,9 +732,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 197426,
+      "duration_ms": 195760,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/2v8Zy2E59iASmJi3KtQX42"
+    },
+    {
+      "added_at": "2024-03-20 13:52:03",
+      "album": {
+        "name": "Jazz Moods - Cool",
+        "url": "https://open.spotify.com/album/4LgXhrvf3eqzfRCspC1wNG"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 198000,
       "name": "Summertime",
-      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
+      "url": "https://open.spotify.com/track/4S2Yo2xIvrhBC5st03hDfo"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -771,8 +771,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Steamin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/0Q0bftWuBSwZAHBKZr0lxB"
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/1H51LWYYu7Jx9z46KpKPhk"
       },
       "artists": [
         {
@@ -780,73 +780,41 @@
           "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 264066,
+      "duration_ms": 263906,
       "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/1Ame30MZ6yKnqaWFAch1m7"
+      "url": "https://open.spotify.com/track/6L0dJfv2ljsx4AGddksERX"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "The Best Of Miles Davis & John Coltrane (1955-1961)",
+        "url": "https://open.spotify.com/album/49TOkZTmPprVTmSs2FKde9"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 468666,
-      "name": "Dear Old Stockholm (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/1d0NjHhCDKCKZIbws021xD"
+      "duration_ms": 468573,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/5F46p3ZaON2oXiSmyvMrdK"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "Jazz Moods - Cool",
+        "url": "https://open.spotify.com/album/4LgXhrvf3eqzfRCspC1wNG"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 474626,
-      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+      "duration_ms": 475066,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/3Iga2VcisdWRCGL0brwUcN"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -867,8 +835,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/2SaPfVOUN2nWhsk5dqt0v2"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/3FxWza4JZVZHVjZ4jTQAav"
       },
       "artists": [
         {
@@ -878,13 +846,13 @@
       ],
       "duration_ms": 363026,
       "name": "White",
-      "url": "https://open.spotify.com/track/7yEFRP0S68mIKlEDjCZdPu"
+      "url": "https://open.spotify.com/track/5oMXKAyMtxhhUd8wYDcBcW"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
         "name": "The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968",
-        "url": "https://open.spotify.com/album/1mM5BwiiPqVq8T0vucuKhI"
+        "url": "https://open.spotify.com/album/2QzE84Dzdn1cLXMLwSnilN"
       },
       "artists": [
         {
@@ -894,13 +862,13 @@
       ],
       "duration_ms": 328733,
       "name": "E.S.P.",
-      "url": "https://open.spotify.com/track/1TsAsyHFJZqkuEM26Sg34a"
+      "url": "https://open.spotify.com/track/1IPHdEjEFdVMPvqvbceEYK"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Birth Of The Cool (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3wG8DcAJVgr7sbWNvKanzS"
       },
       "artists": [
         {
@@ -908,15 +876,15 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 154340,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
+      "duration_ms": 155266,
+      "name": "Move - 2000 - Remaster",
+      "url": "https://open.spotify.com/track/1NcCulpI9eKzddPK9misWY"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "The Complete Birth Of The Cool",
+        "url": "https://open.spotify.com/album/2vm2b8COVMLIoHqB58iN4w"
       },
       "artists": [
         {
@@ -924,59 +892,15 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+      "duration_ms": 193706,
+      "name": "Jeru - Remastered",
+      "url": "https://open.spotify.com/track/3kRg9wvgMf9IstjNYbZkkL"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 562640,
-      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
-    },
-    {
-      "added_at": "2024-03-20 13:52:03",
-      "album": {
-        "name": "Miles And His Quintet (Miles Davis And His Quintet)",
-        "url": "https://open.spotify.com/album/6AZ1jpH5CEub6Iza2HXZrp"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis And His Quintet",
-          "url": "https://open.spotify.com/artist/0LW6sREPWemmi5wZDhTh0M"
-        }
-      ],
-      "duration_ms": 449760,
-      "name": "Just Squeeze Me - Miles Davis And His Quintet",
-      "url": "https://open.spotify.com/track/3C2iim4vUBGbQWBnTR6o9q"
-    },
-    {
-      "added_at": "2024-03-20 13:52:03",
-      "album": {
-        "name": "The Musings Of Miles",
-        "url": "https://open.spotify.com/album/7fRwdr4MvqlJhhhssTKutU"
+        "name": "Ken Burns Jazz-Miles Davis",
+        "url": "https://open.spotify.com/album/5fD8ooQJOZwhzLspyk9ImW"
       },
       "artists": [
         {
@@ -984,15 +908,31 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 351040,
-      "name": "Green Haze - RVG Remaster",
-      "url": "https://open.spotify.com/track/6tDTNXUEGNaFgGibFZS5MU"
+      "duration_ms": 561973,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7tlw4WnLLZW4GA5pJAsExJ"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Miles Smiles",
-        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+        "name": "The New Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/5UrThO63Ij9bCoLgmVEk01"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 446733,
+      "name": "Just Squeeze Me",
+      "url": "https://open.spotify.com/track/514orWNnWjj6TtJ2ifaWF6"
+    },
+    {
+      "added_at": "2024-03-20 13:52:03",
+      "album": {
+        "name": "Bluing: Miles Davis Plays The Blues",
+        "url": "https://open.spotify.com/album/0GGwXZ8DgKj4uNhGA8kA5M"
       },
       "artists": [
         {
@@ -1000,41 +940,41 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 352000,
+      "duration_ms": 347760,
+      "name": "Green Haze",
+      "url": "https://open.spotify.com/track/5lut3K3IpaLXdNZ9VvCDuE"
+    },
+    {
+      "added_at": "2024-03-20 13:52:03",
+      "album": {
+        "name": "This Is Jazz #22 - Miles Davis Plays Ballads",
+        "url": "https://open.spotify.com/album/5SHwzt1aJGFZNHFN6zQuKF"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 350893,
       "name": "Circle",
-      "url": "https://open.spotify.com/track/67HzeILnvRD6gjciRW3B17"
+      "url": "https://open.spotify.com/track/28zZBIhYUVubJuakJHY7AI"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/3pUQGAxKte7S6FokfKrmEm"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         }
       ],
-      "duration_ms": 586400,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
+      "duration_ms": 586160,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/5tuPK5qulyEnviLpw2nd9l"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -1103,8 +1043,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Directions",
-        "url": "https://open.spotify.com/album/3C76HsRwaTPs0z0baKfk38"
+        "name": "This Is Jazz #38-Miles Davis Electric",
+        "url": "https://open.spotify.com/album/6clQgbrpXu7bzAGq74LKr4"
       },
       "artists": [
         {
@@ -1112,15 +1052,15 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 420720,
-      "name": "Water on the Pond",
-      "url": "https://open.spotify.com/track/5gwV3zf2K4do6cnMu7gSCu"
+      "duration_ms": 420333,
+      "name": "Water On The Pond",
+      "url": "https://open.spotify.com/track/3dK8pQca7JBOoI65NV6f3J"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
       },
       "artists": [
         {
@@ -1128,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 186741,
+      "duration_ms": 183354,
       "name": "Rocker",
-      "url": "https://open.spotify.com/track/1KakNYJMxHUeX0WxqRuUtS"
+      "url": "https://open.spotify.com/track/3m47noeb5U7xVeyTzKFjqv"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -1151,18 +1091,22 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/5g3sEbp7bfrhriTS6n57Ns"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
         }
       ],
-      "duration_ms": 207293,
-      "name": "Springsville",
-      "url": "https://open.spotify.com/track/4kML1OCLMXpEaWAgExXVdb"
+      "duration_ms": 207933,
+      "name": "Springsville - master",
+      "url": "https://open.spotify.com/track/6MpYSKP84DWr47RTecipe1"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -1235,32 +1179,24 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/3pUQGAxKte7S6FokfKrmEm"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 337733,
-      "name": "Blue in Green (feat. John Coltrane & Bill Evans)",
-      "url": "https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi"
+      "duration_ms": 337560,
+      "name": "Blue in Green",
+      "url": "https://open.spotify.com/track/1QxFPdYTJ1F5dTZwaJviSj"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
       },
       "artists": [
         {
@@ -1268,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 200296,
-      "name": "Moon Dreams",
-      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
+      "duration_ms": 197526,
+      "name": "Moon Dream",
+      "url": "https://open.spotify.com/track/2iU2HItcQ5V772GwE48li5"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -1307,8 +1243,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
       },
       "artists": [
         {
@@ -1316,25 +1252,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 138321,
+      "duration_ms": 135516,
       "name": "Israel",
-      "url": "https://open.spotify.com/track/6xdpwECaUdzv48eP9W9Urj"
+      "url": "https://open.spotify.com/track/38C59NtbLT2oY3LXanAXsT"
     },
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Embraceable",
-        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
+        "name": "Out of Nowhere - The Rise of Miles Davis",
+        "url": "https://open.spotify.com/album/0bCzFvDMhlmNRurlwuUcVM"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Miles Davis & Charlie Parker",
+          "url": "https://open.spotify.com/artist/0TRfa0h5vgOv6yU5RhAjXD"
         }
       ],
-      "duration_ms": 243600,
+      "duration_ms": 241706,
       "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
+      "url": "https://open.spotify.com/track/5oIn8IS66c3Fx3xKoPqPLh"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -1391,8 +1327,8 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
       },
       "artists": [
         {
@@ -1400,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 192992,
-      "name": "Venus De Milo",
-      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
+      "duration_ms": 188774,
+      "name": "Venus de Milo",
+      "url": "https://open.spotify.com/track/10P8yZWorE51ZykYKhEUWb"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -1459,18 +1395,22 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Dig [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/2nJMaFsTHKycqV2H3h4Fyj"
+        "name": "Conception",
+        "url": "https://open.spotify.com/album/04LfJ95UuEIuFzr2Sqync5"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 241586,
-      "name": "Conception - Album - Remastered",
-      "url": "https://open.spotify.com/track/3EKpe9At9d7bzn1ddGmbrS"
+      "duration_ms": 240960,
+      "name": "Conception",
+      "url": "https://open.spotify.com/track/6jwzFDTwWAuXgQ0ksByLdK"
     },
     {
       "added_at": "2024-03-20 13:52:03",
@@ -1491,18 +1431,18 @@
     {
       "added_at": "2024-03-20 13:52:03",
       "album": {
-        "name": "Charlie Parker Memorial, Vol. 1",
-        "url": "https://open.spotify.com/album/1ZVtgzuTIOTBKn4LmgNwTX"
+        "name": "The Great Miles Davis Vol 2 (Feat. Charlie Parker)",
+        "url": "https://open.spotify.com/album/2uU8Qm34dLdh2IffhFNWDW"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Bluebird - New Take 1",
-      "url": "https://open.spotify.com/track/1qJXyjyunPZG7lnvwRNGiI"
+      "duration_ms": 176133,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/19obfEmqwfWGaXpmwjDhYv"
     }
   ],
   "unique_name": "This Is Miles Davis",

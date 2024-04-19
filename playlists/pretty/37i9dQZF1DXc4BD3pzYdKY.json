@@ -1,6 +1,6 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
-  "num_followers": 153272,
+  "num_followers": 153425,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
       "duration_ms": 157714,
       "name": "Boost It Up",
       "url": "https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -255,42 +239,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "BIG GOD",
-        "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "BIG GOD",
-      "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Church Clothes 4",
-        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 181290,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/66hLgDd6kk3GfzLej7t2eH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Good, Pt. 2",
         "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
       },
@@ -311,6 +259,26 @@
       "duration_ms": 217750,
       "name": "Good, Pt. 2",
       "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "BIG GOD",
+        "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "BIG GOD",
+      "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -367,6 +335,22 @@
       "duration_ms": 191021,
       "name": "Strongest",
       "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181290,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/66hLgDd6kk3GfzLej7t2eH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -471,6 +455,22 @@
       "duration_ms": 211788,
       "name": "GROOVY FREESTYLE (REMIX)",
       "url": "https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "We Already Won",
-        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 177587,
-      "name": "The City Is Mine",
-      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "High Noon",
         "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 130679,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "We Already Won",
+        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 177587,
+      "name": "The City Is Mine",
+      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/3RX8fvorgRlQfdbYRlVzrl"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 130321,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/3CEr4pMBuYsQBiGneXlDTB"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "NEVER QUIT",
         "url": "https://open.spotify.com/album/5Yal9oogb6HDQSJtaJSECN"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 165194,
       "name": "NEVER QUIT",
       "url": "https://open.spotify.com/track/0goNoN3HwZEpsElESSMwMW"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/3RX8fvorgRlQfdbYRlVzrl"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 130321,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/3CEr4pMBuYsQBiGneXlDTB"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
-      },
-      "artists": [
-        {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "BOATS",
         "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 144294,
       "name": "Nothing Into Something",
       "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+      },
+      "artists": [
+        {
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 186713,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "HE BACK!",
         "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
       },
       "artists": [
         {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 102857,
-      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
+      "duration_ms": 186713,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "TIL ITS DONE",
-        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "TIL ITS DONE",
-      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "For A Reason",
         "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
       },
@@ -1551,6 +1519,22 @@
       "duration_ms": 161872,
       "name": "For A Reason",
       "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "TIL ITS DONE",
+        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "TIL ITS DONE",
+      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1571,26 +1555,6 @@
       "duration_ms": 173322,
       "name": "Long Time Coming",
       "url": "https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "yall need GOD",
-        "url": "https://open.spotify.com/album/21pmy9nQjAEl1dmWjUS9oT"
-      },
-      "artists": [
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        },
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "yall need GOD",
-      "url": "https://open.spotify.com/track/763bzzQDRW8pSYg7iPXMRZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1619,22 +1583,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "UH HUH",
-        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "UH HUH",
-      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
       },
@@ -1651,6 +1599,42 @@
       "duration_ms": 159200,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/51I93kSJksxIWnjO2S47II"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "yall need GOD",
+        "url": "https://open.spotify.com/album/21pmy9nQjAEl1dmWjUS9oT"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "yall need GOD",
+      "url": "https://open.spotify.com/track/763bzzQDRW8pSYg7iPXMRZ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "UH HUH",
+        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "UH HUH",
+      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1843,22 +1827,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Problematic",
-        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
-      },
-      "artists": [
-        {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
-        }
-      ],
-      "duration_ms": 174421,
-      "name": "Problematic",
-      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/0prltCaGMX57gAkUIUAzIA"
       },
@@ -1875,6 +1843,46 @@
       "duration_ms": 126956,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Problematic",
+        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
+      },
+      "artists": [
+        {
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+        }
+      ],
+      "duration_ms": 174421,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Blood On The Doors",
+        "url": "https://open.spotify.com/album/6922R5qYxTzzkEvQ3O4XEA"
+      },
+      "artists": [
+        {
+          "name": "Razzie",
+          "url": "https://open.spotify.com/artist/3eMYXpbZpFOWTz36jMozU3"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        },
+        {
+          "name": "Gregory Rufus",
+          "url": "https://open.spotify.com/artist/3OFEfTZTighDlrrREGYCsS"
+        }
+      ],
+      "duration_ms": 198855,
+      "name": "Blood On The Doors",
+      "url": "https://open.spotify.com/track/7Bj5KsG49mNLnRXylKBKmc"
     }
   ],
   "unique_name": "The Flow",

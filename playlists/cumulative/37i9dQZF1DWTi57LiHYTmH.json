@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Bach",
+        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lucas Jussen",
+          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
+        },
+        {
+          "name": "Arthur Jussen",
+          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "\"Was mir behagt, ist nur die muntre Jagd\" Cantata, BWV 208 - arr. Mary Howe for two pianos: 9. Schafe k\u00f6nnen sicher weiden",
+      "url": "https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw"
+    },
+    {
+      "album": {
         "name": "Rachmaninoff: Pr\u00e9ludes; \u00c9tudes-Tableaux; Moments musicaux",
         "url": "https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4"
       },
@@ -68,10 +94,36 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168786,
       "name": "13 Pieces for Piano, Op. 76: II. Etude",
       "url": "https://open.spotify.com/track/0aHgLGD861WXXeWou96k7n"
+    },
+    {
+      "album": {
+        "name": "Finlandia: Finland Independence Day",
+        "url": "https://open.spotify.com/album/6xEJ3Wo3AixeTnfMdOZJcq"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Jian Wang",
+          "url": "https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5"
+        },
+        {
+          "name": "G\u00f6ran S\u00f6llscher",
+          "url": "https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "13 Pieces for Piano, Op. 76: II. Etude",
+      "url": "https://open.spotify.com/track/5PTiHxVkp46i4o8o2dFgtF"
     },
     {
       "album": {
@@ -558,7 +610,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142857,
       "name": "Adagietto",
       "url": "https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x"
@@ -1064,10 +1116,32 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151733,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
+    },
+    {
+      "album": {
+        "name": "Bach: Cello Suites Nos. 1, 5 & 6",
+        "url": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152280,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
     },
     {
       "album": {
@@ -1257,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Master and Commander: The Far Side of the World (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/5fLuOsktnBxI1VpMaFR4B6"
+      },
+      "artists": [
+        {
+          "name": "Arcangelo Corelli",
+          "url": "https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF"
+        },
+        {
+          "name": "Richard Tognetti",
+          "url": "https://open.spotify.com/artist/0kdjTXFwhF9w9Cuscbgccu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115600,
+      "name": "Concerto grosso in G Minor, Op. 6 No. 8, \"Christmas Concerto\": Adagio (Arr. Davies, Gordon and Tognetti)",
+      "url": "https://open.spotify.com/track/22uTdMUy6Q8bLcyHxM82RX"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Cl\u00e1sica Para Leer",
         "url": "https://open.spotify.com/album/3kHQIbIevRiOVVPxmBtA9M"
       },
@@ -1360,7 +1456,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117612,
       "name": "Dancing Lights",
       "url": "https://open.spotify.com/track/5SDGerrPqmbBrSBqRO4L8v"
@@ -1572,7 +1668,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135893,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/2LRwdz7Eei7EPTUjbE4SPZ"
@@ -1704,7 +1800,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 316653,
       "name": "Fantasia in D Minor, K. 397",
       "url": "https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx"
@@ -1722,7 +1818,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168000,
       "name": "Feast of Starlight",
       "url": "https://open.spotify.com/track/1hOavq1yyy1GqzjVpx3vjq"
@@ -1880,7 +1976,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184853,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku"
@@ -1998,7 +2094,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "In Trutina (From Carmina Burana, Arr. for Piano and Cello by Tim Allhoff)",
       "url": "https://open.spotify.com/track/3jrHPaR4AYZAl1X3GFYlEx"
@@ -2024,10 +2120,36 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141786,
       "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
       "url": "https://open.spotify.com/track/39bzKYAYfHRtK32nEnQilM"
+    },
+    {
+      "album": {
+        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
+        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
+      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
     },
     {
       "album": {
@@ -2487,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Grieg: Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
+        "url": "https://open.spotify.com/album/3sSsJvmJ2deZICQkB6Vrpe"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Andrey Gugnin",
+          "url": "https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
+      "url": "https://open.spotify.com/track/4Fr1EjBybRVAeHyEW8xoXv"
+    },
+    {
+      "album": {
         "name": "Ravel: Piano Music For 4 Hands",
         "url": "https://open.spotify.com/album/2lO3FswVsOC8qRaUkkSofO"
       },
@@ -2536,6 +2680,24 @@
       "duration_ms": 583293,
       "name": "Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam",
       "url": "https://open.spotify.com/track/0cqcRqZgkNHanWQ8slYA0v"
+    },
+    {
+      "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "album": {
@@ -2690,6 +2852,28 @@
     {
       "album": {
         "name": "Lux",
+        "url": "https://open.spotify.com/album/7L9qteIW4h28p8aa2NvU6D"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Nimrod (Lux Aeterna)",
+      "url": "https://open.spotify.com/track/0URENFI2Nk9oVMdhz4SQKM"
+    },
+    {
+      "album": {
+        "name": "Lux",
         "url": "https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh"
       },
       "artists": [
@@ -2704,7 +2888,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232666,
       "name": "Nimrod (Lux Aeterna)",
       "url": "https://open.spotify.com/track/1aJcDNDrKduMegTZzOemVd"
@@ -2850,7 +3034,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 263119,
       "name": "Non-eternal - Piano Short Edit",
       "url": "https://open.spotify.com/track/2wr1i6hHZJhuYCgmsf93is"
@@ -2949,6 +3133,32 @@
     },
     {
       "album": {
+        "name": "Mozart: Academy in Concert",
+        "url": "https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301586,
+      "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
+      "url": "https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD"
+    },
+    {
+      "album": {
         "name": "Pachelbel: Canon in D Major",
         "url": "https://open.spotify.com/album/6c3t7n2DcojfdHIFXwhDwa"
       },
@@ -2968,7 +3178,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300613,
       "name": "Pachelbel: Canon and Gigue in D Major: Canon",
       "url": "https://open.spotify.com/track/712Pm7DCa8lL8dGZ7LdXQS"
@@ -3068,7 +3278,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 398240,
       "name": "Piano Concerto in A minor, Op. 16: II. Adagio - Live",
       "url": "https://open.spotify.com/track/48ncsTkxc9KlRZEG0PC2rZ"
@@ -3146,7 +3356,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284000,
       "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
       "url": "https://open.spotify.com/track/0ftAOThcYwpSDapJhDOy7o"
@@ -3311,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/4dp6Wc8yveqpMTi6EHxyCE"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jean-Rodolphe Kars",
+          "url": "https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150440,
+      "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
+      "url": "https://open.spotify.com/track/1S7KLOhkzdJ4ycKKZCZIWK"
+    },
+    {
+      "album": {
         "name": "Debussy",
         "url": "https://open.spotify.com/album/2hp2fmMa8Av2CKnTx8B5yS"
       },
@@ -3326,7 +3558,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150440,
       "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
       "url": "https://open.spotify.com/track/51P3NaXFY36BR7d52fh03Y"
@@ -3444,6 +3676,36 @@
     {
       "album": {
         "name": "Rachmaninov Variations",
+        "url": "https://open.spotify.com/album/7lj4fT2SzKOFw8rvSrVivF"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
+      "url": "https://open.spotify.com/track/419qlOGNXoyICx4jO0hqaj"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov Variations",
         "url": "https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf"
       },
       "artists": [
@@ -3466,7 +3728,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
       "url": "https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz"
@@ -3704,7 +3966,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 238173,
       "name": "Scene Suspended (Arr. Lawson)",
       "url": "https://open.spotify.com/track/1XAwBkH7vpJvNbq8yB3Rji"
@@ -3995,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "Song to the Moon (from Rusalka)",
+        "url": "https://open.spotify.com/album/4T8l44AOJgKuXxwzPQOxmf"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385106,
+      "name": "Song to the Moon (from Rusalka)",
+      "url": "https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: Portrait",
         "url": "https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH"
       },
@@ -4172,7 +4452,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174266,
       "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO"
@@ -4308,6 +4588,28 @@
     {
       "album": {
         "name": "Valentina Lisitsa Plays Philip Glass",
+        "url": "https://open.spotify.com/album/1DJldMHQQA7Fglm9dhMg8t"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "The Truman Show: Truman Sleeps - Short Version",
+      "url": "https://open.spotify.com/track/29S6PLRccSCyKozzwIik0J"
+    },
+    {
+      "album": {
+        "name": "Valentina Lisitsa Plays Philip Glass",
         "url": "https://open.spotify.com/album/5sB0xqZBHO9JNenKE3TFmK"
       },
       "artists": [
@@ -4322,7 +4624,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160453,
       "name": "The Truman Show: Truman Sleeps - Short Version",
       "url": "https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa"
@@ -4672,7 +4974,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109800,
       "name": "Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano) [Brahms Lullaby]",
       "url": "https://open.spotify.com/track/59cPOVxrn3Yjwydl1pullI"

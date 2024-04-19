@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 326229,
       "name": "Kwetu",
       "url": "https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326229,
       "name": "Kwetu",
       "url": "https://open.spotify.com/track/6ydtxqMaxXbLlBUVvlDuRU"
@@ -2202,10 +2202,28 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278560,
       "name": "Melancholia - Live in Cairo",
       "url": "https://open.spotify.com/track/2AgIUzV6qZQIGVscjMsO4F"
+    },
+    {
+      "album": {
+        "name": "Another Side with Another Time Ensemble (Live in Cairo)",
+        "url": "https://open.spotify.com/album/0gy0z1wYbwr1FEkCG9tvTA"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278560,
+      "name": "Melancholia - Live in Cairo",
+      "url": "https://open.spotify.com/track/6HIMyflR3HeKFHuH9iOw3w"
     },
     {
       "album": {
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 433040,
       "name": "Rainbow Revisited",
       "url": "https://open.spotify.com/track/36eemDjGxpm6323UrcC8Mn"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 433040,
       "name": "Rainbow Revisited",
       "url": "https://open.spotify.com/track/3yATpiGQJGOrYidye4ebc9"
@@ -3281,6 +3299,28 @@
     },
     {
       "album": {
+        "name": "Sunset (in California)",
+        "url": "https://open.spotify.com/album/1fwsX07wjOpKqx3yWpjIMN"
+      },
+      "artists": [
+        {
+          "name": "Thandi Ntuli",
+          "url": "https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351773,
+      "name": "Sunset (in California)",
+      "url": "https://open.spotify.com/track/18imU79HqM0KmVm7bc1Z9H"
+    },
+    {
+      "album": {
         "name": "Rainbow Revisited",
         "url": "https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA"
       },
@@ -3296,7 +3336,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 351773,
       "name": "Sunset (in California)",
       "url": "https://open.spotify.com/track/4TtGgEvZmvelHF4hvUStfi"
@@ -3437,6 +3477,28 @@
     },
     {
       "album": {
+        "name": "Siparia to Soweto",
+        "url": "https://open.spotify.com/album/0kTFinupZwLN67sWCXvhGp"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        },
+        {
+          "name": "Siparia Deltones",
+          "url": "https://open.spotify.com/artist/72CBLZTw8aO90bXlS8vMUz"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375335,
+      "name": "The Meeting Place",
+      "url": "https://open.spotify.com/track/3dKkSKgUL8MHjqqzPJZF0a"
+    },
+    {
+      "album": {
         "name": "Siparia To Soweto",
         "url": "https://open.spotify.com/album/4xCOJRqTHEqgNVKZIYBL5u"
       },
@@ -3456,7 +3518,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375335,
       "name": "The Meeting Place",
       "url": "https://open.spotify.com/track/70ECtruJHPrf2eoEMLdDqU"
@@ -3492,7 +3554,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256215,
       "name": "The Only Way",
       "url": "https://open.spotify.com/track/3GMXYzMmRHOi6Al01r68Pz"
@@ -3514,6 +3576,24 @@
       "duration_ms": 256215,
       "name": "The Only Way",
       "url": "https://open.spotify.com/track/5khKL5lhGGIdyR0T2dAgKC"
+    },
+    {
+      "album": {
+        "name": "The Only Way",
+        "url": "https://open.spotify.com/album/5XXpUr7yDJsTdmmhSa1zDZ"
+      },
+      "artists": [
+        {
+          "name": "Desire Marea",
+          "url": "https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256215,
+      "name": "The Only Way",
+      "url": "https://open.spotify.com/track/7kFNSNZqYd1C1LW3GNRPob"
     },
     {
       "album": {
@@ -4130,7 +4210,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 567240,
       "name": "Wynter Time",
       "url": "https://open.spotify.com/track/2SkeHeWnmngeVuukJc4QVl"
@@ -4152,6 +4232,24 @@
       "duration_ms": 567240,
       "name": "Wynter Time",
       "url": "https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg"
+    },
+    {
+      "album": {
+        "name": "Wynter Time",
+        "url": "https://open.spotify.com/album/6f9KaTsfK0qjw1o9eQT5Az"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567240,
+      "name": "Wynter Time",
+      "url": "https://open.spotify.com/track/5KEYBBic34INiT0Ph4MYb1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第4弾。故郷への思いや未来への希望に満ちたメッセージソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-45 songs - 3 hr 13 min
+47 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Hey! Ryudo!\(ヘイ!リュード!\)](https://open.spotify.com/track/4D0Q8bUuo9i8Lu0fI1oviX) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙のアベニュー](https://open.spotify.com/album/59SSrcVyoTH9dgJxXAW0l8) | 4:23 | 2023-09-17 |  |
 | [I AM YOUR SINGER](https://open.spotify.com/track/52mKiP16FYA0C8X6gTr4zK) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [I AM YOUR SINGER](https://open.spotify.com/album/1jVj4Lfxcfg6vwbTul6cqC) | 4:31 | 2023-09-17 |  |
 | [Plastic Super Star \(Live In Better Days\)](https://open.spotify.com/track/0OQMWBNLsH7fKTapFaTbRc) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [NUDE MAN](https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI) | 3:53 | 2023-09-17 |  |
-| [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-17 |  |
-| [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 | 2023-09-17 |  |
+| [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-17 | 2024-04-19 |
+| [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 | 2023-09-17 |  |
+| [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 | 2023-09-17 | 2024-04-19 |
 | [Ya Ya\(あの時代を忘れない\)](https://open.spotify.com/track/1QGfRnNztw3SKr8Kx8Qw1M) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Ya Ya\(あの時代を忘れない\)](https://open.spotify.com/album/0ifpETJ4tDC49s3EhHrEe3) | 3:57 | 2023-09-17 |  |
 | [YARLEN SHUFFLE\~子羊達へのレクイエム\~](https://open.spotify.com/track/1rzAZFDh4eMWjK0H2qkRN2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:16 | 2023-09-17 |  |
 | [YELLOW NEW YORKER](https://open.spotify.com/track/3dwqVyKlyH3pLoQfJcbXpw) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:43 | 2023-09-17 |  |
@@ -45,6 +46,7 @@
 | [星空のビリー・ホリデイ](https://open.spotify.com/track/3uMOpkMnXaGCXtf71lT9ZZ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 3:59 | 2023-09-17 |  |
 | [東京VICTORY](https://open.spotify.com/track/4XnY5LBp2C37Cr0VrQmGl2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [東京VICTORY](https://open.spotify.com/album/33M5HqxOl248yYStshaJll) | 5:09 | 2023-09-17 |  |
 | [栄光の男](https://open.spotify.com/track/0b5IOHnch6K9Q1HiABT9UM) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [葡萄](https://open.spotify.com/album/1KusH5XDkblfjkmdoE2Too) | 4:45 | 2023-09-17 |  |
+| [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 | 2023-09-17 |  |
 | [涙のアベニュー](https://open.spotify.com/track/4hpZEItMSGQNJUj6rqAMbd) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙のアベニュー](https://open.spotify.com/album/59SSrcVyoTH9dgJxXAW0l8) | 4:05 | 2023-09-17 |  |
 | [湘南SEPTEMBER](https://open.spotify.com/track/7zsmpsDJHofE2X5w5tZfIs) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:32 | 2023-09-17 |  |
 | [素敵な夢を叶えましょう](https://open.spotify.com/track/0ZvD5T4M5xR09faA7WZpwS) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 5:09 | 2023-09-17 |  |

@@ -4,7 +4,7 @@
 
 > Wrapping up 2023/2024 Detty December with sounds curated by  Accra based CULTPOPWORLDWIDE
 
-387 songs - 22 hr 25 min
+388 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,8 +217,8 @@
 | [Love Me](https://open.spotify.com/track/4ACfoAvYs2zXTfmam5Y3Ad) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:54 | 2021-12-13 | 2021-12-31 |
 | [Ma Gang](https://open.spotify.com/track/4W4CSPzes7C98KIUELYZ1U) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 5:14 | 2023-01-02 | 2023-12-13 |
 | [MAGICIAN](https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [RAVI](https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ) | 2:28 | 2023-12-20 | 2023-12-30 |
-| [Maja](https://open.spotify.com/track/3e7aRHeezwhvQAJTnisutQ) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/7rUakO5tSwLPD6Q50dRSh1) | 2:24 | 2023-12-13 |  |
-| [Maja](https://open.spotify.com/track/4pfPXZbOyHSfyanmi7mFSt) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/5T0vEHoylbWQfm4u6Ubt4G) | 2:24 | 2023-12-13 | 2023-12-14 |
+| [Maja](https://open.spotify.com/track/3e7aRHeezwhvQAJTnisutQ) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/7rUakO5tSwLPD6Q50dRSh1) | 2:24 | 2023-12-13 | 2024-04-19 |
+| [Maja](https://open.spotify.com/track/4pfPXZbOyHSfyanmi7mFSt) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/5T0vEHoylbWQfm4u6Ubt4G) | 2:24 | 2023-12-13 |  |
 | [Man of The Year](https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:24 | 2024-01-03 | 2024-03-30 |
 | [Manca](https://open.spotify.com/track/46ZvwmGP7q63FWnrvurH45) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Contagious](https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB) | 6:19 | 2023-01-02 | 2023-12-13 |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2023-01-02 | 2023-12-13 |
@@ -375,7 +375,8 @@
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-12-13 | 2021-12-31 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-12-28 | 2024-01-03 |
 | [Way Bigger](https://open.spotify.com/track/0HNKMJ2EKCaT2EqcCBj1EH) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:16 | 2021-12-31 | 2022-01-08 |
-| [Welcome Home](https://open.spotify.com/track/6z8l5owiiRdfybVXEOCjBw) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Welcome Home](https://open.spotify.com/album/3v35TFoVt7VKIeorNPrXfO) | 4:16 | 2023-12-13 |  |
+| [Welcome Home](https://open.spotify.com/track/1PD61j8mLKgSd6ww1rzJ1J) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Day \- The Pye/Bronze Anthology](https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u) | 4:15 | 2024-03-29 |  |
+| [Welcome Home](https://open.spotify.com/track/6z8l5owiiRdfybVXEOCjBw) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Welcome Home](https://open.spotify.com/album/3v35TFoVt7VKIeorNPrXfO) | 4:16 | 2023-12-13 | 2024-04-19 |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-12-20 | 2023-12-30 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2024-01-03 | 2024-03-30 |
 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 | 2021-12-31 | 2022-01-08 |

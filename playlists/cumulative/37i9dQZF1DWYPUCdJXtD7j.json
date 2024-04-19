@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Sacha Distel: La bonne humeur",
+        "url": "https://open.spotify.com/album/3sDgyHpq6d3XDtiYeCsd9f"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "L'incendie \u00e0 Rio",
+      "url": "https://open.spotify.com/track/0RxReeVQgc3coqIVTvWaoG"
+    },
+    {
+      "album": {
         "name": "Sacha Distel: The Good Mood",
         "url": "https://open.spotify.com/album/2ibKSpzpG3m1B3sWMVKqnh"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185546,
       "name": "L'incendie \u00e0 Rio",
       "url": "https://open.spotify.com/track/2DMQ48elpSiHkvULeGZLvM"
@@ -330,7 +348,7 @@
     {
       "album": {
         "name": "Chansons Pour Enfants",
-        "url": "https://open.spotify.com/album/6gUZj3SCCBkcjenWdGKBtq"
+        "url": "https://open.spotify.com/album/04EbHFVUpHtdTTCaLdzpWI"
       },
       "artists": [
         {
@@ -343,7 +361,43 @@
       "date_removed": null,
       "duration_ms": 83688,
       "name": "Les Roues De L'Autobus",
+      "url": "https://open.spotify.com/track/0GNxtU6m6tQefYWABVG3zL"
+    },
+    {
+      "album": {
+        "name": "Chansons Pour Enfants",
+        "url": "https://open.spotify.com/album/6gUZj3SCCBkcjenWdGKBtq"
+      },
+      "artists": [
+        {
+          "name": "Chansons pour enfants Loulou et Lou",
+          "url": "https://open.spotify.com/artist/6rp5Obq7OsRN7d2mu1PTQ5"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 83688,
+      "name": "Les Roues De L'Autobus",
       "url": "https://open.spotify.com/track/5tLDrfk4fBl5WkEkbwLR7J"
+    },
+    {
+      "album": {
+        "name": "Cars 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0dAx2jg51awyvkQlb1v7dZ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9nabar",
+          "url": "https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169493,
+      "name": "Mon Coeur Fait Vroum (My Heart Goes Vroom)",
+      "url": "https://open.spotify.com/track/19i5WHzB9NTeE4sfGvGK3o"
     },
     {
       "album": {
@@ -358,7 +412,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169493,
       "name": "Mon Coeur Fait Vroum (My Heart Goes Vroom) - From \"Cars 2\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/39ys0k1qof4axhk2RC1ul3"
@@ -430,7 +484,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 167253,
       "name": "Tout le monde se presse",
       "url": "https://open.spotify.com/track/0GaawFROCUNGrRPovzxR0F"
@@ -448,7 +502,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167253,
       "name": "Tout le monde se presse",
       "url": "https://open.spotify.com/track/3Rq5aUgenRwBqIXJAIdLDn"

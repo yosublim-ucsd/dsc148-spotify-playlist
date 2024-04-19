@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-97 songs - 5 hr 14 min
+100 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Blue Christmas](https://open.spotify.com/track/4cpfEGfJnZTtoUr23lRFGK) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Blue Christmas](https://open.spotify.com/album/0FfnwndZx81v9DSvswzqog) | 2:34 | 2023-11-24 |  |
 | [Blue Christmas \(feat\. Vince Gill\)](https://open.spotify.com/track/48xYHTEI8fQdiTxOTNn0lR) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Love Under The Christmas Tree](https://open.spotify.com/album/5TNnXsMBgzXAXOwxV9heKR) | 3:36 | 2023-11-24 |  |
 | [Celebrate Me Home](https://open.spotify.com/track/5O2jmlWdeLEN7n3LrP7MFB) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Celebrate Me Home](https://open.spotify.com/album/5doSwgjks8R6LIucsbuPNe) | 3:52 | 2023-11-24 |  |
-| [Christmas Again](https://open.spotify.com/track/5OByBdrRvSq8xRk7O6WWJ9) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Christmas Again](https://open.spotify.com/album/3J7V3Aqh0t3D2tD5y3tT6K) | 3:40 | 2023-11-24 |  |
+| [Christmas Again](https://open.spotify.com/track/5OByBdrRvSq8xRk7O6WWJ9) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Christmas Again](https://open.spotify.com/album/3J7V3Aqh0t3D2tD5y3tT6K) | 3:40 | 2023-11-24 | 2024-04-19 |
+| [Christmas Again](https://open.spotify.com/track/6Xu0UNGLMDGL1gyQmwavla) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Christmas Again](https://open.spotify.com/album/4monFcb3YhZVNXWbbWG2H7) | 3:40 | 2023-12-22 |  |
 | [Christmas By Myself](https://open.spotify.com/track/40UBf4GUXj80nfB91hCp5N) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Christmas By Myself](https://open.spotify.com/album/6jqt6GqBIbyPbXRkmS0K2F) | 3:00 | 2023-11-24 |  |
 | [christmas comes in waves](https://open.spotify.com/track/0wYQEHRa98AdPdmOofZXbS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [christmas comes in waves](https://open.spotify.com/album/6lIIrC3M60Oi45B7D0QAyQ) | 3:41 | 2023-11-24 |  |
 | [Christmas In The Backyard](https://open.spotify.com/track/4tb8C9aWere1hZXiC5CQcR) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Christmas In The Backyard](https://open.spotify.com/album/29beFzNrz6x5wI3vAqJytO) | 2:36 | 2023-11-24 |  |
@@ -50,7 +51,8 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/77aDdG4vLSFn4sEM3burtJ) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7djQadfzYqqFoggnnJiheR) | 4:05 | 2023-12-08 |  |
 | [Holiday Road](https://open.spotify.com/track/6iv3rsnlG2NKFuIh5t3uT1) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Holiday Road](https://open.spotify.com/album/7CHqXHrygge73VcQKj6Vva) | 2:08 | 2023-11-24 |  |
 | [Hot Pink Christmas](https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Hot Pink Christmas](https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT) | 2:36 | 2023-11-24 |  |
-| [Hurry Up Christmas](https://open.spotify.com/track/5xSMrP8c9doImUxajUi882) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/1fLwyTyXwRYx387gZLPJx9) | 2:47 | 2023-11-24 |  |
+| [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 | 2023-12-22 |  |
+| [Hurry Up Christmas](https://open.spotify.com/track/5xSMrP8c9doImUxajUi882) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/1fLwyTyXwRYx387gZLPJx9) | 2:47 | 2023-11-24 | 2024-04-19 |
 | [I Hate The Holidays](https://open.spotify.com/track/7qpeNNnmo5oUvW0XGVIYR6) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [I Hate The Holidays](https://open.spotify.com/album/2giouTHLLZuLiPrC4TVDRY) | 3:19 | 2023-11-24 |  |
 | [I Saw Mommy Kissing Santa Claus \(feat\. Vivianne Decker, Eric Decker II, Forrest Decker\)](https://open.spotify.com/track/3hz0J4UVZIqz6P06UE6LRu) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Eric Decker II](https://open.spotify.com/artist/0N8GlhymdZ0TyprN2xlDZU), [Forrest Decker](https://open.spotify.com/artist/75R6iL39fxQihNdPo1G18T), [Vivianne Decker](https://open.spotify.com/artist/2YOYCJsRiG4WvC7KpjrcUV) | [Decker The Halls](https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep) | 3:01 | 2023-11-24 |  |
 | [I Want a Massey Ferguson for Christmas](https://open.spotify.com/track/7kQBtVQz6XYLoXlpH1fxWD) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [I Want a Massey Ferguson for Christmas](https://open.spotify.com/album/5WkUk0rR0lrZ0Sh4tPaVid) | 2:42 | 2023-11-24 |  |
@@ -91,7 +93,8 @@
 | [Silent Night](https://open.spotify.com/track/3UVqDV4i2209OOZ6zZ9LaN) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Silent Night](https://open.spotify.com/album/1YqW5qzk2H3Ofm6T4JLou6) | 2:27 | 2023-11-24 |  |
 | [Silent Night](https://open.spotify.com/track/1DVfxetVUcA947GnHvamSX) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Silent Night](https://open.spotify.com/album/46npk1bfWrEKmFwfT70MNH) | 3:20 | 2023-11-24 |  |
 | [Silent Night \(with Trace Adkins\)](https://open.spotify.com/track/7Ikcki7sbE9tfAFTInueZ7) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Love Under The Christmas Tree](https://open.spotify.com/album/5TNnXsMBgzXAXOwxV9heKR) | 3:25 | 2023-11-24 |  |
-| [Silver Bells](https://open.spotify.com/track/6zXErxTVDYkWizKbuULPlD) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [A Redhill Valley Christmas](https://open.spotify.com/album/23mnKQI9vBQhMKhXW3KDR5) | 3:16 | 2023-12-01 |  |
+| [Silver Bells](https://open.spotify.com/track/3jamEnkqZJsEVOvfSNXMHw) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [A Redhill Valley Christmas](https://open.spotify.com/album/4kVGfnzFaPHeAg9dX4HloA) | 3:16 | 2023-12-22 |  |
+| [Silver Bells](https://open.spotify.com/track/6zXErxTVDYkWizKbuULPlD) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [A Redhill Valley Christmas](https://open.spotify.com/album/23mnKQI9vBQhMKhXW3KDR5) | 3:16 | 2023-12-01 | 2024-04-19 |
 | [Silverado Santa](https://open.spotify.com/track/5QTiDBP5AoZRZFz2vhujXY) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Silverado Santa](https://open.spotify.com/album/2EfhiBTVKligRG4ZxlyMe8) | 3:22 | 2023-11-24 |  |
 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-11-24 |  |
 | [Tangled In Tinsel](https://open.spotify.com/track/5VBDZziVRcONqiSxuBYr4I) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Decker The Halls](https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep) | 3:25 | 2023-11-24 |  |

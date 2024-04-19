@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 96531,
+  "2024-04-19": 96809,
   "date_first_scraped": "2022-06-22",
   "description": "The finest set of Malayalam music from the past 10 years.\nCover : Manjummel Boys",
   "name": "Mollywood Gold",
@@ -2415,6 +2415,32 @@
       "duration_ms": 241042,
       "name": "Nazarethin",
       "url": "https://open.spotify.com/track/174Okcb7FsHk1RD5mna3UZ"
+    },
+    {
+      "album": {
+        "name": "Nebulakal - Travel Song (From \"Manjummel Boys\")",
+        "url": "https://open.spotify.com/album/6bgSQcUj1JzVmDMuF2Vr87"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282812,
+      "name": "Nebulakal - Travel Song - From \"Manjummel Boys\"",
+      "url": "https://open.spotify.com/track/1jxFfazgOVIJeYbhBm2ENV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-231 songs - 11 hr 40 min
+232 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Kaah](https://open.spotify.com/track/4G2CdDwJAQhZsbEJyHOqk7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Ramo / Kaah](https://open.spotify.com/album/3x4v1MsJDziEVciqG9n2Dp) | 5:07 | 2023-05-05 |  |
 | [Kailani](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kailani](https://open.spotify.com/album/2YzyYJAKupYwoaxkM0czMv) | 2:31 | 2023-09-01 |  |
 | [Kanoa](https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kanoa](https://open.spotify.com/album/2txBLe5ISOYhG9WFQlmRKq) | 2:38 | 2023-09-15 |  |
-| [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2023-05-05 |  |
+| [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2023-05-05 | 2024-04-19 |
+| [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2024-04-09 |  |
 | [La La \(I Need You\)](https://open.spotify.com/track/2ANLe3sjVcI2kphdjfVOWt) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Reflection](https://open.spotify.com/album/1dltDJv5BfhQXXbCqMzsHs) | 3:36 | 2023-05-05 |  |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2023-05-05 |  |
 | [Left In The Sunset](https://open.spotify.com/track/553tti9BPRI7Mp7kl48KEp) | [Flower Teen](https://open.spotify.com/artist/1iEKEpOaz002kPyTncXC7Q) | [Left In The Sunset](https://open.spotify.com/album/2RwH3gtj0U1Ly7Y9tqEqTu) | 3:00 | 2023-05-22 |  |

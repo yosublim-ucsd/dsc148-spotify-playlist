@@ -2,7 +2,7 @@
 
 ### [This Is Binomio de Oro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldspl)
 
-> This Is Binomio de Oro\. Все лучшие треки в одном плейлисте.
+> This is Binomio de Oro\. The essential tracks, all in one playlist.
 
 61 songs - 4 hr 21 min
 

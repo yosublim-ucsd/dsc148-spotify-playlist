@@ -4,7 +4,7 @@
 
 > La playlist ufficiale della nuova stagione! Guarda Skam Italia 6, solo su Netflix.
 
-41 songs - 2 hr 39 min
+42 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 | 2024-02-21 |  |
 | [Lost Connections](https://open.spotify.com/track/6KqSaLcqIBrr0D6xQo4EMh) | [Ivan Silvestrini](https://open.spotify.com/artist/11EgjjkYzqn7PycxDATAkk) | [Sosiri](https://open.spotify.com/album/1gyWSTLG9z6XlQOFbTxB69) | 5:24 | 2024-02-21 |  |
 | [Loving You Like Always](https://open.spotify.com/track/2EoFxpBrtkJAWrtDQgGWh5) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 3:19 | 2024-02-21 |  |
-| [Mi piace](https://open.spotify.com/track/7HBThEfsbTu0m6hWQ4vGmL) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/16gNp90FuTSwbBRulKlFTA) | 3:11 | 2024-02-21 |  |
+| [Mi piace](https://open.spotify.com/track/1FVJXPTCvJRsr3H359CuRV) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/0ZEM5B4oMJk6EAhOaekSDk) | 3:11 | 2024-02-21 |  |
+| [Mi piace](https://open.spotify.com/track/7HBThEfsbTu0m6hWQ4vGmL) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/16gNp90FuTSwbBRulKlFTA) | 3:11 | 2024-02-21 | 2024-04-19 |
 | [Non ho più freddo](https://open.spotify.com/track/7dUqdyD6T6sq20XhDOUC6S) | [Ivan Silvestrini](https://open.spotify.com/artist/11EgjjkYzqn7PycxDATAkk) | [Hikikomori](https://open.spotify.com/album/2V9NE1E99zbZDuCKFiIuCu) | 2:07 | 2024-02-21 |  |
 | [Notturno](https://open.spotify.com/track/595mp2qWQ1VZUTOXE37vjk) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [000577](https://open.spotify.com/album/5lSof83CXHu5UWTW2Vlbye) | 2:45 | 2024-02-21 |  |
 | [Otopeni](https://open.spotify.com/track/4i7gWg3jUH7NpeVBtQVsc5) | [Ivan Silvestrini](https://open.spotify.com/artist/11EgjjkYzqn7PycxDATAkk) | [Sosiri](https://open.spotify.com/album/1gyWSTLG9z6XlQOFbTxB69) | 4:22 | 2024-02-21 |  |

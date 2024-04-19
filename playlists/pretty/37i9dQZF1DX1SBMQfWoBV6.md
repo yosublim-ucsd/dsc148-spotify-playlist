@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,325 likes - 76 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,407 likes - 76 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 32 | [Polyrhythmic Focus and Studying Part 3](https://open.spotify.com/track/4vtqAaig1XbUIZbCmZXp1A) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:58 |
 | 33 | [Caved Out](https://open.spotify.com/track/3lzBhoMOytPl2SJb76MKHS) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 4:09 |
 | 34 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 |
-| 35 | [Roads](https://open.spotify.com/track/28ihvvOj0MmaQWtmABWxQ4) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Feathers](https://open.spotify.com/album/1e5MB6FPsENgNnr2U0B4rE) | 5:15 |
+| 35 | [Roads](https://open.spotify.com/track/48PzHDQK4fEbevljF8zLsU) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Feathers](https://open.spotify.com/album/1C1VIZxvGVJiIpmazJICdc) | 5:15 |
 | 36 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 |
 | 37 | [Vardagsrummet](https://open.spotify.com/track/6YWvTxRk2dQw2uGCuBLiU1) | [Farbror Resande Mac](https://open.spotify.com/artist/3VMuEdAr2K5O45tO55VSQE) | [Farbror Resande Mac](https://open.spotify.com/album/3hz55vK51FnzXGYfrxAU0w) | 5:16 |
 | 38 | [Beluga’s Song](https://open.spotify.com/track/1BHu8dmQWiwoh7p1vgJZKN) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 5:28 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 60 | [Dust](https://open.spotify.com/track/0SVkJnFaT6y5eCMosHwvVZ) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Shikasta](https://open.spotify.com/album/0IONJPCk2P7ym03G3RGwh9) | 4:47 |
 | 61 | [Thumb](https://open.spotify.com/track/0xMBvIDJFsMbrs1BHDVpFq) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [Lefhanded Fuqs](https://open.spotify.com/album/0oRaS0KTSRRAOfZnZova2C) | 3:45 |
 | 62 | [Talk from Home](https://open.spotify.com/track/48rB6oYm5Tej08IHn6aJsB) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 3:58 |
-| 63 | [Western Electric](https://open.spotify.com/track/5LwWTwkjy0IZLbneYZ6IXS) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [301C Symphony](https://open.spotify.com/album/7xoinXkUgCctFPr9VnzY6u) | 3:01 |
+| 63 | [Western Electric](https://open.spotify.com/track/2o5dP3S3q7kPmxfRYYCIy0) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [301C Symphony](https://open.spotify.com/album/2Tfx8gkK7DH8xUPqFl7a0U) | 3:01 |
 | 64 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
 | 65 | [Polyrhythmic Focus and Studying Part 2](https://open.spotify.com/track/5FneMKMi7lIfZfNckmb9oo) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:52 |
 | 66 | [Vespera](https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:01 |

@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-160 songs - 10 hr 40 min
+161 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,15 +131,16 @@
 | [Shabdkosh](https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:59 | 2022-05-13 | 2023-09-06 |
 | [Shakti Sunset, Pt\. 1 \(Alap\)](https://open.spotify.com/track/2hE86J1u0gByjj8WXpktfZ) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8), [Mala Ganguly](https://open.spotify.com/artist/3lRG8ptwPxwEtvwKF2krjd) | [Shakti Guitar: A Yogic Journey from Radiant Dawn to Deepest Night](https://open.spotify.com/album/49SZlnNYS7fqBLTy1588Y7) | 7:31 | 2022-05-13 | 2022-09-07 |
 | [Shanat Karna](https://open.spotify.com/track/4hb6mIPZh3N3XKHuMjGbJ4) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Shanat Karna](https://open.spotify.com/album/4x9VFe8Cd0lj4MSl3H6116) | 4:59 | 2022-09-19 | 2024-03-27 |
-| [Siddharthas Echoes](https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/55Jz6l9fzWVopImHAFYzoG) | 3:12 | 2024-03-08 |  |
+| [Siddharthas Echoes](https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/55Jz6l9fzWVopImHAFYzoG) | 3:12 | 2024-03-08 | 2024-04-19 |
+| [Siddharthas Echoes](https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b) | 3:12 | 2024-03-26 |  |
 | [Simoom](https://open.spotify.com/track/7gR19CaxVW3DfvSfJEGRMT) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:41 | 2022-05-13 |  |
 | [Slow Start](https://open.spotify.com/track/18wjlWpx5uuKE2mzc2V0MU) | [Pascal Peaceful](https://open.spotify.com/artist/2zI5MF3vSVBhZpoqBo1NMF) | [Slow Start](https://open.spotify.com/album/2rNUDJ6UD17DZKAgCGuF0t) | 2:12 | 2023-02-10 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-13 |  |
 | [Soothing Oasis](https://open.spotify.com/track/6SLhNH99NX98JlN1rnrtFl) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Soothing Oasis](https://open.spotify.com/album/2hwuGsoJs0qmtyCB3kLGXx) | 6:17 | 2023-02-10 |  |
 | [Soothing Soul](https://open.spotify.com/track/78LapUyXelxYlcvNjSbwsx) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Soothing Soul](https://open.spotify.com/album/5pQPc6Jg2WrpBQjLwFyWQm) | 3:10 | 2023-08-16 |  |
 | [Spirit](https://open.spotify.com/track/1zoPWKR27qHRfjnMm3wE5d) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Mountain Sunrise](https://open.spotify.com/album/24L98golLv0TemGdFecGA9) | 2:16 | 2022-07-14 |  |
-| [Spiritual air](https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual Air](https://open.spotify.com/album/0pq0aHyIYn08kdFHUci3H6) | 3:38 | 2024-03-08 |  |
-| [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 | 2022-05-13 | 2022-08-31 |
+| [Spiritual air](https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual Air](https://open.spotify.com/album/0pq0aHyIYn08kdFHUci3H6) | 3:38 | 2024-03-08 | 2024-04-19 |
+| [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 | 2022-05-13 |  |
 | [Spiritual air](https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/0BOJA2MU6u5y5ROLUosmTJ) | 3:38 | 2022-08-10 | 2024-03-18 |
 | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/6AbKLbVBoWDYvIFHWLQALe) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/1KvIk9EAknrzb8D77qLlzg) | 3:20 | 2022-05-13 |  |
 | [States of Mind \- Sacred Flute](https://open.spotify.com/track/3SBgkf5aFtRsE0JlwhRh46) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [States of Mind \- Sacred Flute](https://open.spotify.com/album/6GB15Sor4U7Fdk9goG1xCi) | 2:36 | 2022-10-24 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "Music from shows and movies you love including Greatest Hits, now streaming on Hulu.",
-  "num_followers": 223786,
+  "description": "Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.",
+  "num_followers": 223730,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzIxMzAzOCwwMDAwMDAwMGUyYjc2YjIxYWQ5YWI3Njk5YWVkZjE0Y2U3NzFiMmM2",
+  "snapshot_id": "MTcxMzM3OTgyNSwwMDAwMDAwMDJhNDQzZjVkY2IyZmM4MjRlYmYyMjMyZTQ5MGUxNmEw",
   "tracks": [
     {
       "added_at": "2024-04-01 18:12:12",
@@ -251,8 +251,8 @@
     {
       "added_at": "2024-04-01 18:12:12",
       "album": {
-        "name": "Echo (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2QA8kRrS8knS0JNX8PMbbV"
+        "name": "Echo (From \"Echo\")",
+        "url": "https://open.spotify.com/album/1Fp8O0KHxXodPjvIAdUiCY"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6nYldcJGouosntBOf1N9Ik"
         }
       ],
-      "duration_ms": 133697,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/2W1819JHLnNhB4paubiPWK"
+      "duration_ms": 132638,
+      "name": "Echo - From \"Echo\"",
+      "url": "https://open.spotify.com/track/7MNFjEqc7G4kjskQSz7Bxn"
     },
     {
       "added_at": "2024-04-01 18:12:12",
@@ -1551,8 +1551,8 @@
     {
       "added_at": "2024-04-01 18:12:12",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+        "name": "Dr. Feelgood (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
       },
       "artists": [
         {
@@ -1560,15 +1560,15 @@
           "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 282653,
+      "duration_ms": 282710,
       "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+      "url": "https://open.spotify.com/track/7s60huPEeS8f9ytqAlQksr"
     },
     {
       "added_at": "2024-04-01 18:12:12",
       "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+        "name": "Girls, Girls, Girls (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
       },
       "artists": [
         {
@@ -1576,15 +1576,15 @@
           "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 270533,
+      "duration_ms": 270160,
       "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+      "url": "https://open.spotify.com/track/4qj8vXZyFP4XHv8HBBi8dz"
     },
     {
       "added_at": "2024-04-01 18:12:12",
       "album": {
-        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
-        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
+        "name": "Dr. Feelgood (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
       },
       "artists": [
         {
@@ -1593,8 +1593,8 @@
         }
       ],
       "duration_ms": 289971,
-      "name": "Dr. Feelgood (2021- Remaster)",
-      "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
+      "name": "Dr. Feelgood",
+      "url": "https://open.spotify.com/track/1mrwGzom3ttIcxkZztbq4U"
     },
     {
       "added_at": "2024-04-01 18:12:12",

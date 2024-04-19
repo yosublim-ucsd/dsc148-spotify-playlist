@@ -46,7 +46,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224000,
       "name": "10 Preludes, Op. 23: No. 5 Alla marcia in G Minor",
       "url": "https://open.spotify.com/track/0FuZu5ggJemfqBorcUCJEr"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "10 Preludes, Op.23: No.5 Alla marcia In G Minor",
       "url": "https://open.spotify.com/track/3SBvLJ5TcCxBqGNk27X2bh"
@@ -410,6 +410,28 @@
     {
       "album": {
         "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
+        "url": "https://open.spotify.com/album/1goHbSFkoo85VQenZgy7rB"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Yevgeny Sudbin",
+          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
+        }
+      ],
+      "date_added": "2020-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524360,
+      "name": "Danse macabre, Op. 40 (Arr. F. Liszt, V. Horowitz and y. Sudbin for piano)",
+      "url": "https://open.spotify.com/track/4iUQ9SxroN3CtLIzwdf8HB"
+    },
+    {
+      "album": {
+        "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
         "url": "https://open.spotify.com/album/1QRHNQGGVAe6JBvFx2W9Dp"
       },
       "artists": [
@@ -424,40 +446,10 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 524360,
       "name": "Danse macabre, Op. 40 (Arr. F. Liszt, V. Horowitz and y. Sudbin for piano)",
       "url": "https://open.spotify.com/track/7nb3EYuiI4OGfxStgykaTu"
-    },
-    {
-      "album": {
-        "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
-        "url": "https://open.spotify.com/album/1goHbSFkoo85VQenZgy7rB"
-      },
-      "artists": [
-        {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
-        },
-        {
-          "name": "Yevgeny Sudbin",
-          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
-        },
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        }
-      ],
-      "date_added": "2020-11-03",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
-      "duration_ms": 524360,
-      "name": "Danse macabre, Op. 40 (arr. F. Liszt, V. Horowitz and Y. Sudbin for piano)",
-      "url": "https://open.spotify.com/track/4iUQ9SxroN3CtLIzwdf8HB"
     },
     {
       "album": {
@@ -622,7 +614,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214625,
       "name": "El sombrero de tres picos, Pt. 1: III. Danza de la molinera",
       "url": "https://open.spotify.com/track/0cKn0mxptvpwXpEmPGOhVm"
@@ -648,7 +640,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214625,
       "name": "El sombrero de tres picos, Pt. 1: III. Danza de la molinera",
       "url": "https://open.spotify.com/track/5lXVUcoaKzOMzmNo11jcSe"
@@ -888,7 +880,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226880,
       "name": "Jenkins: Palladio, for Strings (Excerpt, Allegretto)",
       "url": "https://open.spotify.com/track/7tRoCdhlg4QYrSMgmJvk0p"
@@ -1226,7 +1218,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226880,
       "name": "Palladio: 1. Allegretto (arr. for Strings Orchestra)",
       "url": "https://open.spotify.com/track/4FycxLfl7H5CQnqw9J6LXZ"
@@ -1256,7 +1248,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 793480,
       "name": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato - Live",
       "url": "https://open.spotify.com/track/0N1nVucqKLpIQVuVZyi8t8"
@@ -1286,7 +1278,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 793480,
       "name": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato - Live",
       "url": "https://open.spotify.com/track/1vgGl6mPx20aNSedXZsUMs"
@@ -1406,7 +1398,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 950280,
       "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live",
       "url": "https://open.spotify.com/track/34YFX8uRJD6XqQS1ZarzzS"
@@ -1443,7 +1435,7 @@
     },
     {
       "album": {
-        "name": "Rachmaninov: Piano Concerto No.3 In D Minor, Op.30 / Prokofiev: Piano Concerto No.2 In G Minor, Op.16 (Live From Caracas / 2013)",
+        "name": "Rachmaninoff: Piano Concerto No. 3 in D Minor, Op. 30 / Prokofiev: Piano Concerto No. 2 in G Minor, Op. 16 (Live)",
         "url": "https://open.spotify.com/album/1oRI5tMJtYyl5FHIKmZbFY"
       },
       "artists": [
@@ -1466,7 +1458,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 950280,
       "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live",
       "url": "https://open.spotify.com/track/636vk4x62hzOZ667m9qBmY"
@@ -1942,7 +1934,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 576653,
       "name": "Symphony No. 3 in A Minor, Op. 56, MWV N 18 \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
       "url": "https://open.spotify.com/track/0dYaZeUGUgjmRnjyvR1RWg"
@@ -1968,7 +1960,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 576653,
       "name": "Symphony No. 3 In A Minor, Op. 56, MWV N 18 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
       "url": "https://open.spotify.com/track/4I024wasuUj1tEm6t7Uz5x"
@@ -2072,7 +2064,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 575173,
       "name": "Symphony No. 4 in F Minor, Op. 36: IV. Finale: Allegro con fuoco",
       "url": "https://open.spotify.com/track/3HglqdUmZR3bWR9bRMqg9g"
@@ -2150,7 +2142,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/2ygeBLTP9uu3OW3VTulD8N"
@@ -2176,7 +2168,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
@@ -2314,32 +2306,6 @@
     {
       "album": {
         "name": "Schubert: The \"Great\" C Major Symphony, D. 944",
-        "url": "https://open.spotify.com/album/0ZFerxsAdIbjhBSkRYw23Q"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Orchestra Mozart",
-          "url": "https://open.spotify.com/artist/1S6UMudOfIzmElOoNqexko"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "date_added": "2022-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 965120,
-      "name": "Symphony No. 9 in C Major, D. 944 \"The Great\": IV. Finale. Allegro vivace",
-      "url": "https://open.spotify.com/track/6zd0e7A18ZauLjaRJprxrx"
-    },
-    {
-      "album": {
-        "name": "Schubert: The \"Great\" C Major Symphony, D. 944",
         "url": "https://open.spotify.com/album/37pGiXzZnvIONKSta7pAyn"
       },
       "artists": [
@@ -2358,10 +2324,36 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 965120,
-      "name": "Symphony No. 9 In C Major, D. 944 - \"The Great\": IV. Allegro vivace",
+      "name": "Symphony No. 9 in C Major, D. 944 \"The Great\": IV. Finale. Allegro vivace",
       "url": "https://open.spotify.com/track/26tANqldIcKzynlqb4HLyd"
+    },
+    {
+      "album": {
+        "name": "Schubert: The \"Great\" C Major Symphony, D. 944",
+        "url": "https://open.spotify.com/album/0ZFerxsAdIbjhBSkRYw23Q"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Orchestra Mozart",
+          "url": "https://open.spotify.com/artist/1S6UMudOfIzmElOoNqexko"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 965120,
+      "name": "Symphony No. 9 in C Major, D. 944 \"The Great\": IV. Finale. Allegro vivace",
+      "url": "https://open.spotify.com/track/6zd0e7A18ZauLjaRJprxrx"
     },
     {
       "album": {
@@ -2490,7 +2482,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 685000,
       "name": "Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": IV. Allegro con fuoco",
       "url": "https://open.spotify.com/track/6nqHzwOdGIaX57U6VU6kMO"
@@ -2516,7 +2508,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 685000,
       "name": "Symphony No.9 In E Minor, Op.95, B. 178 \"From The New World\": 4. Allegro con fuoco",
       "url": "https://open.spotify.com/track/61WPkxq6gvXSfJLTyzm62L"
@@ -2542,7 +2534,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 575160,
       "name": "Tchaikovsky: Symphony No. 4 in F Minor, Op. 36: IV. Finale (Allegro con fuoco)",
       "url": "https://open.spotify.com/track/14WfxpeSoB2YgOSyzeNJGZ"

@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Once I Caught A Fish Alive",
+        "url": "https://open.spotify.com/album/45uPeLPoY0x1l8Kge7L1XN"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Once I Caught A Fish Alive",
+      "url": "https://open.spotify.com/track/7qmPqpOy2m1kmd0u9GNYar"
+    },
+    {
+      "album": {
         "name": "Marley (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204740,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/2KgDN89wIbocdgIBXrCi0b"

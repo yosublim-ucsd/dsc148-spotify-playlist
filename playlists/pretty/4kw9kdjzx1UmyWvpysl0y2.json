@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126513,
+  "num_followers": 126490,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY2MiwwNDExMjc3OTk4MWIxZGM3Y2Q0ZTE0ODAzOWM3MjlkMzUyYTMwYjEz",
+  "snapshot_id": "NDY2Niw5MzZlM2ZmOGY3Nzc2YmVjYjUwM2MwODc3ZGE2ZTNjNWExYjFiNDdm",
   "tracks": [
+    {
+      "added_at": "2024-04-18 17:09:38",
+      "album": {
+        "name": "Lost Call / Underwater",
+        "url": "https://open.spotify.com/album/3NIN1m1TRqzS3H28lE1jeV"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "duration_ms": 277734,
+      "name": "Lost Call",
+      "url": "https://open.spotify.com/track/3zpbvOJzNlCm6BsDmegds3"
+    },
+    {
+      "added_at": "2024-04-17 17:10:22",
+      "album": {
+        "name": "FASTEST",
+        "url": "https://open.spotify.com/album/6PPdZI6Qg0AzTS10i2qxwl"
+      },
+      "artists": [
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        },
+        {
+          "name": "CLOUD ZERO",
+          "url": "https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "FASTEST",
+      "url": "https://open.spotify.com/track/2SFTvk2vpu26ZTpMuO3cjW"
+    },
     {
       "added_at": "2024-04-16 16:56:22",
       "album": {
@@ -1159,26 +1195,6 @@
       "duration_ms": 195250,
       "name": "Prism",
       "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
-    },
-    {
-      "added_at": "2024-01-29 20:05:44",
-      "album": {
-        "name": "u want me 2.0",
-        "url": "https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 129103,
-      "name": "u want me 2.0",
-      "url": "https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

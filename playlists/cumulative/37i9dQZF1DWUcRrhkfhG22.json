@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 187904,
       "name": "Baby - Short Version",
       "url": "https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187904,
       "name": "Baby - Short Version",
       "url": "https://open.spotify.com/track/2vYhju4THfPTF7gTEjaZvr"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310412,
       "name": "Back",
       "url": "https://open.spotify.com/track/3VpzfeLGVlnFkhJyt4gwSL"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 310413,
       "name": "Back",
       "url": "https://open.spotify.com/track/0P7iti2eENyzPjWjvGaRzs"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 347720,
       "name": "Break-Out",
       "url": "https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347720,
       "name": "Break-Out",
       "url": "https://open.spotify.com/track/6jkw6ers6QNSIn5lxkp11N"
@@ -320,7 +320,7 @@
     {
       "album": {
         "name": "The Voyage Never Ends...",
-        "url": "https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx"
+        "url": "https://open.spotify.com/album/4ZUJhoZxGSTPoPYfgxDUAY"
       },
       "artists": [
         {
@@ -331,6 +331,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 304520,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/39aS1vayAYmSDhofk4paai"
+    },
+    {
+      "album": {
+        "name": "The Voyage Never Ends...",
+        "url": "https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx"
+      },
+      "artists": [
+        {
+          "name": "Captain Supernova",
+          "url": "https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 304521,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/174JRizws7VqM3oCF8zruo"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 392573,
       "name": "Computer Funk",
       "url": "https://open.spotify.com/track/11D6lI4wkPYS4pgAwcVa5z"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 392573,
       "name": "Computer Funk",
       "url": "https://open.spotify.com/track/4pP7kcJEo55xmH9Z9oPsrP"
@@ -402,7 +420,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 233739,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/2TsASKFLtMb6M1D8W42pS3"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233739,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/5X4PAws5oW5K22G6Ic17AV"
@@ -504,7 +522,7 @@
     {
       "album": {
         "name": "Dance The Night Away",
-        "url": "https://open.spotify.com/album/7HovFkCzy5Z9Hi1o9KWNcx"
+        "url": "https://open.spotify.com/album/0aQHjnlOejjvDkJyGTUkNq"
       },
       "artists": [
         {
@@ -519,6 +537,28 @@
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Dance The Night Away",
+      "url": "https://open.spotify.com/track/3PIUg9bFkZfZgbizKwrEl9"
+    },
+    {
+      "album": {
+        "name": "Dance The Night Away",
+        "url": "https://open.spotify.com/album/7HovFkCzy5Z9Hi1o9KWNcx"
+      },
+      "artists": [
+        {
+          "name": "Diamond Lounge",
+          "url": "https://open.spotify.com/artist/3GoqvGUih77Q03m7CkusNb"
+        },
+        {
+          "name": "People Of The Parallel",
+          "url": "https://open.spotify.com/artist/1xl5tmlVgmpLe6NOL1IjQm"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 194000,
       "name": "Dance The Night Away",
       "url": "https://open.spotify.com/track/5YxD0O5KR5MTrTnwujFziJ"
@@ -554,10 +594,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267223,
       "name": "Do that dance",
       "url": "https://open.spotify.com/track/5GoI2NdKncz3WERdzO68KV"
+    },
+    {
+      "album": {
+        "name": "Modogsta",
+        "url": "https://open.spotify.com/album/3nyordtLFVZP1XfvA5Ji9B"
+      },
+      "artists": [
+        {
+          "name": "Modogsta",
+          "url": "https://open.spotify.com/artist/786qXsqlTqvPpf5ncqTOWV"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Do That Dance",
+      "url": "https://open.spotify.com/track/2f1l7isCgkSAHnjeWp8CLg"
     },
     {
       "album": {
@@ -730,7 +788,7 @@
     {
       "album": {
         "name": "My Time",
-        "url": "https://open.spotify.com/album/0m5koUYDRGH9y53Kv9v9kV"
+        "url": "https://open.spotify.com/album/2WmBBecj0WTxRe1rAvraxG"
       },
       "artists": [
         {
@@ -741,6 +799,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202176,
+      "name": "Funkadelic Sound",
+      "url": "https://open.spotify.com/track/6EqhL2LqkxKvl238nvt3rK"
+    },
+    {
+      "album": {
+        "name": "My Time",
+        "url": "https://open.spotify.com/album/0m5koUYDRGH9y53Kv9v9kV"
+      },
+      "artists": [
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 202213,
       "name": "Funkadelic Sound",
       "url": "https://open.spotify.com/track/4Nh2oQHhRcVy16qYbRQ2Fw"
@@ -762,10 +838,32 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242352,
       "name": "Gangsta Boogaloos Theme",
       "url": "https://open.spotify.com/track/6RQWNvjlYtkaOhvyeho5EO"
+    },
+    {
+      "album": {
+        "name": "The Way of Street Dance, Vol.2",
+        "url": "https://open.spotify.com/album/4jlnSC0KapvZEjmWgX3D3h"
+      },
+      "artists": [
+        {
+          "name": "The Sleepers RecordZ",
+          "url": "https://open.spotify.com/artist/7t71EyKcDTtGXsmxvb9aRM"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2Eb9qjMKYLcykVNGU7LK2t"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242352,
+      "name": "Gangsta Boogaloos Theme (feat. Swan)",
+      "url": "https://open.spotify.com/track/4ulK01u2JEvcoArPxxjQ4u"
     },
     {
       "album": {
@@ -958,10 +1056,28 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 379695,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/2MSaqH6YRPN15sStlE9D4B"
+    },
+    {
+      "album": {
+        "name": "Hey Girl",
+        "url": "https://open.spotify.com/album/5BR6xslCEvi0UuLTjEHKVu"
+      },
+      "artists": [
+        {
+          "name": "Abekejser",
+          "url": "https://open.spotify.com/artist/3SC5UVDF2iMjJt0Oyh3Tbb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379695,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/6BcBsiKLMDvekCVvg5SLui"
     },
     {
       "album": {
@@ -1016,7 +1132,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238182,
       "name": "I Can Make Ya",
       "url": "https://open.spotify.com/track/5G5WPmrYWnTBEeLMRqICP9"
@@ -1034,7 +1150,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 238182,
       "name": "I Can Make Ya",
       "url": "https://open.spotify.com/track/5kkbdQmOMbSReknRRGi72G"
@@ -1248,10 +1364,32 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201733,
       "name": "More Than A Lover - Remix",
       "url": "https://open.spotify.com/track/0YzS2vJwkzvoHHhjCzbNx2"
+    },
+    {
+      "album": {
+        "name": "Help 2.0",
+        "url": "https://open.spotify.com/album/6ovRbwijSiDwYB8H5eg52M"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201732,
+      "name": "More Than a Lover Remix (feat. Mr. Talkbox)",
+      "url": "https://open.spotify.com/track/2Hkikbq9geAVPYcSg740p1"
     },
     {
       "album": {
@@ -1310,7 +1448,7 @@
     {
       "album": {
         "name": "This Day EP",
-        "url": "https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ"
+        "url": "https://open.spotify.com/album/1DNHoVmaDggZwxNWxTpBpA"
       },
       "artists": [
         {
@@ -1321,6 +1459,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 244599,
+      "name": "Pomslap",
+      "url": "https://open.spotify.com/track/3CNHLmc5GzNIjg1vGIlpzk"
+    },
+    {
+      "album": {
+        "name": "This Day EP",
+        "url": "https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ"
+      },
+      "artists": [
+        {
+          "name": "Pomrad",
+          "url": "https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 244637,
       "name": "Pomslap",
       "url": "https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK"
@@ -1617,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Westcoast Pioneers",
+        "url": "https://open.spotify.com/album/1aLkb2K8vKMUNqqiP4H6F3"
+      },
+      "artists": [
+        {
+          "name": "Funkmaster Ozone",
+          "url": "https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381413,
+      "name": "Talkbox Fever",
+      "url": "https://open.spotify.com/track/741K35Z045CvjLtQwiC7Z3"
+    },
+    {
+      "album": {
         "name": "Released and Unreleased, Vol. 1",
         "url": "https://open.spotify.com/album/0iSIU1wDFfiJzV4sJ5L2gw"
       },
@@ -1632,7 +1806,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381413,
       "name": "Talkbox Fever (feat. the Talkbox Allstars)",
       "url": "https://open.spotify.com/track/45hT7TQvXxSXRoByXERCEf"
@@ -1668,10 +1842,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289845,
       "name": "Temu's Talkbox Groove",
       "url": "https://open.spotify.com/track/2JTXaMVZ2da6nP1cgqndU3"
+    },
+    {
+      "album": {
+        "name": "Relic of the Mothership",
+        "url": "https://open.spotify.com/album/0NeMpj9TZYZAtow1wQVAqJ"
+      },
+      "artists": [
+        {
+          "name": "Temu",
+          "url": "https://open.spotify.com/artist/6qqTmbtiK0b7OBYZtvFwlW"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289845,
+      "name": "Temu\u2019s Talkbox Groove",
+      "url": "https://open.spotify.com/track/40zh3tDWXFGbm5LETjmaEy"
     },
     {
       "album": {
@@ -1704,10 +1896,32 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227642,
       "name": "Throw Down",
       "url": "https://open.spotify.com/track/7BrvrJ78kPJ9Ug9OgEyisJ"
+    },
+    {
+      "album": {
+        "name": "Injection",
+        "url": "https://open.spotify.com/album/4NYputLvdQZ8tHfzvORbp7"
+      },
+      "artists": [
+        {
+          "name": "Dogg Master",
+          "url": "https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy"
+        },
+        {
+          "name": "Fabrice D'Aversa",
+          "url": "https://open.spotify.com/artist/2x1dVWYqopFOohqZ5ap1Rq"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227642,
+      "name": "Throw Down",
+      "url": "https://open.spotify.com/track/2ZugHO1sgUpr12qRYDOweo"
     },
     {
       "album": {
@@ -1766,7 +1980,7 @@
     {
       "album": {
         "name": "Lost in Space",
-        "url": "https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH"
+        "url": "https://open.spotify.com/album/2kdKsa0iKJ98bOBSAKpgJp"
       },
       "artists": [
         {
@@ -1777,6 +1991,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 383493,
+      "name": "We are the Jonzun Crew",
+      "url": "https://open.spotify.com/track/47P4iI2RAFDY2WqK7h9iUN"
+    },
+    {
+      "album": {
+        "name": "Lost in Space",
+        "url": "https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH"
+      },
+      "artists": [
+        {
+          "name": "Jonzun Crew",
+          "url": "https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 383541,
       "name": "We are the Jonzun Crew",
       "url": "https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e"
@@ -1798,7 +2030,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 342186,
       "name": "What U Do",
       "url": "https://open.spotify.com/track/3rw6Y1CGiJcnQ27QyYpZ6f"
@@ -1820,7 +2052,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342186,
       "name": "What U Do",
       "url": "https://open.spotify.com/track/4Y6D4pNgcDIQ0zeeARUmcd"
@@ -1856,7 +2088,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219477,
       "name": "Winning",
       "url": "https://open.spotify.com/track/5MAAoqcWFV9jliGzvQuGtO"
@@ -1874,10 +2106,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 219477,
       "name": "Winning",
       "url": "https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo"
+    },
+    {
+      "album": {
+        "name": "With The Music",
+        "url": "https://open.spotify.com/album/5Qg5w2L6uQJJJPmRuHTq0t"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377133,
+      "name": "With The Music",
+      "url": "https://open.spotify.com/track/578cb8sQkTcKQzxNOvBVdj"
     },
     {
       "album": {
@@ -1892,7 +2142,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377584,
       "name": "With the Music",
       "url": "https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe"
@@ -1928,10 +2178,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246066,
       "name": "With You",
       "url": "https://open.spotify.com/track/4hze9blDumACXuOsOq22qc"
+    },
+    {
+      "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/7B0rOjUfqXg8xyTnXPRQoi"
+      },
+      "artists": [
+        {
+          "name": "REAL DAZE",
+          "url": "https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246066,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5SNgj8iWz3puL0jiiJxrbI"
     },
     {
       "album": {
@@ -1964,7 +2232,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 248634,
       "name": "With You",
       "url": "https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ"
@@ -2000,7 +2268,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248634,
       "name": "With You",
       "url": "https://open.spotify.com/track/40NCmCoLUqL62ZaUWBI2Qv"

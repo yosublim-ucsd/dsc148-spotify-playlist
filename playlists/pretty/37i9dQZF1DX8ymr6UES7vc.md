@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Simply rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,201 likes - 298 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,810 likes - 298 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 35 | [Tea Time](https://open.spotify.com/track/6JWOqDfH29aU6BEQcNwjuz) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Tea Time](https://open.spotify.com/album/2fVKPaT3TrKbvJp0lHSWDf) | 2:24 |
 | 36 | [Falling Asleep \(Rain\)](https://open.spotify.com/track/7aUgXN9QhXUKZYQwqRaeCS) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calm Rain on Window](https://open.spotify.com/album/6IfQs8RN82tVkaDX5ewolm) | 2:50 |
 | 37 | [Rain In Swedish Forest](https://open.spotify.com/track/1aRixyBLiOkyVDMoP3Va6l) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 7](https://open.spotify.com/album/0QRu0qcWtW0jEwH0nNS3od) | 2:15 |
-| 38 | [slumber drops](https://open.spotify.com/track/1ClAwXUxMbV1ypBv4dUo6a) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [slumber drops](https://open.spotify.com/album/1D2ojctAm1Rl42iwZnSWwp) | 2:38 |
+| 38 | [slumber drops](https://open.spotify.com/track/1xACGnZObG7WtwWDCGgyzI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [slumber drops](https://open.spotify.com/album/45Nh9kf3RNMfFfWo1FkJF0) | 2:38 |
 | 39 | [Wonderful Rain](https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:31 |
 | 40 | [Eye Of The Storm](https://open.spotify.com/track/6pxSZmtSm4GygcOKcxkV5D) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Episode One](https://open.spotify.com/album/0LmoB3rBXBGCdEDquHXKmA) | 3:46 |
 | 41 | [Rainfall Retreat: Zen in Your Ears](https://open.spotify.com/track/1N4fgDLtBwOAm9a0IXUCuf) | [Lush Rain Creators](https://open.spotify.com/artist/6NLQjUG8UZlZ3wktExKafd) | [Drizzle Dreams: Sleep to the Sound of Rain](https://open.spotify.com/album/5EykfbEgCviCSoyv7i2h4V) | 2:36 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 90 | [Light Rain](https://open.spotify.com/track/30u2QNmxmeJxN7JFOsICOB) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Light Rain](https://open.spotify.com/album/5I4albgvvoMZqzmti4Uyes) | 2:24 |
 | 91 | [Summer Nap](https://open.spotify.com/track/1L2rIfFHucpioSL5MvF9es) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:23 |
 | 92 | [Intense and Caring Forest Rain](https://open.spotify.com/track/23KJcRdmcx4zkCfOxOTn4g) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 3:16 |
-| 93 | [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 |
+| 93 | [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 |
 | 94 | [Waiting](https://open.spotify.com/track/1q0ZGKIkPig119VNdjFYVd) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:37 |
 | 95 | [Gimme Some Rain](https://open.spotify.com/track/1KqJ4mOtP0m4E8uRgevKF3) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part One](https://open.spotify.com/album/5QU8GSm262qFbE6e0eaiXv) | 2:00 |
 | 96 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 |

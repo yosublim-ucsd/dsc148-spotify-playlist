@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-164 songs - 11 hr 40 min
+165 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [traumerei](https://open.spotify.com/track/672pe8mRW04SdGBoRoJGou) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [traumerei](https://open.spotify.com/album/7l00tNu8Kiuawuqwv3o4Kv) | 4:15 | 2022-11-07 | 2022-11-13 |
 | [traumerei](https://open.spotify.com/track/24GwFhh1ByRhPuCBrTQhlW) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:15 | 2022-05-31 |  |
 | [traumerei](https://open.spotify.com/track/3n9uepxPlsNW4gGkwAk9hW) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 4:15 | 2022-05-31 | 2022-07-29 |
-| [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:56 | 2022-05-31 |  |
+| [unlasting](https://open.spotify.com/track/4sy8klhEbwqHc2od9K3p1h) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [unlasting](https://open.spotify.com/album/6KX3psH1IKf8fNaz65uqRP) | 4:55 | 2024-02-20 |  |
+| [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:56 | 2022-05-31 | 2024-04-19 |
 | [ViVA LA MiDALA](https://open.spotify.com/track/2dDNJswbpRBIIN1LNf7nv7) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:04 | 2022-05-31 | 2023-06-14 |
 | [Wake Me Up!](https://open.spotify.com/track/2AqHEeNCiY2Xq0E4YlCDWd) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Wake Me Up!](https://open.spotify.com/album/73Sxwha7hL9gcl4GXyXCyH) | 4:43 | 2022-05-31 | 2023-06-14 |
 | [Yobanashi Deseive](https://open.spotify.com/track/0mkNGxmIlBCtkNeWr0PY0n) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Maria](https://open.spotify.com/artist/4BaJdxkFoGLQFYOwcg2ik4) | [Mekakucity M's 2 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3SSYinciPEWb4y9V6HOS6m) | 3:21 | 2023-06-13 |  |

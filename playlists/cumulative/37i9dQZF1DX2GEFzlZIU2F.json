@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207808,
       "name": "A Villain's Monologue",
       "url": "https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "A Villain's Monologue",
       "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
@@ -118,10 +118,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225786,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
+    },
+    {
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv"
     },
     {
       "album": {
@@ -136,10 +154,46 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158372,
       "name": "Always Happy",
       "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
+    },
+    {
+      "album": {
+        "name": "Always Happy",
+        "url": "https://open.spotify.com/album/3BvygxzbzswFKbo3DKzbXt"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158372,
+      "name": "Always Happy",
+      "url": "https://open.spotify.com/track/5MB2xF8ziRtSqwuncTOlxk"
+    },
+    {
+      "album": {
+        "name": "Big Attraction & Giddy Up",
+        "url": "https://open.spotify.com/album/2eVCT2AwENSHg4RkLvylrq"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Balaclava Lover Boogie",
+      "url": "https://open.spotify.com/track/7ET6ozbY1slyStJtw16ksX"
     },
     {
       "album": {
@@ -154,7 +208,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220248,
       "name": "Balaclava Lover Boogie",
       "url": "https://open.spotify.com/track/7uH0nz7Nx000UWPdmjX7hB"
@@ -280,10 +334,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181103,
       "name": "EAT",
       "url": "https://open.spotify.com/track/2vtGHsoRG9XXhNcGbHhnbH"
+    },
+    {
+      "album": {
+        "name": "EAT (NXT Soundtrack)",
+        "url": "https://open.spotify.com/album/64qHcKFcreaFc70UtMFUMM"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181103,
+      "name": "EAT",
+      "url": "https://open.spotify.com/track/4Qy7Rg1XSO4MLzGnQfmkkJ"
     },
     {
       "album": {
@@ -334,10 +406,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175182,
       "name": "FUCK YOU HEATHER",
       "url": "https://open.spotify.com/track/2VbsGWuMaeIN7cuAbgzmJ6"
+    },
+    {
+      "album": {
+        "name": "Garden Spider",
+        "url": "https://open.spotify.com/album/1u9k047IwSgCmfe0ntBN15"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175182,
+      "name": "FUCK YOU HEATHER",
+      "url": "https://open.spotify.com/track/30FosPI4sl7D7aLCgNKF0s"
     },
     {
       "album": {
@@ -356,7 +446,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 148053,
       "name": "GASLIGHT!",
       "url": "https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci"
@@ -378,7 +468,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148053,
       "name": "GASLIGHT!",
       "url": "https://open.spotify.com/track/5ytuhyU3W7mCIgEirJmNP9"
@@ -432,7 +522,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179833,
       "name": "Groan",
       "url": "https://open.spotify.com/track/04pktsRGucPz8jOgUSx9jp"
@@ -450,7 +540,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 180015,
       "name": "Groan",
       "url": "https://open.spotify.com/track/31o1KS0x48HWW8aJ0SuKGQ"
@@ -530,7 +620,7 @@
     {
       "album": {
         "name": "Inbred",
-        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
+        "url": "https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs"
       },
       "artists": [
         {
@@ -541,6 +631,24 @@
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 287440,
+      "name": "Inbred",
+      "url": "https://open.spotify.com/track/3uxWeXQuZPSHFyIUyNgfWo"
+    },
+    {
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 287440,
       "name": "Inbred",
       "url": "https://open.spotify.com/track/5Y0grFq299FYNvq51ZtmbF"
@@ -566,6 +674,24 @@
     {
       "album": {
         "name": "Treats",
+        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151773,
+      "name": "Infinity Guitars",
+      "url": "https://open.spotify.com/track/0YZmcBJGpDJC8L4ZYdGsRM"
+    },
+    {
+      "album": {
+        "name": "Treats",
         "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
       "artists": [
@@ -576,7 +702,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151773,
       "name": "Infinity Guitars",
       "url": "https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7"
@@ -598,10 +724,32 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157752,
+      "name": "LEGEND",
+      "url": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
     },
     {
       "album": {
@@ -616,10 +764,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175760,
       "name": "Let's Make Out",
       "url": "https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO"
+    },
+    {
+      "album": {
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/5ALipDbGrV5mJxJqt1MNN1"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "Let's Make Out",
+      "url": "https://open.spotify.com/track/3tgbbJ2XFGiNY5kMAdAn97"
     },
     {
       "album": {
@@ -670,10 +836,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184756,
       "name": "MMMOOOAAAAAYAYA",
       "url": "https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk"
+    },
+    {
+      "album": {
+        "name": "MMMOOOAAAAAYAYA",
+        "url": "https://open.spotify.com/album/6vLZTDbsUAVSQu5m0Xn9dJ"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184756,
+      "name": "MMMOOOAAAAAYAYA",
+      "url": "https://open.spotify.com/track/6wOT4xSBIfD6oxSv7dGE6S"
     },
     {
       "album": {
@@ -778,7 +962,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G"
@@ -814,10 +998,28 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"
+    },
+    {
+      "album": {
+        "name": "Pink Rover",
+        "url": "https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR"
     },
     {
       "album": {
@@ -832,10 +1034,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118863,
       "name": "Pink Rover",
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "album": {
+        "name": "Blue Weekend (Tour Deluxe)",
+        "url": "https://open.spotify.com/album/0j75DAUcUgkSLZoeNiAAY1"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147664,
+      "name": "Play The Greatest Hits",
+      "url": "https://open.spotify.com/track/3XtIE26T5Ea7o10ggT1F6x"
     },
     {
       "album": {
@@ -850,7 +1070,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147666,
       "name": "Play the Greatest Hits",
       "url": "https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX"
@@ -1016,7 +1236,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203994,
       "name": "STFU!",
       "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
@@ -1034,7 +1254,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 203994,
       "name": "STFU!",
       "url": "https://open.spotify.com/track/2S3KvNGyadSvbSr2C1JpDB"
@@ -1070,7 +1290,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223018,
       "name": "The Cheek",
       "url": "https://open.spotify.com/track/5ixC1NfXGoGSs2J9ZdXOeZ"
@@ -1088,7 +1308,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 223018,
       "name": "The Cheek",
       "url": "https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X"
@@ -1124,10 +1344,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176266,
       "name": "The Rip",
       "url": "https://open.spotify.com/track/09IebwKbhmkTz8FW8pC0zE"
+    },
+    {
+      "album": {
+        "name": "The Rip",
+        "url": "https://open.spotify.com/album/66VcDksRnEDw1LSfeYI46t"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176266,
+      "name": "The Rip",
+      "url": "https://open.spotify.com/track/7nOxBhNVyZhUjUGEQ0AjkR"
     },
     {
       "album": {
@@ -1190,6 +1428,24 @@
     {
       "album": {
         "name": "Who's Got My Lighter?",
+        "url": "https://open.spotify.com/album/6553EQ7dlKlvYVFEk4H8BZ"
+      },
+      "artists": [
+        {
+          "name": "Panic Shack",
+          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Who's Got My Lighter?",
+      "url": "https://open.spotify.com/track/0MjJkPfHfFgTg9O3t1iypb"
+    },
+    {
+      "album": {
+        "name": "Who's Got My Lighter?",
         "url": "https://open.spotify.com/album/7fqONBEazCdEoUHby6uwlm"
       },
       "artists": [
@@ -1200,7 +1456,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190333,
       "name": "Who's Got My Lighter?",
       "url": "https://open.spotify.com/track/3MJekXiIAzupvp8wQop8zL"
@@ -1254,10 +1510,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133413,
       "name": "Yuk Foo",
       "url": "https://open.spotify.com/track/5RmOHOEZxoMryrW3WiE9Jg"
+    },
+    {
+      "album": {
+        "name": "Visions Of A Life",
+        "url": "https://open.spotify.com/album/7Mn6FjNopuROYZLIN91hhe"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133413,
+      "name": "Yuk Foo",
+      "url": "https://open.spotify.com/track/6RExQcl7BFkVmUEo1zf6QW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2GEFzlZIU2F"

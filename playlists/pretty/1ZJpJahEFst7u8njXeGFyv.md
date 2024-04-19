@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 309,781 likes - 202 songs - 13 hr 35 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 309,687 likes - 202 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 6 | [Stay](https://open.spotify.com/track/5saIh79M2WQdA2WBakzrD8) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Stay](https://open.spotify.com/album/4Z22hUgQ17J785sqjJzLCj) | 2:35 |
 | 7 | [Myrthen, Op\. 25: No\. 24 \- Du bist wie eine Blume](https://open.spotify.com/track/30zhs5LCgnAVZWwlPhsfxS) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Myrthen, Op\. 25: No\. 24 \- Du bist wie eine Blume](https://open.spotify.com/album/0K7M942rxV2r60HwRJnxwD) | 1:41 |
 | 8 | [The Way It Was](https://open.spotify.com/track/7B5Xs96cpGcl4zHNuZ9nLB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Way It Was](https://open.spotify.com/album/1OOhYgpQiNlwt17PDvMkPM) | 3:20 |
-| 9 | [Experience](https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Experience](https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3) | 5:44 |
+| 9 | [Experience](https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Experience](https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3) | 5:44 |
 | 10 | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/25UvpN42Ghr4OdUcDmytqU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/album/19URJzQHLZGf3TbfKSsN3D) | 5:17 |
 | 11 | [Midnight](https://open.spotify.com/track/7vZOGV8RLj3ylOmaWw5NSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Midnight](https://open.spotify.com/album/1jKQP76G48Kjdhk2ka3jAz) | 3:03 |
 | 12 | [The Seasons, Op\. 37b: X\. October "Autumn Song" \(Arr\. for Violin and Orchestra by Matthias Spindler\)](https://open.spotify.com/track/0FXohm4jfrf3eUa3TItqIz) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Luka Faulisi](https://open.spotify.com/artist/2KtIu7iMseGtOPctMbh6P3), [Martyna Pastuszka](https://open.spotify.com/artist/1WxdwuAJj8RrWVit3p4xVk), [{oh!} Orkiestra](https://open.spotify.com/artist/4xGOi4Iqowq0b2bSi566b8) | [The Seasons, Op\. 37b: X\. October "Autumn Song" \(Arr\. for Violin and Orchestra by Matthias Spindler\)](https://open.spotify.com/album/0cBPY4mDA6vAfWZ4ZUJtdm) | 4:15 |

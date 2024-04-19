@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 163723,
       "name": "Bendici\u00f3n o Desgracia",
       "url": "https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163723,
       "name": "Bendici\u00f3n o Desgracia",
       "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
@@ -276,6 +276,28 @@
     {
       "album": {
         "name": "Indiana Jones",
+        "url": "https://open.spotify.com/album/6hmtx7jtsC6MR1guEHolUo"
+      },
+      "artists": [
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        },
+        {
+          "name": "Gambeta",
+          "url": "https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238290,
+      "name": "Buenos Di\u0301as Vietnam",
+      "url": "https://open.spotify.com/track/2VgeQUk0yFRZy9yksb6kES"
+    },
+    {
+      "album": {
+        "name": "Indiana Jones",
         "url": "https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6"
       },
       "artists": [
@@ -290,7 +312,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238290,
       "name": "Buenos D\u00edas Vietnam",
       "url": "https://open.spotify.com/track/2ieyIDwlghKt45bqH19sOg"
@@ -606,6 +628,24 @@
     {
       "album": {
         "name": "Mestizo",
+        "url": "https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211181,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45"
+    },
+    {
+      "album": {
+        "name": "Mestizo",
         "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
       },
       "artists": [
@@ -620,7 +660,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211181,
       "name": "Deja",
       "url": "https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e"
@@ -894,7 +934,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195164,
       "name": "fruti\u00f1o",
       "url": "https://open.spotify.com/track/3hDU4KpyHbpZfbkGf6YorE"
@@ -912,7 +952,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 195164,
       "name": "fruti\u00f1o",
       "url": "https://open.spotify.com/track/4QP4LwWOI0ZptrJv0oG8xB"
@@ -1102,10 +1142,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229078,
       "name": "La Llave del Universo",
       "url": "https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW"
+    },
+    {
+      "album": {
+        "name": "La Llave del Universo",
+        "url": "https://open.spotify.com/album/6QpW9A1c59mW2P4rzFzn18"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229078,
+      "name": "La Llave del Universo",
+      "url": "https://open.spotify.com/track/5eaYZliqtzLBGx1EoWR6Xg"
     },
     {
       "album": {
@@ -1440,10 +1498,36 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231111,
       "name": "Monedas de Cuero",
       "url": "https://open.spotify.com/track/1zKgCSYahoo20slcNNB6v2"
+    },
+    {
+      "album": {
+        "name": "Monedas de Cuero",
+        "url": "https://open.spotify.com/album/3XNHDvIIwHIWdke54EhtwJ"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        },
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Monedas de Cuero",
+      "url": "https://open.spotify.com/track/5xx6uaIWUyuBZKdtWAX6oy"
     },
     {
       "album": {
@@ -1465,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Negras Intenciones",
+        "url": "https://open.spotify.com/album/4jFYTMgkowk7OgoPVKmyWq"
+      },
+      "artists": [
+        {
+          "name": "Vic Deal",
+          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Negras Intenciones",
+      "url": "https://open.spotify.com/track/74fj6POMz8SY1HVQEU41Ws"
+    },
+    {
+      "album": {
         "name": "La Costa Nostra",
         "url": "https://open.spotify.com/album/5j9SyZb3KSc3iqHJa3AM1S"
       },
@@ -1480,7 +1582,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149333,
       "name": "Negras Intenciones",
       "url": "https://open.spotify.com/track/7pWK9idSNGg6qUvnwUvBc8"
@@ -1516,10 +1618,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240608,
       "name": "No Est\u00e1 en Venta",
       "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
+    },
+    {
+      "album": {
+        "name": "No Est\u00e1 En Venta",
+        "url": "https://open.spotify.com/album/2D2Q3l7DjVVcR4fF1n1g1H"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 En Venta",
+      "url": "https://open.spotify.com/track/3w1bk17tZucjuuVE4gPvc4"
     },
     {
       "album": {
@@ -1564,7 +1684,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156925,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/3iVuCCtTBOVHwiyzb4USXk"
@@ -1581,12 +1701,12 @@
         },
         {
           "name": "Ruben Chi",
-          "url": "https://open.spotify.com/artist/1Zu6vTdmWNYpvrP2FhNqwD"
+          "url": "https://open.spotify.com/artist/6qoEL731eyLH1w9aZK1pxK"
         }
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 156925,
       "name": "Otra Vez (Prod Ruben Chi)",
       "url": "https://open.spotify.com/track/4xUfaHjJg3N9xQbUjVadwA"
@@ -1608,7 +1728,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 146750,
       "name": "Otro Concierto",
       "url": "https://open.spotify.com/track/3D2g4YCGiiSidMABDe9ypA"
@@ -1630,7 +1750,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146826,
       "name": "Otro Concierto (feat. Irepelusa)",
       "url": "https://open.spotify.com/track/3D0WvQvutvdA5L0Fw9H5nA"
@@ -1880,10 +2000,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169194,
       "name": "Recreo",
       "url": "https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V"
+    },
+    {
+      "album": {
+        "name": "Recreo",
+        "url": "https://open.spotify.com/album/3DH1VpVx07RFBJnwhub1cg"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169194,
+      "name": "Recreo",
+      "url": "https://open.spotify.com/track/6AthIk01CYAe3GBYK6rtA7"
     },
     {
       "album": {
@@ -1954,10 +2092,36 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164000,
       "name": "Sadman (feat. El ultimo del tren)",
       "url": "https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1o Caos",
+        "url": "https://open.spotify.com/album/7yjBjpHWCPkjaiL3mFSkqK"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "El ultimo del tren",
+          "url": "https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Sadman (feat. El ultimo del tren)",
+      "url": "https://open.spotify.com/track/0h8ePz8yylHQ6xHZIqoD5y"
     },
     {
       "album": {
@@ -1984,6 +2148,24 @@
     {
       "album": {
         "name": "Sancocho en Le\u00f1a",
+        "url": "https://open.spotify.com/album/0TtpE6U01l6ESBGiXmkmC0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Sancocho en Le\u00f1a",
+      "url": "https://open.spotify.com/track/0To72vcvdvsF7MYKZ9pubq"
+    },
+    {
+      "album": {
+        "name": "Sancocho en Le\u00f1a",
         "url": "https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7"
       },
       "artists": [
@@ -1994,7 +2176,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176000,
       "name": "Sancocho en Le\u00f1a",
       "url": "https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8"
@@ -2108,6 +2290,24 @@
     {
       "album": {
         "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn"
+    },
+    {
+      "album": {
+        "name": "Servicios Ambulatorioz",
         "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
       },
       "artists": [
@@ -2118,7 +2318,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199213,
       "name": "Tararea",
       "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
@@ -2172,7 +2372,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS"
@@ -2194,7 +2394,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199000,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/1gAHoIk7sdqxdXTNRgeYX1"
@@ -2256,10 +2456,36 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213529,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/3qP10K3jeiB2xoz8OZF6nO"
+    },
+    {
+      "album": {
+        "name": "Manjit 1",
+        "url": "https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Elias Wallace",
+          "url": "https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213529,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/70GICKO4fojYsRGUx4nb4z"
     },
     {
       "album": {
@@ -2329,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/1wg1rRJToAGEXNRS6r24Ma"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201804,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/0KS5pkZsWwnJdQJtwFE1UE"
+    },
+    {
+      "album": {
         "name": "Manjit",
         "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
@@ -2340,7 +2584,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201804,
       "name": "Uno",
       "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"

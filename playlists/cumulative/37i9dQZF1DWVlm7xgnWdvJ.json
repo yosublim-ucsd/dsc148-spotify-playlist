@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "Nosso Ritmo",
+        "url": "https://open.spotify.com/album/7cg86ZoPbQjK7wVv3P7vEk"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381933,
+      "name": "Cadenza",
+      "url": "https://open.spotify.com/track/65z49KvgmU4dHJb3MQQyAs"
+    },
+    {
+      "album": {
         "name": "Cadenza",
         "url": "https://open.spotify.com/album/4SDT1aWAajt4ICuwa1sfiN"
       },
@@ -516,7 +538,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383170,
       "name": "Cadenza",
       "url": "https://open.spotify.com/track/4gNxJbUfTJcARZieWGqkQE"
@@ -670,10 +692,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293825,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2ePYAMkoIu8lkTyN1ngG0c"
+    },
+    {
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/2skSxYLa5f6jCfFgdjy9Ky"
+      },
+      "artists": [
+        {
+          "name": "Boris Vian",
+          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293825,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/7BOUPgZw86hNb80jqwP9bR"
     },
     {
       "album": {
@@ -838,10 +878,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349500,
       "name": "Fade Out",
       "url": "https://open.spotify.com/track/5GLF6LLyaK95ydOjStPYiL"
+    },
+    {
+      "album": {
+        "name": "Pulp Fusion",
+        "url": "https://open.spotify.com/album/0yE9A5jrX02pZBHjfLKjYq"
+      },
+      "artists": [
+        {
+          "name": "Adesse Versions",
+          "url": "https://open.spotify.com/artist/2UMMVkgNVl50GCP1goIBRe"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349500,
+      "name": "Fade Out",
+      "url": "https://open.spotify.com/track/763qocahHIWNeEHDPawzSl"
     },
     {
       "album": {
@@ -878,10 +936,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+    },
+    {
+      "album": {
+        "name": "Blood Remixed",
+        "url": "https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310133,
+      "name": "Feel Your Weight - Poolside Remix",
+      "url": "https://open.spotify.com/track/5heenx8v6qCOumRI9jpRBS"
     },
     {
       "album": {
@@ -1002,10 +1082,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 416424,
       "name": "Fuck Music - Session Victim Remix",
       "url": "https://open.spotify.com/track/0z4xztC6tAI0R2ANGr6iJn"
+    },
+    {
+      "album": {
+        "name": "Fuck Music",
+        "url": "https://open.spotify.com/album/3Ya2Hw45F1tVbQC5nOzt21"
+      },
+      "artists": [
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416424,
+      "name": "Fuck Music - Session Victim Remix",
+      "url": "https://open.spotify.com/track/3n91SxUJzodA12o2SlOxfF"
     },
     {
       "album": {
@@ -1086,10 +1188,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306112,
       "name": "Gorgeous (Extended Disco Mix)",
       "url": "https://open.spotify.com/track/587tcic4xEmMXlsZ6qsMwK"
+    },
+    {
+      "album": {
+        "name": "NOSSO RITMO (feat. Confidence Man) [Remixes, Pt. 1]",
+        "url": "https://open.spotify.com/album/5lWHpppjgx1VbMj0Htvicc"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306112,
+      "name": "Gorgeous (feat. Confidence Man) [Extended Disco Mix]",
+      "url": "https://open.spotify.com/track/3BZ8a2OfH31uVFEbSmrasm"
     },
     {
       "album": {
@@ -1108,7 +1232,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317066,
       "name": "Heaven - Nicolas Jaar Remix",
       "url": "https://open.spotify.com/track/35rmKx3LkkRYNOWkVejZlO"
@@ -1130,7 +1254,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 317066,
       "name": "Heaven - Nicolas Jaar Remix",
       "url": "https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI"
@@ -1170,10 +1294,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376459,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1BTFbMjnu87NPOmjNjDT4f"
+    },
+    {
+      "album": {
+        "name": "Ocean Beach Ibiza: The Debut (Compiled & Mixed by Kenny Dope & Tom Crane)",
+        "url": "https://open.spotify.com/album/2ioeUqchcvje1Nzc0dWnwe"
+      },
+      "artists": [
+        {
+          "name": "Guti",
+          "url": "https://open.spotify.com/artist/2r5GDEgYazyOCSj5xi67MM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376459,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6yssr3eJL0BWH0CJDcyx1Q"
     },
     {
       "album": {
@@ -1188,7 +1330,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 358614,
       "name": "I Go",
       "url": "https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV"
@@ -1206,7 +1348,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 358614,
       "name": "I Go",
       "url": "https://open.spotify.com/track/2Vkn1pUamUEfJ9GHul3RJr"
@@ -1231,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Into The Sun",
+        "url": "https://open.spotify.com/album/37GGcijAjQtWkUHbZYwPmL"
+      },
+      "artists": [
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/07mpkMEJczVv3rXW0m5cmG"
+    },
+    {
+      "album": {
         "name": "Flourish",
         "url": "https://open.spotify.com/album/6f1xUyLnfRELUNufnypE3Z"
       },
@@ -1246,7 +1410,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243373,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/5xUomxrzkIr0MAP9YQur24"
@@ -1312,7 +1476,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341028,
       "name": "Kaga Bole Mera - Turbotito & Ragz Rework",
       "url": "https://open.spotify.com/track/2YEFBAV9cmwudwx2JjssZR"
@@ -1338,7 +1502,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 341028,
       "name": "Kaga Bole Mera - Turbotito & Ragz Rework",
       "url": "https://open.spotify.com/track/5TZpfuDzrxy0wehfZrWakN"
@@ -1480,7 +1644,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376671,
       "name": "Labyrinth (Extended Mix)",
       "url": "https://open.spotify.com/track/7zo8uef0YiTXTYO6pioVyW"
@@ -1502,6 +1666,24 @@
       "duration_ms": 376671,
       "name": "Labyrinth - Extended Mix",
       "url": "https://open.spotify.com/track/2DSixYXsxGkbLYxsrP9ZEe"
+    },
+    {
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/6UoyUTZR9qfPCHcVlOGu6v"
+      },
+      "artists": [
+        {
+          "name": "Joakim",
+          "url": "https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376671,
+      "name": "Labyrinth - Extended Mix",
+      "url": "https://open.spotify.com/track/6wlKmivkywKW0E0eVG50mS"
     },
     {
       "album": {
@@ -1592,7 +1774,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 417410,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI"
@@ -1610,7 +1792,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 417410,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/1ccSaqv3pRFBGsrjM2l1pe"
@@ -1668,10 +1850,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 404500,
       "name": "Matrix - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A"
+    },
+    {
+      "album": {
+        "name": "Matrix (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/25KrXRNfR1Ywn1cFHrlRjc"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404500,
+      "name": "Matrix - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/6D1299tqesRwbKZ5NfL8Wh"
     },
     {
       "album": {
@@ -1904,6 +2108,28 @@
     {
       "album": {
         "name": "On the Rock (Synapson Remix)",
+        "url": "https://open.spotify.com/album/7kqPWofZjxqAixNMFtBVsi"
+      },
+      "artists": [
+        {
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        },
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "On the Rock - Synapson Remix",
+      "url": "https://open.spotify.com/track/2HurRh1MoxNdummEyfpYPw"
+    },
+    {
+      "album": {
+        "name": "On the Rock (Synapson Remix)",
         "url": "https://open.spotify.com/album/2JN96d7IymS6xiEVCckWj7"
       },
       "artists": [
@@ -1918,7 +2144,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312000,
       "name": "On the Rock - Synapson Remix",
       "url": "https://open.spotify.com/track/57CAYbMGp1yJEvGcKcsTqh"
@@ -1987,6 +2213,28 @@
     },
     {
       "album": {
+        "name": "Pelota (Cut a Rug Mix)",
+        "url": "https://open.spotify.com/album/2cvz3KTomD5JNGIBnCfiGD"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301995,
+      "name": "Pelota (Cut a Rug Mix)",
+      "url": "https://open.spotify.com/track/380cW88WvjXFmX3wzK1NOf"
+    },
+    {
+      "album": {
         "name": "Mordechai Remixes",
         "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
@@ -2002,7 +2250,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301995,
       "name": "Pelota (Cut a Rug Mix)",
       "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
@@ -2060,7 +2308,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
@@ -2082,7 +2330,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
@@ -2310,10 +2558,28 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230746,
       "name": "Sol Clap",
       "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
+    },
+    {
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
     },
     {
       "album": {
@@ -2544,10 +2810,32 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 553096,
       "name": "The Smooth Gardens",
       "url": "https://open.spotify.com/track/3iX80Yl6jpfp1VqzOty3eU"
+    },
+    {
+      "album": {
+        "name": "The Smooth Gardens",
+        "url": "https://open.spotify.com/album/3mK3SuDPIkcplAD4bat1lh"
+      },
+      "artists": [
+        {
+          "name": "Parallelle",
+          "url": "https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag"
+        },
+        {
+          "name": "Abundance",
+          "url": "https://open.spotify.com/artist/2MKLLVjzKTYmAUBET3TNhB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553096,
+      "name": "The Smooth Gardens - Original Mix",
+      "url": "https://open.spotify.com/track/3kil2NxDoBISlw4TGIQodS"
     },
     {
       "album": {
@@ -2816,10 +3104,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 422400,
       "name": "Ya Just Need 2 Believe in Yaself",
       "url": "https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv"
+    },
+    {
+      "album": {
+        "name": "4MYPPL#1",
+        "url": "https://open.spotify.com/album/38gJZWT7HXaPQueW4Z7GeT"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422400,
+      "name": "Ya Just Need 2 Believe in Yaself",
+      "url": "https://open.spotify.com/track/5PvpHmQ596TTqm5Lysejjh"
     },
     {
       "album": {

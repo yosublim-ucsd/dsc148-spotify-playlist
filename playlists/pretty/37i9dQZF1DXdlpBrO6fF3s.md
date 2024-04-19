@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain]
 
 > I'm The One! A TEEnager Z is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,281 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,593 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,19 +21,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain]
 | 11 | [Youth \(YUNHO, MINGI\)](https://open.spotify.com/track/136oL23K6A6g4PvptBWcS7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:29 |
 | 12 | [Everything \(JONGHO\)](https://open.spotify.com/track/5vJr5hBQv8MqgBHOiaMvZA) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:46 |
 | 13 | [FIN : WILL](https://open.spotify.com/track/2Nk2AbS02HaI1tgWTApkGJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:03 |
-| 14 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
-| 15 | [This World](https://open.spotify.com/track/6QDcmN2Avrim8kNoCHkw9s) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:32 |
-| 16 | [Dune](https://open.spotify.com/track/1CwzGOJqmATtWE8H00MEIL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:15 |
-| 17 | [DJANGO](https://open.spotify.com/track/5Ku5uYEtkdpNlkgqU6p4ir) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:11 |
-| 18 | [Wake Up](https://open.spotify.com/track/2fZ1DdMpQZIiPMIgyt27dT) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:06 |
-| 19 | [Outlaw](https://open.spotify.com/track/6UM7j0WbcGtk06c6pGKiQ6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:19 |
-| 20 | [Limitless](https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:24 |
-| 21 | [DIAMOND](https://open.spotify.com/track/5sIcMld4YXTlTqztVEa3hU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:26 |
-| 22 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 |
-| 23 | [WIN \- June One Remix](https://open.spotify.com/track/3E1sa5r0X7iwmXktb2v38l) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:29 |
-| 24 | [I'm The One \- Eden\-ary Remix](https://open.spotify.com/track/57RBkK05Zi0dF00Sn2oCM9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:14 |
-| 25 | [Take Me Home \- IDIOTAPE Remix](https://open.spotify.com/track/5DPf9BgRYLa061j7W7VLJi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:34 |
-| 26 | [Outro : Blue Bird](https://open.spotify.com/track/7H9O0vNSv2cAfKa2OQtwji) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 2:06 |
+| 14 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/7Lhm9BUglm30Q6Fb1Fl2By) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:07 |
+| 15 | [This World](https://open.spotify.com/track/2l1WKJiFMq89EiNI2tcpWY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:32 |
+| 16 | [Dune](https://open.spotify.com/track/3naizvQHCq8SfQZFJQMW4a) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:15 |
+| 17 | [DJANGO](https://open.spotify.com/track/7Hu8kY7LI6sWm8XQndu6fP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:11 |
+| 18 | [Wake Up](https://open.spotify.com/track/0aUOHifA8jhGKHrXcLz053) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:06 |
+| 19 | [Outlaw](https://open.spotify.com/track/7hhDrSGmt0eyGzcI36yJlL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL) | 3:19 |
+| 20 | [Limitless](https://open.spotify.com/track/6LelnEuuxJ1p1TAPH49zpd) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/2bphYBX2pGfeqMkYcRpNwd) | 3:23 |
+| 21 | [DIAMOND](https://open.spotify.com/track/4v84zRLkXkPrOK3NGNtk1U) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/2bphYBX2pGfeqMkYcRpNwd) | 3:24 |
+| 22 | [HALAZIA](https://open.spotify.com/track/5lh5eRZDsMC19G0DruLYTX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC) | 3:17 |
+| 23 | [WIN \- June One Remix](https://open.spotify.com/track/5NlrT0yEa3Vji8kIgf30XS) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC) | 3:29 |
+| 24 | [I′m The One \- Eden\-ary Remix](https://open.spotify.com/track/489EL3wjZc3PdlV0LMWSpS) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC) | 3:14 |
+| 25 | [Take Me Home \- IDIOTAPE Remix](https://open.spotify.com/track/4cL8ijndXiO4CHMKUJmKt8) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC) | 3:34 |
+| 26 | [Outro : Blue Bird](https://open.spotify.com/track/08ZUbm2IEQqfgqHb2f2tcr) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC) | 2:06 |
 | 27 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 |
 | 28 | [PROPAGANDA](https://open.spotify.com/track/5DlFiQX9LUiSI0QuBi0JA7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 1:17 |
 | 29 | [Sector 1](https://open.spotify.com/track/1V1btvvh0M47BWClDsiCqZ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:03 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain]
 | 31 | [The Ring](https://open.spotify.com/track/1s9dHDYdTjQo1Ow8MoF9nV) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 4:00 |
 | 32 | [WDIG \(Where Do I Go\)](https://open.spotify.com/track/2pwEbLrm8PkgplnTRG6bSL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:13 |
 | 33 | [New World](https://open.spotify.com/track/0rvQzaVeceFaksUoeyonXw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:36 |
-| 34 | [Don't Stop](https://open.spotify.com/track/184WoVKN9Z7TznkzDfR406) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/4jOvDcYcEu4NHkVFIP2KDY) | 3:10 |
+| 34 | [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 |
 | 35 | [Turbulence](https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:19 |
 | 36 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 |
 | 37 | [Be With You](https://open.spotify.com/track/2NTSWLUiZqrIBDGYbHUB6o) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:41 |

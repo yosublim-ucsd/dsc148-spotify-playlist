@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123122,
       "name": "A.M. Flights (feat. Toosii)",
       "url": "https://open.spotify.com/track/37mxyK3wdiHlv6MDuQJnAp"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 146341,
       "name": "Basement",
       "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Rookie Campaign",
+        "url": "https://open.spotify.com/album/5ttwB57qlSZNR13AzK10xT"
+      },
+      "artists": [
+        {
+          "name": "Ry1ne",
+          "url": "https://open.spotify.com/artist/2Ed8g6zhad8SaxQM9LMqgJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139937,
+      "name": "Blue C Notes",
+      "url": "https://open.spotify.com/track/0Fe3DejKWiHKPsrgjvLzk4"
+    },
+    {
+      "album": {
         "name": "Bounty",
         "url": "https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS"
       },
@@ -202,7 +220,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124767,
       "name": "Boys To Men",
       "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
@@ -250,6 +268,24 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2"
+      },
+      "artists": [
+        {
+          "name": "El'teainte",
+          "url": "https://open.spotify.com/artist/6XCFoVBRPN2ciV01d43q07"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204048,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/6VUP0NVCY6m7enzUyf8MzY"
     },
     {
       "album": {
@@ -394,7 +430,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155928,
       "name": "Freak Block Tales",
       "url": "https://open.spotify.com/track/3Oz4YqNsVLjiGaV37hrt7Y"
@@ -661,6 +697,24 @@
     },
     {
       "album": {
+        "name": "No More Body's",
+        "url": "https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx"
+      },
+      "artists": [
+        {
+          "name": "Celfmade Cel",
+          "url": "https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "No More Body's",
+      "url": "https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX"
+    },
+    {
+      "album": {
         "name": "No More Parties (Remix)",
         "url": "https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX"
       },
@@ -866,7 +920,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190458,
       "name": "Richer (feat. Polo G)",
       "url": "https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO"
@@ -1067,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Wordplay",
+        "url": "https://open.spotify.com/album/1V9Pfv9TM2df6bXCfuLUMX"
+      },
+      "artists": [
+        {
+          "name": "Canjelae",
+          "url": "https://open.spotify.com/artist/4emKaFvC3K7pyskD0SiLrp"
+        },
+        {
+          "name": "TK Kravitz",
+          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Wordplay",
+      "url": "https://open.spotify.com/track/3wAf5EJ8NnnMlZjGCIVkMm"
+    },
+    {
+      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ"
       },
@@ -1086,7 +1162,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257062,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM"

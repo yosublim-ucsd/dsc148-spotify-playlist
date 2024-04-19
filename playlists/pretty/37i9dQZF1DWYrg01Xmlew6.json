@@ -1,15 +1,35 @@
 {
   "description": "Rap napoletano e il meglio della scena campana. Vale Lambo e Geolier in cover. ",
-  "num_followers": 191008,
+  "num_followers": 191165,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg3Mjg2MCwwMDAwMDAwMGZlM2NkODRmYjgxMGViZTc1NjZjYTU2MTkxN2VkMDZi",
+  "snapshot_id": "MTcxMzQ3NzY2MCwwMDAwMDAwMGMxMjdhYjhhY2FhMDEzMDZlMmFmNjE0MTYwNzQzZGU4",
   "tracks": [
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
+        "name": "X-ADV (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/6e4RHSzdHbQXSpTUXM5WZe"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 121049,
+      "name": "X-ADV (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/76XNiHNTZ2KqW3cejIly4p"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
         "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "FULL FULL",
         "url": "https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Campioni In Italia (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "HOTEL MONTANA",
         "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Napoletano RMX (feat. SLF)",
         "url": "https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -253,7 +273,27 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
+        "name": "A Storia M\u00ec",
+        "url": "https://open.spotify.com/album/2iG6CfO4qfmEGAYjHzZyD5"
+      },
+      "artists": [
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "duration_ms": 191287,
+      "name": "A Storia M\u00ec",
+      "url": "https://open.spotify.com/track/56syCqfZDVTN3rHWDLnxwb"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Naples",
         "url": "https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC"
@@ -269,7 +309,7 @@
       "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Ossimoro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/6xGIYeYemjxt84FTuzyEI6"
@@ -285,7 +325,7 @@
       "url": "https://open.spotify.com/track/7J9YW7pJ50Z2ow1VvDMTrf"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Forever Alone",
         "url": "https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw"
@@ -301,7 +341,7 @@
       "url": "https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -333,7 +373,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
@@ -349,7 +389,7 @@
       "url": "https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -369,7 +409,7 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "GUAJ (feat. Yung Snapp)",
         "url": "https://open.spotify.com/album/2uD1OAzfhTtIdLC86AwQzO"
@@ -405,7 +445,7 @@
       "url": "https://open.spotify.com/track/3AuxMngBpEvLcnQgkDanyI"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo"
@@ -421,7 +461,7 @@
       "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2GYnr5RUWwCWMQuyY6xUNO"
@@ -441,7 +481,23 @@
       "url": "https://open.spotify.com/track/6hNhO6JOgTGeT3CWjPSiIm"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
+        "name": "Caracas",
+        "url": "https://open.spotify.com/album/75FipnzFVtAJ3gPeD42ufI"
+      },
+      "artists": [
+        {
+          "name": "Moderup",
+          "url": "https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ"
+        }
+      ],
+      "duration_ms": 125196,
+      "name": "Clan",
+      "url": "https://open.spotify.com/track/6QLgitotQswNLzxrT6Jsg2"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Sul'A Mia (feat. Enzo Dong)",
         "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
@@ -465,7 +521,7 @@
       "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Plaza Freestyle",
         "url": "https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "CLOUDY DAY",
         "url": "https://open.spotify.com/album/1FK48O0aV2LVrcSiSY0XtF"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/0RL7dKCBkD67XWhEwnSTmZ"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -517,10 +573,10 @@
       "url": "https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Botox",
-        "url": "https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt"
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
       "artists": [
         {
@@ -534,10 +590,10 @@
       ],
       "duration_ms": 152000,
       "name": "Scale (con Luch\u00e8)",
-      "url": "https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq"
+      "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -553,7 +609,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "0 In Tasca",
         "url": "https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu"
@@ -573,7 +629,7 @@
       "url": "https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Coco Chanel",
         "url": "https://open.spotify.com/album/2BYuvdrD9fVKpSdnrChbqE"
@@ -589,7 +645,7 @@
       "url": "https://open.spotify.com/track/4yZmG7r6lneTHug5nMkSrp"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "IERI, OGGI E DOMANI",
         "url": "https://open.spotify.com/album/5Vqyjj1Ijl1cqOUDqbZLC5"
@@ -613,7 +669,7 @@
       "url": "https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Edo - Ultimo Atto",
         "url": "https://open.spotify.com/album/04pYMVGJMSk58Ew6QqZCay"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/2QY4kWgGeTMVkHPQXevNaS"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir"
@@ -649,26 +705,10 @@
       "url": "https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/0ub5NaCeNKWDcRWUmb8yvQ"
-      },
-      "artists": [
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        }
-      ],
-      "duration_ms": 182752,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/40l3gNOxcK4MWgHfQuOyAF"
-    },
-    {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
       },
       "artists": [
         {
@@ -678,10 +718,10 @@
       ],
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
-      "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
+      "url": "https://open.spotify.com/track/3qKU0FvHKfIQSMgEEmYBtF"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Gangsta Freestyle",
         "url": "https://open.spotify.com/album/4ZVK9TH7PST3iPpPnaEUyC"
@@ -717,10 +757,10 @@
       "url": "https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "999",
-        "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
+        "url": "https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W"
       },
       "artists": [
         {
@@ -730,10 +770,10 @@
       ],
       "duration_ms": 204521,
       "name": "Love Song",
-      "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
+      "url": "https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Sincer (feat. Lele Blade & Icy Subzero)",
         "url": "https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Dove Volano Le Aquile Vol. 2",
         "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
@@ -777,7 +817,7 @@
       "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "PACTO",
         "url": "https://open.spotify.com/album/69PGHUPMp7FPMND7IMZKnm"
@@ -793,7 +833,7 @@
       "url": "https://open.spotify.com/track/1iYAxtlitQm6FNRH2HkIln"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Tredici",
         "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
@@ -813,7 +853,7 @@
       "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "A' vita senz' e te (Me fa paura)",
         "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
@@ -829,7 +869,7 @@
       "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Ma Xk\u00e8 A Me?",
         "url": "https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea"
@@ -845,7 +885,7 @@
       "url": "https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "FEDE II",
         "url": "https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO"
@@ -865,7 +905,7 @@
       "url": "https://open.spotify.com/track/0PIYRd1kHwvUlvoTACuhlc"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "RINCELL",
         "url": "https://open.spotify.com/album/4OWZxHL6TAVfYmJXMZXZwr"
@@ -881,7 +921,7 @@
       "url": "https://open.spotify.com/track/0MpD4CbRRc7dd0UBAHxypb"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "Colpa Mia",
         "url": "https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P"
@@ -897,39 +937,7 @@
       "url": "https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG"
     },
     {
-      "added_at": "2024-04-11 22:01:00",
-      "album": {
-        "name": "LA\u2019 NCOPP",
-        "url": "https://open.spotify.com/album/7MtzoofqYyTOcXIPpUMyGr"
-      },
-      "artists": [
-        {
-          "name": "Mooncler",
-          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
-        }
-      ],
-      "duration_ms": 135944,
-      "name": "LA\u2019 NCOPP",
-      "url": "https://open.spotify.com/track/5siCJ21koizdq3mI336rnE"
-    },
-    {
-      "added_at": "2024-04-11 22:01:00",
-      "album": {
-        "name": "SEXTING",
-        "url": "https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2"
-      },
-      "artists": [
-        {
-          "name": "Kunta",
-          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "SEXTING",
-      "url": "https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt"
-    },
-    {
-      "added_at": "2024-04-11 22:01:00",
+      "added_at": "2024-04-18 22:01:00",
       "album": {
         "name": "VANITAS",
         "url": "https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT"

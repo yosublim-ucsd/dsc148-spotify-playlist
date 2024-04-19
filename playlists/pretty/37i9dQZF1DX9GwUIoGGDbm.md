@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. 「かぐや様は告らせたい」シリーズを彩る楽曲をプレイリストで。©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,659 likes - 80 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,660 likes - 80 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 11 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/2EXrZBkM93UvAPAmeXRlHs) | [石上優\(CV:鈴木崚汰\)](https://open.spotify.com/artist/06QvkYq7wYca4yyGipLjjW), [伊井野ミコ\(CV:富田美憂\)](https://open.spotify.com/artist/2Whrp7tcNj5hbnbz2iMvzG) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:17 |
 | 12 | [オセロ](https://open.spotify.com/track/1xGdgFKUohOdZNPwTHn5Tg) | [伊井野ミコ\(CV:富田美憂\)](https://open.spotify.com/artist/2Whrp7tcNj5hbnbz2iMvzG) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:17 |
 | 13 | [演説はーっ！？](https://open.spotify.com/track/46PtbvLGRcgYXQCBKwzjzq) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:04 |
-| 14 | [センチメンタルクライシス](https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ) | 4:03 |
-| 15 | [風に吹かれて](https://open.spotify.com/track/6qi17D1xjNEFMLpYwFurV1) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [ハルカカナタヘ](https://open.spotify.com/album/6vkvEwrB0FClvO0pMg7FLq) | 4:32 |
+| 14 | [センチメンタルクライシス](https://open.spotify.com/track/48gbPVwayrBnpyrjaQxP2q) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Sentimental Crisis](https://open.spotify.com/album/48wxnaMynnuZ4XUbrYyu33) | 4:02 |
+| 15 | [風に吹かれて](https://open.spotify.com/track/3VEwy927d2YEqnNqP6xwfk) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/6ZbwErHeIXrRGIMk1sPtY6) | 4:31 |
 | 16 | [純金飾緒](https://open.spotify.com/track/2eGyLLxyTEOY26DUb0aLiW) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:08 |
 | 17 | [秀知院学園校歌](https://open.spotify.com/track/08cOAJyqDK6E7JT1jy78e7) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 3:50 |
 | 18 | [魔法](https://open.spotify.com/track/0xnuIoUVDqG4WUjtoMVKHq) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:49 |

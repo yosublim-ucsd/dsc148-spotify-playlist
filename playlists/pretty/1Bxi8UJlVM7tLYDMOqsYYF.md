@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267 likes - 47 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266 likes - 47 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 | 18 | [Troublemaker](https://open.spotify.com/track/1RDE16ZNwh36xlMiHHwOXa) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/4fTmCslafKKPWzW3PJt5Kx) | 3:57 |
 | 19 | [Some Kinda Rush \- Brizi & Delexy vs\. Moko & Vignaroli\-Pop Version](https://open.spotify.com/track/7HIijzPfsQFhgnIRP3B94f) | [Booty Luv](https://open.spotify.com/artist/1RtyP3Yk376oIq4dB7VMzC) | [Some Kinda Rush '09 Italian Remixes](https://open.spotify.com/album/2zX17M25jpCc6VVUVdhSra) | 3:40 |
 | 20 | [Like A G6](https://open.spotify.com/track/0iyOqSZBf1AqlmxOFB1Ka7) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [The Dome Vol\. 56](https://open.spotify.com/album/6SX2x7xdnggAcaewlti6m5) | 3:36 |
-| 21 | [](https://open.spotify.com/track/69gRFGOWY9OMpFJgFol1u0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/717UG2du6utFe7CdmpuUe3) | 0:00 |
+| 21 | [](https://open.spotify.com/track/69gRFGOWY9OMpFJgFol1u0) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/717UG2du6utFe7CdmpuUe3) | 0:00 |
 | 22 | [Boom Boom Pow](https://open.spotify.com/track/7xRNsqOQOgWbHV1nbXnfXN) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:11 |
 | 23 | [Can't Hold Us Down \(feat\. Lil' Kim\)](https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:15 |
 | 24 | [Naughty Girl](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:28 |

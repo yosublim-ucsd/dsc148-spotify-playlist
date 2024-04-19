@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220546,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/5QVX213rGhKaNwJPVJnHw4"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218786,
       "name": "Celebration - Single Version",
       "url": "https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -360,6 +360,24 @@
     {
       "album": {
         "name": "Patriotic Kids' Songs",
+        "url": "https://open.spotify.com/album/2RQBwSU9H9wyQy8fav20sq"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "Fifty Nifty United States",
+      "url": "https://open.spotify.com/track/6LcTvfYHt4e5Wi9Qd3L54a"
+    },
+    {
+      "album": {
+        "name": "Patriotic Kids' Songs",
         "url": "https://open.spotify.com/album/4kFWIo1ssTI4kmaOTgmxvD"
       },
       "artists": [
@@ -370,28 +388,10 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198546,
       "name": "Fifty Nifty United States",
       "url": "https://open.spotify.com/track/3AvbDb3lH6o1x1OR1Jxe7A"
-    },
-    {
-      "album": {
-        "name": "Patriotic Kids' Songs",
-        "url": "https://open.spotify.com/album/2RQBwSU9H9wyQy8fav20sq"
-      },
-      "artists": [
-        {
-          "name": "Cooltime Kids",
-          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
-        }
-      ],
-      "date_added": "2021-06-22",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 197800,
-      "name": "Fifty Nifty United States",
-      "url": "https://open.spotify.com/track/6LcTvfYHt4e5Wi9Qd3L54a"
     },
     {
       "album": {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 62793,
       "name": "Fireworks Song",
       "url": "https://open.spotify.com/track/0aBKDOyeSUpLAITMp7oD6Q"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 62793,
       "name": "Fireworks Song",
       "url": "https://open.spotify.com/track/1j0Chd2a3LyrJ2NGBc1Ubn"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 180086,
       "name": "Fireworks!",
       "url": "https://open.spotify.com/track/6FvzTqHZHbW2Rr8DE81OE2"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180093,
       "name": "Fireworks!",
       "url": "https://open.spotify.com/track/5hYMDmMqBC9iUE1OudUfFB"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157066,
       "name": "Old Town Road (feat. Billy Ray Cyrus) - Remix",
       "url": "https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157066,
       "name": "Old Town Road - Remix",
       "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
@@ -992,6 +992,24 @@
     {
       "album": {
         "name": "Patriotic Kids' Songs",
+        "url": "https://open.spotify.com/album/2RQBwSU9H9wyQy8fav20sq"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95600,
+      "name": "Stars And Stripes Forever",
+      "url": "https://open.spotify.com/track/7rOBLQmLMrKBgt34vkKXSt"
+    },
+    {
+      "album": {
+        "name": "Patriotic Kids' Songs",
         "url": "https://open.spotify.com/album/4kFWIo1ssTI4kmaOTgmxvD"
       },
       "artists": [
@@ -1002,28 +1020,10 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96146,
       "name": "Stars And Stripes Forever",
       "url": "https://open.spotify.com/track/6HQJGMXXiVo7aYhyACZqMT"
-    },
-    {
-      "album": {
-        "name": "Patriotic Kids' Songs",
-        "url": "https://open.spotify.com/album/2RQBwSU9H9wyQy8fav20sq"
-      },
-      "artists": [
-        {
-          "name": "Cooltime Kids",
-          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
-        }
-      ],
-      "date_added": "2021-06-22",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 95600,
-      "name": "Stars And Stripes Forever",
-      "url": "https://open.spotify.com/track/7rOBLQmLMrKBgt34vkKXSt"
     },
     {
       "album": {
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 83718,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 83718,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270640,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 271440,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/3JiUvMTBqbturJ5cKhxgWH"
@@ -1324,6 +1324,24 @@
     {
       "album": {
         "name": "Patriotic Kids' Songs",
+        "url": "https://open.spotify.com/album/2RQBwSU9H9wyQy8fav20sq"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141293,
+      "name": "Yankee Doodle Dandy",
+      "url": "https://open.spotify.com/track/0YRLoavd8l4cGBJY8ObgMw"
+    },
+    {
+      "album": {
+        "name": "Patriotic Kids' Songs",
         "url": "https://open.spotify.com/album/4kFWIo1ssTI4kmaOTgmxvD"
       },
       "artists": [
@@ -1334,28 +1352,10 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141293,
       "name": "Yankee Doodle Dandy",
       "url": "https://open.spotify.com/track/4s8wqibc2oL5mgWCa8ZMXc"
-    },
-    {
-      "album": {
-        "name": "Patriotic Kids' Songs",
-        "url": "https://open.spotify.com/album/2RQBwSU9H9wyQy8fav20sq"
-      },
-      "artists": [
-        {
-          "name": "Cooltime Kids",
-          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
-        }
-      ],
-      "date_added": "2021-06-22",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 141293,
-      "name": "Yankee Doodle Dandy",
-      "url": "https://open.spotify.com/track/0YRLoavd8l4cGBJY8ObgMw"
     },
     {
       "album": {

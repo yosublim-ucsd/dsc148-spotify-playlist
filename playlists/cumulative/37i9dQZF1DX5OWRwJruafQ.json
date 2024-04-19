@@ -6,6 +6,24 @@
     {
       "album": {
         "name": ".45",
+        "url": "https://open.spotify.com/album/1ElbKPKHkEi2SZjrCPLBwf"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": ".45",
+      "url": "https://open.spotify.com/track/27HqrrFeSPOrlJkwlrbvNi"
+    },
+    {
+      "album": {
+        "name": ".45",
         "url": "https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs"
       },
       "artists": [
@@ -20,7 +38,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160529,
       "name": ".45",
       "url": "https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18"
@@ -575,6 +593,32 @@
     },
     {
       "album": {
+        "name": "Bangers",
+        "url": "https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135738,
+      "name": "Audition",
+      "url": "https://open.spotify.com/track/0uAm3qTRs67by3FxhQTyQY"
+    },
+    {
+      "album": {
         "name": "Award",
         "url": "https://open.spotify.com/album/6BKaGsIy9fP46kMc9olq32"
       },
@@ -586,7 +630,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175830,
       "name": "Award",
       "url": "https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg"
@@ -850,10 +894,28 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222000,
       "name": "BBBB",
       "url": "https://open.spotify.com/track/0BUMpBR4SqkIQNTLV6m0kN"
+    },
+    {
+      "album": {
+        "name": "BBBB",
+        "url": "https://open.spotify.com/album/47vpnqefBzIDbgUz4uaBYP"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "BBBB",
+      "url": "https://open.spotify.com/track/1znLcG8azH6tPHtK5hoULz"
     },
     {
       "album": {
@@ -876,10 +938,40 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147692,
       "name": "Behja Behja",
       "url": "https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ"
+    },
+    {
+      "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/7BoNSz78k1SjYkSW5woJWr"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        },
+        {
+          "name": "Abbu",
+          "url": "https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Behja Behja",
+      "url": "https://open.spotify.com/track/2yKSHhNc6kl6rCu4g2bHGT"
     },
     {
       "album": {
@@ -1022,10 +1114,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "Bold And Brave",
       "url": "https://open.spotify.com/track/2SFzf5hp9itASMzGykdVWZ"
+    },
+    {
+      "album": {
+        "name": "Back To Skool",
+        "url": "https://open.spotify.com/album/6YjJLpfds43mkfSObfw50s"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Bold And Brave",
+      "url": "https://open.spotify.com/track/7HZzB7zkpy0AciPo7vsAkU"
     },
     {
       "album": {
@@ -1066,6 +1176,24 @@
       "duration_ms": 185346,
       "name": "Brand Deals",
       "url": "https://open.spotify.com/track/2iUY2m9C0mCdYJVvGuhEGm"
+    },
+    {
+      "album": {
+        "name": "Busy Doin Nothin",
+        "url": "https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220465,
+      "name": "Busy Doin Nothin",
+      "url": "https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW"
     },
     {
       "album": {
@@ -1322,7 +1450,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195957,
       "name": "Check It Out",
       "url": "https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"
@@ -1476,10 +1604,28 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167142,
       "name": "Court",
       "url": "https://open.spotify.com/track/1weINSMgJOVHx4apkdMr1C"
+    },
+    {
+      "album": {
+        "name": "Court",
+        "url": "https://open.spotify.com/album/79hC3DZX30K9HIZJXl6v3O"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Court",
+      "url": "https://open.spotify.com/track/6xpVLYXyvEMuDVG1jiYRqA"
     },
     {
       "album": {
@@ -2172,10 +2318,36 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "Famous Enough",
       "url": "https://open.spotify.com/track/4M0BS6RsQRg6wqdd30Xxd0"
+    },
+    {
+      "album": {
+        "name": "Paper Before Money",
+        "url": "https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Famous Enough",
+      "url": "https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY"
     },
     {
       "album": {
@@ -2492,7 +2664,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226000,
       "name": "Gaddi",
       "url": "https://open.spotify.com/track/7kKzZe40RUyKHWSIQxQehy"
@@ -2570,7 +2742,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 114534,
       "name": "Gang Boliyan",
       "url": "https://open.spotify.com/track/3JzIXwROWkSMEdkrCjFcsI"
@@ -2702,10 +2874,36 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211964,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP"
+    },
+    {
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211964,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW"
     },
     {
       "album": {
@@ -2768,6 +2966,32 @@
       "duration_ms": 210461,
       "name": "Gunda",
       "url": "https://open.spotify.com/track/3jKrI8DYG6IxDPGlGEb8BM"
+    },
+    {
+      "album": {
+        "name": "Bangers",
+        "url": "https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Gustakhiyan 2",
+      "url": "https://open.spotify.com/track/4MpGiWSCNz1WJ0ICCfAdYl"
     },
     {
       "album": {
@@ -3352,7 +3576,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186839,
       "name": "Jalwa",
       "url": "https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S"
@@ -3612,10 +3836,32 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174986,
       "name": "JOURNEY",
       "url": "https://open.spotify.com/track/1M0eK04kGu4ucZ08VVyP4o"
+    },
+    {
+      "album": {
+        "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174986,
+      "name": "JOURNEY",
+      "url": "https://open.spotify.com/track/1SYgmpUc80vRIXbxEzVLBi"
     },
     {
       "album": {
@@ -4068,10 +4314,32 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192353,
       "name": "LC",
       "url": "https://open.spotify.com/track/4nv4duZpBnVpIDlmt2J0XX"
+    },
+    {
+      "album": {
+        "name": "LC",
+        "url": "https://open.spotify.com/album/5w5wKsy48wsJGj8u3XL1YC"
+      },
+      "artists": [
+        {
+          "name": "Guntaj Dandiwal",
+          "url": "https://open.spotify.com/artist/44wLsyV4oq5xoNZZA8STof"
+        },
+        {
+          "name": "Wilson Brar",
+          "url": "https://open.spotify.com/artist/0j7J3wf8J3uAHjsS80IEjd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192353,
+      "name": "LC",
+      "url": "https://open.spotify.com/track/0LbkG18RvrQ8fEJo0GNc52"
     },
     {
       "album": {
@@ -4746,7 +5014,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204255,
       "name": "Nah They Can't",
       "url": "https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W"
@@ -4764,7 +5032,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Nah They Can\u2019t",
       "url": "https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj"
@@ -5076,7 +5344,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187010,
       "name": "Note",
       "url": "https://open.spotify.com/track/0uwbqLpDeFQLnBTvDsMl8C"
@@ -5106,6 +5374,54 @@
       "duration_ms": 187010,
       "name": "Note",
       "url": "https://open.spotify.com/track/1QwnrBy9aC3Ur2HsVrxI0g"
+    },
+    {
+      "album": {
+        "name": "Note",
+        "url": "https://open.spotify.com/album/6c1m9rOiK5pH52s6ROz2fL"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187010,
+      "name": "Note",
+      "url": "https://open.spotify.com/track/3njYCFO0JFZrc7oUrgBcOC"
+    },
+    {
+      "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/2dxV0ZBDTRILMcuXZmkHmb"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158284,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/3hPHAITOnyuKts5Y29AcwK"
     },
     {
       "album": {
@@ -5974,6 +6290,32 @@
     {
       "album": {
         "name": "Short Name Jatt Da Blackia (From \"Blackia 2\")",
+        "url": "https://open.spotify.com/album/4SjcEqYNTl8xvXiIpNEjWq"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Avvy Saran",
+          "url": "https://open.spotify.com/artist/7k7qAIcuaVgVUPxOGsjbat"
+        },
+        {
+          "name": "Gill Raunta",
+          "url": "https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169148,
+      "name": "Short Name Jatt Da Blackia (From \"Blackia 2\")",
+      "url": "https://open.spotify.com/track/2JA67ah6FJW1ikoEjjUSLg"
+    },
+    {
+      "album": {
+        "name": "Short Name Jatt Da Blackia (From \"Blackia 2\")",
         "url": "https://open.spotify.com/album/1tCqmDuBM1V3O9XFyWHrVy"
       },
       "artists": [
@@ -5992,7 +6334,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169148,
       "name": "Short Name Jatt Da Blackia (From \"Blackia 2\")",
       "url": "https://open.spotify.com/track/2700UzxCsjDddJ8VSXy897"
@@ -6040,7 +6382,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 206257,
       "name": "Silicone",
       "url": "https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ"
@@ -6062,7 +6404,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206257,
       "name": "Silicone",
       "url": "https://open.spotify.com/track/3UeV0FgtxsChvX6rlX8loZ"
@@ -6126,6 +6468,28 @@
     {
       "album": {
         "name": "SMUG",
+        "url": "https://open.spotify.com/album/4FnSuZ7O8s4SaIjsxFYWzd"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142276,
+      "name": "SMUG",
+      "url": "https://open.spotify.com/track/0X1qPWirg51VZX4FP5mDCs"
+    },
+    {
+      "album": {
+        "name": "SMUG",
         "url": "https://open.spotify.com/album/5ac6DEBrNXE9pLuEReu3NB"
       },
       "artists": [
@@ -6140,7 +6504,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142276,
       "name": "SMUG",
       "url": "https://open.spotify.com/track/1awR01QDVioULC3wnSSMYS"
@@ -6364,7 +6728,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136816,
       "name": "Street Flow",
       "url": "https://open.spotify.com/track/6OrstIkLUMihQEgQv4txvy"
@@ -6466,10 +6830,32 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161739,
       "name": "Talk Of The Town",
       "url": "https://open.spotify.com/track/3i3sEkHQSDHjuWRIBKLGQC"
+    },
+    {
+      "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/4v5o6D3EeQsK51AJcKBhYo"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "INDERZY",
+          "url": "https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/697Hmqu0HhFXBUfusFUZof"
     },
     {
       "album": {
@@ -6588,6 +6974,24 @@
     {
       "album": {
         "name": "The Jatts",
+        "url": "https://open.spotify.com/album/2D6zdA2au6SvqCkIUkXbWb"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161838,
+      "name": "The Jatts",
+      "url": "https://open.spotify.com/track/1MjEoamhGYge7UU3L6iunw"
+    },
+    {
+      "album": {
+        "name": "The Jatts",
         "url": "https://open.spotify.com/album/64n0oSlEC8c7bgzFjuWqFv"
       },
       "artists": [
@@ -6598,7 +7002,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161838,
       "name": "The Jatts",
       "url": "https://open.spotify.com/track/6OBlaBatU62ohkau4G9vLr"
@@ -6740,10 +7144,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195000,
       "name": "Tu Te Sharaab",
       "url": "https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV"
+    },
+    {
+      "album": {
+        "name": "Tu Te Sharab",
+        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Tu Te Sharab",
+      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
     },
     {
       "album": {
@@ -7016,6 +7442,32 @@
       "duration_ms": 160631,
       "name": "Way Bigger",
       "url": "https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt"
+    },
+    {
+      "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/2dxV0ZBDTRILMcuXZmkHmb"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Big Ghuman",
+          "url": "https://open.spotify.com/artist/6L3F8cdWcweEu2d1kfggbH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154209,
+      "name": "We Don't Play",
+      "url": "https://open.spotify.com/track/62JLVkyhZc68ukQn331YAX"
     },
     {
       "album": {
@@ -7294,6 +7746,24 @@
       "duration_ms": 234857,
       "name": "Yaar Mere",
       "url": "https://open.spotify.com/track/4mqDW9KBBcupJze5rNssQC"
+    },
+    {
+      "album": {
+        "name": "Yeah Baby Go",
+        "url": "https://open.spotify.com/album/5p1ysTZWPwuuE2QbYCdszg"
+      },
+      "artists": [
+        {
+          "name": "Ravneet Singh",
+          "url": "https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139780,
+      "name": "Yeah Baby Go",
+      "url": "https://open.spotify.com/track/5uPlpPfG19ZBgE28M7aSh6"
     },
     {
       "album": {

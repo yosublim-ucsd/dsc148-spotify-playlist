@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Guy2Bezbar",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Naza",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174720,
       "name": "CORT\u00c8GE (feat. Fally Ipupa)",
       "url": "https://open.spotify.com/track/0VXc8XprBLioRER7VAKo0f"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "D\u00e9bloquer",
       "url": "https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207500,
       "name": "D\u00e9bloquer",
       "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "INDIGO",
+        "url": "https://open.spotify.com/album/7fPft6aUKPhVCcp0kD4fWL"
+      },
+      "artists": [
+        {
+          "name": "Scor Novy",
+          "url": "https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255845,
+      "name": "INDIGO",
+      "url": "https://open.spotify.com/track/5JlG5WJSZ0b1mHWtXyXYig"
+    },
+    {
+      "album": {
         "name": "J'ai mal",
         "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
       },
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128347,
       "name": "J'ai mal",
       "url": "https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo"
@@ -3204,6 +3222,24 @@
       "duration_ms": 147857,
       "name": "Koni Moko Etokisaka Nzungu Te",
       "url": "https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY"
+    },
+    {
+      "album": {
+        "name": "Kulule",
+        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157281,
+      "name": "Kulule",
+      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
     },
     {
       "album": {
@@ -4176,7 +4212,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
@@ -4198,7 +4234,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
@@ -5367,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Parraza",
+        "url": "https://open.spotify.com/album/1nYmHXiB85tKEsWRdP25wE"
+      },
+      "artists": [
+        {
+          "name": "Ryan De La Cruz",
+          "url": "https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231784,
+      "name": "Parraza",
+      "url": "https://open.spotify.com/track/2tQbM5HxcRvpNhvNs1oi2m"
+    },
+    {
+      "album": {
         "name": "Pas comme eux (Remix)",
         "url": "https://open.spotify.com/album/1nogGp45JYTkF7GW9BfeB3"
       },
@@ -5522,7 +5576,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 217142,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
@@ -5556,7 +5610,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
@@ -5818,7 +5872,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194000,
       "name": "Quand j'y repense",
       "url": "https://open.spotify.com/track/0sWCXDsedhClISQuKKMJcf"
@@ -7110,7 +7164,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273133,
       "name": "Yo Pe (Remix)",
       "url": "https://open.spotify.com/track/4VPPV88siS7jGQpAwOkkoP"
@@ -7132,7 +7186,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272706,
       "name": "Yo Pe - Remix",
       "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"

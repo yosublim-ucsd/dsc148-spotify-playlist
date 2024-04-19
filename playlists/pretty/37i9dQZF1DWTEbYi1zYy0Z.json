@@ -1,18 +1,102 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 61802,
+  "num_followers": 61853,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDcyM2I1NTk3YmQ1MWI5NzhlNGU5NTliNWU0YjI4YmVi",
+  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDQxMmY5MjA1OWNkMWNlYjhiMzQ3ZmUzMDg1YTY1YmNm",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Embrace (feat. Bill Moio)",
+        "url": "https://open.spotify.com/album/6SBpoAb0N3eziBGGLAHrSU"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        },
+        {
+          "name": "Bill Moio",
+          "url": "https://open.spotify.com/artist/57KNtssASqOvVdx2230rGg"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Embrace (feat. Bill Moio)",
+      "url": "https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Love and Rhythm",
+        "url": "https://open.spotify.com/album/7EhoGqBebIngl6i93kWOJl"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 326141,
+      "name": "Irresistible",
+      "url": "https://open.spotify.com/track/2S50AzAPblRT9Q3WsKzrTQ"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Simplified Era",
+        "url": "https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 132374,
+      "name": "Simplified Era",
+      "url": "https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Dancin' Shoes",
+        "url": "https://open.spotify.com/album/6belLLcGyIpignX9wYStN8"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Foreplay",
+        "url": "https://open.spotify.com/album/2z8agb6cD8BozTL49Mx5Ap"
+      },
+      "artists": [
+        {
+          "name": "Willie Bradley",
+          "url": "https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3"
+        }
+      ],
+      "duration_ms": 263365,
+      "name": "Foreplay",
+      "url": "https://open.spotify.com/track/2IlRDMMruJWUHrMr4b1vzl"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/3kupEpy3tQGckwj5IWUDwr"
+        "name": "Low Down",
+        "url": "https://open.spotify.com/album/3SmcxCHqMgh4Qj4MCQC4jz"
       },
       "artists": [
         {
@@ -25,14 +109,14 @@
         }
       ],
       "duration_ms": 259255,
-      "name": "Low Down (feat. Ryan La Valette)",
-      "url": "https://open.spotify.com/track/6tmF5cxEeujWXSYnRwFmCv"
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5dxOLud7aVA9cWTqrfOlxz"
     },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Grass-Fed Funk (feat. Marcus Anderson)",
-        "url": "https://open.spotify.com/album/3Galo1stQ6Ks8SS1t91n3I"
+        "name": "Grass-Fed Funk",
+        "url": "https://open.spotify.com/album/6HrgzDHYrshIlEglpxaoJj"
       },
       "artists": [
         {
@@ -45,8 +129,8 @@
         }
       ],
       "duration_ms": 306880,
-      "name": "Grass-Fed Funk (feat. Marcus Anderson)",
-      "url": "https://open.spotify.com/track/3kKW85fudYfR3NT4Fwp9Fg"
+      "name": "Grass-Fed Funk",
+      "url": "https://open.spotify.com/track/0snsRf7lSLTEvDxoGjSjP8"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -139,8 +223,8 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Gentle and Smooth",
-        "url": "https://open.spotify.com/album/7pyxMFsFpWZVbgu3dV7dSL"
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/3WCCgQOpe6akY692bzFx6i"
       },
       "artists": [
         {
@@ -153,8 +237,8 @@
         }
       ],
       "duration_ms": 274500,
-      "name": "Just Coolin\u2019 (feat. Ryan La Valette)",
-      "url": "https://open.spotify.com/track/4buONxCYsAehQ0IoNg3xhS"
+      "name": "Just Coolin'",
+      "url": "https://open.spotify.com/track/21MnclehxaZTGQQu9zZSX8"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -432,7 +516,7 @@
       "added_at": "2024-02-16 05:01:00",
       "album": {
         "name": "Straighten Up",
-        "url": "https://open.spotify.com/album/0MkO3rfW5V6nENmUdIBfwf"
+        "url": "https://open.spotify.com/album/6qPWVg4MxBEIFoG2O8XdnG"
       },
       "artists": [
         {
@@ -442,7 +526,7 @@
       ],
       "duration_ms": 234589,
       "name": "Straighten Up",
-      "url": "https://open.spotify.com/track/13Y1NLZ57TRjwRlREzPBhO"
+      "url": "https://open.spotify.com/track/5ZhgyPGq8kVOTrwm60T73w"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -543,22 +627,6 @@
       "duration_ms": 240795,
       "name": "Get On It",
       "url": "https://open.spotify.com/track/5vDEodWFzseVwZLH8sTdo2"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "She's the One",
-        "url": "https://open.spotify.com/album/5d3BymfR4DxduPx2cCCMYl"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 258144,
-      "name": "She's the One",
-      "url": "https://open.spotify.com/track/7boFERPF09XcIqpT3PnYAt"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -765,22 +833,6 @@
       "url": "https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4"
     },
     {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Dancin' Shoes",
-        "url": "https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "Dancin' Shoes",
-      "url": "https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Pocket Change",
@@ -813,26 +865,6 @@
       "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
     },
     {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Ride the Vibes",
-        "url": "https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR"
-      },
-      "artists": [
-        {
-          "name": "Willie Bradley",
-          "url": "https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3"
-        },
-        {
-          "name": "Ragan Whiteside",
-          "url": "https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq"
-        }
-      ],
-      "duration_ms": 235196,
-      "name": "Ride the Vibes",
-      "url": "https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv"
-    },
-    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "Comfort Zone",
@@ -847,22 +879,6 @@
       "duration_ms": 233333,
       "name": "Please Mr. Groove",
       "url": "https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 273500,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -968,7 +984,7 @@
       "added_at": "2023-07-28 04:01:00",
       "album": {
         "name": "Mind Over Matter",
-        "url": "https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ"
+        "url": "https://open.spotify.com/album/0Nyi7tRAwpdr0viwQwx0Fq"
       },
       "artists": [
         {
@@ -978,13 +994,13 @@
       ],
       "duration_ms": 308466,
       "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/0aQoZUFmZmOb29LMqsRoz5"
+      "url": "https://open.spotify.com/track/5bMem6seFRTk6amdhRA2Z4"
     },
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "U Groove",
-        "url": "https://open.spotify.com/album/17ubWbHmJzOgYupdwSBcvH"
+        "url": "https://open.spotify.com/album/4pWAAnjOEONxjQ3yo6OuM5"
       },
       "artists": [
         {
@@ -992,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
         }
       ],
-      "duration_ms": 260160,
+      "duration_ms": 258461,
       "name": "U Groove",
-      "url": "https://open.spotify.com/track/0MNI9Hk2ecR49kivLGgqb8"
+      "url": "https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1111,18 +1127,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "New Lives (Radio Edit)",
-        "url": "https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808"
+        "name": "New Lives",
+        "url": "https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R"
       },
       "artists": [
         {
           "name": "Michael Cates",
           "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
+        },
+        {
+          "name": "Greg Manning",
+          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
         }
       ],
       "duration_ms": 251219,
-      "name": "New Lives - Radio Edit",
-      "url": "https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ"
+      "name": "New Lives",
+      "url": "https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1284,7 +1304,7 @@
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Just Like That",
-        "url": "https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX"
+        "url": "https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y"
       },
       "artists": [
         {
@@ -1293,14 +1313,14 @@
         }
       ],
       "duration_ms": 254840,
-      "name": "Let\u2019s Take A Ride",
-      "url": "https://open.spotify.com/track/5KkvZL3s2M04v0OGtfZidL"
+      "name": "Let's Take A Ride",
+      "url": "https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI"
     },
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
         "name": "Table For 2",
-        "url": "https://open.spotify.com/album/5MZkdbtrBhH10PDx6I9Cdr"
+        "url": "https://open.spotify.com/album/7gS9XSpN1iOHyF2qd8y7bM"
       },
       "artists": [
         {
@@ -1314,13 +1334,13 @@
       ],
       "duration_ms": 278895,
       "name": "Table For 2",
-      "url": "https://open.spotify.com/track/01zpCyMFeqLAkg6FYA8OBL"
+      "url": "https://open.spotify.com/track/5NFi6NV8fTOPg8BF6aWq7M"
     },
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "The Magic of Moonlight",
-        "url": "https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N"
+        "name": "Nico\u2019s Groove",
+        "url": "https://open.spotify.com/album/2QxxlPUxcATya406iG9izA"
       },
       "artists": [
         {
@@ -1330,13 +1350,13 @@
       ],
       "duration_ms": 417363,
       "name": "Nico\u2019s Groove",
-      "url": "https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h"
+      "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"
     },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Mind Over Matter",
-        "url": "https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ"
+        "name": "Groove Factor",
+        "url": "https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF"
       },
       "artists": [
         {
@@ -1346,7 +1366,7 @@
       ],
       "duration_ms": 314506,
       "name": "Groove Factor",
-      "url": "https://open.spotify.com/track/4GfktsF1HPURddq5xtrTmk"
+      "url": "https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1380,7 +1400,7 @@
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz"
+        "url": "https://open.spotify.com/album/6Sf8VRKfBDk2h5CYwLUgTY"
       },
       "artists": [
         {
@@ -1390,7 +1410,7 @@
       ],
       "duration_ms": 304039,
       "name": "Ubuntu",
-      "url": "https://open.spotify.com/track/0jehP0aRhFBpjSZCXxfm2v"
+      "url": "https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1468,7 +1488,7 @@
       "added_at": "2023-05-05 04:01:00",
       "album": {
         "name": "Smooth Jazz Renditions of Daniel Caesar (Instrumental)",
-        "url": "https://open.spotify.com/album/7KBY1S3EupqrUJzgTlx5iC"
+        "url": "https://open.spotify.com/album/3VKiW7p1ekczui9eA0kZqK"
       },
       "artists": [
         {
@@ -1478,13 +1498,13 @@
       ],
       "duration_ms": 185617,
       "name": "LOVE AGAIN - Instrumental",
-      "url": "https://open.spotify.com/track/6aw0UNb9YaocftqAwT4RTe"
+      "url": "https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP"
     },
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/5pUlgSSkbZdyzglBJiRy2p"
+        "name": "For the Cool in You",
+        "url": "https://open.spotify.com/album/4lNQ45FU2TpTJAPgXSHnev"
       },
       "artists": [
         {
@@ -1492,25 +1512,9 @@
           "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 269693,
+      "duration_ms": 270500,
       "name": "For The Cool In You",
-      "url": "https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj"
-    },
-    {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/3WubX3JoceDkI0SiSRcWFG"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC"
+      "url": "https://open.spotify.com/track/6lcZYupfafKV55hB2R2sCi"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1663,26 +1667,6 @@
       "duration_ms": 192081,
       "name": "All Love",
       "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Del Mar",
-        "url": "https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p"
-      },
-      "artists": [
-        {
-          "name": "Rick Habana",
-          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
-        },
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1"
     },
     {
       "added_at": "2023-02-10 05:01:00",

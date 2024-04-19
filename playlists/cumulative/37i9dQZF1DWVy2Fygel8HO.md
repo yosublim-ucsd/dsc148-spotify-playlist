@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-124 songs - 5 hr 6 min
+126 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,8 @@
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2023-05-09 |  |
 | [Dwell in Possibility](https://open.spotify.com/track/0ZFdTxzFR0RRN1TifSPAxm) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Dwell in Possibility](https://open.spotify.com/album/3PT6wXsxMWdWcEIJUjqdoD) | 2:12 | 2023-05-09 |  |
 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 | 2023-10-04 |  |
-| [Elma I](https://open.spotify.com/track/3KCsumTTBnPJKkbDWWzFm2) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Elma I](https://open.spotify.com/album/6lPWV8gSxaUxBoGdOctL1A) | 2:30 | 2023-05-09 | 2024-01-15 |
-| [Elma I](https://open.spotify.com/track/76dT8JgciDxGWG2ZWvJsoP) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Elma I](https://open.spotify.com/album/2iYC2bnGrCoEQYlULrlNw6) | 2:30 | 2023-12-12 |  |
+| [Elma I](https://open.spotify.com/track/3KCsumTTBnPJKkbDWWzFm2) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Elma I](https://open.spotify.com/album/6lPWV8gSxaUxBoGdOctL1A) | 2:30 | 2023-05-09 |  |
+| [Elma I](https://open.spotify.com/track/76dT8JgciDxGWG2ZWvJsoP) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Elma I](https://open.spotify.com/album/2iYC2bnGrCoEQYlULrlNw6) | 2:30 | 2023-12-12 | 2024-04-19 |
 | [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 | 2023-05-09 |  |
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-04 |  |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2023-05-09 |  |
@@ -58,7 +58,8 @@
 | [Inner Peace Of Mind](https://open.spotify.com/track/1vQc1CMKybARohCOtrr7Oc) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Inner Peace Of Mind](https://open.spotify.com/album/1sys8kVADrVBBiPvB21JRi) | 3:06 | 2023-12-12 |  |
 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-09 |  |
 | [Lassitude](https://open.spotify.com/track/3YC3J5jl254mN4yCTiZz27) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Lassitude](https://open.spotify.com/album/7KvllB6zOkX2mf0SCf9jp5) | 2:34 | 2023-05-09 |  |
-| [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2023-05-09 |  |
+| [Last Sunday](https://open.spotify.com/track/1HTvslM0ZjMDrCYM3YqsV7) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Last Sunday](https://open.spotify.com/album/3Iq0eQBewdnHphQGXdDxUk) | 2:23 | 2024-04-03 |  |
+| [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2023-05-09 | 2024-04-19 |
 | [Lullaby in Ab](https://open.spotify.com/track/3aYsCuKTpXYZiWKhignTD2) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Lullaby in Ab](https://open.spotify.com/album/1Q9FZghRGWyJIlRtBy5Zn2) | 1:54 | 2023-05-09 |  |
 | [Láska nás rozdělí](https://open.spotify.com/track/3VEugG0JjifOVAc9HW8GWb) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Láska nás rozdělí](https://open.spotify.com/album/1SkusXfUiDOAA80XWU0kmE) | 1:56 | 2023-05-09 |  |
 | [Lättnad](https://open.spotify.com/track/4V5yTOr0Xit6Cc0zvAs0H3) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Lättnad](https://open.spotify.com/album/3D1oqoEKiohXiC9ZSXWufI) | 1:50 | 2023-05-09 |  |
@@ -81,9 +82,9 @@
 | [Reframe](https://open.spotify.com/track/1sINJB2tVaHV5r3iKCACHv) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reframe](https://open.spotify.com/album/3XJLsmXh2yyehGaUn0FWDC) | 2:07 | 2023-05-09 |  |
 | [Renewal](https://open.spotify.com/track/2STf9iJMbxyXZQeea5lrdG) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Renewal](https://open.spotify.com/album/3zfRRxr2fMQNGUatRbhpNL) | 2:19 | 2023-05-09 |  |
 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 | 2024-04-03 |  |
-| [Resting Song](https://open.spotify.com/track/4WOs0AimEhI7qi4IHS3JNC) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/5ulVV8sUhnWnb1RoQPXyzv) | 2:51 | 2023-08-15 |  |
+| [Resting Song](https://open.spotify.com/track/4WOs0AimEhI7qi4IHS3JNC) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/5ulVV8sUhnWnb1RoQPXyzv) | 2:51 | 2023-08-15 | 2024-04-19 |
 | [Resting Song](https://open.spotify.com/track/5x2fu50qw3r9BMonmvq5s6) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/4i9tNd1I94lnoGx29ZAOaQ) | 2:51 | 2023-06-20 | 2023-09-11 |
-| [resting song](https://open.spotify.com/track/0xLmbr7Y8dCbwwMoh2tL5P) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/3RwV4LNPI9WlWatCEaPtsd) | 2:51 | 2023-05-09 | 2023-08-05 |
+| [resting song](https://open.spotify.com/track/0xLmbr7Y8dCbwwMoh2tL5P) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [for the peaceful moments](https://open.spotify.com/album/3RwV4LNPI9WlWatCEaPtsd) | 2:51 | 2023-05-09 |  |
 | [Rivers Run](https://open.spotify.com/track/4WYhUn9Ed37U8FtKrSlPVm) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Rivers Run](https://open.spotify.com/album/4RjEzBp3wM590XPVTqI1kr) | 2:22 | 2023-09-11 |  |
 | [Riverun](https://open.spotify.com/track/0hIyFd8XwSIrbYhxko1zYE) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Riverun](https://open.spotify.com/album/4E3ZjKxD8RVt9OPTAYEG3y) | 1:30 | 2023-05-09 |  |
 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 | 2023-05-09 |  |
@@ -122,7 +123,8 @@
 | [Una Flor](https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Una Flor](https://open.spotify.com/album/2RXROsgEvnUi8nZdmGhIfJ) | 1:49 | 2023-05-09 |  |
 | [Valse pour Johann](https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC) | [Fjellson Weber](https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2) | [Valse pour Johann](https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd) | 2:25 | 2023-05-09 |  |
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-05-09 |  |
-| [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 | 2023-05-09 |  |
+| [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 | 2023-05-09 | 2024-04-19 |
+| [vierde moment](https://open.spotify.com/track/2odkdy9ZmZPuH3U1q3BPXD) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0ybD0BRRdBivIT6Db8iu7P) | 3:21 | 2024-04-03 |  |
 | [Walking Slowly](https://open.spotify.com/track/04HAuNsJ33EMeoNhiOQLcQ) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Walking Slowly](https://open.spotify.com/album/4wjmBndNtG1iaQbsOEyBF0) | 3:18 | 2023-05-09 |  |
 | [Wavering in the wind](https://open.spotify.com/track/65R91R603eXiAOa0K4bar0) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Wavering in the wind](https://open.spotify.com/album/189614dABOnS6fQzug1EGC) | 2:28 | 2023-05-09 |  |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2023-05-09 |  |

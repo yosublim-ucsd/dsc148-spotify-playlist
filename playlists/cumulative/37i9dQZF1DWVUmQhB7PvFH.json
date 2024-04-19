@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260440,
       "name": "Coat",
       "url": "https://open.spotify.com/track/7JIL4XTrY6HVdOGmI6lftL"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291013,
       "name": "If I were be the memory",
       "url": "https://open.spotify.com/track/4qc6i92V1gkMe8r1zqinw4"
@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/4442F3pK6aIO7PaHXTBEWV"
+      },
+      "artists": [
+        {
+          "name": "Power Station",
+          "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260440,
+      "name": "\u5916\u5957",
+      "url": "https://open.spotify.com/track/40Miw1dxBDJcpSWOkmMYzz"
+    },
+    {
+      "album": {
         "name": "\u964c\u751f\u4eba",
         "url": "https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg"
       },
@@ -553,6 +571,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u60f3\u9577\u5927",
+        "url": "https://open.spotify.com/album/3wnMKRfnk1UWlSLBhrtgGR"
+      },
+      "artists": [
+        {
+          "name": "S.H.E",
+          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "\u5929\u7070",
+      "url": "https://open.spotify.com/track/3jKXACX8eFszpZxNRlvoJS"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u60f3\u957f\u5927",
         "url": "https://open.spotify.com/album/5O0DopNZFNbsZHsj6qFKts"
       },
@@ -564,7 +600,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243346,
       "name": "\u5929\u7070",
       "url": "https://open.spotify.com/track/7rkRDQj2ASyqEMWVASQGZQ"
@@ -622,6 +658,24 @@
       "duration_ms": 243306,
       "name": "\u597d\u670b\u53cb",
       "url": "https://open.spotify.com/track/2JQcuQGEXclxphbS7XUc2j"
+    },
+    {
+      "album": {
+        "name": "\u7b2c\u4e09\u56de\u5408",
+        "url": "https://open.spotify.com/album/2zGskmPlVAaFVaNEAq1EJ0"
+      },
+      "artists": [
+        {
+          "name": "TANK \u5442\u5efa\u5fe0",
+          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291013,
+      "name": "\u5982\u679c\u6211\u8b8a\u6210\u56de\u61b6",
+      "url": "https://open.spotify.com/track/4ZihPLUkdHJZ9XVhxMeFTG"
     },
     {
       "album": {
@@ -1134,10 +1188,28 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
+    },
+    {
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
     },
     {
       "album": {
@@ -1366,6 +1438,24 @@
     {
       "album": {
         "name": "\u8a8d\u4e86\u5427",
+        "url": "https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283640,
+      "name": "\u6dd8\u6c70",
+      "url": "https://open.spotify.com/track/5sYtvIl1mx9QuIgwC6FDU1"
+    },
+    {
+      "album": {
+        "name": "\u8a8d\u4e86\u5427",
         "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
       },
       "artists": [
@@ -1376,7 +1466,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285000,
       "name": "\u6dd8\u6c70",
       "url": "https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW"
@@ -1452,10 +1542,32 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
+    },
+    {
+      "album": {
+        "name": "11\u6708\u7684\u856d\u90a6",
+        "url": "https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Lara Liang",
+          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "\u73ca\u745a\u6d77",
+      "url": "https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY"
     },
     {
       "album": {

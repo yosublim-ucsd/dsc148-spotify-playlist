@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,399 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,506 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come Back From San Francisco](https://open.spotify.com/track/6iHrqAF6XO2rzl4OLFb4eo) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:48 |
+| 1 | [Come Back From San Francisco](https://open.spotify.com/track/0L3dRA5vVYXTHhL5ZA6GZO) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2js3lkzAjWpD656NK7ZaJX) | 2:48 |
 | 2 | [Los Angeles, I'm Yours](https://open.spotify.com/track/29ZyMSas57RRsqumvc0BSw) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Her Majesty The Decemberists](https://open.spotify.com/album/60U7volY4FsumurSI46srR) | 4:17 |
-| 3 | [San Francisco \(Be Sure to Wear Some Flowers In Your Hair\)](https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Voice of Scott McKenzie \(Expanded Edition\)](https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ) | 2:58 |
+| 3 | [San Francisco \(Be Sure to Wear Flowers in Your Hair\) \- Single Version](https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [San Francisco](https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez) | 2:58 |
 | 4 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
-| 5 | [Vegas \- 2023 Remaster](https://open.spotify.com/track/2KgWGc5KgyNS0scSS6KLmJ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:19 |
+| 5 | [Vegas](https://open.spotify.com/track/6IGAhHPpr56zXxxKrErLBe) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 2:19 |
 | 6 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 |
 | 7 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:43 |
 | 8 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 15 | [Andalucia](https://open.spotify.com/track/5E2CoOxdJsOLeRoyfujlRn) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Paris 1919](https://open.spotify.com/album/3WkD4YxRCzgXG2MJF9yDpk) | 3:54 |
 | 16 | [The Girl from Ipanema](https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Collection](https://open.spotify.com/album/4us3GOm42EubfNyOqYf55R) | 3:04 |
 | 17 | [Kansas City](https://open.spotify.com/track/7GoBeudlghOYGNoRuz9yLI) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Volume II](https://open.spotify.com/album/1xG5S6sfeFZcekU2qjGlGf) | 2:31 |
-| 18 | [I Love This Town](https://open.spotify.com/track/4OtJU2DLiJcneeXnKLjdMm) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [La De Da](https://open.spotify.com/album/5xAoCYVctfaml9amhUrVzQ) | 3:30 |
+| 18 | [Love This Town](https://open.spotify.com/track/3YnijCtsTTpCRE1WKiHmCj) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [La De Da](https://open.spotify.com/album/6vmFFa2XTEpsB7Z6LGMl98) | 3:30 |
 | 19 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:58 |
 | 20 | [San Francisco Bay](https://open.spotify.com/track/0TaatujAlsDlmmZPLlu5dR) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before the Rain](https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI) | 7:25 |
 | 21 | [One Great City!](https://open.spotify.com/track/79jIauLDQffSrwtY0ostxv) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reconstruction Site](https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N) | 2:54 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 37 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
 | 38 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 |
 | 39 | [Washington, D.C.](https://open.spotify.com/track/22reYeFPVc6i15XGmbUs7i) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:53 |
-| 40 | [Seoul Night](https://open.spotify.com/track/0dqvruH0Y27ifydSdo826M) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Midnight Candy](https://open.spotify.com/album/6y2t4iND8t4DUXKhZNbnTn) | 4:14 |
+| 40 | [Seoul Night](https://open.spotify.com/track/6u6k8rPxlffYclES8o04Ng) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Midnight Candy](https://open.spotify.com/album/4pR1y1pV9CyrFm6LL4N65M) | 4:14 |
 | 41 | [Girl in Saskatoon](https://open.spotify.com/track/0ZOREY0IXhxjwzScOn0HUK) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Bootleg Vol\. I: Personal File](https://open.spotify.com/album/5TabR5rIBRxBD6XzWhCiBE) | 2:16 |
 | 42 | [This Is The Dream Of Win & Regine](https://open.spotify.com/track/65tg2FnizGXtnOt8PnDSU7) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Has A Good Home](https://open.spotify.com/album/17EcSC0HhQC3x7clTT9Mn7) | 3:24 |
 | 43 | [Angeles \- Live](https://open.spotify.com/track/3EvG1X6yWsqEaaI6wJufbO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 3:02 |

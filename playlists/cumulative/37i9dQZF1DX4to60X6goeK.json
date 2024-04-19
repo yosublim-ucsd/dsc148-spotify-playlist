@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard or go home. Cover: Disrupta",
+  "description": "Go hard or go home. Cover: SOTA",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230232,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 230232,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 117530,
       "name": "Firebreak - 1991 Remix",
       "url": "https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
@@ -3447,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Rocker / Darkness",
+        "url": "https://open.spotify.com/album/0rgubeVj85d7sTnUoTgxn6"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264269,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/4ZyQtgBP1fTI3i6ho4jNdY"
+    },
+    {
+      "album": {
         "name": "Keep the beat going EP",
         "url": "https://open.spotify.com/album/0kPM0opafUS4gc58pkAa8M"
       },
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197485,
       "name": "Somebody Else, Pt. 2",
       "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268800,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
@@ -4786,7 +4804,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"

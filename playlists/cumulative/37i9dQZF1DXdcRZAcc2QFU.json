@@ -408,7 +408,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 519360,
       "name": "Choli Ke Peeche",
       "url": "https://open.spotify.com/track/6oUqIyDXN04IgkeKHl7yL5"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 516318,
       "name": "Choli Ke Peeche (From \"Khal Nayak\")",
       "url": "https://open.spotify.com/track/70sjgqqoz3wQ6haG7PmDck"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 501333,
       "name": "Jooma Chumma De De",
       "url": "https://open.spotify.com/track/0oy4Zk7CVLObwnDX8YZZ1e"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 503472,
       "name": "Jooma Chumma De De, Pt. 3",
       "url": "https://open.spotify.com/track/3VcZmUNpoyzWcl6SbfrbDa"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367733,
       "name": "Kagaz Kalam Davaat",
       "url": "https://open.spotify.com/track/6vWo9DUKqQv87oh8r3B141"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 367733,
       "name": "Kagaz Kalam Davaat",
       "url": "https://open.spotify.com/track/1AFhS5Nm9Pc96WoyTiUCaK"
@@ -1617,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "Mohabbat",
+        "url": "https://open.spotify.com/album/2bePSXcOvHsoqTo32Qf5tj"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "K Krishnamoorthy",
+          "url": "https://open.spotify.com/artist/4VoTmNZvS1ZGbbpVz8kled"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359549,
+      "name": "O Baby Dont Break My Heart",
+      "url": "https://open.spotify.com/track/49zy0fZWKn3PCV6hjRswi9"
+    },
+    {
+      "album": {
         "name": "Mohabbat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5wEs2qGAqX8uDQDeqOZsEX"
       },
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360254,
       "name": "O Baby Dont Break My Heart",
       "url": "https://open.spotify.com/track/2tLrPNZ6ELmSvXdz2go5bU"
@@ -2543,6 +2565,28 @@
     },
     {
       "album": {
+        "name": "Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jQUOU5n0H06OdhvMtDUpL"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353693,
+      "name": "Zara Sa Jhoom Loon Main",
+      "url": "https://open.spotify.com/track/0aedk7g7bYBv2fkbk6hcgN"
+    },
+    {
+      "album": {
         "name": "Dilwale Dulhania Le Jayenge",
         "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
       },
@@ -2580,7 +2624,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353693,
       "name": "Zara Sa Jhoom Loon Main",
       "url": "https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1"

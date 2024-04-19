@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-418 songs - 1 day 16 hr 48 min
+419 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Ground Zero \- Facets Remix](https://open.spotify.com/track/41KBKMGgOo16vkJEomSHSc) | [Adam Rå](https://open.spotify.com/artist/1tS04Kwkhb59MRBsJDseQj), [Facets](https://open.spotify.com/artist/54UJUsxJLdMPTBtBuEFXRS) | [Incompatible With Life](https://open.spotify.com/album/6SlEKm4kWSEcA089cjVaw2) | 5:01 | 2024-02-16 |  |
 | [Gundagai](https://open.spotify.com/track/62sbqyGMgtbFyv07MsR4fS) | [Shubostar](https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv) | [Space Racer](https://open.spotify.com/album/3r87fv0QiXKAHpSXI00kbB) | 5:46 | 2022-05-13 | 2022-12-24 |
 | [Gunk](https://open.spotify.com/track/4Nv1liSp522fuF1AGu6Yxs) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 5:14 | 2022-05-13 | 2022-12-24 |
-| [Gye Wani](https://open.spotify.com/track/1ydHBt9OC9Uq1CePkbdK6a) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Gye Wani](https://open.spotify.com/album/0nUPjQCfXGvxzTpwuoAELW) | 5:23 | 2024-03-15 |  |
+| [Gye Wani](https://open.spotify.com/track/3btvwWoGAdEJonpeIP64Vq) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Gye Wani](https://open.spotify.com/album/0NSIEztu6SFxbdDtiWqH42) | 5:23 | 2024-04-12 |  |
+| [Gye Wani](https://open.spotify.com/track/1ydHBt9OC9Uq1CePkbdK6a) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Gye Wani](https://open.spotify.com/album/0nUPjQCfXGvxzTpwuoAELW) | 5:23 | 2024-03-15 | 2024-04-19 |
 | [HA DA HE HE](https://open.spotify.com/track/3buHxHz7nhHrUgM9lCqgKu) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [HA DA HE HE](https://open.spotify.com/album/0n9DJUFF1yoz4dnGWCbGeY) | 4:07 | 2023-02-13 | 2023-04-15 |
 | [Halim Guelil](https://open.spotify.com/track/2CxX2wp4wbgp2av4L95UWB) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cheb Halim](https://open.spotify.com/artist/7pIFNTBBY5BppsPmnMS62S) | [Halim Guelil](https://open.spotify.com/album/5QBINoK1KolSRIMmrkdQF6) | 3:57 | 2022-10-14 | 2023-02-06 |
 | [Halim Guelil](https://open.spotify.com/track/72KrVLumKmZgtBM3vXKhVK) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cheb Halim](https://open.spotify.com/artist/7pIFNTBBY5BppsPmnMS62S) | [٣ \(Trois\)](https://open.spotify.com/album/7v2WkOUlCmdAefZ2DSRSzC) | 3:57 | 2022-12-22 | 2023-04-15 |

@@ -4,7 +4,7 @@
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c">Alysa Vanderheym</a>
 
-780 songs - 1 day 18 hr 52 min
+781 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [hometown](https://open.spotify.com/track/5qFPsXYslBWrDENvy24atB) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [hometown](https://open.spotify.com/album/3E3RNwCNPLjMNkh7Twkvek) | 3:11 | 2023-10-04 | 2023-11-09 |
 | [Honey](https://open.spotify.com/track/77EPrIPeOQwbFhZKxN9fpL) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Unconditional](https://open.spotify.com/album/00mGia1ICQJU32dMiWOtfJ) | 3:21 | 2021-12-08 | 2022-01-06 |
 | [honeymoon vacation](https://open.spotify.com/track/5Sr19fOsiZzWkUrBSIk5f3) | [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [honeymoon vacation](https://open.spotify.com/album/3sQjhaSJIo5GCkBJiKbXMi) | 3:10 | 2023-02-01 | 2023-03-02 |
-| [Hope](https://open.spotify.com/track/7qMITT0TZOSk0zK27FKTOI) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 2:58 | 2022-09-07 |  |
+| [Hope](https://open.spotify.com/track/5O7GKo9emVWK3T03a5sRln) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 2:58 | 2024-03-01 |  |
+| [Hope](https://open.spotify.com/track/7qMITT0TZOSk0zK27FKTOI) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 2:58 | 2022-09-07 | 2024-04-19 |
 | [Hope It's You](https://open.spotify.com/track/6GUmRZHRsO47xusCW7k9Fk) | [India Parkman](https://open.spotify.com/artist/11kHBGgTdLbqPjfn8FDurP) | [Hope It's You](https://open.spotify.com/album/5XzARNCSH3bft8GQFYwcAn) | 3:24 | 2023-05-03 | 2023-06-08 |
 | [HOT](https://open.spotify.com/track/0Dn5VLtkHjX8en1RKIuQY3) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [HOT](https://open.spotify.com/album/3yQFEsELrOqrZQzOvuDBHP) | 2:59 | 2022-06-01 | 2022-07-07 |
 | [Hot Like Summer](https://open.spotify.com/track/4vI2A3544K3o2AIDEj8ZSA) | [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Hot Like Summer](https://open.spotify.com/album/1XnxNbaECZ48fojHoRNkL7) | 3:04 | 2023-10-04 | 2023-11-09 |

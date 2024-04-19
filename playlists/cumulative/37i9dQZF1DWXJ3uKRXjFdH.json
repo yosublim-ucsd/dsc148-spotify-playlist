@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Shades of Deep Purple",
+        "url": "https://open.spotify.com/album/3VV3uHT9dEGPbgQJQRMAEy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264973,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1"
+    },
+    {
+      "album": {
         "name": "Deepest Purple (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4OjTMhCfhJHdUDdIT1wi6D"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253493,
       "name": "Hush - 1998 Remix",
       "url": "https://open.spotify.com/track/4sTUkIe8cha0RCcTKvfc2J"
@@ -218,10 +236,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196693,
       "name": "In kommer G\u00f6sta",
       "url": "https://open.spotify.com/track/0XzEb0HDIaJ6b0SE0qAM63"
+    },
+    {
+      "album": {
+        "name": "Musikens historia del I och II",
+        "url": "https://open.spotify.com/album/4KcwX9LrC1uUsuni6omTom"
+      },
+      "artists": [
+        {
+          "name": "Philemon Arthur & The Dung",
+          "url": "https://open.spotify.com/artist/5o1e7nzu4Jwk0NTnb4mSLc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "In kommer G\u00f6sta",
+      "url": "https://open.spotify.com/track/43dFoCqQ1JTWAdr1ujT20Y"
     },
     {
       "album": {
@@ -607,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Nya Sp\u00e5r",
+        "url": "https://open.spotify.com/album/5Zx6LwNaId3iaBROp8XRYA"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155946,
+      "name": "Vilken h\u00e4rlig dag",
+      "url": "https://open.spotify.com/track/0VxtLzp4pbprAzjmGM6Fjb"
+    },
+    {
+      "album": {
         "name": "Nya sp\u00e5r",
         "url": "https://open.spotify.com/album/7C5rqgDo1c0mwVL4lNw3Fz"
       },
@@ -618,7 +672,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155946,
       "name": "Vilken h\u00e4rlig dag",
       "url": "https://open.spotify.com/track/0nk3h30DqVdMWMFC6B8FS6"
@@ -654,10 +708,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188680,
       "name": "We Are All The Winners",
       "url": "https://open.spotify.com/track/7K4nPxmgWTNRBN0PnCmfV7"
+    },
+    {
+      "album": {
+        "name": "Mitt K\u00e4ra \u00d6stersund",
+        "url": "https://open.spotify.com/album/7o8rsuLHhYkgLCwsAgN6Vp"
+      },
+      "artists": [
+        {
+          "name": "Nick Borgen",
+          "url": "https://open.spotify.com/artist/08xbQKOh6oLZVa7VoxuJzU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190120,
+      "name": "We Are All The Winners",
+      "url": "https://open.spotify.com/track/51cOCcB9c8tjUI50trrD4r"
     },
     {
       "album": {

@@ -92,7 +92,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 166040,
       "name": "A Satisfied Mind",
       "url": "https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 167906,
       "name": "Alabama Jubilee",
       "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184040,
       "name": "Always Late (With Your Kisses)",
       "url": "https://open.spotify.com/track/3XQ2ZGDLsNVzypE5UMFsIF"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 151338,
       "name": "Big River",
       "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174693,
       "name": "Blues, Stay Away From Me",
       "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165800,
       "name": "Cold, Cold Heart",
       "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
@@ -620,6 +620,24 @@
       "duration_ms": 122893,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+    },
+    {
+      "album": {
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147440,
+      "name": "Don't Ever Leave Me Again",
+      "url": "https://open.spotify.com/track/3tg51RdnZhCa2smOP9ShYH"
     },
     {
       "album": {
@@ -735,6 +753,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Jean Shepard",
+        "url": "https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146866,
+      "name": "Forgive Me, John",
+      "url": "https://open.spotify.com/track/4F5fTQXxGmKr83qb1aFghk"
+    },
+    {
+      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -764,7 +800,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 161440,
       "name": "Fraulein",
       "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
@@ -804,7 +840,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
@@ -822,7 +858,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 161533,
       "name": "Goin' Steady",
       "url": "https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl"
@@ -874,7 +910,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181653,
       "name": "Goodnight, Irene",
       "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
@@ -1036,7 +1072,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/6CFckB9Rn0ptccgUwQylnR"
@@ -1054,7 +1090,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159453,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/7HfldGtGQR9FalFBKR14ya"
@@ -1072,7 +1108,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176893,
       "name": "Hey, Good Lookin'",
       "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
@@ -1206,7 +1242,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 176600,
       "name": "How's the World Treating You",
       "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 175266,
       "name": "I Don't Hurt Anymore - Remastered",
       "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
@@ -1350,7 +1386,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127746,
       "name": "I Love You Because",
       "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 150933,
       "name": "It Wasn't God Who Made Honky Tonk Angels",
       "url": "https://open.spotify.com/track/6uMB2D7bytHE904AGNekNB"
@@ -1646,7 +1682,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152866,
       "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
       "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174866,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173800,
       "name": "Making Believe - 1955 Single Version",
       "url": "https://open.spotify.com/track/5wh5VHVPTrcdBAIRwJvWV6"
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175800,
       "name": "Making Believe - 1955 Single Version",
       "url": "https://open.spotify.com/track/3dUvLoLd0yPJuXtfMmbFmk"
@@ -1880,7 +1916,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
@@ -1916,7 +1952,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 163426,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
@@ -2186,7 +2222,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 185026,
       "name": "Tennessee Stud - Remastered",
       "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
@@ -2294,7 +2330,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168466,
       "name": "The Auctioneer",
       "url": "https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4"
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
@@ -2540,7 +2576,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164680,
       "name": "Under Your Spell Again - Mono Single Version",
       "url": "https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ"
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Walkin' After Midnight",
       "url": "https://open.spotify.com/track/4HbWgdhQcrV1PbCkzspTSF"
@@ -2612,7 +2648,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154666,
       "name": "Walkin' After Midnight",
       "url": "https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw"
@@ -2684,7 +2720,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165453,
       "name": "White Lightning - Single Version",
       "url": "https://open.spotify.com/track/7o68KX6XyCS9lydBTH6TCP"
@@ -2756,7 +2792,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173453,
       "name": "Whole Lotta Shakin' Going On - Remastered 2022",
       "url": "https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z"
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136240,
       "name": "Why Baby Why",
       "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146333,
       "name": "Why Don't You Love Me",
       "url": "https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV"
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 177866,
       "name": "Wildwood Flower - Instrumental",
       "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"
@@ -2930,7 +2966,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164373,
       "name": "Your Cheatin' Heart",
       "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"

@@ -60,7 +60,7 @@
     {
       "album": {
         "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
-        "url": "https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs"
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
       },
       "artists": [
         {
@@ -68,12 +68,12 @@
           "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         }
       ],
-      "date_added": "2023-05-02",
+      "date_added": "2024-02-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213666,
       "name": "90's Love",
-      "url": "https://open.spotify.com/track/64EDGnUytmCV7TfOo67810"
+      "url": "https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN"
     },
     {
       "album": {
@@ -88,7 +88,43 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 213666,
+      "name": "90's Love",
+      "url": "https://open.spotify.com/track/64EDGnUytmCV7TfOo67810"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213586,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/3wNv1hK9K9wYXibbmj2Z0A"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 213586,
       "name": "All About You",
       "url": "https://open.spotify.com/track/7HBe1V2PjNM4g6KJmdtic5"
@@ -326,7 +362,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261186,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/2TGniNBlW1mBJFxvSLZ4SA"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261186,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6NBbpQfD2MZcCNBOy7iE7Q"
@@ -398,7 +434,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198626,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/19iOU7GBhuh7fq6jqT4s2T"
@@ -416,7 +452,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198626,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/3FCDv2uvzQ7yEwusRn5k7L"
@@ -748,10 +784,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215080,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/4O0U5wvdZQduuGr98ZPr3A"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/683VXnFeD7a6RvB8rKLVU9"
     },
     {
       "album": {
@@ -943,6 +997,24 @@
     },
     {
       "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207933,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/3q7aEsRK0KRIXwJkex9Fm9"
+    },
+    {
+      "album": {
         "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
         "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
       },
@@ -954,7 +1026,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207946,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/1fFcWSwHHYdrNlDIJWNT0R"
@@ -1080,10 +1152,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215826,
       "name": "Faded In My Last Song",
       "url": "https://open.spotify.com/track/1nPMDcLKWTtGQH98waRTIk"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "Faded In My Last Song",
+      "url": "https://open.spotify.com/track/6PkyloBsFbqWxFnMOVhWGp"
     },
     {
       "album": {
@@ -1206,10 +1296,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260320,
       "name": "From Home",
       "url": "https://open.spotify.com/track/3SHcE3vk03KHPKHzvTKs5j"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260320,
+      "name": "From Home",
+      "url": "https://open.spotify.com/track/3yF61aHt8hJrNOSPK7FYEP"
     },
     {
       "album": {
@@ -1254,6 +1362,24 @@
     {
       "album": {
         "name": "Golden Age",
+        "url": "https://open.spotify.com/album/4nuKX5Z1gAM64hVcC9pOxq"
+      },
+      "artists": [
+        {
+          "name": "NCT 2023",
+          "url": "https://open.spotify.com/artist/7e0ruktNBO8etVJ5rjvhbG"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/6MI7uXSmAiXHb3XY8xRzRr"
+    },
+    {
+      "album": {
+        "name": "Golden Age",
         "url": "https://open.spotify.com/album/2PCdWOGSx5Xt8rBE5wD8Bu"
       },
       "artists": [
@@ -1264,7 +1390,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218146,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/6NVdrwoqcAD16HMPOT6FLE"
@@ -1300,7 +1426,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238200,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/5DOrvstSvBz8Udn4jOntgq"
@@ -1318,7 +1444,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238200,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/5nwpVRL7r1lHf09Nitm9d0"
@@ -1448,10 +1574,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221186,
       "name": "I.O.U",
       "url": "https://open.spotify.com/track/0QHrMsLC2i8Cy9FenigFc1"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221186,
+      "name": "I.O.U",
+      "url": "https://open.spotify.com/track/1j9f9wrzXltVyS0tjLbiK6"
     },
     {
       "album": {
@@ -1592,7 +1736,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228693,
       "name": "Know Now",
       "url": "https://open.spotify.com/track/2AOL06oTgW0urXw9MHSWLk"
@@ -1610,7 +1754,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "Know Now",
       "url": "https://open.spotify.com/track/526vCRi4Wy6EGEX6Re9vXP"
@@ -1653,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "Light Bulb",
+      "url": "https://open.spotify.com/track/0lVzLfvOiftzS9buv3m1a1"
+    },
+    {
+      "album": {
         "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
         "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
       },
@@ -1664,7 +1826,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239386,
       "name": "Light Bulb",
       "url": "https://open.spotify.com/track/401ceGHOdH7VhxkhyPRoJP"
@@ -1956,10 +2118,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229400,
       "name": "Make A Wish (Birthday Song)",
       "url": "https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Make A Wish (Birthday Song)",
+      "url": "https://open.spotify.com/track/13gE0xR1FrVXpUiorU6Szw"
     },
     {
       "album": {
@@ -1992,7 +2172,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215026,
       "name": "Make Your Day",
       "url": "https://open.spotify.com/track/0daAodHPqFFWMb28BBSvkV"
@@ -2010,7 +2190,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215026,
       "name": "Make Your Day",
       "url": "https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz"
@@ -2028,7 +2208,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 208266,
       "name": "Maniac (Sung by DOYOUNG, HAECHAN) (Prod. RYAN JHUN)",
       "url": "https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4"
@@ -2046,7 +2226,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208482,
       "name": "MAXIS BY RYAN JHUN Pt. 1-Maniac",
       "url": "https://open.spotify.com/track/4Q90kkPqyBv3G7ixxKWow4"
@@ -2089,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/0eg5tx2WEHiCRGC028oOqD"
+    },
+    {
+      "album": {
         "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
         "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
       },
@@ -2100,7 +2298,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215853,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g"
@@ -2125,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "Music, Dance",
+      "url": "https://open.spotify.com/track/4QwtAvftyTQ5Hl3i7W3g70"
+    },
+    {
+      "album": {
         "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
         "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
       },
@@ -2136,7 +2352,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235506,
       "name": "Music, Dance",
       "url": "https://open.spotify.com/track/2zlbTHy7epxEemiunGB5Tv"
@@ -2154,10 +2370,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221240,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/7IXi8qEDc9oASO5LTx19nT"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/7M3iQdZrwF4dpMjEXFZWBo"
     },
     {
       "album": {
@@ -2208,10 +2442,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198680,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/0yWIL3sx36cPUrsj4w82zL"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Nectar",
+      "url": "https://open.spotify.com/track/04D17unYorSW0jP2ektAo4"
     },
     {
       "album": {
@@ -2226,7 +2478,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131946,
       "name": "New Axis",
       "url": "https://open.spotify.com/track/1qExTKTJfeYGNkSy2kl3Ak"
@@ -2244,7 +2496,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131946,
       "name": "New Axis",
       "url": "https://open.spotify.com/track/2VUZziJusn2sBa1iMn9YGn"
@@ -2388,7 +2640,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "OK!",
       "url": "https://open.spotify.com/track/58mfBDcqsmFuP4ywJ5AuWx"
@@ -2406,7 +2658,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229000,
       "name": "OK!",
       "url": "https://open.spotify.com/track/5d2mc1dOSOLw25fJ7WH5fl"
@@ -2712,10 +2964,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192213,
       "name": "Raise The Roof",
       "url": "https://open.spotify.com/track/0nVB0wUKBJiIMKGagDE3NU"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192213,
+      "name": "Raise The Roof",
+      "url": "https://open.spotify.com/track/35WzC52ftRZmANtQIqEUFu"
     },
     {
       "album": {
@@ -2838,7 +3108,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203173,
       "name": "Round&Round",
       "url": "https://open.spotify.com/track/39Z2mZBU3dRBIMro4669uo"
@@ -2856,7 +3126,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203173,
       "name": "Round&Round",
       "url": "https://open.spotify.com/track/7m83eIaTZPfaEo3A0imGKP"
@@ -3040,7 +3310,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212280,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/3Ji8aniOOqBnhk53lWWJ2W"
@@ -3058,7 +3328,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212280,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/4nTQpS5krRfyaAKHAGicaD"
@@ -3134,7 +3404,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214035,
       "name": "The 7th Sense",
       "url": "https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U"
@@ -3152,7 +3422,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214035,
       "name": "The 7th Sense",
       "url": "https://open.spotify.com/track/0m6knGAWrs6bJfrN0zZ9Qy"
@@ -3246,7 +3516,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231466,
       "name": "Universe (Let's Play Ball)",
       "url": "https://open.spotify.com/track/5Uy5zCjHo0NEg9GNW1LSZn"
@@ -3264,10 +3534,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231466,
       "name": "Universe (Let's Play Ball)",
       "url": "https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/62KSzACJYdXw7HOzRT16D0"
     },
     {
       "album": {
@@ -3282,7 +3570,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228693,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/6hDCyfYxpPdsPufg2ap1RH"
@@ -3300,7 +3588,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225666,
       "name": "Vroom",
       "url": "https://open.spotify.com/track/6oKDzt25zkGZmBhqVnNHYs"
@@ -3318,7 +3606,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225666,
       "name": "Vroom",
       "url": "https://open.spotify.com/track/7AXsppXxQ0HHOA7IqWw85y"
@@ -3420,6 +3708,24 @@
     {
       "album": {
         "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175360,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/14BZoPmcsFyEn5GConmO3x"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
         "url": "https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs"
       },
       "artists": [
@@ -3430,7 +3736,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175360,
       "name": "Work It",
       "url": "https://open.spotify.com/track/59ROWrMYu3Aze3zc2kRnJH"

@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 69414,
+  "2024-04-19": 69434,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
   "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
@@ -155,6 +155,24 @@
       "duration_ms": 265680,
       "name": "BEAUTIFUL PRAYER",
       "url": "https://open.spotify.com/track/76oD3MdvDxa0ohFlYs6OT8"
+    },
+    {
+      "album": {
+        "name": "Binary Vampire",
+        "url": "https://open.spotify.com/album/7Cc5sSu8MYibND5g4jK33J"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Binary Vampire",
+      "url": "https://open.spotify.com/track/1kweGaOuEAeP4Jpby7sREy"
     },
     {
       "album": {
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 304880,
       "name": "Happy Days Creation!",
       "url": "https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq"

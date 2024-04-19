@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Aka 7even",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Will",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Antiproiettile",
+        "url": "https://open.spotify.com/album/77dLEvgklE2aHse254YZVs"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Antiproiettile",
+      "url": "https://open.spotify.com/track/1RwgqtkCbCWafDa6NFnd1m"
+    },
+    {
+      "album": {
         "name": "ARANCIATA",
         "url": "https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131603,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5ahyDnrhuLYEKtjZ61iF00"
@@ -845,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Bere E Fumare",
+        "url": "https://open.spotify.com/album/3GWtyIssh5nStJm7tPA11a"
+      },
+      "artists": [
+        {
+          "name": "Diego Lazzari",
+          "url": "https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "Bere E Fumare",
+      "url": "https://open.spotify.com/track/3u8dx8Ueu2UwydiIa19r2G"
+    },
+    {
+      "album": {
         "name": "Universale",
         "url": "https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj"
       },
@@ -910,7 +946,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237606,
       "name": "Bruciasse Il Cielo",
       "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
@@ -2318,7 +2354,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193387,
       "name": "Fila indiana",
       "url": "https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU"
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 193387,
       "name": "Fila indiana",
       "url": "https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc"
@@ -2732,7 +2768,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176666,
       "name": "Goodbye Lover",
       "url": "https://open.spotify.com/track/2E9wgIcYIg7POy9eBldS3W"
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174084,
       "name": "IL TUO NOME",
       "url": "https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz"
@@ -3086,6 +3122,28 @@
       "duration_ms": 186852,
       "name": "Io ti conosco",
       "url": "https://open.spotify.com/track/7A9fo9j49DRPLPOGnfE2Ud"
+    },
+    {
+      "album": {
+        "name": "JAKARTA (feat. Pepe)",
+        "url": "https://open.spotify.com/album/6o66691lBA17fu0kiLhK8F"
+      },
+      "artists": [
+        {
+          "name": "OCCHI",
+          "url": "https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU"
+        },
+        {
+          "name": "Pepe",
+          "url": "https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198888,
+      "name": "JAKARTA (feat. Pepe)",
+      "url": "https://open.spotify.com/track/6i1GnFUtvsb2yRX8PtrDqs"
     },
     {
       "album": {
@@ -3760,6 +3818,24 @@
       "duration_ms": 204486,
       "name": "MARE DI GUAI",
       "url": "https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu"
+    },
+    {
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/0UPio0CLycMesRHc81bl1t"
+      },
+      "artists": [
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/0t7ma0KT51EsaCOn9FsvdQ"
     },
     {
       "album": {
@@ -4456,7 +4532,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145348,
       "name": "notte vodka",
       "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
@@ -4794,7 +4870,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169181,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
@@ -4820,6 +4896,32 @@
       "duration_ms": 202193,
       "name": "Part Of Me (with Matteo Romano)",
       "url": "https://open.spotify.com/track/0yz540gbpL0uOrKGGzQlrZ"
+    },
+    {
+      "album": {
+        "name": "PARTE DI ME",
+        "url": "https://open.spotify.com/album/2j1M7CmnPiKsvf4JpnFEmd"
+      },
+      "artists": [
+        {
+          "name": "Astol",
+          "url": "https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy"
+        },
+        {
+          "name": "Lortex",
+          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+        },
+        {
+          "name": "Donis & Dazzo",
+          "url": "https://open.spotify.com/artist/1n4rkQyy6PoU70egXjAQYG"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187461,
+      "name": "PARTE DI ME",
+      "url": "https://open.spotify.com/track/5Q6Et6BStxlPl2Vv1bhJGD"
     },
     {
       "album": {
@@ -5118,7 +5220,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175800,
       "name": "Pop Corn e patatine RMX",
       "url": "https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus"
@@ -5302,7 +5404,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169080,
       "name": "quando ti svolta la giornata",
       "url": "https://open.spotify.com/track/3n0Oy4O6Zpq1kqvFEJi13k"
@@ -5454,7 +5556,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150130,
       "name": "ROMA",
       "url": "https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z"
@@ -5714,7 +5816,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135384,
       "name": "SEI NELL'ARIA",
       "url": "https://open.spotify.com/track/2klE3JOlRzSvvbf61r064C"
@@ -6273,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "TEMPO (all the things she said)",
+        "url": "https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169287,
+      "name": "TEMPO (all the things she said)",
+      "url": "https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv"
+    },
+    {
+      "album": {
         "name": "TI AMO E NON LO SAI",
         "url": "https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU"
       },
@@ -6816,7 +6936,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160260,
       "name": "Vabbe' ciao",
       "url": "https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG"

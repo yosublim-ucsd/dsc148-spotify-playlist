@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248760,
       "name": "Feeling a Moment",
       "url": "https://open.spotify.com/track/26FPGV8xgRwsQUHefWKNg6"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 248760,
       "name": "Feeling A Moment",
       "url": "https://open.spotify.com/track/4nUrNul2oNVra6YAjigenk"
@@ -772,10 +772,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298666,
       "name": "Inside Of Love",
       "url": "https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A"
+      },
+      "artists": [
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298666,
+      "name": "Inside Of Love",
+      "url": "https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz"
     },
     {
       "album": {
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 250666,
       "name": "What Matters Most",
       "url": "https://open.spotify.com/track/10Kylccyddh80NzTunQIlW"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250666,
       "name": "What Matters Most",
       "url": "https://open.spotify.com/track/4xE520XRdfPqt54rydEgNM"
@@ -1356,7 +1374,7 @@
     {
       "album": {
         "name": "When Love Takes Hold",
-        "url": "https://open.spotify.com/album/4ZvetUUysXQE67o8aobq4W"
+        "url": "https://open.spotify.com/album/16VUnr2RZiOnKKMh1cmLXT"
       },
       "artists": [
         {
@@ -1367,6 +1385,24 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229889,
+      "name": "When Love Takes Hold",
+      "url": "https://open.spotify.com/track/0BlVB5GBSpw1ljBTWLMYXW"
+    },
+    {
+      "album": {
+        "name": "When Love Takes Hold",
+        "url": "https://open.spotify.com/album/4ZvetUUysXQE67o8aobq4W"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 229889,
       "name": "When Love Takes Hold",
       "url": "https://open.spotify.com/track/7D7g34Lvt0WBMmnjnLwJF3"

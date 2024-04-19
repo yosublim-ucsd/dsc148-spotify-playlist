@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197787,
       "name": "Always with You",
       "url": "https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD"
+    },
+    {
+      "album": {
+        "name": "Always With You",
+        "url": "https://open.spotify.com/album/5eVmonrsLmls7zBEk6Xzld"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197787,
+      "name": "Always With You",
+      "url": "https://open.spotify.com/track/6h8jMWrbcuRFe66cYNjUiV"
     },
     {
       "album": {
@@ -82,6 +100,32 @@
     {
       "album": {
         "name": "Universal Love",
+        "url": "https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "Pieter T",
+          "url": "https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3"
+        },
+        {
+          "name": "Jah Maoli",
+          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251800,
+      "name": "Be My Lady (feat. Pieter Tuhoro & Jah Maoli)",
+      "url": "https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP"
+    },
+    {
+      "album": {
+        "name": "Universal Love",
         "url": "https://open.spotify.com/album/5bN0WUW3od88WZav7XYatH"
       },
       "artists": [
@@ -100,7 +144,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251866,
       "name": "Be My Lady (with Pieter T feat. Jah Maoli)",
       "url": "https://open.spotify.com/track/4GTps7FQv0jyGxKmX0Wdc4"
@@ -172,10 +216,46 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196393,
       "name": "Blue Eyed M\u0101ori",
       "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
+    },
+    {
+      "album": {
+        "name": "Road From 26",
+        "url": "https://open.spotify.com/album/3XO3ohQJ3C8L0RKY17CmoR"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196393,
+      "name": "Blue Eyed M\u0101ori",
+      "url": "https://open.spotify.com/track/59Spoi9b71TW4ZGtaJhaoF"
+    },
+    {
+      "album": {
+        "name": "Can't Nobody",
+        "url": "https://open.spotify.com/album/6kdm1c4vj08zb1ue9WaSAU"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153001,
+      "name": "Can't Nobody",
+      "url": "https://open.spotify.com/track/2nQaC5Ft965EMVwMgSyRNi"
     },
     {
       "album": {
@@ -190,7 +270,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153001,
       "name": "Can't Nobody",
       "url": "https://open.spotify.com/track/77u3dZpJoGcpKr7JqIhDUJ"
@@ -215,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Come To Bed",
+        "url": "https://open.spotify.com/album/74MjNENomChVJ1wouIkJAD"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178410,
+      "name": "Come To Bed",
+      "url": "https://open.spotify.com/track/17K5PFzBK0FEE3aEJiPTVB"
+    },
+    {
+      "album": {
         "name": "Come to Bed",
         "url": "https://open.spotify.com/album/3yu3jbEoKfF7kPBUjbXfAe"
       },
@@ -226,7 +324,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178410,
       "name": "Come to Bed",
       "url": "https://open.spotify.com/track/75z8eUHzytgo02DPFsRAGB"
@@ -244,10 +342,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268457,
       "name": "Cool it down",
       "url": "https://open.spotify.com/track/4v2Xrn82mfEgPR7lhwboLt"
+    },
+    {
+      "album": {
+        "name": "Cool it down",
+        "url": "https://open.spotify.com/album/43zWmYbRkvYr7Izv3XURNV"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268457,
+      "name": "Cool it down",
+      "url": "https://open.spotify.com/track/7M6mvvrD10qyRzAEdpSATu"
     },
     {
       "album": {
@@ -366,6 +482,24 @@
     {
       "album": {
         "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/1mxEIPvyBlQpowlC8n4IVd"
+      },
+      "artists": [
+        {
+          "name": "Tobias",
+          "url": "https://open.spotify.com/artist/7rRC4fXWvwnQXuudPlqkqP"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220940,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/3WJeD93DKPKn7Gd7k2B1DW"
+    },
+    {
+      "album": {
+        "name": "Everywhere I Go",
         "url": "https://open.spotify.com/album/4s6ma32KrDz0jfVOxW22SN"
       },
       "artists": [
@@ -376,7 +510,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220940,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/6RyeoIZK8rVZU32I7sPzzl"
@@ -394,10 +528,50 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181571,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0EG09SESP3E5eJRkrqZBAn"
+    },
+    {
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/4jYXZwhax8Q7wery2bFf0e"
+      },
+      "artists": [
+        {
+          "name": "Fin Rah Zel",
+          "url": "https://open.spotify.com/artist/2LHIjyp5jNwOU2bJftD6K3"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181571,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6gPZOZCuXSwHEhMpESG10M"
+    },
+    {
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/2nESYlysh9UnlsTOaz8En8"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213954,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/2heiQT0IAvcvqcRsu83FyN"
     },
     {
       "album": {
@@ -416,7 +590,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213954,
       "name": "Give It To Me (with Fiji)",
       "url": "https://open.spotify.com/track/4txRMzYZ1jDyKIQwbZ0tBJ"
@@ -434,10 +608,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204885,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4RzIZS83SMXWrSGsP7XPiS"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/7gL5nwGBxLpqwtUQSQtVzx"
+      },
+      "artists": [
+        {
+          "name": "NLC",
+          "url": "https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204885,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/68HBUpt1FVAmQD49hWJqnM"
     },
     {
       "album": {
@@ -503,6 +695,24 @@
     },
     {
       "album": {
+        "name": "I'm Home",
+        "url": "https://open.spotify.com/album/62XQ2Z2W7l8uhERBDC7Dhb"
+      },
+      "artists": [
+        {
+          "name": "1 Drop Nation",
+          "url": "https://open.spotify.com/artist/1himDdDI4oiR6xf63AxOKh"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218573,
+      "name": "I'm Home",
+      "url": "https://open.spotify.com/track/0MV2H01BybDxm00tTSOFTS"
+    },
+    {
+      "album": {
         "name": "Moment In Time",
         "url": "https://open.spotify.com/album/03AsLnn6G2Q3whfAUhah86"
       },
@@ -514,7 +724,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218573,
       "name": "I'm Home",
       "url": "https://open.spotify.com/track/4UVjmWEzBSmWahZxGo43qG"
@@ -580,6 +790,24 @@
     {
       "album": {
         "name": "L.A.B III",
+        "url": "https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252680,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o"
+    },
+    {
+      "album": {
+        "name": "L.A.B III",
         "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
       },
       "artists": [
@@ -590,7 +818,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252680,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
@@ -612,10 +840,32 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197633,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/2Q7BeBOjX5Jcr9nnk2hUxj"
+    },
+    {
+      "album": {
+        "name": "Island Time",
+        "url": "https://open.spotify.com/album/2HK1aULqZdRgxMmWJALHi9"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/2DM5LlJaApG5igeJrHJc85"
+        },
+        {
+          "name": "Mikey Mayz",
+          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197633,
+      "name": "Island Time",
+      "url": "https://open.spotify.com/track/4X1m9Nt7CtIY4loF6A52Ms"
     },
     {
       "album": {
@@ -711,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Keep That Smile",
+        "url": "https://open.spotify.com/album/3BpWbrwGrCvopzMcZbQt2V"
+      },
+      "artists": [
+        {
+          "name": "Son & Water",
+          "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204991,
+      "name": "Keep That Smile",
+      "url": "https://open.spotify.com/track/1LMFP6wpJvQiE0hGRwvqPk"
+    },
+    {
+      "album": {
         "name": "Keep that Smile",
         "url": "https://open.spotify.com/album/1PGm8pQTBI3sSQk2rfpbwx"
       },
@@ -722,7 +990,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204991,
       "name": "Keep That Smile",
       "url": "https://open.spotify.com/track/5340DPISq1tyfyptbrK3yP"
@@ -740,10 +1008,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210919,
       "name": "Kia Arohatia Tatou",
       "url": "https://open.spotify.com/track/7l1Ga758jKz149d3YoTxo6"
+    },
+    {
+      "album": {
+        "name": "Kia Arohatia T\u0101tou",
+        "url": "https://open.spotify.com/album/0kI9JYX7CWBVUxnRpSvAsK"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210919,
+      "name": "Kia Arohatia T\u0101tou",
+      "url": "https://open.spotify.com/track/2EanS87tnUJsQtVUvKWUt9"
     },
     {
       "album": {
@@ -766,6 +1052,24 @@
     {
       "album": {
         "name": "He Reo ORA",
+        "url": "https://open.spotify.com/album/6iIahwgrxneTrOxyPFYegM"
+      },
+      "artists": [
+        {
+          "name": "Origin Roots Aotearoa O.R.A",
+          "url": "https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Ko t\u0101ua",
+      "url": "https://open.spotify.com/track/3eVGdEe5r9voTSCBnU9iYJ"
+    },
+    {
+      "album": {
+        "name": "He Reo ORA",
         "url": "https://open.spotify.com/album/0VwVSuolA8uJfRah4mCi2e"
       },
       "artists": [
@@ -776,10 +1080,32 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213800,
       "name": "Ko t\u0101ua",
       "url": "https://open.spotify.com/track/6VhUHRtjl9MWAmbty4dCax"
+    },
+    {
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/099n7gC2449ZTlnovvX0BI"
+      },
+      "artists": [
+        {
+          "name": "Bina Butta",
+          "url": "https://open.spotify.com/artist/7iByFcncYwzUOf7dPPF9JK"
+        },
+        {
+          "name": "Kennyon Brown",
+          "url": "https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274247,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/5ots0AQqS1l0CZS2M1jVK0"
     },
     {
       "album": {
@@ -798,7 +1124,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274247,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/6mGbKWceonopIGy0O6g1xb"
@@ -849,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Little Circles",
+        "url": "https://open.spotify.com/album/59v7wuUuZCDoiQde8D8FZ1"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248902,
+      "name": "Little Circles",
+      "url": "https://open.spotify.com/track/2F4SwSgktAiTK9S4glryek"
+    },
+    {
+      "album": {
         "name": "Road From 26",
         "url": "https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R"
       },
@@ -860,7 +1204,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248902,
       "name": "Little Circles",
       "url": "https://open.spotify.com/track/6ApCdZASNVuPUzkGR8QNFV"
@@ -904,10 +1248,32 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177414,
       "name": "Love on the Run",
       "url": "https://open.spotify.com/track/6Yjfjpahkd3YWRNO7VYJRs"
+    },
+    {
+      "album": {
+        "name": "Love On The Run",
+        "url": "https://open.spotify.com/album/6ylu4fa9ATYfEU9VWgIQK0"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "Jackson Owens",
+          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177414,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/7477Y8vpt9wiB7aY1IhLLT"
     },
     {
       "album": {
@@ -992,6 +1358,28 @@
     {
       "album": {
         "name": "Mood",
+        "url": "https://open.spotify.com/album/1jxklgoM9TGZ2OEGs4QfJ0"
+      },
+      "artists": [
+        {
+          "name": "Victor J Sefo",
+          "url": "https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9"
+        },
+        {
+          "name": "Txmmy",
+          "url": "https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/2ATqj9ozmDT7qFXyU12L9w"
+    },
+    {
+      "album": {
+        "name": "Mood",
         "url": "https://open.spotify.com/album/2BkfIUZRN08fnq9EJ15f3T"
       },
       "artists": [
@@ -1006,10 +1394,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185600,
       "name": "Mood",
       "url": "https://open.spotify.com/track/2djLw6YIPdIhrqIlKF7T5O"
+    },
+    {
+      "album": {
+        "name": "Mr Reggae",
+        "url": "https://open.spotify.com/album/17HsgjR6rhYGnDFsJVdiQw"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Mr Reggae",
+      "url": "https://open.spotify.com/track/1Wu67nQXx74tc8PTax63zK"
     },
     {
       "album": {
@@ -1024,10 +1430,32 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184120,
       "name": "Mr Reggae",
       "url": "https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef"
+    },
+    {
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/7vNkxEWGt4gA6eYnAmbUqv"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Wayno",
+          "url": "https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231787,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3l1AjvzYObjfx0sSTHuMWJ"
     },
     {
       "album": {
@@ -1046,7 +1474,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231787,
       "name": "My Guy (with Wayno)",
       "url": "https://open.spotify.com/track/5w9fFUqIzcp1tebYIkBfko"
@@ -1166,7 +1594,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/1tdlBFoIRKslWFZmjL4OTj"
@@ -1188,6 +1616,24 @@
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/2DuzhNJjW3N61Te2Zqd6Un"
+    },
+    {
+      "album": {
+        "name": "Ocean Demon",
+        "url": "https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL"
     },
     {
       "album": {
@@ -1282,7 +1728,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181714,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/6LD2ci6kqsJGNRuTHKwCHp"
@@ -1300,7 +1746,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
@@ -1402,6 +1848,28 @@
     {
       "album": {
         "name": "Real Love",
+        "url": "https://open.spotify.com/album/3PwAjplFCnsId7Wvpedwz7"
+      },
+      "artists": [
+        {
+          "name": "Mikey Mayz",
+          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
+        },
+        {
+          "name": "Hamo Dell",
+          "url": "https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203183,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/5WSegr1BhiYzJBOBTwc93i"
+    },
+    {
+      "album": {
+        "name": "Real Love",
         "url": "https://open.spotify.com/album/1MYM7SK5Q6IbnDj09O1TNd"
       },
       "artists": [
@@ -1416,10 +1884,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203244,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/5wnjCJsOdWNv0TZ1fjLPI3"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/35okbFoxrLRQxewcIZFm1f"
+      },
+      "artists": [
+        {
+          "name": "Lost Tribe Aotearoa",
+          "url": "https://open.spotify.com/artist/5x10mOUChQveAjluQr4UgT"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242264,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2rJ6TYcyJkzLfXLMcolQbk"
     },
     {
       "album": {
@@ -1434,7 +1920,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242264,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/5GqcirB8G9rh9EfPW7Fk3w"
@@ -1452,7 +1938,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 236826,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/2RaD5S9RsfE7ejbvEa8Kwi"
@@ -1470,7 +1956,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236826,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/5uqMY6WG2JqLZsRoaG1iMY"
@@ -1488,10 +1974,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189267,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj"
+    },
+    {
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189267,
+      "name": "Road Trip",
+      "url": "https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0"
     },
     {
       "album": {
@@ -1506,10 +2010,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223816,
       "name": "Rooftop Party",
       "url": "https://open.spotify.com/track/3CchmR5go8G2rCJuAQSJYq"
+    },
+    {
+      "album": {
+        "name": "Rooftop Party",
+        "url": "https://open.spotify.com/album/4wUrSdPQZNtXj1sYSNu80G"
+      },
+      "artists": [
+        {
+          "name": "NLC",
+          "url": "https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223816,
+      "name": "Rooftop Party",
+      "url": "https://open.spotify.com/track/5DPMbnzyYeATCfuwuyAv2X"
     },
     {
       "album": {
@@ -1528,10 +2050,32 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195000,
       "name": "SAY SO",
       "url": "https://open.spotify.com/track/4beyQ4toeI45Xgo6KIDSkd"
+    },
+    {
+      "album": {
+        "name": "SAY SO",
+        "url": "https://open.spotify.com/album/2ubAzZ3vBkwV6NFNW7aTNB"
+      },
+      "artists": [
+        {
+          "name": "Swiss111111111111",
+          "url": "https://open.spotify.com/artist/4DWsPympquHv8xC4V9RJGR"
+        },
+        {
+          "name": "EDY",
+          "url": "https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "SAY SO",
+      "url": "https://open.spotify.com/track/6Tx6mQ1bHraVxgDrROE5Z4"
     },
     {
       "album": {
@@ -1575,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Skank To This",
+        "url": "https://open.spotify.com/album/6sD53zTnNZqbU2UW0YraHd"
+      },
+      "artists": [
+        {
+          "name": "Teina Mamaori",
+          "url": "https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265750,
+      "name": "Skank To This",
+      "url": "https://open.spotify.com/track/3JKhhU70cLTlAQrYg7INdB"
+    },
+    {
+      "album": {
         "name": "Skank to This",
         "url": "https://open.spotify.com/album/4c6S6cGl2mkoCUL81OIdTm"
       },
@@ -1586,10 +2148,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265750,
       "name": "Skank to This",
       "url": "https://open.spotify.com/track/5YRmZUXbvHJoQBPyrJs4p6"
+    },
+    {
+      "album": {
+        "name": "Skankin",
+        "url": "https://open.spotify.com/album/6lksSnCIB1OIO9fHgTJ3vF"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245204,
+      "name": "Skankin",
+      "url": "https://open.spotify.com/track/3Ym8BMMZVguvIOygd2W2rQ"
     },
     {
       "album": {
@@ -1604,7 +2184,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245204,
       "name": "Skankin",
       "url": "https://open.spotify.com/track/6TojdcIOfqax4qNkEqkkf7"
@@ -1669,6 +2249,32 @@
     },
     {
       "album": {
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/5EgTDRPQ23DisiEhB6E3Ln"
+      },
+      "artists": [
+        {
+          "name": "Israel Starr",
+          "url": "https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui"
+        },
+        {
+          "name": "Lomez Brown",
+          "url": "https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD"
+        },
+        {
+          "name": "Natural Roots",
+          "url": "https://open.spotify.com/artist/1hC9SW169JUL2LNLGwRdy0"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279333,
+      "name": "Spiritual Healing",
+      "url": "https://open.spotify.com/track/0uZzKkVttHi4p9wFfw40ou"
+    },
+    {
+      "album": {
         "name": "Keepers of the Flame",
         "url": "https://open.spotify.com/album/4xoHtnUcBU8hxdloQAfeEj"
       },
@@ -1688,7 +2294,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279333,
       "name": "Spiritual Healing",
       "url": "https://open.spotify.com/track/4xM4DyJiINR2uZkWC7Tkgm"
@@ -1783,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Summertime in Aotearoa",
+        "url": "https://open.spotify.com/album/4S3lE2h37snPZ3ERMIKGF8"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237122,
+      "name": "Summertime in Aotearoa",
+      "url": "https://open.spotify.com/track/0of1ijyiq9iGJWXoijoIod"
+    },
+    {
+      "album": {
         "name": "Summertime In Aotearoa",
         "url": "https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu"
       },
@@ -1794,10 +2418,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237653,
       "name": "Summertime In Aotearoa",
       "url": "https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg"
+    },
+    {
+      "album": {
+        "name": "SURE (KISS ME)",
+        "url": "https://open.spotify.com/album/3wk4dEAwHtuNdQ89QoB3Le"
+      },
+      "artists": [
+        {
+          "name": "Swiss",
+          "url": "https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "SURE (KISS ME)",
+      "url": "https://open.spotify.com/track/1eTV72tqhTQqonSousLmEr"
     },
     {
       "album": {
@@ -1816,7 +2458,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222400,
       "name": "SURE (KISS ME)",
       "url": "https://open.spotify.com/track/2sQueUGJVtYDrCA8DUnszL"
@@ -1928,10 +2570,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214225,
       "name": "Tell me you're Serious",
       "url": "https://open.spotify.com/track/0vlmOC4x9tB8JOu0WSoV6u"
+    },
+    {
+      "album": {
+        "name": "Tell me you're Serious",
+        "url": "https://open.spotify.com/album/2aCFPHIU8VhmvnKjJVx2DE"
+      },
+      "artists": [
+        {
+          "name": "NLC",
+          "url": "https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214225,
+      "name": "Tell me you're Serious",
+      "url": "https://open.spotify.com/track/6jOI0CKp4Tq63zLASXTiQa"
     },
     {
       "album": {
@@ -1980,6 +2640,24 @@
     {
       "album": {
         "name": "Tuakiritanga",
+        "url": "https://open.spotify.com/album/1kJQmi7Ot3SMEavjZ6vPIB"
+      },
+      "artists": [
+        {
+          "name": "Origin Roots Aotearoa O.R.A",
+          "url": "https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266750,
+      "name": "Tuakiritanga",
+      "url": "https://open.spotify.com/track/01jFFWR9o5nQbytklHWrJD"
+    },
+    {
+      "album": {
+        "name": "Tuakiritanga",
         "url": "https://open.spotify.com/album/5gcIgrLjCdmgvoEdYIlGEr"
       },
       "artists": [
@@ -1990,7 +2668,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266750,
       "name": "Tuakiritanga",
       "url": "https://open.spotify.com/track/2VvgPRlRQLJ3b6maCeOtQ2"
@@ -2008,10 +2686,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243616,
       "name": "T\u016b mai te reo",
       "url": "https://open.spotify.com/track/5DHkzoVC9IQWakugYD4uAe"
+    },
+    {
+      "album": {
+        "name": "T\u016b mai te reo",
+        "url": "https://open.spotify.com/album/3LBfpVKNeotPrUrskaGTc0"
+      },
+      "artists": [
+        {
+          "name": "TOHU",
+          "url": "https://open.spotify.com/artist/5oUP1Mu9KCC1DqMTGs7zMk"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243616,
+      "name": "T\u016b mai te reo",
+      "url": "https://open.spotify.com/track/5fO1dKbtYwOruYrij4SsNT"
     },
     {
       "album": {
@@ -2102,10 +2798,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290160,
       "name": "Why Oh Why",
       "url": "https://open.spotify.com/track/0JMazmj2Tzqr7cgcwlYjVf"
+    },
+    {
+      "album": {
+        "name": "Why Oh Why",
+        "url": "https://open.spotify.com/album/2B1oZVnpqFf96bIM8mg0cC"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290160,
+      "name": "Why Oh Why",
+      "url": "https://open.spotify.com/track/2Jzb0W1Hl83lPMnRu0ehXR"
     },
     {
       "album": {

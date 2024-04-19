@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323250,
       "name": "always",
       "url": "https://open.spotify.com/track/0hjZ5WaakADg6SzE8NRfi5"
@@ -358,6 +358,24 @@
       "duration_ms": 323250,
       "name": "always",
       "url": "https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr"
+    },
+    {
+      "album": {
+        "name": "always / the speed of sound!",
+        "url": "https://open.spotify.com/album/7oyfhSoBYJfsN9DmAQNxrr"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323250,
+      "name": "always",
+      "url": "https://open.spotify.com/track/4Q2UvHvjL6l6pkRJ50JhSn"
     },
     {
       "album": {
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 129619,
       "name": "BAD BITCHES",
       "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
@@ -812,7 +830,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132423,
       "name": "Bad Bitches",
       "url": "https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB"
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152917,
       "name": "Clockwork (feat. Spice)",
       "url": "https://open.spotify.com/track/1vCozGsi9zZ11mkWVZetj0"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 152917,
       "name": "Clockwork (feat. Spice)",
       "url": "https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 456634,
       "name": "GAZZOO",
       "url": "https://open.spotify.com/track/2mXgzpF5eVKXRmR2G2QwWx"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456634,
       "name": "GAZZOO",
       "url": "https://open.spotify.com/track/52vwjRx0k9ZkzR1HqNv7oo"
@@ -2936,7 +2954,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
@@ -2954,7 +2972,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
@@ -3460,7 +3478,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 218044,
       "name": "Intimate - Club Mix",
       "url": "https://open.spotify.com/track/1GYYbzYsWYn3epskOuuZCb"
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218044,
       "name": "Intimate - Club Mix",
       "url": "https://open.spotify.com/track/4RkaGrpMqLkMd7nK5mEE4D"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185192,
       "name": "Live Some Life",
       "url": "https://open.spotify.com/track/4d3fU25k4ChNL3JQ8dmJ8n"
@@ -3882,7 +3900,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 185191,
       "name": "Live Some Life (feat. DING DONG)",
       "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
@@ -4114,10 +4132,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168447,
       "name": "Meadows in Japan",
       "url": "https://open.spotify.com/track/0ksuu1T1H6ce6md796lU0i"
+    },
+    {
+      "album": {
+        "name": "The Leo Sun Sets",
+        "url": "https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "Meadows in Japan",
+      "url": "https://open.spotify.com/track/1VkA18MtiNaEICpHcTj3kw"
     },
     {
       "album": {
@@ -4434,6 +4470,24 @@
     {
       "album": {
         "name": "Forever, Ya Girl",
+        "url": "https://open.spotify.com/album/6bMdCDoTp3dLXiG1oXRGYV"
+      },
+      "artists": [
+        {
+          "name": "keiyaA",
+          "url": "https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Negus Poem 1 & 2",
+      "url": "https://open.spotify.com/track/40bHMHpC762qf5pz3DSYMg"
+    },
+    {
+      "album": {
+        "name": "Forever, Ya Girl",
         "url": "https://open.spotify.com/album/4jZGBAQ1iYaWlYndJ8h7LS"
       },
       "artists": [
@@ -4444,7 +4498,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214500,
       "name": "Negus Poem 1 & 2",
       "url": "https://open.spotify.com/track/6hzSpBS8PUgEBzIPmnzUc6"
@@ -4523,6 +4577,28 @@
     },
     {
       "album": {
+        "name": "NITEVISION",
+        "url": "https://open.spotify.com/album/48kwvsx700WIOOBXfJKwfk"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Pamputtae",
+          "url": "https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "NITEVISION",
+      "url": "https://open.spotify.com/track/5Djuqh9OIH7JLd174ZPsRP"
+    },
+    {
+      "album": {
         "name": "Nitevision",
         "url": "https://open.spotify.com/album/5y8xwWSEoJKTC0HrMBbNBH"
       },
@@ -4538,7 +4614,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133000,
       "name": "Nitevision",
       "url": "https://open.spotify.com/track/5z9Odpd6Dxm4E59hVyXUSS"
@@ -4720,7 +4796,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 292824,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt"
@@ -4756,7 +4832,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292824,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
@@ -5398,7 +5474,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361412,
       "name": "Rhodes Island",
       "url": "https://open.spotify.com/track/6Wm0zHFswApxEBtvdK3sbt"
@@ -5416,7 +5492,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 361412,
       "name": "Rhodes Island",
       "url": "https://open.spotify.com/track/7lZRdAzjThgOBGWzEYCymj"
@@ -5438,7 +5514,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177355,
       "name": "RIDE WITH ME",
       "url": "https://open.spotify.com/track/0Cl6B1TKMcwaSPFHcitZkf"
@@ -5460,7 +5536,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 177355,
       "name": "RIDE WITH ME",
       "url": "https://open.spotify.com/track/1TJOIVjPHbnqloF9pvDOf6"
@@ -5610,7 +5686,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 162272,
       "name": "Run it",
       "url": "https://open.spotify.com/track/5VCsDSmSNkmIP7RaFYSMGZ"
@@ -5632,7 +5708,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162272,
       "name": "Run It (feat. Smiles Davis)",
       "url": "https://open.spotify.com/track/3AxNeTEdM7bzJV1RUDKFn6"
@@ -5774,7 +5850,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "Seein You",
       "url": "https://open.spotify.com/track/2hqLmveueV7W3VlnFS5dpQ"
@@ -5792,7 +5868,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334000,
       "name": "Seein You",
       "url": "https://open.spotify.com/track/2u65abnY1xF8vlTE5yQEXP"
@@ -6148,10 +6224,28 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185361,
       "name": "SO HARD TO TELL",
       "url": "https://open.spotify.com/track/0895oFCAOSNQeUkRVR73bU"
+    },
+    {
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/2GldIFZ7N0ISnFFiRR4JhX"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185361,
+      "name": "SO HARD TO TELL",
+      "url": "https://open.spotify.com/track/5geeny7VqgANVVZAIwh0Up"
     },
     {
       "album": {
@@ -6250,6 +6344,24 @@
     {
       "album": {
         "name": "Broughtupsy",
+        "url": "https://open.spotify.com/album/1Ysz4eM1k5ZM5oNE4oTX1J"
+      },
+      "artists": [
+        {
+          "name": "Bonjay",
+          "url": "https://open.spotify.com/artist/12Jc0PCNtdYxqlBev0EqGJ"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202960,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/06JSdDxlW4p7vKOraVzjvn"
+    },
+    {
+      "album": {
+        "name": "Broughtupsy",
         "url": "https://open.spotify.com/album/6p8iYdmqXyxJJMg70dfVF5"
       },
       "artists": [
@@ -6260,7 +6372,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202960,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3D0ZLuFDCA1ILyXQYlMqZ9"
@@ -6580,6 +6692,24 @@
     {
       "album": {
         "name": "portrait of a dog",
+        "url": "https://open.spotify.com/album/4a8iJyjX7uBLWK4vP4Z5pO"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377999,
+      "name": "the ordinary is ordinary because it ordinarily repeats",
+      "url": "https://open.spotify.com/track/1SOGhHxqGrIc71kx1itGHt"
+    },
+    {
+      "album": {
+        "name": "portrait of a dog",
         "url": "https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5"
       },
       "artists": [
@@ -6594,7 +6724,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/4o3MqrMKZnku8PZTVZEPeR"
@@ -6866,7 +6996,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 74209,
       "name": "TOPIC",
       "url": "https://open.spotify.com/track/0r5Sp6vDej7NpEVljHWzYI"
@@ -6888,7 +7018,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 74209,
       "name": "TOPIC",
       "url": "https://open.spotify.com/track/6ho5I49ybvEwuMmmUGDGLv"
@@ -7182,7 +7312,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161373,
       "name": "W4TN",
       "url": "https://open.spotify.com/track/0qeePYqr2G0Zqb5G9X1Ryr"
@@ -7200,7 +7330,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 161373,
       "name": "W4TN",
       "url": "https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb"
@@ -7244,7 +7374,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216178,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"
@@ -7262,7 +7392,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 216178,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg"
@@ -7634,6 +7764,28 @@
     {
       "album": {
         "name": "You",
+        "url": "https://open.spotify.com/album/127QctLnyMThhls3ZlrbIf"
+      },
+      "artists": [
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        },
+        {
+          "name": "Murder He Wrote",
+          "url": "https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255004,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3wG8a1EraWKj9FnoVWaO2t"
+    },
+    {
+      "album": {
+        "name": "You",
         "url": "https://open.spotify.com/album/4fgDSI70opc5iYRVcPBb5w"
       },
       "artists": [
@@ -7648,10 +7800,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255004,
       "name": "You",
       "url": "https://open.spotify.com/track/6u3r5ZllVScUXAHVSLsJVC"
+    },
+    {
+      "album": {
+        "name": "Couldn't Wait to Tell You...",
+        "url": "https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "You the One Fish in the Sea",
+      "url": "https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv"
     },
     {
       "album": {
@@ -7666,7 +7836,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152000,
       "name": "You the One Fish in the Sea",
       "url": "https://open.spotify.com/track/5TOnnVV8YxB4NnRvavrPHX"

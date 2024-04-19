@@ -42,7 +42,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/4GojDZAcFshu4ELQuGXrhz"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196568,
       "name": "All Lost",
       "url": "https://open.spotify.com/track/56LMiEpyy0t7HLct13oVi3"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215106,
       "name": "All Over Me",
       "url": "https://open.spotify.com/track/7N2KPKZAutekLgLNEg2AOF"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 205680,
       "name": "Antasma",
       "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 508601,
       "name": "Ayahuasca",
       "url": "https://open.spotify.com/track/6UmJo8SsHylk0Uc3kecKsf"
@@ -220,10 +220,32 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 508601,
       "name": "Ayahuasca",
       "url": "https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px"
+    },
+    {
+      "album": {
+        "name": "Besidju",
+        "url": "https://open.spotify.com/album/3Pb5s71RgrVaFMBuWn3OSl"
+      },
+      "artists": [
+        {
+          "name": "shamana",
+          "url": "https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107441,
+      "name": "Besidju",
+      "url": "https://open.spotify.com/track/3Sv5LAL4RhrRqaYJO9uksZ"
     },
     {
       "album": {
@@ -242,7 +264,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 107441,
       "name": "Besidju",
       "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
@@ -260,7 +282,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225360,
       "name": "Bet She Looks Like You",
       "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
@@ -296,7 +318,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210833,
       "name": "Billy",
       "url": "https://open.spotify.com/track/7CgenkSQAeoZnPbT6RVFXP"
@@ -332,7 +354,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211472,
       "name": "Billy",
       "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
@@ -404,7 +426,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 208200,
       "name": "CARE",
       "url": "https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4"
@@ -440,7 +462,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188573,
       "name": "Cycle",
       "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
@@ -480,7 +502,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Do You Feel",
       "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
@@ -502,7 +524,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278959,
       "name": "downstate - Ara Koufax Remix",
       "url": "https://open.spotify.com/track/4iYwaMVjH0E0QuSTWZlWg7"
@@ -520,7 +542,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 195194,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/3vEIzJE4xGmfmufxa5QVGr"
@@ -538,7 +560,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198958,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
@@ -556,7 +578,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 115000,
       "name": "Edition",
       "url": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
@@ -574,7 +596,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115000,
       "name": "Edition",
       "url": "https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP"
@@ -592,7 +614,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213204,
       "name": "Every High",
       "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
@@ -610,7 +632,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213204,
       "name": "Every High",
       "url": "https://open.spotify.com/track/7vLqTNvm9cBl74CeiWmcId"
@@ -654,7 +676,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE"
@@ -720,7 +742,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259423,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
@@ -742,7 +764,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 259427,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
@@ -822,7 +844,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 339396,
       "name": "Fragment II",
       "url": "https://open.spotify.com/track/4BE2zxYvp7iUqaj6nb7kyb"
@@ -876,7 +898,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
@@ -894,7 +916,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/4hboEacHpNTLg2xPmAfjR3"
@@ -930,7 +952,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208706,
       "name": "Get Light",
       "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281727,
       "name": "Holiday - Kyson Remix",
       "url": "https://open.spotify.com/track/3EsqrnNfJ9CgKtmqM8dJPN"
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281727,
       "name": "Holiday - Kyson Remix",
       "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
@@ -1076,7 +1098,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/48UlszOrUzfprHJfkVOcbb"
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6hBLjkIOP23jWYcPsrJM43"
@@ -1138,7 +1160,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
@@ -1182,7 +1204,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205563,
       "name": "I would",
       "url": "https://open.spotify.com/track/1HsPRFQdULoSCBNDrlWbgb"
@@ -1234,7 +1256,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205564,
       "name": "I would",
       "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281110,
       "name": "I'm Right Here",
       "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
@@ -1278,7 +1300,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281110,
       "name": "I'm Right Here",
       "url": "https://open.spotify.com/track/1P6nShfHtDMPeX9ioSpuDB"
@@ -1347,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "theres still us EP",
+        "url": "https://open.spotify.com/album/2vRdUn7CArNCf2MV9jhxhX"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "I'm sorry (feat. shiloh)",
+      "url": "https://open.spotify.com/track/6tuZKBiS1p6Ig0UtC0ii0Y"
+    },
+    {
+      "album": {
         "name": "I've Always Been",
         "url": "https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV"
       },
@@ -1384,7 +1424,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258842,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/0BsFp2sJPOdtRg3oUVWuh8"
@@ -1450,7 +1490,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200504,
       "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
       "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 87037,
       "name": "INT.",
       "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
@@ -1526,7 +1566,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255214,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
@@ -1544,10 +1584,28 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 255214,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo"
+    },
+    {
+      "album": {
+        "name": "Limestone",
+        "url": "https://open.spotify.com/album/7Kv3acN8uo0IVK47s3oUBv"
+      },
+      "artists": [
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238267,
+      "name": "Limestone",
+      "url": "https://open.spotify.com/track/6qSLypToYm6qOVhhN6vtZn"
     },
     {
       "album": {
@@ -1562,7 +1620,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219871,
       "name": "Loss",
       "url": "https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8"
@@ -1587,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Medication",
+        "url": "https://open.spotify.com/album/6NE5qKwyUFINTr7JIvhQlo"
+      },
+      "artists": [
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230523,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/5sTdTSLH1mXU5J4w6ethqQ"
+    },
+    {
+      "album": {
         "name": "Baby You Can Free Your Mind",
         "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
       },
@@ -1598,7 +1674,7 @@
       ],
       "date_added": "2019-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335180,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
@@ -1616,7 +1692,7 @@
       ],
       "date_added": "2019-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 335180,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB"
@@ -1652,7 +1728,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239000,
       "name": "Money",
       "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
@@ -1670,7 +1746,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
@@ -1688,7 +1764,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
@@ -1706,10 +1782,28 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211826,
       "name": "Needy Bees",
       "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/5RfZQHPapcSY40HaYvt3fh"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/5gN2YGb1DOT5etfqwP66I3"
     },
     {
       "album": {
@@ -1724,7 +1818,7 @@
       ],
       "date_added": "2019-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177600,
       "name": "Never Meant To Call",
       "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
@@ -1832,7 +1926,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145174,
       "name": "Our Story",
       "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
@@ -1868,7 +1962,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210745,
       "name": "Pinch",
       "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
@@ -1886,7 +1980,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 210745,
       "name": "Pinch",
       "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
@@ -1904,7 +1998,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188557,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/18gcopzbu2DjQjR2DI5pE8"
@@ -1922,7 +2016,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188557,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
@@ -1962,7 +2056,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 216140,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9"
@@ -1980,7 +2074,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
@@ -2038,7 +2132,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157338,
       "name": "Swell - I'm Sorry",
       "url": "https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt"
@@ -2074,7 +2168,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146880,
       "name": "thankful",
       "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
@@ -2092,7 +2186,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "The Edge of Forever",
       "url": "https://open.spotify.com/track/0v6dmK9TWQWY6NqBG7YVpK"
@@ -2190,7 +2284,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185747,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/3EIrhX6rhOZZ9tageWD5Om"
@@ -2208,7 +2302,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185758,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
@@ -2226,7 +2320,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192364,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/0Xx0UPF4loz1ZJeZs4yhA0"
@@ -2244,7 +2338,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192364,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
@@ -2262,7 +2356,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
@@ -2280,7 +2374,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
@@ -2302,7 +2396,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
@@ -2324,7 +2418,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/6VnADht5DZuwR3aYX4Ufz2"
@@ -2360,7 +2454,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191986,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
@@ -2378,7 +2472,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191986,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/41s8bVDv8tt5RiJ6V12grq"
@@ -2432,7 +2526,7 @@
       ],
       "date_added": "2019-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313266,
       "name": "Where the Money Flows",
       "url": "https://open.spotify.com/track/35592qATAP1u72mO9oelLc"
@@ -2468,7 +2562,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 176470,
       "name": "Wherever You Go (You'll Never See Me)",
       "url": "https://open.spotify.com/track/2ZlEYFavXkkEF37JrjMSLp"
@@ -2504,7 +2598,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218311,
       "name": "White Gemini",
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
@@ -2540,7 +2634,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378253,
       "name": "Words I Don't Remember",
       "url": "https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e"
@@ -2558,7 +2652,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
@@ -2594,7 +2688,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233235,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/7DxLN7gn6TNpgyaIYkQ6d1"
@@ -2612,7 +2706,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 170404,
       "name": "You",
       "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
@@ -2648,7 +2742,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324106,
       "name": "Young",
       "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
@@ -2666,7 +2760,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 324122,
       "name": "Young",
       "url": "https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu"

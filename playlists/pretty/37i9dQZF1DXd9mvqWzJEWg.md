@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/7JenaF646lANuwlTFZzH0X?si=WW6zRJFFRNqvy9Xs4y0xiA">Kyotic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,882 likes - 55 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,964 likes - 55 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 50 | [Bhuwa's Party](https://open.spotify.com/track/4pOKeo4Omk7ZjueaOr7IIM) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Bhuwa G](https://open.spotify.com/artist/6d1P6DJxCWIjnR6GI9qhdI), [Sizwe Mdlalose](https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Solan Lo](https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq), [DJ Pepe](https://open.spotify.com/artist/4I54IHr2hrvOAQjUF0smrI), [Kwah](https://open.spotify.com/artist/1uJMiYEOwN2sqk8Nyd11SQ) | [Bhuwa's Party](https://open.spotify.com/album/2TjEOCa9yiWD1Ud3w14NgN) | 5:38 |
 | 51 | [Umhlaka 2](https://open.spotify.com/track/5Yd1gtpJTGDphBNbnDIMVU) | [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [The Elevatorz](https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ), [JR IGhost](https://open.spotify.com/artist/4V824x6HB7yHu8Sr7sXOUH), [Ainch](https://open.spotify.com/artist/3KyYbO8vsDfPpXOGGVUSHF) | [Umhlaka 2](https://open.spotify.com/album/06tkCF1OAZz0Z8XwDSpE6n) | 5:24 |
 | 52 | [3rd War](https://open.spotify.com/track/6ilgtHEzEZnA3nLxNmoQE3) | [Newlandz Finest](https://open.spotify.com/artist/5e6xrUaBikxvU4K3K5CObX) | [3rd War](https://open.spotify.com/album/0ttmjG6IgnQNzb8WxqRPCn) | 5:08 |
-| 53 | [This is Too Much](https://open.spotify.com/track/30qRb82NJDdYyTm5xucjqC) | [ChroniQ MusiQ](https://open.spotify.com/artist/2POBQCBCgygfHPqWGvcaQv), [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL) | [For The Streets](https://open.spotify.com/album/7jMKWYZvYcgrKB7NW6JYwI) | 5:41 |
+| 53 | [This is Too Much](https://open.spotify.com/track/30qRb82NJDdYyTm5xucjqC) | [ChroniQ MusiQ](https://open.spotify.com/artist/0kOjdvFBDQH8pb0OPvg346), [Bhuda M](https://open.spotify.com/artist/622RlXZvoQJbijk7kC4KZM) | [For The Streets](https://open.spotify.com/album/7jMKWYZvYcgrKB7NW6JYwI) | 5:41 |
 | 54 | [Frequency 99](https://open.spotify.com/track/1aSaZw4Kq4rn19t5ddeTxP) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Dj Ctha\_Somgubha](https://open.spotify.com/artist/2ymyyA2v6dgJvxEopzs2PG) | [15k App](https://open.spotify.com/album/05dX6qT68NJi1b1IAdhrSm) | 6:11 |
 | 55 | [Imali](https://open.spotify.com/track/4u0RKHQuHzEiXySDbRYy1B) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q) | [Imali](https://open.spotify.com/album/1QTu1sPc5EYFeufpGVVfnc) | 5:34 |
 

@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Baby Doll Fully Loaded",
+        "url": "https://open.spotify.com/album/0q9CXF0SHe4JK7q9I5b0Rw"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349813,
+      "name": "Afreen Afreen",
+      "url": "https://open.spotify.com/track/6rW0xXiKajbihwXuPDNN8k"
+    },
+    {
+      "album": {
         "name": "Nusrat & Rahat Fateh Ali Khan and Other Hits",
         "url": "https://open.spotify.com/album/5p085cUF4HKBFMAXDEZUhl"
       },
@@ -150,7 +168,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347813,
       "name": "Afreen Afreen - Dance Mix",
       "url": "https://open.spotify.com/track/4WqBHzqGq7AlWsFRg6Iokz"
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 433306,
       "name": "Ahista",
       "url": "https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP"
@@ -186,7 +204,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 434400,
       "name": "Ahista",
       "url": "https://open.spotify.com/track/3GIxNehfNB1vsDCTWBoGiU"
@@ -354,7 +372,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 317425,
       "name": "Bulla Ki Jana",
       "url": "https://open.spotify.com/track/1TrC5A54xNaztYCyFWF4dj"
@@ -372,7 +390,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317425,
       "name": "Bulla Ki Jana",
       "url": "https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu"
@@ -484,10 +502,28 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255400,
       "name": "Chudi",
       "url": "https://open.spotify.com/track/5WNasfh6bMkv4NKezJDUDp"
+    },
+    {
+      "album": {
+        "name": "Yaad Piya Ki Aane Lagi",
+        "url": "https://open.spotify.com/album/2AdqeAQUXd0qrT1rSH6zBK"
+      },
+      "artists": [
+        {
+          "name": "Falguni Pathak",
+          "url": "https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Chudi",
+      "url": "https://open.spotify.com/track/29g1Qs0JAfPNTnivV2Y11Q"
     },
     {
       "album": {
@@ -586,6 +622,24 @@
     {
       "album": {
         "name": "Dhoom",
+        "url": "https://open.spotify.com/album/2K2Du4rZckNx0Ca5EfZrCQ"
+      },
+      "artists": [
+        {
+          "name": "Palash",
+          "url": "https://open.spotify.com/artist/76iykI8QUAnkHVN3DiPY8m"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Dhoom Pichuck",
+      "url": "https://open.spotify.com/track/1Nh2gb7yBBsRhJKyEQTHim"
+    },
+    {
+      "album": {
+        "name": "Dhoom",
         "url": "https://open.spotify.com/album/0DaMYIIb9tPU2fpNHwsENo"
       },
       "artists": [
@@ -604,7 +658,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290000,
       "name": "Dhoom Pichuck (feat. Shubha Mudgal)",
       "url": "https://open.spotify.com/track/2U6bhVBXGP2iTufLWSaKZR"
@@ -622,10 +676,28 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292362,
       "name": "Dil Le Gayee",
       "url": "https://open.spotify.com/track/5wb5msqy4y3quCUZOM0IPJ"
+    },
+    {
+      "album": {
+        "name": "Nishani Pyar Di",
+        "url": "https://open.spotify.com/album/2FQZblRJlJsEKrXWqWk1vz"
+      },
+      "artists": [
+        {
+          "name": "Jassi",
+          "url": "https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292362,
+      "name": "Dil Le Gayee",
+      "url": "https://open.spotify.com/track/69c3TizFHuPtBa7WTBTnXx"
     },
     {
       "album": {
@@ -862,6 +934,36 @@
     {
       "album": {
         "name": "Unda Da Influence",
+        "url": "https://open.spotify.com/album/47Bp7JDMDjb5r0maqyIu7I"
+      },
+      "artists": [
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "Master Rakesh",
+          "url": "https://open.spotify.com/artist/7KeHqlOZHTwKhGAT8qrQ8L"
+        },
+        {
+          "name": "Deepti",
+          "url": "https://open.spotify.com/artist/7oa1NaHIJ7PtRzPbObT37j"
+        },
+        {
+          "name": "Shortie",
+          "url": "https://open.spotify.com/artist/2yIbh3ljfJvWJw5VPj2n6t"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209060,
+      "name": "Kangna",
+      "url": "https://open.spotify.com/track/7ejqSzofWfLiqBT9CcCmsf"
+    },
+    {
+      "album": {
+        "name": "Unda Da Influence",
         "url": "https://open.spotify.com/album/7e5hMuXIJOrJY75lwR6hGg"
       },
       "artists": [
@@ -884,7 +986,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210680,
       "name": "Kangna",
       "url": "https://open.spotify.com/track/1C5e7ZRscn79tjMEc3swc7"
@@ -932,10 +1034,28 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246373,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/1Fnu318mRG7yLmBRuzFlFn"
+    },
+    {
+      "album": {
+        "name": "Talaash",
+        "url": "https://open.spotify.com/album/68wXbL2QLiSx0fHMPTW1RU"
+      },
+      "artists": [
+        {
+          "name": "Suneeta Rao",
+          "url": "https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246373,
+      "name": "Kesariya",
+      "url": "https://open.spotify.com/track/2hRIFoe1ngcFtzjEhfxUN7"
     },
     {
       "album": {
@@ -1102,7 +1222,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 277386,
       "name": "Maine Payal Hai Chhankai",
       "url": "https://open.spotify.com/track/79mTw48OApemSCN9WNMApk"
@@ -1138,7 +1258,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279026,
       "name": "Maine Payal Hai Chhankai",
       "url": "https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU"
@@ -1364,7 +1484,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 361706,
       "name": "Paree",
       "url": "https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg"
@@ -1382,7 +1502,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361706,
       "name": "Paree",
       "url": "https://open.spotify.com/track/7xlZrgxFI83OCzNYFyO50x"
@@ -1433,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Salaam - Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464426,
+      "name": "Piya Re Piya Re",
+      "url": "https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo"
+    },
+    {
+      "album": {
         "name": "Salaam, Vol. 68",
         "url": "https://open.spotify.com/album/1wlDZNTKj8fNS9b8MbmE0b"
       },
@@ -1444,7 +1582,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 469133,
       "name": "Piya Re Piya Re",
       "url": "https://open.spotify.com/track/3BFD61XLrWnZTC1GBD2hxV"
@@ -1762,7 +1900,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264760,
       "name": "Tu",
       "url": "https://open.spotify.com/track/0T24T41ZMfp5pMGU02mFu3"
@@ -1780,7 +1918,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266040,
       "name": "Tu",
       "url": "https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V"
@@ -1820,10 +1958,28 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368866,
       "name": "Tu Tu Hai Wahi - Remix",
       "url": "https://open.spotify.com/track/1PO5SevsPWILl6VQDxPO8X"
+    },
+    {
+      "album": {
+        "name": "Greatest Love Songs (Vol. 2)",
+        "url": "https://open.spotify.com/album/3Nb1JIqf0p2tDCzeUMptg8"
+      },
+      "artists": [
+        {
+          "name": "Vaishali",
+          "url": "https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368866,
+      "name": "Tu Tu Hai Wahi - Remix",
+      "url": "https://open.spotify.com/track/2uD3RXappAgVMPbeLkq9jh"
     },
     {
       "album": {

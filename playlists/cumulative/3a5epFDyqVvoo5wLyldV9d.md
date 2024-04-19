@@ -4,7 +4,7 @@
 
 > 
 
-772 songs - 2 day 12 hr 27 min
+774 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Paattu Ingae](https://open.spotify.com/track/11yEtoydHX8LJKunMMxaRq) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Poovizhi Vaasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jRO7eSFB33i3JW0YCPZoB) | 4:32 | 2022-09-14 |  |
 | [Pais Nublado](https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:32 | 2020-04-05 |  |
 | [Pangea](https://open.spotify.com/track/7temtwzguIVsHoT3ewhnxh) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Mantra Moderne](https://open.spotify.com/album/2Uo2xIUyu2VRo43IKxrokH) | 4:17 | 2020-11-24 |  |
+| [Pangua zô pile moin](https://open.spotify.com/track/2tFqiHFTItjvh2Ot71hdVQ) | [Fred Aucagos](https://open.spotify.com/artist/4vP4uEiX0sunTFcokup8ks) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:41 | 2024-04-17 |  |
 | [Parandeh](https://open.spotify.com/track/7CCJmWXYCNBGwBGuJHyPUa) | [Martik](https://open.spotify.com/artist/2qNu2Ys8ePDMvKwixWNdbS) | [40 Golden Hits of Martik](https://open.spotify.com/album/4x4YRpwFDqhqc4zyIBW42O) | 5:02 | 2021-06-03 |  |
 | [Pariya](https://open.spotify.com/track/39YgseH9hJUDw96HPfyYhx) | [Shahram Shabpareh](https://open.spotify.com/artist/5IM6obklIrgzzE43vokYvC) | [Paria](https://open.spotify.com/album/4eQavEdFZTs8E7KIML0mgK) | 5:57 | 2023-09-23 |  |
 | [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 | 2022-07-07 |  |
@@ -594,6 +595,7 @@
 | [Sadness Theme](https://open.spotify.com/track/1deOV8lDnZ6u4TpBqOYYUV) | [Franco Micalizzi](https://open.spotify.com/artist/7f37Vyx4s5Ok6R0Q11YzJP) | [Stridulum \- The Visitor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25UvA5F5pO5FT5u8AmzyeX) | 3:29 | 2022-07-08 |  |
 | [Sah](https://open.spotify.com/track/3ZNJp2eOQh9nhHzvg21soI) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 3:44 | 2020-11-17 |  |
 | [Samba De Verão](https://open.spotify.com/track/0HdjpQXDnlGCp0II1BRcau) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso Naturalmente](https://open.spotify.com/album/4xe7GLi4Z8A5PWNIFtWXkH) | 3:06 | 2022-09-14 |  |
+| [San Salvador](https://open.spotify.com/track/7qwX54OM0eAWxFD2pYWejF) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz](https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz) | 6:56 | 2024-04-17 |  |
 | [Sango Ya Mawa](https://open.spotify.com/track/2NVPDNVz9LbG6F2UGFJp8i) | [Patience Dabany](https://open.spotify.com/artist/0I4hm86r145kyusXtEIqSL) | [Patience Dabany](https://open.spotify.com/album/23p7khOlYDAQRpLhETOPtY) | 6:14 | 2022-01-04 |  |
 | [Sangoma](https://open.spotify.com/track/50FniBKM82VZeLob8Sa8AH) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [Sangoma](https://open.spotify.com/album/6c8A49qaGMiyDsxDSujsrN) | 5:57 | 2021-07-13 |  |
 | [Sanza tristesse](https://open.spotify.com/track/6UiXdhwWHpUl5gTTTkzXPC) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Sanza \(1982\-1984\)](https://open.spotify.com/album/76JTu51TbKCpDOcjIEXEV3) | 3:45 | 2019-09-07 |  |
@@ -771,7 +773,7 @@
 | [プラスティック・バンブー](https://open.spotify.com/track/25uY66kafpxMsuOkjwC9Vl) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [フェイヴァリット・ヴィジョンズ](https://open.spotify.com/album/1DzapgwUNFMJTNtyLtzhTJ) | 6:31 | 2024-01-27 |  |
 | [ボラーレ](https://open.spotify.com/track/3L8aQMfWwafy66OHyAXRJK) | [高橋ユキヒロ](https://open.spotify.com/artist/0pkyrLngibQ5r4jqB08mH4) | [サラヴァ!](https://open.spotify.com/album/3R9KTFDBhl6SMgvOsObKUb) | 2:29 | 2022-02-28 |  |
 | [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 | 2021-06-07 |  |
-| [夢中人](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 | 2020-07-23 |  |
+| [夢中人 \- 電影《重慶森林》歌曲](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 | 2020-07-23 |  |
 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 | 2020-07-28 |  |
 | [新しい人](https://open.spotify.com/track/5RXsyzFF3lve6Bpz3CIOQh) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:46 | 2022-08-05 |  |
 | [死にませんが?](https://open.spotify.com/track/7shvz3T0nTrOtdt9G9y5qI) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [できれば愛を](https://open.spotify.com/album/3X5gFWP8oPzmi5E40vSvsd) | 4:03 | 2019-11-23 |  |

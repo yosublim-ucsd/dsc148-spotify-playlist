@@ -4,7 +4,7 @@
 
 > A new wave of rock music\. Cover: Imogen and the Knife
 
-352 songs - 19 hr 9 min
+355 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 | 2023-08-10 | 2024-02-09 |
 | [Bigger Than Anything Ever](https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Bigger Than Anything Ever](https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm) | 3:00 | 2023-03-24 | 2023-08-11 |
 | [Bite](https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/4CTR4308FLv0J234RjREIl) | 3:10 | 2023-02-17 | 2023-06-09 |
-| [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 | 2024-04-12 |  |
+| [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/2C0fTD8sK5gNETLEg5PqUj) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE](https://open.spotify.com/album/71gslL2qa2QaPuZvQsWihW) | 3:08 | 2024-04-12 |  |
+| [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 | 2024-04-12 | 2024-04-19 |
 | [Bleachers Yard](https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt) | [Cucamaras](https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T) | [Buck Rogers Time](https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ) | 4:34 | 2023-05-18 | 2023-12-21 |
 | [Block Out The Noise](https://open.spotify.com/track/2TCAsTba1NiAdhX04uVP8E) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Block Out The Noise](https://open.spotify.com/album/1nZwgItm6HP3ASvi9tFC7T) | 2:20 | 2023-09-21 | 2024-02-09 |
 | [BLOOD DEBT](https://open.spotify.com/track/6PCpMc9Pz72sbU4VWjGcu0) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [BLOOD DEBT](https://open.spotify.com/album/4iImv3ptpL3hxCnR8gIjDI) | 2:11 | 2023-04-21 | 2023-05-19 |
@@ -53,7 +54,8 @@
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-21 | 2023-11-18 |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 |  |
 | [Buck](https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Buck](https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13) | 3:59 | 2023-02-10 | 2023-08-25 |
-| [Business As Usual](https://open.spotify.com/track/3VBuguF3LDcfe5ASmHwOrf) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Business As Usual](https://open.spotify.com/album/4o3UY5DJ6KsZzHxBLsHjkN) | 3:23 | 2024-03-15 |  |
+| [Business As Usual](https://open.spotify.com/track/0wlM6ob7PFbUQSamDGT5No) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Business As Usual](https://open.spotify.com/album/5Q6OigtVlM8tFCr3ebBrOC) | 3:23 | 2024-04-12 |  |
+| [Business As Usual](https://open.spotify.com/track/3VBuguF3LDcfe5ASmHwOrf) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Business As Usual](https://open.spotify.com/album/4o3UY5DJ6KsZzHxBLsHjkN) | 3:23 | 2024-03-15 | 2024-04-19 |
 | [BUTCHER'S BIN](https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BUTCHER'S BIN](https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R) | 4:00 | 2024-03-15 | 2024-04-13 |
 | [Candy](https://open.spotify.com/track/0p5xMjlOc6Rpm8Y974Kn6H) | [The Gulps](https://open.spotify.com/artist/62HCZvFY4HgJLQb7x6fdLD) | [Candy](https://open.spotify.com/album/69TTf5gGOmechxuZ4AEjsG) | 3:16 | 2023-01-13 | 2023-06-09 |
 | [Caroline](https://open.spotify.com/track/4xCbH4j4W3wqkqNVJCMElL) | [ALICE LILY](https://open.spotify.com/artist/76QfCo8TeN5wtqDoN6PbdQ) | [Caroline](https://open.spotify.com/album/5Fn9vv173RuHWjvONUWgoH) | 3:05 | 2024-02-09 | 2024-04-13 |
@@ -72,8 +74,8 @@
 | [Crowd](https://open.spotify.com/track/5btcktwEOwwLGjg4ZOXU8A) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Crowd](https://open.spotify.com/album/4mbuha3EQeT0RRqONrzNfD) | 3:12 | 2023-08-24 | 2024-02-09 |
 | [Cut Your Face](https://open.spotify.com/track/0lO6kfb48tlpVBAlJnTGjO) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Cut Your Face](https://open.spotify.com/album/0b2IAxWPZLraVt4Sfrl2cT) | 4:46 | 2023-08-10 | 2024-02-09 |
 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 | 2024-02-09 | 2024-04-13 |
-| [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 | 2024-02-09 | 2024-04-03 |
-| [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 | 2024-03-29 |  |
+| [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 | 2024-02-09 |  |
+| [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 | 2024-03-29 | 2024-04-19 |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-01-26 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-13 | 2023-03-25 |
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-17 | 2024-02-09 |
@@ -128,7 +130,8 @@
 | [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-10 | 2023-04-02 |
 | [good boys remember well](https://open.spotify.com/track/4syzVAkmE49hs9WjY7j0o7) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [good boys remember well](https://open.spotify.com/album/1m7ZzHsSp6EqucLAt57O3S) | 3:08 | 2023-01-13 | 2023-08-11 |
 | [GOOD TO GO](https://open.spotify.com/track/2U3Qw3JAJUwu6JJLoBf1pz) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [GOOD TO GO](https://open.spotify.com/album/2jwTqdrJMisYIpUOr5CFJJ) | 1:45 | 2023-02-17 | 2023-08-11 |
-| [Got It Made](https://open.spotify.com/track/4Fhe5EXinW5m77hmIb0V6B) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Got It Made](https://open.spotify.com/album/2cWL1gAsdlE6jAp4g4Fic6) | 3:33 | 2024-04-12 |  |
+| [Got It Made](https://open.spotify.com/track/3kbpQSZWt561MsdrRUwkyI) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Got It Made](https://open.spotify.com/album/2Dtv2VvJBunfAyELfXBS1Y) | 3:33 | 2024-04-12 |  |
+| [Got It Made](https://open.spotify.com/track/4Fhe5EXinW5m77hmIb0V6B) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Got It Made](https://open.spotify.com/album/2cWL1gAsdlE6jAp4g4Fic6) | 3:33 | 2024-04-12 | 2024-04-19 |
 | [Great Grief](https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief / Atone](https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc) | 4:11 | 2023-01-27 | 2023-03-03 |
 | [Great Grief](https://open.spotify.com/track/56gsIFy0ZHmmD9aP8oyW8Y) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief](https://open.spotify.com/album/06tHEFc4lfNhfJaZLEYHD0) | 4:11 | 2023-01-13 | 2023-01-27 |
 | [Grief In Phantasia](https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Grief In Phantasia](https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu) | 5:07 | 2024-03-15 |  |

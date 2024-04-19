@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 639907,
       "name": "Bushwa - Smagghe & Cross Version",
       "url": "https://open.spotify.com/track/3YedpyFKdLEgHnEOSQEMUi"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 639907,
       "name": "Bushwa - Smagghe & Cross Version",
       "url": "https://open.spotify.com/track/57oF6BtdUFLWnmjXADMEAn"
@@ -1030,10 +1030,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201200,
       "name": "Flight Path Estate",
       "url": "https://open.spotify.com/track/17Dqco4pcnJ2STOIq2QVHw"
+    },
+    {
+      "album": {
+        "name": "Haunted Dancehall",
+        "url": "https://open.spotify.com/album/1fjxW1nWJZbZhni4slSy38"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Flight Path Estate",
+      "url": "https://open.spotify.com/track/5ktM8njXxfv1ORz5MKwKHT"
     },
     {
       "album": {
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 490475,
       "name": "Inner Rhythm - Higher World Mix",
       "url": "https://open.spotify.com/track/2OciONxbClzOO48v7EeEa4"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 490475,
       "name": "Inner Rhythm - Higher World Mix",
       "url": "https://open.spotify.com/track/2in8sK3ePe7bUeYphpHspg"
@@ -1892,10 +1910,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383673,
       "name": "Midnight on Rainbow Road",
       "url": "https://open.spotify.com/track/3j63zGG3rkxxJ0cBmQF6Op"
+    },
+    {
+      "album": {
+        "name": "Gerd Janson presents Musik for Autobahns 2",
+        "url": "https://open.spotify.com/album/0VdiNg5obaRnUpIBVGwaOO"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383669,
+      "name": "Midnight on Rainbow Road (BAB 5)",
+      "url": "https://open.spotify.com/track/6Ux7QzLM5G2c3NziJ3RktI"
     },
     {
       "album": {

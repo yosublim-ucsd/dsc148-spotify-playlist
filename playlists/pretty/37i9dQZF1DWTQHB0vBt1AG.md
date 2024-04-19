@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 
 > <a href="spotify:artist:4nhvb6x9ZhPiYCzrHDNia9">Daphni</a>'s track IDs\. Updated regularly\. Curated by Daphni\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,191 likes - 53 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,228 likes - 53 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
+| 1 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 |
 | 2 | [We Multiply](https://open.spotify.com/track/726EjFaiMKvX34tOpnbqSP) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [We Multiply](https://open.spotify.com/album/3WxoCgsKhjoRRIgaTfctaO) | 3:49 |
 | 3 | [flight fm](https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [flight fm](https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv) | 4:07 |
 | 4 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 28 | [Takks](https://open.spotify.com/track/3qpzUg3VZK1KtNQ8Tucduq) | [Neil Landstrumm](https://open.spotify.com/artist/2Dv40C26DYmaTgCFGjqlTU) | [Index Man](https://open.spotify.com/album/3A0o4yCldAdez5SMUNxf7V) | 4:35 |
 | 29 | [Endlessly \[ISH EP 02\]](https://open.spotify.com/track/4emVgEttEgd69ouhkZdt4E) | [Isaiah](https://open.spotify.com/artist/3ahXO5tjZ4XDuQdHpKl174) | [Endlessly EP \[ISH EP 02\]](https://open.spotify.com/album/6I9L4znBMWo1GKGE42fqMm) | 5:29 |
 | 30 | [Terra Batida](https://open.spotify.com/track/3PsXHoumNvmWggMivTvu27) | [Doussala Demba](https://open.spotify.com/artist/4XXfGV6UDE5VhoyIA4vZv2) | [Terra Batida](https://open.spotify.com/album/4rbhl5MMHQr1d5Tq6nmExj) | 3:25 |
-| 31 | [Pim Pom](https://open.spotify.com/track/642TUblgapeBjyrnHsujan) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 4:17 |
+| 31 | [Pim Pom](https://open.spotify.com/track/1teVIoGz6Wkygh3jvQOyNV) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/7rWxK7htj2ZT0vnDYDgS5S) | 4:17 |
 | 32 | [Poème](https://open.spotify.com/track/4YXhMAmpoL26b4sI1PMtc9) | [New World](https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD) | [Souvenirs](https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu) | 5:56 |
 | 33 | [Jolie Poupée](https://open.spotify.com/track/7e4SNdoTpD18CYrQFwWGKX) | [Roger Bekono](https://open.spotify.com/artist/1Pb6S4S7aRrOQwdTvvET8w) | [Roger Bekono](https://open.spotify.com/album/42NKjwPCtgFvHlfrmLuHsT) | 7:25 |
 | 34 | [Tondoho Mba](https://open.spotify.com/track/7tv5IrZZxU6UcUfNEWd2GH) | [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [Straight from the Decks \(Guts Finest Selection from His Famous DJ Sets\)](https://open.spotify.com/album/33ZIG2aSnfDw4PsjvINRAs) | 4:42 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 45 | [Take you there](https://open.spotify.com/track/6mstq0bvUJaMtLtfaOLC86) | [Braga Circuit](https://open.spotify.com/artist/7KP3UUwog2y9yJ4eQYGhM6), [XXXY](https://open.spotify.com/artist/1m6ICN9lVefrT3WqyB4W1Y) | [Sour Edits Vol 3](https://open.spotify.com/album/4pfzvXYJRHtXqH0domnhX3) | 6:17 |
 | 46 | [Because](https://open.spotify.com/track/5aZtv4OVEGqBV06NDTObQw) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Okey](https://open.spotify.com/album/2hxGdxI6ItHmpClBdTcHIQ) | 3:08 |
 | 47 | [R U Sure \- Original Mix](https://open.spotify.com/track/2p3RSyaxmCPVXTmO2bkx42) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [D.B.G\. II Project](https://open.spotify.com/album/4De3Laoo19ipiC8x8M2jWy) | 4:09 |
-| 48 | [Madan \- Exotic Disco Mix](https://open.spotify.com/track/2N7qZKGc5RHfgmonaKDVsh) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Balearic Beats](https://open.spotify.com/album/6dXLbFa1JTcovu4qSPI8UR) | 7:38 |
+| 48 | [Madan \- Exotic Disco Mix](https://open.spotify.com/track/0VxgGWGWRcAPONRMALrJHJ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Madan Exotic](https://open.spotify.com/album/4seEsEgkuc3oUejo7LMDGB) | 7:38 |
 | 49 | [Superstealth](https://open.spotify.com/track/5jRvgXtnBudGhGChxFhcAG) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Superstealth](https://open.spotify.com/album/4DtqTFnXEW2ot4CHS9rUXS) | 4:56 |
 | 50 | [Kagani Kagani](https://open.spotify.com/track/1CyCsTBLIoT6i3AipsQMPf) | [Mamaki Boys](https://open.spotify.com/artist/34RHzzEALxTQV7tYBSqQjd) | [Kagani Kagani](https://open.spotify.com/album/4vt8MdhrI5zrUZcgwxnBzu) | 4:06 |
 | 51 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 |

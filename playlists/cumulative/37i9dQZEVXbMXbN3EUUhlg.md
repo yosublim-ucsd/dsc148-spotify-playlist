@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-1,019 songs - 2 day 3 hr 26 min
+1,020 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Carnificina](https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:20 | 2023-09-07 | 2023-09-09 |
 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 | 2023-11-29 | 2023-12-23 |
 | [Cartão Black](https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Cartão Black](https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH) | 2:39 | 2023-05-12 | 2023-09-02 |
-| [Casca de Bala](https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [A Cara das Vaquejadas 3.0](https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh) | 2:13 | 2024-04-14 |  |
+| [Casca de Bala](https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [A Cara das Vaquejadas 3.0](https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh) | 2:13 | 2024-04-14 | 2024-04-19 |
 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-07-27 | 2023-02-26 |
 | [CAVALINHO](https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Gasparzinho](https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG) | [CAVALINHO](https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4) | 2:18 | 2024-02-25 | 2024-03-13 |
 | [Cavalo de Pau](https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Cavalo de Pau](https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y) | 2:44 | 2022-12-25 | 2023-02-08 |
@@ -209,6 +209,7 @@
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-07 | 2023-10-08 |
 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-08-31 | 2023-09-08 |
 | [Chorei na Vaquejada](https://open.spotify.com/track/6xRDvureEBwHgwAYDufbJL) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Som de Paredão](https://open.spotify.com/album/3zkgXeNKtGuhk9yUgihh8z) | 2:37 | 2023-06-08 | 2023-10-25 |
+| [Chorei Quando Me Disse Tchau](https://open.spotify.com/track/4ejt95r0qu50e8X4QEIqwP) | [Dom Silver](https://open.spotify.com/artist/217MNMhqZ05mfyG4CUO7WH), [Bruhh Sua Bonequinha](https://open.spotify.com/artist/3Chkn89fTAltU5TkJZDaWl) | [Chorei Quando Me Disse Tchau](https://open.spotify.com/album/24QbzTLWphjgLrGP9WxZYu) | 2:36 | 2024-04-18 |  |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-30 | 2022-08-01 |
 | [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 | 2023-11-17 | 2023-12-26 |
 | [Cidade Inteira](https://open.spotify.com/track/7J3QMuDCSv56jRSiD9jFBF) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Cidade Inteira](https://open.spotify.com/album/2neGOdvdIFmfTaO6zjyCW8) | 3:34 | 2021-03-27\* | 2021-04-21 |

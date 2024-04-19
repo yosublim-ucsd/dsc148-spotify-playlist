@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best in Amapiano join <a href=\"https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=pHH9FAk5Q-ey_1Lae3OioQ\">DJ Lag</a>, <a href=\"https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH?si=-dNAGmWdR6iYV6J2SoBoTg\">Mr Nation Thingz</a> and <a href=\"https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp?si=vto1_9WPQ1qleU3q9oaJng\">K.C Driller</a> for a massive \"Hade Boss\" Re-Up.",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=h5rDP-0wTUqRz7EsyS0RFg\">Focalistic</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 509789,
       "name": "Amalobolo",
       "url": "https://open.spotify.com/track/6SYd9stPpCzbuLAeU3FR9K"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 509789,
       "name": "Amalobolo (feat. Stixx, Nia Pearl)",
       "url": "https://open.spotify.com/track/2pqIaYg12ziqIpVtdVESGt"
@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Dalie",
       "url": "https://open.spotify.com/track/7HmE17lcfpENCJkuurXDvh"
@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280424,
       "name": "Dalie (feat. Baby S.O.N)",
       "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
@@ -12190,7 +12190,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 414386,
       "name": "Isgubhu",
       "url": "https://open.spotify.com/track/34tsYM5Z3g9dvrwLjQKDtr"
@@ -12372,6 +12372,36 @@
       "duration_ms": 372631,
       "name": "Isphithiphithi",
       "url": "https://open.spotify.com/track/7GHKr2Fg86xWObxTnz26vK"
+    },
+    {
+      "album": {
+        "name": "ISQGOKO (feat. TitoM)",
+        "url": "https://open.spotify.com/album/0psaWrAAKAwjMEN0GUDxzm"
+      },
+      "artists": [
+        {
+          "name": "Major Keys",
+          "url": "https://open.spotify.com/artist/6tGXYcWxP5R6r8C5F0vl3c"
+        },
+        {
+          "name": "Ceehle",
+          "url": "https://open.spotify.com/artist/1xPvIl3BD7HNtL3Q00FJLB"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334302,
+      "name": "ISQGOKO (feat. TitoM)",
+      "url": "https://open.spotify.com/track/0b7NWNKYdv9GiDRsdD7YUA"
     },
     {
       "album": {
@@ -19442,7 +19472,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 372976,
       "name": "Ngilimele",
       "url": "https://open.spotify.com/track/1cuL0U39TgY6KLZ8yHgexM"
@@ -19472,7 +19502,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 372976,
       "name": "Ngilimele (feat. Deep Sen, KingTalkzin, Mthunzi)",
       "url": "https://open.spotify.com/track/6lrKA1DMAihPI490Oj0twC"
@@ -21716,6 +21746,28 @@
       "duration_ms": 516077,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4P2gthOytLLGmjK4nLDPzh"
+    },
+    {
+      "album": {
+        "name": "Pressure (feat. Thama Tee)",
+        "url": "https://open.spotify.com/album/49M4TyiZuRTkryPF2T9BMA"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237857,
+      "name": "Pressure (feat. Thama Tee)",
+      "url": "https://open.spotify.com/track/5Z4GEEF7ePjdUzPY6CKOoI"
     },
     {
       "album": {
@@ -27014,7 +27066,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 265213,
       "name": "Tiya Mfana (Mzokwana)",
       "url": "https://open.spotify.com/track/5lr7D9JQvMzmnNQ6yM6T7a"
@@ -27040,7 +27092,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265213,
       "name": "Tiya Mfana (Mzokwana) [feat. Sims Noreng]",
       "url": "https://open.spotify.com/track/6NC6bUY7tAIgr5xvzzZnBR"
@@ -27122,7 +27174,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319369,
       "name": "Tjina",
       "url": "https://open.spotify.com/track/4DO34AAYHCCF2gs7jxLFYx"
@@ -29564,7 +29616,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254867,
       "name": "ushuni we nkandla (feat. Ice Beats Slide, Shakes & Les, Xduppy)",
       "url": "https://open.spotify.com/track/76AanbSwEBrdhUinhToox0"
@@ -29764,7 +29816,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 468017,
       "name": "Utheni",
       "url": "https://open.spotify.com/track/0yrg1wjrSzgRprCfHdEUPU"
@@ -30292,7 +30344,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 494231,
       "name": "Vum Vum - Stixx Remix",
       "url": "https://open.spotify.com/track/3oi9aQ0xfYhpE9CjEVwsjG"
@@ -30408,6 +30460,40 @@
       "duration_ms": 269933,
       "name": "Wa Kula (Zacaria)",
       "url": "https://open.spotify.com/track/13vm93aPWfMs6lnKAVDoLR"
+    },
+    {
+      "album": {
+        "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
+        "url": "https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "Ohp Sage",
+          "url": "https://open.spotify.com/artist/1gXN6AnsN21VxAi55o3oAm"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285034,
+      "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
+      "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"
     },
     {
       "album": {
@@ -32192,6 +32278,36 @@
       "duration_ms": 413528,
       "name": "Ziyakhala",
       "url": "https://open.spotify.com/track/09ExCXOgxlEQ6E9nZog2gO"
+    },
+    {
+      "album": {
+        "name": "Midnight In Sunnyside 3",
+        "url": "https://open.spotify.com/album/5lY5qpLt6oEM8fBEP99FkR"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Amu Classic",
+          "url": "https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H"
+        },
+        {
+          "name": "Kappie",
+          "url": "https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381512,
+      "name": "Ziyasha (feat. LeeMcKrazy, Amu Classic & Kappie)",
+      "url": "https://open.spotify.com/track/40uSx0ulTsWa9Gq0M2dqHT"
     },
     {
       "album": {

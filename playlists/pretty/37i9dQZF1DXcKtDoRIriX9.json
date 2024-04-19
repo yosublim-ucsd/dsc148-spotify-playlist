@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:0W8ZVf53GqJkTOPRWQaaBq\">CHLOE</a>'s favourite tracks. Updated regularly. Curated by CHLOE. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 17675,
+  "num_followers": 17708,
   "original_name": "CHLOE's track IDs",
   "owner": {
     "name": "Spotify",
@@ -443,8 +443,8 @@
     {
       "added_at": "2024-02-14 10:41:24",
       "album": {
-        "name": "Creation Through References (Remixes)",
-        "url": "https://open.spotify.com/album/2c8m20Z3Kd6MqNq7msAEwM"
+        "name": "Trance Deux* (CHLOE Remix)",
+        "url": "https://open.spotify.com/album/4BORKSauvQXP0Jahh69a8i"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
         }
       ],
-      "duration_ms": 293546,
-      "name": "Trance Deux - CHLOE Remix",
-      "url": "https://open.spotify.com/track/6aqRXCKz3RArr6LqEneBBk"
+      "duration_ms": 293786,
+      "name": "Trance Deux* - CHLOE Remix",
+      "url": "https://open.spotify.com/track/2h6xX9HbkQ7v4D6Jwl0Wnf"
     },
     {
       "added_at": "2024-02-14 10:41:24",
@@ -767,8 +767,8 @@
     {
       "added_at": "2024-02-14 10:41:24",
       "album": {
-        "name": "Second Edition",
-        "url": "https://open.spotify.com/album/5votrp9PY49suw8xnXqyrm"
+        "name": "Metal Box",
+        "url": "https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
         }
       ],
-      "duration_ms": 308826,
+      "duration_ms": 305481,
       "name": "Memories",
-      "url": "https://open.spotify.com/track/3mJYQ7xha2xHuvqaFQMbNb"
+      "url": "https://open.spotify.com/track/3lwlqOBAfQPE34BlQ7fJQa"
     },
     {
       "added_at": "2024-02-14 10:41:24",
@@ -946,10 +946,6 @@
         {
           "name": "AFAR",
           "url": "https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ"
-        },
-        {
-          "name": "Laut & Luise",
-          "url": "https://open.spotify.com/artist/2AfR24rIhReKAoUrxR8Bea"
         }
       ],
       "duration_ms": 260327,

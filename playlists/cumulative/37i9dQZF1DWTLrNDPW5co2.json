@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365007,
       "name": "Amber Rush",
       "url": "https://open.spotify.com/track/0OvsbQdI2xvN7HXosDtfoJ"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 365007,
       "name": "Amber Rush",
       "url": "https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333352,
       "name": "Atom Dancer",
       "url": "https://open.spotify.com/track/0wrqaql3DY9v8l0a4vnbaf"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 333352,
       "name": "Atom Dancer",
       "url": "https://open.spotify.com/track/5HO4wndxqatWLclazWkwTO"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202388,
       "name": "Cherubim",
       "url": "https://open.spotify.com/track/0s3n92u9jI25xG2scjiD2e"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 202388,
       "name": "Cherubim",
       "url": "https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290778,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 290778,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/6g2iUBWLQbCFVMqtTaFPhh"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/2d6YYtRjKgAlO1xBubTjMM"
@@ -1066,6 +1066,24 @@
     {
       "album": {
         "name": "GETOUTOFMYHEAD",
+        "url": "https://open.spotify.com/album/0ftkoyoDRZNwpZYl7N1vx2"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376661,
+      "name": "GETOUTOFMYHEAD",
+      "url": "https://open.spotify.com/track/2hvR60sd1TZmrvH89WLatt"
+    },
+    {
+      "album": {
+        "name": "GETOUTOFMYHEAD",
         "url": "https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya"
       },
       "artists": [
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376661,
       "name": "GETOUTOFMYHEAD",
       "url": "https://open.spotify.com/track/3DayjEnW7oPHucWm71NtIH"
@@ -1141,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "GLAMOUR Riddim",
+        "url": "https://open.spotify.com/album/63JfpmGEp8WhlnSBU3cofK"
+      },
+      "artists": [
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348570,
+      "name": "GLAMOUR Riddim",
+      "url": "https://open.spotify.com/track/5lz1kWNtqD1zai7tQUmoDL"
+    },
+    {
+      "album": {
         "name": "love has never been a popular movement.",
         "url": "https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY"
       },
@@ -1156,7 +1196,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348570,
       "name": "GLAMOUR Riddim",
       "url": "https://open.spotify.com/track/61gAlsx885y2RvpPwwcJo0"
@@ -1280,7 +1320,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269559,
       "name": "Harder Now",
       "url": "https://open.spotify.com/track/0kRAPuKTgetjWxpPvwopdf"
@@ -1302,7 +1342,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 269559,
       "name": "Harder Now",
       "url": "https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs"
@@ -1470,7 +1510,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4"
@@ -1496,7 +1536,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E"
@@ -1558,7 +1598,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT"
@@ -1594,7 +1634,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
@@ -1612,7 +1652,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197882,
       "name": "IN IN IN",
       "url": "https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV"
@@ -1630,7 +1670,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 197882,
       "name": "IN IN IN",
       "url": "https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t"
@@ -1958,7 +1998,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 398215,
       "name": "Marlene",
       "url": "https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS"
@@ -1976,7 +2016,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 398215,
       "name": "Marlene",
       "url": "https://open.spotify.com/track/79oTqgo2EgUkLQ5IYwTteW"
@@ -2270,7 +2310,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
@@ -2288,7 +2328,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
@@ -2466,7 +2506,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222333,
       "name": "Red Plum",
       "url": "https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf"
@@ -2480,11 +2520,15 @@
         {
           "name": "Sassy 009",
           "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Sunniva Lindg\u00e5rd (Producer), Sunniva Lindg\u00e5rd (Composer), Andrew Murray Baardsen (Producer)",
+          "url": "https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS"
         }
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 222333,
       "name": "Red Plum",
       "url": "https://open.spotify.com/track/5ZG1MQ3uJ8QmZAA3Iut6vF"
@@ -2502,7 +2546,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
@@ -2520,7 +2564,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
@@ -2752,7 +2796,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 235102,
       "name": "Str8 Acting",
       "url": "https://open.spotify.com/track/2NWlqkcCLOnDTuKVvSwLgN"
@@ -2770,7 +2814,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235102,
       "name": "Str8 Acting",
       "url": "https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi"
@@ -2828,7 +2872,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 183879,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn"
@@ -2846,7 +2890,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183879,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
@@ -2984,7 +3028,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220817,
       "name": "Voices",
       "url": "https://open.spotify.com/track/1bvPP8zEwczCe0RX7hIIr6"
@@ -3002,7 +3046,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 220817,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw"
@@ -3024,7 +3068,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148576,
       "name": "Watch",
       "url": "https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7"
@@ -3046,7 +3090,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148576,
       "name": "Watch",
       "url": "https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c"

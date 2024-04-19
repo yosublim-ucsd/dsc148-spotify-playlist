@@ -3064,6 +3064,24 @@
     {
       "album": {
         "name": "Gye Wani",
+        "url": "https://open.spotify.com/album/0NSIEztu6SFxbdDtiWqH42"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323969,
+      "name": "Gye Wani",
+      "url": "https://open.spotify.com/track/3btvwWoGAdEJonpeIP64Vq"
+    },
+    {
+      "album": {
+        "name": "Gye Wani",
         "url": "https://open.spotify.com/album/0nUPjQCfXGvxzTpwuoAELW"
       },
       "artists": [
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323969,
       "name": "Gye Wani",
       "url": "https://open.spotify.com/track/1ydHBt9OC9Uq1CePkbdK6a"

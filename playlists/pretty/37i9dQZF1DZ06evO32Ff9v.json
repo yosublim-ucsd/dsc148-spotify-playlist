@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 17695,
+  "description": "This Is Los Farmerz. Los temas esenciales, todos en una lista.",
+  "num_followers": 17788,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDJjMzA2OGNmZjlhZTY0YjFiMWNiMGM5MWQ1NmU3YmI1",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDU3YmE1NTY3NDk3YWRjZGU1OWIyN2M5YWNjYzVmNjEz",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mando",
-        "url": "https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Figueroa",
-          "url": "https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "El Mando",
-      "url": "https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -339,6 +319,22 @@
       "duration_ms": 270000,
       "name": "El Ahuate",
       "url": "https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1or Miedo",
+        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Se\u00f1or Miedo",
+      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or Miedo",
-        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
+        "name": "El Mando",
+        "url": "https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ"
       },
       "artists": [
+        {
+          "name": "Hermanos Figueroa",
+          "url": "https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya"
+        },
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 232254,
-      "name": "Se\u00f1or Miedo",
-      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
+      "duration_ms": 217000,
+      "name": "El Mando",
+      "url": "https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ahuate (En Vivo)",
-        "url": "https://open.spotify.com/album/5eYtBmxICspHHxnFIHeYVl"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 258295,
-      "name": "El Ahuate - En Vivo",
-      "url": "https://open.spotify.com/track/7I8phBjWI3g8KFXDLKyiMK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Guaches Cal\u00e9ntanos",
         "url": "https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 228875,
       "name": "Muchas Gracias Chavalones (En Vivo)",
       "url": "https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ahuate (En Vivo)",
+        "url": "https://open.spotify.com/album/5eYtBmxICspHHxnFIHeYVl"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 258295,
+      "name": "El Ahuate - En Vivo",
+      "url": "https://open.spotify.com/track/7I8phBjWI3g8KFXDLKyiMK"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistiando y Cantando",
+        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Que Suerte La Mia",
+      "url": "https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Elegancia Se Mir\u00f3",
         "url": "https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando y Cantando",
-        "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Que Suerte La Mia",
-      "url": "https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Pawer",
         "url": "https://open.spotify.com/album/4i4tlzbFgKIC60ElIvPjFT"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 229698,
       "name": "Mi Pawer",
       "url": "https://open.spotify.com/track/4DQ4ywyE1pWht05dewOC8v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Dago Perez",
-      "url": "https://open.spotify.com/track/6PIN0TBnwVek7Gu3okURNf"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 208373,
       "name": "Nos Cayeron los Guachitos",
       "url": "https://open.spotify.com/track/2OcwUZJSDpmqDTdHoGI1PH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Dago Perez",
+      "url": "https://open.spotify.com/track/6PIN0TBnwVek7Gu3okURNf"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "El Charlie",
-      "url": "https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chepis",
         "url": "https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 193320,
       "name": "El Chepis",
       "url": "https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "El Charlie",
+      "url": "https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC"
     },
     {
       "added_at": null,

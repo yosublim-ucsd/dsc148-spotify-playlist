@@ -358,10 +358,36 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229800,
       "name": "Death by Water",
       "url": "https://open.spotify.com/track/2AX46RVDdKW6WL7gHQSFzx"
+    },
+    {
+      "album": {
+        "name": "Death by Water",
+        "url": "https://open.spotify.com/album/7hvyh7h4NDI3x3ag5ZoU3a"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Spencer Charnas",
+          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Death by Water",
+      "url": "https://open.spotify.com/track/0byxl96h2bWbBRNjyPgWSR"
     },
     {
       "album": {
@@ -1210,7 +1236,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147026,
       "name": "Renacer",
       "url": "https://open.spotify.com/track/5ciIybg2QT0nkBFqJeAEFc"
@@ -1282,7 +1308,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 195826,
       "name": "Saint Anthony",
       "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"

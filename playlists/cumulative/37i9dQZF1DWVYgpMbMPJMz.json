@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:5bjQjhv3Zzxo1VoxGcyaHC\">Alexander Pappas</a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 324949,
       "name": "1,000 Names",
       "url": "https://open.spotify.com/track/0LxqmMhefR4Wd2DtYZj509"
+    },
+    {
+      "album": {
+        "name": "10,000 Reasons (Bless The Lord) [Live]",
+        "url": "https://open.spotify.com/album/3Cg5yHaUcFTFzmKkd2kb8J"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461113,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0uWyDnh4WBEwAsYMnZxwyI"
     },
     {
       "album": {
@@ -114,6 +132,28 @@
     {
       "album": {
         "name": "Abandoned",
+        "url": "https://open.spotify.com/album/6F2cuLWfN0ZwGCslMlSFTo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335918,
+      "name": "Abandoned (with Mosaic MSC)",
+      "url": "https://open.spotify.com/track/66AamXEDw8g4p4db4BSMVg"
+    },
+    {
+      "album": {
+        "name": "Abandoned",
         "url": "https://open.spotify.com/album/6AFESCtQyitd3sSg54lWzM"
       },
       "artists": [
@@ -128,7 +168,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401920,
       "name": "Abandoned - Live",
       "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
@@ -282,6 +322,32 @@
       "duration_ms": 275466,
       "name": "All I Have Is Christ",
       "url": "https://open.spotify.com/track/26o9kKIrDvGXayhlFncDxE"
+    },
+    {
+      "album": {
+        "name": "All In (Live)",
+        "url": "https://open.spotify.com/album/3PVJ8mSTb3quCKBUlJXrYO"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        },
+        {
+          "name": "Whitney Medina",
+          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279395,
+      "name": "All In - Live",
+      "url": "https://open.spotify.com/track/3Qx5gcbDqSUnUgY2BAr7iJ"
     },
     {
       "album": {
@@ -446,7 +512,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306848,
       "name": "As For Me (Psalm 2)",
       "url": "https://open.spotify.com/track/4Cp6WWcFtRWwDkvf8o5Fr0"
@@ -1308,7 +1374,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 257337,
       "name": "Breaking Me Down",
       "url": "https://open.spotify.com/track/0HzYgueezLLElF3nU6owz3"
@@ -1334,7 +1400,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257337,
       "name": "Breaking Me Down",
       "url": "https://open.spotify.com/track/0e8010L3eMtEblYGLFBd3Q"
@@ -2026,6 +2092,24 @@
     {
       "album": {
         "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298050,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c"
+    },
+    {
+      "album": {
+        "name": "Come Jesus Come",
         "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
       },
       "artists": [
@@ -2036,7 +2120,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298050,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
@@ -3217,6 +3301,28 @@
     },
     {
       "album": {
+        "name": "Ascend (Deluxe)",
+        "url": "https://open.spotify.com/album/2uzpMCAwldIt3vahHgJac4"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306988,
+      "name": "Good Plans (Studio Version) (feat. Cody Carnes)",
+      "url": "https://open.spotify.com/track/2fcXG9pwt3K5P9mSLPTO3D"
+    },
+    {
+      "album": {
         "name": "Good Plans / Doxology",
         "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
       },
@@ -3490,7 +3596,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 493263,
       "name": "He Is Risen",
       "url": "https://open.spotify.com/track/2Q3jQ4k8e5aBputb91Ns80"
@@ -3955,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/0qOlTQF1K2BxXfLa0Kjxmv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260605,
+      "name": "HOMETOWN",
+      "url": "https://open.spotify.com/track/13FfXAuONJM9gnTEwU6PVB"
+    },
+    {
+      "album": {
         "name": "Honest Offering (Live)",
         "url": "https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp"
       },
@@ -4154,7 +4278,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269678,
       "name": "How Great Thou Art (Until That Day)",
       "url": "https://open.spotify.com/track/2gvPDTxttF9RbvCcwrtrWi"
@@ -4856,6 +4980,32 @@
       "duration_ms": 324000,
       "name": "In The Hands Of Christ My King - Edit",
       "url": "https://open.spotify.com/track/2TJ4z4dZh9vGzOwngU5EPE"
+    },
+    {
+      "album": {
+        "name": "In The Name of Jesus (feat. Chandler Moore)",
+        "url": "https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o"
+      },
+      "artists": [
+        {
+          "name": "JWLKRS Worship",
+          "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298878,
+      "name": "In The Name of Jesus (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
     },
     {
       "album": {
@@ -6301,6 +6451,28 @@
     },
     {
       "album": {
+        "name": "Mind blowing",
+        "url": "https://open.spotify.com/album/2Ph9kTi4s7fgikAWyssWla"
+      },
+      "artists": [
+        {
+          "name": "Lily Perez",
+          "url": "https://open.spotify.com/artist/4q1WSwssICii8AJOeFd5KD"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Mind blowing",
+      "url": "https://open.spotify.com/track/3eTl7lKcUIXAuACNmkPseh"
+    },
+    {
+      "album": {
         "name": "COAT OF MANY COLORS",
         "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
       },
@@ -6561,6 +6733,24 @@
     },
     {
       "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/1ZKqP4n63Kq42dIk743FWF"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210649,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/66vtyVkJRKTen5JqBYsPpm"
+    },
+    {
+      "album": {
         "name": "Come Behold the Wondrous Mystery",
         "url": "https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO"
       },
@@ -6769,6 +6959,24 @@
     },
     {
       "album": {
+        "name": "Never Walk Alone (Radio Version)",
+        "url": "https://open.spotify.com/album/5nJbhMgOmvkNN4AmPRvVhP"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Never Walk Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/4cYNtjihMRCXnzBvQsO7oi"
+    },
+    {
+      "album": {
         "name": "Never Walk Alone (Radio Edit)",
         "url": "https://open.spotify.com/album/56mLUNn4lDWIX64W7qob6h"
       },
@@ -6780,7 +6988,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216333,
       "name": "Never Walk Alone - Radio Edit",
       "url": "https://open.spotify.com/track/684KWncYCyW2o97ZeJmKbC"
@@ -6842,7 +7050,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 418804,
       "name": "No Longer Slaves - 2023 Short Edit / Live",
       "url": "https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX"
@@ -7784,7 +7992,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281893,
       "name": "Precious Blood",
       "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
@@ -8408,7 +8616,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 463848,
       "name": "Satisfied (Live)",
       "url": "https://open.spotify.com/track/3GABPXLmKujNQxOF8JMJTF"
@@ -8426,7 +8634,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 463848,
       "name": "Satisfied - Live",
       "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
@@ -8470,10 +8678,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256694,
       "name": "Scandal Of Grace - Live At Red Rocks",
       "url": "https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L"
+    },
+    {
+      "album": {
+        "name": "Zion (X)",
+        "url": "https://open.spotify.com/album/36A9qUg5xyhKSQv9GUKVx7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256694,
+      "name": "Scandal of Grace - Live at Red Rocks 2013",
+      "url": "https://open.spotify.com/track/5Ua84JhOUHHh53UJgwsWiq"
     },
     {
       "album": {
@@ -9518,7 +9748,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236206,
       "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/4olA4p06lJ29ubNfyN4996"
@@ -10024,7 +10254,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381992,
       "name": "There's No Way (Live at Red Rocks Church) (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5aLShPzSIo4wE65v3NFDIu"
@@ -10354,7 +10584,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301850,
       "name": "To Be With The Lord",
       "url": "https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2"
@@ -11112,6 +11342,28 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "album": {
+        "name": "Worship Through It",
+        "url": "https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Worship Through It",
+      "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
     },
     {
       "album": {

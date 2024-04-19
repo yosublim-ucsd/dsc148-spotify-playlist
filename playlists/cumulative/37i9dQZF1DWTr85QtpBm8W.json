@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423440,
       "name": "92982.3",
       "url": "https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 427346,
       "name": "92982.3",
       "url": "https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1"
@@ -146,10 +146,32 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315386,
       "name": "All The Big Trees - 2019 Remaster",
       "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+    },
+    {
+      "album": {
+        "name": "Riceboy Sleeps (2019 Remaster)",
+        "url": "https://open.spotify.com/album/2LnLKuyXwiV11E363M8h2Q"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315386,
+      "name": "All The Big Trees - 2019 Remaster",
+      "url": "https://open.spotify.com/track/7xD9w5tcrOOw7SnUyRVwAc"
     },
     {
       "album": {
@@ -222,7 +244,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 74246,
       "name": "Anfangtastisch (Remastered)",
       "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
@@ -240,7 +262,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 74246,
       "name": "Anfangtastisch - Remastered 2022",
       "url": "https://open.spotify.com/track/4HwEPEnSRL5LZaH9luAKue"
@@ -258,7 +280,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 351980,
       "name": "Aparaquasynthe (Remastered)",
       "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
@@ -276,7 +298,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 351980,
       "name": "Aparaquasynthe - Remastered 2022",
       "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
@@ -330,10 +352,46 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 372000,
       "name": "Ba Ba",
       "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
+    },
+    {
+      "album": {
+        "name": "Ba Ba Ti Ki Di Do",
+        "url": "https://open.spotify.com/album/7HHDHidoUz2mWQD3mHduG0"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "Ba Ba",
+      "url": "https://open.spotify.com/track/2cykXvhMvNcen8v45r5fH8"
+    },
+    {
+      "album": {
+        "name": "L\u2019Orange L\u2019Orange",
+        "url": "https://open.spotify.com/album/2SjV4jyVNBkGgS3ZYByWte"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314676,
+      "name": "Blind Contour Drawing for Piano",
+      "url": "https://open.spotify.com/track/19Uf8RmGbdxwiKEHAG7GST"
     },
     {
       "album": {
@@ -348,7 +406,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314676,
       "name": "Blind Contour Drawing for Piano",
       "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
@@ -510,7 +568,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172026,
       "name": "Corsair",
       "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
@@ -528,7 +586,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 172026,
       "name": "Corsair",
       "url": "https://open.spotify.com/track/54IGiCAOFeISJAGZoHjtjf"
@@ -618,7 +676,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 650213,
       "name": "dlp 2.1",
       "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
@@ -766,7 +824,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 560653,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
@@ -792,6 +850,28 @@
       "duration_ms": 559360,
       "name": "Happiness - 2019 Remaster",
       "url": "https://open.spotify.com/track/369SPXhIIEEwJ6UQKnlwHJ"
+    },
+    {
+      "album": {
+        "name": "Riceboy Sleeps (2019 Remaster)",
+        "url": "https://open.spotify.com/album/2LnLKuyXwiV11E363M8h2Q"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559360,
+      "name": "Happiness - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4RKkM08C2YQFMmnUHTkl5P"
     },
     {
       "album": {
@@ -908,6 +988,24 @@
     {
       "album": {
         "name": "Untrue",
+        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/4TDKgsDEAAP33JA8ByukSm"
+    },
+    {
+      "album": {
+        "name": "Untrue",
         "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
       },
       "artists": [
@@ -918,7 +1016,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126091,
       "name": "In McDonalds",
       "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
@@ -1056,7 +1154,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 488493,
       "name": "Meissa",
       "url": "https://open.spotify.com/track/3eBgQ64Hwd1LX12UKwB1en"
@@ -1078,7 +1176,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 488493,
       "name": "Meissa",
       "url": "https://open.spotify.com/track/6qMI1FiR3eRnwmVrPmWqY3"
@@ -1096,7 +1194,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 409066,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
@@ -1114,7 +1212,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 410986,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B"
@@ -1136,7 +1234,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 269680,
       "name": "Muim (Colleen Mix)",
       "url": "https://open.spotify.com/track/4GN0WoIfo80dMHkN0BaOpT"
@@ -1158,7 +1256,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269680,
       "name": "Muim (Colleen Mix)",
       "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
@@ -1206,6 +1304,24 @@
     {
       "album": {
         "name": "Burial",
+        "url": "https://open.spotify.com/album/18f6aWSeCaKMZxg75d0t2g"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133694,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/2OvoDj0BlqSNb18pdkHyyb"
+    },
+    {
+      "album": {
+        "name": "Burial",
         "url": "https://open.spotify.com/album/6WNWQa1Is48wF6ggW4TzC4"
       },
       "artists": [
@@ -1234,7 +1350,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133694,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
@@ -1518,7 +1634,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 161853,
       "name": "Sherbet Head",
       "url": "https://open.spotify.com/track/3t2n91JYKy4oDgjIRCKHjI"
@@ -1536,7 +1652,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161853,
       "name": "Sherbet Head",
       "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
@@ -1608,10 +1724,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143973,
       "name": "So Long Orpheus",
       "url": "https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV"
+    },
+    {
+      "album": {
+        "name": "24 Postcards In Full Colour",
+        "url": "https://open.spotify.com/album/3tjGU0wCtnfMhSnvuCpG6d"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143973,
+      "name": "So Long Orpheus",
+      "url": "https://open.spotify.com/track/7DQtJDXL0BkY0QWfntq4e3"
     },
     {
       "album": {
@@ -1662,7 +1796,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 240653,
       "name": "Swarm",
       "url": "https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2"
@@ -1702,7 +1836,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 303266,
       "name": "Tarazed",
       "url": "https://open.spotify.com/track/2EHHEsmOV84A9GwSBPvK21"
@@ -1724,7 +1858,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303266,
       "name": "Tarazed",
       "url": "https://open.spotify.com/track/3QT8QhEEPubbhfHZxFPZHa"
@@ -1742,7 +1876,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 243546,
       "name": "Tears From The Compound Eye",
       "url": "https://open.spotify.com/track/0nRe4ZWzbiFjJIJFEk1u3F"
@@ -1760,7 +1894,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243546,
       "name": "Tears From The Compound Eye",
       "url": "https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar"
@@ -1804,10 +1938,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269066,
       "name": "The Light",
       "url": "https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l"
+    },
+    {
+      "album": {
+        "name": "Into the Blue Again",
+        "url": "https://open.spotify.com/album/3Xos06RQ2EgcIUC0Tqa73r"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/4Qd40duKkAnE3XG0DN64Qy"
     },
     {
       "album": {
@@ -1844,7 +1996,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 187960,
       "name": "The Orchardist",
       "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
@@ -1880,7 +2032,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 424760,
       "name": "The Sun Is Scheduled to Come Out Tomorrow",
       "url": "https://open.spotify.com/track/08OiY4KLXsohk1HOVzJH5D"
@@ -1898,7 +2050,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 424760,
       "name": "The Sun Is Scheduled to Come Out Tomorrow",
       "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
@@ -2078,7 +2230,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 558800,
       "name": "Variation IV",
       "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
@@ -2114,10 +2266,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236786,
       "name": "Von Schn\u00e4beln",
       "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0YORgbKjaK7IKqdPkmitrU"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/6wggBZZL0ETDujH1yOcyOp"
     },
     {
       "album": {
@@ -2186,10 +2356,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378840,
       "name": "Welk",
       "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+    },
+    {
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0YORgbKjaK7IKqdPkmitrU"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/63Kfvy0zKFiKUk1f5uwteS"
     },
     {
       "album": {
@@ -2284,6 +2472,24 @@
     {
       "album": {
         "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/0Ld4zIJyNK5UDcCfBkHXbN"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524468,
+      "name": "Woe Is the Transgression I",
+      "url": "https://open.spotify.com/track/0rdaWajnezgvEXkfgxmtl2"
+    },
+    {
+      "album": {
+        "name": "Betrayed in the Octagon",
         "url": "https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj"
       },
       "artists": [
@@ -2348,7 +2554,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 524468,
       "name": "Woe is the Transgression I",
       "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"

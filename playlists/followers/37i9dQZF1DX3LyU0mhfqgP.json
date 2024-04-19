@@ -1,7 +1,7 @@
 {
-  "2024-04-17": 1083820,
+  "2024-04-19": 1083561,
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Chico Blanco",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Rina Sawayama",
   "name": "GLOW",
   "tracks": [
     {
@@ -271,6 +271,24 @@
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
+    },
+    {
+      "album": {
+        "name": "2late",
+        "url": "https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "2late",
+      "url": "https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF"
     },
     {
       "album": {
@@ -5017,7 +5035,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 163200,
       "name": "do u really want to watch",
       "url": "https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux"
@@ -7291,7 +7309,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 162238,
       "name": "Good Time In Disguise - ft. Chocoholic",
       "url": "https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv"
@@ -13715,6 +13733,24 @@
       "duration_ms": 201543,
       "name": "offline",
       "url": "https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw"
+    },
+    {
+      "album": {
+        "name": "Oh Lord",
+        "url": "https://open.spotify.com/album/5LDKT2LTboIOCLmeMAnkKW"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177754,
+      "name": "Oh Lord",
+      "url": "https://open.spotify.com/track/4jdB1yZ4qT6UqMk8ZgFZbj"
     },
     {
       "album": {

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263106,
+      "name": "Andei S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv"
+    },
+    {
+      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263106,
       "name": "Andei S\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
@@ -164,10 +182,46 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243293,
       "name": "Aurora Boreal (Ao Vivo)",
       "url": "https://open.spotify.com/track/2GI39Pk0Id5QjTZFTTq91q"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em SP",
+        "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243293,
+      "name": "Aurora Boreal - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd"
+    },
+    {
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220413,
+      "name": "Beach in Hawaii",
+      "url": "https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S"
     },
     {
       "album": {
@@ -200,7 +254,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224413,
       "name": "Beach In Hawaii",
       "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
@@ -272,7 +326,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283566,
       "name": "Calor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3IUipHNAKErjn0c6LOzyxw"
@@ -447,6 +501,28 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304266,
+      "name": "Extra (Ac\u00fastico) (feat. Gilberto Gil)",
+      "url": "https://open.spotify.com/track/5HPhu5dKT6MNTOzWclNiz1"
+    },
+    {
+      "album": {
         "name": "Duetos",
         "url": "https://open.spotify.com/album/4lP3g60igscsY6Le63ZTeN"
       },
@@ -462,7 +538,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301666,
       "name": "Extra (Participa\u00e7\u00e3o especial de Cidade Negra) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4ql2jVYt0hD3PFvcsKYVLP"
@@ -592,10 +668,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240666,
       "name": "Lunar (ac\u00fastico)",
       "url": "https://open.spotify.com/track/0N9qQtxL7sNEqKbGO9qTTw"
+    },
+    {
+      "album": {
+        "name": "Lunar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Lunar (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP"
     },
     {
       "album": {
@@ -657,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
+    },
+    {
+      "album": {
         "name": "Adrenalizou",
         "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
       },
@@ -668,7 +780,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165625,
       "name": "Morena - Acoustic Version",
       "url": "https://open.spotify.com/track/45mAusxpKe7DVNT5O2FGah"
@@ -704,10 +816,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207706,
       "name": "No Mar - Ao Vivo",
       "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
+    },
+    {
+      "album": {
+        "name": "Natiruts - Natiruts Ac\u00fastico ao Vivo no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "No Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw"
     },
     {
       "album": {
@@ -758,10 +888,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210320,
       "name": "O Destino N\u00e3o Quis",
       "url": "https://open.spotify.com/track/05sQfg8PUdgc7XSAGUw7HJ"
+    },
+    {
+      "album": {
+        "name": "Maneva: Ac\u00fasticas",
+        "url": "https://open.spotify.com/album/42stLnqYZmfD7QL82nEzEW"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210273,
+      "name": "O Destino N\u00e3o Quis - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7cn3KL7hU1vzMiCJwUMwQY"
     },
     {
       "album": {
@@ -855,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Pra Falar de Amor",
+        "url": "https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf"
+      },
+      "artists": [
+        {
+          "name": "Onze:20",
+          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209499,
+      "name": "Pra Falar de Amor",
+      "url": "https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp"
+    },
+    {
+      "album": {
         "name": "Hist\u00f3rias Pra Cantar",
         "url": "https://open.spotify.com/album/1jLZTYKG2LT3HUGWaJJd0e"
       },
@@ -866,7 +1032,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209499,
       "name": "Pra Falar de Amor",
       "url": "https://open.spotify.com/track/5KWvYZHwjJ6A3R41uJmpr7"
@@ -884,7 +1050,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 261724,
       "name": "Pra Voar / Posso Ser - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X"
@@ -902,7 +1068,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261768,
       "name": "Pra Voar / Posso Ser - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0T3SbagkxIpfZmO6fz6SSt"
@@ -964,10 +1130,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
+    },
+    {
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
     },
     {
       "album": {
@@ -1102,6 +1286,28 @@
     {
       "album": {
         "name": "Rosa Flor (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Rosa Flor (Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7"
+    },
+    {
+      "album": {
+        "name": "Rosa Flor (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5PbJJ1jOhlmZL1FZW2kMce"
       },
       "artists": [
@@ -1116,7 +1322,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199134,
       "name": "Rosa Flor - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5For9ZuNFUOpcDBq0dvWR6"
@@ -1177,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Circuito Reggae, Vol. 8",
+        "url": "https://open.spotify.com/album/3RuibytHE3NZnO7OgS2iN3"
+      },
+      "artists": [
+        {
+          "name": "Circuito Reggae",
+          "url": "https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly"
+        },
+        {
+          "name": "Filosofia Reggae",
+          "url": "https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241813,
+      "name": "Sentimento Bom",
+      "url": "https://open.spotify.com/track/0vyKzl0o1lem1sHg5wXgSD"
+    },
+    {
+      "album": {
         "name": "Circuito Reggae, Vol. 7",
         "url": "https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5"
       },
@@ -1192,7 +1420,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242960,
       "name": "Sentimento Bom",
       "url": "https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O"
@@ -1275,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Toque de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/05xs0f9DAgvTM3M6ZTMERR"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246990,
+      "name": "Toque de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3HEinXxTLr7bHXvtfDijX3"
+    },
+    {
+      "album": {
         "name": "Tranquila (Vers\u00e3o Ac\u00fastica)",
         "url": "https://open.spotify.com/album/7cz1MN4Q2jnd1UgI49U6kh"
       },
@@ -1286,10 +1532,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168250,
       "name": "Tranquila - Versa\u0303o Acu\u0301stica",
       "url": "https://open.spotify.com/track/0ohZWsvWdcGlXDiuBqxDuV"
+    },
+    {
+      "album": {
+        "name": "Tranquila (Vers\u00e3o Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/4cMpYRT2XAgI8eiLpQUr42"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Tranquila - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0I70H9PTeywaND8P80R5fP"
     },
     {
       "album": {
@@ -1304,10 +1568,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256733,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1HnriuDThLq7bEl1QKiaJL"
+    },
+    {
+      "album": {
+        "name": "Peace in a Time of War",
+        "url": "https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O"
     },
     {
       "album": {
@@ -1340,10 +1622,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237440,
       "name": "True To Myself",
       "url": "https://open.spotify.com/track/6Lamfb7pARZtIVYhVqFAaw"
+    },
+    {
+      "album": {
+        "name": "Road to Rebellion, Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/2moVoeaHLXICs5SF4UD1z7"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "True to Myself - Live in Saratoga, CA, 2019",
+      "url": "https://open.spotify.com/track/2SniUy1DxVuBGxb6jacmYJ"
     },
     {
       "album": {
@@ -1445,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Voc\u00ea Me Encantou Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bCcolgdC8YsXUiqRgEgRU"
+    },
+    {
+      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
       },
@@ -1456,7 +1774,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211373,
       "name": "Voc\u00ea Me Encantou Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/5iI2yN0RGxzFgdzlcQsTHi"
@@ -1492,10 +1810,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224973,
       "name": "Zoio De Lula - Ao Vivo",
       "url": "https://open.spotify.com/track/12eZEpPuG8eJl0FVWvLSrP"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Zoio De Lula - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QGuFhaQDrGKqtkOgItDJS"
     },
     {
       "album": {

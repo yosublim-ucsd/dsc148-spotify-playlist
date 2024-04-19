@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,919 songs - 4 day 6 hr 22 min
+1,920 songs - 4 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Gasellin kyynel](https://open.spotify.com/track/1bGecSuu8H1xuh0DZ4LKWS) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF) | [Gasellin kyynel](https://open.spotify.com/album/5OyK9kwpQ4PLCN48XTzXfv) | 3:08 | 2023-04-01 | 2023-04-07 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
 | [Gasoo Ei Breikkei](https://open.spotify.com/track/2rOJQl0dCaR5sk9hBn4NE8) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Gasoo Ei Breikkei](https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF) | 2:05 | 2021-07-18 | 2021-08-22 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-18 |  |
 | [GAY](https://open.spotify.com/track/4Hy8NmXUsiHYhkrdXbP1ma) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [GAY](https://open.spotify.com/album/4MdiJIAjKoPTf2Qbn6J8rP) | 2:52 | 2022-07-09 | 2022-09-11 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-09 | 2023-09-11 |
 | [Get Together](https://open.spotify.com/track/46W9QGI2bVjitikXmpHFgv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Get Together](https://open.spotify.com/album/2ofQzyhu2LGNLPfIPM0209) | 2:42 | 2021-05-09 | 2021-05-10 |
@@ -1105,7 +1106,7 @@
 | [Muistipalatsi](https://open.spotify.com/track/3GqvZPF0tXR0N0rO4QrvUg) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Muistipalatsi](https://open.spotify.com/album/2EEc1yPPP1MEObQoOFcXIa) | 4:57 | 2023-09-16 | 2023-09-18 |
 | [Muistuta mua \(Vain elämää kausi 12\)](https://open.spotify.com/track/4mYpuh6UplXtnFpzgN3Adu) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Muistuta mua \(Vain elämää kausi 12\)](https://open.spotify.com/album/4PB2f8Yd39k9iQfFi1KXV3) | 3:11 | 2021-11-22 | 2021-12-03 |
 | [Muit ku me](https://open.spotify.com/track/0HPRKUbiCMi379ksDyFbW0) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tykkäät kummiski](https://open.spotify.com/album/715VRR7Xw2Y4rSxEMH8X5n) | 2:51 | 2022-08-27 | 2022-09-18 |
-| [Mulle ei sovi tänään](https://open.spotify.com/track/6RyI1hzbfYiiQBzWEFyvbu) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5), [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Mulle ei sovi tänään](https://open.spotify.com/album/6096nhpW7YH2ZFH6V3HBtu) | 3:31 | 2024-04-13 |  |
+| [Mulle ei sovi tänään](https://open.spotify.com/track/6RyI1hzbfYiiQBzWEFyvbu) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5), [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Mulle ei sovi tänään](https://open.spotify.com/album/6096nhpW7YH2ZFH6V3HBtu) | 3:31 | 2024-04-13 | 2024-04-19 |
 | [Mun kulta](https://open.spotify.com/track/4bCFx1oB7Zee9UWt2cgNbJ) | [Chisu](https://open.spotify.com/artist/0Wo2rgrMZVYn0u0uxlDPJP) | [Mun kulta](https://open.spotify.com/album/5zWKU2KOp2K9bLZMnI0TMp) | 3:52 | 2022-05-07 | 2022-05-17 |
 | [Mun maailma](https://open.spotify.com/track/7DtWb2kCpfYERMh8NiSjyv) | [Lauri Tähkä](https://open.spotify.com/artist/2ZyR5hOnG5pyMrbqJTXgtN) | [Kaikella on tarkoitus](https://open.spotify.com/album/5c7vEnMo7HyLqefWPturgj) | 4:00 | 2022-09-17 | 2022-09-19 |
 | [Mun maineel pt\. 2](https://open.spotify.com/track/5FPfKFZZSl9h1PC4jVQ1Sa) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [Mun maineel pt\. 2](https://open.spotify.com/album/2DNoxQ90QfE18C8hegQLii) | 3:14 | 2023-03-25 | 2023-03-27 |

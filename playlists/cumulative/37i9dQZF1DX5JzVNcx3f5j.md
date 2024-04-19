@@ -4,7 +4,7 @@
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-87 songs - 4 hr 48 min
+88 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [真選組の道](https://open.spotify.com/track/5BwgiyAc1BkVNax6pkTJn8) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 1:52 | 2023-04-27 |  |
 | [私と仕事どっちが大事なのとかいう女にはジャーマンスープレックス](https://open.spotify.com/track/7mzSpIlzSf7dLCEZe2lz0U) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:45 | 2023-04-27 |  |
 | [糖分とらねぇとなぁー](https://open.spotify.com/track/5mfiZIpHI4kZnWJfxfRQTe) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:26 | 2023-04-27 |  |
-| [花一匁](https://open.spotify.com/track/590Ze7BOcA1F5tHUfUIRCA) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [孔雀](https://open.spotify.com/album/1367BmfzOdxvQQMD5g4gcS) | 4:35 | 2023-04-27 |  |
+| [花一匁](https://open.spotify.com/track/590Ze7BOcA1F5tHUfUIRCA) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [孔雀](https://open.spotify.com/album/1367BmfzOdxvQQMD5g4gcS) | 4:35 | 2023-04-27 | 2024-04-19 |
+| [花一匁](https://open.spotify.com/track/6nrgmjjFqUd87q2yoaq0HN) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [花一匁](https://open.spotify.com/album/6PfkAZDpmo1wGNOSJNqDtx) | 4:37 | 2023-04-28 |  |
 | [茨ガキと薔薇ガキ](https://open.spotify.com/track/43NptdH7JkT1D8N48EeCmt) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:14 | 2023-04-27 |  |
 | [輝いた](https://open.spotify.com/track/3Ncn1jHLPFyI21J1lXhk4J) | [Shigi](https://open.spotify.com/artist/7vNbDBlCRm8tiYA2bAcGPo) | [輝いた](https://open.spotify.com/album/10OJiDGqLYsxrM4wupwHBa) | 4:10 | 2023-04-27 |  |
 | [轍～Wadachi～](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍～Wadachi～](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2023-04-27 |  |

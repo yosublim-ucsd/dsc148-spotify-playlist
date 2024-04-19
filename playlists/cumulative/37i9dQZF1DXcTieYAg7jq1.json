@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Maggie Rose",
+  "description": "Featuring that new vintage. Cover: Lake Street Dive",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE"
@@ -558,6 +558,24 @@
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
+    },
+    {
+      "album": {
+        "name": "Better Not Tell You",
+        "url": "https://open.spotify.com/album/07N07mwMao3iOtwMjw5OtH"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192285,
+      "name": "Better Not Tell You",
+      "url": "https://open.spotify.com/track/5mafSoMbFyCx7vFq0ckArX"
     },
     {
       "album": {
@@ -772,7 +790,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 174906,
       "name": "Breaking Myself",
       "url": "https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174906,
       "name": "Breaking Myself",
       "url": "https://open.spotify.com/track/7jDlsRzKo3tsMsTEjL1Ns2"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 210461,
       "name": "BREATH",
       "url": "https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210461,
       "name": "BREATH",
       "url": "https://open.spotify.com/track/7nP1S5bBL1WVSegAul8hHD"
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 173801,
       "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173801,
       "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE"
@@ -1773,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -1784,7 +1820,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243946,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201045,
       "name": "Good Together",
       "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
@@ -2674,7 +2710,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236293,
       "name": "Holding Pattern",
       "url": "https://open.spotify.com/track/2GkP3qhi30r83OjSzvfIlb"
@@ -2692,7 +2728,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 236293,
       "name": "Holding Pattern",
       "url": "https://open.spotify.com/track/47DNjUtdIuDVDbcvO8HGtO"
@@ -3188,7 +3224,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 137096,
       "name": "i'm lost for words",
       "url": "https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR"
@@ -3206,7 +3242,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137096,
       "name": "i'm lost for words",
       "url": "https://open.spotify.com/track/7MTba27fW6MgauKXvQ7gqw"
@@ -3224,10 +3260,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
+    },
+    {
+      "album": {
+        "name": "If I Weren't Me",
+        "url": "https://open.spotify.com/album/4Mgxaii907YIIO96yxUFMZ"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/4NVByy2qf8FMLQshjGLjHn"
     },
     {
       "album": {
@@ -3726,7 +3780,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169484,
       "name": "Literally Dead",
       "url": "https://open.spotify.com/track/3PAi27peQmIvoWUFjOTKJJ"
@@ -3748,7 +3802,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 169484,
       "name": "Literally Dead",
       "url": "https://open.spotify.com/track/6hC5zuyySLWtl7NaooXRQv"
@@ -3900,7 +3954,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 263297,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp"
@@ -3918,7 +3972,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263297,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
@@ -4480,7 +4534,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176413,
       "name": "New",
       "url": "https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q"
@@ -4498,7 +4552,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 176413,
       "name": "New",
       "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
@@ -4900,7 +4954,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162666,
       "name": "OUT OF CONTEXT",
       "url": "https://open.spotify.com/track/3jLaggXofmoijL25AdphVG"
@@ -4918,7 +4972,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "OUT OF CONTEXT",
       "url": "https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv"
@@ -5062,7 +5116,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 260308,
       "name": "Party City",
       "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
@@ -5080,7 +5134,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264000,
       "name": "Party City",
       "url": "https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa"
@@ -5509,6 +5563,24 @@
     },
     {
       "album": {
+        "name": "Rolling Back",
+        "url": "https://open.spotify.com/album/6qMRZ9dMuHPfGxW1F9XI3C"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/0YUgl8ulUgXOFr1IL8ZLK2"
+    },
+    {
+      "album": {
         "name": "Ticket To Shangri-La",
         "url": "https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx"
       },
@@ -5520,7 +5592,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223720,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB"
@@ -5916,7 +5988,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178532,
       "name": "so easy",
       "url": "https://open.spotify.com/track/2e2AzG48LNWPgLi2G5k63X"
@@ -6832,6 +6904,28 @@
     {
       "album": {
         "name": "Waiting",
+        "url": "https://open.spotify.com/album/6RwBnR5td7Huvn4CCQLlBp"
+      },
+      "artists": [
+        {
+          "name": "Brenzy",
+          "url": "https://open.spotify.com/artist/6G6qP0sP4oPveQ4bzizz4Z"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174303,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/38cyORDsDiclAjM4ycBGOq"
+    },
+    {
+      "album": {
+        "name": "Waiting",
         "url": "https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt"
       },
       "artists": [
@@ -7288,7 +7382,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179426,
       "name": "You",
       "url": "https://open.spotify.com/track/3LNRi4UytUnez6T0hFb4x3"
@@ -7306,7 +7400,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "You",
       "url": "https://open.spotify.com/track/6FAsJDkg4y5JSWP9ZMKlDj"

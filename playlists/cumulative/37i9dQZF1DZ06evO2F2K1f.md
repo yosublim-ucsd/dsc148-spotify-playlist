@@ -2,9 +2,9 @@
 
 ### [This Is Alan Hawkshaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2K1f)
 
-> This is Alan Hawkshaw\. Todos os maiores hits em uma só playlist.
+> This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-134 songs - 6 hr 0 min
+135 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Girl at the Top \(A\)](https://open.spotify.com/track/4UYAoMvtpEch02JYlfXSEv) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:54 | 2023-07-12 | 2023-07-22 |
 | [Girl in a Sportscar](https://open.spotify.com/track/3YT4KUgun2us1WLg3f0T9z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:42 | 2022-05-29 |  |
 | [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 | 2023-10-11 |
-| [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 |  |
+| [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 | 2024-04-19 |
 | [Happy Bluebeat](https://open.spotify.com/track/6HLmkI6ncUQ4s6aHUyNWxJ) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 2:07 | 2023-12-29 | 2024-01-01 |
 | [Happy Rainbow](https://open.spotify.com/track/1tYbWJz9YEpJM7ExleZHAA) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:32 | 2023-12-22 |  |
 | [Hastle](https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:12 | 2022-06-02 | 2022-09-11 |
@@ -93,6 +93,7 @@
 | [Organ Mania](https://open.spotify.com/track/7bDfu6lter3bYAiPuz2PCJ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:31 | 2022-05-29 | 2022-10-13 |
 | [Original Mania](https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH), [Andrew Smith](https://open.spotify.com/artist/2Ev37g5r1LebOhUikXBsB2), [Keith Lawrence](https://open.spotify.com/artist/7d5SlLpPi78IOzO5J7poTq) | [Bootleg Beats](https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22) | 3:00 | 2022-05-30 | 2022-10-06 |
 | [Pacemaker](https://open.spotify.com/track/1udm3gM3s5K3kvY0yJ30Uq) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hi\-Band](https://open.spotify.com/album/7lOhaOiA5O35RXQ8KOhvxf) | 2:17 | 2023-05-10 | 2023-05-20 |
+| [Parisian Jazz](https://open.spotify.com/track/3DQZfDxqIGQhNWoVZLmuke) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 2:20 | 2024-04-19 |  |
 | [Past Mysteries](https://open.spotify.com/track/2l45gjZ9Acxe9DG6MIW0YI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Mystery & Imagination](https://open.spotify.com/album/50VQPVat6a9TS8KBc6hTyl) | 2:13 | 2023-11-10 | 2023-12-14 |
 | [Piccadilly Night Ride](https://open.spotify.com/track/1zi8xWfni4JFoPbxp8dLKL) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 1:53 | 2022-05-29 | 2023-12-25 |
 | [Power](https://open.spotify.com/track/3DCRPv4xrCiqKKdZqXAZzm) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Power](https://open.spotify.com/album/5yGxgTVRDLKGBbcz7Nzeet) | 2:50 | 2023-07-23 | 2023-08-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,683 likes - 254 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008,660 likes - 254 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 43 | [Calming Endless](https://open.spotify.com/track/2Ruhx1KsOZ7AW7KciDquSp) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [Calming Endless](https://open.spotify.com/album/5fHqJxKKzRBgVWdEB83RqQ) | 2:57 |
 | 44 | [Stillness Within](https://open.spotify.com/track/6yEYXNTrKwTzosV5rgzDlV) | [Stardustara](https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS) | [Stillness Within](https://open.spotify.com/album/3pgRRNWNYX4YJqpr82VpkY) | 3:00 |
 | 45 | [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 |
-| 46 | [Tender Sunset](https://open.spotify.com/track/6Ao0ELZFd7KwZFFAxm2lYP) | [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tender Sunset](https://open.spotify.com/album/6M7dR2as35hKUOyqP4gQXu) | 2:09 |
+| 46 | [Tender Sunset](https://open.spotify.com/track/59IYKHiJ9BYEVmZYBeHuCO) | [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx) | [Tender Sunset](https://open.spotify.com/album/1UfxI8AwxoOqplTZprJDyI) | 2:09 |
 | 47 | [Aurora](https://open.spotify.com/track/1OraD6cUqvKrh8A5skqtBh) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Aurora](https://open.spotify.com/album/3jAfYsRRP5zGAqbikyROKa) | 3:22 |
 | 48 | [Sovande](https://open.spotify.com/track/1dJJWFg94Ogmq3aiILfwv8) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Sovande](https://open.spotify.com/album/1mnQAVjKz6Tjh001npCgKw) | 2:27 |
 | 49 | [Other Existence](https://open.spotify.com/track/5vrx4NkFNaawdXnCbsOU00) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Other Existence](https://open.spotify.com/album/1SuY40xqu9iaN3HQX5GwIv) | 2:21 |
@@ -244,7 +244,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 234 | [El Limbo](https://open.spotify.com/track/7qxiypBdH5wy621o3DATXE) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [El Limbo](https://open.spotify.com/album/3SgHzUeEr4jsjD2msPacHc) | 3:12 |
 | 235 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 |
 | 236 | [Arrival](https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter One](https://open.spotify.com/album/4sVkpKX5ifo2XYpSNHKLyU) | 3:05 |
-| 237 | [sailing dreams](https://open.spotify.com/track/5ryhPewLH2URfQegFHuwf1) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [sailing dreams](https://open.spotify.com/album/6UgPlYHboOXKQMZusntT0P) | 3:03 |
+| 237 | [sailing dreams](https://open.spotify.com/track/4rvuy58or74YCum7qXpPxZ) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [sailing dreams](https://open.spotify.com/album/3B4iWokKVm3QNjw7WTeYH8) | 3:03 |
 | 238 | [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 |
 | 239 | [No One Knows](https://open.spotify.com/track/55cj9j5lNgAsKIYjX2mJLm) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [No One Knows](https://open.spotify.com/album/5yog0IePhrPvYeh3SU7kGM) | 3:14 |
 | 240 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 |

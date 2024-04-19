@@ -4,7 +4,7 @@
 
 > Las mejores canciones de la reina del pop argentino.
 
-69 songs - 3 hr 39 min
+70 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Lindo Pero Bruto](https://open.spotify.com/track/5RLBZePs33aN2F8uCzcSeo) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 2:57 | 2023-03-13 |  |
 | [Lo Que Tengo Yo](https://open.spotify.com/track/2lG1D3JuFMkqqdAiTMiF0n) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Lo Que Tengo Yo](https://open.spotify.com/album/7FAJSOMzHPrcmWP5rUMVa8) | 2:25 | 2023-03-13 |  |
 | [Me Muero por Vos](https://open.spotify.com/track/0hBv5FWbvi7dgoOZA7AHHD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Esperanza Mía \(Banda Original de Sonido\)](https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W) | 2:56 | 2023-03-13 |  |
-| [Mi Mala \(feat\. Becky G, Leslie Grace & Lali\) \- Remix](https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:15 | 2023-03-13 |  |
+| [Mi Mala \(feat\. Becky G, Leslie Grace & Lali\) \- Remix](https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:15 | 2023-03-13 | 2024-04-19 |
+| [Mi Mala \- Remix](https://open.spotify.com/track/6kOHug1s9Nd5gsHrX8irs2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Mi Mala \(Remix\)](https://open.spotify.com/album/6yxx3BanYeSaZgEHKVQazC) | 4:15 | 2023-09-01 |  |
 | [Mi Última Canción \(feat\. Reik\)](https://open.spotify.com/track/1bYlEvCQVPNKXU4MmhByR6) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:39 | 2023-03-13 |  |
 | [Mil Años Luz](https://open.spotify.com/track/4omvV2LzjontfP6JoAiHRB) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 3:48 | 2023-03-13 |  |
 | [MOTIVEISHON](https://open.spotify.com/track/2NioKrz9davb3CvHmgZ7yw) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:38 | 2023-04-20 |  |

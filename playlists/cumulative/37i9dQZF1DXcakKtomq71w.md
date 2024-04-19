@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-238 songs - 21 hr 9 min
+239 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [Waiting For César](https://open.spotify.com/track/6jQqG3BsRAKKcwDwkBCdQk) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Waiting For César](https://open.spotify.com/album/7JL1uqd6ohLCH7vnMbD6ex) | 6:36 | 2023-08-18 | 2023-11-11 |
 | [Wanna be/With You](https://open.spotify.com/track/6M8uzPGfUyc1HzXTsLIF1s) | [Dymos & Shizzo](https://open.spotify.com/artist/7owJmPvRxNxReTkZV4s40k), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [BUNN](https://open.spotify.com/artist/5jpTXSMaUcaT3LdRvL473K) | [Wanna be/With You](https://open.spotify.com/album/7JR0eeBzUgycbKDTGqZU9R) | 6:41 | 2024-02-22 |  |
 | [Werere \- Congafist Percussão Mix](https://open.spotify.com/track/5yJTGb5L7hfJtJ2w1ortPx) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [QVLN](https://open.spotify.com/artist/6QucHfdHaS4tLsKKT2vv2j) | [Werere](https://open.spotify.com/album/3ScS8eMEX10uI2hZFuG8U4) | 5:02 | 2023-03-21 | 2023-06-06 |
-| [What Is Real \- Deep in the Playa Mix](https://open.spotify.com/track/2VSGjw9ZylEcrf8uzEsvwi) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv), [RJLA](https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf) | [Blisss Remixes, Pt\. 1](https://open.spotify.com/album/2olR9rIMIo9WJGoMVwZJpt) | 8:17 | 2024-02-22 |  |
+| [What Is Real \- Deep in the Playa Mix](https://open.spotify.com/track/2VSGjw9ZylEcrf8uzEsvwi) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv), [RJLA](https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf) | [Blisss Remixes, Pt\. 1](https://open.spotify.com/album/2olR9rIMIo9WJGoMVwZJpt) | 8:17 | 2024-02-22 | 2024-04-19 |
+| [What Is Real \- Deep in the Playa Mix](https://open.spotify.com/track/3ADJRvBeReF86Rnq74atg4) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv), [RJLA](https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf) | [Blisss Remixes Pt\. 1](https://open.spotify.com/album/2uYOjzmPFKmCnMaepi5XKq) | 8:17 | 2024-02-22 |  |
 | [Who Loves The Sun \- Danny Faber Club Edit](https://open.spotify.com/track/2SESRQCWtugTRKbBnleYhN) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Danny Faber](https://open.spotify.com/artist/7qOGCTcYZ11W2e7i9LQ49q) | [Who Loves The Sun \(Danny Faber Club Edit\)](https://open.spotify.com/album/5P2WL7xmlCkjDTxXS9SKPy) | 6:12 | 2024-01-08 |  |
 | [Wintergreen](https://open.spotify.com/track/335GzS0E9yNFjLgXTqJSU7) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Wintergreen](https://open.spotify.com/album/4EpZZNla3iXd88NkFlrKq3) | 4:11 | 2022-12-19 | 2023-03-22 |
 | [Wonim](https://open.spotify.com/track/2jgIr4YeZEybyIYThVWTlB) | [Daniel Rateuke](https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq) | [Wonim](https://open.spotify.com/album/1KUWYlFpXASnla20utb3sT) | 2:50 | 2024-01-25 | 2024-02-23 |

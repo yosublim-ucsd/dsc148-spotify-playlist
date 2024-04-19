@@ -124,10 +124,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270400,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+    },
+    {
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5TP5jFpfWavPWtrLIWADAJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4oKhxhw0bn3yzXosYHBFTF"
     },
     {
       "album": {
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312493,
       "name": "apparitions",
       "url": "https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314626,
       "name": "Apparitions",
       "url": "https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz"
@@ -294,6 +312,24 @@
     {
       "album": {
         "name": "In Loving Memory Of - 20th Anniversary Special Edition",
+        "url": "https://open.spotify.com/album/41p1zVds0cmA8AeUviUWPs"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355133,
+      "name": "Blown Wide Open",
+      "url": "https://open.spotify.com/track/0RGOHedWSJ2UUGjhJF0gif"
+    },
+    {
+      "album": {
+        "name": "In Loving Memory Of - 20th Anniversary Special Edition",
         "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
       },
       "artists": [
@@ -304,7 +340,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 355133,
       "name": "Blown Wide Open",
       "url": "https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2"
@@ -322,10 +358,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286493,
       "name": "Breathe - TLA Mix",
       "url": "https://open.spotify.com/track/1VoVbKTpQqH53CsViCdHoT"
+    },
+    {
+      "album": {
+        "name": "Machine Punch Through: The Singles Collection",
+        "url": "https://open.spotify.com/album/48qfe5GUaW0l0UoKQisehK"
+      },
+      "artists": [
+        {
+          "name": "Moist",
+          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294333,
+      "name": "Breathe - TLA Mix",
+      "url": "https://open.spotify.com/track/0UWklae5nAqRgKDIWpyWpe"
     },
     {
       "album": {
@@ -340,7 +394,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247266,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm"
@@ -358,7 +412,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247306,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
@@ -474,6 +528,24 @@
     {
       "album": {
         "name": "You Were Here",
+        "url": "https://open.spotify.com/album/0dXwi4Xxei0hiqMg95fF5U"
+      },
+      "artists": [
+        {
+          "name": "Sarah Harmer",
+          "url": "https://open.spotify.com/artist/0RyvcOVrlV86NmFz0MrG9e"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Don't Get Your Back Up",
+      "url": "https://open.spotify.com/track/1IDNVOJbRioXVubRy3K2ke"
+    },
+    {
+      "album": {
+        "name": "You Were Here",
         "url": "https://open.spotify.com/album/7oWTHejE4DO3DvJDMGHS2F"
       },
       "artists": [
@@ -484,7 +556,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234200,
       "name": "Don't Get Your Back Up",
       "url": "https://open.spotify.com/track/41jtBn7TUwQ0EnXHxzbjDa"
@@ -502,7 +574,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236066,
       "name": "Drinking in L.A.",
       "url": "https://open.spotify.com/track/2vd5WiKwFzW5YeYcscu20j"
@@ -538,7 +610,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236066,
       "name": "Drinking in L.A.",
       "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
@@ -718,7 +790,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321000,
       "name": "Hurts To Love You - LP Version (Album Version)",
       "url": "https://open.spotify.com/track/3yBWPiXqbEOCr4cWmczG79"
@@ -736,7 +808,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321000,
       "name": "Hurts To Love You - LP Version (Album Version)",
       "url": "https://open.spotify.com/track/7D4vdvgwrrbJjb3px4mMZ0"
@@ -754,7 +826,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226400,
       "name": "I Don't Want To Think About It",
       "url": "https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf"
@@ -772,7 +844,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226400,
       "name": "I Don't Want to Think About It",
       "url": "https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt"
@@ -808,10 +880,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249426,
       "name": "If I Fall",
       "url": "https://open.spotify.com/track/5PAz50Dy3KT9vUlnZEpETG"
+    },
+    {
+      "album": {
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/5kWqCXOvFL0hdGqOZcmJUW"
+      },
+      "artists": [
+        {
+          "name": "Tara MacLean",
+          "url": "https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249426,
+      "name": "If I Fall",
+      "url": "https://open.spotify.com/track/5y1SrenKCtZ1AXnl9fGLb1"
     },
     {
       "album": {
@@ -902,7 +992,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 456866,
       "name": "It's All Coming Back to Me Now",
       "url": "https://open.spotify.com/track/2JRicL2f8tJl9TiQlH7vbJ"
@@ -920,7 +1010,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456866,
       "name": "It's All Coming Back to Me Now",
       "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
@@ -1208,7 +1298,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218626,
       "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
       "url": "https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9"
@@ -1226,7 +1316,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224760,
       "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
       "url": "https://open.spotify.com/track/5vmxVtt3hyQQvVnNXJtvJC"
@@ -1350,7 +1440,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267000,
       "name": "O Siem",
       "url": "https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ"
@@ -1368,7 +1458,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "O Siem",
       "url": "https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt"
@@ -1404,7 +1494,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324226,
       "name": "One More Astronaut",
       "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
@@ -1422,7 +1512,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 324400,
       "name": "One More Astronaut",
       "url": "https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew"
@@ -1440,7 +1530,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU"
@@ -1458,7 +1548,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
@@ -1620,7 +1710,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230426,
       "name": "Push",
       "url": "https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ"
@@ -1638,7 +1728,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230426,
       "name": "Push",
       "url": "https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw"
@@ -1692,7 +1782,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219391,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt"
@@ -1710,7 +1800,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219391,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6tbk1CZz3omYU73JsxBNIf"
@@ -1876,7 +1966,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 261250,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV"
@@ -1894,7 +1984,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261173,
       "name": "Spaceman (2023 Remastered Version)",
       "url": "https://open.spotify.com/track/3nf3FN7MRLuZDjQxcEwWxU"
@@ -1978,6 +2068,24 @@
     {
       "album": {
         "name": "Hot Show",
+        "url": "https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz"
+      },
+      "artists": [
+        {
+          "name": "Prozzak",
+          "url": "https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "Strange Disease",
+      "url": "https://open.spotify.com/track/1TWjFagDRfmuXfEErIOiDk"
+    },
+    {
+      "album": {
+        "name": "Hot Show",
         "url": "https://open.spotify.com/album/0FxSVyJ7d9BTddJfekVzpz"
       },
       "artists": [
@@ -1988,7 +2096,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206640,
       "name": "Strange Disease",
       "url": "https://open.spotify.com/track/3NUJcAWAIzlzNqGyQnm7XL"
@@ -2006,7 +2114,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201573,
       "name": "Sucks To Be You",
       "url": "https://open.spotify.com/track/2vc1zvxODjpoUrxGdLPLIv"
@@ -2024,7 +2132,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201573,
       "name": "Sucks To Be You",
       "url": "https://open.spotify.com/track/3St0CuLCZghaJrT33e7RT5"
@@ -2194,6 +2302,24 @@
     {
       "album": {
         "name": "Transmission",
+        "url": "https://open.spotify.com/album/1hBOzWPST7jrMG8YS2fkID"
+      },
+      "artists": [
+        {
+          "name": "The Tea Party",
+          "url": "https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/3SXz0Ay76V9GyhbXXbG4JM"
+    },
+    {
+      "album": {
+        "name": "Transmission",
         "url": "https://open.spotify.com/album/2UM4KHrNjvW3hmBNgwWSha"
       },
       "artists": [
@@ -2204,7 +2330,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205173,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3bvXwsvRllbsNXLbyfW2xM"
@@ -2402,7 +2528,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 304906,
       "name": "That Song",
       "url": "https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w"
@@ -2420,7 +2546,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304906,
       "name": "That Song",
       "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
@@ -2463,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "The Journey So Far: The Best Of Loreena McKennitt (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3SQX00bj83ZtrEjKFqm8se"
+      },
+      "artists": [
+        {
+          "name": "Loreena McKennitt",
+          "url": "https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241240,
+      "name": "The Mummers' Dance - Single Remix",
+      "url": "https://open.spotify.com/track/3hiIoTKUtdZTtGGAk7BgTW"
+    },
+    {
+      "album": {
         "name": "A Mummers' Dance Through Ireland",
         "url": "https://open.spotify.com/album/5wNmwt7aIuoGltC3N2kJ0V"
       },
@@ -2474,7 +2618,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242466,
       "name": "The Mummers' Dance - Single Remix",
       "url": "https://open.spotify.com/track/6grYZz46GJIkrDHP4JcvXF"
@@ -2673,24 +2817,6 @@
     },
     {
       "album": {
-        "name": "Party Hits: Summer Edition",
-        "url": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ"
-      },
-      "artists": [
-        {
-          "name": "Love Inc.",
-          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
-        }
-      ],
-      "date_added": "2020-10-29",
-      "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
-      "duration_ms": 210613,
-      "name": "You're a Superstar - Radio Edit",
-      "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
-    },
-    {
-      "album": {
         "name": "00s Party Mixtape",
         "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
       },
@@ -2706,10 +2832,32 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210613,
       "name": "You're a Superstar - Radio Edit",
       "url": "https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF"
+    },
+    {
+      "album": {
+        "name": "Party Hits: Summer Edition",
+        "url": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ"
+      },
+      "artists": [
+        {
+          "name": "Love Inc.",
+          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
+        },
+        {
+          "name": "Simone Denny",
+          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
+        }
+      ],
+      "date_added": "2020-10-29",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "You're a Superstar - Radio Edit",
+      "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,758 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,783 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 18 | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/track/5WkvdnhbWZVJsmUiXvfHzq) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/album/08q8H2kQRgUlfdtkLsde84) | 4:29 |
 | 19 | [Rossa](https://open.spotify.com/track/2eOAf2wRndC9cYZPfwdDtU) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Rossa](https://open.spotify.com/album/2hEQuIoHJYKqr5DRlktH2M) | 2:54 |
 | 20 | [Chardonnay](https://open.spotify.com/track/2V0fdohnsYJyiLWHyByJRj) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Chardonnay](https://open.spotify.com/album/716XoQ3W64WJxMH8L7Bney) | 2:40 |
-| 21 | [kartki](https://open.spotify.com/track/2eNEAWwAf32hte1Njp9xiF) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/1KPV9ruEJUJziXAj9I8VKI) | 2:30 |
+| 21 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
 | 22 | [bigos](https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [bigos](https://open.spotify.com/album/5IG3GK7rfwsspwoVgT7cml) | 3:15 |
 | 23 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 |
 | 24 | [Się poznali](https://open.spotify.com/track/55vYFMLlZfoX7pPXT0Hzza) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Się poznali](https://open.spotify.com/album/6VDSUr36e7KSLRIc2vIY2K) | 3:13 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 29 | [Freestyle](https://open.spotify.com/track/21edHwVjnKC1X2QLjpp5Oi) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Freestyle](https://open.spotify.com/album/6pgZMKPMrzdMQdkdYbEfnV) | 2:06 |
 | 30 | [Zgiełk](https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Zgiełk](https://open.spotify.com/album/1rZ696lpMnNWJs58ICTWMQ) | 3:25 |
 | 31 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 |
-| 32 | [Put Me First \- Spotify Singles](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \- Spotify Singles](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 |
+| 32 | [Put Me First \- Spotify Singles](https://open.spotify.com/track/3sjBxFckbKIYH7FShghTlF) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \(Spotify Singles\)](https://open.spotify.com/album/0elfTjxej6qsWnxpjgWs7q) | 2:25 |
 | 33 | [Cień](https://open.spotify.com/track/3pGMwn9bZhaFNFOp8efhZ7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:45 |
 | 34 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 |
 | 35 | [Na zawsze, morze](https://open.spotify.com/track/5c6eOOvCcwmySM46HN7Er4) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Double N](https://open.spotify.com/album/7d6Aho9TyMvWAsa85WP5IU) | 3:08 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 38 | [Peter Pan](https://open.spotify.com/track/59CaZAXx7Qorn2KGjxvsCc) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [PARANOJE](https://open.spotify.com/album/7rSEyUq8J0e0jVMakQ07ps) | 3:56 |
 | 39 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 |
 | 40 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 |
-| 41 | [Diss Na Miłość](https://open.spotify.com/track/0m8NvsR8kHzXSrHPyxaXc2) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/4QtxlIxlyH5czaqJyayPwM) | 1:52 |
+| 41 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
 | 42 | [przestrzeń](https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [kocham i tęsknię](https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2) | 3:16 |
 | 43 | [Puszczaj](https://open.spotify.com/track/3pGuVG2rKFSKWuqtKahAS1) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Puszczaj](https://open.spotify.com/album/4Mixg1QO20t9cPuoDip5Hq) | 3:12 |
 | 44 | [Welur](https://open.spotify.com/track/4uIXiKr1OThTtjgExrCZD0) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Welur](https://open.spotify.com/album/63qjHLrWqfDlWPg4dUNGun) | 3:07 |

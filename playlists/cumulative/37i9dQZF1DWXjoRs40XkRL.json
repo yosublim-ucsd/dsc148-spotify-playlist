@@ -152,7 +152,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249733,
       "name": "Adaaein",
       "url": "https://open.spotify.com/track/4He5EVmJ89k2BelkpXJlLl"
@@ -170,10 +170,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 249733,
       "name": "Adaaein",
       "url": "https://open.spotify.com/track/5DrVb38NSe9h0R1aNbNaDO"
+    },
+    {
+      "album": {
+        "name": "Ae Ri",
+        "url": "https://open.spotify.com/album/2z3shDcoGDm7cVqgPe7JRG"
+      },
+      "artists": [
+        {
+          "name": "prithviraj singh sisodiya",
+          "url": "https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Ae Ri",
+      "url": "https://open.spotify.com/track/1LjyG0SBQCuRegAwznLZL1"
     },
     {
       "album": {
@@ -460,6 +478,24 @@
     {
       "album": {
         "name": "Badra Chhaaye",
+        "url": "https://open.spotify.com/album/5BBUAzMYyJIGiqMgVZa7AX"
+      },
+      "artists": [
+        {
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170113,
+      "name": "Badra Chhaaye",
+      "url": "https://open.spotify.com/track/0ukKvwl5NNllsqv6naQbxT"
+    },
+    {
+      "album": {
+        "name": "Badra Chhaaye",
         "url": "https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa"
       },
       "artists": [
@@ -470,7 +506,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170113,
       "name": "Badra Chhaaye",
       "url": "https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz"
@@ -622,7 +658,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261631,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv"
@@ -644,7 +680,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 261631,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68"
@@ -1004,7 +1040,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117184,
       "name": "Delhi Drill",
       "url": "https://open.spotify.com/track/23Utm1XwZgklunyVtft0ih"
@@ -1152,7 +1188,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 546863,
       "name": "Ganga Kaleidoscope",
       "url": "https://open.spotify.com/track/68Df2yQnMgCnF7ob8NNRez"
@@ -1236,7 +1272,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 546678,
       "name": "Ganga Kaleidoscope",
       "url": "https://open.spotify.com/track/0fMdLUwrjzJlRYU5gx8vjA"
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233750,
       "name": "Girte Hue Boondon",
       "url": "https://open.spotify.com/track/5Kkd9qTIu2RSY0hNQBjjiw"
@@ -1464,7 +1500,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 233750,
       "name": "Girte Hue Boondon",
       "url": "https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt"
@@ -1518,7 +1554,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240245,
       "name": "Har Ek Baat",
       "url": "https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56"
@@ -1530,13 +1566,17 @@
       },
       "artists": [
         {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
           "name": "Pratibha Baghel",
           "url": "https://open.spotify.com/artist/34WY28NColBYovxxFwafVW"
         }
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 240245,
       "name": "Har Ek Baat",
       "url": "https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5"
@@ -1842,7 +1882,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338552,
       "name": "Jagaave Saari Raina",
       "url": "https://open.spotify.com/track/4Y5YYrofXOcGZnrH03AhvF"
@@ -1860,7 +1900,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 338552,
       "name": "Jagaave Saari Raina",
       "url": "https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz"
@@ -1958,7 +1998,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 412318,
       "name": "Jiya Lage Na",
       "url": "https://open.spotify.com/track/2T8s6bn2jOU6Topjuil8k5"
@@ -1984,7 +2024,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 412318,
       "name": "Jiya Lage Na",
       "url": "https://open.spotify.com/track/476FFGIqNYi8jd7aEmXJBR"
@@ -2550,7 +2590,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 355870,
       "name": "Kuhu Kuhu Bole Koyalia",
       "url": "https://open.spotify.com/track/0XiwdXAtiAnKPUnCK72N5w"
@@ -2572,15 +2612,11 @@
         {
           "name": "Firdaus Orchestra",
           "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
-        },
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         }
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 355870,
       "name": "Kuhu Kuhu Bole Koyalia",
       "url": "https://open.spotify.com/track/46Azji1QvCJqgSPBkcwLFv"
@@ -2826,7 +2862,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325318,
       "name": "Main Bharose",
       "url": "https://open.spotify.com/track/1TIzMi4wEFsKqgQC6Zq9pD"
@@ -2868,7 +2904,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 325318,
       "name": "Main Bharose",
       "url": "https://open.spotify.com/track/33AshJyW3Wu1iKtTLoD8AW"
@@ -3004,7 +3040,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 164973,
       "name": "Manwa",
       "url": "https://open.spotify.com/track/0Qfl0FJrYkiFP2csaljFik"
@@ -3026,7 +3062,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164973,
       "name": "Manwa",
       "url": "https://open.spotify.com/track/1UN27M8r8rmgtBQj8hju5H"
@@ -3421,24 +3457,6 @@
     },
     {
       "album": {
-        "name": "Article 370",
-        "url": "https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        }
-      ],
-      "date_added": "2024-02-19",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
-      "duration_ms": 156900,
-      "name": "Najariya LoFi Cake Mix",
-      "url": "https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji"
-    },
-    {
-      "album": {
         "name": "Article 370 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0ZyTpDwvVbYT5QHm1hPRCO"
       },
@@ -3454,10 +3472,32 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156900,
       "name": "Najariya LoFi Cake Mix",
       "url": "https://open.spotify.com/track/19lu7zlaFr7EmrlS1OaKPB"
+    },
+    {
+      "album": {
+        "name": "Article 370",
+        "url": "https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156900,
+      "name": "Najariya LoFi Cake Mix",
+      "url": "https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji"
     },
     {
       "album": {
@@ -3512,7 +3552,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 353416,
       "name": "Neeli Neeli Khili Khili Si Duniya",
       "url": "https://open.spotify.com/track/1XoofvsgeNTx1kt0FdeVAF"
@@ -3534,7 +3574,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353416,
       "name": "Neeli Neeli Khili Khili Si Duniya",
       "url": "https://open.spotify.com/track/3nL8aPsY0Fs13IJfio7qFi"
@@ -3692,7 +3732,7 @@
     {
       "album": {
         "name": "Kuhu Kuhu",
-        "url": "https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg"
+        "url": "https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB"
       },
       "artists": [
         {
@@ -3709,12 +3749,12 @@
       "date_removed": null,
       "duration_ms": 215348,
       "name": "O Sajana Barkha Bahar",
-      "url": "https://open.spotify.com/track/4ZNtTyyJ8lpqHZmKRsCmBt"
+      "url": "https://open.spotify.com/track/2uOiaNaETsfYGnJbesEAYp"
     },
     {
       "album": {
         "name": "Kuhu Kuhu",
-        "url": "https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB"
+        "url": "https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg"
       },
       "artists": [
         {
@@ -3724,18 +3764,14 @@
         {
           "name": "Firdaus Orchestra",
           "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
-        },
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         }
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": "2024-04-19",
       "duration_ms": 215348,
       "name": "O Sajana Barkha Bahar",
-      "url": "https://open.spotify.com/track/2uOiaNaETsfYGnJbesEAYp"
+      "url": "https://open.spotify.com/track/4ZNtTyyJ8lpqHZmKRsCmBt"
     },
     {
       "album": {
@@ -4470,7 +4506,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258457,
       "name": "Raina Na Biti Jaye",
       "url": "https://open.spotify.com/track/3ojBuM4WnkEJI4hcch11qo"
@@ -4492,7 +4528,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 258457,
       "name": "Raina Na Biti Jaye",
       "url": "https://open.spotify.com/track/6Rqt5TMC21YcmXNuhL53P2"
@@ -4970,7 +5006,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 242377,
       "name": "Samjha Toh Kar",
       "url": "https://open.spotify.com/track/6iaaxYDkrIT1wmNkCkiue8"
@@ -4992,7 +5028,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242377,
       "name": "Samjha Toh Kar",
       "url": "https://open.spotify.com/track/2UJGpJz5if0Qt4ZoWedOlF"
@@ -5124,7 +5160,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 300537,
       "name": "Shalimar",
       "url": "https://open.spotify.com/track/2MxUrEdHDefNiDaizaEXAI"
@@ -5142,7 +5178,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300537,
       "name": "Shalimar",
       "url": "https://open.spotify.com/track/7FQydG9BiGii1eyKEkmvLD"

@@ -270,6 +270,24 @@
     {
       "album": {
         "name": "Cherry",
+        "url": "https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355920,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar"
+    },
+    {
+      "album": {
+        "name": "Cherry",
         "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
       "artists": [
@@ -280,7 +298,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 355920,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI"
@@ -436,10 +454,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 402461,
       "name": "Diverso (Again)",
       "url": "https://open.spotify.com/track/3ZQ9hMyD7s7qh9mDwDpgBk"
+    },
+    {
+      "album": {
+        "name": "Diverso (Again)",
+        "url": "https://open.spotify.com/album/04lKh9c0PzAqE9vVZ4lMUP"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402461,
+      "name": "Diverso (Again)",
+      "url": "https://open.spotify.com/track/6Iw1FjoA7mM4MjiTkX9ABu"
     },
     {
       "album": {
@@ -508,7 +544,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 179800,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn"
@@ -526,7 +562,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179800,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J"
@@ -548,7 +584,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 386020,
       "name": "Entangled Beings",
       "url": "https://open.spotify.com/track/07ZJ2QUpukq1x3St9rlg3N"
@@ -570,7 +606,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 386020,
       "name": "Entangled Beings",
       "url": "https://open.spotify.com/track/6IGhl1G6l1egoVDk1huZFr"
@@ -631,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Foxes",
+        "url": "https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255882,
+      "name": "Foxes",
+      "url": "https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R"
+    },
+    {
+      "album": {
         "name": "Rascal",
         "url": "https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB"
       },
@@ -642,7 +696,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255882,
       "name": "Foxes",
       "url": "https://open.spotify.com/track/3WLckRK4Skgl9kl7DYTxxU"
@@ -707,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Gfortune",
+        "url": "https://open.spotify.com/album/7m6WEYlAIKnxgiuPKiK5hY"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199114,
+      "name": "Gfortune",
+      "url": "https://open.spotify.com/track/6N5bzqiZPIhQBmgyKdtYGU"
+    },
+    {
+      "album": {
         "name": "Cash Romantic",
         "url": "https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs"
       },
@@ -718,10 +790,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199114,
       "name": "Gfortune",
       "url": "https://open.spotify.com/track/6V52Oad8LGjePNLKQHqfgE"
+    },
+    {
+      "album": {
+        "name": "inorganic demons",
+        "url": "https://open.spotify.com/album/4YV4dUDRndOfXMwDhiLpF9"
+      },
+      "artists": [
+        {
+          "name": "Buttechno",
+          "url": "https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt"
+        },
+        {
+          "name": "Yana Pavlova",
+          "url": "https://open.spotify.com/artist/2jdPeiZyx76yDPEjyBWeuX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281167,
+      "name": "goatic cut",
+      "url": "https://open.spotify.com/track/4bZNP8QH6XCtv9CHtzsg5H"
     },
     {
       "album": {
@@ -740,7 +834,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281167,
       "name": "Goatic Cut",
       "url": "https://open.spotify.com/track/5TPG4JLu00wA7XjMbfiuNM"
@@ -1163,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Lupron",
+        "url": "https://open.spotify.com/album/1YpSKKdckVuHL97UqEu9Uj"
+      },
+      "artists": [
+        {
+          "name": "Time Wharp",
+          "url": "https://open.spotify.com/artist/4qKg8yrNu8uUF21eXl8M6H"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241755,
+      "name": "Lupron",
+      "url": "https://open.spotify.com/track/2w0d3U92AVOCk4C9QZG1q1"
+    },
+    {
+      "album": {
         "name": "Spiro World",
         "url": "https://open.spotify.com/album/28svshBKKjdIZrqG4XFLcb"
       },
@@ -1174,10 +1286,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241755,
       "name": "Lupron",
       "url": "https://open.spotify.com/track/40kskx4L1RnQwc1CVlSo7V"
+    },
+    {
+      "album": {
+        "name": "no pare, sigue sigue",
+        "url": "https://open.spotify.com/album/1aINkEC7oIT5OVJt1kdWGz"
+      },
+      "artists": [
+        {
+          "name": "DJ Sosa RD",
+          "url": "https://open.spotify.com/artist/3LSkB4hRq8R9NvnBX5gGO8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Mami QTQ",
+      "url": "https://open.spotify.com/track/2lkuYZTXxAqXTKeyIl2z2P"
     },
     {
       "album": {
@@ -1192,7 +1322,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "Mami QTQ",
       "url": "https://open.spotify.com/track/6W1UkXk51FXZRuFYuvbIJp"
@@ -1334,6 +1464,24 @@
     {
       "album": {
         "name": "EP2",
+        "url": "https://open.spotify.com/album/2vBI0wMA4xiD13BUPvncBO"
+      },
+      "artists": [
+        {
+          "name": "Sylvere",
+          "url": "https://open.spotify.com/artist/6Uaezuj0rByRvQHRujnBcp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/0TZCCNwhwZmAh8Vl9JS8wR"
+    },
+    {
+      "album": {
+        "name": "EP2",
         "url": "https://open.spotify.com/album/4XP6KUd1NFueLjtBmFPTwf"
       },
       "artists": [
@@ -1344,7 +1492,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263225,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/5asPVBj5TUtv7ytc2EEPT1"
@@ -1388,10 +1536,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122906,
       "name": "Q",
       "url": "https://open.spotify.com/track/0DJyTFNQjivRIOsYX4YckT"
+    },
+    {
+      "album": {
+        "name": "MK 3.5: Die Cuts | City Planning",
+        "url": "https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Kai Campos",
+          "url": "https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122906,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/6HlcVT8PmqqXuKR6oQ4cSa"
     },
     {
       "album": {
@@ -1650,6 +1820,24 @@
     {
       "album": {
         "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594500,
+      "name": "The Sun Swirls Within You",
+      "url": "https://open.spotify.com/track/2Ztowso4w7UjfAWsFDkZPo"
+    },
+    {
+      "album": {
+        "name": "Under the Lilac Sky",
         "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
       "artists": [
@@ -1660,7 +1848,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 594500,
       "name": "The Sun Swirls Within You",
       "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
@@ -1824,7 +2012,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 397000,
       "name": "True Romance",
       "url": "https://open.spotify.com/track/4k0zUldbzBVX6A9sWD4uJn"
@@ -1842,7 +2030,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397000,
       "name": "True Romance",
       "url": "https://open.spotify.com/track/6gBKVtmyZeGMdbrbA0FmJL"
@@ -1984,6 +2172,24 @@
     {
       "album": {
         "name": "Warped Bow",
+        "url": "https://open.spotify.com/album/5JDhjitAi1AuD6eBu2dRmx"
+      },
+      "artists": [
+        {
+          "name": "No Home",
+          "url": "https://open.spotify.com/artist/4y1vcqQdEUjtrKbAC56RHf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Warped Bow",
+      "url": "https://open.spotify.com/track/4eu0XMODEQeTedRIUS7uk3"
+    },
+    {
+      "album": {
+        "name": "Warped Bow",
         "url": "https://open.spotify.com/album/3HrLYymH9hmycjKBXmHZHk"
       },
       "artists": [
@@ -1994,7 +2200,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186626,
       "name": "Warped Bow",
       "url": "https://open.spotify.com/track/5KPgaW8gPs8BE7Gm6VGiYD"
@@ -2020,6 +2226,24 @@
     {
       "album": {
         "name": "To Cy & Lee: Instrumentals, Vol. 1",
+        "url": "https://open.spotify.com/album/657wUSfWEs3WcOA0xhsAfI"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139586,
+      "name": "Whisky Story Time",
+      "url": "https://open.spotify.com/track/0DvdODtKwuo4XPTeDOSlm4"
+    },
+    {
+      "album": {
+        "name": "To Cy & Lee: Instrumentals, Vol. 1",
         "url": "https://open.spotify.com/album/4xSCx58aWcq3UfTwfK012z"
       },
       "artists": [
@@ -2030,7 +2254,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139586,
       "name": "Whisky Story Time",
       "url": "https://open.spotify.com/track/5mcMjy09RXCFyOvYrFoqGD"
@@ -2066,7 +2290,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228493,
       "name": "Within (Drumless Edition)",
       "url": "https://open.spotify.com/track/28ghWbRd3ZlaeYdKklfQDJ"
@@ -2084,7 +2308,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 228493,
       "name": "Within (Drumless Edition)",
       "url": "https://open.spotify.com/track/4PTtFQIiFtNNbbX4Ym5RCD"

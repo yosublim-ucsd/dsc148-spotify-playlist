@@ -4,17 +4,19 @@
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-34 songs - 2 hr 42 min
+36 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bengawan Solo \- Original Keroncong Orchestra](https://open.spotify.com/track/7KMT2ZmthqYSnBzeJKZMtQ) | [Gesang](https://open.spotify.com/artist/18hMpGu48kBPQyGARDjqkY), [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [The 70th Anniversary of Bengawan Solo](https://open.spotify.com/album/0p5wFCsaKKKHn2YbPCr3NX) | 4:39 | 2021-09-09 |  |
-| [Di Bawah Sinar Bulan Purnama](https://open.spotify.com/track/3VaEcF8qbzZVlTBMg22nJ1) | [Sundari Soekotjo](https://open.spotify.com/artist/1IuDMRAhrGICHG8k5vxAOd) | [20 Lagu\-Lagu Keroncong Mus Mulyadi & Sundari Sukotjo](https://open.spotify.com/album/3K6MNZIM3hOYuBIgIqA84D) | 4:04 | 2021-09-09 |  |
+| [Di Bawah Sinar Bulan Purnama](https://open.spotify.com/track/3VaEcF8qbzZVlTBMg22nJ1) | [Sundari Soekotjo](https://open.spotify.com/artist/1IuDMRAhrGICHG8k5vxAOd) | [20 Lagu\-Lagu Keroncong Mus Mulyadi & Sundari Sukotjo](https://open.spotify.com/album/3K6MNZIM3hOYuBIgIqA84D) | 4:04 | 2021-09-09 | 2024-04-19 |
+| [Di Bawah Sinar Bulan Purnama](https://open.spotify.com/track/1l4BwBpohsLW7xvaysHyvO) | [Sundari Soekotjo](https://open.spotify.com/artist/1IuDMRAhrGICHG8k5vxAOd) | [Best Of Sundari Soekotjo](https://open.spotify.com/album/0JA66DgJe07uF3VuePnGEW) | 4:04 | 2021-09-09 |  |
 | [Djembatan Merah](https://open.spotify.com/track/5QqSZoKTfEn4zKLotCGw5U) | [Krontjong Ensemble Pantja Warna](https://open.spotify.com/artist/1APfSsXt4JByIzMVlVenV9) | [Djembatan Merah \- EP](https://open.spotify.com/album/5ntowqlsWG4Ubb6itS66YM) | 3:12 | 2021-09-09 |  |
 | [Gatot Kaca Edan](https://open.spotify.com/track/6zE9dgmaBMoIatA1OLRCCU) | [Soleh Akbar](https://open.spotify.com/artist/6AwrGNhIIIAzcFsutrUpBY) | [Indonesian Folksongs, Vol\. 3: Jawa](https://open.spotify.com/album/6UVOzURBACpJd5v9YJuenq) | 4:20 | 2021-09-09 |  |
 | [Gethuk](https://open.spotify.com/track/5Fl0tKlKDPrgsU190oFq2R) | [Manthous](https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn) | [Campursari CSGK Manthous \(Lagu\-Lagu Terbaik\)](https://open.spotify.com/album/1NyRCiMcSUdz0YKKU7qsqE) | 3:53 | 2021-09-09 |  |
 | [Gubuk Asmoro \(feat\. Dimas Tedjo\)](https://open.spotify.com/track/1JFJbWGWE7zdXDTLTpVbWK) | [Langgam Campursari Sangga Buana](https://open.spotify.com/artist/4GV37x7Nfxl0m3gAk0rU2J), [Dimas Tedjo](https://open.spotify.com/artist/7fYeWW12JYNs9Q0NNeNQfw) | [Gubug Asmoro](https://open.spotify.com/album/653L4zdptwCGw4KbffGG66) | 5:39 | 2021-09-09 |  |
-| [Gudeg Yogya \(feat\. Lilis Diana\)](https://open.spotify.com/track/2SgDeaOv1QZQXyPu2n7sPL) | [Manthous](https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn), [Lilis Diana](https://open.spotify.com/artist/4sSTofPgVFn2NKi9rMT0wX) | [Tembang Jawa Kenangan](https://open.spotify.com/album/263b3G7UzygOZFCufxjeLj) | 4:30 | 2021-09-09 |  |
+| [Gudeg Yogya](https://open.spotify.com/track/6JWhjzPyefqVNjVZtSAUS6) | [Lilis Diana](https://open.spotify.com/artist/4sSTofPgVFn2NKi9rMT0wX), [Manthous](https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn) | [Tembang Jawa Kenangan](https://open.spotify.com/album/7tSfLE6PKlfYmhkuogEO9B) | 4:30 | 2021-09-09 |  |
+| [Gudeg Yogya \(feat\. Lilis Diana\)](https://open.spotify.com/track/2SgDeaOv1QZQXyPu2n7sPL) | [Manthous](https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn), [Lilis Diana](https://open.spotify.com/artist/4sSTofPgVFn2NKi9rMT0wX) | [Tembang Jawa Kenangan](https://open.spotify.com/album/263b3G7UzygOZFCufxjeLj) | 4:30 | 2021-09-09 | 2024-04-19 |
 | [Jenang Gulo \(feat\. Ririk\)](https://open.spotify.com/track/7I8vBafZmFGozFx7HcXwJY) | [Campursari Sangga Buana](https://open.spotify.com/artist/3vzL5Lh8QtWRE2JIvAeerl), [Ririk](https://open.spotify.com/artist/4IRcdXzVnitoIfqxpTEY5b) | [Wuyung](https://open.spotify.com/album/1UsGFe1aCHvjVxZ5wEJNTI) | 6:53 | 2021-09-09 |  |
 | [Kelinci Ucul](https://open.spotify.com/track/5Xj1aZqiR9FzMtv61rMHrd) | [Sangga Buana](https://open.spotify.com/artist/5ZJX5KoNo9WuUqvYV0NaIH) | [Langgam Campursari Sangga Buana](https://open.spotify.com/album/4IUmIEwpU4l0dmHimwEjQn) | 3:49 | 2021-09-09 |  |
 | [Kr\. Idaman Hati](https://open.spotify.com/track/0UXEGBqp5CmoLBekkF597g) | [Sri Widadi](https://open.spotify.com/artist/4j0a81xxwodxUdWZ3K1Hiz) | [Album Emas Keroncong: Sri Widadi](https://open.spotify.com/album/74TgG3PAC7ezyGRWlO0N6p) | 3:09 | 2021-09-09 |  |
@@ -40,7 +42,7 @@
 | [Tulung](https://open.spotify.com/track/565PueGipMUc719CembSCg) | [Arda Tatu](https://open.spotify.com/artist/0XoYout1dRTYkg5R2PI9bq) | [Tulung](https://open.spotify.com/album/29gKDTVr8V8YY2BDRWKdUV) | 4:26 | 2021-09-09 |  |
 | [Walang Kekek](https://open.spotify.com/track/036ARyk2seExNK6AR0sxWK) | [Mus Mulyadi](https://open.spotify.com/artist/4WnEy38kT3nojRrIlbxlu8), [Sriyatun](https://open.spotify.com/artist/1sr980Ysv9HpJHyGmGct5v) | [Gamelan Campur Sari Walang Kekek](https://open.spotify.com/album/35lvs1fRKm1AvKBkzwo6KQ) | 5:20 | 2021-09-09 |  |
 | [Yen Ing Tawang](https://open.spotify.com/track/6lUr62TwZQX2IjE6bgwsIi) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Emas Didi Kempot Yen Ing Tawang](https://open.spotify.com/album/5AtrWohkzLw7bqiyuQutt1) | 4:00 | 2021-09-09 |  |
-| [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/2bUNxmVxYx3jQabY7auzGn) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa Waldjinah, Vol\. 1](https://open.spotify.com/album/6TxMzEMJFb9kh6ma3LU20h) | 5:02 | 2021-09-09 |  |
-| [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/5xb4N5tuOUiMUKBpXjz24L) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa WALDJINAH Vol\. 1](https://open.spotify.com/album/3f8EroNL1dc01rF1bcenF9) | 5:02 | 2021-09-09 | 2024-03-06 |
+| [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/2bUNxmVxYx3jQabY7auzGn) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa Waldjinah, Vol\. 1](https://open.spotify.com/album/6TxMzEMJFb9kh6ma3LU20h) | 5:02 | 2021-09-09 | 2024-04-19 |
+| [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/5xb4N5tuOUiMUKBpXjz24L) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa WALDJINAH vol\. 1](https://open.spotify.com/album/3f8EroNL1dc01rF1bcenF9) | 5:02 | 2021-09-09 |  |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

@@ -1770,7 +1770,7 @@
     {
       "album": {
         "name": "The Sherman Brothers Songbook",
-        "url": "https://open.spotify.com/album/1Hrim7KTK1mNyAYAw17Q1s"
+        "url": "https://open.spotify.com/album/3PlbEOxE8rE8xf7mDWdpgb"
       },
       "artists": [
         {
@@ -1781,6 +1781,24 @@
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262160,
+      "name": "Your Heart Will Lead You Home - From \"The Tigger Movie\"",
+      "url": "https://open.spotify.com/track/3mmD4IFxtrn5elQzD6uXw8"
+    },
+    {
+      "album": {
+        "name": "The Sherman Brothers Songbook",
+        "url": "https://open.spotify.com/album/1Hrim7KTK1mNyAYAw17Q1s"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 262160,
       "name": "Your Heart Will Lead You Home - From \"The Tigger Movie\"",
       "url": "https://open.spotify.com/track/755iYTcbFj5H7XDXBCyaGe"

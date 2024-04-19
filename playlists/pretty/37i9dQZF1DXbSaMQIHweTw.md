@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Naezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,758 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,756 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 4 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 |
 | 5 | [Tu Tera Dekh](https://open.spotify.com/track/2VqfsN94NzeeG6a8iUMz0c) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Wholeheartedly](https://open.spotify.com/album/7kkrtWD5cDiRlVoXbILLfa) | 2:24 |
 | 6 | [Mehfooz](https://open.spotify.com/track/0ojrz3vVgmge8bGjnzZf5q) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 3:03 |
-| 7 | [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 |
+| 7 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 |
 | 8 | [Bolna Tu Bantai \- From "Whole Heartedly"](https://open.spotify.com/track/0Glg2gUCE9QydbTm0zjEkN) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Bolna Tu Bantai \(From "Whole Heartedly"\)](https://open.spotify.com/album/5O2fxXZT0fLfOVU6vG1eyf) | 2:30 |
 | 9 | [ISLAH](https://open.spotify.com/track/287Hq0mwGrCWVfBjugfKIK) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [ISLAH](https://open.spotify.com/album/1uZXs1srHciCh2ufGK4YuS) | 2:39 |
 | 10 | [Aaropi](https://open.spotify.com/track/3dJWfCq3I3i2NQJkpQLYNS) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Loka Kaha Hai \(Side A\)](https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe) | 3:14 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 34 | [Bombay Ke Don](https://open.spotify.com/track/499tKmOFPlTHY91jx68WVN) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Bombay Ke Don](https://open.spotify.com/album/7s0QOGNHppvKS3J4IUsZb7) | 3:16 |
 | 35 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 |
 | 36 | [Kohinoor](https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/47prNGpfOQnYYf5mIKaGNL) | 3:18 |
-| 37 | [Rx100](https://open.spotify.com/track/5coadHEWKzAeKK3Rp3PuoL) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/5XEnLwdHlMRvKequbRsQWt) | 5:28 |
+| 37 | [Rx100](https://open.spotify.com/track/7i6WQRhgwXqWJ3CnpJIu0U) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/2SGg4AETclQYvFw0wT9tYW) | 5:20 |
 | 38 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 |
 | 39 | [KR L$DA SIGN](https://open.spotify.com/track/0usNFsDDoVMYVE732zM3QI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [KR L$DA SIGN](https://open.spotify.com/album/0bskp8YuVeh7ZgV7Orq9cz) | 8:12 |
 | 40 | [Thanks To My Haters](https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Thanks To My Haters](https://open.spotify.com/album/2zm6kuDvtaNiSxLlvEQkBX) | 2:46 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 46 | [Ou!](https://open.spotify.com/track/1Aw7EMr47zy7VcGFLK0Lhi) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [AAKASH](https://open.spotify.com/artist/5pJz56mXmC3bb0cIG5Ghen) | [Autobiography](https://open.spotify.com/album/6ZGUav7u1qrms2VNsl0fXD) | 2:45 |
 | 47 | [Disco Rap](https://open.spotify.com/track/3l84vjvLnKIfqLLdZXKq2B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:42 |
 | 48 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 |
-| 49 | [Samajh mein aaya kya?](https://open.spotify.com/track/2FcVvA6ltdOyvP4jUgOqfa) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Samajh mein aaya kya?](https://open.spotify.com/album/1FxCO5t2JevJGXQMgegUPK) | 4:33 |
+| 49 | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/track/7n8xH63Whw5spavIWScPIh) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/album/3cXkzvtDOyah8H8CYtvYcN) | 4:34 |
 | 50 | [Kaam 25 \- Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kaam 25 \(Sacred Games\)](https://open.spotify.com/album/22kgtYXKwgjccIu3kxC75m) | 2:29 |
 
 Snapshot ID: `MTcxMjkyMjkwNiwwMDAwMDAwMGJhZWQ4ZjhhMzAyZTlkM2NhYTk0M2QxMzA3YzFhZTFk`

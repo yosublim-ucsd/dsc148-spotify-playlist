@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 969085,
+  "2024-04-19": 969460,
   "date_first_scraped": "2021-12-21",
   "description": "Everlasting indie hits, ft Dijon.",
   "name": "Essential Indie",
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 351640,
       "name": "Brooklyn Baby",
       "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
@@ -5285,7 +5285,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 339890,
       "name": "Margaret (feat. Bleachers)",
       "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"

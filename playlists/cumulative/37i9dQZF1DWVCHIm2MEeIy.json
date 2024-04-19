@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243652,
       "name": "Away With Me - Fideles Remix",
       "url": "https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229440,
       "name": "Best of Me - Radio Edit",
       "url": "https://open.spotify.com/track/4bJ7hDIjOucR0hGDEaVBOr"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 408003,
       "name": "Boavista - Innellea's Arp Attachement",
       "url": "https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 397524,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/2n5JQQvrzSVzGkNsAxPha6"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213390,
       "name": "Cosmovision",
       "url": "https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
@@ -2373,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "Exo",
+        "url": "https://open.spotify.com/album/5rEVnpIGXV8WsB8eSJ5McW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Saalbach",
+          "url": "https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA"
+        },
+        {
+          "name": "RVLF",
+          "url": "https://open.spotify.com/artist/0BSmDr6e7YypHB65b76W4G"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "Exo",
+      "url": "https://open.spotify.com/track/6CF4e62OYBjRJoYyJTSSkF"
+    },
+    {
+      "album": {
         "name": "Fader",
         "url": "https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU"
       },
@@ -2544,7 +2566,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 226249,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p"
@@ -2598,7 +2620,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
@@ -2776,7 +2798,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 426520,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB"
@@ -3020,7 +3042,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205440,
       "name": "Hera - Radio Edit",
       "url": "https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713"
@@ -3398,7 +3420,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt"
@@ -3552,7 +3574,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 347680,
       "name": "In A Blurry World",
       "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
@@ -3860,7 +3882,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360242,
       "name": "Landa",
       "url": "https://open.spotify.com/track/72FN3KE2IoxGmyPGtQNcTV"
@@ -3998,6 +4020,28 @@
       "duration_ms": 398290,
       "name": "Liberty",
       "url": "https://open.spotify.com/track/4hHp8zcyoyIROeUZrkAvvK"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/0F5E6VkUdTKU1AVAONghnY"
+      },
+      "artists": [
+        {
+          "name": "Betoko",
+          "url": "https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7"
+        },
+        {
+          "name": "SevenEver",
+          "url": "https://open.spotify.com/artist/4Y6akvUaVTWw81IWcBNyDl"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470540,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/2y0dS7cGPbca27XTvsE1oK"
     },
     {
       "album": {
@@ -4845,6 +4889,28 @@
     },
     {
       "album": {
+        "name": "No Distance",
+        "url": "https://open.spotify.com/album/1IDB569BKSueGFhXfFuOpL"
+      },
+      "artists": [
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476856,
+      "name": "No Distance",
+      "url": "https://open.spotify.com/track/7ugIm8ReiveXtrK9jpqOJ4"
+    },
+    {
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
       },
@@ -4860,7 +4926,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218709,
       "name": "No One\u2019s Coming",
       "url": "https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs"
@@ -5104,7 +5170,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 416921,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj"
@@ -5159,6 +5225,28 @@
     },
     {
       "album": {
+        "name": "Olympia (Remixes)",
+        "url": "https://open.spotify.com/album/4WeG0aBWeG21nyEes89ylX"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Aura James",
+          "url": "https://open.spotify.com/artist/0GVNLmhKn3REIsdZda7oa6"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249677,
+      "name": "Oxygen - Terrace Dub",
+      "url": "https://open.spotify.com/track/2Ij6YmwBU1mMNBJDJuHqyU"
+    },
+    {
+      "album": {
         "name": "Paper Aeroplane (feat. Leo Stannard)",
         "url": "https://open.spotify.com/album/1aXKAtOlUmGlPco5YvXkZ1"
       },
@@ -5196,7 +5284,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 244513,
       "name": "Paradise - \u00c2me Remix",
       "url": "https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs"
@@ -5396,7 +5484,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
@@ -5692,7 +5780,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299293,
       "name": "Reflected Wisdom - Five Phases Project (4 / 5)",
       "url": "https://open.spotify.com/track/7yU6xmRV36pHpsGTO9QMli"
@@ -5983,6 +6071,28 @@
     },
     {
       "album": {
+        "name": "White Noise Romantica",
+        "url": "https://open.spotify.com/album/2srIYLeeLr0DpqhpfYJ5Bl"
+      },
+      "artists": [
+        {
+          "name": "Yeah But No",
+          "url": "https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341500,
+      "name": "Run Run Run - Adam Port Remix",
+      "url": "https://open.spotify.com/track/6ILgZZZnxyXRSvzSlpuNIz"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/3mPdroSAho9HE6PwGJgM3g"
       },
@@ -6136,7 +6246,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180461,
       "name": "Set My Mind Free",
       "url": "https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw"
@@ -6154,7 +6264,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 424332,
       "name": "She Could!",
       "url": "https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d"
@@ -6464,7 +6574,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243013,
       "name": "Something On My Mind (Solomun Remix)",
       "url": "https://open.spotify.com/track/7qoIMEX58PlFTai18Uf1ic"
@@ -6490,6 +6600,28 @@
       "duration_ms": 279127,
       "name": "Something Was Missing - PARIS Remix",
       "url": "https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41"
+    },
+    {
+      "album": {
+        "name": "Sondans",
+        "url": "https://open.spotify.com/album/6A4x3S13O1Zei6f8J74RuK"
+      },
+      "artists": [
+        {
+          "name": "Basti Grub",
+          "url": "https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176735,
+      "name": "Sondans",
+      "url": "https://open.spotify.com/track/2Che7aDm4B4ZfO2Dl3Pi0b"
     },
     {
       "album": {
@@ -7259,6 +7391,28 @@
     },
     {
       "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/5SRRd1yaZsJbSiMSYOAqBY"
+      },
+      "artists": [
+        {
+          "name": "Sailor & I",
+          "url": "https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483760,
+      "name": "Turn Around - \u00c2me Remix",
+      "url": "https://open.spotify.com/track/5HBHjCETsFJP5bltmJ4BKs"
+    },
+    {
+      "album": {
         "name": "ULM",
         "url": "https://open.spotify.com/album/55fpPhgzZxqTKQepGeCLDg"
       },
@@ -7500,7 +7654,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190942,
       "name": "Voices Above",
       "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
@@ -7686,7 +7840,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
@@ -7922,7 +8076,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381720,
       "name": "Yumi",
       "url": "https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5"

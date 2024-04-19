@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 90653,
       "name": "Back To Basics - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 90653,
       "name": "Back To Basics - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/7dKwAcCco3sF1l6T4oIufU"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276526,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 277546,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/1Gdq70zftwyR7AicLQ4lBY"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216413,
       "name": "Bellas Finals: Price Tag/Don\u2019t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around",
       "url": "https://open.spotify.com/track/07o54snAilKYHsW8bGFe9x"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217080,
       "name": "Bellas Finals: Price Tag/Don\u2019t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around",
       "url": "https://open.spotify.com/track/5DnDWdt25emVC9CLUi3Iku"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245500,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247377,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/3uYH99gz6GynHDJkFCqtLO"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336693,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 336693,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/2TmWgYDevPOukQGNJPeZrN"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75813,
       "name": "Cups - Movie Version",
       "url": "https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 76946,
       "name": "Cups - Movie Version",
       "url": "https://open.spotify.com/track/7FSRqo6WcCBpGbrOkCOiky"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184560,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/5POcQCBI2uqf3a2179ch57"
@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Pitch Perfect Soundtrack (Special Edition)",
+        "url": "https://open.spotify.com/album/3rthCGaT4b1lUikhp43ACk"
+      },
+      "artists": [
+        {
+          "name": "The Sockapellas",
+          "url": "https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72786,
+      "name": "F**k You",
+      "url": "https://open.spotify.com/track/6Z6YARQMx1p6RWpws3KtUo"
+    },
+    {
+      "album": {
         "name": "Pitch Perfect (More Music From The Motion Picture) EP",
         "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
       },
@@ -960,7 +978,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72906,
       "name": "F**k You",
       "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
@@ -1052,8 +1070,8 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
-      "duration_ms": 29048,
+      "date_removed": null,
+      "duration_ms": 168824,
       "name": "Game of Thrones",
       "url": "https://open.spotify.com/track/2rAiOIaw3YNXTWeh0Jpvvk"
     },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168824,
       "name": "Game of Thrones (Main Title)",
       "url": "https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293920,
       "name": "I See Fire",
       "url": "https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291718,
       "name": "I See Fire",
       "url": "https://open.spotify.com/track/5jLKhWMzfXOW3icO2fZgAO"
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263173,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3WgDY81htmhTtSh7VWIl60"
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263173,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198893,
       "name": "Life is a Highway - Home Free's Version",
       "url": "https://open.spotify.com/track/7jSnvJoGBmUxoCkvaRfxGr"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 198893,
       "name": "Life is a Highway - Home Free's Version",
       "url": "https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259026,
       "name": "Misty Mountains",
       "url": "https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 260315,
       "name": "Misty Mountains (A Cappella)",
       "url": "https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 62613,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 63080,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/1est72o2prNA80flC5ncoN"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 150459,
       "name": "Problem",
       "url": "https://open.spotify.com/track/3H3uzC93i5XXChUev0wHI8"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148746,
       "name": "Problem (Ariana Grande Cover)",
       "url": "https://open.spotify.com/track/5wHUvSe3ALlFfp8VsWmvIA"
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264480,
       "name": "Riff Off - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/5RGFGWglZ2zRDWXOK7HyNq"
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264493,
       "name": "Riff Off - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/5dhsuaGYQpEhXsOQsbLL7s"
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201080,
       "name": "Stacey's Mom",
       "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201080,
       "name": "Stacey's Mom",
       "url": "https://open.spotify.com/track/32IpXBKVD4ED5jIy9o9Uvs"
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 112360,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6RPb92J2rlqC1DK7BWIgpF"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112360,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
@@ -2890,7 +2908,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/62CjzgjzGMO0oBKhEs9Sxj"
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 246020,
       "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
       "url": "https://open.spotify.com/track/3yHbeOQLmNRo1KGfH0lNJz"
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246020,
       "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
       "url": "https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr"
@@ -3096,7 +3114,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199801,
       "name": "Waka Waka",
       "url": "https://open.spotify.com/track/4tIbSGN5xmmnpv9hBPqUDl"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199801,
       "name": "Waka Waka (This Time For Africa)",
       "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
@@ -3190,7 +3208,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214746,
       "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214746,
       "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/4ONGO8V1owsu27dK3mvSfK"

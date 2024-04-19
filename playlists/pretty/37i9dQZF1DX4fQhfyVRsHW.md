@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to calm music enhanced with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,521 likes - 135 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,634 likes - 135 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 124 | [Forever](https://open.spotify.com/track/3HatNUmGOM2hGQf83VDz9m) | [The Sun Flower](https://open.spotify.com/artist/5VivCfdRKnDRfIJLfyh5Y0) | [Always](https://open.spotify.com/album/5RCShBWA2nbt7XbeoIGlzU) | 3:37 |
 | 125 | [Days Off](https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 2:39 |
 | 126 | [Perfect Stillness](https://open.spotify.com/track/0AHodj4ntSD8GHe9Amjjds) | [Moon Lakes](https://open.spotify.com/artist/46GLnKiAEhXShMrhcqYjWy) | [Perfect Stillness](https://open.spotify.com/album/6ICIXHDWpg5EHb9Jy0029R) | 3:45 |
-| 127 | [The Beach](https://open.spotify.com/track/4qqODkgsYwsORYJaKbykAZ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/1dj26uS9Dsk9psvsRBSoU2) | 3:01 |
+| 127 | [The Beach](https://open.spotify.com/track/2JvX2In3jjEj6MRcIuFkZC) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/3oQCzDRs74oRgj959XgNVg) | 3:01 |
 | 128 | [Mineral](https://open.spotify.com/track/4H4gOh4e8OlTr64rHJ7saG) | [Solandi](https://open.spotify.com/artist/4RfwbThCpe3mDfPgZYLhSB) | [Mineral](https://open.spotify.com/album/1fHqqyNXSVcFqSi8D6VnL2) | 3:07 |
 | 129 | [Star Fall](https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Echos From the Past](https://open.spotify.com/album/421b19yvmw3C7gbrbriAHr) | 3:22 |
 | 130 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 |

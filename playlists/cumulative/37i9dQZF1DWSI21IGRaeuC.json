@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "DR-EP-2068",
+        "url": "https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y"
+      },
+      "artists": [
+        {
+          "name": "Ben Hixon",
+          "url": "https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP"
+        },
+        {
+          "name": "theMIND",
+          "url": "https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232006,
+      "name": "7am Germany",
+      "url": "https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx"
+    },
+    {
+      "album": {
         "name": "A Walk In The Park (Moodymann Remix)",
         "url": "https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u"
       },
@@ -104,7 +130,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364099,
       "name": "Alley Rave",
       "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
@@ -252,7 +278,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251500,
       "name": "Atomic Sun",
       "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
@@ -288,7 +314,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 217440,
       "name": "Azabache",
       "url": "https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC"
@@ -472,7 +498,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
@@ -556,7 +582,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 367086,
       "name": "Bocat - Michael Bibi Remix",
       "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
@@ -582,7 +608,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367086,
       "name": "Bocat - Michael Bibi Remix",
       "url": "https://open.spotify.com/track/32eqGAgvDMAucaoD7es7uv"
@@ -618,7 +644,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206250,
       "name": "Bongoloco",
       "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
@@ -1311,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Don't Need You",
+        "url": "https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189689,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/6xPppH1jLltk5L7HBN1srb"
+    },
+    {
+      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -1816,6 +1860,24 @@
       "duration_ms": 197007,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
+    },
+    {
+      "album": {
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
       "album": {
@@ -2333,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Strictly Ruffneck EP",
+        "url": "https://open.spotify.com/album/1FEVSluNv0g463QF2Pp1rI"
+      },
+      "artists": [
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338336,
+      "name": "Just Need To",
+      "url": "https://open.spotify.com/track/42dzOSNumoXnHPClwha5Mf"
+    },
+    {
+      "album": {
         "name": "Kick It EP",
         "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
       },
@@ -2784,7 +2864,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201172,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
@@ -3288,7 +3368,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184761,
       "name": "NYWTF (feat. Mikhail Beltran) - Edit",
       "url": "https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn"
@@ -3961,6 +4041,24 @@
     },
     {
       "album": {
+        "name": "Roll On EP",
+        "url": "https://open.spotify.com/album/3J8vx7ZJnDunCNXYj5Y39p"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jacob",
+          "url": "https://open.spotify.com/artist/5mY4Ioa0HqWcAX8MIdQtPc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318688,
+      "name": "Roll On",
+      "url": "https://open.spotify.com/track/1ZecMcWMOICxnOZkRW514t"
+    },
+    {
+      "album": {
         "name": "Roll Play",
         "url": "https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s"
       },
@@ -4026,7 +4124,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181054,
       "name": "Rudeboi",
       "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
@@ -4206,7 +4304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
@@ -4366,7 +4464,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
@@ -4610,6 +4708,28 @@
       "duration_ms": 335269,
       "name": "Step Forward",
       "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
+    },
+    {
+      "album": {
+        "name": "Still Pushin'",
+        "url": "https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W"
+      },
+      "artists": [
+        {
+          "name": "YOUniverse (IT)",
+          "url": "https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii"
+        },
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Still Pushin' - Radio Edit",
+      "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
     },
     {
       "album": {
@@ -4928,7 +5048,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
@@ -5044,7 +5164,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
@@ -5715,6 +5835,28 @@
     },
     {
       "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215091,
+      "name": "Weeping Willow",
+      "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
+    },
+    {
+      "album": {
         "name": "What We Got",
         "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
       },
@@ -5726,7 +5868,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
@@ -5922,7 +6064,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
@@ -5962,7 +6104,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"

@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89735,
       "name": "BEWARE OF DOGS",
       "url": "https://open.spotify.com/track/4kPnJiPIRFkrYhruv2vJQ6"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -4248,6 +4248,24 @@
       "duration_ms": 184090,
       "name": "Free Bay Bay",
       "url": "https://open.spotify.com/track/0ZXHzkSB1z8riOQRcL0JVI"
+    },
+    {
+      "album": {
+        "name": "Free Big Meech",
+        "url": "https://open.spotify.com/album/7A7joLcL7BLhK5fA7Y4ODP"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Free Big Meech",
+      "url": "https://open.spotify.com/track/0PBYOiDJxW54ZRjMl8xXs8"
     },
     {
       "album": {
@@ -7396,7 +7414,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 85760,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/0vq2b7bQqkwxc7xJswcXAL"
@@ -9044,7 +9062,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224470,
       "name": "Not a Drill",
       "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
@@ -9062,7 +9080,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 224470,
       "name": "Not a Drill",
       "url": "https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl"
@@ -10010,7 +10028,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203646,
       "name": "Plate",
       "url": "https://open.spotify.com/track/6OlDKy2uwA20B84yJKDR7C"
@@ -12841,6 +12859,24 @@
     },
     {
       "album": {
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/1qJghQpnRM2sRbhX3lWXHz"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/0gkV6O56gE1siaDAJenaLZ"
+    },
+    {
+      "album": {
         "name": "SUKISADA",
         "url": "https://open.spotify.com/album/3FfOGRD9hSOwzgKZf0sYQr"
       },
@@ -14414,6 +14450,24 @@
       "duration_ms": 196045,
       "name": "We Don't Care",
       "url": "https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR"
+    },
+    {
+      "album": {
+        "name": "We Getting Money",
+        "url": "https://open.spotify.com/album/4nV9be7YSCuTiz4pUS5Xj6"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146096,
+      "name": "We Getting Money",
+      "url": "https://open.spotify.com/track/6sQL7RyIeEyH6FulV1uFgl"
     },
     {
       "album": {

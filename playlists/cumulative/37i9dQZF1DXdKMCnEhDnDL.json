@@ -126,10 +126,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162160,
       "name": "17",
       "url": "https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/70RE2v6ce8EB3CajsAzv2c"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162160,
+      "name": "17",
+      "url": "https://open.spotify.com/track/6Xd7Hqo1E5jnX5GtEt53xi"
     },
     {
       "album": {
@@ -852,10 +870,50 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189309,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/2PwqZgaeEsJ1SAPF6RmMmm"
+    },
+    {
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/516oCEI3sp4w4N4wpN02FU"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189309,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/7dz8a05AXs2KnLGVvVwds8"
+    },
+    {
+      "album": {
+        "name": "Champions League",
+        "url": "https://open.spotify.com/album/4hbnlDx7CSVBLrrXVpjyFo"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142001,
+      "name": "Champions League",
+      "url": "https://open.spotify.com/track/0VrTqrs9O9mi3dhY4RWuQI"
     },
     {
       "album": {
@@ -874,7 +932,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142001,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
@@ -954,6 +1012,24 @@
     {
       "album": {
         "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/7hbL0B9x8XOW8lqhf4lo5a"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/0zod2geACnBZNbL72LBP6Y"
+    },
+    {
+      "album": {
+        "name": "Verschil Moet Er Zijn",
         "url": "https://open.spotify.com/album/1o70trbJ8T5SiMT85Zorrx"
       },
       "artists": [
@@ -964,7 +1040,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228040,
       "name": "Dansplaat",
       "url": "https://open.spotify.com/track/4y0yr2ZfZARAYfG5uhQXYY"
@@ -982,7 +1058,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211174,
       "name": "Dat Heb Jij Gedaan",
       "url": "https://open.spotify.com/track/3BkP5vYURwcoAkKhzrLVd8"
@@ -1004,6 +1080,24 @@
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
+    },
+    {
+      "album": {
+        "name": "Dat heb jij gedaan",
+        "url": "https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211174,
+      "name": "Dat heb jij gedaan",
+      "url": "https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9"
     },
     {
       "album": {
@@ -1270,6 +1364,24 @@
     {
       "album": {
         "name": "Engelbewaarder",
+        "url": "https://open.spotify.com/album/7zGrwd5rwbfQiLfuFtkTh4"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196384,
+      "name": "Engelbewaarder",
+      "url": "https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD"
+    },
+    {
+      "album": {
+        "name": "Engelbewaarder",
         "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
       },
       "artists": [
@@ -1280,7 +1392,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196520,
       "name": "Engelbewaarder",
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
@@ -1504,7 +1616,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 250533,
       "name": "Harder Dan Ik Hebben Kan",
       "url": "https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib"
@@ -1522,7 +1634,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253893,
       "name": "Harder Dan Ik Hebben Kan",
       "url": "https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK"
@@ -2001,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Ik Neem Je Mee",
+        "url": "https://open.spotify.com/album/3IHkxOBuu84cRAE42zkF1l"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Ik Neem Je Mee",
+      "url": "https://open.spotify.com/track/4ZwnlmWd39W8PiFnw25Nfl"
+    },
+    {
+      "album": {
         "name": "Deze Wereld Is Van Jou",
         "url": "https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ"
       },
@@ -2012,7 +2142,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217760,
       "name": "Ik Neem Je Mee",
       "url": "https://open.spotify.com/track/4RxzgZMbYLLnLYaW00Wv4q"
@@ -2360,7 +2490,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165068,
       "name": "Layla",
       "url": "https://open.spotify.com/track/6FMSr8c96TqAORZ2HD9X0R"
@@ -2378,7 +2508,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 163428,
       "name": "Layla",
       "url": "https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp"
@@ -2571,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/2HNZaVBtwAnZvKPWbl7fDQ"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202627,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/0kVdeFsVblCJp4zDyf57EG"
+    },
+    {
+      "album": {
         "name": "New Gold",
         "url": "https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK"
       },
@@ -2582,7 +2730,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202627,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/17z2zDW0VTRHODWT1kteTI"
@@ -2652,6 +2800,24 @@
     {
       "album": {
         "name": "Monster",
+        "url": "https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174690,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt"
+    },
+    {
+      "album": {
+        "name": "Monster",
         "url": "https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy"
       },
       "artists": [
@@ -2662,7 +2828,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174690,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB"
@@ -2978,6 +3144,24 @@
     {
       "album": {
         "name": "De Stilte Voorbij",
+        "url": "https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Onderweg",
+      "url": "https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6"
+    },
+    {
+      "album": {
+        "name": "De Stilte Voorbij",
         "url": "https://open.spotify.com/album/4NjZiNAFDFNtfbgyIHowGM"
       },
       "artists": [
@@ -2988,7 +3172,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189986,
       "name": "Onderweg",
       "url": "https://open.spotify.com/track/1nduf8eirAAiVLXoC1C7cz"
@@ -3462,10 +3646,28 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227440,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala"
     },
     {
       "album": {
@@ -3484,6 +3686,24 @@
       "duration_ms": 182288,
       "name": "Sowieso Overhoop",
       "url": "https://open.spotify.com/track/6WIkkwZ0XNtcyVqAzbuTcJ"
+    },
+    {
+      "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187832,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
     },
     {
       "album": {
@@ -3516,7 +3736,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187832,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/7qE8D41cBVCWorwrS4zNEB"
@@ -4222,7 +4442,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199433,
       "name": "Wat Wil Je Van Mij",
       "url": "https://open.spotify.com/track/09PxIJHtAlqOKV6aPci5B1"
@@ -4251,6 +4471,28 @@
     },
     {
       "album": {
+        "name": "Wat Wil Je Van Mij",
+        "url": "https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju"
+      },
+      "artists": [
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        },
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199433,
+      "name": "Wat Wil Je Van Mij",
+      "url": "https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs"
+    },
+    {
+      "album": {
         "name": "Waterdicht",
         "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
       },
@@ -4262,10 +4504,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171932,
       "name": "Waterdicht",
       "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
+    },
+    {
+      "album": {
+        "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng"
     },
     {
       "album": {
@@ -4525,6 +4785,28 @@
     },
     {
       "album": {
+        "name": "Zoutelande (feat. Geike)",
+        "url": "https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Zoutelande (feat. Geike)",
+      "url": "https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi"
+    },
+    {
+      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/6IiOFSTSh6WvohnNBDzMRE"
       },
@@ -4540,10 +4822,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223266,
       "name": "Zoutelande - feat. Geike",
       "url": "https://open.spotify.com/track/5rYilIuAwh6HhpVB44HI31"
+    },
+    {
+      "album": {
+        "name": "\u00c9coutez-moi",
+        "url": "https://open.spotify.com/album/0bejN4dqN6kIVFROcp8lXA"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u00c9coutez-moi",
+      "url": "https://open.spotify.com/track/4MpBOY98wCVLORdmbrBh3o"
     },
     {
       "album": {
@@ -4558,7 +4858,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi - NL",
       "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/0wtVhjS5ia9y6we8UtaWkz"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Sebastian Knauer",
+          "url": "https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132266,
+      "name": "12 Ges\u00e4nge, Op. 8: VIII. Hexenlied (Anderes Maienlied), MWV K 33",
+      "url": "https://open.spotify.com/track/2sYSyFGLeO9IaGs07TvEaR"
+    },
+    {
+      "album": {
         "name": "Mendelssohn - Great Recordings",
         "url": "https://open.spotify.com/album/4UqBccBH1ivVl9kaWFTKek"
       },
@@ -24,7 +50,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132266,
       "name": "12 Ges\u00e4nge, Op. 8: VIII. Hexenlied (Anderes Maienlied), MWV K 33",
       "url": "https://open.spotify.com/track/3ytHK5jlOEiDsWPoelRx7I"
@@ -110,6 +136,28 @@
     {
       "album": {
         "name": "Mendelssohn: 6 Preludes and Fugues, Op. 35 / 3 Caprices, Op. 37",
+        "url": "https://open.spotify.com/album/163y7Kbcxxovp8itfagdr0"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "6 Preludes and Fugues, Op. 35: Prelude No. 6",
+      "url": "https://open.spotify.com/track/0j2TQCEs1FPmwTPY1hQnAi"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: 6 Preludes and Fugues, Op. 35 / 3 Caprices, Op. 37",
         "url": "https://open.spotify.com/album/3MNULUMXAEu4HZpco3Ip1w"
       },
       "artists": [
@@ -124,7 +172,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193840,
       "name": "6 Preludes and Fugues, Op. 35: Prelude No. 6",
       "url": "https://open.spotify.com/track/39JLEbZikfmbu7ZN6nszNM"
@@ -196,6 +244,28 @@
     {
       "album": {
         "name": "Mendelssohn: Sonata in B-Flat Major / Fantasies, Op. 16",
+        "url": "https://open.spotify.com/album/0rsFTiNY0qm7VamrQl5it9"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510600,
+      "name": "Andante cantabile e Presto agitato in B Major",
+      "url": "https://open.spotify.com/track/0HIvjGPtNEc5fux8Lj0fQG"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Sonata in B-Flat Major / Fantasies, Op. 16",
         "url": "https://open.spotify.com/album/5dMpaQ3ZE2XkgyCQ7j0fBr"
       },
       "artists": [
@@ -210,10 +280,36 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 510600,
       "name": "Andante cantabile e Presto agitato in B Major",
       "url": "https://open.spotify.com/track/1O8W7VxD0HjdFG0UI9VMvu"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Midsummer Night's Dream (A) / Overtures",
+        "url": "https://open.spotify.com/album/0QHLUHaxRTalpEtVLbqd6j"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Oliver von Dohnanyi",
+          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 815866,
+      "name": "Calm Sea and Prosperous Voyage, Op. 27, MWV P5",
+      "url": "https://open.spotify.com/track/7cP97DMuBWIu28KkiG2AYl"
     },
     {
       "album": {
@@ -240,10 +336,40 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 685000,
       "name": "Capriccio brillant in B Minor, Op. 22",
       "url": "https://open.spotify.com/track/1XlvyqVNz36t1CyWF3HQIM"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Piano Concertos Nos. 1 and 2 / Capriccio Brillant / Rondo Brillant",
+        "url": "https://open.spotify.com/album/53wKPYNpGKTCKhonufflnf"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        },
+        {
+          "name": "Slovak State Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0QEqho8rz1k9XpFcHfOlZp"
+        },
+        {
+          "name": "Robert Stankovsky",
+          "url": "https://open.spotify.com/artist/2D3oiLZRO4P0jy3BfQhyIn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685000,
+      "name": "Capriccio brillant, Op. 22, MWV O 8: Capriccio brillant in B Minor, Op. 22",
+      "url": "https://open.spotify.com/track/5e7ec4VJz0Gw9PHEsqdlj4"
     },
     {
       "album": {
@@ -296,7 +422,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 841706,
       "name": "Concerto For 2 Pianos In A Flat Major: III. Allegro Vivace",
       "url": "https://open.spotify.com/track/6yLGlMNWm1cyZFoOZVqelI"
@@ -337,6 +463,40 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: Concertos for Two Pianos in A-Flat Major and E Major",
+        "url": "https://open.spotify.com/album/4rfgYYPF0ZCkZ6Y4PoUZBE"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        },
+        {
+          "name": "Hugh Tinney",
+          "url": "https://open.spotify.com/artist/0HrJtJvkacC7GDZmckXAyK"
+        },
+        {
+          "name": "RTE Sinfonietta",
+          "url": "https://open.spotify.com/artist/7jVWbxTow4yoWsw2tFjPJf"
+        },
+        {
+          "name": "Proinns\u00edas \u00d3 Duinn",
+          "url": "https://open.spotify.com/artist/2cMmAiHhmpBftejOrIMC3K"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 841706,
+      "name": "Concerto for 2 Pianos in A-Flat Major, MWV O6: III. Allegro vivace",
+      "url": "https://open.spotify.com/track/2kqtZLZw8wyDPlu1r6n1HK"
+    },
+    {
+      "album": {
         "name": "Mendelssohn: Concerto for Violin, Piano and Strings / Violin Concerto in D Minor",
         "url": "https://open.spotify.com/album/74zjBlgeieDxfD1l3HOrLQ"
       },
@@ -364,7 +524,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1074480,
       "name": "Concerto for Violin and Piano, MWV O4: I. Allegro",
       "url": "https://open.spotify.com/track/0mSDy7jASi6861LYzKQZQe"
@@ -402,6 +562,190 @@
       "duration_ms": 1074480,
       "name": "Double Concerto for Violin and Piano in D Minor, MWV O4: I. Allegro",
       "url": "https://open.spotify.com/track/16q6KU22QUVULdaavsbyRZ"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Concerto for Violin, Piano and Strings / Violin Concerto in D Minor",
+        "url": "https://open.spotify.com/album/6UTDRWjVkZvV3IL3cnQWHv"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Marat Bisengaliev",
+          "url": "https://open.spotify.com/artist/3LKUrXguhu35kfh1lMVTIL"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        },
+        {
+          "name": "Royal Northern Sinfonia",
+          "url": "https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd"
+        },
+        {
+          "name": "Andrew Penny",
+          "url": "https://open.spotify.com/artist/4hwKl6LaXGgwDGJIx9k1r6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1074480,
+      "name": "Double Concerto for Violin and Piano in D Minor, MWV O4: I. Allegro",
+      "url": "https://open.spotify.com/track/7J1dbsxH3Tk50Pv8dxCAdg"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Elias (Elijah)",
+        "url": "https://open.spotify.com/album/3kq1hmJHLPR7BoVNlbrRKq"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Luise Muller",
+          "url": "https://open.spotify.com/artist/3Wf6YfcL7fAk0YUTAgbUDE"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Claudia Mahnke",
+          "url": "https://open.spotify.com/artist/4vPyZt1el34dNtaAKA9MUN"
+        },
+        {
+          "name": "Christoph Genz",
+          "url": "https://open.spotify.com/artist/4uzGnWpFivceUtVI6yDIxr"
+        },
+        {
+          "name": "Ralf Lukas",
+          "url": "https://open.spotify.com/artist/537ipNzDkpwq5trtcS6yUo"
+        },
+        {
+          "name": "MDR Rundfunkchor",
+          "url": "https://open.spotify.com/artist/6sfy2nUsvvElSoOhotoMIa"
+        },
+        {
+          "name": "MDR Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139546,
+      "name": "Elias, Op. 70, MWV A25: Pt. I: Aria. So ihr mich von ganzem Herzen suchet (Tenor)",
+      "url": "https://open.spotify.com/track/3uog9a1iJOhyigzUaxP5qm"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Elias (Elijah)",
+        "url": "https://open.spotify.com/album/3kq1hmJHLPR7BoVNlbrRKq"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Luise Muller",
+          "url": "https://open.spotify.com/artist/3Wf6YfcL7fAk0YUTAgbUDE"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Claudia Mahnke",
+          "url": "https://open.spotify.com/artist/4vPyZt1el34dNtaAKA9MUN"
+        },
+        {
+          "name": "Christoph Genz",
+          "url": "https://open.spotify.com/artist/4uzGnWpFivceUtVI6yDIxr"
+        },
+        {
+          "name": "Ralf Lukas",
+          "url": "https://open.spotify.com/artist/537ipNzDkpwq5trtcS6yUo"
+        },
+        {
+          "name": "MDR Rundfunkchor",
+          "url": "https://open.spotify.com/artist/6sfy2nUsvvElSoOhotoMIa"
+        },
+        {
+          "name": "MDR Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "Elias, Op. 70, MWV A25: Pt. II: Quartet: Wohlan, alle die ihr durstig seid (Soprano, Alto, Tenor, Bass)",
+      "url": "https://open.spotify.com/track/7pwVXh7CEwS4kkNRJzbDnX"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Elias (Elijah)",
+        "url": "https://open.spotify.com/album/3kq1hmJHLPR7BoVNlbrRKq"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Luise Muller",
+          "url": "https://open.spotify.com/artist/3Wf6YfcL7fAk0YUTAgbUDE"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Claudia Mahnke",
+          "url": "https://open.spotify.com/artist/4vPyZt1el34dNtaAKA9MUN"
+        },
+        {
+          "name": "Christoph Genz",
+          "url": "https://open.spotify.com/artist/4uzGnWpFivceUtVI6yDIxr"
+        },
+        {
+          "name": "Ralf Lukas",
+          "url": "https://open.spotify.com/artist/537ipNzDkpwq5trtcS6yUo"
+        },
+        {
+          "name": "MDR Rundfunkchor",
+          "url": "https://open.spotify.com/artist/6sfy2nUsvvElSoOhotoMIa"
+        },
+        {
+          "name": "MDR Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Elias, Op. 70, MWV A25: Pt. II: Siehe, der Huter Israels (Chorus)",
+      "url": "https://open.spotify.com/track/4G3TChSwzrsMNUBr8nniNl"
     },
     {
       "album": {
@@ -482,7 +826,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139546,
       "name": "Elijah, Op. 70, MWV A25: Part I: Aria: So ihr mich von ganzem Herzen suchet (Tenor)",
       "url": "https://open.spotify.com/track/3ACZdrPFgmYbYKbFAhGeoi"
@@ -578,7 +922,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214426,
       "name": "Elijah, Op. 70, MWV A25: Part II: Quartet: Wohlan, alle die ihr durstig seid (Soprano, Alto, Tenor, Bass)",
       "url": "https://open.spotify.com/track/3o3hfA6ELmyjpN2qWRC1jd"
@@ -628,7 +972,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191813,
       "name": "Elijah, Op. 70, MWV A25: Part II: Siehe, der Huter Israels (Chorus)",
       "url": "https://open.spotify.com/track/77XQARuif9GzypIsmY8sd9"
@@ -658,6 +1002,28 @@
     {
       "album": {
         "name": "Mendelssohn: Sonata in G Minor / Fantasia, Op. 15 / Variations, Op. 83",
+        "url": "https://open.spotify.com/album/0WtbonCEOMrBwEBhqb1Syd"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115560,
+      "name": "Etude in F Minor",
+      "url": "https://open.spotify.com/track/1u4TBT3PL0l8tPKEMOvPS6"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Sonata in G Minor / Fantasia, Op. 15 / Variations, Op. 83",
         "url": "https://open.spotify.com/album/58sCeAZD90Ge4xFH6LdFxP"
       },
       "artists": [
@@ -672,7 +1038,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115560,
       "name": "Etude in F Minor",
       "url": "https://open.spotify.com/track/31O7SFeM96OU5rxSmArDey"
@@ -852,10 +1218,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 113000,
       "name": "Lieder ohne Worte, Op. 38: No. 2. Allegro non troppo in C Minor, MWV U 115 - \"Lost Happiness\"",
       "url": "https://open.spotify.com/track/3jg0mJKDuqYoqA7AGvmrdz"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Lieder ohne Worte",
+        "url": "https://open.spotify.com/album/5BM9jAYRdlQF9DnQHi8VRE"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113640,
+      "name": "Lieder ohne Worte, Op. 38: No. 2. Allegro non troppo in C Minor, MWV U 115 - \"Lost Happiness\"",
+      "url": "https://open.spotify.com/track/1vtFtaHrJ5AZLgP994Naes"
     },
     {
       "album": {
@@ -982,7 +1370,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 822000,
       "name": "Meeresstille und gluckliche Fahrt (Calm Sea and Prosperous Voyage), Op. 27, MWV P5: Overture",
       "url": "https://open.spotify.com/track/6cHRSHmzUg0WfNj3KjeoBx"
@@ -1056,7 +1444,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 384253,
       "name": "Mendelssohn: Rondo capriccioso in E Major, Op. 14",
       "url": "https://open.spotify.com/track/5sWg3o6RfScrpFU0e2jPh7"
@@ -1260,10 +1648,60 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 829040,
       "name": "Octet in E-Flat Major, Op. 20, MWV R20: I. Allegro moderato, ma con fuoco",
       "url": "https://open.spotify.com/track/5MuxJrcIQ6pP9jLo5Y33eH"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/0wtVhjS5ia9y6we8UtaWkz"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Lucy Gould",
+          "url": "https://open.spotify.com/artist/4qhXo1SXU9cEWqthc9a12E"
+        },
+        {
+          "name": "Sophie Besancon",
+          "url": "https://open.spotify.com/artist/5TOseWWSSdyELV3s0GMLNl"
+        },
+        {
+          "name": "Christian Eisenberger",
+          "url": "https://open.spotify.com/artist/1ag6zy5T5R7ezSp20pghdZ"
+        },
+        {
+          "name": "Pascal Siffert",
+          "url": "https://open.spotify.com/artist/0FUTQ5ph4iLFQx4yWXvuR9"
+        },
+        {
+          "name": "Stewart Eaton",
+          "url": "https://open.spotify.com/artist/0goCBfLBPGkB72ubAzArK9"
+        },
+        {
+          "name": "William Conway",
+          "url": "https://open.spotify.com/artist/5GmW493xxhG8rIMfQ772y5"
+        },
+        {
+          "name": "Kate Gould",
+          "url": "https://open.spotify.com/artist/7Hr8yGiHNPwWEEDnLggEln"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 829040,
+      "name": "Octet in E-Flat Major, Op. 20, MWV R20: I. Allegro moderato, ma con fuoco",
+      "url": "https://open.spotify.com/track/70DSFGXj7APsSTqhTnj6NG"
     },
     {
       "album": {
@@ -1319,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: Da Capo Al Fine",
+        "url": "https://open.spotify.com/album/4AEpF1BYrr88VdIvGOUJEA"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Roberto Prosseda",
+          "url": "https://open.spotify.com/artist/592Pn529D4CnFrIBMdXHVv"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Perpetuum Mobile In C Major, Op. 119, MWV U 58",
+      "url": "https://open.spotify.com/track/1KrCXf9naCCFFOYypoijLz"
+    },
+    {
+      "album": {
         "name": "Mendelssohn: Complete Piano Works",
         "url": "https://open.spotify.com/album/7IZtXdwPODyzopiOPCYAdd"
       },
@@ -1334,7 +1794,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185160,
       "name": "Perpetuum Mobile In C Major, Op. 119, MWV U 58",
       "url": "https://open.spotify.com/track/537xc86snSuwLofzOxfYT3"
@@ -1536,6 +1996,28 @@
     {
       "album": {
         "name": "Mendelssohn: Piano Quartets Nos. 2 and 3",
+        "url": "https://open.spotify.com/album/7z5QvanI8a3pyOdjkZSDYM"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Bartholdy Piano Quartet",
+          "url": "https://open.spotify.com/artist/7xb9j0ag2yKQxVJ26TEihy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485866,
+      "name": "Piano Quartet No. 2 in F Minor, Op. 2, MWV Q13: IV. Allegro molto vivace",
+      "url": "https://open.spotify.com/track/3kIj4QQg3bDIzYp7FCAJmn"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Piano Quartets Nos. 2 and 3",
         "url": "https://open.spotify.com/album/03BbTQr12bjh4uVQ4sMQLV"
       },
       "artists": [
@@ -1550,10 +2032,62 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 485866,
       "name": "Piano Quartet No. 2 in F Minor, Op. 2, MWV Q13: IV. Allegro molto vivace",
       "url": "https://open.spotify.com/track/6wybkC0aFmz9f0e6rWfyd0"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Piano Sextet, Op. 110 / Piano Quartet No. 1",
+        "url": "https://open.spotify.com/album/42xPQfu04pzRsgqfa8OvD8"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Andra Darzins",
+          "url": "https://open.spotify.com/artist/4axuH5EfaEwpXwSBs5aTsh"
+        },
+        {
+          "name": "Wolfgang Wagner",
+          "url": "https://open.spotify.com/artist/5leGL4Cg8rgpBWAJYaCADm"
+        },
+        {
+          "name": "Bartholdy Piano Quartet",
+          "url": "https://open.spotify.com/artist/7xb9j0ag2yKQxVJ26TEihy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Piano Sextet in D Major, Op. 110, MWV Q 16: II. Adagio",
+      "url": "https://open.spotify.com/track/1kEYFFeLxMxbLmYZF1bKfV"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Sonata in B-Flat Major / Fantasies, Op. 16",
+        "url": "https://open.spotify.com/album/0rsFTiNY0qm7VamrQl5it9"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262026,
+      "name": "Piano Sonata in B-Flat Major, Op. 106, MWV U64: III. Andante quasi Alegretto - Allegro molto -",
+      "url": "https://open.spotify.com/track/192wwfa9BUi5s13DFLA6lT"
     },
     {
       "album": {
@@ -1572,7 +2106,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262026,
       "name": "Piano Sonata in B-Flat Major, Op. 106, MWV U64: III. Andante quasi Alegretto - Allegro molto -",
       "url": "https://open.spotify.com/track/4WbvV09sk0rWAitNL9qgyb"
@@ -1624,6 +2158,36 @@
     {
       "album": {
         "name": "Mendelssohn: Piano Concertos Nos. 1 and 2 / Capriccio Brillant / Rondo Brillant",
+        "url": "https://open.spotify.com/album/53wKPYNpGKTCKhonufflnf"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        },
+        {
+          "name": "Slovak State Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0QEqho8rz1k9XpFcHfOlZp"
+        },
+        {
+          "name": "Robert Stankovsky",
+          "url": "https://open.spotify.com/artist/2D3oiLZRO4P0jy3BfQhyIn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 699373,
+      "name": "Rondo brillant in E-Flat Major, Op. 29",
+      "url": "https://open.spotify.com/track/1nKWZMiMTCsNqO86qjU2h9"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Piano Concertos Nos. 1 and 2 / Capriccio Brillant / Rondo Brillant",
         "url": "https://open.spotify.com/album/2TRLjjXtW96EMtyGHVAztB"
       },
       "artists": [
@@ -1646,7 +2210,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 699373,
       "name": "Rondo brillant in E-Flat Major, Op. 29",
       "url": "https://open.spotify.com/track/5dx08KrsyuIdg6LtjuZSfC"
@@ -1702,6 +2266,28 @@
     {
       "album": {
         "name": "Mendelssohn: Sonata in G Minor / Fantasia, Op. 15 / Variations, Op. 83",
+        "url": "https://open.spotify.com/album/0WtbonCEOMrBwEBhqb1Syd"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Benjamin Frith",
+          "url": "https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394200,
+      "name": "Scherzo a capriccio in F-Sharp Minor",
+      "url": "https://open.spotify.com/track/44Zdtb86zKnWzzY31dzw5f"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Sonata in G Minor / Fantasia, Op. 15 / Variations, Op. 83",
         "url": "https://open.spotify.com/album/58sCeAZD90Ge4xFH6LdFxP"
       },
       "artists": [
@@ -1716,7 +2302,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 394200,
       "name": "Scherzo a capriccio in F-Sharp Minor",
       "url": "https://open.spotify.com/track/4nfJRaP48nv4mfF3sD74kq"
@@ -1746,10 +2332,36 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289000,
       "name": "Sextet for Piano and Strings in D Major, Op. 110: II. Adagio",
       "url": "https://open.spotify.com/track/6r4hszr1pZAouV4q3Bw6DQ"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: String Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/6YXV90kzkqozoS7Muw0ww6"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Northern Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3lisojeQ5S43CK54PmIxtv"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442133,
+      "name": "Sinfonia No. 12 in G Minor, MWV N12, \"Fuga\": II. Andante",
+      "url": "https://open.spotify.com/track/0LCaQybvZqPsW1Y1y7clD4"
     },
     {
       "album": {
@@ -1772,7 +2384,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442133,
       "name": "Sinfonia No. 12 in G Minor, MWV N12, \"Fuga\": II. Andante",
       "url": "https://open.spotify.com/track/3dE54QrkxG0womq7x9Qc0z"
@@ -1798,7 +2410,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164866,
       "name": "Sinfonia No. 4 in C Minor, MWV N4: II. Andante",
       "url": "https://open.spotify.com/track/0Tqc6pzF5SSBnGGEFPHExz"
@@ -1876,7 +2488,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284986,
       "name": "Sinfonia No. 8 in D Major, MWV N8 (version for strings): III. Menuetto",
       "url": "https://open.spotify.com/track/40ftiZpywNyUkcYmplmVws"
@@ -1902,10 +2514,62 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 415306,
       "name": "Sinfonia No. 8 in D Major, MWV N8 (version for strings): IV. Allegro molto",
       "url": "https://open.spotify.com/track/4QWDjT6JaXc9tr9ddgbkkE"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: String Symphonies, Vol. 2",
+        "url": "https://open.spotify.com/album/7g77sdgWdfDAnHSumCZFsF"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Northern Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3lisojeQ5S43CK54PmIxtv"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284986,
+      "name": "Sinfonia No. 8 in D Major, MWV N8: III. Menuetto (Version for string orchestra)",
+      "url": "https://open.spotify.com/track/4xrfyKJeIgLwbUKt3CSkL2"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: String Symphonies, Vol. 2",
+        "url": "https://open.spotify.com/album/7g77sdgWdfDAnHSumCZFsF"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Northern Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3lisojeQ5S43CK54PmIxtv"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415306,
+      "name": "Sinfonia No. 8 in D Major, MWV N8: IV. Allegro molto (Version for string orchestra)",
+      "url": "https://open.spotify.com/track/7psTY1QZO8OZNqp6ZKstWK"
     },
     {
       "album": {
@@ -2005,8 +2669,8 @@
     },
     {
       "album": {
-        "name": "Mendelssohn / Bruch: String Octets",
-        "url": "https://open.spotify.com/album/2BqZpMw3kORkYFxn6xuphD"
+        "name": "MENDELSSOHN / BRUCH: String Octets",
+        "url": "https://open.spotify.com/album/3VkPY2tFwcOAzJnQqVLaBm"
       },
       "artists": [
         {
@@ -2022,12 +2686,12 @@
           "url": "https://open.spotify.com/artist/0rcJv2n8WcaSzd5hm9Q75J"
         }
       ],
-      "date_added": "2022-06-24",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 856960,
-      "name": "String Octet in E-Flat Major, Op. 20, MWV R20: I. Allegro moderato, ma con fuoco",
-      "url": "https://open.spotify.com/track/3XFIh5EHoG3xxGrHKMiEIv"
+      "duration_ms": 358946,
+      "name": "String Octet in E-Flat Major, Op. 20, MWV R 20: IV. Presto",
+      "url": "https://open.spotify.com/track/1oB5itUFVjiHef8LSHGdVH"
     },
     {
       "album": {
@@ -2050,7 +2714,85 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 856960,
+      "name": "String Octet in E-Flat Major, Op. 20, MWV R20: I. Allegro moderato, ma con fuoco",
+      "url": "https://open.spotify.com/track/3XFIh5EHoG3xxGrHKMiEIv"
+    },
+    {
+      "album": {
+        "name": "MENDELSSOHN / BRUCH: String Octets",
+        "url": "https://open.spotify.com/album/3VkPY2tFwcOAzJnQqVLaBm"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        },
+        {
+          "name": "Auer String Quartet",
+          "url": "https://open.spotify.com/artist/0rcJv2n8WcaSzd5hm9Q75J"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 856960,
+      "name": "String Octet in E-Flat Major, Op. 20, MWV R20: I. Allegro moderato, ma con fuoco",
+      "url": "https://open.spotify.com/track/7IVFLTuZHZydskYFQ99EGh"
+    },
+    {
+      "album": {
+        "name": "MENDELSSOHN / BRUCH: String Octets",
+        "url": "https://open.spotify.com/album/3VkPY2tFwcOAzJnQqVLaBm"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        },
+        {
+          "name": "Auer String Quartet",
+          "url": "https://open.spotify.com/artist/0rcJv2n8WcaSzd5hm9Q75J"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258040,
+      "name": "String Octet in E-Flat Major, Op. 20, MWV R20: III. Scherzo. Allegro leggierissimo",
+      "url": "https://open.spotify.com/track/0xnC95uQ3mIkOuC8SH4nvD"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn / Bruch: String Octets",
+        "url": "https://open.spotify.com/album/2BqZpMw3kORkYFxn6xuphD"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        },
+        {
+          "name": "Auer String Quartet",
+          "url": "https://open.spotify.com/artist/0rcJv2n8WcaSzd5hm9Q75J"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 258040,
       "name": "String Octet in E-Flat Major, Op. 20, MWV R20: III. Scherzo: Allegro leggierissimo",
       "url": "https://open.spotify.com/track/5dkniPbBaUgZlmJ4IuKC2A"
@@ -2128,7 +2870,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 358946,
       "name": "String Octet in E-Flat Major, Op. 20, MWV R20: IV. Presto",
       "url": "https://open.spotify.com/track/5cu0McVbE0jocG9fH8TeSi"
@@ -2158,6 +2900,28 @@
     {
       "album": {
         "name": "Mendelssohn: String Quartets, Vol. 3",
+        "url": "https://open.spotify.com/album/4ypK53XTBThYyMaqrLHj0E"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "New Zealand String Quartet",
+          "url": "https://open.spotify.com/artist/26HQzcLVZCRKDBjxTkpOeK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 770213,
+      "name": "String Quartet No. 3 in D Major, Op. 44, No. 1, MWV R30: I. Molto allegro vivace",
+      "url": "https://open.spotify.com/track/4QezrrdGk4UR3O93X0XyDz"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: String Quartets, Vol. 3",
         "url": "https://open.spotify.com/album/5ozUQoiw943hi0qZP2RKc9"
       },
       "artists": [
@@ -2172,10 +2936,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 770213,
       "name": "String Quartet No. 3, Op. 44, No. 1, MWV R30: I. Molto allegro vivace",
       "url": "https://open.spotify.com/track/5BUtAaQHfiDbxSLfxn8LV3"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn, Felix: String Quartets, Vol. 2 - String Quartets Nos. 2, 5 / Capriccio / Fugue",
+        "url": "https://open.spotify.com/album/5aHWcsaeiR5DO59dFJJx5E"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "New Zealand String Quartet",
+          "url": "https://open.spotify.com/artist/26HQzcLVZCRKDBjxTkpOeK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "String Quartet No. 5 in E-Flat Major, Op. 44, No. 3, MWV R28: II. Scherzo. Assai leggiero vivace",
+      "url": "https://open.spotify.com/track/4MUSbBtGwZuJ5SRDpRHOyZ"
     },
     {
       "album": {
@@ -2194,7 +2980,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249466,
       "name": "String Quartet No. 5 in E-Flat Major, Op. 44, No. 3, MWV R28: II. Scherzo: Assai leggiero vivace",
       "url": "https://open.spotify.com/track/4yERjJK9ev1w6UW3UQpfPo"
@@ -2216,7 +3002,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445040,
       "name": "String Quartet No. 6 in F Minor, Op. 80, MWV R30: I. Allegro vivace assai",
       "url": "https://open.spotify.com/track/6qWqLT5ESTPjVmmNsBDyps"
@@ -2260,10 +3046,54 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340066,
       "name": "String Quartet No. 6 in F Minor, Op. 80, MWV R30: IV. Finale: Allegro molto",
       "url": "https://open.spotify.com/track/3o7CzyV8O7jq9mbbxfSBmZ"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn, Felix: String Quartets, Vol. 1 - String Quartets Nos. 1, 4, 6",
+        "url": "https://open.spotify.com/album/4ku8yJ0BMYG9mI3OuMhWQe"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "New Zealand String Quartet",
+          "url": "https://open.spotify.com/artist/26HQzcLVZCRKDBjxTkpOeK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445040,
+      "name": "String Quartet No. 6 in F Minor, Op. 80, MWV R37: I. Allegro vivace assai",
+      "url": "https://open.spotify.com/track/6NDslOSpC8wIq61rSx7mGb"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn, Felix: String Quartets, Vol. 1 - String Quartets Nos. 1, 4, 6",
+        "url": "https://open.spotify.com/album/4ku8yJ0BMYG9mI3OuMhWQe"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "New Zealand String Quartet",
+          "url": "https://open.spotify.com/artist/26HQzcLVZCRKDBjxTkpOeK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340066,
+      "name": "String Quartet No. 6 in F Minor, Op. 80, MWV R37: IV. Finale. Allegro molto",
+      "url": "https://open.spotify.com/track/5tV4EQkXgrMW4vYF2k6pSs"
     },
     {
       "album": {
@@ -2294,7 +3124,7 @@
     {
       "album": {
         "name": "Mendelssohn: Symphony No. 2, \"Lobgesang\"",
-        "url": "https://open.spotify.com/album/2c9O456q5wPSpVN4Rl8G8r"
+        "url": "https://open.spotify.com/album/1xtDvP7c6BkQgGr1j6RQYd"
       },
       "artists": [
         {
@@ -2314,24 +3144,24 @@
           "url": "https://open.spotify.com/artist/2JPFtOf27BsK8SWgIeRGbD"
         },
         {
-          "name": "MDR Leipzig Radio Chorus",
-          "url": "https://open.spotify.com/artist/5pdCZaDIJipH7hKPVDpctz"
+          "name": "MDR Rundfunkchor",
+          "url": "https://open.spotify.com/artist/6sfy2nUsvvElSoOhotoMIa"
         },
         {
-          "name": "Leipzig MDR Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1eUoYrPfBdweG9bZol4t4m"
+          "name": "MDR Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ"
         },
         {
           "name": "Jun Markl",
           "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "date_added": "2022-06-24",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 742320,
-      "name": "Symphony No. 2 in B-Flat Major, Op. 52, MWV A18, \"Lobgesang\" (Hymn of Praise): I. Sinfonia: Maestoso con moto - Allegro - Maestoso con moto come I",
-      "url": "https://open.spotify.com/track/5Ho9aOwfXAHM9rMRbBfRtX"
+      "name": "Symphony No. 2 in B-Flat Major, Op. 52, MWV A18, \"Lobgesang\" (Hymn of Praise): I. Sinfonia. Maestoso con moto - Allegro - Maestoso con moto come I",
+      "url": "https://open.spotify.com/track/1DSXCe46qsxjTr60AN3TZS"
     },
     {
       "album": {
@@ -2370,7 +3200,91 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 742320,
+      "name": "Symphony No. 2 in B-Flat Major, Op. 52, MWV A18, \"Lobgesang\" (Hymn of Praise): I. Sinfonia: Maestoso con moto - Allegro - Maestoso con moto come I",
+      "url": "https://open.spotify.com/track/5Ho9aOwfXAHM9rMRbBfRtX"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Symphony No. 2, \"Lobgesang\"",
+        "url": "https://open.spotify.com/album/1xtDvP7c6BkQgGr1j6RQYd"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Mojca Erdmann",
+          "url": "https://open.spotify.com/artist/1hdyVLHoTsglQxf8dS0gSk"
+        },
+        {
+          "name": "Christian Elsner",
+          "url": "https://open.spotify.com/artist/2JPFtOf27BsK8SWgIeRGbD"
+        },
+        {
+          "name": "MDR Rundfunkchor",
+          "url": "https://open.spotify.com/artist/6sfy2nUsvvElSoOhotoMIa"
+        },
+        {
+          "name": "MDR Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 249240,
+      "name": "Symphony No. 2 in B-Flat Major, Op. 52, MWV A18, \"Lobgesang\" (Hymn of Praise): VIII. Chorale. Nun danket alle Gott [Chorus]",
+      "url": "https://open.spotify.com/track/0ORdTAtYfdrF1oMzlNCfIj"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Symphony No. 2, \"Lobgesang\"",
+        "url": "https://open.spotify.com/album/2c9O456q5wPSpVN4Rl8G8r"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Mojca Erdmann",
+          "url": "https://open.spotify.com/artist/1hdyVLHoTsglQxf8dS0gSk"
+        },
+        {
+          "name": "Christian Elsner",
+          "url": "https://open.spotify.com/artist/2JPFtOf27BsK8SWgIeRGbD"
+        },
+        {
+          "name": "MDR Leipzig Radio Chorus",
+          "url": "https://open.spotify.com/artist/5pdCZaDIJipH7hKPVDpctz"
+        },
+        {
+          "name": "Leipzig MDR Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1eUoYrPfBdweG9bZol4t4m"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 249240,
       "name": "Symphony No. 2 in B-Flat Major, Op. 52, MWV A18, \"Lobgesang\" (Hymn of Praise): VIII. Chorale: Nun danket alle Gott (Chorus)",
       "url": "https://open.spotify.com/track/7CUYjGkDtd3bTzFY2K10EQ"
@@ -2559,6 +3473,32 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: Symphonies Nos.4 \"Italian\" & 5 \"Reformation\"",
+        "url": "https://open.spotify.com/album/0NaFrIKpPOgEb5dpck0lVY"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362040,
+      "name": "Symphony No. 4 In A Major, Op. 90, MWV N 16 - \"Italian\": 2. Andante con moto",
+      "url": "https://open.spotify.com/track/4tWLz03O15dNRZQcajQX7X"
+    },
+    {
+      "album": {
         "name": "Mendelssohn: Italian Symphony",
         "url": "https://open.spotify.com/album/6IULmhNsnliLBqWqqt25J0"
       },
@@ -2611,6 +3551,84 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: String Symphonies, Vol. 1",
+        "url": "https://open.spotify.com/album/6oeOgJrOB4NfNc27jMfz8s"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Northern Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3lisojeQ5S43CK54PmIxtv"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Symphony No. 4 in C Minor, MWV N4: II. Andante",
+      "url": "https://open.spotify.com/track/60JuhlVfzLQy0N5Ed7WDhq"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Symphonies Nos. 1 and 5",
+        "url": "https://open.spotify.com/album/6SfvSleX82rv6fVtCGm13T"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "National Symphony Orchestra Of Ireland",
+          "url": "https://open.spotify.com/artist/1uMw04WZuyYiQaPsBNOMH8"
+        },
+        {
+          "name": "Reinhard Seifried",
+          "url": "https://open.spotify.com/artist/1boy6PB9qT0YvD1ovY7cqg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415800,
+      "name": "Symphony No. 5 in D Major, Op. 107, MWV N 15 \"Reformation\": II. Allegro vivace",
+      "url": "https://open.spotify.com/track/30WriTzHlMvzNk1GNcCrkz"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Symphonies Nos. 1 and 5",
+        "url": "https://open.spotify.com/album/6SfvSleX82rv6fVtCGm13T"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "National Symphony Orchestra Of Ireland",
+          "url": "https://open.spotify.com/artist/1uMw04WZuyYiQaPsBNOMH8"
+        },
+        {
+          "name": "Reinhard Seifried",
+          "url": "https://open.spotify.com/artist/1boy6PB9qT0YvD1ovY7cqg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292160,
+      "name": "Symphony No. 5 in D Major, Op. 107, MWV N 15 \"Reformation\": III. Andante",
+      "url": "https://open.spotify.com/track/3y3cDiqo0YkNy3tQWBj11B"
+    },
+    {
+      "album": {
         "name": "Mendelssohn: Symphonies Nos. 1 and 5",
         "url": "https://open.spotify.com/album/5nTxwV1eiYxT1sjguCvwSr"
       },
@@ -2630,7 +3648,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 415800,
       "name": "Symphony No. 5 in D Major, Op. 107, MWV N15, \"Reformation\": II. Allegro vivace",
       "url": "https://open.spotify.com/track/1P4cQQ37z051zEtPey8mvh"
@@ -2656,7 +3674,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292160,
       "name": "Symphony No. 5 in D Major, Op. 107, MWV N15, \"Reformation\": III. Andante",
       "url": "https://open.spotify.com/track/6qtrWvp4e5YkyAyZCXT0au"
@@ -2712,6 +3730,36 @@
     {
       "album": {
         "name": "Mendelssohn: Violin Concertos - Violin Sonata in F minor",
+        "url": "https://open.spotify.com/album/7az6ckyUwJ8JwdenHmf0AK"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Tianwa Yang",
+          "url": "https://open.spotify.com/artist/2yZ6PpNTnlmRGbbZd6pWpI"
+        },
+        {
+          "name": "Jyvaskyla Sinfonia",
+          "url": "https://open.spotify.com/artist/05XQnkYYhQqH6U0xHOTtxb"
+        },
+        {
+          "name": "Patrick Gallois",
+          "url": "https://open.spotify.com/artist/13nrWU0iAugxOj586gGfaw"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240933,
+      "name": "Violin Concerto in D Minor, MWV O3: III. Allegro",
+      "url": "https://open.spotify.com/track/3UYZx6BAGsdTz23WlNtMwd"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Violin Concertos - Violin Sonata in F minor",
         "url": "https://open.spotify.com/album/6q49hbN3izKEQwb9A1hdvU"
       },
       "artists": [
@@ -2734,7 +3782,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240933,
       "name": "Violin Concerto in D Minor, MWV O3: III. Allegro",
       "url": "https://open.spotify.com/track/0AsvYlwE4GiK9AADbMERgg"
@@ -2772,6 +3820,36 @@
     {
       "album": {
         "name": "Mendelssohn: Violin Concerto Op.64; Piano Trio Op.49; Violin Sonata in F major (1838)",
+        "url": "https://open.spotify.com/album/3kAGpSGorgg6sci7F7UUFA"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 739346,
+      "name": "Violin Concerto In E Minor, Op. 64, MWV O14: I. Allegro molto appassionato",
+      "url": "https://open.spotify.com/track/0gXVAsYYkkEqAB1pwAnRVM"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Violin Concerto Op.64; Piano Trio Op.49; Violin Sonata in F major (1838)",
         "url": "https://open.spotify.com/album/31pTSOZd9ut7AYJzaaa4iy"
       },
       "artists": [
@@ -2794,10 +3872,36 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 739346,
       "name": "Violin Concerto In E Minor, Op. 64, MWV O14: I. Allegro molto appassionato",
       "url": "https://open.spotify.com/track/3sKfUcPjB2cQoeF0mOu4Dn"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Violin Concerto Op.64; Piano Trio Op.49; Violin Sonata in F major (1838)",
+        "url": "https://open.spotify.com/album/3kAGpSGorgg6sci7F7UUFA"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433866,
+      "name": "Violin Sonata in F Major, MWV Q26: II. Adagio",
+      "url": "https://open.spotify.com/track/21iQi6AEaODOGayvAVpRaN"
     },
     {
       "album": {
@@ -2820,7 +3924,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 433866,
       "name": "Violin Sonata in F Major, MWV Q26: II. Adagio",
       "url": "https://open.spotify.com/track/6XoGhRUxxlL9XO6v87iUlJ"
@@ -2842,10 +3946,58 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307533,
       "name": "Violin Sonata in F Major, MWV Q26: III. Assai vivace",
       "url": "https://open.spotify.com/track/00SCtTWhiz8GjxQNKJ9lHS"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Works for Violin and Piano (Complete)",
+        "url": "https://open.spotify.com/album/4hrc6RmOjHtPsUZyjRNsfV"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Nomos Duo",
+          "url": "https://open.spotify.com/artist/1i8z4ERMMom45u1VDyiEBx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307533,
+      "name": "Violin Sonata in F Major, MWV Q26: III. Assai vivace",
+      "url": "https://open.spotify.com/track/1jVfaIUC6s7VEswoXgrekT"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Violin Concertos - Violin Sonata in F minor",
+        "url": "https://open.spotify.com/album/7az6ckyUwJ8JwdenHmf0AK"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Tianwa Yang",
+          "url": "https://open.spotify.com/artist/2yZ6PpNTnlmRGbbZd6pWpI"
+        },
+        {
+          "name": "Romain Descharmes",
+          "url": "https://open.spotify.com/artist/1rNgOH3BbQuNhS9XXFExVy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261786,
+      "name": "Violin Sonata in F Minor, Op. 4, MWV Q12: III. Allegro agitato",
+      "url": "https://open.spotify.com/track/1NalCLp8ttw5DSYopWftjY"
     },
     {
       "album": {
@@ -2868,7 +4020,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261786,
       "name": "Violin Sonata in F Minor, Op. 4, MWV Q12: III. Allegro agitato",
       "url": "https://open.spotify.com/track/6u7OM3PkXe0ixOsX9UZXdr"

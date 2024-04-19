@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ferrat chante Aragon, Vol. 1",
+        "url": "https://open.spotify.com/album/49e83lfrO3bGSioBcF91O4"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141106,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/5h15ZnuAT2kBMXYGl82p9z"
+    },
+    {
+      "album": {
         "name": "Je ne chante pas pour passer le temps",
         "url": "https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD"
       },
@@ -16,10 +34,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141600,
       "name": "Aimer \u00e0 perdre la raison",
       "url": "https://open.spotify.com/track/2qGeC6tm9qwjQw0dNDMCzP"
+    },
+    {
+      "album": {
+        "name": "Magnolias For Ever",
+        "url": "https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262186,
+      "name": "Alexandrie Alexandra",
+      "url": "https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C"
     },
     {
       "album": {
@@ -34,7 +70,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262186,
       "name": "Alexandrie Alexandra",
       "url": "https://open.spotify.com/track/35jK3rPCyBf1bUCJTEYyau"
@@ -106,7 +142,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163306,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W"
@@ -124,7 +160,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 163320,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee"
@@ -146,6 +182,24 @@
       "duration_ms": 167359,
       "name": "Besoin de personne",
       "url": "https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov"
+    },
+    {
+      "album": {
+        "name": "Baby Boy",
+        "url": "https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni"
+      },
+      "artists": [
+        {
+          "name": "C. J\u00e9r\u00f4me",
+          "url": "https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "C'est moi",
+      "url": "https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX"
     },
     {
       "album": {
@@ -268,10 +322,46 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330200,
       "name": "Hexagone",
       "url": "https://open.spotify.com/track/1kctI6izBtrYuGvNsUUA3B"
+    },
+    {
+      "album": {
+        "name": "Amoureux De Paname",
+        "url": "https://open.spotify.com/album/7eN7UX6RRLnZdWbYmSJkrr"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332213,
+      "name": "Hexagone",
+      "url": "https://open.spotify.com/track/1BuTtiJY2pwKLY8aSa0Rvn"
+    },
+    {
+      "album": {
+        "name": "Blind Test Chanson Fran\u00e7aise",
+        "url": "https://open.spotify.com/album/1REZhqwzNt52BPA59cdVjl"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Il a neig\u00e9 sur Yesterday",
+      "url": "https://open.spotify.com/track/0pm3C9ZFJKZB0yFaZ3gSpy"
     },
     {
       "album": {
@@ -286,10 +376,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196053,
       "name": "Il a neig\u00e9 sur Yesterday",
       "url": "https://open.spotify.com/track/3dbETALwLsAQtRaBRratLM"
+    },
+    {
+      "album": {
+        "name": "J'ai dix ans",
+        "url": "https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182973,
+      "name": "J'ai dix ans",
+      "url": "https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR"
     },
     {
       "album": {
@@ -304,7 +412,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184906,
       "name": "J'ai dix ans",
       "url": "https://open.spotify.com/track/3lv2AEpXas2CfZM3zC2Gru"
@@ -358,10 +466,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248133,
       "name": "Je suis malade",
       "url": "https://open.spotify.com/track/123u5rlIfXR8Eynx3aabMA"
+    },
+    {
+      "album": {
+        "name": "Je Suis Malade",
+        "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
+      },
+      "artists": [
+        {
+          "name": "Serge Lama",
+          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249826,
+      "name": "Je suis malade",
+      "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
     },
     {
       "album": {
@@ -394,7 +520,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174346,
       "name": "J\u00e9r\u00f4me c'est moi",
       "url": "https://open.spotify.com/track/7CxRGHvmQIn5HguvQqiNtA"
@@ -412,10 +538,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294426,
       "name": "L'aigle noir",
       "url": "https://open.spotify.com/track/2rvuhf0UzKgVuhDaLc6r7y"
+    },
+    {
+      "album": {
+        "name": "Les 50 Plus Belles Chansons De Barbara",
+        "url": "https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12"
+      },
+      "artists": [
+        {
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294813,
+      "name": "L'aigle noir",
+      "url": "https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E"
     },
     {
       "album": {
@@ -520,10 +664,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234112,
       "name": "Le chanteur",
       "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
+    },
+    {
+      "album": {
+        "name": "Le chanteur",
+        "url": "https://open.spotify.com/album/5qPnlXhD5Ui1f2eHUJQ99x"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Le chanteur",
+      "url": "https://open.spotify.com/track/05ubSq0kbCEJ9phlfHRC4m"
     },
     {
       "album": {
@@ -538,10 +700,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184480,
       "name": "Le chasseur (Les oies sauvages)",
       "url": "https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0"
+    },
+    {
+      "album": {
+        "name": "Le Chasseur",
+        "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Le chasseur (Les oies sauvages)",
+      "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
     },
     {
       "album": {
@@ -632,7 +812,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250613,
       "name": "Les mots bleus",
       "url": "https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc"
@@ -650,7 +830,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 250613,
       "name": "Les mots bleus",
       "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
@@ -758,10 +938,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232675,
       "name": "Mamy Blue",
       "url": "https://open.spotify.com/track/4HAEmZNJ29EWMyfgbfZ30J"
+    },
+    {
+      "album": {
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/0npsDEKpr3sMr0AGjIFZ7f"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta",
+          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232746,
+      "name": "Mamy Blue",
+      "url": "https://open.spotify.com/track/0DB1tWW1bAnixC5MaWuLHX"
     },
     {
       "album": {
@@ -776,10 +974,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208733,
       "name": "Mon vieux",
       "url": "https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7"
+    },
+    {
+      "album": {
+        "name": "Mon Vieux",
+        "url": "https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guichard",
+          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Mon vieux",
+      "url": "https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE"
     },
     {
       "album": {
@@ -830,7 +1046,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 246893,
       "name": "Oxygene, Pt. 4",
       "url": "https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2"
@@ -848,7 +1064,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246000,
       "name": "Oxyg\u00e8ne, Pt. 4",
       "url": "https://open.spotify.com/track/4pbzF8W8RnqlN5epqkI1Qf"
@@ -921,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR"
+    },
+    {
+      "album": {
         "name": "L'inoubliable",
         "url": "https://open.spotify.com/album/1NHFzJkClejbO4RJCpLFNe"
       },
@@ -932,7 +1166,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200826,
       "name": "Qui saura - Remasteris\u00e9 en 2010",
       "url": "https://open.spotify.com/track/3NUnRNjFQfWuAhomkveqq9"
@@ -1084,10 +1318,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259004,
       "name": "Tu t'en vas",
       "url": "https://open.spotify.com/track/5gNcpw9i4tRgR5s6kB0eAt"
+    },
+    {
+      "album": {
+        "name": "Tu t'en vas",
+        "url": "https://open.spotify.com/album/5ShTWkrkWAs7YkexJvH01u"
+      },
+      "artists": [
+        {
+          "name": "Alain Barri\u00e8re",
+          "url": "https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW"
+        },
+        {
+          "name": "No\u00eblle Cordier",
+          "url": "https://open.spotify.com/artist/4pBZhT1tFg5gdcK6igN5dJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259004,
+      "name": "Tu t'en vas",
+      "url": "https://open.spotify.com/track/6tWja7qcdLNViY8dKHTVbc"
     },
     {
       "album": {
@@ -1113,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
+    },
+    {
+      "album": {
         "name": "Fais comme l'oiseau",
         "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
       },
@@ -1124,7 +1398,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"

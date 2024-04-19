@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover:  Ellen Allien
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,838 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,846 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rave Luv](https://open.spotify.com/track/7lgdQfRT3013oGywUorbKH) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Rave Luv](https://open.spotify.com/album/4A474towWs0lkhRxQaCTs9) | 4:16 |
 | 2 | [Loyal to myself](https://open.spotify.com/track/2e4kWV07RgzyJa9YWTEQpH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/4ZWf3l2OK3oV2GSCYOXTm1) | 2:27 |
 | 3 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 |
-| 4 | [DTB](https://open.spotify.com/track/7bjW40WWI3P7oHwF663kRp) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:40 |
-| 5 | [Hare Ram](https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/03dSjOT6fqiQ9HfrjKKgar) | 3:19 |
+| 4 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
+| 5 | [DTB](https://open.spotify.com/track/7bjW40WWI3P7oHwF663kRp) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:40 |
 | 6 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
 | 7 | [New Me](https://open.spotify.com/track/0InImmvabu40OepmE6HFtC) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [New Me](https://open.spotify.com/album/7aVPrwWdE7yWZ4baQflm9L) | 1:54 |
 | 8 | [Ravergirl](https://open.spotify.com/track/2qRvOQSjhmussrIPBe8SRC) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Ravergirl](https://open.spotify.com/album/51ipbR3ZPjPpbiQPoX0Y9u) | 2:38 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [Vorbei](https://open.spotify.com/track/7HzLOTVnwJQpX0kHETT9FY) | [Anna Trümner](https://open.spotify.com/artist/3IIBqtZVfCcYzVJljAevLq) | [Vorbei](https://open.spotify.com/album/6qG4oiy1KLIZXr4ZKwJb7k) | 2:18 |
 | 34 | [Loca Loca](https://open.spotify.com/track/5wsU5dYShpPNfMfqiMr6Wb) | [ANDIJOLA JULI](https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB) | [Loca Loca](https://open.spotify.com/album/2YauLDg0W5QcaFYQLfUQGQ) | 2:08 |
 | 35 | [Botanical Garden](https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc) | 3:08 |
-| 36 | [Young and Dumb](https://open.spotify.com/track/7mw00RGMdi3fydgaNZ0RMP) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Young and Dumb](https://open.spotify.com/album/6ETds3D01rAKshm0Uz3ye3) | 4:23 |
-| 37 | [viertel nach vier](https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [viertel nach vier](https://open.spotify.com/album/3GLllag9hnXGkx2RZeEJL7) | 2:33 |
-| 38 | [Flieder](https://open.spotify.com/track/2jndsmE4ei7ZT6D2W14Lv1) | [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [Flieder](https://open.spotify.com/album/5B217z8wFFri2T3T3jw8AV) | 3:10 |
-| 39 | [Deine Straße](https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Deine Straße](https://open.spotify.com/album/5bCo4mqyIkUvg7KyrIre0V) | 2:35 |
+| 36 | [viertel nach vier](https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [viertel nach vier](https://open.spotify.com/album/3GLllag9hnXGkx2RZeEJL7) | 2:33 |
+| 37 | [Deine Straße](https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Deine Straße](https://open.spotify.com/album/5bCo4mqyIkUvg7KyrIre0V) | 2:35 |
+| 38 | [Young and Dumb](https://open.spotify.com/track/7mw00RGMdi3fydgaNZ0RMP) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Young and Dumb](https://open.spotify.com/album/6ETds3D01rAKshm0Uz3ye3) | 4:23 |
+| 39 | [Flieder](https://open.spotify.com/track/2jndsmE4ei7ZT6D2W14Lv1) | [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [Flieder](https://open.spotify.com/album/5B217z8wFFri2T3T3jw8AV) | 3:10 |
 | 40 | [Winter](https://open.spotify.com/track/7eG3d6RNfdnehbEDOJINhb) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Winter](https://open.spotify.com/album/6CAbpfbvE7WOaGPQJiJVK0) | 2:40 |
 | 41 | [quarter life crisis](https://open.spotify.com/track/7rgsossU7btG3nszAezxVI) | [ameliy](https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj) | [quarter life crisis](https://open.spotify.com/album/1DDQvh2iy3invCamNJLFre) | 2:38 |
 | 42 | [FBGM](https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [FBGM](https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2) | 3:02 |

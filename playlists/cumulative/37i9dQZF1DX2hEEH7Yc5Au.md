@@ -4,7 +4,7 @@
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 陳嘉樺 \(Ella\)
 
-516 songs - 1 day 11 hr 10 min
+519 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [你說了算](https://open.spotify.com/track/4J319m0DG9yuiVWYuTDS0c) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 4:06 | 2022-10-04 | 2023-03-02 |
 | [來不及](https://open.spotify.com/track/0ZN05GKriP1kNvRQGViOGq) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [我從來不是幽默的女生](https://open.spotify.com/album/7IqhJQ1shsgk1rMbZfjIeG) | 5:16 | 2022-05-31 | 2022-07-06 |
 | [信任的樣子](https://open.spotify.com/track/5HB7YNphVVj7SFqErOaZYM) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [My Life Will...](https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu) | 4:21 | 2022-03-07 | 2022-04-07 |
-| [信愛成癮](https://open.spotify.com/track/6FgTqGczJsDVQN8I7mwhQV) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [WHY NOT](https://open.spotify.com/album/1xtrFAteSTcj9DsjGZ8d7q) | 4:34 | 2024-04-02 |  |
+| [信愛成癮](https://open.spotify.com/track/1e3revlbqWb7wn8TvXaQz8) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [WHY NOT](https://open.spotify.com/album/40j1P0pTMtw141uIqmZY8l) | 4:34 | 2024-04-02 |  |
+| [信愛成癮](https://open.spotify.com/track/6FgTqGczJsDVQN8I7mwhQV) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [WHY NOT](https://open.spotify.com/album/1xtrFAteSTcj9DsjGZ8d7q) | 4:34 | 2024-04-02 | 2024-04-19 |
 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:26 | 2022-07-05 | 2024-03-06 |
 | [做一天的你](https://open.spotify.com/track/5qSSgb1evKd4LLhdMAduzL) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 4:43 | 2023-04-04 | 2023-05-03 |
 | [偷故事的人](https://open.spotify.com/track/6RfCHC9UlfGEGNR1bsxhkM) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 4:18 | 2023-01-03 | 2023-02-01 |
@@ -156,8 +157,8 @@
 | [優雅的刺蝟](https://open.spotify.com/track/2O01UItiwvQYY9CGvJ9yqk) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [優雅的刺蝟](https://open.spotify.com/album/2IPPtaA2Fm3SiBS5UzWzkF) | 1:15 | 2022-10-04 | 2022-11-03 |
 | [光芒](https://open.spotify.com/track/5dYAOmRSaGVcuDI1zjrWKJ) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [光芒](https://open.spotify.com/album/0vPJOxuaoSRdybn11BoCCH) | 4:16 | 2022-11-02 | 2022-12-01 |
 | [兩全](https://open.spotify.com/track/63LL3macgL8pFzqiqPrFvD) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:57 | 2023-03-01 | 2023-06-07 |
-| [兽](https://open.spotify.com/track/0Jw0566ai4dmtPZ4BUGafk) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/3VpitbMNyK9B8ZWat7xyiK) | 4:09 | 2024-04-02 |  |
-| [兽](https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW) | 4:09 | 2023-10-03 | 2023-11-30 |
+| [兽](https://open.spotify.com/track/0Jw0566ai4dmtPZ4BUGafk) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/3VpitbMNyK9B8ZWat7xyiK) | 4:09 | 2024-04-02 | 2024-04-19 |
+| [兽](https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW) | 4:09 | 2023-10-03 |  |
 | [再也沒有你](https://open.spotify.com/track/01PSJFZbSRujjSk9d2Gbla) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW), [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [來者何人{}](https://open.spotify.com/album/6R4H2E718SWgo9grF9SPyB) | 4:35 | 2022-03-07 | 2022-05-04 |
 | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N) | 3:12 | 2023-10-03 | 2023-11-30 |
 | [冬眠](https://open.spotify.com/track/2jzT03P5erN5RatNCrqUhf) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [PLUTO](https://open.spotify.com/album/2dAegw6SJ1TYiX7s1DMNZz) | 5:06 | 2024-04-02 |  |
@@ -306,7 +307,8 @@
 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 | 2023-11-29 |  |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2022-02-01 | 2022-10-05 |
 | [我怨](https://open.spotify.com/track/5AXPd43PkgVAp9ezRbfp9H) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [我怨](https://open.spotify.com/album/2pubZInn0m4l00rM4Azlm8) | 5:38 | 2022-04-06 | 2022-11-03 |
-| [我想我不會愛你](https://open.spotify.com/track/46Ubg39vkLzVQWrgSAXCGN) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/3LS8Yu3yTT5CnUvkTcISyC) | 4:41 | 2022-08-02 |  |
+| [我想我不會愛你](https://open.spotify.com/track/0uhtg2jhQTRvZyloPslikU) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/5kQpJhfXQhkksNmzaXH1nR) | 4:41 | 2024-04-02 |  |
+| [我想我不會愛你](https://open.spotify.com/track/46Ubg39vkLzVQWrgSAXCGN) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/3LS8Yu3yTT5CnUvkTcISyC) | 4:41 | 2022-08-02 | 2024-04-19 |
 | [我想用力忘記你](https://open.spotify.com/track/0qvfsh4fySBUQyNv9G6lye) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [我想用力忘記你](https://open.spotify.com/album/1hzoBO096W4PgfEkBdymln) | 4:24 | 2022-02-01 | 2022-04-07 |
 | [我愛你那麼多](https://open.spotify.com/track/0CDXMCU0iDtlpsvLf8qfEb) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [明天](https://open.spotify.com/album/3bPyxRy4SZplFfgJ0lVJly) | 3:39 | 2023-06-06 | 2023-10-04 |
 | [我會在你身邊](https://open.spotify.com/track/6kplVLOTiWjNzYmAUvIh9F) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:41 | 2022-08-02 | 2022-09-07 |
@@ -446,7 +448,8 @@
 | [良人](https://open.spotify.com/track/4ovwOD6QlKmEWqRUtxV6JS) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [天空島](https://open.spotify.com/album/62Xx7MlXF9H7pE3YMyNcJX) | 4:19 | 2023-01-31 | 2023-08-02 |
 | [艷火](https://open.spotify.com/track/5w8HmqYszYHdxZLNEN2xI2) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [神的遊戲](https://open.spotify.com/album/6ZOZeusLIlHMy52JxwsWhY) | 4:31 | 2023-01-03 | 2023-02-01 |
 | [花園裡的流星雨](https://open.spotify.com/track/5YdnjlDRpEp18LINJK222u) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [99% Angel](https://open.spotify.com/album/5VrYQQrkjEocGyA3PkN2E7) | 3:38 | 2022-02-01 | 2022-03-08 |
-| [荒野志 \(伴奏版\)](https://open.spotify.com/track/5yJrtNq8eEiYhhwVkuXCyV) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [影視劇《虎鶴妖師錄》原聲帶](https://open.spotify.com/album/1c376efZZhFRsSy8eqH9Sa) | 3:55 | 2024-02-06 |  |
+| [荒野志 \(伴奏版\)](https://open.spotify.com/track/5yJrtNq8eEiYhhwVkuXCyV) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [影視劇《虎鶴妖師錄》原聲帶](https://open.spotify.com/album/1c376efZZhFRsSy8eqH9Sa) | 3:55 | 2024-02-06 | 2024-04-19 |
+| [荒野志 \(影視劇《虎鶴妖師錄》片頭曲\)](https://open.spotify.com/track/0bi0Dx5chSN1Vl8D0AwVHd) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [荒野志](https://open.spotify.com/album/4SLsunR4ntaR50vc8nz9D9) | 3:55 | 2024-04-02 |  |
 | [落雨聲](https://open.spotify.com/track/1ZebwXJzkVklNXNyhcB4h4) | [Jody Chiang](https://open.spotify.com/artist/3jPL2UtbCi2DuvuK2dolR6) | [半醉半清醒](https://open.spotify.com/album/4K15m2Jj8fDPVdscPms4Zh) | 5:01 | 2022-05-03 | 2022-10-05 |
 | [藍色啤酒海](https://open.spotify.com/track/0Low1A54CVKDPzwXNM2QRb) | [黃韻玲](https://open.spotify.com/artist/4xrtpNTYCptiF589wuFr0w) | [藍色啤酒海](https://open.spotify.com/album/27UmUPIbXaPV2wwCecs6Rr) | 3:35 | 2022-09-06 | 2022-10-05 |
 | [藍色天空](https://open.spotify.com/track/2bY4nahVZwOulPuVf2pn2a) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [藍色天空](https://open.spotify.com/album/0gHfuFj9p6E7xogNy98T23) | 4:03 | 2023-10-03 | 2023-11-30 |

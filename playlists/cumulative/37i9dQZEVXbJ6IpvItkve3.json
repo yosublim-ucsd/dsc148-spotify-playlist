@@ -9986,7 +9986,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 127080,
       "name": "\u05d0\u05e0\u05d9 \u05e4\u05d4",
       "url": "https://open.spotify.com/track/60BOR51eeN8A3wYIrElggH"
@@ -10710,7 +10710,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156800,
       "name": "\u05d1\u05e0\u05d5\u05ea \u05db\u05de\u05d5\u05e0\u05d9 \u05dc\u05d0 \u05d1\u05d5\u05db\u05d5\u05ea",
       "url": "https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d"
@@ -15572,7 +15572,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 272773,
       "name": "\u05e1\u05d4\u05e8\u05d4 - Live",
       "url": "https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo"
@@ -16372,7 +16372,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210858,
       "name": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9",
       "url": "https://open.spotify.com/track/31HDrKLG70d8SY6UU4sl9l"
@@ -16444,7 +16444,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220406,
       "name": "\u05e4\u05d6\u05de\u05d5\u05df \u05d0\u05d7\u05e8",
       "url": "https://open.spotify.com/track/5sUTab2UduAG5tZSjrFsaN"
@@ -16821,6 +16821,32 @@
     },
     {
       "album": {
+        "name": "\u05e6\u05de\u05d5\u05d3 \u05e6\u05de\u05d5\u05d3",
+        "url": "https://open.spotify.com/album/6HScIxtqplEa92gqOUiVsh"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        },
+        {
+          "name": "ShrekDiMC",
+          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163464,
+      "name": "\u05e6\u05de\u05d5\u05d3 \u05e6\u05de\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/1Jx6aZyJR985kw8CWUZ15O"
+    },
+    {
+      "album": {
         "name": "\u05e6\u05e2\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/76gRl3dTdFXXuqkEIkpsJq"
       },
@@ -17166,6 +17192,24 @@
       "duration_ms": 208681,
       "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
       "url": "https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA"
+    },
+    {
+      "album": {
+        "name": "\u05e2\u05d5\u05de\u05e8",
+        "url": "https://open.spotify.com/album/2BuH7xzTbDVJ6PseqasZBM"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d5\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/1hTth4TFnHWYWiXglQ6bN2"
     },
     {
       "album": {
@@ -17746,7 +17790,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246944,
       "name": "\u05e9\u05dc\u05d5\u05dd \u05d0\u05d4\u05d5\u05d1\u05ea\u05d9",
       "url": "https://open.spotify.com/track/5E8VSBEyekvkqIrDs5IOio"

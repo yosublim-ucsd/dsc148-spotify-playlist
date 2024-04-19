@@ -1,12 +1,12 @@
 {
-  "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 40901,
+  "description": "This is Little Simz. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 40970,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDQ1ODJhN2RkMWIwNGRlMDY4ZjNkY2ZiMmFmM2VhMmU0",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDEwMjgzY2ZiNzUyOTYyYjlmNjJmMTgzMjgzNDE3NDgy",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Location (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
+        "name": "Back to My Love",
+        "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 245045,
-      "name": "Location (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+      "duration_ms": 235294,
+      "name": "Back to My Love",
+      "url": "https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm"
     },
     {
       "added_at": null,
@@ -599,22 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to My Love",
-        "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
+        "name": "Location (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 235294,
-      "name": "Back to My Love",
-      "url": "https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm"
+      "duration_ms": 245045,
+      "name": "Location (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Papisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,203 likes - 66 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,931 likes - 66 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vai Passar](https://open.spotify.com/track/4kjGJky3RBDFK2CiVC2wM3) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Amor Delirio](https://open.spotify.com/album/2JsFn6O8KPEX5UL2KSFugn) | 3:09 |
-| 2 | [New Hit](https://open.spotify.com/track/70zZZhvy13xMJkWk6XbVdc) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 2:43 |
+| 2 | [New Hit](https://open.spotify.com/track/2zp5qO1PlJJ5qb6eycAmI2) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/6dDeOUl4ZbHeCmJSWx03xw) | 2:43 |
 | 3 | [Maravilha](https://open.spotify.com/track/6SA7luCXsFXf3ZoqoUdYov) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Maravilha](https://open.spotify.com/album/6V0CpkVh3AE6xk4ym7z5pv) | 3:14 |
 | 4 | [Ainda Está No Ar](https://open.spotify.com/track/5B1DoO1SUCMYh6rxZPKuVc) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2), [Teago Oliveira](https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS) | [Ainda Está No Ar](https://open.spotify.com/album/7qFOMcOjiGU7bR33nWrMdl) | 3:14 |
 | 5 | [Cererê](https://open.spotify.com/track/3vSrgDmcI6QcZgEbgbI5Kp) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Cererê](https://open.spotify.com/album/0wfQKLlCKAYZGF5BqzaWjM) | 4:11 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 20 | [Não Tem Ninguém Vivo Aos Domingos](https://open.spotify.com/track/0AK189S1vIQRcK5SiQxHJQ) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Semana Estreita](https://open.spotify.com/album/0M0EqrfLQpwgU3xaGcKyaj) | 3:32 |
 | 21 | [tuas pegadas](https://open.spotify.com/track/2WUTnaCLjbm5P0lVNx0vxM) | [sonhos tomam conta](https://open.spotify.com/artist/7rVsNgf4xbMJcVPNilWTnV) | [corpos de água](https://open.spotify.com/album/2NIwvzVlWeAIZdA6sRTSlz) | 7:08 |
 | 22 | [Você Me Deu a Mão](https://open.spotify.com/track/1oOrihudjA8uPLlYK7KsV0) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Você Me Deu a Mão](https://open.spotify.com/album/5fXUFmz3UWZprhEIZ1spyy) | 2:34 |
-| 23 | [Tirolirole](https://open.spotify.com/track/3ByPnYe3VB9nnR8ID3Nvtt) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 3:01 |
+| 23 | [Tirolirole](https://open.spotify.com/track/5x89MDzl5Xcsg7wO4yPpVJ) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/5NrcxMjJHswo4wYZRKfXDg) | 3:01 |
 | 24 | [Cada Caos](https://open.spotify.com/track/54fFmNQNkzUzNi12QWyWwA) | [Camurça](https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck) | [Cada Caos](https://open.spotify.com/album/4FtQh0GCseTVdDXSCiB2gT) | 3:18 |
 | 25 | [Strokinho](https://open.spotify.com/track/2k6DnW7pZj1x5eRMVCrAth) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Strokinho](https://open.spotify.com/album/1nYKRWKxbNnZNFHI9Vinuy) | 1:56 |
 | 26 | [Amor Delirio](https://open.spotify.com/track/6v9n6CsxdpPgr3I7moL1YJ) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE), [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Amor Delirio](https://open.spotify.com/album/7s5hEDK4dz2jE38m7KUwnH) | 3:43 |

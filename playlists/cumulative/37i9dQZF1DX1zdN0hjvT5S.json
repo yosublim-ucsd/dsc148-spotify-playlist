@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "World Greetings",
+        "url": "https://open.spotify.com/album/7MXwYs2b8dEl1wSNtUeEpZ"
+      },
+      "artists": [
+        {
+          "name": "OTTO",
+          "url": "https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "About You Now",
+      "url": "https://open.spotify.com/track/6ziJ9Zxu1x78Mgld5eIFC7"
+    },
+    {
+      "album": {
         "name": "About You Now",
         "url": "https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218786,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8"
@@ -81,6 +99,24 @@
     },
     {
       "album": {
+        "name": "drive-by lullabies",
+        "url": "https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211024,
+      "name": "can you really blame me for how i react",
+      "url": "https://open.spotify.com/track/5LWNeUDJYidxGHgVs9UWka"
+    },
+    {
+      "album": {
         "name": "Drive-By Lullabies",
         "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
       },
@@ -92,7 +128,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211026,
       "name": "can you really blame me for how I react?",
       "url": "https://open.spotify.com/track/3kLqTaBVArpRj1AnPNsryn"
@@ -200,10 +236,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137013,
       "name": "Flickering Debris",
       "url": "https://open.spotify.com/track/1fzGS7PS5uovN6KdqyefJ1"
+    },
+    {
+      "album": {
+        "name": "Whities 011",
+        "url": "https://open.spotify.com/album/7z0BjRlkwUyb07ufR69bWg"
+      },
+      "artists": [
+        {
+          "name": "Lanark Artefax",
+          "url": "https://open.spotify.com/artist/02fDf7HEPtBZLtPzCyxSR2"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137013,
+      "name": "Flickering Debris",
+      "url": "https://open.spotify.com/track/5o3mxM23zITlCZiSUFAjEf"
     },
     {
       "album": {
@@ -218,10 +272,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182386,
       "name": "from paris, with love",
       "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
+    },
+    {
+      "album": {
+        "name": "drive-by lullabies",
+        "url": "https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182389,
+      "name": "from paris, with love",
+      "url": "https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux"
     },
     {
       "album": {
@@ -248,7 +320,7 @@
     {
       "album": {
         "name": "Geeked Out My Body",
-        "url": "https://open.spotify.com/album/3hntzxQ2ho05ZDlMChGD9u"
+        "url": "https://open.spotify.com/album/2wSLX4aQSI520j3H9ykkI4"
       },
       "artists": [
         {
@@ -259,6 +331,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 106055,
+      "name": "Geeked Out My Body",
+      "url": "https://open.spotify.com/track/1tSQ09eRNvDtYWBh24b1xv"
+    },
+    {
+      "album": {
+        "name": "Geeked Out My Body",
+        "url": "https://open.spotify.com/album/3hntzxQ2ho05ZDlMChGD9u"
+      },
+      "artists": [
+        {
+          "name": "Duwap Kaine",
+          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 106115,
       "name": "Geeked Out My Body",
       "url": "https://open.spotify.com/track/38YQWpji2DJ0pxliXqBd1G"
@@ -440,7 +530,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 145183,
       "name": "homeswitcher",
       "url": "https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy"
@@ -462,7 +552,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145183,
       "name": "homeswitcher",
       "url": "https://open.spotify.com/track/3wGDs4CbpDqpsTYyN5pe8o"
@@ -556,10 +646,32 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167458,
       "name": "La Ch\u00edqui",
       "url": "https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr"
+    },
+    {
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167458,
+      "name": "La Ch\u00edqui",
+      "url": "https://open.spotify.com/track/6vkExASl8pZoPAxkJ9Zxj8"
     },
     {
       "album": {
@@ -628,7 +740,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209094,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1Ml7MxO0SKv1bT8xFA64Oj"
@@ -646,7 +758,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 209094,
       "name": "Noid",
       "url": "https://open.spotify.com/track/6fhH6tRpDX77lDmqBy9LF7"
@@ -664,10 +776,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146000,
       "name": "NSFW",
       "url": "https://open.spotify.com/track/1LmBLVJtUu3fE1eFaCiLEX"
+    },
+    {
+      "album": {
+        "name": "Ess B",
+        "url": "https://open.spotify.com/album/4nUsz8m44CTCqj1nv8PxQB"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "NSFW",
+      "url": "https://open.spotify.com/track/6On4YRm1kwBvPBYCzgMt6D"
     },
     {
       "album": {
@@ -764,7 +894,7 @@
     {
       "album": {
         "name": "Have fun",
-        "url": "https://open.spotify.com/album/1B6MbMEpVTXQrxRZFVZR9y"
+        "url": "https://open.spotify.com/album/1ua8lJy0UubynYUU8AEf8q"
       },
       "artists": [
         {
@@ -775,6 +905,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158545,
+      "name": "Oh my my",
+      "url": "https://open.spotify.com/track/1shEDBwt42eebjCHN2kKp8"
+    },
+    {
+      "album": {
+        "name": "Have fun",
+        "url": "https://open.spotify.com/album/1B6MbMEpVTXQrxRZFVZR9y"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 158545,
       "name": "Oh my my",
       "url": "https://open.spotify.com/track/37qywx4PKfNMzRLbofqyAD"
@@ -910,7 +1058,7 @@
     {
       "album": {
         "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+        "url": "https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq"
       },
       "artists": [
         {
@@ -921,6 +1069,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 159621,
+      "name": "Riquiqu\u00ed",
+      "url": "https://open.spotify.com/track/13kjlGwmQYDFdpOWj9Miu9"
+    },
+    {
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 159621,
       "name": "Riquiqu\u00ed",
       "url": "https://open.spotify.com/track/3S9aIzgHKk5IsyVCsIymIq"

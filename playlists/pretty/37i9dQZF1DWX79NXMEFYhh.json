@@ -1,67 +1,99 @@
 {
   "description": "If you\u2019re sappy and you know it, listen to these cheesy tunes.",
-  "num_followers": 921324,
+  "num_followers": 920628,
   "original_name": "Sappy and Senti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMTAwMDM0MSwwMDAwMDAwMDYxMjZlNDI3N2ZjMDk0MGU0YWEwM2YwNGY2YjkxZWUz",
+  "snapshot_id": "MTcxMzMzNzA0OSwwMDAwMDAwMDkwZWMyN2Y3NWE5NjQ2ZGUxNTliZmU3NjljNzdlYmVj",
   "tracks": [
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+        "name": "I Need You More Today",
+        "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6"
-      },
-      "artists": [
-        {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+          "name": "Caleb Santos",
+          "url": "https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M"
         },
         {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+          "name": "Viva Music Publishing Inc.",
+          "url": "https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Things You Said (feat. Abby Cates)",
-      "url": "https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD"
+      "duration_ms": 233728,
+      "name": "I Need You More Today",
+      "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
-        "name": "That's What Love Is",
-        "url": "https://open.spotify.com/album/0CRpIO9AkOFt7deIGmsDgN"
+        "name": "Paradise - EP",
+        "url": "https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S"
       },
       "artists": [
         {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 244480,
-      "name": "That's What Love Is",
-      "url": "https://open.spotify.com/track/2pTVEE8VjkonEWSC7EGpaq"
+      "duration_ms": 256453,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "surreal",
+        "url": "https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY"
+      },
+      "artists": [
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "surreal",
+      "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 250595,
+      "name": "'Cause You Have To",
+      "url": "https://open.spotify.com/track/1GZnoLPpR9p2CwclsZnOXD"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "Ikot",
+        "url": "https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Ikot",
+      "url": "https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "24/7, 365",
         "url": "https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG"
@@ -77,23 +109,23 @@
       "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
-        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+        "name": "Closer You and I",
+        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
         }
       ],
-      "duration_ms": 214438,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
+      "duration_ms": 240000,
+      "name": "Closer You and I",
+      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "wherever u r (ft. V of BTS)",
         "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
@@ -113,7 +145,75 @@
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "That's What Love Is",
+        "url": "https://open.spotify.com/album/0CRpIO9AkOFt7deIGmsDgN"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "That's What Love Is",
+      "url": "https://open.spotify.com/track/2pTVEE8VjkonEWSC7EGpaq"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        },
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Things You Said (feat. Abby Cates)",
+      "url": "https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 214438,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "A Piece of You",
         "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
@@ -129,23 +229,7 @@
       "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 203856,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
@@ -161,7 +245,23 @@
       "url": "https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 203856,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV"
+    },
+    {
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN"
@@ -181,7 +281,7 @@
       "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "You'll Be Safe Here",
         "url": "https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG"
@@ -197,7 +297,7 @@
       "url": "https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf"
@@ -213,7 +313,7 @@
       "url": "https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Walking Back Home",
         "url": "https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS"
@@ -229,23 +329,7 @@
       "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "Subset",
-        "url": "https://open.spotify.com/album/6pIzG9sq6QRBqfCBY0deTB"
-      },
-      "artists": [
-        {
-          "name": "KINDRED",
-          "url": "https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Ligaw",
-      "url": "https://open.spotify.com/track/6Jtx63cJDsRG0V4e2C4mIZ"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Moving Closer",
         "url": "https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T"
@@ -261,23 +345,7 @@
       "url": "https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "waiting 4 u (delulu)",
-        "url": "https://open.spotify.com/album/4IT8FqSv8iUlPJUZdwU29r"
-      },
-      "artists": [
-        {
-          "name": "Shoti",
-          "url": "https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW"
-        }
-      ],
-      "duration_ms": 208384,
-      "name": "waiting 4 u (delulu)",
-      "url": "https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "HINAHANAP-HANAP",
         "url": "https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47"
@@ -293,23 +361,7 @@
       "url": "https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 250595,
-      "name": "'Cause You Have To",
-      "url": "https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "You'll Be Safe Here",
         "url": "https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4"
@@ -325,7 +377,7 @@
       "url": "https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Nagbabakasakali",
         "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
@@ -345,7 +397,7 @@
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "this time",
         "url": "https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t"
@@ -361,7 +413,7 @@
       "url": "https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Courage (Acoustic Ver.)",
         "url": "https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u"
@@ -377,7 +429,7 @@
       "url": "https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Trust Me Mate",
         "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
@@ -393,7 +445,7 @@
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Your Universe",
         "url": "https://open.spotify.com/album/4sqO3RMFtKZ1JtHHqBOa36"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/5PlL9nRL673efjDc3iNHcA"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
@@ -425,7 +477,7 @@
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "LAST GOODBYE",
         "url": "https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG"
@@ -461,10 +513,10 @@
       "url": "https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+        "name": "Home Is Where The Hurt Is",
+        "url": "https://open.spotify.com/album/7uLaNqmhGrL05auqyhRorR"
       },
       "artists": [
         {
@@ -474,10 +526,10 @@
       ],
       "duration_ms": 240706,
       "name": "Home Is Where The Hurt Is",
-      "url": "https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV"
+      "url": "https://open.spotify.com/track/54uPFCxWYiR7if8q7TAzeo"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "LANY",
         "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Late Night Madness",
         "url": "https://open.spotify.com/album/1ueV9haTPWmtCzpjzPCt13"
@@ -513,7 +565,7 @@
       "url": "https://open.spotify.com/track/0Jdn4pgNfOnW0bmWLFgpe7"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Orasa",
         "url": "https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq"
@@ -529,10 +581,10 @@
       "url": "https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Nahuhulog",
-        "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
+        "url": "https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8"
       },
       "artists": [
         {
@@ -540,12 +592,12 @@
           "url": "https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y"
         }
       ],
-      "duration_ms": 227262,
+      "duration_ms": 227298,
       "name": "Nahuhulog",
-      "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
+      "url": "https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Treading Water",
         "url": "https://open.spotify.com/album/0vyYaFkP7vtUhy006O934u"
@@ -565,7 +617,7 @@
       "url": "https://open.spotify.com/track/74sBWCAGLMQv9tEGAn8aJO"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Palagi",
         "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
@@ -581,7 +633,7 @@
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
@@ -597,7 +649,7 @@
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Ako Nalang Kasi",
         "url": "https://open.spotify.com/album/6LlYmFWzlucUOBJsSch4dW"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/2LLwBk9FOlKZ8wT0lUQzOw"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "RomCom",
         "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Nobody Like Us",
         "url": "https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5"
@@ -645,7 +697,7 @@
       "url": "https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
@@ -661,7 +713,7 @@
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Balse Ng Gabi",
         "url": "https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC"
@@ -701,10 +753,10 @@
       "url": "https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+        "url": "https://open.spotify.com/album/7Lv2e6qweacdWjqrQy7UNo"
       },
       "artists": [
         {
@@ -712,28 +764,12 @@
           "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 241373,
+      "duration_ms": 241466,
       "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+      "url": "https://open.spotify.com/track/2Vq4bs08YppE2hqA2vpEcr"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Raining In Manila",
         "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
@@ -749,7 +785,7 @@
       "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
@@ -765,23 +801,7 @@
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "Di Na Ako",
-        "url": "https://open.spotify.com/album/1j0PALJJqrFEgDIGpj41Y1"
-      },
-      "artists": [
-        {
-          "name": "Chrstn",
-          "url": "https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW"
-        }
-      ],
-      "duration_ms": 284210,
-      "name": "Di Na Ako",
-      "url": "https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Hanggang Sa Buwan",
         "url": "https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY"
@@ -813,26 +833,10 @@
       "url": "https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0"
     },
     {
-      "added_at": "2024-03-21 05:52:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2axCtTfl9UnGW64StC9CWz"
-      },
-      "artists": [
-        {
-          "name": "Nosy & Mila",
-          "url": "https://open.spotify.com/artist/1GaGCu3PAD272YCbjJj5lU"
-        }
-      ],
-      "duration_ms": 337176,
-      "name": "Love Will Keep Us Alive",
-      "url": "https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg"
-    },
-    {
-      "added_at": "2024-03-21 05:52:21",
+      "added_at": "2024-04-17 06:57:29",
       "album": {
         "name": "Sunsets With You",
-        "url": "https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X"
+        "url": "https://open.spotify.com/album/7jqLuEgexemjXBbT1Q6oWf"
       },
       "artists": [
         {
@@ -846,7 +850,7 @@
       ],
       "duration_ms": 253913,
       "name": "Sunsets With You",
-      "url": "https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI"
+      "url": "https://open.spotify.com/track/2VeGifKR8RbINCfWcRb5qH"
     }
   ],
   "unique_name": "Sappy and Senti",

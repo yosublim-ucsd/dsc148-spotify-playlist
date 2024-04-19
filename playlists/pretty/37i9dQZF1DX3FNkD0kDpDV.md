@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > From 1994 to 2024: Time Warp Turns 30! Celebrate this landmark anniversary with us through a 30\-hour party marathon\. Get into the Time Warp spirit with an exclusive playlist showcasing the best of our artists performing on the first weekend of April in Mannheim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,690 likes - 67 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,559 likes - 67 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 31 | [Take Your Time](https://open.spotify.com/track/6yDiEA4exifEmuAiN9ziCH) | [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75) | [Klockworks 27](https://open.spotify.com/album/1ERbppCfzFR6FbVORPEs9K) | 5:23 |
 | 32 | [Two Steps from Heaven](https://open.spotify.com/track/0eRbOJ7nguOh6UCV1Lbpwn) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Disco Inferno 01](https://open.spotify.com/album/2Knz72wmGmCdGPTRqJZWB6) | 9:27 |
 | 33 | [Pégate Más](https://open.spotify.com/track/0MpfkGn4Ba3IBaoBtF5OLB) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C) | [Pégate Más EP](https://open.spotify.com/album/6ySqBn2WEo0tJMmfyWcs7R) | 3:33 |
-| 34 | [No Hay Mañana \- Club Mix](https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr) | [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19), [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x) | [No Hay Mañana](https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9) | 7:03 |
+| 34 | [No Hay Mañana \- Club Mix](https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19) | [No Hay Mañana](https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u) | 7:03 |
 | 35 | [Psilocybin](https://open.spotify.com/track/2rSjE8wHrl9OiI4vmOduU8) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:17 |
 | 36 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 |
 | 37 | [Protect The Prophecy](https://open.spotify.com/track/2s4tv8kqPdS0rgnGRQ6Gta) | [Dax J](https://open.spotify.com/artist/2zJJIWKT0LiwdxcwW9RajQ) | [Shades Of Black LP](https://open.spotify.com/album/2RZqWhLn6UT1EBbenYWQ9i) | 5:52 |
@@ -74,6 +74,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 64 | [W.I.R\. \- Sven Väth Remix](https://open.spotify.com/track/3TsEwqrURyeNNVbVrHID9R) | [Wassermann](https://open.spotify.com/artist/0i2Q9WRxWu788ndngfKT26) | [W.I.R\. Remixe](https://open.spotify.com/album/2wmvHEynLzRvrA0mHbMBIM) | 6:32 |
 | 65 | [Juper](https://open.spotify.com/track/6cjBiGJSCVENtrThx3EdHL) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [The State of Art EP](https://open.spotify.com/album/2y5YAGkcZ9whzxfbbh9r20) | 4:27 |
 | 66 | [Atlantyda](https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [The World Of Monnom Black II](https://open.spotify.com/album/1Qmlt7Lujv1VgCP44rCKJT) | 6:36 |
-| 67 | [Candy from Strangers](https://open.spotify.com/track/4E6D7ZDOloEH57f5mWrUBz) | [Sugar](https://open.spotify.com/artist/2aV1h0PGzqCuFT8kf9HbVO), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Don't Rush to Grow Up](https://open.spotify.com/album/4Q5xedhtYyB2l8r59QbKoN) | 8:07 |
+| 67 | [Candy from Strangers](https://open.spotify.com/track/7dAmlqCPGGE6FoNcxszIl5) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa), [Sugar](https://open.spotify.com/artist/2aV1h0PGzqCuFT8kf9HbVO) | [Don't Rush to Grow Up](https://open.spotify.com/album/3Hme7173t0FDQNG0lrrR3o) | 8:07 |
 
 Snapshot ID: `MTcxMjE2MzIyNCwwMDAwMDAwMDMzNmI4MDlmZjYyNDRlYzk3YWJmNjQ1YzQ3M2FhMmI3`

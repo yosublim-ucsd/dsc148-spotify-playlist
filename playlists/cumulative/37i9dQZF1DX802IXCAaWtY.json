@@ -52,10 +52,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0xHHJdnDNOUDmIKqBZnHV9"
+      },
+      "artists": [
+        {
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV"
     },
     {
       "album": {
@@ -70,10 +88,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX"
     },
     {
       "album": {
@@ -88,7 +124,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209803,
       "name": "Back in My Life",
       "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
@@ -106,7 +142,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 229626,
       "name": "Bailando - Video Edit",
       "url": "https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg"
@@ -178,7 +214,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 194560,
       "name": "Bellissima - Radio Edit",
       "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
@@ -196,7 +232,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214883,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
@@ -236,7 +272,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
@@ -258,7 +294,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
@@ -298,7 +334,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202583,
       "name": "Boom, Boom, Boom, Boom!!",
       "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
@@ -323,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Captain Jack",
+        "url": "https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww"
+      },
+      "artists": [
+        {
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Captain Jack - Short Mix",
+      "url": "https://open.spotify.com/track/09uma8kvpf699ailOSlzds"
+    },
+    {
+      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -341,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Back to the Factory",
+        "url": "https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn"
+      },
+      "artists": [
+        {
+          "name": "Fun Factory",
+          "url": "https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218777,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1"
+    },
+    {
+      "album": {
         "name": "We See The Same Sun",
         "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
       },
@@ -352,7 +424,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218733,
       "name": "Coco Jamboo",
       "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
@@ -388,10 +460,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "album": {
+        "name": "Swipe Me",
+        "url": "https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN"
+      },
+      "artists": [
+        {
+          "name": "Barcode Brothers",
+          "url": "https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231986,
+      "name": "Dooh Dooh",
+      "url": "https://open.spotify.com/track/06MaHjSGleJNvfsugH0mFi"
     },
     {
       "album": {
@@ -410,6 +500,24 @@
       "duration_ms": 264000,
       "name": "Dreams (Will Come Alive)",
       "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
+    },
+    {
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB"
+      },
+      "artists": [
+        {
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Drill Instructor - Short Mix",
+      "url": "https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO"
     },
     {
       "album": {
@@ -446,7 +554,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
@@ -482,7 +590,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221840,
       "name": "Feel the heat of the night - Radio Edit",
       "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
@@ -609,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Music For Girls Night Out",
+        "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -620,7 +746,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229573,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
       "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
@@ -642,7 +768,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 238200,
       "name": "Happy People (feat. Marky Mark)",
       "url": "https://open.spotify.com/track/4RybvT8lyLLjkWXqmAuZnX"
@@ -664,6 +790,24 @@
       "duration_ms": 213240,
       "name": "Hardcore Vibes",
       "url": "https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ"
+      },
+      "artists": [
+        {
+          "name": "U96",
+          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco"
     },
     {
       "album": {
@@ -696,7 +840,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215760,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc"
@@ -740,7 +884,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
@@ -770,6 +914,42 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
       "url": "https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW"
+    },
+    {
+      "album": {
+        "name": "Energique",
+        "url": "https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W"
+      },
+      "artists": [
+        {
+          "name": "Bizarre Inc",
+          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319493,
+      "name": "I'm Gonna Get You - Original Flavour Mix",
+      "url": "https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ"
+    },
+    {
+      "album": {
+        "name": "Omen - The Story Continues",
+        "url": "https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb"
+      },
+      "artists": [
+        {
+          "name": "Magic Affair",
+          "url": "https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382360,
+      "name": "In The Middle Of The Night",
+      "url": "https://open.spotify.com/track/0EYSAcArOvu8Pfqo347B2Y"
     },
     {
       "album": {
@@ -820,7 +1000,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239933,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
@@ -856,7 +1036,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243266,
       "name": "Let the Beat Go On (Short Version)",
       "url": "https://open.spotify.com/track/0r2joAcaJghNmtRIBBIzu1"
@@ -892,7 +1072,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241066,
       "name": "Let the Dream Come True",
       "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
@@ -910,10 +1090,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269706,
       "name": "Love Is All Around",
       "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc"
+      },
+      "artists": [
+        {
+          "name": "E-Rotic",
+          "url": "https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211040,
+      "name": "Max Don't Have Sex with Your Ex",
+      "url": "https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7"
     },
     {
       "album": {
@@ -968,7 +1166,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257466,
       "name": "Mr. Vain - Original Radio Edit",
       "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
@@ -1034,10 +1232,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224220,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
+    },
+    {
+      "album": {
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "No More (I Can't Stand It)",
+      "url": "https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt"
     },
     {
       "album": {
@@ -1056,6 +1272,42 @@
       "duration_ms": 237973,
       "name": "Omen III - Single Edit",
       "url": "https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1"
+    },
+    {
+      "album": {
+        "name": "The Best Of M People",
+        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
+      },
+      "artists": [
+        {
+          "name": "M People",
+          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "One Night in Heaven",
+      "url": "https://open.spotify.com/track/2uY8Y0CCNMpid8qgX2TWKb"
+    },
+    {
+      "album": {
+        "name": "Plastic Dreams",
+        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
+      },
+      "artists": [
+        {
+          "name": "Jaydee",
+          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205050,
+      "name": "Plastic Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
     },
     {
       "album": {
@@ -1110,7 +1362,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316138,
       "name": "Rhythm Is a Dancer (12'' Version)",
       "url": "https://open.spotify.com/track/55vAraLCIsYMnakMHUUgvB"
@@ -1146,7 +1398,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 181707,
       "name": "Rhythm Of Love - Original Radio Edit",
       "url": "https://open.spotify.com/track/7jGrEtwlejqbmRB5La3Abp"
@@ -1276,7 +1528,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231093,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
@@ -1298,10 +1550,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 290933,
       "name": "Short Dick Man - Club Mix",
       "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
+    },
+    {
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/5dmEmXqf6kIJPhTcmhItRd"
+      },
+      "artists": [
+        {
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Show me colours",
+      "url": "https://open.spotify.com/track/6xRRr4W5VQiQZOVhXzqtIr"
     },
     {
       "album": {
@@ -1352,7 +1622,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240933,
       "name": "Sing Hallelujah!",
       "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
@@ -1399,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Super Heroes",
+        "url": "https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp"
+      },
+      "artists": [
+        {
+          "name": "Daze",
+          "url": "https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/5w24xZUicD68LjnZvtougC"
+    },
+    {
+      "album": {
         "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
@@ -1414,6 +1702,24 @@
       "duration_ms": 204586,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf"
+    },
+    {
+      "album": {
+        "name": "FanTastic",
+        "url": "https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf"
+      },
+      "artists": [
+        {
+          "name": "Toy-Box",
+          "url": "https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "Tarzan & Jane",
+      "url": "https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ"
     },
     {
       "album": {
@@ -1453,6 +1759,42 @@
     },
     {
       "album": {
+        "name": "Basic Injection",
+        "url": "https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj"
+      },
+      "artists": [
+        {
+          "name": "Basic Element",
+          "url": "https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "The Promise Man",
+      "url": "https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW"
+    },
+    {
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
+    },
+    {
+      "album": {
         "name": "The Rhythm of the Night",
         "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
       },
@@ -1464,7 +1806,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
@@ -1543,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Made In Sweden",
+        "url": "https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA"
+      },
+      "artists": [
+        {
+          "name": "E-Type",
+          "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "This Is The Way - Radio Edit",
+      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo"
+    },
+    {
+      "album": {
         "name": "This Is Your Night",
         "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
       },
@@ -1554,7 +1914,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238160,
       "name": "This Is Your Night",
       "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
@@ -1572,7 +1932,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 221280,
       "name": "United - Short Mix",
       "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
@@ -1590,7 +1950,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222458,
       "name": "We Like To Party! (The Vengabus)",
       "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
@@ -1608,7 +1968,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217539,
       "name": "We're Going To Ibiza!",
       "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
@@ -1626,7 +1986,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
@@ -1644,7 +2004,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
@@ -1680,7 +2040,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194072,
       "name": "Will I Ever",
       "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"

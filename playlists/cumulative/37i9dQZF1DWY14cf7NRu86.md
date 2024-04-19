@@ -4,16 +4,18 @@
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-62 songs - 4 hr 19 min
+64 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Silent Night](https://open.spotify.com/track/3AX2SrD2UnZ2uNcGeDsFrv) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [A Silent Night](https://open.spotify.com/album/0bmUJW3r9I5TBFSZEXt7bC) | 4:10 | 2023-10-27 |  |
 | [A Winter Lullaby](https://open.spotify.com/track/7hiMwoo7wXdbYxu87ckhYS) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Christmas with You](https://open.spotify.com/album/4yn6KTWcoZ3EvoMJ7qlckf) | 4:09 | 2021-11-12 |  |
 | [All I've Hoped For](https://open.spotify.com/track/6SkSKngy9Gv88FF8RHBwVz) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [All I Hope For Christmas](https://open.spotify.com/album/12P7q2LLdzgjGywnw0mbab) | 6:18 | 2021-11-12 |  |
-| [Angels We Have Heard On High](https://open.spotify.com/track/0xysaDMwmF0jmtf0htOFn9) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Snowbound](https://open.spotify.com/album/0KFxRqO4FUXlOZ1GbPgJ23) | 4:51 | 2021-11-12 |  |
+| [Angels We Have Heard On High](https://open.spotify.com/track/0xysaDMwmF0jmtf0htOFn9) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Snowbound](https://open.spotify.com/album/0KFxRqO4FUXlOZ1GbPgJ23) | 4:51 | 2021-11-12 | 2024-04-19 |
+| [Angels We Have Heard On High](https://open.spotify.com/track/12Bgw8ZZEWfVS1kkn6502z) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Snowbound](https://open.spotify.com/album/4KW0MUvW0oeLY8xUtmSBof) | 4:51 | 2021-11-12 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/34eCNgMv57z5gyMtabpSis) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Christmas Present](https://open.spotify.com/album/6ZKDifTK1ilxVQ9e83QluU) | 3:52 | 2021-11-12 |  |
-| [Carol of the Bells](https://open.spotify.com/track/1swZg5sDaTaDt7dNNYkraz) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Snowfall](https://open.spotify.com/album/0NPir3XTu1H9UQO9giMjag) | 3:41 | 2021-11-12 |  |
+| [Carol of the Bells](https://open.spotify.com/track/1swZg5sDaTaDt7dNNYkraz) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Snowfall](https://open.spotify.com/album/0NPir3XTu1H9UQO9giMjag) | 3:41 | 2021-11-12 | 2024-04-19 |
+| [Carol of the Bells](https://open.spotify.com/track/66JeuWwh9b1m4ZF4jYg8Gv) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Snowfall](https://open.spotify.com/album/0EVyte0jy30c8LUTyP2H9x) | 3:41 | 2021-11-12 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/1stBeGjHdcZSqrpgFTCOpb) | [Phil Sheeran](https://open.spotify.com/artist/5S5Oy5aeyK1ScDFpoMtJ8p) | [The First Noel](https://open.spotify.com/album/0agDWTXlCoTwHSAW04DPmV) | 4:55 | 2021-11-12 |  |
 | [Come All Ye Faithful](https://open.spotify.com/track/6qh5OaY6bzj9xO8nzPAday) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 4:23 | 2021-11-12 |  |
 | [Cradle in Bethlehem](https://open.spotify.com/track/77bgETPuadJxYCureRv6CN) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [The Christmas Message](https://open.spotify.com/album/6TwinoOixFJzTbRROlxI42) | 5:26 | 2021-11-12 |  |
@@ -55,8 +57,8 @@
 | [Silent Night](https://open.spotify.com/track/0TckXJ96MJhzgTNEuhCh1Y) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 3:32 | 2021-11-12 |  |
 | [Silver Bells](https://open.spotify.com/track/5jHHcVbCUQYkcnyzobYTjF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Classic Christmas Album](https://open.spotify.com/album/29big2asVjHGaNijZP9dDU) | 3:58 | 2021-12-03 |  |
 | [The Christmas Song](https://open.spotify.com/track/3LOhIheEbRY1umUKE1IR0C) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/1wxd8kjNTUmmJC5CvrszR2) | 3:41 | 2023-10-27 | 2024-03-10 |
-| [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 | 2023-10-27 | 2024-03-14 |
-| [The Christmas Song](https://open.spotify.com/track/5nT9ArtXb3OMLQdFvzm6D1) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4FSzrcXxW3BmqsOcNydE4H) | 3:41 | 2023-10-27 |  |
+| [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 | 2023-10-27 |  |
+| [The Christmas Song](https://open.spotify.com/track/5nT9ArtXb3OMLQdFvzm6D1) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4FSzrcXxW3BmqsOcNydE4H) | 3:41 | 2023-10-27 | 2024-04-19 |
 | [The Christmas Song](https://open.spotify.com/track/0shtmMpwcZzI5P9Nu89GM0) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Mojazz Christmas Album](https://open.spotify.com/album/3WZKITZhkybyDhLzQ05p0s) | 4:30 | 2021-11-12 |  |
 | [The Christmas Song \- Instrumental Version](https://open.spotify.com/track/6xeLshljRwiTBr8Iz18F6I) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK), [Terry Trotter](https://open.spotify.com/artist/1E3L7pReVHhkETtwO7qx97), [Clare Fischer](https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM), [John Ferraro](https://open.spotify.com/artist/6ABr8kBHFms642ny6WmAOC), [Abraham Laborier](https://open.spotify.com/artist/3TFhdboOCn7aE6KAawR4bW) | [Christmas At My House](https://open.spotify.com/album/4fyb3D0qstNQ4wfOOv12O3) | 4:32 | 2021-11-12 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/3AfoQsG5S3Ksh4862CsPLW) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Breath Of Heaven \- A Holiday Collection](https://open.spotify.com/album/5jb5ySoX2Sesf6Ybsu1lAo) | 4:43 | 2021-11-12 |  |

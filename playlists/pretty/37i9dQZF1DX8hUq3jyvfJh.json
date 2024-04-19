@@ -1,6 +1,6 @@
 {
   "description": "Escute Manu e mais mulheres no volume m\u00e1ximo! Co-curadoria com Manu ",
-  "num_followers": 178452,
+  "num_followers": 178724,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-04-15 21:11:44",
       "album": {
+        "name": "Quem \u00c9 o Louco Entre N\u00f3s",
+        "url": "https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV"
+      },
+      "artists": [
+        {
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+        }
+      ],
+      "duration_ms": 208439,
+      "name": "Quem \u00c9 o Louco Entre N\u00f3s",
+      "url": "https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex"
+    },
+    {
+      "added_at": "2024-04-15 21:11:44",
+      "album": {
         "name": "Mil Vezes (Remix)",
         "url": "https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 127500,
       "name": "Mil Vezes - Remix",
       "url": "https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt"
-    },
-    {
-      "added_at": "2024-04-15 21:11:44",
-      "album": {
-        "name": "Quem \u00c9 o Louco Entre N\u00f3s",
-        "url": "https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV"
-      },
-      "artists": [
-        {
-          "name": "Raphaela Santos",
-          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
-        }
-      ],
-      "duration_ms": 208439,
-      "name": "Quem \u00c9 o Louco Entre N\u00f3s",
-      "url": "https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex"
     },
     {
       "added_at": "2024-04-15 21:11:44",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-04-15 21:11:44",
       "album": {
+        "name": "Um Ex Amor",
+        "url": "https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL"
+      },
+      "artists": [
+        {
+          "name": "Klessinha A baronesa",
+          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Um Ex Amor",
+      "url": "https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe"
+    },
+    {
+      "added_at": "2024-04-15 21:11:44",
+      "album": {
         "name": "Bem Melhor que Tu (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Gauff2B1cz6c8qrGP7Dqg"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-04-15 21:11:44",
       "album": {
-        "name": "Um Ex Amor",
-        "url": "https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL"
-      },
-      "artists": [
-        {
-          "name": "Klessinha A baronesa",
-          "url": "https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Um Ex Amor",
-      "url": "https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe"
-    },
-    {
-      "added_at": "2024-04-15 21:11:44",
-      "album": {
         "name": "A culpa \u00e9 do meu SIGNO",
         "url": "https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 160420,
       "name": "Carinho E Respeito",
       "url": "https://open.spotify.com/track/4zfd2DA0X6juAIIUHbnbIZ"
-    },
-    {
-      "added_at": "2024-04-15 21:11:44",
-      "album": {
-        "name": "Raiz Goi\u00e2nia (Ao Vivo / Deluxe)",
-        "url": "https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 300469,
-      "name": "Whisky Vagabund0 / Viva Voz / Cobaia - Ao Vivo",
-      "url": "https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl"
     },
     {
       "added_at": "2024-04-15 21:11:44",
@@ -755,6 +739,22 @@
       "duration_ms": 171072,
       "name": "Total Solid\u00e3o (Total Eclipse Of The Heart)",
       "url": "https://open.spotify.com/track/3hFNyCI09fIhHjcGSbcvRa"
+    },
+    {
+      "added_at": "2024-04-15 21:11:44",
+      "album": {
+        "name": "Raiz Goi\u00e2nia (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 300469,
+      "name": "Whisky Vagabund0 / Viva Voz / Cobaia - Ao Vivo",
+      "url": "https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl"
     },
     {
       "added_at": "2024-04-15 21:11:44",

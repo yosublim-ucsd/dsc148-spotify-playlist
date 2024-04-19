@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "School Of Fish",
+        "url": "https://open.spotify.com/album/4QqjB5zVylTjEviyp3CQZv"
+      },
+      "artists": [
+        {
+          "name": "School Of Fish",
+          "url": "https://open.spotify.com/artist/3Q7YE7dr7R4JeUamdBcPr3"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312354,
+      "name": "3 Strange Days",
+      "url": "https://open.spotify.com/track/2Zd1hLu5AswuxE7xAYLvc9"
+    },
+    {
+      "album": {
         "name": "311",
         "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
       },
@@ -41,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Pack Up The Cats",
+        "url": "https://open.spotify.com/album/0v7rheoRfC87UP3A9737ih"
+      },
+      "artists": [
+        {
+          "name": "Local H",
+          "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "All The Kids Are Right",
+      "url": "https://open.spotify.com/track/50kQ7oNv9cGEs8JRC614hl"
+    },
+    {
+      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -52,7 +88,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 196706,
       "name": "Ancient Walls Of Flowers",
       "url": "https://open.spotify.com/track/6XjBFtW4QcuGG26RysHzuS"
@@ -92,6 +128,24 @@
       "duration_ms": 220533,
       "name": "Backwater",
       "url": "https://open.spotify.com/track/3KZVWVH4epY2JGaqRs8bqg"
+    },
+    {
+      "album": {
+        "name": "Fizzy Fuzzy Big & Buzzy",
+        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
+      },
+      "artists": [
+        {
+          "name": "The Refreshments",
+          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257200,
+      "name": "Banditos",
+      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
     },
     {
       "album": {
@@ -178,7 +232,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
@@ -196,7 +250,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
@@ -250,7 +304,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 254960,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/4EWiuBTfN4jl13YeGD7YvT"
@@ -286,7 +340,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 153666,
       "name": "Denise",
       "url": "https://open.spotify.com/track/7Ijr2MeaWwyqXp48bSu1Cl"
@@ -304,7 +358,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 182466,
       "name": "Do Right",
       "url": "https://open.spotify.com/track/2LAlaunA4DD79pSEwE1qUK"
@@ -340,7 +394,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Everglade",
       "url": "https://open.spotify.com/track/1nWccj9gU34OmDYL63pTFS"
@@ -473,6 +527,24 @@
     },
     {
       "album": {
+        "name": "... Pushing The Salmanilla Envelope",
+        "url": "https://open.spotify.com/album/35ZPbGg3xbn3TquPkhWE5s"
+      },
+      "artists": [
+        {
+          "name": "Jimmie's Chicken Shack",
+          "url": "https://open.spotify.com/artist/3jMlAtlOaQc9VDayokUmg8"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2PmYWe7v0hJ6XJjeM2pDQp"
+    },
+    {
+      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -484,7 +556,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -502,10 +574,28 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 257480,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c"
+    },
+    {
+      "album": {
+        "name": "As Good As Dead",
+        "url": "https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl"
+      },
+      "artists": [
+        {
+          "name": "Local H",
+          "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290533,
+      "name": "High-Fiving MF",
+      "url": "https://open.spotify.com/track/1FYtUAJCY4cETakYJaxfZI"
     },
     {
       "album": {
@@ -520,7 +610,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 256200,
       "name": "Honky's Ladder",
       "url": "https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe"
@@ -538,7 +628,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 166760,
       "name": "I Come From The Water",
       "url": "https://open.spotify.com/track/0eaioDQLdGKlYMmj73I89R"
@@ -574,7 +664,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 245706,
       "name": "I Got A Girl",
       "url": "https://open.spotify.com/track/5fxfwjQ1OmbnkOlg39HsSO"
@@ -646,7 +736,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 150960,
       "name": "Julianne",
       "url": "https://open.spotify.com/track/5dYOIVFuh9iaepv1IZrJXe"
@@ -664,7 +754,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 137306,
       "name": "Kung Fu",
       "url": "https://open.spotify.com/track/2QN7lhAV6D9VaJ7HfjDg6Z"
@@ -718,7 +808,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
@@ -736,7 +826,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX"
@@ -754,7 +844,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Molly (Sixteen Candles)",
       "url": "https://open.spotify.com/track/6nvixw7XmqBSuYVpgCqvPY"
@@ -844,7 +934,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 287266,
       "name": "Piranha",
       "url": "https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF"
@@ -934,7 +1024,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 156906,
       "name": "Screamager",
       "url": "https://open.spotify.com/track/6AXZm9PDOhrG99M1dDBAbp"
@@ -952,7 +1042,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 228093,
       "name": "Sheep Go To Heaven",
       "url": "https://open.spotify.com/track/4G8Eu3EDQZYhHPfJMFCv8V"
@@ -1006,7 +1096,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 195360,
       "name": "Somebody to Shove (2022 Remaster)",
       "url": "https://open.spotify.com/track/41TVMXb9THdtTlo2KojUDe"
@@ -1024,10 +1114,28 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 159333,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/1kX7Z3FnesBjWC6H4qqmGx"
+    },
+    {
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
       "album": {
@@ -1049,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/4COsndfUNxn85B4ZipFUGy"
+    },
+    {
+      "album": {
         "name": "Blood Sugar Sex Magik",
         "url": "https://open.spotify.com/album/1DCI2yWmV4UI7Aga71yx9B"
       },
@@ -1060,7 +1186,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217133,
       "name": "Suck My Kiss",
       "url": "https://open.spotify.com/track/22mLKFanGy1bEb0qWuvMV0"
@@ -1078,7 +1204,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 211040,
       "name": "Super Bon Bon",
       "url": "https://open.spotify.com/track/1njobA8NxcOtPIbLdrip0T"
@@ -1096,7 +1222,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211040,
       "name": "Super Bon Bon",
       "url": "https://open.spotify.com/track/4H1ttBCmT7cqvGJLqfHbED"
@@ -1114,7 +1240,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
@@ -1132,7 +1258,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Teen Angst (What The World Needs Now)",
       "url": "https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz"
@@ -1150,7 +1276,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 171426,
       "name": "The Great Big No",
       "url": "https://open.spotify.com/track/5k9R6CCR9H7WETvgKkv7yn"
@@ -1258,7 +1384,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281853,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/7EDSrqFVA9WFTN4gYdt7l4"
@@ -1348,7 +1474,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 248613,
       "name": "Wax Ecstatic (To Sell Angelina)",
       "url": "https://open.spotify.com/track/0SKiQidbB2lEY7us6yDt2m"
@@ -1384,7 +1510,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 460400,
       "name": "Welcome to the Fold",
       "url": "https://open.spotify.com/track/7HFCovMwZIinGBpoZyUsKC"

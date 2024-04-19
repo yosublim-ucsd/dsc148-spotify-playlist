@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 586189,
+  "2024-04-19": 586160,
   "date_first_scraped": "2021-12-28",
   "description": "All-new releases by Latin artists! Cover: Feid & Yandel",
   "name": "New Music Friday Latin",
@@ -89015,6 +89015,28 @@
       "duration_ms": 149370,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0O7Nbk0SNBXVuPImdjvIRS"
+    },
+    {
+      "album": {
+        "name": "Malandra",
+        "url": "https://open.spotify.com/album/0FS4LOkSdeNxCClujSoinh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Normale (feat. ALOISIO)",
+      "url": "https://open.spotify.com/track/1yW6etYs3ZRVxRE3aYp8rd"
     },
     {
       "album": {

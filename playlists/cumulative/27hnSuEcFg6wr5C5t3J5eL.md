@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/1e6kD8AXQ152lFZLr7kKPN) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6dNfuaaTMb3A3hMBfk9zQF) | 0:00 | 2013-06-27 |  |
+| [](https://open.spotify.com/track/1e6kD8AXQ152lFZLr7kKPN) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6dNfuaaTMb3A3hMBfk9zQF) | 0:00 | 2013-06-27 |  |
 | [100% Pure Love](https://open.spotify.com/track/7yBLRyQBBnpT4mD8eG7I7f) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Ultimate Club Dance 90s](https://open.spotify.com/album/6vreeK6rwyqgpjGdlgvwkT) | 4:39 | 2013-06-27 |  |
 | [Again](https://open.spotify.com/track/0IaMMHVbpJ0LrRAeigWOXr) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 3:47 | 2013-06-27 |  |
 | [All For Love \- From "The Three Musketeers" Soundtrack](https://open.spotify.com/track/5h92ib6UGUe0BkUvNz8AtP) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of Me](https://open.spotify.com/album/21hEsQUnuxQw3mFKL9O35g) | 4:40 | 2013-06-27 |  |

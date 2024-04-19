@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 57689,
       "name": "<3x girl",
       "url": "https://open.spotify.com/track/0raYSZY5ca9Gu507VTvdw4"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 57972,
       "name": "<3x girl",
       "url": "https://open.spotify.com/track/1npX7CetlIG1TxCfO7gOU4"
@@ -934,6 +934,40 @@
       "duration_ms": 180785,
       "name": "af1 2.0",
       "url": "https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET"
+    },
+    {
+      "album": {
+        "name": "Hotboiiz:4L",
+        "url": "https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "TLG Dooda",
+          "url": "https://open.spotify.com/artist/6ccIoUe0YFANnBMT6Utygw"
+        },
+        {
+          "name": "EBK Trey B",
+          "url": "https://open.spotify.com/artist/7oXvysW3peGY3AEa17WoFt"
+        },
+        {
+          "name": "EBK Lil Sleaze",
+          "url": "https://open.spotify.com/artist/3EcV9JbK3RCHWnNyBaIipD"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71724,
+      "name": "Affiliations",
+      "url": "https://open.spotify.com/track/3dBXJCFQy5VzP3y6sZJKB3"
     },
     {
       "album": {
@@ -2200,7 +2234,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "BET",
       "url": "https://open.spotify.com/track/1K5QA85zFIYv1ya0f2XDZq"
@@ -2218,7 +2252,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168000,
       "name": "BET",
       "url": "https://open.spotify.com/track/7y0tirehAFF9YtxljxDOPt"
@@ -2562,7 +2596,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120149,
       "name": "Blue Devils",
       "url": "https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ"
@@ -2580,7 +2614,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 129925,
       "name": "Blue Devils",
       "url": "https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG"
@@ -3402,7 +3436,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 155471,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/6d6wAt8R2IiVNSxpi4lerS"
@@ -3420,7 +3454,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157377,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
@@ -6323,6 +6357,28 @@
     },
     {
       "album": {
+        "name": "FLOWIN",
+        "url": "https://open.spotify.com/album/0cIUucxmviwfTaXy1Sndjq"
+      },
+      "artists": [
+        {
+          "name": "3weeksin",
+          "url": "https://open.spotify.com/artist/1l5gvmBcnW4xwsxGzXvCu2"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125386,
+      "name": "FLOWIN",
+      "url": "https://open.spotify.com/track/0dOxlxZIOkXb9Ni0DsiU1V"
+    },
+    {
+      "album": {
         "name": "Fly By",
         "url": "https://open.spotify.com/album/3YrxOKDzXJnDdevVIgnEJ3"
       },
@@ -9184,7 +9240,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -9202,7 +9258,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu"
@@ -9268,6 +9324,24 @@
       "duration_ms": 134530,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II"
+    },
+    {
+      "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o"
     },
     {
       "album": {
@@ -10222,7 +10296,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
@@ -10240,7 +10314,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
@@ -11688,7 +11762,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117603,
       "name": "MOVE YO BODY (sped up)",
       "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
@@ -11706,7 +11780,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 117603,
       "name": "MOVE YO BODY - sped up",
       "url": "https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu"
@@ -15280,7 +15354,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 205508,
       "name": "Seppuku",
       "url": "https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz"
@@ -15302,10 +15376,28 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205508,
       "name": "Seppuku (feat. Baldie Balboa)",
       "url": "https://open.spotify.com/track/5lI8kRrA9y4B6Qo7WH0TJq"
+    },
+    {
+      "album": {
+        "name": "SEXX NOTE",
+        "url": "https://open.spotify.com/album/1eFQM6nSujm89z7HUqJghk"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95674,
+      "name": "SEXX NOTE",
+      "url": "https://open.spotify.com/track/350QjNeeZyUgeKtgOcchfh"
     },
     {
       "album": {

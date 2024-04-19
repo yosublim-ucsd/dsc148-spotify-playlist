@@ -208,7 +208,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 202035,
       "name": "Blow",
       "url": "https://open.spotify.com/track/3QKWk2lLEr1GYjwywLWb5T"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202035,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6RAkTCFYeLuYvGWjVRFuMZ"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249934,
       "name": "Bon Appetit",
       "url": "https://open.spotify.com/track/7rKBwaFOnzq0j3FFrgYUQW"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 249519,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 126548,
       "name": "Flor de Loto",
       "url": "https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126552,
       "name": "Flor de Loto",
       "url": "https://open.spotify.com/track/6o0FYA5icN4PImQFrfaBFL"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225792,
       "name": "Fuck Love",
       "url": "https://open.spotify.com/track/0DWxjkUdTVvlC5EpPqQfiH"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225792,
       "name": "Fuck Love",
       "url": "https://open.spotify.com/track/4c715EQQZjly3eabqovsi4"
@@ -912,24 +912,6 @@
     {
       "album": {
         "name": "Hablando de Palms",
-        "url": "https://open.spotify.com/album/1CVDNfEKuLH9s4evQ5Q4vv"
-      },
-      "artists": [
-        {
-          "name": "M4gna",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "date_added": "2021-10-15",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 183942,
-      "name": "Hablando de Palms",
-      "url": "https://open.spotify.com/track/2zuGuhsTdBxdwmdflVIoX3"
-    },
-    {
-      "album": {
-        "name": "Hablando de Palms",
         "url": "https://open.spotify.com/album/411cSCPFAGfusWrJMjVbvY"
       },
       "artists": [
@@ -940,10 +922,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183942,
       "name": "Hablando de Palms",
       "url": "https://open.spotify.com/track/0RK8tfsAaZdWW2qUIoKH8B"
+    },
+    {
+      "album": {
+        "name": "Hablando de Palms",
+        "url": "https://open.spotify.com/album/1CVDNfEKuLH9s4evQ5Q4vv"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183942,
+      "name": "Hablando de Palms",
+      "url": "https://open.spotify.com/track/2zuGuhsTdBxdwmdflVIoX3"
     },
     {
       "album": {
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142095,
       "name": "Hoteles",
       "url": "https://open.spotify.com/track/0zbaDrVISF93yL82O7LpoQ"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 142095,
       "name": "Hoteles",
       "url": "https://open.spotify.com/track/7MWr95LyNYlPv0SHtaEBVV"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Negro",
       "url": "https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197142,
       "name": "Negro",
       "url": "https://open.spotify.com/track/3QS73YxMlbbqHvZQhp1WNH"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203033,
       "name": "Si Caigo",
       "url": "https://open.spotify.com/track/2vUb00H3FMhSwaie3BuiUW"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 203427,
       "name": "Si Caigo",
       "url": "https://open.spotify.com/track/5fcmgOkht9NNEj4xrwcDem"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337466,
       "name": "A Little Chaos",
       "url": "https://open.spotify.com/track/0OKWHkdIAi2purVKdqaPC0"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 337470,
       "name": "A Little Chaos",
       "url": "https://open.spotify.com/track/0cKJ9VKdpwPA0MryV8K0vq"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Cinema Paradiso",
       "url": "https://open.spotify.com/track/7mQpHyD51jOr6zouLaFbZy"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143373,
       "name": "Define Dancing",
       "url": "https://open.spotify.com/track/4wZdal5NzPtwKcjLMt7vJj"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143373,
       "name": "Define Dancing",
       "url": "https://open.spotify.com/track/5zeaIcBVA0Ta8JVp1S5zDM"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274600,
       "name": "Enchanted Suite",
       "url": "https://open.spotify.com/track/4Mbloi1I0HIBIYPsuP5EAG"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272480,
       "name": "Enchanted Suite - From \"Enchanted\"/Score",
       "url": "https://open.spotify.com/track/42TTHCYkSo0ER8RLmyV3Hu"
@@ -328,10 +328,36 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221573,
       "name": "Eshkeri: Flying Vessel",
       "url": "https://open.spotify.com/track/1kmkBb6u7bA37GxDaNPils"
+    },
+    {
+      "album": {
+        "name": "Stardust - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/1NF8tCRVwrkWkGjLXO8nsa"
+      },
+      "artists": [
+        {
+          "name": "Ilan Eshkeri",
+          "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
+        },
+        {
+          "name": "London Metropolitan Orchestra",
+          "url": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+        },
+        {
+          "name": "Andy Brown",
+          "url": "https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221573,
+      "name": "Eshkeri: Flying Vessel",
+      "url": "https://open.spotify.com/track/3dmLI1Nr4taudP4luthuNR"
     },
     {
       "album": {
@@ -368,7 +394,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 57506,
       "name": "Field Trip",
       "url": "https://open.spotify.com/track/4GjD1FcG5UkQUuHE4pI1Fa"
@@ -386,7 +412,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 57520,
       "name": "Field Trip",
       "url": "https://open.spotify.com/track/099QlSujdXkd9DCwAh2fgX"
@@ -430,7 +456,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245800,
       "name": "Flying Theme - From \"E.T\"",
       "url": "https://open.spotify.com/track/2oDlOeEQIVRNxWHaTVGKHh"
@@ -482,36 +508,10 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245800,
       "name": "Flying Theme - From \"E.T\"",
       "url": "https://open.spotify.com/track/4hbNZBElPjwCdfzYkJcTR2"
-    },
-    {
-      "album": {
-        "name": "Stardust - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/1NF8tCRVwrkWkGjLXO8nsa"
-      },
-      "artists": [
-        {
-          "name": "Ilan Eshkeri",
-          "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
-        },
-        {
-          "name": "London Metropolitan Orchestra",
-          "url": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
-        },
-        {
-          "name": "Andy Brown",
-          "url": "https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB"
-        }
-      ],
-      "date_added": "2021-01-29",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 221573,
-      "name": "Flying Vessel",
-      "url": "https://open.spotify.com/track/3dmLI1Nr4taudP4luthuNR"
     },
     {
       "album": {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202146,
       "name": "Flynn Lives",
       "url": "https://open.spotify.com/track/0V4wGPzv90fKur0eNvOHmI"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202146,
       "name": "Flynn Lives - From \"TRON: Legacy\"/Score",
       "url": "https://open.spotify.com/track/2OQS6fFDpJzpDVC6gNzoj5"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 88293,
       "name": "Leaping Penguins",
       "url": "https://open.spotify.com/track/4axwWfy5bqOQeZ0adeJ6XU"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 88293,
       "name": "Leaping Penguins",
       "url": "https://open.spotify.com/track/6wsoNBrdpgQ0EY0MektJYq"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286666,
       "name": "Merry Christmas Mr. Lawrence",
       "url": "https://open.spotify.com/track/17oLsEzzlGFlrBKViCzmGc"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286466,
       "name": "Merry Christmas Mr. Lawrence",
       "url": "https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254293,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/6k41naacsmD4L3i9AzCFom"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254293,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/1ucCVtG5dKmgvCnXHAnhR9"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178666,
       "name": "Nuovo Cinema Paradiso",
       "url": "https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305621,
       "name": "Raiders March",
       "url": "https://open.spotify.com/track/1YYKKW40noxJ8BNBODnriF"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305640,
       "name": "Raiders March",
       "url": "https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184133,
       "name": "The Bell Tower",
       "url": "https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185160,
       "name": "The Bell Tower",
       "url": "https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 296173,
       "name": "The Flight To Neverland - From \"Hook\"",
       "url": "https://open.spotify.com/track/20g6TJr37OZ9MQjM8odlrW"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296173,
       "name": "The Flight To Neverland - From \"Hook\"",
       "url": "https://open.spotify.com/track/5lRilqjJwiywcHntGRWbpx"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 68691,
       "name": "The Theory of Everything",
       "url": "https://open.spotify.com/track/1Wd7EwZcoAfCAEi9FF6G6b"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 68691,
       "name": "The Theory of Everything",
       "url": "https://open.spotify.com/track/5fJD7wh9yoSTpl9d5rgl7l"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224520,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/7Lnd4du5ZNl0K82p5QFi5H"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225266,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 95986,
       "name": "Vuelie - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/0qnj9ufJJM6Xk4xuoyvHZp"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 95986,
       "name": "Vuelie - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/7tHKjzBYfMZvprnfyHcOK0"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198217,
       "name": "Wonderful Days Theme II - \uc624\ucf00\uc2a4\ud2b8\ub77c Version",
       "url": "https://open.spotify.com/track/0kRdq1tQFeBKYHdWQjD2H7"
@@ -1886,13 +1886,13 @@
       },
       "artists": [
         {
-          "name": "Czech Philharmonic Orchestra",
+          "name": "Czech Philharmonic",
           "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
         }
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198217,
       "name": "Wonderful Days Theme II - \uc624\ucf00\uc2a4\ud2b8\ub77c Version",
       "url": "https://open.spotify.com/track/70KyIeONrCADvBQS19VmPY"

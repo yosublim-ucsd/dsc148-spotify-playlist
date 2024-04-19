@@ -374,7 +374,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 262066,
       "name": "En Aasai Mythiliye",
       "url": "https://open.spotify.com/track/44OEXE0l8fdx6oaKexx2G5"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262127,
       "name": "En Aasai Mythiliye",
       "url": "https://open.spotify.com/track/6DkxP58qMVRQKZMGXfaCy4"
@@ -870,36 +870,6 @@
     {
       "album": {
         "name": "Maari 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Chinna Ponnu",
-          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
-        },
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        }
-      ],
-      "date_added": "2021-11-15",
-      "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
-      "duration_ms": 226297,
-      "name": "Maari Gethu",
-      "url": "https://open.spotify.com/track/6ix68x3LqXv1teM1doynXU"
-    },
-    {
-      "album": {
-        "name": "Maari 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5mly2tG8K6NL6KKSLSxgXC"
       },
       "artists": [
@@ -922,7 +892,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226297,
       "name": "Maari Gethu",
       "url": "https://open.spotify.com/track/1KEs3f4ohpWCh1FDNDsm3M"
@@ -956,6 +926,24 @@
       "duration_ms": 226297,
       "name": "Maari Gethu",
       "url": "https://open.spotify.com/track/3PbREFnxECB7c4R3jKgTCO"
+    },
+    {
+      "album": {
+        "name": "Maari 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja,Dhanush,Chinnaponnu,V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/26syEbRiAU2bCGhTqN8h8Z"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226297,
+      "name": "Maari Gethu",
+      "url": "https://open.spotify.com/track/6ix68x3LqXv1teM1doynXU"
     },
     {
       "album": {
@@ -1368,7 +1356,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 308233,
       "name": "Pottu Thakku",
       "url": "https://open.spotify.com/track/2xMOwlzMJfyksroZ8s5PCh"
@@ -1420,7 +1408,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308233,
       "name": "Pottu Thakku",
       "url": "https://open.spotify.com/track/2lQ6NqKz2dqEg1rePgbBjD"
@@ -1916,7 +1904,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 267942,
       "name": "What a Karavaad",
       "url": "https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY"
@@ -1938,7 +1926,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267942,
       "name": "What a Karavaad (From \"Velai Illa Pattadhaari\")",
       "url": "https://open.spotify.com/track/5TAzphopRhmXL8x6l6v4xg"

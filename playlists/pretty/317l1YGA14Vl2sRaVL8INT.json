@@ -1,13 +1,29 @@
 {
   "description": "Its pop punk, its the best",
-  "num_followers": 43863,
+  "num_followers": 43853,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "Njg0MiwyMzNhM2JkMmU0OGE5ZjdjNzVmZTk2NzM2OWM1MzdhYTc1Mzk0ZTZj",
+  "snapshot_id": "Njg1MyxmNzI1NjgzNmY3OTA0ZTM0NjM4ZjAyMGJkMjI5Y2RhOWQzMmEyNDlh",
   "tracks": [
+    {
+      "added_at": "2024-03-08 19:41:58",
+      "album": {
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Dumbstruck Dumbf**k",
+      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
     {
       "added_at": "2024-01-09 23:10:56",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 186634,
       "name": "I Write Sins Not Tragedies",
       "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+    },
+    {
+      "added_at": "2024-04-17 18:01:04",
+      "album": {
+        "name": "love like robots",
+        "url": "https://open.spotify.com/album/3P48marTOlJnMplWCZkot9"
+      },
+      "artists": [
+        {
+          "name": "knights in paris",
+          "url": "https://open.spotify.com/artist/74DW4UCeEwbvOKbvH3zKHs"
+        }
+      ],
+      "duration_ms": 210559,
+      "name": "love like robots",
+      "url": "https://open.spotify.com/track/2i9ekgFsuogO1hIVs78HBd"
     },
     {
       "added_at": "2024-01-09 23:19:25",
@@ -121,20 +153,20 @@
       "url": "https://open.spotify.com/track/0O5WAeW9fQb0E1sKUi5QZt"
     },
     {
-      "added_at": "2024-01-24 04:42:46",
+      "added_at": "2024-04-17 18:03:26",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
         }
       ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+      "duration_ms": 154333,
+      "name": "Chewed Up",
+      "url": "https://open.spotify.com/track/4hy4x8VaOCy1g3ObRygzR1"
     },
     {
       "added_at": "2024-01-09 23:16:27",
@@ -151,22 +183,6 @@
       "duration_ms": 177750,
       "name": "Blue Eyed Boy",
       "url": "https://open.spotify.com/track/3SRcU6n6IQCwvl1mKOvaaR"
-    },
-    {
-      "added_at": "2024-01-09 23:08:54",
-      "album": {
-        "name": "SEX ON THE BEACH",
-        "url": "https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 190731,
-      "name": "SEX ON THE BEACH",
-      "url": "https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0"
     },
     {
       "added_at": "2024-01-09 23:08:59",
@@ -1353,22 +1369,6 @@
       "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
     },
     {
-      "added_at": "2024-03-08 19:41:58",
-      "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Dumbstruck Dumbf**k",
-      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
-    },
-    {
       "added_at": "2024-03-08 19:43:13",
       "album": {
         "name": "Saviors",
@@ -1623,6 +1623,30 @@
       "duration_ms": 148882,
       "name": "Year Of The Vulture",
       "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
+    },
+    {
+      "added_at": "2024-04-17 18:02:34",
+      "album": {
+        "name": "GIRL$",
+        "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 132999,
+      "name": "GIRL$",
+      "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
     }
   ],
   "unique_name": "Best Of Pop Punk ",

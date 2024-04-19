@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153176,
       "name": "Awkward",
       "url": "https://open.spotify.com/track/0jIDBEwh9keW6w9IXnJLIf"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 153176,
       "name": "Awkward",
       "url": "https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 186732,
       "name": "Black Converse",
       "url": "https://open.spotify.com/track/2NQtXwEgMkIeTiThSdbWPq"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186732,
       "name": "Black Converse",
       "url": "https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD"
@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "CELEBRAR",
+        "url": "https://open.spotify.com/album/6y2XCTwXCsCh7dzMob8dnN"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149189,
+      "name": "CELEBRAR",
+      "url": "https://open.spotify.com/track/3sDDYrJg2T2nmSkqunXXi5"
+    },
+    {
+      "album": {
         "name": "$OLO MEMOS",
         "url": "https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149189,
       "name": "CELEBRAR",
       "url": "https://open.spotify.com/track/5ZIU6eFkgCMiZX0ZdPtloV"
@@ -378,6 +396,24 @@
     {
       "album": {
         "name": "$OLO MEMOS",
+        "url": "https://open.spotify.com/album/6aUMk0JCp98Kkw5gcYoIR5"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174121,
+      "name": "Emp\u00e9zar",
+      "url": "https://open.spotify.com/track/0Cf4XveS5zpGsR1lxeKWU7"
+    },
+    {
+      "album": {
+        "name": "$OLO MEMOS",
         "url": "https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq"
       },
       "artists": [
@@ -388,7 +424,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174121,
       "name": "Emp\u00e9zar",
       "url": "https://open.spotify.com/track/6Xrq0kCFPKmQD5x5vk1qUB"
@@ -612,6 +648,24 @@
     {
       "album": {
         "name": "$OLO MEMOS",
+        "url": "https://open.spotify.com/album/6aUMk0JCp98Kkw5gcYoIR5"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Leal",
+      "url": "https://open.spotify.com/track/1fwMRvx9Ek2EjRvhFcwUtT"
+    },
+    {
+      "album": {
+        "name": "$OLO MEMOS",
         "url": "https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq"
       },
       "artists": [
@@ -622,7 +676,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195918,
       "name": "Leal",
       "url": "https://open.spotify.com/track/534uRWyOMtDiYTZUSc4eyj"
@@ -640,10 +694,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152657,
       "name": "Lento",
       "url": "https://open.spotify.com/track/6ELwRYRmWonbkZWeVx55qV"
+    },
+    {
+      "album": {
+        "name": "$OLO MEMOS",
+        "url": "https://open.spotify.com/album/6aUMk0JCp98Kkw5gcYoIR5"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152657,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/6KmnQbxPH2qmjdc1EkgdW2"
     },
     {
       "album": {
@@ -738,6 +810,24 @@
     {
       "album": {
         "name": "Mi Coche",
+        "url": "https://open.spotify.com/album/0eRdsQJwCYZi9D7SlYYygD"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120066,
+      "name": "Mi Coche",
+      "url": "https://open.spotify.com/track/3qwHCA1onB4XEJlIyhlD8q"
+    },
+    {
+      "album": {
+        "name": "Mi Coche",
         "url": "https://open.spotify.com/album/3GXX4mzpuZaXxbFcQ9aGeW"
       },
       "artists": [
@@ -748,10 +838,32 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120066,
       "name": "Mi Coche",
       "url": "https://open.spotify.com/track/4gkjuwpDV79mAVqqyoeSsD"
+    },
+    {
+      "album": {
+        "name": "$OLO MEMOS",
+        "url": "https://open.spotify.com/album/6aUMk0JCp98Kkw5gcYoIR5"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        },
+        {
+          "name": "Emi Wes",
+          "url": "https://open.spotify.com/artist/4FB4F6NV9IMJNc2HmAgiBz"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Miel (feat. Emi Wes)",
+      "url": "https://open.spotify.com/track/4hyvOfanBcQKaZNsBdPMZE"
     },
     {
       "album": {
@@ -770,7 +882,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187826,
       "name": "Miel (feat. Emi Wes)",
       "url": "https://open.spotify.com/track/5PuJOlF0TlMzWCeXoRdThH"
@@ -1062,10 +1174,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179387,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1jzMvdYPdXJdaDyuPvFNxm"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/49Fs4VncdZrwd4tKbiu6hJ"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179387,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/7jLHNgWVLDpiOwm9Fo0c8e"
     },
     {
       "album": {
@@ -1080,10 +1210,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146526,
       "name": "Tu Me B\u00e9sas",
       "url": "https://open.spotify.com/track/1fHvIxqkFQdMyirAMPJXzh"
+    },
+    {
+      "album": {
+        "name": "$OLO MEMOS",
+        "url": "https://open.spotify.com/album/6aUMk0JCp98Kkw5gcYoIR5"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Tu Me B\u00e9sas",
+      "url": "https://open.spotify.com/track/3pyrUJeJHI7GGAUB7zvTJ1"
     },
     {
       "album": {
@@ -1105,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Vente A Mi (feat. JEURU)",
+        "url": "https://open.spotify.com/album/16dfNSyzFopURAIFFhkHjw"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        },
+        {
+          "name": "JEURU",
+          "url": "https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Vente A Mi (feat. JEURU)",
+      "url": "https://open.spotify.com/track/3Kr8u87RBnAhrZjs7uAA8t"
+    },
+    {
+      "album": {
         "name": "$OLO MEMOS",
         "url": "https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq"
       },
@@ -1120,7 +1290,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157333,
       "name": "Vente A Mi (feat. Jeuru)",
       "url": "https://open.spotify.com/track/5FQb4haunBEG5l3qVUDYOx"

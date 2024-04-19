@@ -1,6 +1,6 @@
 {
   "description": "*vibing in desi*",
-  "num_followers": 123638,
+  "num_followers": 123914,
   "original_name": "desi lofi",
   "owner": {
     "name": "Spotify",
@@ -111,8 +111,8 @@
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
-        "name": "Pehla Nasha - First Love Lofi",
-        "url": "https://open.spotify.com/album/5fb0mhDK3YtHRtkDow9HlW"
+        "name": "Pehla Nasha - First Love LoFi",
+        "url": "https://open.spotify.com/album/4LP1rxLigXJPGwVRyFQy9j"
       },
       "artists": [
         {
@@ -129,8 +129,8 @@
         }
       ],
       "duration_ms": 194034,
-      "name": "Pehla Nasha (LoFi)",
-      "url": "https://open.spotify.com/track/662rBEghrbeN8jRziAn41N"
+      "name": "Pehla Nasha LoFi",
+      "url": "https://open.spotify.com/track/0aHb6XobeyUsvSUVVWcrqJ"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -183,10 +183,14 @@
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
-        "name": "Rang Lageya (Chillwave)",
-        "url": "https://open.spotify.com/album/4YTxLHWpEhyW9x8NU9NRMA"
+        "name": "Rang Lageya - Chillwave",
+        "url": "https://open.spotify.com/album/7kViKALJKl4QcbtisH436q"
       },
       "artists": [
+        {
+          "name": "Sanjay S Yadav",
+          "url": "https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU"
+        },
         {
           "name": "Mohit Chauhan",
           "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
@@ -194,35 +198,31 @@
         {
           "name": "Rochak Kohli",
           "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        },
-        {
-          "name": "Sanjay S Yadav",
-          "url": "https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU"
         }
       ],
       "duration_ms": 217245,
-      "name": "Rang Lageya (From \"Rang Lageya\") - Chillwave",
-      "url": "https://open.spotify.com/track/74h8lPfuBBCJ7prCtlqhsw"
+      "name": "Rang Lageya - Chillwave",
+      "url": "https://open.spotify.com/track/5m3XCGMGkOFeDeuGahpFRj"
     },
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
-        "name": "Lofi Chill Mix",
-        "url": "https://open.spotify.com/album/08jWY4k9XmTk5msKl2COHc"
+        "name": "LoFi Chill Mix",
+        "url": "https://open.spotify.com/album/5EXJoGUYXw8KJkfjGfxNcd"
       },
       "artists": [
         {
           "name": "KK",
           "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "DJ Marcelo",
+          "url": "https://open.spotify.com/artist/1o267DKMRvheBISVp6OZks"
         }
       ],
       "duration_ms": 235004,
       "name": "Sach Keh Raha Hai - LoFi Flip",
-      "url": "https://open.spotify.com/track/5GMPpal6pGenvOslNXNjH5"
+      "url": "https://open.spotify.com/track/6J7iYotjFbV1pIi3aM7zVq"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -392,7 +392,7 @@
       "added_at": "2024-02-16 09:55:58",
       "album": {
         "name": "Hindi Lofi Adda",
-        "url": "https://open.spotify.com/album/1rU3BD4hxjKO2ocSeMwWFk"
+        "url": "https://open.spotify.com/album/1uwQAAxlXhU0hTceXvfdku"
       },
       "artists": [
         {
@@ -406,15 +406,11 @@
         {
           "name": "Silent Ocean",
           "url": "https://open.spotify.com/artist/1rpoUNG0STk0Vw4BNVaP17"
-        },
-        {
-          "name": "DJ Shiren",
-          "url": "https://open.spotify.com/artist/6dGd7B4YTModHRdlDbxE6w"
         }
       ],
       "duration_ms": 197538,
-      "name": "Rang Lageya (Lofi)",
-      "url": "https://open.spotify.com/track/1dxaimzIzCKMs5Jfp1BBvM"
+      "name": "Rang Lageya - Lofi",
+      "url": "https://open.spotify.com/track/1ebjiP3tGeRf3At2HchOwA"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -823,18 +819,22 @@
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
-        "name": "Lofi Songs",
-        "url": "https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe"
+        "name": "LoFi Songs",
+        "url": "https://open.spotify.com/album/5Wu8jtO6OGVU6ILj4jIIkl"
       },
       "artists": [
         {
           "name": "Roop Kumar Rathod",
           "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "AK Bhuker",
+          "url": "https://open.spotify.com/artist/0Os9yo5Rg8laGgMwMWPwNx"
         }
       ],
       "duration_ms": 160308,
       "name": "Maula Mere Maula - LoFi",
-      "url": "https://open.spotify.com/track/71bQbiRCT5Tvfbk1CWsmLq"
+      "url": "https://open.spotify.com/track/3iOcbCxe0jW1XrlFb0rvj2"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -976,7 +976,7 @@
       "added_at": "2024-02-16 09:55:58",
       "album": {
         "name": "Teri Ore (Lo-Fi Flip)",
-        "url": "https://open.spotify.com/album/4DOaTZd7ucNOhADvgLjfMX"
+        "url": "https://open.spotify.com/album/6Lwd5nV4Qfi7AudqK2fL1V"
       },
       "artists": [
         {
@@ -986,7 +986,7 @@
       ],
       "duration_ms": 243000,
       "name": "Teri Ore (Lo-Fi Flip)",
-      "url": "https://open.spotify.com/track/2KOqnHlrLtl0ZXatUjnTz2"
+      "url": "https://open.spotify.com/track/05R5NzVM92huBXaszuXSZH"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
-        "name": "Mera Dil Ye Pukare - Tu Aaja (Heartlock Mix)",
-        "url": "https://open.spotify.com/album/313XQLTvs8g357smdl4S0j"
+        "name": "Mera Dil Ye Pukare Aaja (Lofi Flip)",
+        "url": "https://open.spotify.com/album/0zjuL8HWrjr3ar1LfLgtAd"
       },
       "artists": [
         {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Heartlock",
-          "url": "https://open.spotify.com/artist/0XqW9UITIzCIQ4CurIcgwz"
+          "name": "Shiv Jee Chaudhary",
+          "url": "https://open.spotify.com/artist/48ltHaXk8qTrw0ZwbY84RZ"
         }
       ],
-      "duration_ms": 122608,
-      "name": "Mera Dil Ye Pukare - Tu Aaja - Heartlock Mix",
-      "url": "https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern"
+      "duration_ms": 122632,
+      "name": "Mera Dil Ye Pukare Aaja (Lofi Flip)",
+      "url": "https://open.spotify.com/track/1RMasMLay57JWimdYjdbdb"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
-        "name": "Lofi Songs",
-        "url": "https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe"
+        "name": "LoFi Songs",
+        "url": "https://open.spotify.com/album/5Wu8jtO6OGVU6ILj4jIIkl"
       },
       "artists": [
         {
           "name": "Poorvesh Dave",
           "url": "https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU"
+        },
+        {
+          "name": "Kuxh Beats",
+          "url": "https://open.spotify.com/artist/7LSYV8cUBosvmspqoBVClx"
         }
       ],
       "duration_ms": 141955,
       "name": "Woh Lamhe Woh Baatein - LoFi",
-      "url": "https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs"
+      "url": "https://open.spotify.com/track/5nm8oiPHEZTdFjFPiZakje"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -1523,18 +1523,22 @@
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
-        "name": "Lofi Songs",
-        "url": "https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe"
+        "name": "LoFi Songs",
+        "url": "https://open.spotify.com/album/5Wu8jtO6OGVU6ILj4jIIkl"
       },
       "artists": [
         {
           "name": "Vivek Singh",
           "url": "https://open.spotify.com/artist/7gFl0ms1U5iXPZbcpLyEeO"
+        },
+        {
+          "name": "Danvendra Arya",
+          "url": "https://open.spotify.com/artist/5U83fpbPsUzYMcKlQZv1Ub"
         }
       ],
       "duration_ms": 135262,
       "name": "Chand Si Mehbooba Ho Meri - LoFi",
-      "url": "https://open.spotify.com/track/2xI3g0jrV6NfTXQeqlFtdw"
+      "url": "https://open.spotify.com/track/7eptB77tgnyUA93woRdFMo"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -1560,7 +1564,7 @@
       "added_at": "2024-02-16 09:55:58",
       "album": {
         "name": "Laaree Chootee",
-        "url": "https://open.spotify.com/album/6DRQUIGYsV228eyPt9VokG"
+        "url": "https://open.spotify.com/album/3oGd1rPnW4MrjUwv8rBMbz"
       },
       "artists": [
         {
@@ -1572,15 +1576,15 @@
           "url": "https://open.spotify.com/artist/4cP3ymK1Xo0dqBLp98g95J"
         }
       ],
-      "duration_ms": 130718,
+      "duration_ms": 130716,
       "name": "Laaree Chootee",
-      "url": "https://open.spotify.com/track/0HnbfIzOu6eLF8Kb1mT9Wl"
+      "url": "https://open.spotify.com/track/3QGtNcx26J7N0TzeCAidyN"
     },
     {
       "added_at": "2024-02-16 09:55:58",
       "album": {
         "name": "Siyah",
-        "url": "https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ"
+        "url": "https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3"
       },
       "artists": [
         {
@@ -1594,7 +1598,7 @@
       ],
       "duration_ms": 171290,
       "name": "Siyah",
-      "url": "https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X"
+      "url": "https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -2108,7 +2112,7 @@
       "added_at": "2024-02-16 09:55:58",
       "album": {
         "name": "Lofi Chill Mix",
-        "url": "https://open.spotify.com/album/08jWY4k9XmTk5msKl2COHc"
+        "url": "https://open.spotify.com/album/31pOBshRPyWIwY4100TsRx"
       },
       "artists": [
         {
@@ -2118,11 +2122,15 @@
         {
           "name": "Rochak Kohli",
           "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "The Keychangers",
+          "url": "https://open.spotify.com/artist/5HnE0vK2ZcVTpNJjecfJUV"
         }
       ],
       "duration_ms": 158728,
       "name": "Ek Ladki Ko Dekha Toh Aisa Laga - LoFi",
-      "url": "https://open.spotify.com/track/43jB9FPXf9b9XS87zoqRkW"
+      "url": "https://open.spotify.com/track/1uehRTjklFflNZkVNYNZXL"
     },
     {
       "added_at": "2024-02-16 09:55:58",
@@ -2348,7 +2356,7 @@
       "added_at": "2024-02-16 09:55:58",
       "album": {
         "name": "90s Love Lofi Mix",
-        "url": "https://open.spotify.com/album/79PMTVnmE16dRReyS2Q5Uy"
+        "url": "https://open.spotify.com/album/6o5ZLmWlaamjQ47SanDNL6"
       },
       "artists": [
         {
@@ -2361,8 +2369,8 @@
         }
       ],
       "duration_ms": 156585,
-      "name": "Sajan Sajan Teri Dulhan (Lofi)",
-      "url": "https://open.spotify.com/track/3xE5UlsKs6c0HYS1W8ZqeP"
+      "name": "Sajan Sajan Teri Dulhan - Lofi",
+      "url": "https://open.spotify.com/track/1Tix7BlnAmkzmDZMK8Mg5U"
     },
     {
       "added_at": "2024-02-16 09:55:58",

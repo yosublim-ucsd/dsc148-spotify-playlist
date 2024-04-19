@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: Peggy Gou)",
+  "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA)",
   "name": "Electronii'K",
   "tracks": [
     {
@@ -148,6 +148,28 @@
       "duration_ms": 274761,
       "name": "28 Reasons - LOOZBONE Remix",
       "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
+    },
+    {
+      "album": {
+        "name": "THE RMXS: VOL. 1",
+        "url": "https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        },
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "64 (Florentino Remix)",
+      "url": "https://open.spotify.com/track/6WsErFNYCU0VRGxQpLQIxR"
     },
     {
       "album": {
@@ -312,6 +334,50 @@
     {
       "album": {
         "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
+        "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Hukky Shibaseki",
+          "url": "https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144269,
+      "name": "Baggy Jeans - Hukky Shibaseki Remix",
+      "url": "https://open.spotify.com/track/4gSwJMo9aLjnz3eoXhHOM5"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
+        "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "KIM MINCHEOL & HAYATE",
+          "url": "https://open.spotify.com/artist/0KF5ZsmNgMLjLtqNsWwhbm"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188077,
+      "name": "Baggy Jeans - KIM MINCHEOL & HAYATE Remix",
+      "url": "https://open.spotify.com/track/2wBO19s2wPutijFrbwNdIq"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
         "url": "https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq"
       },
       "artists": [
@@ -326,7 +392,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188077,
       "name": "Baggy Jeans - KIM MINCHEOL & HAYATE Remix",
       "url": "https://open.spotify.com/track/7zxw70wfBUsKWmOXS3fkq4"
@@ -549,6 +615,28 @@
     },
     {
       "album": {
+        "name": "THE RMXS: VOL. 1",
+        "url": "https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182053,
+      "name": "CHEMISTRY (ROMderful Remix)",
+      "url": "https://open.spotify.com/track/4IakLOd0LViDhdsWKQkPio"
+    },
+    {
+      "album": {
         "name": "Closer To The End (with Bemo Rouge)",
         "url": "https://open.spotify.com/album/1YHIIG6j2r81coRe1SS99e"
       },
@@ -590,7 +678,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214687,
       "name": "Come With Me - Dannic Edit",
       "url": "https://open.spotify.com/track/7qhC28InmQySEMyCDEwk46"
@@ -832,10 +920,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225230,
       "name": "Fact Check - 2Spade Remix",
       "url": "https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.29 : Fact Check Remixes",
+        "url": "https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "2Spade",
+          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Fact Check - 2Spade Remix",
+      "url": "https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J"
     },
     {
       "album": {
@@ -1082,13 +1192,57 @@
           "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         },
         {
+          "name": "GINJO",
+          "url": "https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "INVU - GINJO Remix",
+      "url": "https://open.spotify.com/track/06BJz7zKXR60rv2EM6JpSH"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.15 : INVU Remixes",
+        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "Moon Kyoo",
+          "url": "https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251026,
+      "name": "INVU - Moon Kyoo Remix",
+      "url": "https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.15 : INVU Remixes",
+        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
           "name": "ZHU",
           "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         }
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219840,
       "name": "INVU - ZHU Remix",
       "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
@@ -1442,7 +1596,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177945,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/1l5J8Z8hIhfFvt6hUbuchV"
@@ -1935,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/5J26Mlv1iXr4SugLzGXEtc"
+      },
+      "artists": [
+        {
+          "name": "NINA",
+          "url": "https://open.spotify.com/artist/2P9ftPzTkpvJv2ws2XWHQS"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176008,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/4VCL2FCNn84FYaRXCVSeIa"
+    },
+    {
+      "album": {
         "name": "Techno Drop",
         "url": "https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC"
       },
@@ -1968,7 +2140,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170386,
       "name": "To. X",
       "url": "https://open.spotify.com/track/2DVj1SAT5dz5oOwU3kvMgB"
@@ -1990,7 +2162,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152860,
       "name": "To. X - HUNJIYA Remix",
       "url": "https://open.spotify.com/track/1iIk4z63HT8cOdu6akgjJe"
@@ -2012,7 +2184,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190303,
       "name": "To. X - IMLAY Remix",
       "url": "https://open.spotify.com/track/1PB7LNIEyrAUHbEcngMCPB"

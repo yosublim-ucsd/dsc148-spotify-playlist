@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225786,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 374893,
       "name": "And All That Could Have Been",
       "url": "https://open.spotify.com/track/5UMsIIsvwkuIK3AeV7WhAW"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 228847,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237813,
       "name": "Biblical",
       "url": "https://open.spotify.com/track/2iA2pnDol3a471EFEBZf7h"
@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "End of Suffering",
+        "url": "https://open.spotify.com/album/3hS3M535B8REpnp1gCK2v6"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/7gpB1hNb9A1l3CuyABACeX"
+    },
+    {
+      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247200,
       "name": "Blood Sport",
       "url": "https://open.spotify.com/track/30uhVtb7vfBoUkyGpcvYGJ"
@@ -450,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "date_added": "2023-02-17",
+      "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 247200,
       "name": "Blood Sport",
       "url": "https://open.spotify.com/track/6VLA4PxIYpaXWR79jv0PgR"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241226,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/22VW5d6k6HT0SQ8MUEXuDz"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241226,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/69CjL1kr0muXIraytXdbf5"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 222469,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h"
@@ -1017,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Great Grief / Atone",
+        "url": "https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Great Grief",
+      "url": "https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A"
+    },
+    {
+      "album": {
         "name": "Aggressive",
         "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
       },
@@ -1046,7 +1082,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 235818,
       "name": "Heavy Eyes",
       "url": "https://open.spotify.com/track/40aG6bhBSLm7SCIlpQzgBT"
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233436,
       "name": "How Does It Feel?",
       "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 181504,
       "name": "I Heard That You Died",
       "url": "https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw"
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229600,
       "name": "I Won't Give In",
       "url": "https://open.spotify.com/track/7scGzRwZMeHzFNuEJgnzvh"
@@ -1208,7 +1244,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 215507,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC"
@@ -1298,7 +1334,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224840,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240206,
       "name": "love song",
       "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/0KGIbrNYktDXYyHopcDI2L"
@@ -1460,7 +1496,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
@@ -1496,7 +1532,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200946,
       "name": "Missing Limbs",
       "url": "https://open.spotify.com/track/10aGiE3OEk4dKeUzcHINZs"
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242593,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
@@ -1586,7 +1622,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 70383,
       "name": "Nobody, Not Even the Rain",
       "url": "https://open.spotify.com/track/7lLgr9yoa1vToPYyEfZ8Dp"
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
@@ -1698,10 +1734,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 203271,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5LcFvZSd8baqx1StsIitZ1"
+    },
+    {
+      "album": {
+        "name": "This Is How The World Ends",
+        "url": "https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246434,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/1I7V7AZ9qTvmpTFf9Jdq2A"
     },
     {
       "album": {
@@ -1806,7 +1860,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 185146,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j"
@@ -1842,7 +1896,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "Ripple Water Shine",
       "url": "https://open.spotify.com/track/7rPpErLCzp22gTrEmx4XYb"
@@ -1878,7 +1932,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 304986,
       "name": "Sans Soleil",
       "url": "https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj"
@@ -1950,7 +2004,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE",
       "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
@@ -2065,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279085,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6XNNzEOZP7bhxq5okbHqry"
+    },
+    {
+      "album": {
         "name": "Night People",
         "url": "https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN"
       },
@@ -2076,7 +2148,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271306,
       "name": "Take on the World",
       "url": "https://open.spotify.com/track/3eHYnUFpEZjnTQag1EVxHC"
@@ -2130,7 +2202,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
@@ -2148,7 +2220,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C"
@@ -2220,7 +2292,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "Toothpick",
       "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
@@ -2292,7 +2364,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221600,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/7kCq9kx8TKprk3mgTKolF6"
@@ -2364,7 +2436,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212026,
       "name": "When You Can't Sleep at Night",
       "url": "https://open.spotify.com/track/6ncrdwPsLV0VlJIeS5oGfb"
@@ -2400,7 +2472,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212733,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
@@ -2454,7 +2526,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 267546,
       "name": "Your Love (Has Ruined My Life)",
       "url": "https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN"
@@ -2472,7 +2544,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306440,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"

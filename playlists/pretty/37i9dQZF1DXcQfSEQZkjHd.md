@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 
 > Flirty tracks Tove Lo loves\. Put this on when you want your intentions to be obvious..\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,111 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,132 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 | 5 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 |
 | 6 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/3fBFxEPqWhrdoWGrmaacFq) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:02 |
 | 7 | [Hot Flavor](https://open.spotify.com/track/1TjdChJkvO0puE4YugH6ne) | [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [Hot Flavor](https://open.spotify.com/album/1GqmYS5dHoMGLUp3jByxAO) | 3:38 |
-| 8 | [Save Me](https://open.spotify.com/track/7Gk5kyMG2PwHSg3PNX7Qcr) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/4BYaSHRWW0tn3tZv4fhDnQ) | 3:18 |
+| 8 | [Save Me](https://open.spotify.com/track/49OKGVDSoyJMAEH7oGubKa) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 3:18 |
 | 9 | [Lights On](https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:39 |
 | 10 | [No Kink in the Wire](https://open.spotify.com/track/4qIwGVYW7OINlnBfMMlKSM) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Mt\. Pleasant](https://open.spotify.com/album/0ZjTwAs6QJit4LmOs1Z8TB) | 5:30 |
 | 11 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 | 14 | [Together Again](https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:01 |
 | 15 | [I'm Everything](https://open.spotify.com/track/5JyAuVWt07CDdmKl3w6a9w) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa) | [I'm Everything](https://open.spotify.com/album/344T5wmPDAEJaKugZcjPuG) | 4:26 |
 | 16 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |
-| 17 | [Turning You On](https://open.spotify.com/track/6Uwee6Ej0Oplqm6vXAdNuc) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Turning You On](https://open.spotify.com/album/1TaRVGr8jOfDQIbAzhHP5S) | 6:45 |
+| 17 | [Turning You On](https://open.spotify.com/track/6ApvETfR03Th0uFdTBzzTh) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [VA Compilation, Vol\. 2](https://open.spotify.com/album/7AcWr6yt8F1yRmtafE5XCV) | 6:45 |
 | 18 | [Woman Like You](https://open.spotify.com/track/0Tby0PFN8E8I8pg0oxeapb) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Woman Like You](https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv) | 4:05 |
 | 19 | [Peanut Butter \- Larry Levan Mix / Bonus Track](https://open.spotify.com/track/0GVmRS7Zgg5fxrITQE1BYp) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy), [Larry Levan](https://open.spotify.com/artist/7wxPD9vDsKD5OuHCeWgXRm) | [Portrait](https://open.spotify.com/album/5YO9PAJkOPXXzLyNDiGqyR) | 6:05 |
 | 20 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 |

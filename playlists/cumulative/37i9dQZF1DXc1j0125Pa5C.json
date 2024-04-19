@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 242546,
       "name": "Chantilly / Conquista / Princesa - Ao Vivo",
       "url": "https://open.spotify.com/track/0xwbDJEl4Asn3dyTL9WCo0"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242546,
       "name": "Chantilly / Conquista / Princesa - Ao Vivo",
       "url": "https://open.spotify.com/track/51AoUVOLwgQMVgvhG5P9NF"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 395221,
       "name": "Op\u00e7\u00f5es / Me Apaixonei pela Pessoa Errada / Sinais / Sobrenatural",
       "url": "https://open.spotify.com/track/5aWiqE2DBa3IhzW74E8Dvy"
@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Patricinha do Olho Azul/ Inten\u00e7\u00e3o / N\u00e3o Precisa Mudar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/68jR2MzY2Vf57N3gWigWxQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Tudo Nosso",
+          "url": "https://open.spotify.com/artist/71fR02oh4QXYvqPkXiubuY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257500,
+      "name": "Patricinha do Olho Azul/ Inten\u00e7\u00e3o / N\u00e3o Precisa Mudar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4qjveHJg2ExF86gsK1hSPL"
+    },
+    {
+      "album": {
         "name": "Rolezin Do Matheusinho (Ao Vivo / Vol. 2)",
         "url": "https://open.spotify.com/album/1CBMT5KQIq9Sz5NUw6cDI7"
       },
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 301685,
       "name": "Ponto Fraco / Dividido / Sonhos e Planos - Sou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301685,
       "name": "Ponto Fraco / Dividido / Sonhos e Planos - Sou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/2Lhz8BlOTPYr7orfoFsd7A"
@@ -1999,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Ferrugem 10 Anos, Vol. 1: O In\u00edcio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298698,
+      "name": "Tristinha / Bota a Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/0eIjXGaHGliK8pwPca8x9m"
+    },
+    {
+      "album": {
         "name": "Pagodin do Vou Zuar 2.1",
         "url": "https://open.spotify.com/album/6mNDUA0iE42NNDrwS8gOA2"
       },
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 483433,
       "name": "Tu Mandas no Meu Cora\u00e7\u00e3o / Me Espera / Perfume / Temporal",
       "url": "https://open.spotify.com/track/3dCaOHosieoKCWqwURJGp6"
@@ -2258,7 +2298,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250525,
       "name": "\u00c9 tarde Demais / Essa Tal Liberdade / Inara\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/2v0GhuP7TiSIGSPy5szhi2"
@@ -2276,7 +2316,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 250525,
       "name": "\u00c9 tarde Demais / Essa Tal Liberdade / Inara\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G"

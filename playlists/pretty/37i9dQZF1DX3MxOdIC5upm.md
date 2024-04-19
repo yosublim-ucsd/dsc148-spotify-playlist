@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MxOdIC5upm.md) - [plain]
 
 > Welcome to "high" society\. Listen to the music from Guy Ritchie's The Gentlemen, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,431 likes - 23 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,739 likes - 23 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God Song](https://open.spotify.com/track/6SiUVpM7BKUoY19WgN1vOY) | [Toydrum](https://open.spotify.com/artist/2Ge3GDP9066h1TxaU5LuCF), [Gavin Clark](https://open.spotify.com/artist/4HDpt9u7BBavJNr4MC4NT9) | [Evangelist](https://open.spotify.com/album/0XfquGRarAtOi36nDGJYXT) | 4:18 |
-| 2 | [Kop That Shit](https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy) | [Scousematic 2](https://open.spotify.com/album/5hoOyYaQqMoyG8RGxP7tXh) | 3:42 |
+| 2 | [Kop That Shit](https://open.spotify.com/track/0CLjza4QVBvks2DS5TCGpm) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy) | [Scousematic 2](https://open.spotify.com/album/1bKZSglRWgHBxpW3NAkJ4S) | 3:42 |
 | 3 | [Song Of Time](https://open.spotify.com/track/2cTJZdJuudcg4JB66koO5K) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [Music For Drama](https://open.spotify.com/album/5XLdoVDfBhtrkvix0ESlZm) | 3:49 |
 | 4 | [Can't Hold Me Back](https://open.spotify.com/track/6PoBoO0MZ7HNgTYEDYa2d0) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [Shumba Maasai](https://open.spotify.com/artist/1zc7yyIfqiKewfSBSKtpoD), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Five Fruit](https://open.spotify.com/album/2pbinqN0rF6sV2BVmusePD) | 3:18 |
 | 5 | [I Wish A Bitch Would](https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw) | 3:26 |

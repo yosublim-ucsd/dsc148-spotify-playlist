@@ -24,7 +24,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 243954,
       "name": "305",
       "url": "https://open.spotify.com/track/4L5ExFknSOS7ZN3RFUUy2p"
@@ -50,7 +50,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243954,
       "name": "305",
       "url": "https://open.spotify.com/track/4a6WhZfqxLyV0Cd6EwLspC"
@@ -120,7 +120,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234843,
       "name": "Amor en la Playa",
       "url": "https://open.spotify.com/track/70K9VzlfzCcCutjPZhmS7Y"
@@ -164,10 +164,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 234843,
       "name": "Amor en la Playa",
       "url": "https://open.spotify.com/track/7po18yftlR0AgXUq2QxNTk"
+    },
+    {
+      "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/5NfIDHupQkzjaOFykxcV9a"
+      },
+      "artists": [
+        {
+          "name": "Samanta Duque",
+          "url": "https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl"
+        },
+        {
+          "name": "Valka",
+          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186512,
+      "name": "Amores",
+      "url": "https://open.spotify.com/track/7z3wqMRsFlcR7EL2RZOmXe"
     },
     {
       "album": {
@@ -186,7 +208,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186512,
       "name": "Amores (feat. Valka)",
       "url": "https://open.spotify.com/track/5dDcVdAwFxaqeXrcITfIcX"
@@ -294,7 +316,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 248780,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/0LMpXvC8a7rYNaxNCxXl3p"
@@ -346,7 +368,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 215295,
       "name": "Booyah - Radio Edit",
       "url": "https://open.spotify.com/track/2EpS5TgdngSISM63rhBsnK"
@@ -372,7 +394,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215295,
       "name": "Booyah - Radio Edit",
       "url": "https://open.spotify.com/track/74qY57XDx0sSUbVnQ8kosS"
@@ -474,7 +496,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 190476,
       "name": "Deep Down Low",
       "url": "https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis"
@@ -492,7 +514,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190476,
       "name": "Deep Down Low",
       "url": "https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH"
@@ -661,6 +683,28 @@
     },
     {
       "album": {
+        "name": "This Is Guaracha",
+        "url": "https://open.spotify.com/album/51hBHBAr22ET7c24Oxlsq0"
+      },
+      "artists": [
+        {
+          "name": "Dj Dasten",
+          "url": "https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0"
+        },
+        {
+          "name": "Felicia",
+          "url": "https://open.spotify.com/artist/5iZjTlgCuw1wjmkRyjFvvP"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193654,
+      "name": "Fiesta en la Arena",
+      "url": "https://open.spotify.com/track/5HMVms3t1CenE5FVzeGpFF"
+    },
+    {
+      "album": {
         "name": "Fiesta En La Arena",
         "url": "https://open.spotify.com/album/4PWiOCnQBd69wr9e4L1L6B"
       },
@@ -698,7 +742,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193654,
       "name": "Fiesta En La Arena",
       "url": "https://open.spotify.com/track/7hRWhr6JZCWS0CtYQsz6p9"
@@ -818,7 +862,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166932,
       "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
       "url": "https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM"
@@ -840,10 +884,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 166932,
       "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
       "url": "https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF"
+    },
+    {
+      "album": {
+        "name": "Gitana",
+        "url": "https://open.spotify.com/album/5aqPsuK8TTdCfJ4IbrMsuh"
+      },
+      "artists": [
+        {
+          "name": "JC Arcila",
+          "url": "https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV"
+        },
+        {
+          "name": "Camilo Miranda",
+          "url": "https://open.spotify.com/artist/2TzKV5mNKOh1ujJXTZlXxJ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158955,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/4IYu8JrrcwaohW7OkXe497"
     },
     {
       "album": {
@@ -862,7 +928,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158969,
       "name": "Gitana",
       "url": "https://open.spotify.com/track/6uYPlED0KRKGhRVrOAQfov"
@@ -972,6 +1038,24 @@
     {
       "album": {
         "name": "Melody",
+        "url": "https://open.spotify.com/album/7eXOtyGQcpfY7jbXEmVTfF"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288346,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6QkMSZ1mcr6Ysw9e7fpyM8"
+    },
+    {
+      "album": {
+        "name": "Melody",
         "url": "https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS"
       },
       "artists": [
@@ -982,7 +1066,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290023,
       "name": "Melody",
       "url": "https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs"
@@ -1000,7 +1084,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181662,
       "name": "Middle",
       "url": "https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra"
@@ -1040,6 +1124,24 @@
       "duration_ms": 181662,
       "name": "Middle",
       "url": "https://open.spotify.com/track/7cb1au0v5kAw8fPdCio8Zi"
+    },
+    {
+      "album": {
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/6xsGcIH2ZZyjQXv6YISOH0"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181662,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/7pk1VW7qa7zBQDbqMWydUD"
     },
     {
       "album": {
@@ -1154,7 +1256,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210466,
       "name": "Multiples Efectos",
       "url": "https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ"
@@ -1176,7 +1278,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 210466,
       "name": "Multiples Efectos",
       "url": "https://open.spotify.com/track/62RKkuMYjFQSPlXstcCn9s"
@@ -1238,7 +1340,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 214334,
       "name": "Noches de Soledad",
       "url": "https://open.spotify.com/track/5WZ3BKEXk7EB86m6MdEpn6"
@@ -1256,7 +1358,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218920,
       "name": "Noches de Soledad",
       "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
@@ -1303,6 +1405,32 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
+    },
+    {
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -1322,7 +1450,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201176,
       "name": "Promises",
       "url": "https://open.spotify.com/track/7AVRMxljXWpqmL9NlzeCJw"
@@ -1356,6 +1484,32 @@
     {
       "album": {
         "name": "Que Rico",
+        "url": "https://open.spotify.com/album/5lVD9xB2C3tCFwMCQH08Gr"
+      },
+      "artists": [
+        {
+          "name": "JC Arcila",
+          "url": "https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV"
+        },
+        {
+          "name": "Chris Salgado",
+          "url": "https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg"
+        },
+        {
+          "name": "Carmelo",
+          "url": "https://open.spotify.com/artist/59PtpspMQiow7dtMuoWWW4"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167932,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/3Rqv1WTdEaCgpZcr3Gokph"
+    },
+    {
+      "album": {
+        "name": "Que Rico",
         "url": "https://open.spotify.com/album/54q0WA6Zq3IB3aMZJlWZtA"
       },
       "artists": [
@@ -1374,7 +1528,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167955,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/0fmN1RrpEOH9yG99S1Upuo"
@@ -1510,10 +1664,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364971,
       "name": "Sax To Me",
       "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+    },
+    {
+      "album": {
+        "name": "Sax to Me",
+        "url": "https://open.spotify.com/album/5JY51ALUD3WXbq5WaWt3mj"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Joseph Qas",
+          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364971,
+      "name": "Sax to Me",
+      "url": "https://open.spotify.com/track/13ec8EzWdQTt0nH1zeYubX"
     },
     {
       "album": {
@@ -1768,7 +1944,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307741,
       "name": "TARAKA",
       "url": "https://open.spotify.com/track/0FmHBBkDFZYNYKSyhtrV1D"
@@ -1786,7 +1962,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 307741,
       "name": "TARAKA",
       "url": "https://open.spotify.com/track/5P6ilWY7ZC1LrDkLgB1HHv"
@@ -1912,10 +2088,32 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317187,
       "name": "Toco el Cielo",
       "url": "https://open.spotify.com/track/2aq9MMe06Uw0v76iaCRceg"
+    },
+    {
+      "album": {
+        "name": "Toco el Cielo",
+        "url": "https://open.spotify.com/album/5dGLJZBuArC6PbazhAImxz"
+      },
+      "artists": [
+        {
+          "name": "Tribal King",
+          "url": "https://open.spotify.com/artist/3Ep2Irgv8GTclrOZ3xhsmh"
+        },
+        {
+          "name": "Manco the Sound",
+          "url": "https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323552,
+      "name": "Toco el Cielo",
+      "url": "https://open.spotify.com/track/18LSseF7fjrr04NeBmhf3c"
     },
     {
       "album": {
@@ -2136,7 +2334,7 @@
     {
       "album": {
         "name": "Zombie Nation",
-        "url": "https://open.spotify.com/album/6oy8cDKbPZ9UYwewVasMq1"
+        "url": "https://open.spotify.com/album/2lOLSKJN0YjN9CPHsOqBOx"
       },
       "artists": [
         {
@@ -2147,6 +2345,24 @@
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Zombie Nation",
+      "url": "https://open.spotify.com/track/3csn4s62ZZbxKT4bPxSALg"
+    },
+    {
+      "album": {
+        "name": "Zombie Nation",
+        "url": "https://open.spotify.com/album/6oy8cDKbPZ9UYwewVasMq1"
+      },
+      "artists": [
+        {
+          "name": "Konig Pry",
+          "url": "https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 183750,
       "name": "Zombie Nation",
       "url": "https://open.spotify.com/track/4ahokwBvYFEhN6IxKHrUip"

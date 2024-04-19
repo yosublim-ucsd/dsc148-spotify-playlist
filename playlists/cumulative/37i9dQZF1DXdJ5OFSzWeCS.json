@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69326,
       "name": "A Friend through the Night",
       "url": "https://open.spotify.com/track/2kETvpBJv1he7g3ofgtkaj"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89739,
       "name": "All the Stones",
       "url": "https://open.spotify.com/track/0Yaq8YZ2XKMxhlsDfapY8G"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 92000,
       "name": "Bernie My Furry Bear",
       "url": "https://open.spotify.com/track/5sHmeycq4ObB1xaIuYZnVB"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100568,
       "name": "Chill Rattle",
       "url": "https://open.spotify.com/track/4Fy3q8NMw7WDveKOZ4yiY8"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198545,
       "name": "Colors Of The Wind",
       "url": "https://open.spotify.com/track/6bQ5Bvcmykkj5ONuk6FWyt"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97043,
       "name": "Counting sheep",
       "url": "https://open.spotify.com/track/4P9XJCXmWR1Artyxij5Tit"
@@ -2669,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/6JY5BssV3NXoTdXg6nP9Al"
+      },
+      "artists": [
+        {
+          "name": "Mary Willowfeather",
+          "url": "https://open.spotify.com/artist/0mtgBfJTZfPCuMZ08HxCtS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90513,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/3TbOk2eZ0WPGki6c7Ji6WV"
+    },
+    {
+      "album": {
         "name": "Dreaming of Sweets",
         "url": "https://open.spotify.com/album/4xR10UOpMUHnWAPUivHOFM"
       },
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101739,
       "name": "Early in the morning",
       "url": "https://open.spotify.com/track/2VCNBuJor5UVnwomVvBpwk"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 98500,
       "name": "Family Photo",
       "url": "https://open.spotify.com/track/4pE9U2DrP0VFWKnT9pxcJq"
@@ -3868,7 +3886,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 70409,
       "name": "Golden Slumbers",
       "url": "https://open.spotify.com/track/4NUZLOU3BtZSN4N29zzpMG"
@@ -4214,6 +4232,24 @@
       "duration_ms": 72000,
       "name": "Harry's Lullaby",
       "url": "https://open.spotify.com/track/0VV400L9kiXKb7HQVysEPS"
+    },
+    {
+      "album": {
+        "name": "Have You Seen My Elephant",
+        "url": "https://open.spotify.com/album/43myR8BqFx8jzsFsmuDIrM"
+      },
+      "artists": [
+        {
+          "name": "Isaac Trager",
+          "url": "https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103017,
+      "name": "Have You Seen My Elephant",
+      "url": "https://open.spotify.com/track/0qkyj9lNeuM5xpCu8jIujE"
     },
     {
       "album": {
@@ -4876,7 +4912,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 107435,
       "name": "I'm A Little Teapot",
       "url": "https://open.spotify.com/track/06RzCGm2cRB45iAa23ib7L"
@@ -4948,7 +4984,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109750,
       "name": "If Apples Were Pears",
       "url": "https://open.spotify.com/track/2VKDzfPKBkPHi09Ig5e0Vl"
@@ -6107,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Longing For Tomorrow",
+        "url": "https://open.spotify.com/album/0szpDKcDuA7FT2X3Jd2VTd"
+      },
+      "artists": [
+        {
+          "name": "Julie Isabey",
+          "url": "https://open.spotify.com/artist/3fRG2O4eMqo0d3ckUtokHZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121454,
+      "name": "Longing For Tomorrow",
+      "url": "https://open.spotify.com/track/2BGakftfse8xujTe2YYi3y"
+    },
+    {
+      "album": {
         "name": "Looby Loo",
         "url": "https://open.spotify.com/album/2n4JGmlRLImBzcHg5JqIU6"
       },
@@ -6280,7 +6334,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 83924,
       "name": "Lullaby in D",
       "url": "https://open.spotify.com/track/4VTO5d8raL1JLbOOPGhzRi"
@@ -6622,7 +6676,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112659,
       "name": "Millie's Dreamscape",
       "url": "https://open.spotify.com/track/4Wmyb2gkb23YWhfE4ndDED"
@@ -6899,6 +6953,24 @@
     },
     {
       "album": {
+        "name": "Mozart's Lullaby",
+        "url": "https://open.spotify.com/album/5h1gmYwV2i7fY5dCaAv1h8"
+      },
+      "artists": [
+        {
+          "name": "Jenn Higgins",
+          "url": "https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165604,
+      "name": "Mozart's Lullaby",
+      "url": "https://open.spotify.com/track/4XHfiySp1vcvnJHx8TDI97"
+    },
+    {
+      "album": {
         "name": "Mo\u0301j Anio\u0142",
         "url": "https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf"
       },
@@ -7108,7 +7180,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 85043,
       "name": "My Island",
       "url": "https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q"
@@ -7468,7 +7540,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132318,
       "name": "Nico's Night Kitchen",
       "url": "https://open.spotify.com/track/2dzJf8gFHlxwc2bKzHClsj"
@@ -7936,7 +8008,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117159,
       "name": "Papa Pop",
       "url": "https://open.spotify.com/track/1AibXNZT8pbhjnStJd63Fz"
@@ -8260,7 +8332,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 103250,
       "name": "Puff The Magic Dragon",
       "url": "https://open.spotify.com/track/1cXvqDajsLElbz2e3DPPwX"
@@ -8393,6 +8465,24 @@
     },
     {
       "album": {
+        "name": "Rainbow Adventure",
+        "url": "https://open.spotify.com/album/3mgXdcedjdI3mMDfDFIkq6"
+      },
+      "artists": [
+        {
+          "name": "Cosima Bradley",
+          "url": "https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105124,
+      "name": "Rainbow Adventure",
+      "url": "https://open.spotify.com/track/70pCpX4MhWth17o0Yt6PK9"
+    },
+    {
+      "album": {
         "name": "Rat In The Hat",
         "url": "https://open.spotify.com/album/7p8i5EqvUcTzLKlYZR8QId"
       },
@@ -8494,7 +8584,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 76624,
       "name": "Right here beside you",
       "url": "https://open.spotify.com/track/2zJJOSHZ0nhtQWKRdf9mzJ"
@@ -8512,7 +8602,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 83927,
       "name": "Ring a Ring o' Roses",
       "url": "https://open.spotify.com/track/68pyTifNE7LP2pE3yiIttF"
@@ -8825,6 +8915,24 @@
     },
     {
       "album": {
+        "name": "Skip To my Lou",
+        "url": "https://open.spotify.com/album/7KysLXz73g7ESeCqiq8y3S"
+      },
+      "artists": [
+        {
+          "name": "Bella Wilkinsson",
+          "url": "https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125670,
+      "name": "Skip To my Lou",
+      "url": "https://open.spotify.com/track/6nS45BdXiMB36GD9zo5anE"
+    },
+    {
+      "album": {
         "name": "Skymningsvisan",
         "url": "https://open.spotify.com/album/1s8qEltYoiq8U80SzLuEoi"
       },
@@ -8858,6 +8966,24 @@
       "duration_ms": 106750,
       "name": "Slaapliedje",
       "url": "https://open.spotify.com/track/3cjgdSOVY0j6czqRCpRATA"
+    },
+    {
+      "album": {
+        "name": "Sleep Again",
+        "url": "https://open.spotify.com/album/5ZdXMNj1uc91eG9Rzy0YBQ"
+      },
+      "artists": [
+        {
+          "name": "Zack Allen",
+          "url": "https://open.spotify.com/artist/66Lcw9CT6905ShD7NP1eNe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82286,
+      "name": "Sleep Again",
+      "url": "https://open.spotify.com/track/6gaUE3ZqXMzNwfyI1UMIWe"
     },
     {
       "album": {
@@ -9034,7 +9160,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106000,
       "name": "Sleepover",
       "url": "https://open.spotify.com/track/1NfEpiH414ouf7SkjBYGT2"
@@ -9268,7 +9394,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 107750,
       "name": "Sloop John B",
       "url": "https://open.spotify.com/track/7LXjN2ax1g6aMHFWgYM4CZ"
@@ -9740,6 +9866,24 @@
       "duration_ms": 108932,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/3TlnOqKkYPNDl4bxvS5RaB"
+    },
+    {
+      "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Roy",
+          "url": "https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100766,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0"
     },
     {
       "album": {
@@ -10222,7 +10366,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123124,
       "name": "The Little Bird",
       "url": "https://open.spotify.com/track/47iYEf93v87iFkvfiMVxht"
@@ -10690,7 +10834,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97750,
       "name": "This Little Light Of Mine",
       "url": "https://open.spotify.com/track/5iTPN58ZyTmMaMshmlGd46"
@@ -10982,6 +11126,24 @@
       "duration_ms": 121565,
       "name": "Tommy the night chaser",
       "url": "https://open.spotify.com/track/63tqoMYDKImlqxRfWe9DUV"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's My Birthday",
+        "url": "https://open.spotify.com/album/2nrX2Tm2DD7TSLElF5spPj"
+      },
+      "artists": [
+        {
+          "name": "Nova Gr\u00f6ndahl",
+          "url": "https://open.spotify.com/artist/5iC56LTfQWfAWfvkqLAFf3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Tomorrow's My Birthday",
+      "url": "https://open.spotify.com/track/79AyuZChYLB0IAWbBgb0b6"
     },
     {
       "album": {
@@ -11630,6 +11792,24 @@
       "duration_ms": 84250,
       "name": "When I See a Smiling Face",
       "url": "https://open.spotify.com/track/2TFM4euog31cKxuFN9jCdT"
+    },
+    {
+      "album": {
+        "name": "When I Was A Little Child",
+        "url": "https://open.spotify.com/album/4raxmTXNLKrd4L3fhM9EDD"
+      },
+      "artists": [
+        {
+          "name": "Goodwin Hart",
+          "url": "https://open.spotify.com/artist/0ZhiIKLSPHpPBu3760ZI7E"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73506,
+      "name": "When I Was A Little Child",
+      "url": "https://open.spotify.com/track/1WnJDLGBf4Q5C1tdaUif3r"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 201176,
+  "2024-04-19": 201241,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -3208,6 +3208,24 @@
     },
     {
       "album": {
+        "name": "Poor Symmetry / Cities",
+        "url": "https://open.spotify.com/album/624PNGP795hhIwigo5ixXg"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121760,
+      "name": "Poor Symmetry",
+      "url": "https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX"
+    },
+    {
+      "album": {
         "name": "Right as Rain",
         "url": "https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2"
       },
@@ -3443,7 +3461,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"

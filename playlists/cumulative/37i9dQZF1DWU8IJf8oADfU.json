@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221680,
       "name": "Bobo au c\u0153ur",
       "url": "https://open.spotify.com/track/2XlLHcTNLBkxqCdKasBrRM"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 221680,
       "name": "Bobo au c\u0153ur",
       "url": "https://open.spotify.com/track/4ZJURpomulGIURxYSvO1Xd"
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Cosmopolitanie",
+        "url": "https://open.spotify.com/album/7wPAJt1V03jtxQ9Zg7rtbm"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Cosmo",
+      "url": "https://open.spotify.com/track/2XuQL2G6waqiSgHotdoWVi"
+    },
+    {
+      "album": {
         "name": "Cosmopolitanie (Cosmo Tour Edition)",
         "url": "https://open.spotify.com/album/2fO5Fk1US9U0WD20z1jg5Q"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183906,
       "name": "Cosmo",
       "url": "https://open.spotify.com/track/6nieKIs3A2XxP5zZNrz3p8"
@@ -211,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Dingue",
+        "url": "https://open.spotify.com/album/0u4B5w33hxcs1CwmEkGfff"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205985,
+      "name": "Dingue",
+      "url": "https://open.spotify.com/track/44tpuxqRh7xeknjUJCU6xj"
+    },
+    {
+      "album": {
         "name": "Chasseur d'\u00e9toiles",
         "url": "https://open.spotify.com/album/35CCZ7wWetfK32serxdHS6"
       },
@@ -222,7 +258,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206106,
       "name": "Dingue",
       "url": "https://open.spotify.com/track/2NXk38cqDXz1qY6E1ADlKA"
@@ -247,8 +283,8 @@
     },
     {
       "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
+        "name": "Doudou",
+        "url": "https://open.spotify.com/album/4PYeMFSKdsqm3bHO9bt4uK"
       },
       "artists": [
         {
@@ -261,7 +297,43 @@
       "date_removed": null,
       "duration_ms": 168719,
       "name": "Doudou",
+      "url": "https://open.spotify.com/track/30WpoaLVDKtlnNnzoEcN2p"
+    },
+    {
+      "album": {
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 168719,
+      "name": "Doudou",
       "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
+    },
+    {
+      "album": {
+        "name": "L'Everest",
+        "url": "https://open.spotify.com/album/6jnZT7krckxCFer0Oz2JbB"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "En feu",
+      "url": "https://open.spotify.com/track/5rg6jVjcRlnifV86hAA6ro"
     },
     {
       "album": {
@@ -276,7 +348,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205293,
       "name": "En feu",
       "url": "https://open.spotify.com/track/6FxIFhVlOvI1wcXWe8LKei"
@@ -302,7 +374,7 @@
     {
       "album": {
         "name": "La cour des grands",
-        "url": "https://open.spotify.com/album/0TwkVtzgTlt1Y9kwsqkTCQ"
+        "url": "https://open.spotify.com/album/6lTELdxiiN3WUNfw0Ee1dy"
       },
       "artists": [
         {
@@ -313,6 +385,24 @@
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219440,
+      "name": "Gangsta - Bonus",
+      "url": "https://open.spotify.com/track/6lJyAYFwECkXKl4mjZUdvi"
+    },
+    {
+      "album": {
+        "name": "La cour des grands",
+        "url": "https://open.spotify.com/album/0TwkVtzgTlt1Y9kwsqkTCQ"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 219440,
       "name": "Gangsta - Bonus",
       "url": "https://open.spotify.com/track/7IFJNcevREJV8ZkIeITQGm"
@@ -334,10 +424,54 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207076,
       "name": "Grand bain",
       "url": "https://open.spotify.com/track/0W4MOQ2kTOm1y7ooahgQP1"
+    },
+    {
+      "album": {
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/7vll2UdYabMRy58Md168VB"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207076,
+      "name": "Grand bain",
+      "url": "https://open.spotify.com/track/1fyVvRQsa095P7QK5Um7xH"
+    },
+    {
+      "album": {
+        "name": "Ceinture noire (Transcendance)",
+        "url": "https://open.spotify.com/album/1YXFTSMHY8kqwiJDDuOIrH"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205853,
+      "name": "Hola Se\u00f1orita",
+      "url": "https://open.spotify.com/track/4DaMDiRi2VukvrLfJDtmTu"
     },
     {
       "album": {
@@ -356,7 +490,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206853,
       "name": "Hola Se\u00f1orita",
       "url": "https://open.spotify.com/track/7as5IRLG32wsI0Zf7kT3BL"
@@ -428,10 +562,50 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234174,
       "name": "Jusqu'ici tout va bien",
       "url": "https://open.spotify.com/track/3nFeSrghy0gmuhkuPPiXzQ"
+    },
+    {
+      "album": {
+        "name": "LE FL\u00c9AU",
+        "url": "https://open.spotify.com/album/6LBP1SXkgsyA45RMKv5Uaz"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "JUSQU'ICI TOUT VA BIEN",
+      "url": "https://open.spotify.com/track/5Re3VKVOVnEhUi2TF56dMz"
+    },
+    {
+      "album": {
+        "name": "Ceinture noire",
+        "url": "https://open.spotify.com/album/3Ivl72MtrJqHqzla3ar7fG"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "La m\u00eame",
+      "url": "https://open.spotify.com/track/7HK0UeyxUWJjc6ndRZVKFg"
     },
     {
       "album": {
@@ -450,7 +624,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200040,
       "name": "La m\u00eame",
       "url": "https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc"
@@ -526,10 +700,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234880,
       "name": "Ma p'tite \u00e9toile",
       "url": "https://open.spotify.com/track/4MQgqO4HollqhSs1Cu9xRR"
+    },
+    {
+      "album": {
+        "name": "vague \u00e0 l'\u00e2me",
+        "url": "https://open.spotify.com/album/4PYEbjC6QDMvJ7rNtRBG3U"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "ma p'tite \u00e9toile",
+      "url": "https://open.spotify.com/track/7iSEs4lppLZQEPOG4e6BbF"
     },
     {
       "album": {
@@ -544,10 +736,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208893,
       "name": "Ma vie",
       "url": "https://open.spotify.com/track/04c9W375VlrbMF7P03CyWA"
+    },
+    {
+      "album": {
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Ma vie",
+      "url": "https://open.spotify.com/track/2WFa5RbfyeoBDGNkg3OD7M"
     },
     {
       "album": {
@@ -711,6 +921,24 @@
     },
     {
       "album": {
+        "name": "L'adresse",
+        "url": "https://open.spotify.com/album/4e7ePEb65YZL6niyu77tzn"
+      },
+      "artists": [
+        {
+          "name": "47ter",
+          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "On avait dit",
+      "url": "https://open.spotify.com/track/1fcdOjdABHDVZhHquEsjCG"
+    },
+    {
+      "album": {
         "name": "L\u2019adresse",
         "url": "https://open.spotify.com/album/20bhNmXgWXqmUDj7qKzvjk"
       },
@@ -722,10 +950,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220546,
       "name": "On avait dit",
       "url": "https://open.spotify.com/track/2BdvlpzLMtnrRX24NLIpu5"
+    },
+    {
+      "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/4WW3ME0M2dUoAK5hmbXsN7"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Papaoutai",
+      "url": "https://open.spotify.com/track/09TcIuH1ZO7i4vicWKoaN2"
     },
     {
       "album": {
@@ -740,7 +986,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232146,
       "name": "Papaoutai",
       "url": "https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj"
@@ -794,10 +1040,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258532,
       "name": "Pr\u00e8s des \u00e9toiles",
       "url": "https://open.spotify.com/track/606aizRf62P9rqTD02jfTn"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e8s des \u00e9toiles",
+        "url": "https://open.spotify.com/album/0ZE9FqDi1FPtSLltM3uOVx"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259819,
+      "name": "Pr\u00e8s des \u00e9toiles",
+      "url": "https://open.spotify.com/track/3Mxx5gTDRjUF5u7q5NRChG"
     },
     {
       "album": {
@@ -830,7 +1094,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89"
@@ -848,10 +1112,32 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7"
+    },
+    {
+      "album": {
+        "name": "Ceinture noire (Transcendance)",
+        "url": "https://open.spotify.com/album/1YXFTSMHY8kqwiJDDuOIrH"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230520,
+      "name": "Reste",
+      "url": "https://open.spotify.com/track/2vruJV9zbgg0CE1x14vVFW"
     },
     {
       "album": {
@@ -870,7 +1156,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231520,
       "name": "Reste",
       "url": "https://open.spotify.com/track/4F0B8TLdJVACskfkkTqHDI"
@@ -946,10 +1232,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210933,
       "name": "Tous les m\u00eames",
       "url": "https://open.spotify.com/track/1GC1MIaRMW3kfVK9VyD5Ii"
+    },
+    {
+      "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "Tous les m\u00eames",
+      "url": "https://open.spotify.com/track/6M4nkEPZMj58acftDRTuKL"
     },
     {
       "album": {
@@ -982,10 +1286,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197807,
       "name": "Yolo",
       "url": "https://open.spotify.com/track/2u4IJKewUvcJ9B6Wng92PI"
+    },
+    {
+      "album": {
+        "name": "YOLO",
+        "url": "https://open.spotify.com/album/30QYcuW7Ht7icND1G9GXOv"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "YOLO",
+      "url": "https://open.spotify.com/track/4U5z5mT5tPddqPSdJGgISV"
     },
     {
       "album": {

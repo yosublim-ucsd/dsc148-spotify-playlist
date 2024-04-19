@@ -1,29 +1,13 @@
 {
   "description": "Gentle Ambient piano to help you fall asleep. ",
-  "num_followers": 5824707,
+  "num_followers": 5824673,
   "original_name": "Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjM0NDcyMCwwMDAwMDAwMDFlYWEyY2QzMTQzNzgzZGQxZjZmNDViMDY1MmY4ZWZl",
+  "snapshot_id": "MTcxMzM4NzI2NywwMDAwMDAwMDg0NWZmNTNkZDQwMTc4MTRlN2VmZTFhMzAwOTRjYzM2",
   "tracks": [
-    {
-      "added_at": "2024-04-05 19:18:40",
-      "album": {
-        "name": "Somnisonic",
-        "url": "https://open.spotify.com/album/09sd9ZHGWdZn4fgFOTta4D"
-      },
-      "artists": [
-        {
-          "name": "Broken Peak",
-          "url": "https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Somnisonic",
-      "url": "https://open.spotify.com/track/5AQQYMkVL7216ZVuPytjwL"
-    },
     {
       "added_at": "2024-04-05 19:18:40",
       "album": {
@@ -107,22 +91,6 @@
     {
       "added_at": "2024-04-05 19:18:40",
       "album": {
-        "name": "Objective",
-        "url": "https://open.spotify.com/album/1YdahLfv3hpyyb6Ii3MRX2"
-      },
-      "artists": [
-        {
-          "name": "iav\u00fa",
-          "url": "https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my"
-        }
-      ],
-      "duration_ms": 163616,
-      "name": "Process",
-      "url": "https://open.spotify.com/track/4E8YeBmbDsmD1YwTbCaFIB"
-    },
-    {
-      "added_at": "2024-04-05 19:18:40",
-      "album": {
         "name": "Anthazit Plastics",
         "url": "https://open.spotify.com/album/1qhzVs7AkR7CihkNpUtPFW"
       },
@@ -167,22 +135,6 @@
       "duration_ms": 192000,
       "name": "Nordic Dusk",
       "url": "https://open.spotify.com/track/45QSxAYVRenwmZrXV1RNpq"
-    },
-    {
-      "added_at": "2024-04-05 19:18:40",
-      "album": {
-        "name": "Retrospect",
-        "url": "https://open.spotify.com/album/1FzOrekTb5ucVOISuozDmT"
-      },
-      "artists": [
-        {
-          "name": "Aveni\u00f3s",
-          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
-        }
-      ],
-      "duration_ms": 184215,
-      "name": "Retrospect",
-      "url": "https://open.spotify.com/track/4RpF62shn8RYyf3DBk3fD7"
     },
     {
       "added_at": "2024-04-05 19:18:40",

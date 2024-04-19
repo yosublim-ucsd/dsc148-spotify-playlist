@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 423307,
       "name": "10AM Fuse",
       "url": "https://open.spotify.com/track/03cy6hMyW9Y07tJuF2bIg3"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423307,
       "name": "10AM Fuse",
       "url": "https://open.spotify.com/track/0AJEiWfdAGWwaNOvGihMm4"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 462272,
       "name": "Ability",
       "url": "https://open.spotify.com/track/7ghUVGtSZkykdiyuLrlSlc"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 462272,
       "name": "Ability",
       "url": "https://open.spotify.com/track/3qTPgwRHfPGuUcn5np2eRd"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 416564,
       "name": "Are",
       "url": "https://open.spotify.com/track/7BFtBkBDHS6zE88YArWLXt"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 416564,
       "name": "Are - Original Mix",
       "url": "https://open.spotify.com/track/5QDsh9ZNgu9qcTqylZU4f9"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 410625,
       "name": "Argew Neka",
       "url": "https://open.spotify.com/track/4l5AI3HABaFdNdRotdZxnu"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 410625,
       "name": "Argew Neka - Original Mix",
       "url": "https://open.spotify.com/track/7gkl3FdlQQ2XdUtqrbTkxm"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 207096,
       "name": "Aye Papi",
       "url": "https://open.spotify.com/track/4UJAKQiPqouKS5wgQmOyKI"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207096,
       "name": "Aye Papi",
       "url": "https://open.spotify.com/track/4zI9GA4AtPy79J0d3kfWTB"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 361961,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1AnpldetwK3OnL6tLrvgzf"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361961,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/7LXUtbXzPV4N4CyA3IS1u0"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 436093,
       "name": "Brace Yourself - Nathan Barato \u2019Skies Of Blue\u2019 Remix",
       "url": "https://open.spotify.com/track/4G8iUTDZBv7QHmTiMLw3s2"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 436093,
       "name": "Brace Yourself - Nathan Barato \u2019Skies Of Blue\u2019 Remix",
       "url": "https://open.spotify.com/track/4InL3SayTKfgsTF5qcukvl"
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Young Turks 2011",
+        "url": "https://open.spotify.com/album/0L4a39z6JTdAiFk9EyByZd"
+      },
+      "artists": [
+        {
+          "name": "Creep",
+          "url": "https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333261,
+      "name": "Days (Soul Clap Remix)",
+      "url": "https://open.spotify.com/track/29EjwtW50fbcVAgAYEjfcn"
+    },
+    {
+      "album": {
         "name": "Days (Remixes)",
         "url": "https://open.spotify.com/album/6GdH73bw6Zkjo2p5M6zLkX"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333261,
       "name": "Days - Soul Clap Remix",
       "url": "https://open.spotify.com/track/3YBL3hMnn9SliOQWCLc1ND"
@@ -660,7 +678,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 415417,
       "name": "Doin Ya Thang",
       "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
@@ -696,7 +714,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 415417,
       "name": "Doin' Ya Thang",
       "url": "https://open.spotify.com/track/3j8xObsGOilqWptFLy8ngi"
@@ -772,10 +790,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 370575,
       "name": "Eva Mendes",
       "url": "https://open.spotify.com/track/1vYWhDlMNMKZBGcPxCH7CV"
+    },
+    {
+      "album": {
+        "name": "Eva Mendes EP",
+        "url": "https://open.spotify.com/album/1sRpxUK31y4XkuemwPC4xj"
+      },
+      "artists": [
+        {
+          "name": "Mosca",
+          "url": "https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370575,
+      "name": "Eva Mendes",
+      "url": "https://open.spotify.com/track/76f1VjHUlJEaibs51joj84"
     },
     {
       "album": {
@@ -808,7 +844,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 421853,
       "name": "Evening Drive",
       "url": "https://open.spotify.com/track/1gSArrE11Keig6Eu1YeWmB"
@@ -826,7 +862,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 421853,
       "name": "Evening Drive",
       "url": "https://open.spotify.com/track/25iuPAsp2Rd7GRnnn2yHjo"
@@ -971,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/2BWz7RNJ8bgOs2WKOsg0hw"
+      },
+      "artists": [
+        {
+          "name": "Babert",
+          "url": "https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/0rQ0q7P1hJdppARdNAAT9e"
+    },
+    {
+      "album": {
         "name": "Get Up and Boogie (Incl. DJ Mix)",
         "url": "https://open.spotify.com/album/4Evp085sUb81ZQR9uNgEVH"
       },
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 416000,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/1mBi0I0DxUFJOXy9TJeGbN"
@@ -1047,6 +1101,28 @@
     },
     {
       "album": {
+        "name": "Kehakuma (Mixed & Selected By Nick Curly) [incl. 2 DJ Mixes By Nick Curly]",
+        "url": "https://open.spotify.com/album/4GcDXjz2irwKzP0AZVa0A6"
+      },
+      "artists": [
+        {
+          "name": "Matthew Dekay",
+          "url": "https://open.spotify.com/artist/1ehDqG6bFGAurxlAJeQgNT"
+        },
+        {
+          "name": "Lee Burridge",
+          "url": "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531398,
+      "name": "F\u00fcr die Liebe",
+      "url": "https://open.spotify.com/track/2ZG24F3kaLy8RqBEDZ1cDG"
+    },
+    {
+      "album": {
         "name": "Kehakuma (Mixed & Selected By Nick Curly)",
         "url": "https://open.spotify.com/album/5n7aBkEjF23GCSSfVzNt2O"
       },
@@ -1062,7 +1138,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 531398,
       "name": "F\u00fcr die Liebe",
       "url": "https://open.spotify.com/track/3r8tDBdCl4WgDVcnNbubKR"
@@ -1138,7 +1214,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 418098,
       "name": "Groove Dealer",
       "url": "https://open.spotify.com/track/0NDbTnVPCszdI2G9FQWfKx"
@@ -1156,7 +1232,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 418098,
       "name": "Groove Dealer",
       "url": "https://open.spotify.com/track/15DbcMMMTNN9RmK50FmnmR"
@@ -1192,10 +1268,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 451873,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/6qxyMoLo0J27GfZcKJtF7o"
+    },
+    {
+      "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/1zzNgVXcHUu1hw1iHEWtpn"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451873,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/7FfcZjLw8j8wJ3eBteDNiP"
     },
     {
       "album": {
@@ -1246,7 +1340,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 518354,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/6Zxdm6bUA9q8lHwrJdBCGa"
@@ -1264,7 +1358,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 518355,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/6267UX7DYUa30kmM9AZPbH"
@@ -1478,7 +1572,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 171693,
       "name": "Madame Hollywood",
       "url": "https://open.spotify.com/track/0nlKdW660sF14hleQgyxgL"
@@ -1496,7 +1590,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171693,
       "name": "Madame Hollywood",
       "url": "https://open.spotify.com/track/6yxsaBtCTog7814X7GjDEv"
@@ -1602,7 +1696,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 438794,
       "name": "Midnight Lullaby",
       "url": "https://open.spotify.com/track/0y7pQWgtDZ4Rhx5I1LseV2"
@@ -1620,7 +1714,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 438794,
       "name": "Midnight Lullaby",
       "url": "https://open.spotify.com/track/39vf62opOHTgnMh0bWSwju"
@@ -1722,7 +1816,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 409600,
       "name": "Natural (feat. Shyam P)",
       "url": "https://open.spotify.com/track/1qKR2dihENUiOhMN2FH9CR"
@@ -1744,7 +1838,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 409600,
       "name": "Natural feat. Shyam P",
       "url": "https://open.spotify.com/track/3edK8msyqzz5CdIc19A6ug"
@@ -1762,7 +1856,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445985,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/0thtDHQ4LsCJQQS4W7zQWc"
@@ -1820,6 +1914,24 @@
       "duration_ms": 445985,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/55NdNir1D7TTBKKBITlJBD"
+    },
+    {
+      "album": {
+        "name": "Muppet Anthem",
+        "url": "https://open.spotify.com/album/0eN9ceO9SCs8KEUybkNk57"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445985,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/7tAYUX7rWlyMzQBww97GLV"
     },
     {
       "album": {
@@ -1886,7 +1998,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 247703,
       "name": "PAMOJA - Tayllor Remix",
       "url": "https://open.spotify.com/track/1UN9wXD1hlNsIUu4qY4lr2"
@@ -1916,7 +2028,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247703,
       "name": "PAMOJA - Tayllor Remix",
       "url": "https://open.spotify.com/track/2bHG9ylEwtJuUwc5knX1wt"
@@ -2032,7 +2144,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 391875,
       "name": "Ready To Work",
       "url": "https://open.spotify.com/track/27NjlzrVKsixAkNDJJnPXe"
@@ -2050,7 +2162,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 391875,
       "name": "Ready To Work",
       "url": "https://open.spotify.com/track/4tgVHmJylmMyE1IpH8ppFb"
@@ -2196,7 +2308,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 182533,
       "name": "Sandwiches",
       "url": "https://open.spotify.com/track/4sn8WNN1joO0xEk9xrZbB8"
@@ -2214,7 +2326,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182533,
       "name": "Sandwiches - Radio Edit",
       "url": "https://open.spotify.com/track/5JwYRre2g3wFpeELRlY306"
@@ -2480,7 +2592,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 438723,
       "name": "Te amo",
       "url": "https://open.spotify.com/track/2CW2dYj1EvbQs35XufHkit"
@@ -2498,7 +2610,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 438723,
       "name": "Te amo",
       "url": "https://open.spotify.com/track/6QVthPYXu8EP44mmjzzGaR"
@@ -2516,7 +2628,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 377660,
       "name": "Teleported",
       "url": "https://open.spotify.com/track/389hyI9sMvHVruG0dTD4Vi"
@@ -2570,7 +2682,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377660,
       "name": "Teleported",
       "url": "https://open.spotify.com/track/7heSSw0hfdNIYpueqZhuD0"
@@ -2614,7 +2726,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 203709,
       "name": "Thrillseekers - Chuck Daniels Remix",
       "url": "https://open.spotify.com/track/0ieIy1W942FYBHHk0QWsLQ"
@@ -2640,7 +2752,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203709,
       "name": "Thrillseekers - Chuck Daniels Remix",
       "url": "https://open.spotify.com/track/20RR0EfYPY1KfEHsktMmbC"
@@ -2676,7 +2788,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 417701,
       "name": "Trojan",
       "url": "https://open.spotify.com/track/00m6m26lE6LZlOGLesqg8g"
@@ -2694,7 +2806,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 417701,
       "name": "Trojan",
       "url": "https://open.spotify.com/track/2msoOJb4doUd2uBlFSXiKU"
@@ -2734,6 +2846,28 @@
       "duration_ms": 486266,
       "name": "U Don't Know Me",
       "url": "https://open.spotify.com/track/4xKSVV3RjBs9vPyrHpuslU"
+    },
+    {
+      "album": {
+        "name": "2 Future 4 U",
+        "url": "https://open.spotify.com/album/00XVrVh53A6ENcRbErr81y"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484533,
+      "name": "U Don't Know Me (feat. Duane Harden)",
+      "url": "https://open.spotify.com/track/0TN9m8rp3ZuNi4JwCKSans"
     },
     {
       "album": {
@@ -2795,6 +2929,32 @@
     },
     {
       "album": {
+        "name": "fabric presents The Martinez Brothers (DJ Mix)",
+        "url": "https://open.spotify.com/album/2kHNkKY2h0tgLodOl8x9ff"
+      },
+      "artists": [
+        {
+          "name": "Trevor Rockcliffe",
+          "url": "https://open.spotify.com/artist/6I403EVfXQvbFhyo5JMAXe"
+        },
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "Visions Of You - Mixed - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/13ilUvlGLFnt82qEBIZRtj"
+    },
+    {
+      "album": {
         "name": "fabric Presents The Martinez Brothers",
         "url": "https://open.spotify.com/album/4A8VlcMnQsSLRPxf3mH7Eg"
       },
@@ -2814,7 +2974,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151373,
       "name": "Visions of You - Mixed - Carl Cox Remix",
       "url": "https://open.spotify.com/track/2UgwEn6H8ZXAT46kfkWruV"
@@ -2884,7 +3044,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 608847,
       "name": "We Are Phuture - Ricardo Villalobos Phutur II Remix",
       "url": "https://open.spotify.com/track/1GY1JgiNrJ1tBEFbP1KgoR"
@@ -2906,7 +3066,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 608847,
       "name": "We Are Phuture - Ricardo Villalobos Phutur II Remix",
       "url": "https://open.spotify.com/track/1NecUZbmNXoob3jY3kGcG5"
@@ -3022,7 +3182,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 493560,
       "name": "You Don't Know Me (feat. Duane Harden)",
       "url": "https://open.spotify.com/track/6j7Fdvi61J0qwjqh1OPeFM"
@@ -3040,7 +3200,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 559441,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/4XZh0TiPxsHO1x1cbRM7ue"
@@ -3058,7 +3218,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 559441,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/4bYttstgD6j3kw7EsBe5MF"

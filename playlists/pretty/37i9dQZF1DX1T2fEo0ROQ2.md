@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,555 likes - 244 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,774 likes - 244 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 41 | [Bound](https://open.spotify.com/track/3XQSFyFxgCGKOKRqtmAAMM) | [Miuna](https://open.spotify.com/artist/5RzVJFB7a7Xbd0sMx7gFH7) | [Shine On](https://open.spotify.com/album/24jlpflXVOUZlACOIbEmvn) | 2:24 |
 | 42 | [Sunset Sky](https://open.spotify.com/track/7vwmP5FaH3TNKrJ5MBXSF8) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [Sunset Sky](https://open.spotify.com/album/59WTZuYhCDdgKZs5a2EawB) | 3:09 |
 | 43 | [Transformation](https://open.spotify.com/track/44HOZHZoUZzpN4E9bzIrWS) | [Mike Molloy](https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r) | [Transformation](https://open.spotify.com/album/3XpER6PtBk6JcO8Rp076eB) | 2:40 |
-| 44 | [Earthly Love](https://open.spotify.com/track/5dkXkBZcI58lWOTVzZl8id) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/1AS3GOWwU940geT2t10CH6) | 2:33 |
+| 44 | [Earthly Love](https://open.spotify.com/track/4HdAZDJUp0fCPhTaSjPco6) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/55WYwfIVdbZLRmbAltgiSy) | 2:33 |
 | 45 | [Pas De Soucis](https://open.spotify.com/track/5vNmFEcBUbdiM0gIP2rpyj) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Pas De Soucis](https://open.spotify.com/album/5mUbuyifZ9AykEdvXPcqtQ) | 2:19 |
 | 46 | [Pressure Behavior](https://open.spotify.com/track/22aK1Gkcy25yWYHtHPB2zJ) | [Udda Jnhale](https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P) | [I start to feel](https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK) | 3:18 |
 | 47 | [Himmel](https://open.spotify.com/track/27baICs60YE6REfpKvtmDV) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Himmel](https://open.spotify.com/album/6lSg3KYWMk1wgl6lpEhda8) | 3:05 |

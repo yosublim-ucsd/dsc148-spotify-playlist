@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 168148,
+  "2024-04-19": 168302,
   "date_first_scraped": "2022-12-10",
   "description": "Updated weekly | Hardstyle | Cover: The Partysquad & Kalibwoy",
   "name": "Hardstyle Adrenaline! 2024",
@@ -3291,10 +3291,32 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 267204,
       "name": "Dear Hardstyle",
       "url": "https://open.spotify.com/track/1vFzkN48urpPfQPmjL2T5p"
+    },
+    {
+      "album": {
+        "name": "Dear Hardstyle",
+        "url": "https://open.spotify.com/album/7g5E1phZKm5sXwyqUHzw8y"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267204,
+      "name": "Dear Hardstyle",
+      "url": "https://open.spotify.com/track/6130FU2gzw9DSmRvADaIzt"
     },
     {
       "album": {

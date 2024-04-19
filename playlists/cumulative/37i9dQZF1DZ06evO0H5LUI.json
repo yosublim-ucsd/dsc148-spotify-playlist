@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156168,
       "name": "Desamor Feliz Pt. 2",
       "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
@@ -384,6 +384,24 @@
       "duration_ms": 210474,
       "name": "El Mejor Amigo",
       "url": "https://open.spotify.com/track/0xRVhzvHkRBXbp25NRDotY"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130280,
+      "name": "Embassy",
+      "url": "https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd"
     },
     {
       "album": {
@@ -608,7 +626,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143133,
       "name": "ILY <3",
       "url": "https://open.spotify.com/track/3wSyg1wUNJ4Q2QjJpHJYla"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152000,
       "name": "La Habanera",
       "url": "https://open.spotify.com/track/4t1wJfxOwUBsMpYVPnQhQm"
@@ -674,6 +692,24 @@
       "duration_ms": 176197,
       "name": "Limones",
       "url": "https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128468,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4zDiVVyYSzr6TGSatj8Ahc"
     },
     {
       "album": {
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 168008,
       "name": "Savana",
       "url": "https://open.spotify.com/track/1W7DaHbDQXBReaBCFylleA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Polaris Pauline",
+  "description": "East Africa queens in their music bag. Cover: Polaris Mayonde",
   "name": "Malkia",
   "tracks": [
     {
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195398,
       "name": "Kwakwaru",
       "url": "https://open.spotify.com/track/5jmyQzE9SSxsdXUAkl8QPo"
@@ -798,6 +798,24 @@
       "duration_ms": 194037,
       "name": "Leeta",
       "url": "https://open.spotify.com/track/2OeysGms4a3xc6aksHte29"
+    },
+    {
+      "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
     },
     {
       "album": {
@@ -906,7 +924,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 198368,
       "name": "Maajab",
       "url": "https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ"
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198368,
       "name": "Maajab (Deluxe Version)",
       "url": "https://open.spotify.com/track/3vroJW3uILAcovFGkrMp3G"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141818,
       "name": "Matozo",
       "url": "https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7"
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 141853,
       "name": "Matozo",
       "url": "https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-20",
+      "date_removed": null,
       "duration_ms": 164443,
       "name": "Penzi Wa Kasi",
       "url": "https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu"
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164443,
       "name": "Penzi Wa Kasi",
       "url": "https://open.spotify.com/track/53scc3D6nerhdtZKAFkr0b"
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181565,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX"
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234666,
       "name": "Sitachelewa",
       "url": "https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234666,
       "name": "Sitachelewa",
       "url": "https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1"
@@ -1950,6 +1968,24 @@
       "duration_ms": 144572,
       "name": "Southwards",
       "url": "https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ"
+    },
+    {
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/44sCzg740j9nuzoyPrOh7O"
+      },
+      "artists": [
+        {
+          "name": "Mayonde",
+          "url": "https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/45cDu30IifztKis1wPt2En"
     },
     {
       "album": {

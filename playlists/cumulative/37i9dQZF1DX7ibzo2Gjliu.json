@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273373,
+      "name": "Am\u00e9rica, Am\u00e9rica",
+      "url": "https://open.spotify.com/track/3Byrr4mWMxKC6JhNw51MCs"
+    },
+    {
+      "album": {
         "name": "Am\u00e9rica / Contigo En La Distancia (Live)",
         "url": "https://open.spotify.com/album/3QZ3Wj0Uh0gH4nAYuEwxH6"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273373,
       "name": "Am\u00e9rica, Am\u00e9rica",
       "url": "https://open.spotify.com/track/5sz7gZG0kpQILXfUpxCbtO"
@@ -250,10 +268,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183223,
       "name": "Decidete",
       "url": "https://open.spotify.com/track/0t4Z131i0IVcWfSvCxSeZd"
+    },
+    {
+      "album": {
+        "name": "La Miel De Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oHF59HQoCwm67wXS4OzPK"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183223,
+      "name": "Decidete",
+      "url": "https://open.spotify.com/track/1Bj38BvqH19WTe5AFq3fMJ"
     },
     {
       "album": {
@@ -412,10 +448,46 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157484,
       "name": "Isabel",
       "url": "https://open.spotify.com/track/4cDNMGoDFdjXgxpZEyP6wH"
+    },
+    {
+      "album": {
+        "name": "La Miel De Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oHF59HQoCwm67wXS4OzPK"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157484,
+      "name": "Isabel",
+      "url": "https://open.spotify.com/track/5uOQOPnVsGpyPkZn1EHweO"
+    },
+    {
+      "album": {
+        "name": "La Miel De Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oHF59HQoCwm67wXS4OzPK"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/3WYggjHWaIjvonYfDBPDV0"
     },
     {
       "album": {
@@ -430,7 +502,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180239,
       "name": "La Chica Del Bikini Azul",
       "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
@@ -574,10 +646,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206117,
       "name": "No Me Puedes Dejar Asi",
       "url": "https://open.spotify.com/track/3eGfb1IkcwXqYCwDnmQKYA"
+    },
+    {
+      "album": {
+        "name": "La Miel De Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oHF59HQoCwm67wXS4OzPK"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "No Me Puedes Dejar Asi",
+      "url": "https://open.spotify.com/track/4NWpfDWcLOKAPUjNoqFIc1"
     },
     {
       "album": {

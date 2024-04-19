@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 
 > SHINee's back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,491 likes - 111 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,501 likes - 111 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 43 | [Dream Girl](https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee The 3rd Album Chapter 1\. 'Dream Girl \- The Misconceptions Of You'](https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV) | 3:00 |
 | 44 | [Replay](https://open.spotify.com/track/3lezH4ocsAaxqVGL8E0pS4) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Replay \- The First Mini Album](https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5) | 3:36 |
 | 45 | [Prove It](https://open.spotify.com/track/2RipDT9N5dyJKvyURHxTSH) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:03 |
-| 46 | [I Want You](https://open.spotify.com/track/7wNZPLzUKbttcNSyoqELuE) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' Epilogue \- The 6th Album](https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f) | 3:04 |
+| 46 | [I Want You](https://open.spotify.com/track/7A1oOQbQbWzd1fvCFvcuwD) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | ['The Story of Light' EP.2 \- The 6th Album](https://open.spotify.com/album/6QhNwMsz7mr2AsEtUO2JJY) | 3:04 |
 | 47 | [Hello](https://open.spotify.com/track/5udkCCQRyrMgrpHsepMRHX) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Hello \- SHINee The 2nd Album Repackage](https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy) | 3:03 |
 | 48 | [Tell Me What To Do](https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 and 1 \- The 5th Album Repackage](https://open.spotify.com/album/1tLW1mwNWPgSze47VxSuxc) | 4:06 |
 | 49 | [Married To The Music](https://open.spotify.com/track/1ogT6eFnEuX5BDH8JoKjX8) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Married To The Music \- The 4th Album Repackage](https://open.spotify.com/album/41YpOLdNiBOP4CqZyVzBSB) | 3:34 |

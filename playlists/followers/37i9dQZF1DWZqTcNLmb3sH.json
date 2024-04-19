@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 57562,
+  "2024-04-19": 57566,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -2381,6 +2381,32 @@
       "duration_ms": 202000,
       "name": "Baalu Naraka Eega - From \"90 Bidi Manig Nadi \"",
       "url": "https://open.spotify.com/track/3k18tsNqqqbIJRvcVa4Mt0"
+    },
+    {
+      "album": {
+        "name": "Baanadari (From \"Yuva\")",
+        "url": "https://open.spotify.com/album/1nitsq807LOqVY0nNjDeYD"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209730,
+      "name": "Baanadari (From \"Yuva\")",
+      "url": "https://open.spotify.com/track/0Ls9D2mxKcPG9pEDEPWjRU"
     },
     {
       "album": {
@@ -18275,6 +18301,32 @@
       "duration_ms": 252138,
       "name": "Neenu Irada Oorinalli (From \"Nirmuktha\")",
       "url": "https://open.spotify.com/track/2MfMcPn0MtIunUZmyZQlnv"
+    },
+    {
+      "album": {
+        "name": "Neenu Nanaagi (From \"Apple Cut\")",
+        "url": "https://open.spotify.com/album/7M4G4sEKWv3G93IJOUnJyY"
+      },
+      "artists": [
+        {
+          "name": "Srushti Shamanur",
+          "url": "https://open.spotify.com/artist/5sJGmRHYps33CAx0HHBVer"
+        },
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        },
+        {
+          "name": "Chethan Padukone",
+          "url": "https://open.spotify.com/artist/7yabG1vkx4cTEoQAu8G8fV"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121584,
+      "name": "Neenu Nanaagi (From \"Apple Cut\")",
+      "url": "https://open.spotify.com/track/71y22hbTo5IxAfLwx0cTXV"
     },
     {
       "album": {

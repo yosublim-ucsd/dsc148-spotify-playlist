@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc) | 0:00 | 2021-09-23 |  |
+| [](https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc) | 0:00 | 2021-09-23 |  |
 | [!?](https://open.spotify.com/track/3O2dacx8I8Z9pDrEc65cHu) | [lungskull](https://open.spotify.com/artist/2wvTwsc93H5xfsHE6QK1nl) | [!?](https://open.spotify.com/album/3eMGFaCiJQvY44XvLwwsRz) | 1:51 | 2021-12-17 |  |
 | [$umn$light](https://open.spotify.com/track/3scrJy2S0Nwgi8x88DFqWs) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [$umn$light](https://open.spotify.com/album/4F7T7UaQp6P5JOFNBnnz8g) | 1:15 | 2022-06-25 |  |
 | [1\-800 Call Tae Retro](https://open.spotify.com/track/0VzfTLDrCJfuX3kOWYUE8G) | [Tae Retro](https://open.spotify.com/artist/4nlZaWXDymf9NB5loJOko0) | [1\-800 Call Tae Retro](https://open.spotify.com/album/6CydL9nL0mTWet3pP0fO6M) | 2:16 | 2022-06-30 |  |

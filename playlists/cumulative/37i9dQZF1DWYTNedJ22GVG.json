@@ -233,8 +233,8 @@
     },
     {
       "album": {
-        "name": "Christmas Wishes",
-        "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
+        "name": "Holiday Wishes",
+        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
       },
       "artists": [
         {
@@ -248,15 +248,15 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2024-04-19",
       "duration_ms": 166146,
-      "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
+      "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
     },
     {
       "album": {
-        "name": "Holiday Wishes",
-        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
+        "name": "Christmas Wishes",
+        "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
       },
       "artists": [
         {
@@ -273,7 +273,7 @@
       "date_removed": null,
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
+      "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
     },
     {
       "album": {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93506,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 93506,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/6MIdJ2pvSLkkP2gv6DGzbQ"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255800,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/25vlyDxSf8SsjPRr5CieWF"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256466,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/02rYLVEqPgWIkp6yQ1DmtB"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116266,
       "name": "December",
       "url": "https://open.spotify.com/track/2r3gfGANsuPbAwmLWGv0ET"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116266,
       "name": "December",
       "url": "https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93493,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/3gDdxePgl7W8EbLLgaqrxe"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 95226,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/1xpknUJU5WnCILL3UpiXQs"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129360,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/5HtbV8EtYpz5VLEhbKuHSO"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 129360,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/5gH7DnufZr1PylgkCqB9uH"
@@ -1318,24 +1318,6 @@
     {
       "album": {
         "name": "JoJo's Rockin' Christmas",
-        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
-        }
-      ],
-      "date_added": "2021-12-07",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
-      "duration_ms": 160912,
-      "name": "It's Christmas Now!",
-      "url": "https://open.spotify.com/track/4rcoY9VWWQkzFeEsxGDbUX"
-    },
-    {
-      "album": {
-        "name": "JoJo's Rockin' Christmas",
         "url": "https://open.spotify.com/album/5OK4C8RKMEDrTKuN6YKrOC"
       },
       "artists": [
@@ -1364,10 +1346,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160912,
       "name": "It's Christmas Now!",
       "url": "https://open.spotify.com/track/4cdkwYawbVu9TN6C57D8CE"
+    },
+    {
+      "album": {
+        "name": "JoJo's Rockin' Christmas",
+        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
+      },
+      "artists": [
+        {
+          "name": "Jojo Siwa (Kids)",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160912,
+      "name": "It's Christmas Now!",
+      "url": "https://open.spotify.com/track/4rcoY9VWWQkzFeEsxGDbUX"
     },
     {
       "album": {
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135206,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135206,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7hPtrGqzMOO0KMevkaQnYR"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181990,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2tD3pZnBsE4wm4PmqVhJCL"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181990,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/37dlx96QkvFn8gNvTFugYF"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212453,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212453,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255878,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/0eiFwEYsRxsNzPBHLwAMaJ"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255878,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/7BvCDrlYwJ5D9RUqvvs3BT"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/1c8okwl6G1OUhgU2BJekIx"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/1BTB6sWAbvXjdDzauL2Ndh"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193160,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/0YfqNEJAThiWwfsMbGlRPQ"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118833,
       "name": "Ring in the Season",
       "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 118833,
       "name": "Ring in the Season",
       "url": "https://open.spotify.com/track/5kQ1YHITOrzelWO3UOUaGt"
@@ -2632,24 +2632,6 @@
     {
       "album": {
         "name": "JoJo's Rockin' Christmas",
-        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
-        }
-      ],
-      "date_added": "2021-12-07",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
-      "duration_ms": 134408,
-      "name": "Run Run Rudolph",
-      "url": "https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E"
-    },
-    {
-      "album": {
-        "name": "JoJo's Rockin' Christmas",
         "url": "https://open.spotify.com/album/1L4qCanv9PeHCXgRlYQbeN"
       },
       "artists": [
@@ -2660,10 +2642,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134408,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/2L1AOEtYAiNocaeG8xrAce"
+    },
+    {
+      "album": {
+        "name": "JoJo's Rockin' Christmas",
+        "url": "https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n"
+      },
+      "artists": [
+        {
+          "name": "Jojo Siwa (Kids)",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134408,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/4cSx0ae5dR4svMsuNI3E3E"
     },
     {
       "album": {
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170933,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/41XCLKG0xl01mGprBDtTNS"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170933,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216746,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/1JJUsWVriEtXr8lHSQXTIy"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216746,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/489nZybL79w209ELXWJyVK"
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206373,
       "name": "Snow In California",
       "url": "https://open.spotify.com/track/6BqE2EzcqW6sNYf7SeGfuN"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206373,
       "name": "Snow In California",
       "url": "https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

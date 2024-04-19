@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226386,
       "name": "1987",
       "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 195002,
       "name": "Animaux fragiles",
       "url": "https://open.spotify.com/track/4yWP2IC6gq5Hl8bVouCvMs"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256693,
       "name": "C'est une belle journ\u00e9e",
       "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
@@ -222,10 +222,28 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238546,
       "name": "Cendrillon - Remasteris\u00e9 en 2015",
       "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
+    },
+    {
+      "album": {
+        "name": "Le Vagabond",
+        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
     },
     {
       "album": {
@@ -258,7 +276,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161080,
       "name": "Chanson sur ma dr\u00f4le de vie - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
@@ -363,6 +381,42 @@
     },
     {
       "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188173,
+      "name": "Dis-Moi Encore Que Tu M'Aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+    },
+    {
+      "album": {
+        "name": "Divinidylle",
+        "url": "https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159186,
+      "name": "Divine idylle",
+      "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
+    },
+    {
+      "album": {
         "name": "Boucan d'enfer",
         "url": "https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG"
       },
@@ -378,6 +432,46 @@
       "duration_ms": 263666,
       "name": "Docteur Renaud, Mister Renard",
       "url": "https://open.spotify.com/track/7MEvMhZkzGDZJEQGr4JBdb"
+    },
+    {
+      "album": {
+        "name": "G\u00e9ant",
+        "url": "https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7"
+      },
+      "artists": [
+        {
+          "name": "Saule",
+          "url": "https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34"
+        },
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205253,
+      "name": "Dusty Men - French Version",
+      "url": "https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK"
+    },
+    {
+      "album": {
+        "name": "Engelberg",
+        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
+      },
+      "artists": [
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "D\u00e9jeuner en paix",
+      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
     },
     {
       "album": {
@@ -500,7 +594,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173733,
       "name": "Gabrielle",
       "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
@@ -522,6 +616,28 @@
       "duration_ms": 448906,
       "name": "Gigi l'amoroso",
       "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
+    },
+    {
+      "album": {
+        "name": "Grandir",
+        "url": "https://open.spotify.com/album/61Kjs8CGtVFQAP1qt5sSuf"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        },
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202303,
+      "name": "Grandir",
+      "url": "https://open.spotify.com/track/0ruriS7oaQE0j1NE0AAW3o"
     },
     {
       "album": {
@@ -630,7 +746,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172626,
       "name": "Je vous trouve un charme fou - En duo avec Ga\u00ebtan Roussel",
       "url": "https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd"
@@ -706,7 +822,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 249666,
       "name": "L'autre finist\u00e8re",
       "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
@@ -724,7 +840,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 205973,
       "name": "L'horloge tourne",
       "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
@@ -814,7 +930,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155800,
       "name": "La madrague",
       "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
@@ -886,7 +1002,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237427,
       "name": "Laisse-moi t'aimer",
       "url": "https://open.spotify.com/track/2boYIpJVzkugP7BwAaVzGw"
@@ -922,7 +1038,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 180813,
       "name": "Lalalove You",
       "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
@@ -1002,7 +1118,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237160,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty"
@@ -1078,7 +1194,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
@@ -1136,7 +1252,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 195693,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
@@ -1298,7 +1414,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198973,
       "name": "Mon c\u0153ur",
       "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
@@ -1428,7 +1544,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189666,
       "name": "Non non rien n'a chang\u00e9",
       "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
@@ -1561,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9langer les couleurs",
+        "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
+      },
+      "artists": [
+        {
+          "name": "Kaolin",
+          "url": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241146,
+      "name": "Partons vite",
+      "url": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
+    },
+    {
+      "album": {
         "name": "Pays des merveilles",
         "url": "https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC"
       },
@@ -1634,7 +1768,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211106,
       "name": "Que Dieu me pardonne",
       "url": "https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU"
@@ -1816,6 +1950,24 @@
     {
       "album": {
         "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
+    },
+    {
+      "album": {
+        "name": "PYRAMIDE",
         "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
       },
       "artists": [
@@ -1844,7 +1996,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229426,
       "name": "Tout le bonheur du monde",
       "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
@@ -2010,7 +2162,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
@@ -2028,7 +2180,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 192133,
       "name": "Vanina (Runaway)",
       "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
@@ -2082,7 +2234,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192989,
       "name": "\u00c0 nos souvenirs",
       "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"

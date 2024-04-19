@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 140571,
       "name": "Beauty of Sitar",
       "url": "https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 413000,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp"
@@ -392,10 +392,28 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278520,
       "name": "Lasya",
       "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
+    },
+    {
+      "album": {
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/2YIGIiMYhsnDSeot1MQm0H"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278520,
+      "name": "Lasya",
+      "url": "https://open.spotify.com/track/5yU6oTG6dh4JmP65f9CJht"
     },
     {
       "album": {
@@ -468,7 +486,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 574667,
       "name": "Raag Hansadhwani - Raag - Hansadhwani - Live",
       "url": "https://open.spotify.com/track/0JQX9g5zVXcqtzJksDF7qD"
@@ -490,7 +508,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210426,
       "name": "Raag Khamaaj",
       "url": "https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D"
@@ -864,7 +882,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258178,
       "name": "Sitar Symphony - Original",
       "url": "https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a"
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320893,
       "name": "Tablet vs Sitar - Yaman - Ek taal",
       "url": "https://open.spotify.com/track/6oUpiJfTJrQ5ryErRDr2w6"

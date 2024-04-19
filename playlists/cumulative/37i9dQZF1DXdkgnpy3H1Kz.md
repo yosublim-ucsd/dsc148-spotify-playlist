@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-578 songs - 2 day 1 hr 57 min
+580 songs - 2 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,11 +462,13 @@
 | [So Cute!! \- KTHONOS Remix](https://open.spotify.com/track/5PYVMfNCLQfmI9sBy8fOL6) | [Ayako Mori](https://open.spotify.com/artist/6StQLFdLEc6XCwfS7Hfdmy), [Kthonos](https://open.spotify.com/artist/3UkgmuAiHJlMcM3tmhDh6D) | [So Cute!! remixes, Vol\. 2](https://open.spotify.com/album/7w1iSoan7YZ9IHAJBzb0N9) | 5:58 | 2023-08-04 | 2023-12-14 |
 | [So Cute!! \- Schiere Remix](https://open.spotify.com/track/6Nu19YZW8KgJ5pSvQ424am) | [Ayako Mori](https://open.spotify.com/artist/6StQLFdLEc6XCwfS7Hfdmy), [Schiere](https://open.spotify.com/artist/1TRZlQz6GZva8e648Cns57) | [So Cute!!](https://open.spotify.com/album/1oryLY5stw9PY4cv9v1XTF) | 6:56 | 2024-01-19 | 2024-03-14 |
 | [So Different](https://open.spotify.com/track/4CLDHUQcLZLjN3bUY8Tn1Z) | [DJ Tool](https://open.spotify.com/artist/5FrykGNClpyw78kA6felns) | [Loud Moving Fast](https://open.spotify.com/album/0Hxouw8Cdle5wJpR6HuXxd) | 5:30 | 2024-04-12 |  |
+| [Sol](https://open.spotify.com/track/5gQBjnN1V2Odg1YGvalRQE) | [Sue Lèwig](https://open.spotify.com/artist/5nTBbOavNWc2CB3wBzI57M) | [Sol EP](https://open.spotify.com/album/1XzNKzw4k3jPDpJ01d78K7) | 7:24 | 2024-04-19 |  |
 | [Solah](https://open.spotify.com/track/0wk0n9lSQ7RtNbOeUUxo0W) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [Amotik 005](https://open.spotify.com/album/1a99tcVWKW40nrD5ImuphS) | 7:13 | 2024-03-13 | 2024-04-13 |
 | [Sold Out \- Aasthma Remix](https://open.spotify.com/track/6CLLnTZ7wUVbuKfua4L4IY) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm), [Aasthma](https://open.spotify.com/artist/0oWDC2Rq9mbNIzMxoRpdoc) | [Goldener Strom Remixes 2](https://open.spotify.com/album/1RqburY7tHN6gtZOufdKqM) | 5:10 | 2023-02-10 | 2023-03-18 |
 | [Solex \- Original Mix](https://open.spotify.com/track/6cJ0uCnTIYEAKn6w3aKHvH) | [James Ruskin](https://open.spotify.com/artist/1CxlOLe7rJ6EO7aPMxi9Xx) | [Solex Mixes](https://open.spotify.com/album/4aI7Vekt6DuFaY0lGjxXnk) | 5:15 | 2023-11-30 | 2024-01-20 |
 | [Sophia's Silent Woe](https://open.spotify.com/track/259bq1EYDbU5qNcGpADZbx) | [Ancient Methods](https://open.spotify.com/artist/2kWRgcJHbgSEAIgewkJ1g2) | [The Third Siren](https://open.spotify.com/album/7fMmoy5CYgDC9OBm3Di0Pl) | 6:29 | 2023-04-14 | 2023-05-26 |
-| [Sound Pressure, Pt\. 3 \- Mixed](https://open.spotify.com/track/5bYDB7yFqSgPeKNx7LCBVM) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM), [James Ruskin](https://open.spotify.com/artist/1CxlOLe7rJ6EO7aPMxi9Xx) | [fabric presents Overmono](https://open.spotify.com/album/4Ft7yq09dNcMAh68bJslrj) | 0:59 | 2024-04-12 |  |
+| [Sound Pressure, Pt\. 3 \- Mixed](https://open.spotify.com/track/1EY9X1Zw6gZPIqBY8Fy2ik) | [James Ruskin](https://open.spotify.com/artist/1CxlOLe7rJ6EO7aPMxi9Xx), [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [fabric presents Overmono \(Mixed\)](https://open.spotify.com/album/5tjEHcfKnhNZG7QtMqgdgp) | 0:59 | 2024-04-19 |  |
+| [Sound Pressure, Pt\. 3 \- Mixed](https://open.spotify.com/track/5bYDB7yFqSgPeKNx7LCBVM) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM), [James Ruskin](https://open.spotify.com/artist/1CxlOLe7rJ6EO7aPMxi9Xx) | [fabric presents Overmono](https://open.spotify.com/album/4Ft7yq09dNcMAh68bJslrj) | 0:59 | 2024-04-12 | 2024-04-19 |
 | [Space Invaders](https://open.spotify.com/track/1dZc4Y2wDWmkuAm8CmtNGY) | [Matasism](https://open.spotify.com/artist/01dmfjE7RpzUe6DJSV5eKD) | [Can You Feel My Soul](https://open.spotify.com/album/29Ysub2qJPNzlAD0j7QLBr) | 5:35 | 2023-02-10 | 2023-03-18 |
 | [Space Race](https://open.spotify.com/track/0taaCeFetV6RwPsIU316Jm) | [Alien Rain](https://open.spotify.com/artist/7GQjl85wH2NiOpQEFR5QVo) | [The Arrival](https://open.spotify.com/album/2v7G8CjgDV71tAzROpclEt) | 5:04 | 2023-04-28 | 2023-05-26 |
 | [Spiral Of Silence](https://open.spotify.com/track/4joJdcOiUITZpDtrqdZICG) | [Milton Bradley](https://open.spotify.com/artist/5tXByO6GQCzWa9ifphd8e0) | [Tragedy Of Truth](https://open.spotify.com/album/4Tv5nfZcH5VPc5BvAIkqM9) | 5:27 | 2023-05-25 | 2023-07-01 |

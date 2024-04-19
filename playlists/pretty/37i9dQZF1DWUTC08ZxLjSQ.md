@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:Sine\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,690 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,709 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 23 | [LA \(لا\)](https://open.spotify.com/track/3Kj7uJJ1R4lf7axD772aK3) | [GODRUN](https://open.spotify.com/artist/7Gn6GAt5IPYsEmGYVhc0yc) | [LA \(لا\)](https://open.spotify.com/album/1Alkct9C7loHYfTxYonwrk) | 2:27 |
 | 24 | [Nuba](https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Nuba](https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P) | 4:08 |
 | 25 | [Made For Me](https://open.spotify.com/track/1bOtt0UybwLqlAx8ZIENRp) | [PINS3Y](https://open.spotify.com/artist/3OwkZqr5cHnzGkSvuxWR8u) | [Made For Me](https://open.spotify.com/album/3Y1iiU711siPApv6AgW41S) | 4:39 |
-| 26 | [I think I saw you](https://open.spotify.com/track/3mZphc6vrtIgRtwaTFOO4E) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [I think I saw you](https://open.spotify.com/album/7ceqZErdpAs5KNq4EEDkqe) | 4:18 |
+| 26 | [I think I saw you](https://open.spotify.com/track/3xc7PRoTJkavYcKgvyWVgl) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [I think I saw you](https://open.spotify.com/album/0uClcl4soQbkwVpBCynOsq) | 4:18 |
 | 27 | [ONLY ONE](https://open.spotify.com/track/0BspGNZnyQrXEahQO7HYt6) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [ONLY ONE](https://open.spotify.com/album/2turDZhxP6QKKc7muFDYyI) | 2:42 |
 | 28 | [Beginning of a New Chapter](https://open.spotify.com/track/7HcPxC0zycaBSQxN6jwLVN) | [FARIIS](https://open.spotify.com/artist/0bqarDKT8KpH0DatC4k6vY) | [Beginning of a New Chapter](https://open.spotify.com/album/49TtcdL0qT6JF1zQg6FRbv) | 2:47 |
 | 29 | [Forever](https://open.spotify.com/track/7ptstvvTmIBlhEqWmWTDiH) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV), [Nouran](https://open.spotify.com/artist/493Q4UpvdIsh3u2D4zSvP6) | [Forever](https://open.spotify.com/album/6mg20a2OSXxuajccPWGVm8) | 3:02 |

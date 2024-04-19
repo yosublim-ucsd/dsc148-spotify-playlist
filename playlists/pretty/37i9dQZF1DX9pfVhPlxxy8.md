@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pfVhPlxxy8.md) - [plain]
 
 > Brian Eno's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,331 likes - 20 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,383 likes - 20 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pfVhPlxxy8.md) - [plain]
 | 16 | [Devi Prayer](https://open.spotify.com/track/5nP0d0eDMJ1wIaR9VNYz50) | [Craig Pruess & Ananda](https://open.spotify.com/artist/4ntmrafQBL0Ar8VtOOu5sx) | [108 Sacred Names of Mother Divine](https://open.spotify.com/album/6OYb8Vb4WeCGfDzwaG6QA4) | 21:21 |
 | 17 | [We Let It In](https://open.spotify.com/track/4yWd80KUbRs8nuv8MocOa5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:28 |
 | 18 | [World Without Wind](https://open.spotify.com/track/0TgNebBguH4p9ykfsqsWtX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Installations](https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq) | 5:24 |
-| 19 | [Reflection \- Excerpt](https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet) | 4:20 |
-| 20 | [Loop Only: Wind On Water Reversed](https://open.spotify.com/track/3latUbx6GQw42mcWMxB8zb) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LIVE IN PARIS 28.05.1975](https://open.spotify.com/album/6Oov2HHfVb1VLIfOobdnEF) | 9:50 |
+| 19 | [Reflection \- Excerpt](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 |
+| 20 | [Loop Only: Wind On Water Reversed](https://open.spotify.com/track/0U7tcnpYe0ZU8W4O2fc8ll) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LIVE IN PARIS 28.05.1975](https://open.spotify.com/album/2ViogB9iZm7b34uIxJwwOv) | 9:50 |
 
 Snapshot ID: `MTY4ODE0MjM0MywwMDAwMDAwMDVhZDIwMTZjODgyNDQ1YTE1MTY1MDMyZmU3MGMxMDk2`

@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-485 songs - 14 hr 54 min
+486 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Feeling Happy](https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS) | [Chad Isaacson](https://open.spotify.com/artist/5UzSphuk1wV4EkpEpsxfJJ) | [Feeling Happy](https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz) | 1:42 | 2022-08-11 | 2023-08-24 |
 | [Find the Rabbit](https://open.spotify.com/track/0GDw6Hmmlu6InQbf6YakPD) | [Baldwin Grey](https://open.spotify.com/artist/4tULy2gwvcYvafnuk3qzdC) | [Find the Rabbit](https://open.spotify.com/album/1vqPMljPPgF9IVhNqopH7Y) | 1:56 | 2022-08-11 |  |
 | [Fireflies](https://open.spotify.com/track/6kU7GBwbKtsio1jgyAWa9z) | [Byrne Freeman](https://open.spotify.com/artist/09NXPHIx4m5wvbplZ11jvF) | [Fireflies](https://open.spotify.com/album/3z2L0RF2qEZ01ph2WMPvTb) | 1:56 | 2022-08-11 | 2022-10-29 |
-| [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2022-08-11 |  |
+| [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 | 2024-04-12 |  |
+| [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2022-08-11 | 2024-04-19 |
 | [Five In The Morning](https://open.spotify.com/track/7HZwjhPILEmhB0ccHRhpcp) | [Ellio Chanson](https://open.spotify.com/artist/1kj2CTKpnlYp8mK1zAuO43) | [Five In The Morning](https://open.spotify.com/album/2FySZAFIuyM1fJT7OnR5qg) | 2:27 | 2024-04-12 |  |
 | [Five Little Ducks](https://open.spotify.com/track/0w1qbxTWTL464db5hu4JWj) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Five Little Ducks](https://open.spotify.com/album/1uQUnfMkzeLj5zaWxOevW5) | 2:39 | 2023-09-22 |  |
 | [Five Little Monkeys](https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Five Little Monkeys](https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S) | 2:05 | 2023-08-31 |  |

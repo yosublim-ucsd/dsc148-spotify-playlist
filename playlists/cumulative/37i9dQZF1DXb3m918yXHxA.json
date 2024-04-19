@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 253653,
       "name": "All Right",
       "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259532,
       "name": "All Right",
       "url": "https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242026,
       "name": "Coming Down from Love",
       "url": "https://open.spotify.com/track/138zVd63tbSFQR5oc3dHmg"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "Coming Down from Love",
       "url": "https://open.spotify.com/track/4IR1LDAWA3Rly689SrjHrF"
@@ -616,10 +616,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279306,
       "name": "Ever Ready Man",
       "url": "https://open.spotify.com/track/5GenCnf1iONAI1hwX4GwQz"
+    },
+    {
+      "album": {
+        "name": "The Best of Lakeside",
+        "url": "https://open.spotify.com/album/6qEgsBxOzMnrWyc4iOhGQp"
+      },
+      "artists": [
+        {
+          "name": "Lakeside",
+          "url": "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278360,
+      "name": "Eveready Man",
+      "url": "https://open.spotify.com/track/6gUelm8sFabWLaZwJNqiwH"
     },
     {
       "album": {
@@ -688,10 +706,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226080,
       "name": "Fool In Love With You",
       "url": "https://open.spotify.com/track/4XKrWQcCNHFIMyxE11OMzl"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d5\u30a7\u30fb\u30c9\u30e9\u30a4\u30d6\u30fb\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9 2\u30fb\u30fb\u30fbAOR\u30fb\u30c9\u30e9\u30a4\u30d6\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u6c7a\u5b9a\u76e4",
+        "url": "https://open.spotify.com/album/5CbHlv3t41FPcvuez6I3jW"
+      },
+      "artists": [
+        {
+          "name": "Jim Photoglo",
+          "url": "https://open.spotify.com/artist/4ZeqFaMDjGUe1IHJznXUbr"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "Fool In Love With You",
+      "url": "https://open.spotify.com/track/6nvZ6LcEwas87GMp9pSPJ7"
     },
     {
       "album": {
@@ -724,7 +760,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/6p3HuYPoRBzhyBPErnyNbr"
@@ -742,7 +778,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219720,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9"
@@ -980,7 +1016,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
@@ -998,7 +1034,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309018,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
@@ -1083,12 +1119,12 @@
       "artists": [
         {
           "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+          "url": "https://open.spotify.com/artist/5zWjD9ZjC2Lo0BB1M9gSC4"
         }
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z"
@@ -1600,7 +1636,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 258106,
       "name": "Love Never Felt so Good",
       "url": "https://open.spotify.com/track/7l5S791OPaOUQPWnQcN4AS"
@@ -1618,7 +1654,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259560,
       "name": "Love Never Felt So Good",
       "url": "https://open.spotify.com/track/0UkVtmw0ZzEd9vzAa7Ocnu"
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 315640,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
@@ -1762,7 +1798,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317788,
       "name": "Lowdown (2023 Remaster)",
       "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
@@ -1968,7 +2004,7 @@
     {
       "album": {
         "name": "For You",
-        "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
+        "url": "https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv"
       },
       "artists": [
         {
@@ -1979,6 +2015,24 @@
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 251400,
+      "name": "My Love Is Forever",
+      "url": "https://open.spotify.com/track/29QOYtxStXGuGmACR2R6rJ"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 251400,
       "name": "My Love Is Forever",
       "url": "https://open.spotify.com/track/2gXxWFhCbDYKCGor6KAkeW"
@@ -2162,7 +2216,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237066,
       "name": "Peg",
       "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
@@ -2198,7 +2252,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 240333,
       "name": "Peg",
       "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
@@ -2314,7 +2368,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "Reminiscing - Remastered",
       "url": "https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa"
@@ -2332,7 +2386,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2010",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
@@ -2466,7 +2520,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -2484,7 +2538,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258866,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
@@ -2758,7 +2812,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 239240,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj"
@@ -2780,7 +2834,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239611,
       "name": "Stumblin' In - 2017 Remaster",
       "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
@@ -3274,7 +3328,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
@@ -3292,7 +3346,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/7dL8FCLzEaWC2A3qWQuz1q"

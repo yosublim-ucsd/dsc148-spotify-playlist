@@ -1,15 +1,159 @@
 {
-  "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 10649,
+  "description": "The hottest alternative music from Nairobi to Dar! Cover: Nu Fvnk",
+  "num_followers": 10650,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwNjg2MTk1MiwwMDAwMDAwMGRmZTdlNzkyM2UwNmRmNzE0ZWRlOTM2OWQzYTJjY2I4",
+  "snapshot_id": "MTcxMzQ4NDc0MCwwMDAwMDAwMDBmNTI2OWIxZTFlMjgzYWFmYjdlMzM2NjcxYThlNGEx",
   "tracks": [
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Divergent",
+        "url": "https://open.spotify.com/album/06NpcpY8sd5DofuSW0AApU"
+      },
+      "artists": [
+        {
+          "name": "Waithaka",
+          "url": "https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "Divergent",
+      "url": "https://open.spotify.com/track/4dvHvQKlhxqIqSDtUbmRdn"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/40bEi3XNEzNJe7oiLoHM4R"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "duration_ms": 149012,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/7MQaJreOuHNGsMFcvvCEey"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Lovers Only",
+        "url": "https://open.spotify.com/album/6Q6WdtVzIOlMyWFh9gfmxD"
+      },
+      "artists": [
+        {
+          "name": "Tetu Shani",
+          "url": "https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Lovers Only",
+      "url": "https://open.spotify.com/track/6THvBkYaQmMcuOdPGCWpcv"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Chandarana",
+        "url": "https://open.spotify.com/album/5VJhzvc65vD0PWFE0bkko0"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 260512,
+      "name": "Chandarana",
+      "url": "https://open.spotify.com/track/5d2awA1xY7XCyqMbf3JruP"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 139166,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Kwetu: It's Not a Place, It's a Feeling",
+        "url": "https://open.spotify.com/album/0EZscP1mvf9I6HG8wskbbP"
+      },
+      "artists": [
+        {
+          "name": "Fadhilee Itulya",
+          "url": "https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig"
+        }
+      ],
+      "duration_ms": 347720,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/44YheWCtWWdboqji2VWjGM"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!",
+        "url": "https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 238237,
+      "name": "HIGH SPEDE",
+      "url": "https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY"
+      },
+      "artists": [
+        {
+          "name": "SERRO",
+          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Ya Dunia",
+      "url": "https://open.spotify.com/track/2S5D89CayQ5ml6kcGHrf1g"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Tamu",
+        "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
+      },
+      "artists": [
+        {
+          "name": "Zaituni Wambui",
+          "url": "https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "IDKW",
         "url": "https://open.spotify.com/album/3voJsHgJci2igHrLWnWF6L"
@@ -25,7 +169,7 @@
       "url": "https://open.spotify.com/track/6s1kHxl8VOqGzGyYkgNeTE"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Angel & Demon",
         "url": "https://open.spotify.com/album/2lP03gWGjSZvi5QqADbDY3"
@@ -45,135 +189,7 @@
       "url": "https://open.spotify.com/track/1qc2kAS8FbSUpA6p9Iqy3G"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Sare Jokes",
-        "url": "https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 122727,
-      "name": "Sare Jokes",
-      "url": "https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Divergent",
-        "url": "https://open.spotify.com/album/06NpcpY8sd5DofuSW0AApU"
-      },
-      "artists": [
-        {
-          "name": "Waithaka",
-          "url": "https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "Divergent",
-      "url": "https://open.spotify.com/track/4dvHvQKlhxqIqSDtUbmRdn"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Tamu",
-        "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
-      },
-      "artists": [
-        {
-          "name": "Zaituni Wambui",
-          "url": "https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Tamu",
-      "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Lovers Only",
-        "url": "https://open.spotify.com/album/6Q6WdtVzIOlMyWFh9gfmxD"
-      },
-      "artists": [
-        {
-          "name": "Tetu Shani",
-          "url": "https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Lovers Only",
-      "url": "https://open.spotify.com/track/6THvBkYaQmMcuOdPGCWpcv"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Kwetu: It's Not a Place, It's a Feeling",
-        "url": "https://open.spotify.com/album/0EZscP1mvf9I6HG8wskbbP"
-      },
-      "artists": [
-        {
-          "name": "Fadhilee Itulya",
-          "url": "https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig"
-        }
-      ],
-      "duration_ms": 347720,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/44YheWCtWWdboqji2VWjGM"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Toxic Love",
-        "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 139166,
-      "name": "Toxic Love",
-      "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Kuwe",
-        "url": "https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY"
-      },
-      "artists": [
-        {
-          "name": "SERRO",
-          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Ya Dunia",
-      "url": "https://open.spotify.com/track/2S5D89CayQ5ml6kcGHrf1g"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Kumaiha",
-        "url": "https://open.spotify.com/album/1jjkn3lM4Xsmp05IbpchU9"
-      },
-      "artists": [
-        {
-          "name": "Jim Chuchu",
-          "url": "https://open.spotify.com/artist/7h4BiS12xR6PcXn1V914hu"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Kumaiha",
-      "url": "https://open.spotify.com/track/5sO3ANmgcAVJrCx3VE6cSz"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Muse - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ"
@@ -189,7 +205,43 @@
       "url": "https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Kumaiha",
+        "url": "https://open.spotify.com/album/1jjkn3lM4Xsmp05IbpchU9"
+      },
+      "artists": [
+        {
+          "name": "Jim Chuchu",
+          "url": "https://open.spotify.com/artist/7h4BiS12xR6PcXn1V914hu"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Kumaiha",
+      "url": "https://open.spotify.com/track/5sO3ANmgcAVJrCx3VE6cSz"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "OH WAH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 205485,
+      "name": "OH WAH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Kinya Nginye",
         "url": "https://open.spotify.com/album/7By5iULjJbetlbGjMmliFq"
@@ -209,26 +261,26 @@
       "url": "https://open.spotify.com/track/6J5c3fZBYE3FoioezQ1LMA"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
-        "name": "HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!",
-        "url": "https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl"
+        "name": "Sare Jokes",
+        "url": "https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9"
       },
       "artists": [
         {
-          "name": "KABEAUSH\u00c9",
-          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
         }
       ],
-      "duration_ms": 238237,
-      "name": "HIGH SPEDE",
-      "url": "https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE"
+      "duration_ms": 122727,
+      "name": "Sare Jokes",
+      "url": "https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Galatea",
-        "url": "https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw"
+        "url": "https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ"
       },
       "artists": [
         {
@@ -238,42 +290,10 @@
       ],
       "duration_ms": 178285,
       "name": "Divine Intervention",
-      "url": "https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY"
+      "url": "https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Vanity",
-        "url": "https://open.spotify.com/album/6JgvhDCWYLwDbrNWkfUhAF"
-      },
-      "artists": [
-        {
-          "name": "capespring.",
-          "url": "https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS"
-        }
-      ],
-      "duration_ms": 152994,
-      "name": "Vanity",
-      "url": "https://open.spotify.com/track/23yGrPeT2zyxnr7EWqJsRa"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/7udEwxCPrP8L3slP4oclpD"
@@ -289,7 +309,23 @@
       "url": "https://open.spotify.com/track/3udH6537pUGU9htZaPRv95"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq"
+      },
+      "artists": [
+        {
+          "name": "capespring.",
+          "url": "https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS"
+        }
+      ],
+      "duration_ms": 152971,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah"
@@ -305,7 +341,23 @@
       "url": "https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Vijana Wanataka Kazi",
         "url": "https://open.spotify.com/album/4dFU75ysafiICD8lfC6Rvf"
@@ -321,7 +373,7 @@
       "url": "https://open.spotify.com/track/71QA3QXgNuJcSWcnUIN1qy"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Lets Get Away",
         "url": "https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi"
@@ -337,10 +389,10 @@
       "url": "https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/58VyMsjI4nogdj6iYxp81l"
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
       },
       "artists": [
         {
@@ -353,11 +405,11 @@
         }
       ],
       "duration_ms": 193896,
-      "name": "Part 2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/1K1749ogaQ2xe1ZYofp00R"
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Miss Me",
         "url": "https://open.spotify.com/album/5JRQtqu5HrSXebzylfn5xJ"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/0Nnq0gfsq7Inx7b4zQSJob"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "R-/LBT",
         "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
@@ -393,7 +445,7 @@
       "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "BANGUK",
         "url": "https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/02pB8vx8VkjQCbN1rCxKS6"
@@ -429,7 +481,7 @@
       "url": "https://open.spotify.com/track/5oEQ8gEXm9jfjHxMOSKXSb"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "echo: dawn",
         "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
@@ -445,7 +497,7 @@
       "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Refuse Refuge",
         "url": "https://open.spotify.com/album/2W9xS0Hg6u0qWQlNK3l9bT"
@@ -461,7 +513,7 @@
       "url": "https://open.spotify.com/track/3NZKY4w97Tk2jKqANxQzlW"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "YOU A KILLER",
         "url": "https://open.spotify.com/album/7os16OIbe823TPlSR5OpHH"
@@ -477,7 +529,7 @@
       "url": "https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Tender",
         "url": "https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Galatea",
         "url": "https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Pretty Young Thing",
         "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
@@ -525,7 +577,7 @@
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Money & Other Things",
         "url": "https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/6Gl0MyOS1NK50bGfU7I2G3"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
         "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "s_t_l",
         "url": "https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3"
@@ -597,7 +649,7 @@
       "url": "https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Call Me Crazy",
         "url": "https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ"
@@ -617,7 +669,7 @@
       "url": "https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
@@ -633,7 +685,7 @@
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Doing U Better",
         "url": "https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh"
@@ -657,7 +709,7 @@
       "url": "https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Further Lighter",
         "url": "https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9"
@@ -677,7 +729,7 @@
       "url": "https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "The Journey Continues...",
         "url": "https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl"
@@ -693,23 +745,7 @@
       "url": "https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "The World Is Spinning And Everyone's Dizzy",
-        "url": "https://open.spotify.com/album/6t4K55o91hQHeihNNNJHFl"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "You're Not Here",
-      "url": "https://open.spotify.com/track/5MnLVlRhaUIZbwFCN1uqKE"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Camille",
         "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
@@ -725,10 +761,10 @@
       "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Let Go",
-        "url": "https://open.spotify.com/album/5VbCkQq7yazjOE1GoNBMLv"
+        "url": "https://open.spotify.com/album/2ts5wKcg6bvwzDutdpfFAj"
       },
       "artists": [
         {
@@ -740,12 +776,12 @@
           "url": "https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes"
         }
       ],
-      "duration_ms": 177293,
+      "duration_ms": 177245,
       "name": "Let Go",
-      "url": "https://open.spotify.com/track/0jBp9lAEE0MAV0zeVAVSy3"
+      "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Spanish Villager No. 3",
         "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
@@ -785,10 +821,10 @@
       "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Habibi Only Live Once",
-        "url": "https://open.spotify.com/album/1A2o7xaKtkPDwz275Otlzo"
+        "url": "https://open.spotify.com/album/5HPCWQ7s2b9bI6Cw1bQYwQ"
       },
       "artists": [
         {
@@ -798,10 +834,10 @@
       ],
       "duration_ms": 108000,
       "name": "Habibi Only Live Once",
-      "url": "https://open.spotify.com/track/4yI4Rezf3Mp0QRns4O10x4"
+      "url": "https://open.spotify.com/track/2ttKPD84VNMDgTZXsE2jpS"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
@@ -821,7 +857,7 @@
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
@@ -837,27 +873,7 @@
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/0oQnFQEWTHTkL4n515ZkF0"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        },
-        {
-          "name": "Nala Ayieta",
-          "url": "https://open.spotify.com/artist/7xGpddF3zGul2T2RSUMVlF"
-        }
-      ],
-      "duration_ms": 157403,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Kibunomu",
         "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Minutes",
         "url": "https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "4 U",
         "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
@@ -925,10 +941,10 @@
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+        "name": "Slow wine",
+        "url": "https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5"
       },
       "artists": [
         {
@@ -936,12 +952,12 @@
           "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Slow Wine",
-      "url": "https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B"
+      "duration_ms": 123624,
+      "name": "Slow wine",
+      "url": "https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Quick Fix",
         "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "An Alien in Minneapolis",
         "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Passenger 555",
         "url": "https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "HERE THEY COME",
         "url": "https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Nakujali",
         "url": "https://open.spotify.com/album/24ltQJTER5RRMF0zrK90wu"
@@ -1033,7 +1049,79 @@
       "url": "https://open.spotify.com/track/2d2ogRrGa1wLEkRXiUwB7a"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "duration_ms": 85947,
+      "name": "Less",
+      "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Never Loose",
+        "url": "https://open.spotify.com/album/3AnUhJWeLVlQ1hD16fQ4bC"
+      },
+      "artists": [
+        {
+          "name": "Bura",
+          "url": "https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k"
+        }
+      ],
+      "duration_ms": 195892,
+      "name": "Never Loose",
+      "url": "https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Jaafari's 19th",
+        "url": "https://open.spotify.com/album/0ai61scImkAr7m5BXocapW"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 213932,
+      "name": "Jaafari's 19th",
+      "url": "https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
+    },
+    {
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "All My Fault",
         "url": "https://open.spotify.com/album/4MVfWM1J9jPkg8dSExd4hB"
@@ -1057,46 +1145,30 @@
       "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
-        "name": "More / Less",
-        "url": "https://open.spotify.com/album/34EoIMWzhRXhAl1zbOmi7g"
+        "name": "Misimu",
+        "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
       },
       "artists": [
         {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+          "name": "SERRO",
+          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
         },
         {
-          "name": "Andyah",
-          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD"
         }
       ],
-      "duration_ms": 85947,
-      "name": "Less",
-      "url": "https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs"
+      "duration_ms": 246923,
+      "name": "Hold On To The Faith",
+      "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Love Letters II",
-        "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 213932,
-      "name": "Jaafari's 19th",
-      "url": "https://open.spotify.com/track/7ChMpmVqd0NB1KL0vqFv8a"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Genuine",
-        "url": "https://open.spotify.com/album/3B7RxI6smax8IV9JJQS2SI"
+        "url": "https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x"
       },
       "artists": [
         {
@@ -1109,15 +1181,15 @@
         },
         {
           "name": "B.Hobs",
-          "url": "https://open.spotify.com/artist/5cI5qKNAllqufhbyybTvC6"
+          "url": "https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53"
         }
       ],
       "duration_ms": 176842,
       "name": "Genuine",
-      "url": "https://open.spotify.com/track/1ERuwIudqIjDkwDBKADD8V"
+      "url": "https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Diamond in the Trenches",
         "url": "https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47"
@@ -1133,7 +1205,7 @@
       "url": "https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "Fluid",
         "url": "https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC"
@@ -1153,23 +1225,7 @@
       "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
     },
     {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Never Loose",
-        "url": "https://open.spotify.com/album/3AnUhJWeLVlQ1hD16fQ4bC"
-      },
-      "artists": [
-        {
-          "name": "Bura",
-          "url": "https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k"
-        }
-      ],
-      "duration_ms": 195892,
-      "name": "Never Loose",
-      "url": "https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
+      "added_at": "2024-04-18 23:59:00",
       "album": {
         "name": "The Ugandan",
         "url": "https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8"
@@ -1187,62 +1243,6 @@
       "duration_ms": 278804,
       "name": "I Give Her Love",
       "url": "https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/7hPdbpMDpAjhEyBlHtOv8P"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Elani Boshoff",
-          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
-        }
-      ],
-      "duration_ms": 133324,
-      "name": "100 Times",
-      "url": "https://open.spotify.com/track/0FxaztVEQJyGXagfrVU3V4"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Entebbe",
-        "url": "https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 232967,
-      "name": "Entebbe",
-      "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
-    },
-    {
-      "added_at": "2024-02-02 08:19:12",
-      "album": {
-        "name": "Misimu",
-        "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
-      },
-      "artists": [
-        {
-          "name": "SERRO",
-          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
-        },
-        {
-          "name": "Mutoriah",
-          "url": "https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD"
-        }
-      ],
-      "duration_ms": 246923,
-      "name": "Hold On To The Faith",
-      "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
     }
   ],
   "unique_name": "Eastern Vibes",

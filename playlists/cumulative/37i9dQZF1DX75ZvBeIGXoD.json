@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "8 Days Of Christmas",
-        "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
+        "url": "https://open.spotify.com/album/6ordCtjHPF9FLdh3GPZNbX"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209360,
+      "name": "8 Days of Christmas",
+      "url": "https://open.spotify.com/track/2CZWUmcG9swKChEPBllPra"
+    },
+    {
+      "album": {
+        "name": "8 Days Of Christmas",
+        "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 209360,
       "name": "8 Days of Christmas",
       "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
@@ -140,7 +158,7 @@
     {
       "album": {
         "name": "Another Year",
-        "url": "https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x"
+        "url": "https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC"
       },
       "artists": [
         {
@@ -151,6 +169,24 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6"
+    },
+    {
+      "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P"
@@ -256,7 +292,7 @@
     {
       "album": {
         "name": "GFOTYBUCKS",
-        "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
+        "url": "https://open.spotify.com/album/6tWzE9TtF39kOmc7JmfcQM"
       },
       "artists": [
         {
@@ -267,6 +303,24 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Christmas Day",
+      "url": "https://open.spotify.com/track/5cAqDTOn45TsDBizOzRetK"
+    },
+    {
+      "album": {
+        "name": "GFOTYBUCKS",
+        "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
+      },
+      "artists": [
+        {
+          "name": "GFOTY",
+          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 178285,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/5rGHXuUMQGoR9D35V3ZbBx"
@@ -310,7 +364,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
@@ -328,10 +382,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8"
+    },
+    {
+      "album": {
+        "name": "Christmas Muddy Puddles",
+        "url": "https://open.spotify.com/album/7yYYcpJWxPFdU5IH1qCkqT"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136347,
+      "name": "Christmas Muddy Puddles",
+      "url": "https://open.spotify.com/track/4wmauQtwfkV8NISqn1B8u3"
     },
     {
       "album": {
@@ -346,7 +418,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138000,
       "name": "Christmas Muddy Puddles",
       "url": "https://open.spotify.com/track/0jFUcRNcdSW1eV8JHqS7wE"
@@ -546,7 +618,7 @@
     {
       "album": {
         "name": "My Agenda",
-        "url": "https://open.spotify.com/album/0L53GIjCJxQXYeI3us0rgH"
+        "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
       },
       "artists": [
         {
@@ -557,6 +629,24 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186509,
+      "name": "Give Great Thanks",
+      "url": "https://open.spotify.com/track/1Aq5GVAZz7OveWf2IvhJQ4"
+    },
+    {
+      "album": {
+        "name": "My Agenda",
+        "url": "https://open.spotify.com/album/0L53GIjCJxQXYeI3us0rgH"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 186509,
       "name": "Give Great Thanks",
       "url": "https://open.spotify.com/track/42Lx4iunLk0Vxkpw2OQfsE"
@@ -711,6 +801,24 @@
     },
     {
       "album": {
+        "name": "A Very Poppy Christmas",
+        "url": "https://open.spotify.com/album/3JTfnaomOTWOoDzugI2cO8"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150941,
+      "name": "I Won't Be Home For Christmas",
+      "url": "https://open.spotify.com/track/7bp38AH3XVbvw2JnbA4RMs"
+    },
+    {
+      "album": {
         "name": "I Won't Be Home For Christmas",
         "url": "https://open.spotify.com/album/3j9KehN01RSP9khuzumkCv"
       },
@@ -722,7 +830,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150941,
       "name": "I Won\u2019t Be Home For Christmas",
       "url": "https://open.spotify.com/track/0Kl1vGCCntgvH8bUHdjN9I"
@@ -866,10 +974,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212453,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/4mVIcvIiA2bIXiN0P0otKJ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212453,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG"
     },
     {
       "album": {
@@ -920,10 +1046,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191266,
       "name": "Lonely Man of Winter",
       "url": "https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA"
+    },
+    {
+      "album": {
+        "name": "Lonely Man of Winter",
+        "url": "https://open.spotify.com/album/6ih3mS49nmttFRS8A63X7L"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Lonely Man of Winter",
+      "url": "https://open.spotify.com/track/3s1ajekHdEht2t8thsmFJT"
     },
     {
       "album": {
@@ -1098,7 +1242,7 @@
     {
       "album": {
         "name": "fruitcake",
-        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+        "url": "https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj"
       },
       "artists": [
         {
@@ -1109,6 +1253,24 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
+    },
+    {
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
@@ -1202,10 +1364,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153317,
       "name": "Sugared Up",
       "url": "https://open.spotify.com/track/4KqOBjfBpoQJIigj5f36I6"
+    },
+    {
+      "album": {
+        "name": "Sugared Up",
+        "url": "https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153317,
+      "name": "Sugared Up",
+      "url": "https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb"
     },
     {
       "album": {
@@ -1300,7 +1480,7 @@
     {
       "album": {
         "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+        "url": "https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG"
       },
       "artists": [
         {
@@ -1311,6 +1491,24 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ"
+    },
+    {
+      "album": {
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 190944,
       "name": "two queens in a king sized bed",
       "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
@@ -1426,7 +1624,7 @@
     {
       "album": {
         "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+        "url": "https://open.spotify.com/album/0fE75F8rQXOua0Je7rwiK8"
       },
       "artists": [
         {
@@ -1441,6 +1639,28 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184306,
+      "name": "Winter Wonderland / Here Comes Santa Claus - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/1E55cs07gvPyMbpD5kl7at"
+    },
+    {
+      "album": {
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 184306,
       "name": "Winter Wonderland / Here Comes Santa Claus - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/1wMGXSIK48572zgL6RX8kF"

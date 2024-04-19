@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270080,
       "name": "2 Step In The Living Room",
       "url": "https://open.spotify.com/track/44P7MQRsEWfuduYuLESV2w"
@@ -42,10 +42,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 270080,
       "name": "2 Step In The Living Room",
       "url": "https://open.spotify.com/track/7Bqg0xmYlSbPEFYXLdKYIl"
+    },
+    {
+      "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/7cljz15Xl6Ns0z3hGzSST8"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/4apymIFXeUd0lWSWPRrtSr"
     },
     {
       "album": {
@@ -60,7 +78,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195000,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180576,
       "name": "High Up",
       "url": "https://open.spotify.com/track/3TcW4ih5EdzgMQd6tpfYEi"
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 180576,
       "name": "High Up",
       "url": "https://open.spotify.com/track/54pog56aKXKPjvSLNVpE61"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 219240,
       "name": "I Won't Tell",
       "url": "https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219240,
       "name": "I Won't Tell",
       "url": "https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "It Never Rains (In SoCal)",
       "url": "https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG"
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256000,
       "name": "It Never Rains - In SoCal",
       "url": "https://open.spotify.com/track/4eNMY2zIzPuJWzEWxGCpLl"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197963,
       "name": "King James",
       "url": "https://open.spotify.com/track/0TtSoFrbLGjmpIgY4KgBeq"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197963,
       "name": "King James",
       "url": "https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE"
@@ -1569,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL"
+      },
+      "artists": [
+        {
+          "name": "Milan Ring",
+          "url": "https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Leo",
+      "url": "https://open.spotify.com/track/4VwPMpZ4svZluuiZj9vNSM"
+    },
+    {
+      "album": {
         "name": "LET IT RAIN EP",
         "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
       },
@@ -1598,10 +1634,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199477,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/0TPXUxjcaisuLC5S8xZpcW"
+    },
+    {
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/0hrRzDQJNqOVeBT6EcOcBs"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199477,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/5xIXG98Trt1GvkVitYauo9"
     },
     {
       "album": {
@@ -1696,7 +1750,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 188186,
       "name": "Like It Like That (feat. Chief Adjuah)",
       "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188186,
       "name": "Like It Like That (feat. Chief Adjuah)",
       "url": "https://open.spotify.com/track/2EdHP7avAte3sAlVVxPSpp"
@@ -1909,6 +1963,28 @@
     },
     {
       "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/34Kos9rX5MrGc0MXDnOZ2K"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/0Ztok1tyr8YbgTi6iUJM9X"
+    },
+    {
+      "album": {
         "name": "Luv N Chaos",
         "url": "https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg"
       },
@@ -1924,7 +2000,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222857,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ"
@@ -2000,7 +2076,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 206706,
       "name": "Message",
       "url": "https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2"
@@ -2018,7 +2094,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206706,
       "name": "Message",
       "url": "https://open.spotify.com/track/4Ugs4gNxnjxdy3SW41QULa"
@@ -2036,7 +2112,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 173506,
       "name": "MiSS BEHAVE",
       "url": "https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg"
@@ -2054,7 +2130,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173506,
       "name": "MiSS BEHAVE",
       "url": "https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq"
@@ -2358,7 +2434,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 142406,
       "name": "Nothing We Can't Get Through",
       "url": "https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD"
@@ -2376,7 +2452,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142406,
       "name": "Nothing We Can't Get Through",
       "url": "https://open.spotify.com/track/5YoRg9SvbCmdxhVf3kyRfS"
@@ -2416,7 +2492,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194072,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk"
@@ -2434,7 +2510,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194072,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
@@ -2528,7 +2604,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 248928,
       "name": "P.B.J.",
       "url": "https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh"
@@ -2546,7 +2622,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248928,
       "name": "P.B.J.",
       "url": "https://open.spotify.com/track/47h0eLXSjZlhI8htgdhnre"
@@ -2604,7 +2680,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 134166,
       "name": "Pineapple Cognac",
       "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
@@ -2622,7 +2698,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134166,
       "name": "Pineapple Cognac",
       "url": "https://open.spotify.com/track/74mprhwOJDamrTZ69Pz0cE"
@@ -2670,7 +2746,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 197205,
       "name": "Play Too Much",
       "url": "https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA"
@@ -2696,7 +2772,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197205,
       "name": "Play Too Much",
       "url": "https://open.spotify.com/track/6kojoNSvYr4WFUx7CYMJWb"
@@ -2980,7 +3056,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318361,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/0KftydL9BNI4g79mvD6UHR"
@@ -2998,7 +3074,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 318361,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA"
@@ -3060,6 +3136,24 @@
       "duration_ms": 175706,
       "name": "Stay Flo",
       "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
+    },
+    {
+      "album": {
+        "name": "Love Had Other Plans, Pt. 2",
+        "url": "https://open.spotify.com/album/0JMXQR3Ya4UI3KDK2IdHav"
+      },
+      "artists": [
+        {
+          "name": "Nicole Chambers",
+          "url": "https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Stay In Time",
+      "url": "https://open.spotify.com/track/1Nl0xn0EDNVfuY6yb7hKTv"
     },
     {
       "album": {
@@ -3494,7 +3588,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205090,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/1nOZdaEDnhuyZst0JPRqSs"
@@ -3512,7 +3606,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 205090,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as"

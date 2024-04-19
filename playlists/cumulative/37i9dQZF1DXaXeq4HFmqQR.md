@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-843 songs - 1 day 22 hr 49 min
+844 songs - 1 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 | 2023-11-29 | 2024-03-07 |
 | [Lluvia Frenesí](https://open.spotify.com/track/5vSu69UhUucZjmwuz2lamC) | [Amanitas](https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR), [Ana Tijoux](https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG) | [Lluvia Frenesí](https://open.spotify.com/album/7xB7VS8Y687rjwhYI1jqS1) | 4:49 | 2022-05-04 | 2023-07-06 |
 | [Llévame muy lejos](https://open.spotify.com/track/2JdNusXW3vgQnYkkICMY2T) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Kaos](https://open.spotify.com/album/7Lf89yuqc6fa4Q80H0wIQu) | 3:30 | 2022-02-02 | 2022-03-09 |
-| [Lo Decidi Yo](https://open.spotify.com/track/2tuAwouI1R8T5GNbAPSc41) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7) | 4:05 | 2024-03-07 |  |
+| [Lo Decidi Yo](https://open.spotify.com/track/2tuAwouI1R8T5GNbAPSc41) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7) | 4:05 | 2024-03-07 | 2024-04-19 |
+| [Lo decidí yo](https://open.spotify.com/track/25Lcl6vHgZxzmnMw4FCAj6) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/59dIckHfS1m5AVBA3urboQ) | 4:05 | 2024-03-11 |  |
 | [Lo Que Hay Afuera](https://open.spotify.com/track/4Vd9rh7HoNEAyBmFNwArrx) | [Sofia Oportot](https://open.spotify.com/artist/17zDtZTCCbhhGIIC4jKyfQ) | [Lo Que Hay Afuera](https://open.spotify.com/album/3ED3VNY8X9WPtK3LN1Misf) | 3:26 | 2023-10-04 | 2023-11-10 |
 | [Lo Que Mereces](https://open.spotify.com/track/41JMshHJExQtMdpuugABYB) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Las Horas](https://open.spotify.com/album/2OsdzaqEbpbvBUVi1hGiPg) | 4:49 | 2022-07-06 | 2022-08-04 |
 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 | 2023-08-02 | 2023-09-07 |

@@ -132,7 +132,7 @@
     {
       "album": {
         "name": "For Better Times",
-        "url": "https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ"
+        "url": "https://open.spotify.com/album/3KpbGfC4zBlggH4aOWjHZ5"
       },
       "artists": [
         {
@@ -143,6 +143,24 @@
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247283,
+      "name": "As We Believed",
+      "url": "https://open.spotify.com/track/0YS2Iy9JTHWVm4ros9DRJI"
+    },
+    {
+      "album": {
+        "name": "For Better Times",
+        "url": "https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ"
+      },
+      "artists": [
+        {
+          "name": "Oakwood Station",
+          "url": "https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 247283,
       "name": "As We Believed",
       "url": "https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF"
@@ -286,10 +304,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445040,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3x8EfCWsbO4R6B0IaNWqO1"
+    },
+    {
+      "album": {
+        "name": "Breathing Space",
+        "url": "https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445040,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM"
     },
     {
       "album": {
@@ -586,10 +622,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161258,
       "name": "Dreamland - Solo Piano Version",
       "url": "https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph"
+    },
+    {
+      "album": {
+        "name": "Dreamland / Forever Song (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/6vzzFnlj1almQsBqBz0la9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161258,
+      "name": "Dreamland - Solo Piano Version",
+      "url": "https://open.spotify.com/track/7wY3h2bJXXAVEI3KHuzHmi"
     },
     {
       "album": {
@@ -880,7 +934,7 @@
     {
       "album": {
         "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+        "url": "https://open.spotify.com/album/4iVHdg8bb5lkUZGhAbwVCf"
       },
       "artists": [
         {
@@ -891,6 +945,24 @@
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 476213,
+      "name": "Lovesong from the Mountains",
+      "url": "https://open.spotify.com/track/2a5fSrT93ywfdY9yTtn3yX"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 478520,
       "name": "Lovesong from the Mountains",
       "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
@@ -980,10 +1052,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 513546,
       "name": "Mother's Wingspan",
       "url": "https://open.spotify.com/track/3RqQ8kwJxeFehJozV6JGnh"
+    },
+    {
+      "album": {
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/3vERpdSCKMGDzreizY178B"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513546,
+      "name": "Mother's Wingspan",
+      "url": "https://open.spotify.com/track/58j7x742K2P6jhthofQwBp"
     },
     {
       "album": {
@@ -1384,7 +1474,7 @@
     {
       "album": {
         "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+        "url": "https://open.spotify.com/album/4iVHdg8bb5lkUZGhAbwVCf"
       },
       "artists": [
         {
@@ -1395,6 +1485,24 @@
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 572146,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/4O20FRyWVCr4t6bl3Xxvsj"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 572853,
       "name": "Sound of Invisible Waters",
       "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
@@ -1716,10 +1824,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354973,
       "name": "Uno",
       "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
+    },
+    {
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/194zcn3p2KdTgfI5m7HWEh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/3wDjJstO6soS2ewJ3xhyDG"
     },
     {
       "album": {
@@ -1796,7 +1922,7 @@
     {
       "album": {
         "name": "Where's My Love",
-        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
+        "url": "https://open.spotify.com/album/3nB2ynDft4qV8kuP4zkQB4"
       },
       "artists": [
         {
@@ -1807,6 +1933,24 @@
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274493,
+      "name": "Where's My Love - Piano Solo",
+      "url": "https://open.spotify.com/track/59lUvVUixyLmC3u9kSIU1Y"
+    },
+    {
+      "album": {
+        "name": "Where's My Love",
+        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 274493,
       "name": "Where's My Love - Piano Solo",
       "url": "https://open.spotify.com/track/6eEZVHfuLQJsUO8kO4v3io"

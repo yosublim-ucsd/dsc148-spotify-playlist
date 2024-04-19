@@ -182,10 +182,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89386,
       "name": "Hear Nothing See Nothing Say Nothing",
       "url": "https://open.spotify.com/track/7EHljAnmdx0lTM90jcVqWW"
+    },
+    {
+      "album": {
+        "name": "Hear Nothing See Nothing Say Nothing",
+        "url": "https://open.spotify.com/album/6WYcRCX40Kfhjjeiy2S91P"
+      },
+      "artists": [
+        {
+          "name": "Discharge",
+          "url": "https://open.spotify.com/artist/5SRhOM75OnwuXH8BmCxD5a"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90226,
+      "name": "Hear Nothing See Nothing Say Nothing",
+      "url": "https://open.spotify.com/track/4jTLlwHR9tn7dIFUScOwRi"
     },
     {
       "album": {

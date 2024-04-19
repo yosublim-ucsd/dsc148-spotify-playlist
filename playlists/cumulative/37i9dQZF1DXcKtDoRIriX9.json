@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Metal Box",
+        "url": "https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh"
+      },
+      "artists": [
+        {
+          "name": "Public Image Ltd.",
+          "url": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305481,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3lwlqOBAfQPE34BlQ7fJQa"
+    },
+    {
+      "album": {
         "name": "Second Edition",
         "url": "https://open.spotify.com/album/5votrp9PY49suw8xnXqyrm"
       },
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308826,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3mJYQ7xha2xHuvqaFQMbNb"
@@ -2400,10 +2418,36 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293546,
       "name": "Trance Deux - CHLOE Remix",
       "url": "https://open.spotify.com/track/6aqRXCKz3RArr6LqEneBBk"
+    },
+    {
+      "album": {
+        "name": "Trance Deux* (CHLOE Remix)",
+        "url": "https://open.spotify.com/album/4BORKSauvQXP0Jahh69a8i"
+      },
+      "artists": [
+        {
+          "name": "Tushen Ra\u00ef",
+          "url": "https://open.spotify.com/artist/2tYH3c0GTbAYZ9buuBYpJO"
+        },
+        {
+          "name": "Warum",
+          "url": "https://open.spotify.com/artist/5RXsd0uXGvCxw0XQBv5YLA"
+        },
+        {
+          "name": "CHLOE (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293786,
+      "name": "Trance Deux* - CHLOE Remix",
+      "url": "https://open.spotify.com/track/2h6xX9HbkQ7v4D6Jwl0Wnf"
     },
     {
       "album": {
@@ -2606,10 +2650,6 @@
         {
           "name": "AFAR",
           "url": "https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ"
-        },
-        {
-          "name": "Laut & Luise",
-          "url": "https://open.spotify.com/artist/2AfR24rIhReKAoUrxR8Bea"
         }
       ],
       "date_added": "2024-02-14",

@@ -61,6 +61,24 @@
     },
     {
       "album": {
+        "name": "Finding Nemo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266600,
+      "name": "Beyond The Sea",
+      "url": "https://open.spotify.com/track/2fjRInUmwqLhgvW9hQtbo6"
+    },
+    {
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/6pXwZ3QYQOcP3mNVN1F6CB"
       },
@@ -72,7 +90,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267562,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/0zaAUrSvMYrBGcLcmWKcxy"
@@ -220,10 +238,32 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 358646,
       "name": "Down to Earth (feat. Soweto Gospel Choir)",
       "url": "https://open.spotify.com/track/6QGWsMkxSv2l3Ae3jlsENi"
+    },
+    {
+      "album": {
+        "name": "WALL-E",
+        "url": "https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357973,
+      "name": "Down to Earth - From \"WALL-E\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3RcTV0VBkSwzHNMghOmRbm"
     },
     {
       "album": {
@@ -256,10 +296,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 62400,
       "name": "EVE",
       "url": "https://open.spotify.com/track/2SGW2reRU2ZvIinJAhAogC"
+    },
+    {
+      "album": {
+        "name": "WALL-E",
+        "url": "https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62400,
+      "name": "EVE - From \"WALL-E\"/Score",
+      "url": "https://open.spotify.com/track/3ypMbDmBzhI4hTugVJSA58"
     },
     {
       "album": {
@@ -542,10 +600,36 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346493,
       "name": "Lava",
       "url": "https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ"
+    },
+    {
+      "album": {
+        "name": "Lava (From \"Lava\")",
+        "url": "https://open.spotify.com/album/6KFz2TNpCesJjeXdw8b2Sa"
+      },
+      "artists": [
+        {
+          "name": "Kuana Torres Kahele",
+          "url": "https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn"
+        },
+        {
+          "name": "Napua Greig",
+          "url": "https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B"
+        },
+        {
+          "name": "James Ford Murphy",
+          "url": "https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346492,
+      "name": "Lava - From \"Lava\"",
+      "url": "https://open.spotify.com/track/3wjIKFGs7AdI5WlIv3bbcr"
     },
     {
       "album": {
@@ -586,10 +670,32 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225986,
       "name": "Learn Me Right",
       "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225986,
+      "name": "Learn Me Right - From \"Brave\"/Soundtrack",
+      "url": "https://open.spotify.com/track/4TYdTJchjCamQAcYyRL7KE"
     },
     {
       "album": {
@@ -1051,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170933,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/0LGF5lHk51Xa0BCJsWXrJv"
+    },
+    {
+      "album": {
         "name": "New Juke Box Hits",
         "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
       },
@@ -1062,7 +1186,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
@@ -1136,10 +1260,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192506,
       "name": "Steal The Show",
       "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
+    },
+    {
+      "album": {
+        "name": "Steal The Show (From \"Elemental\")",
+        "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191779,
+      "name": "Steal The Show - From \"Elemental\"",
+      "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
     },
     {
       "album": {
@@ -1362,10 +1504,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119986,
       "name": "Wall-E",
       "url": "https://open.spotify.com/track/5GAE12gkdsWnscaoXxCDdq"
+    },
+    {
+      "album": {
+        "name": "WALL-E",
+        "url": "https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119986,
+      "name": "Wall-E - From \"WALL-E\"/Score",
+      "url": "https://open.spotify.com/track/5h8X9sIEMqO6Wi0OHGL01M"
     },
     {
       "album": {
@@ -1380,10 +1540,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242746,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/2m1mYan1nvOMORlb12q2Y9"
+    },
+    {
+      "album": {
+        "name": "Toy Story 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1d9mhjBzN4ovJUr3AntOuC"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242746,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3fazam52RUALaUhR6cDadU"
     },
     {
       "album": {
@@ -1405,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Toy Story 2",
+        "url": "https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185240,
+      "name": "When She Loved Me",
+      "url": "https://open.spotify.com/track/6lMh9k54E4mxbGBMkSwYhT"
+    },
+    {
+      "album": {
         "name": "Toy Story Favorites",
         "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
       },
@@ -1416,7 +1612,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183440,
       "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"

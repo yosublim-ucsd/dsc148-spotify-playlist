@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156214,
       "name": "Action!",
       "url": "https://open.spotify.com/track/4VSdkLjHs7arQUoCyxTQ2h"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 156214,
       "name": "Action!",
       "url": "https://open.spotify.com/track/4cIatWQ19eqVidOQq8HqON"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140289,
       "name": "Bedtime Stories",
       "url": "https://open.spotify.com/track/2x6UI2qPGH8UJ1Dd6hMR6l"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 140289,
       "name": "Bedtime Stories",
       "url": "https://open.spotify.com/track/5xgBtctAMKBLzbFn6UPyr2"
@@ -114,6 +114,24 @@
     {
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89590,
+      "name": "Brush Your Teeth",
+      "url": "https://open.spotify.com/track/1XlecODhHCFgVDzEaTEbgQ"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
       },
       "artists": [
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89590,
       "name": "Brush Your Teeth",
       "url": "https://open.spotify.com/track/3neIWarw2da7neX8fDMWsi"
@@ -150,6 +168,24 @@
     {
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Calm Body, Calm Mind",
+      "url": "https://open.spotify.com/track/4WO7Og4MKzrWYqwbqYfZcA"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
       },
       "artists": [
@@ -160,7 +196,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197226,
       "name": "Calm Body, Calm Mind",
       "url": "https://open.spotify.com/track/7BuMcS6Ym4VQsGzMpJ0lIK"
@@ -178,7 +214,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 195109,
       "name": "Clean Up",
       "url": "https://open.spotify.com/track/12kYxC3LBisWWjlkIBRNJI"
@@ -196,10 +232,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195109,
       "name": "Clean Up",
       "url": "https://open.spotify.com/track/1qsDyHmh6PK2IsGr4kea2I"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195606,
+      "name": "Far Away (But That's Okay)",
+      "url": "https://open.spotify.com/track/0HaAs0Z8akxTXLYHKFCQx8"
     },
     {
       "album": {
@@ -214,7 +268,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195606,
       "name": "Far Away (But That's Okay)",
       "url": "https://open.spotify.com/track/32FtZpPu2cMr4t5HqVZzh4"
@@ -250,7 +304,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 184444,
       "name": "Go! Go! Go! (Wake Up Song)",
       "url": "https://open.spotify.com/track/41yd9PbwZWorINj0xH4FEb"
@@ -268,7 +322,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184444,
       "name": "Go! Go! Go! (Wake Up Song)",
       "url": "https://open.spotify.com/track/5YOOEo0itNGgaMCSs9oha6"
@@ -286,7 +340,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 157999,
       "name": "Good Good Day",
       "url": "https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA"
@@ -304,10 +358,32 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157999,
       "name": "Good Good Day",
       "url": "https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        },
+        {
+          "name": "Winter River",
+          "url": "https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "I'll Always Love You",
+      "url": "https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9"
     },
     {
       "album": {
@@ -348,7 +424,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173773,
       "name": "I'll Always Love You",
       "url": "https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9"
@@ -402,7 +478,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142250,
       "name": "Learn Colors / Aprende Colores",
       "url": "https://open.spotify.com/track/4r42EiTyHU9OJNlSS1b0wS"
@@ -420,10 +496,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 142250,
       "name": "Learn Colors / Aprende Colores",
       "url": "https://open.spotify.com/track/6ZRk8w5n6BMtdYfjB6O8pI"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW"
     },
     {
       "album": {
@@ -438,7 +532,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203773,
       "name": "Let\u2019s Move! Dance Party",
       "url": "https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK"
@@ -474,7 +568,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160602,
       "name": "Making Friends",
       "url": "https://open.spotify.com/track/2mixShNf2zlXIInwxIT14o"
@@ -492,7 +586,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 160602,
       "name": "Making Friends",
       "url": "https://open.spotify.com/track/4ku99b4tEvQAfps4L8z6Rn"
@@ -518,6 +612,24 @@
     {
       "album": {
         "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214390,
+      "name": "Sharing With You",
+      "url": "https://open.spotify.com/track/5LIpvJSZfiRpIM2BD2qwb4"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
         "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"
       },
       "artists": [
@@ -528,7 +640,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214390,
       "name": "Sharing With You",
       "url": "https://open.spotify.com/track/63DpK6dZZkPAHiH1OV9KF5"
@@ -572,6 +684,24 @@
     {
       "album": {
         "name": "Netflix Jr. Jams: Vol. 1",
+        "url": "https://open.spotify.com/album/64Vj7Dola6M4HsOieRb3QO"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138945,
+      "name": "Thank You!",
+      "url": "https://open.spotify.com/track/2zDbmEiwmeVJ4xYBZT5GsO"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 1",
         "url": "https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF"
       },
       "artists": [
@@ -582,10 +712,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138945,
       "name": "Thank You!",
       "url": "https://open.spotify.com/track/7uloNNWf75NUhvJPQrqymF"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161025,
+      "name": "The Gratitude Attitude",
+      "url": "https://open.spotify.com/track/2BGfPHga1Kr75ew5NDqGKb"
     },
     {
       "album": {
@@ -618,7 +766,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161025,
       "name": "The Gratitude Attitude",
       "url": "https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe"
@@ -636,7 +784,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140810,
       "name": "Trying New Foods",
       "url": "https://open.spotify.com/track/7Go2RKeKgTkwhZ7i2r931R"
@@ -654,10 +802,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 140810,
       "name": "Trying New Foods",
       "url": "https://open.spotify.com/track/7KlXmSL2CAk3qGBxUjqOyc"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 1",
+        "url": "https://open.spotify.com/album/64Vj7Dola6M4HsOieRb3QO"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130572,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/1LmWD8DzUHxRw5lsneF1PE"
     },
     {
       "album": {
@@ -672,7 +838,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130572,
       "name": "Twinkle Twinkle Little Star",
       "url": "https://open.spotify.com/track/3txvpQLGkFNvQv3TRFZt5G"
@@ -694,6 +860,24 @@
       "duration_ms": 130572,
       "name": "Twinkle Twinkle Little Star",
       "url": "https://open.spotify.com/track/4EQJGKRbbiFXmbqqO4uLB3"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 1",
+        "url": "https://open.spotify.com/album/64Vj7Dola6M4HsOieRb3QO"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158091,
+      "name": "Wash Your Hands Band",
+      "url": "https://open.spotify.com/track/0U0varN1lqQdQiqa8F2iIn"
     },
     {
       "album": {
@@ -726,7 +910,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158091,
       "name": "Wash Your Hands Band",
       "url": "https://open.spotify.com/track/4m92BYji23YHvv00N5XAXL"
@@ -744,7 +928,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166968,
       "name": "You're A Star",
       "url": "https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt"
@@ -769,6 +953,42 @@
     },
     {
       "album": {
+        "name": "Netflix Jr. Jams: Vol. 1",
+        "url": "https://open.spotify.com/album/64Vj7Dola6M4HsOieRb3QO"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166968,
+      "name": "You're A Star",
+      "url": "https://open.spotify.com/track/61ddRTKxzbfM5GT9BGwQk1"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131968,
+      "name": "Zoom! Beep! (Vehicles Song)",
+      "url": "https://open.spotify.com/track/1dMBbCIcP8NxT59uF2HsZc"
+    },
+    {
+      "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
       },
@@ -780,7 +1000,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131968,
       "name": "Zoom! Beep! (Vehicles Song)",
       "url": "https://open.spotify.com/track/5Z2oDrMUuTKQmygwDPPHI8"

@@ -168,7 +168,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264200,
       "name": "Are You In?",
       "url": "https://open.spotify.com/track/0IRvfvDUVIvbvgCDY17wnp"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264200,
       "name": "Are You In?",
       "url": "https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284506,
       "name": "Bonin' In the Boneyard",
       "url": "https://open.spotify.com/track/0qDtp6FcN5JYQDypObIZFZ"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284626,
       "name": "Bonin' In the Boneyard",
       "url": "https://open.spotify.com/track/3WBRoMyO2huOjKnrq0PaTX"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 112906,
       "name": "Breaking Glass - 1999 Remaster",
       "url": "https://open.spotify.com/track/5gUP8H0bRV9a75K7wleHXH"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112400,
       "name": "Breaking Glass - 2017 Remaster",
       "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 690586,
       "name": "Conspiranoia",
       "url": "https://open.spotify.com/track/6RUCtuvZNFyozWuVG3sxYs"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 690586,
       "name": "Conspiranoia",
       "url": "https://open.spotify.com/track/7MPJD2TRVCCGZVR38ZVpsk"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 294826,
       "name": "Cult of Personality",
       "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294532,
       "name": "Cult of Personality (2023 Remaster)",
       "url": "https://open.spotify.com/track/4WG7Z3bNM3iE4vCYcXsxNx"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 333680,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/11DOcIM6IkO45qpyrdMJgc"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333680,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/4uxiBHb7nMuGMm0sKo1ImT"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210733,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/3paZJ9ZfDEQYp5d3SvBfdz"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 210733,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/6dTK3myeKGWomdNhtMK59Y"
@@ -1244,10 +1244,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217573,
       "name": "Mull",
       "url": "https://open.spotify.com/track/1jnYj6S2Ng6DcyE7ySChdK"
+    },
+    {
+      "album": {
+        "name": "Mull",
+        "url": "https://open.spotify.com/album/4eIICVjPcC3S4obQCjV5t9"
+      },
+      "artists": [
+        {
+          "name": "Mike Gordon",
+          "url": "https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Mull",
+      "url": "https://open.spotify.com/track/4d5jL5S0CdpKBjEX7Pskt6"
     },
     {
       "album": {
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204054,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/1fA2I8fXd5uiB77U70gIbl"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 204054,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI"
@@ -1474,7 +1492,7 @@
     {
       "album": {
         "name": "Pre-School Love Affair",
-        "url": "https://open.spotify.com/album/2YQSHL8WhkdAwWPByaMjvw"
+        "url": "https://open.spotify.com/album/5AGBD7UcNGcPcVOGPelSg3"
       },
       "artists": [
         {
@@ -1485,6 +1503,24 @@
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Pre-School Love Affair",
+      "url": "https://open.spotify.com/track/1qiYN4z72NjdyQ2ZOtpajS"
+    },
+    {
+      "album": {
+        "name": "Pre-School Love Affair",
+        "url": "https://open.spotify.com/album/2YQSHL8WhkdAwWPByaMjvw"
+      },
+      "artists": [
+        {
+          "name": "Peeping Tom",
+          "url": "https://open.spotify.com/artist/3R0asV2e7pWetezwXtpDLG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 190360,
       "name": "Pre-School Love Affair",
       "url": "https://open.spotify.com/track/5mGiXG8Jkg7Y9MV3jeSWpc"
@@ -1706,7 +1742,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259640,
       "name": "Sister Midnight",
       "url": "https://open.spotify.com/track/7LzUOUXKmE6QdApk8T0XTc"
@@ -1724,7 +1760,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260030,
       "name": "Sister Midnight",
       "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
@@ -1760,7 +1796,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317786,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/6gsDzEHPRTzviRlh8x9oRP"
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 317786,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/7kg6YIkVubmkmRnmMJ77pS"
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250811,
       "name": "Stranger Danger",
       "url": "https://open.spotify.com/track/7ux8QzKcPzGVndWzxLsylm"
@@ -1880,7 +1916,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246475,
       "name": "Stranger Danger (In The Streets Of Life)",
       "url": "https://open.spotify.com/track/2aVfD1DpyU1mqAtqbChj5A"
@@ -2118,7 +2154,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195266,
       "name": "TK421",
       "url": "https://open.spotify.com/track/1yrk5j7MegvbBqXnsQgw1I"
@@ -2136,7 +2172,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 195266,
       "name": "TK421",
       "url": "https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO"
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237133,
       "name": "Tobacco Road",
       "url": "https://open.spotify.com/track/5qE0ehKYj0Mp0XH5BsOKqZ"
@@ -2180,7 +2216,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237400,
       "name": "Tobacco Road",
       "url": "https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab"
@@ -2350,7 +2386,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238493,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/3qK5XXtWGtxYOA8tXy777R"
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/5RYLym87yzbP1RW23ywf5j"

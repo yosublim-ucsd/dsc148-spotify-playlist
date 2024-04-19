@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "Ada Jean",
+      "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"
+    },
+    {
+      "album": {
         "name": "ADDICT",
         "url": "https://open.spotify.com/album/79tWX8DDCWtHRynV2EiAqK"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222523,
       "name": "Always Tomorrow",
       "url": "https://open.spotify.com/track/0OblxGfTmtALWjImtm7DFd"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318378,
       "name": "Between All Things",
       "url": "https://open.spotify.com/track/3OPQDZohlsoElUKr7n0O54"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 150372,
       "name": "cerulean city",
       "url": "https://open.spotify.com/track/0fpezCsCOmR22MdRQkrviN"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 182189,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 295331,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 267039,
       "name": "Devil Disguised",
       "url": "https://open.spotify.com/track/1menSDf8OvWzHg9tCQ42tt"
@@ -3488,7 +3506,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia"
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182643,
       "name": "Falling Out",
       "url": "https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv"
@@ -4808,7 +4826,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215212,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/4Xe6EVrp69ccMVEhhPHdJ3"
@@ -5848,7 +5866,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215773,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/0Csdi7iivwev8WSaBsum0r"
@@ -6492,7 +6510,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181508,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/7GahBNine4Ru5Shs1GGpcr"
@@ -6918,7 +6936,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156026,
       "name": "Let's Go to Trader Joe's",
       "url": "https://open.spotify.com/track/69j9dsNUQQPBab9vCBu99r"
@@ -7276,7 +7294,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 208080,
       "name": "Love As A Weapon",
       "url": "https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v"
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169846,
       "name": "MUTUAL",
       "url": "https://open.spotify.com/track/7ssXkZztV1Fe60nO1pvTiK"
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197715,
       "name": "One More Try",
       "url": "https://open.spotify.com/track/7MdUPy3vjyCpoRDCXa3JN4"
@@ -10444,7 +10462,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 342483,
       "name": "Shadowshow",
       "url": "https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V"
@@ -10520,7 +10538,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 213120,
       "name": "Show Me How - Live at RBC Echo Beach",
       "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
@@ -12368,7 +12386,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 147644,
       "name": "Tides",
       "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
@@ -12408,7 +12426,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
@@ -13260,7 +13278,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 249548,
       "name": "What's Even Real Anymore",
       "url": "https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp"

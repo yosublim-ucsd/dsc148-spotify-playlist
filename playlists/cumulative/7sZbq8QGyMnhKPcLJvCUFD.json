@@ -3079,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/28S3mVZmP3xhem8Wv57TMa"
+      },
+      "artists": [
+        {
+          "name": "Ripple",
+          "url": "https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/0crDTU208G6G6JRw1GyFRZ"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP"
       },

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 925964,
       "name": "Ae Athra Ishq Naeen Saun Denda",
       "url": "https://open.spotify.com/track/5gAL3TaMNhdPtbHuKKQ1zo"
@@ -34,10 +34,64 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 821218,
       "name": "Akhiyan Udeek Diyaan",
       "url": "https://open.spotify.com/track/34I8KaDsPoVv6F6gItatrz"
+    },
+    {
+      "album": {
+        "name": "Big Boss Of Sufi Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 823994,
+      "name": "Akhiyan Udeek Diyan",
+      "url": "https://open.spotify.com/track/7zCeqf8je5o2XooGm634mK"
+    },
+    {
+      "album": {
+        "name": "Top 50 Punjabi Qawwalies",
+        "url": "https://open.spotify.com/album/64UchtwEtAGWd4sTZDQzF0"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 925964,
+      "name": "Athra Ishq Ni Saon Denda",
+      "url": "https://open.spotify.com/track/4Q9rdsluj3EWB9A41vO2K6"
+    },
+    {
+      "album": {
+        "name": "Bemisaal Jagjit Singh",
+        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+      },
+      "artists": [
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320306,
+      "name": "Bawa",
+      "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
     },
     {
       "album": {
@@ -52,7 +106,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320306,
       "name": "Bawa",
       "url": "https://open.spotify.com/track/7MMZySuMHhENxAWnSiJahb"
@@ -128,10 +182,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229013,
       "name": "Ghamaan Di Raat Lammi Ae",
       "url": "https://open.spotify.com/track/1PDD7lDnoAjH3QqbWwwHFu"
+    },
+    {
+      "album": {
+        "name": "Ichhabal Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Ghamaan Di Raat Lammi Ae",
+      "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
     },
     {
       "album": {
@@ -164,10 +236,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220920,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/55YbyzlrCUP4ym8Dok05Ot"
+    },
+    {
+      "album": {
+        "name": "Bemisaal Jagjit Singh",
+        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR"
     },
     {
       "album": {
@@ -207,6 +297,24 @@
     },
     {
       "album": {
+        "name": "The Most Sad Songs",
+        "url": "https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312111,
+      "name": "Jo Tere Gham Nu",
+      "url": "https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc"
+    },
+    {
+      "album": {
         "name": "Golden Punjab, Vol. 1",
         "url": "https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV"
       },
@@ -236,7 +344,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312163,
       "name": "Jo Tere Gham Nu",
       "url": "https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF"
@@ -272,10 +380,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 578176,
       "name": "Kinna Sohna Tainu",
       "url": "https://open.spotify.com/track/2amrgg9O41iXSAIRnxU7su"
+    },
+    {
+      "album": {
+        "name": "Big Boss Of Sufi Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578260,
+      "name": "Kinna Sohna Tainu",
+      "url": "https://open.spotify.com/track/6ZSg7tQPECNUrGI2KSzFW1"
     },
     {
       "album": {
@@ -290,7 +416,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 1270520,
       "name": "Kiven Mukhre Ton Nazran Hatawan",
       "url": "https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs"
@@ -308,7 +434,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1270572,
       "name": "Kiven Mukhre Ton Nazran Hatawan",
       "url": "https://open.spotify.com/track/0Ibco1p94QkiiZ7NE8qmci"
@@ -373,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Big Boss Of Sufi Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 919654,
+      "name": "Nit Khair Manga Sohneya",
+      "url": "https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu"
+    },
+    {
+      "album": {
         "name": "Nit Khair Mangan Vol. 17",
         "url": "https://open.spotify.com/album/5GcDQZI62w1Wf7napXHxwE"
       },
@@ -384,7 +528,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 917826,
       "name": "Nit Khair Mangan Sohnia Main Teri",
       "url": "https://open.spotify.com/track/59uJINektNnYnbMTd1IxAy"
@@ -496,10 +640,46 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 370960,
       "name": "Ruttan Aaiyan Mera Yaar Ni Aaya",
       "url": "https://open.spotify.com/track/4RhgKAdnUhQUL8QlzJMQWy"
+    },
+    {
+      "album": {
+        "name": "Abr Barsa Na Hawa Tez Chali",
+        "url": "https://open.spotify.com/album/3k8WvVxXyqRbDfXLSqhehY"
+      },
+      "artists": [
+        {
+          "name": "Ustad Hussain Baksh Gullo",
+          "url": "https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371017,
+      "name": "Ruttan Aaiyan Mera Yaar Ni Aaya",
+      "url": "https://open.spotify.com/track/4MiqW92WfkDrdt9LMUZfs2"
+    },
+    {
+      "album": {
+        "name": "Ichhabal Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
+      },
+      "artists": [
+        {
+          "name": "Dilraj Kaur",
+          "url": "https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414589,
+      "name": "Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry",
+      "url": "https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt"
     },
     {
       "album": {
@@ -514,7 +694,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 414589,
       "name": "Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry",
       "url": "https://open.spotify.com/track/6MUNQc53iyfVfRx0gQcf8W"
@@ -680,10 +860,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242440,
       "name": "Yarian Rab Kar Ke",
       "url": "https://open.spotify.com/track/1u6HlSO8HipfhVJuO48CGB"
+    },
+    {
+      "album": {
+        "name": "Ichhabal Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242440,
+      "name": "Yarian Rab Kar Ke",
+      "url": "https://open.spotify.com/track/4ReejH3jo9aHlJ98PJnGEi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9WDOjoils23"

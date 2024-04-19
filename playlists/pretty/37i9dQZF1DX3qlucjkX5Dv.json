@@ -1,6 +1,6 @@
 {
   "description": "The songs that inspired Ronaldinho in the 2000s. Handpicked by the Brazilian and Bar\u00e7a legend himself!",
-  "num_followers": 144960,
+  "num_followers": 144969,
   "original_name": "Bar\u00e7a Legends: R10",
   "owner": {
     "name": "Spotify",
@@ -131,8 +131,8 @@
     {
       "added_at": "2023-05-16 14:12:19",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/3nneeFwUNnvZRU91hY7dk0"
+        "name": "Pandemonium!",
+        "url": "https://open.spotify.com/album/7I35r17JNFjVEZPMHfe2nq"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
         }
       ],
-      "duration_ms": 204493,
+      "duration_ms": 205733,
       "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2lNjKOEumoJbrir0Y9dmPB"
+      "url": "https://open.spotify.com/track/7ewYIt7Zp5JliAWO9aIuWN"
     },
     {
       "added_at": "2023-05-16 14:12:19",
@@ -295,8 +295,8 @@
     {
       "added_at": "2023-05-16 14:12:19",
       "album": {
-        "name": "Eu Sou O Samba - Negritude Jr.",
-        "url": "https://open.spotify.com/album/4tFBwufQwzzwBvwPEcaY17"
+        "name": "Periferia",
+        "url": "https://open.spotify.com/album/2dbhWSDZYlRwHsSmj3Sxmi"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F"
         }
       ],
-      "duration_ms": 267706,
+      "duration_ms": 268693,
       "name": "A Princesa E O Plebeu",
-      "url": "https://open.spotify.com/track/6wyXMxvFw2tudARW1VpIBm"
+      "url": "https://open.spotify.com/track/6OgtBxnc28lJ6jUf7pyzmZ"
     },
     {
       "added_at": "2023-05-16 14:12:19",
@@ -327,89 +327,37 @@
     {
       "added_at": "2023-05-16 14:12:19",
       "album": {
-        "name": "Sambabook Dona Ivone Lara, Vol. 2",
-        "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
+        "name": "Sambabook Dona Ivone Lara",
+        "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
       "artists": [
         {
-          "name": "Sambabook",
-          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
-        },
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
         },
         {
           "name": "Maria Beth\u00e2nia",
           "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         },
         {
-          "name": "Delcio Carvalho",
-          "url": "https://open.spotify.com/artist/0aYIJDtwspSbUCDEOJNbcn"
+          "name": "Aline Calixto",
+          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
         },
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "Luiza Dionizio",
+          "url": "https://open.spotify.com/artist/6gMrwpIWKyYIk77kZMWwa4"
         },
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        },
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        },
-        {
-          "name": "Carminho",
-          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
-        },
-        {
-          "name": "Luiza Dion\u00edsio",
-          "url": "https://open.spotify.com/artist/0MjSZ7nMuEBukUZsRYquqf"
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
         },
         {
           "name": "Vanessa Da Mata",
           "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
         },
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Aline Calixto",
-          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
-        },
-        {
-          "name": "Bruno Castro",
-          "url": "https://open.spotify.com/artist/5zuSZ0T9iRss0BaobIc6Xm"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
         },
         {
           "name": "Elba Ramalho",
@@ -420,13 +368,53 @@
           "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
         },
         {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
+        },
+        {
           "name": "Hamilton De Holanda",
           "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Wilson Das Neves",
+          "url": "https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Lu Carvalho",
+          "url": "https://open.spotify.com/artist/2Ye9ezvx9sQjOCnkNbzk6O"
         }
       ],
-      "duration_ms": 228132,
+      "duration_ms": 228720,
       "name": "Sonho Meu",
-      "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
+      "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
     },
     {
       "added_at": "2023-05-16 14:12:19",
@@ -611,8 +599,8 @@
     {
       "added_at": "2023-05-16 14:12:19",
       "album": {
-        "name": "Hoje \u00c9 Dia De Festa",
-        "url": "https://open.spotify.com/album/4CGL4rqypX9EGhPcXcDqlp"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
       },
       "artists": [
         {
@@ -620,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         }
       ],
-      "duration_ms": 296640,
+      "duration_ms": 293613,
       "name": "Faixa Amarela",
-      "url": "https://open.spotify.com/track/3Rp4m03mbhlYgIeSWNP9xm"
+      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
     },
     {
       "added_at": "2023-05-16 14:12:19",
@@ -652,7 +640,7 @@
       "added_at": "2023-05-16 14:12:19",
       "album": {
         "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+        "url": "https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD"
       },
       "artists": [
         {
@@ -664,9 +652,9 @@
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 255773,
+      "duration_ms": 255706,
       "name": "Last Night",
-      "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
+      "url": "https://open.spotify.com/track/24NPziq3dayIMKppeI94Um"
     },
     {
       "added_at": "2023-05-16 14:12:19",
@@ -772,7 +760,7 @@
       "added_at": "2023-05-16 14:12:19",
       "album": {
         "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
       "artists": [
         {
@@ -780,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 256226,
+      "duration_ms": 256240,
       "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+      "url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi"
     },
     {
       "added_at": "2023-05-16 14:12:19",
@@ -823,8 +811,8 @@
     {
       "added_at": "2023-05-16 14:12:19",
       "album": {
-        "name": "Zeca Pagodinho Em Casa",
-        "url": "https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0"
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/6dwpP1wpPCBb4We4LzPPtb"
       },
       "artists": [
         {
@@ -834,7 +822,7 @@
       ],
       "duration_ms": 203626,
       "name": "Minha F\u00e9",
-      "url": "https://open.spotify.com/track/4V2ktBGkNr2JkAAEzywuiJ"
+      "url": "https://open.spotify.com/track/63efSBKSZJWb6JTDpM6Ype"
     },
     {
       "added_at": "2023-05-16 14:12:19",

@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+        "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
+    },
+    {
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/0rxn9TDqFlClsXAJBF5Ayc"
       },
@@ -1439,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173823,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
+    },
+    {
+      "album": {
         "name": "BANG",
         "url": "https://open.spotify.com/album/6owjFYUYF5Dz5KoZNUpows"
       },
@@ -1596,6 +1632,24 @@
       "duration_ms": 181294,
       "name": "Battling Me",
       "url": "https://open.spotify.com/track/45xborkcHEjHoDKdYXfKJI"
+    },
+    {
+      "album": {
+        "name": "BBE",
+        "url": "https://open.spotify.com/album/4P15AVqGcbL9zWTZ03EBfC"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "BBE",
+      "url": "https://open.spotify.com/track/1C4sXv58De3qibMjjPyNaB"
     },
     {
       "album": {
@@ -2258,7 +2312,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 195200,
       "name": "Bobby Boucher",
       "url": "https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj"
@@ -2284,7 +2338,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195200,
       "name": "Bobby Boucher",
       "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
@@ -4133,6 +4187,28 @@
     },
     {
       "album": {
+        "name": "DESIGNER DRUGZ",
+        "url": "https://open.spotify.com/album/3lGNVpMKKhqy9ogg5L4uRX"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Slimesito",
+          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143353,
+      "name": "DESIGNER DRUGZ",
+      "url": "https://open.spotify.com/track/06JXQfPKLhTAQNpCLCLJXC"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW"
       },
@@ -4833,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "We'll Talk Soon",
+        "url": "https://open.spotify.com/album/62FAK7BPLY2AB0oq6mCJ0p"
+      },
+      "artists": [
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121081,
+      "name": "Duckin\u2019",
+      "url": "https://open.spotify.com/track/7FlpApqLx1BPY84160fVN8"
+    },
+    {
+      "album": {
         "name": "Eastside Girl ft. Ty Dolla $ign",
         "url": "https://open.spotify.com/album/12WAN5dyQIXdvFMnKRFU2P"
       },
@@ -4956,7 +5050,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145454,
       "name": "ESPY",
       "url": "https://open.spotify.com/track/1zMVgABs2MnO6M85sXk3yT"
@@ -5062,7 +5156,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219000,
       "name": "Everybody's Safe Until\u2026",
       "url": "https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS"
@@ -5230,6 +5324,24 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "album": {
+        "name": "FAMOUS.",
+        "url": "https://open.spotify.com/album/4JeveqBfuL7HgGLuCns8hG"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115884,
+      "name": "FAMOUS.",
+      "url": "https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt"
     },
     {
       "album": {
@@ -6515,6 +6627,24 @@
     },
     {
       "album": {
+        "name": "MUMU 8818 (+2)",
+        "url": "https://open.spotify.com/album/4igY2mOcCgh4EgoaLxkv9d"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159440,
+      "name": "GOT ME TRIPPIN",
+      "url": "https://open.spotify.com/track/4IuxBiepU0fqVZquTUHHXh"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
       },
@@ -7280,7 +7410,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157080,
       "name": "How To Cry",
       "url": "https://open.spotify.com/track/4Xsexlmx4TkLOMM77UBLWX"
@@ -7302,6 +7432,24 @@
       "duration_ms": 233794,
       "name": "how u feel?",
       "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
+    },
+    {
+      "album": {
+        "name": "We'll Talk Soon",
+        "url": "https://open.spotify.com/album/62FAK7BPLY2AB0oq6mCJ0p"
+      },
+      "artists": [
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "How U Manage",
+      "url": "https://open.spotify.com/track/6PvLRruLwYw2z6ezeKmaE1"
     },
     {
       "album": {
@@ -7776,7 +7924,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145267,
       "name": "I'm Down",
       "url": "https://open.spotify.com/track/0ty1MSUp7DAg09qQXC30oj"
@@ -8346,7 +8494,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243679,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5oRxL1xwkTVPZSQcaOkoSc"
@@ -10396,7 +10544,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149293,
       "name": "MS BEHAVE",
       "url": "https://open.spotify.com/track/2SCsfgLAbD4q0IIetVzGsK"
@@ -11973,6 +12121,24 @@
     },
     {
       "album": {
+        "name": "sleep paralysis",
+        "url": "https://open.spotify.com/album/3mIubFykK6Sn53bZdT1Wx7"
+      },
+      "artists": [
+        {
+          "name": "BbyMutha",
+          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "piss!",
+      "url": "https://open.spotify.com/track/3PthER9UR9jfkhWlTBQkWy"
+    },
+    {
+      "album": {
         "name": "PlayDis!",
         "url": "https://open.spotify.com/album/6DrjWonQTaAaE6NTMIVsaf"
       },
@@ -12248,7 +12414,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
@@ -12270,7 +12436,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
@@ -14216,7 +14382,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123913,
       "name": "Smearious",
       "url": "https://open.spotify.com/track/6jaumuvzitwJKxGJEFfKjM"
@@ -15098,7 +15264,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
@@ -16438,7 +16604,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144661,
       "name": "Up The Score \"2024\"",
       "url": "https://open.spotify.com/track/5ynbk4reiOqiI0ILRmSLAZ"

@@ -1,13 +1,305 @@
 {
-  "description": "The newest r&b drops, every week. Cover: Tinashe",
-  "num_followers": 1038103,
+  "description": "The newest r&b drops, every week. Cover: Lucky Daye",
+  "num_followers": 1038038,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMGQ1MjRhMDNlN2RlY2Y2ZWYwYTZlZDExZGRkZGM0YTJk",
+  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDBlNWYwMjY2ZmQ1NGQzYTUwMDExMmE3ZjU4MWQ4MWI3",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "HERicane",
+        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Your Love Is All I Need",
+        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Your Love Is All I Need",
+      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Greatest Gift (Reimagined)",
+        "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Greatest Gift - Reimagined",
+      "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Ms. Ebony Brown",
+        "url": "https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "duration_ms": 198473,
+      "name": "Ms. Ebony Brown",
+      "url": "https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Wait, There's More",
+        "url": "https://open.spotify.com/album/02fFyLFZE7MkMTgQpZ2gzx"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5XeibBA25uruR2fj9SgCJk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Wahala (feat. Olamide)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Wahala (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Soul, Body & Mind",
+        "url": "https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 175115,
+      "name": "Soul, Body & Mind",
+      "url": "https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Better - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4CqOltY6OL5mhCaIcKnODi"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 196303,
+      "name": "Better - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3qOT3q3BIc4ZR4lqfGmboE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "On God (Deluxe)",
+        "url": "https://open.spotify.com/album/3Vs240nBf77WCUiuEt4uHg"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 153277,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/1U7lTpzMzmhspBP3892Gmy"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 136318,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "NIGHTS WITHOUT YOU",
+        "url": "https://open.spotify.com/album/3KzsCUhC3ln45SR5Vnbf8U"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "NIGHTS WITHOUT YOU",
+      "url": "https://open.spotify.com/track/1cEt75NXTPx7vzka7lKG38"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/31JAgjW1z3qZaOsNarS1P4"
+      },
+      "artists": [
+        {
+          "name": "BRIDGE",
+          "url": "https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8"
+        }
+      ],
+      "duration_ms": 128888,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/0P8ndUdukXaLD07VY5Kkmk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/67dCHnIYSsNEaSoWOAgMQ5"
+      },
+      "artists": [
+        {
+          "name": "TYuS",
+          "url": "https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4KZi5Ubz23DQOLDJuNLnKZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1"
+      },
+      "artists": [
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "Sir Travis Knight",
+          "url": "https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ"
+        }
+      ],
+      "duration_ms": 239712,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 182428,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
@@ -161,7 +453,7 @@
         }
       ],
       "duration_ms": 209310,
-      "name": "Thinkin",
+      "name": "Thinkin ft. Destin Conrad",
       "url": "https://open.spotify.com/track/7wYlWR1wYGY6Yllrvrb1VA"
     },
     {
@@ -192,8 +484,8 @@
           "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
         },
         {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
         }
       ],
       "duration_ms": 134400,
@@ -267,7 +559,7 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "lord I've tried",
+        "name": "lord i've tried",
         "url": "https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa"
       },
       "artists": [
@@ -277,7 +569,7 @@
         }
       ],
       "duration_ms": 106632,
-      "name": "lord I've tried",
+      "name": "lord i've tried",
       "url": "https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq"
     },
     {
@@ -1088,7 +1380,7 @@
       "added_at": "2024-03-29 04:28:45",
       "album": {
         "name": "Canopy",
-        "url": "https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB"
+        "url": "https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV"
       },
       "artists": [
         {
@@ -1098,7 +1390,7 @@
       ],
       "duration_ms": 151800,
       "name": "Canopy",
-      "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
+      "url": "https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf"
     },
     {
       "added_at": "2024-03-29 04:28:45",
@@ -1223,22 +1515,6 @@
       "duration_ms": 221564,
       "name": "Send Your Loving (feat. Tayc) [Remix]",
       "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
-    },
-    {
-      "added_at": "2024-03-29 04:28:45",
-      "album": {
-        "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/1jQ1Ecyi60q03i0MpLKMy4"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Cephas-Jones",
-          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
-        }
-      ],
-      "duration_ms": 258251,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/7muGpdwkkyfQEyi0EXngzs"
     },
     {
       "added_at": "2024-03-29 04:28:45",
@@ -1720,7 +1996,7 @@
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Gold",
-        "url": "https://open.spotify.com/album/0vOQpY2wc19PzJpCgXvcWo"
+        "url": "https://open.spotify.com/album/7dBQVQ6drTaBoL3H1v32Fq"
       },
       "artists": [
         {
@@ -1730,7 +2006,7 @@
       ],
       "duration_ms": 194285,
       "name": "Gold",
-      "url": "https://open.spotify.com/track/5dowGWYR5uTqaAtpofvZs6"
+      "url": "https://open.spotify.com/track/5dkTWuvnE2B4dOW0xo8mul"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1835,8 +2111,8 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "every night was the same",
-        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+        "name": "ordinary love",
+        "url": "https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA"
       },
       "artists": [
         {
@@ -1846,7 +2122,7 @@
       ],
       "duration_ms": 192835,
       "name": "ordinary love",
-      "url": "https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch"
+      "url": "https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2016,7 +2292,7 @@
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Gaslight 101",
-        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
+        "url": "https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl"
       },
       "artists": [
         {
@@ -2024,9 +2300,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 179036,
+      "duration_ms": 179500,
       "name": "Gaslight 101",
-      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
+      "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2068,7 +2344,7 @@
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "QUIET TYPE",
-        "url": "https://open.spotify.com/album/32A7DHaPVvSIOm7GvY7o9V"
+        "url": "https://open.spotify.com/album/42lOTQiNtcQmB6D8W9yoVY"
       },
       "artists": [
         {
@@ -2082,7 +2358,7 @@
       ],
       "duration_ms": 177174,
       "name": "QUIET TYPE",
-      "url": "https://open.spotify.com/track/6t3lDZ62QO2BsEhmBoZ2n2"
+      "url": "https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2118,6 +2394,10 @@
         {
           "name": "JANE HANDCOCK",
           "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
         }
       ],
       "duration_ms": 172167,
@@ -2251,26 +2531,6 @@
       "duration_ms": 197493,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
-    },
-    {
-      "added_at": "2024-03-08 05:32:59",
-      "album": {
-        "name": "Before We Get Started (feat. Fabolous)",
-        "url": "https://open.spotify.com/album/2CyOWWKaMME9IqKpGR3n4F"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        }
-      ],
-      "duration_ms": 175793,
-      "name": "Before We Get Started (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN"
     },
     {
       "added_at": "2024-03-08 05:32:59",
@@ -2497,138 +2757,6 @@
       "url": "https://open.spotify.com/track/4QMGInAtqzpZDNEuEsfhF3"
     },
     {
-      "added_at": "2024-03-08 05:32:59",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/42ZpyhNWUTOm5J9ex6I7yF"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        },
-        {
-          "name": "CVIRO",
-          "url": "https://open.spotify.com/artist/5C5mVIHAEIbomEs6nsNWJ9"
-        },
-        {
-          "name": "GXNXVS",
-          "url": "https://open.spotify.com/artist/6LuLHe6y5BHU0quiy0sMhL"
-        }
-      ],
-      "duration_ms": 159313,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
-    },
-    {
-      "added_at": "2024-03-08 12:15:46",
-      "album": {
-        "name": "J.PERIOD Presents\u2026Story To Tell (Chapter Two)",
-        "url": "https://open.spotify.com/album/5Rf93TUrYWX1CJaSaVTi6o"
-      },
-      "artists": [
-        {
-          "name": "J.PERIOD",
-          "url": "https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
-        },
-        {
-          "name": "CAMP",
-          "url": "https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Better Half (feat. Mumu Fresh & CAMP)",
-      "url": "https://open.spotify.com/track/6Yc3uWCueIEKJQW3E48s4Z"
-    },
-    {
-      "added_at": "2024-03-08 05:32:59",
-      "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7"
-      },
-      "artists": [
-        {
-          "name": "Devin Kennedy",
-          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
-        }
-      ],
-      "duration_ms": 188953,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "act iii: on god? (she like)",
-        "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "act iii: on god? (she like)",
-      "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "FYS",
-        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 209202,
-      "name": "FYS",
-      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The Rebirth 3: The Party & The Bedroom",
-        "url": "https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Drop",
-      "url": "https://open.spotify.com/track/1tGpqc786ulINUeRFK9iV4"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The R&B You Love: Soul Of The '70s",
-        "url": "https://open.spotify.com/album/7I92re0t1xeZk0V4gaAKRT"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 162821,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/1BlIEFBsyFYlZ91sjfYEFg"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Big Brown Eyes (feat. Orion Sun)",
@@ -2715,26 +2843,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
-        }
-      ],
-      "duration_ms": 116389,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Sad Songs For Winter",
         "url": "https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp"
       },
@@ -2751,22 +2859,6 @@
       "duration_ms": 150000,
       "name": "Anonymous",
       "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Where Have I Been?",
-        "url": "https://open.spotify.com/album/5ARvrX3Ec7G4vMp5cpeNoH"
-      },
-      "artists": [
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Where Have I Been?",
-      "url": "https://open.spotify.com/track/7LJDu7j29gWGyM1R2c224J"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2803,58 +2895,6 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 187972,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "I Don't Love You",
-        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 251009,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Spin The Block",
-        "url": "https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2"
-      },
-      "artists": [
-        {
-          "name": "Rhyan Douglas",
-          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
-        }
-      ],
-      "duration_ms": 252671,
-      "name": "Spin The Block",
-      "url": "https://open.spotify.com/track/28iI7pOj51BlKlEwhmplaT"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2919,8 +2959,8 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "GRIP",
-        "url": "https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY"
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd"
       },
       "artists": [
         {
@@ -2934,43 +2974,7 @@
       ],
       "duration_ms": 201218,
       "name": "Ellipsis",
-      "url": "https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "IS IT WORTH IT",
-        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "IS IT WORTH IT",
-      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Miss Me Yet\u2026 Now? (Deluxe)",
-        "url": "https://open.spotify.com/album/14ehmVW9EiofPxpyHiYbsI"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 227989,
-      "name": "Miss Me Yet? (Remix) feat. Eric Bellinger",
-      "url": "https://open.spotify.com/track/1PfxTi4Ea4gAU7SD7hdE8y"
+      "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
     }
   ],
   "unique_name": "R&B Weekly",

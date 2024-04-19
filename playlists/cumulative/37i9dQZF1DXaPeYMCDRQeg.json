@@ -1336,10 +1336,32 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
+    },
+    {
+      "album": {
+        "name": "Nellyville (Explicit Version)",
+        "url": "https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289173,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/4nthV2eZAXnt4yiJMocLkG"
     },
     {
       "album": {
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204316,
       "name": "Hrs & Hrs",
       "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204316,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
@@ -2376,7 +2398,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241624,
       "name": "ICU",
       "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
@@ -2394,7 +2416,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 241624,
       "name": "ICU",
       "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
@@ -3036,10 +3058,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286906,
       "name": "Luv U Better",
       "url": "https://open.spotify.com/track/7cGcyNd7NVvDIwCAQSbJLI"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/1tDwbmrFCoTwlrfUMZnT6n"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Luv U Better",
+      "url": "https://open.spotify.com/track/0HJYzGavqzjiKMmm4F0UZv"
     },
     {
       "album": {
@@ -4659,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "Voyage To India",
+        "url": "https://open.spotify.com/album/1i7DI6AtWXwll2cBb9hn9q"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/1lBpaiS1Y8MPoGaDqb9mCM"
+    },
+    {
+      "album": {
         "name": "Voyage To India - Special Edition",
         "url": "https://open.spotify.com/album/5gnsCHk9Y77xaVARBD0vwf"
       },
@@ -4670,7 +4728,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209853,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4C8bbFSl37YUCoVeyr3Fl3"

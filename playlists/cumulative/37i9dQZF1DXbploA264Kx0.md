@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Andr
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: KIRE
 
-133 songs - 7 hr 50 min
+135 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 | 2024-03-14 |  |
 | [Cult Film Club](https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt) | [傻子與白痴](https://open.spotify.com/artist/4rk0xYl7t3XftIQQedJjK4) | [姿態](https://open.spotify.com/album/7qV4doZ5ML6hqwxalH0VHF) | 4:05 | 2024-01-25 |  |
 | [Don't Break My Heart Again!](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again!](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2024-01-25 |  |
+| [don't stop](https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [don't stop](https://open.spotify.com/album/1GiRLk9pLoCegNsPpkapM1) | 2:48 | 2024-04-18 |  |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2024-01-25 |  |
 | [Everything I'll Ever Need](https://open.spotify.com/track/1LNuTFBRjXPh9HqS6Nevv5) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [Everything I'll Ever Need \- 雷亞遊戲《DEEMO II》片尾曲](https://open.spotify.com/album/47T4Pwammcbuh7RJrIOujK) | 3:16 | 2024-01-25 | 2024-02-02 |
 | [Everytime](https://open.spotify.com/track/43l6cr0F3VdjBLDOWq081Q) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g), [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Everytime](https://open.spotify.com/album/5QYcLdudlnlpQPJ7IzQg9t) | 3:30 | 2024-01-25 | 2024-03-29 |
@@ -91,8 +92,9 @@
 | [smoky room](https://open.spotify.com/track/7B3p5Cm9avnzwKUDAEBWnV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [smoky room](https://open.spotify.com/album/54qUi4zKKDG3Qs2oa0zwQa) | 1:44 | 2024-03-21 | 2024-04-12 |
 | [Split Personality](https://open.spotify.com/track/4pPN21vwQWAvKPdV8Ek08s) | [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe) | [Split Personality](https://open.spotify.com/album/3QEdZhrousPRLWQhC4MKVt) | 3:58 | 2024-02-15 | 2024-03-29 |
 | [Spring Summer Autumn \(Winter \- I Mean Us Remix](https://open.spotify.com/track/3QUmuOHWeHVExgkqT26Ogf) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Spring Summer Autumn \(Winter \[I Mean Us Remix\]](https://open.spotify.com/album/6VF0KKzVuA69bHBjKupyXn) | 2:24 | 2024-01-25 |  |
-| [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 | 2024-01-25 |  |
-| [SUGAR BABY](https://open.spotify.com/track/5GvmJngfjnUsCT8CpN75rA) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [SUGAR BABY](https://open.spotify.com/album/65E9nbL8bWcv2HCZNSboY8) | 2:25 | 2024-01-25 |  |
+| [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 | 2024-01-25 | 2024-04-19 |
+| [St\. Lover](https://open.spotify.com/track/3dvvbyu9mSK1AotEW8ngR4) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/1tf3ludbqfLPUmr8KjR8Tv) | 3:37 | 2024-04-18 |  |
+| [SUGAR BABY](https://open.spotify.com/track/5GvmJngfjnUsCT8CpN75rA) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [SUGAR BABY](https://open.spotify.com/album/65E9nbL8bWcv2HCZNSboY8) | 2:25 | 2024-01-25 | 2024-04-19 |
 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 | 2024-01-25 | 2024-03-22 |
 | [Tell Me](https://open.spotify.com/track/6akj6TwlmOSo4q6tmPj7Lv) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Mitsu The Beats](https://open.spotify.com/artist/17fQB1QlHkyLRJbTTP7zEz) | [9m88 Radio](https://open.spotify.com/album/0ltKqyXZYTB5RPF0KvkmPQ) | 4:06 | 2024-02-29 | 2024-03-15 |
 | [Terracotta](https://open.spotify.com/track/3yycg2Wzo2Rv3t4nTdQiq8) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Terracotta](https://open.spotify.com/album/5SkfmA6JHn14iV0vxtOtpb) | 2:03 | 2024-02-01 | 2024-03-15 |

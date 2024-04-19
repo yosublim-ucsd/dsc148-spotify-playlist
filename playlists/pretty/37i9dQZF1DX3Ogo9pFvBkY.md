@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,101 likes - 230 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,005 likes - 230 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 82 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 |
 | 83 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
 | 84 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 |
-| 85 | [View](https://open.spotify.com/track/4Ev7p6DnW0jIZ1OVmDp68L) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/6fiKIWt5RXOedncIS6e75t) | 2:20 |
+| 85 | [View](https://open.spotify.com/track/3pAHf0eiUS1j7GwXzia6aq) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/7DIi1vnsQwqtJEDwg4e6RE) | 2:20 |
 | 86 | [Somewhere in The Universe](https://open.spotify.com/track/3ZKOanKZHi3CGawcnXMk2y) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Somewhere in The Universe](https://open.spotify.com/album/5kMzFWm1eX0at2tcZcm2Nx) | 5:10 |
 | 87 | [Climbing](https://open.spotify.com/track/1x7zBpMIdrySvhENuSY5JV) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Climbing](https://open.spotify.com/album/1O1JvywjelQdazDkPI9Lei) | 2:35 |
 | 88 | [Subtlety And Refinement](https://open.spotify.com/track/6J8qqQ9tEDF1Zq4gtqbzDJ) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Subtlety And Refinement](https://open.spotify.com/album/4xkIBfbQ2v989G6YkJO28y) | 2:54 |

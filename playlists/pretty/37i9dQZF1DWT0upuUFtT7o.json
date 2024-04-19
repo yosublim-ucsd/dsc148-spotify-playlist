@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Slow Pulp performing at Fresh Finds Chicago March, 2024",
-  "num_followers": 214764,
+  "num_followers": 215089,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjkzOTQ2NCwwMDAwMDAwMGZkNDRkMjc5MDc3NDUyYzY5ODhjMjkxYTUyZGM1Mjky",
+  "snapshot_id": "MTcxMzMyNjQwMCwwMDAwMDAwMDRiNTk0ZmFmNGI3M2ZlMGMyMTE2ZDYwZDQ3MjZkZThm",
   "tracks": [
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Angel Blessings",
+        "url": "https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "duration_ms": 200624,
+      "name": "Angel Blessings",
+      "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
+    },
     {
       "added_at": "2024-04-12 16:31:04",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 204890,
       "name": "Sedona",
       "url": "https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "COOL RIFF!",
+        "url": "https://open.spotify.com/album/7z9fZybutFwMMrTuCOzZFY"
+      },
+      "artists": [
+        {
+          "name": "Jackson August",
+          "url": "https://open.spotify.com/artist/1fEYP7fDawtTMpV3IHzZRN"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "COOL RIFF!",
+      "url": "https://open.spotify.com/track/3HAmeofcy7zbiv4jykoOIN"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Distrust the Magician",
+        "url": "https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 337520,
+      "name": "Distrust the Magician",
+      "url": "https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "The Ransom",
+        "url": "https://open.spotify.com/album/5n9Z7vxsXEnk0s7O2H6B35"
+      },
+      "artists": [
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK"
+        }
+      ],
+      "duration_ms": 250539,
+      "name": "The Ransom",
+      "url": "https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Tired Boy",
+        "url": "https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/4prePkK24oG7oI8k423sD5"
+      },
+      "artists": [
+        {
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/34mMgNBi8M0sC79pOhiqeb"
     },
     {
       "added_at": "2024-04-10 04:00:00",
@@ -41,20 +137,68 @@
       "url": "https://open.spotify.com/track/6TMeTjBTzIoDeYrFA2qvC5"
     },
     {
-      "added_at": "2024-04-03 04:00:00",
+      "added_at": "2024-04-17 04:00:00",
       "album": {
-        "name": "Tired Boy",
-        "url": "https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW"
+        "name": "KNOCK KNOCK",
+        "url": "https://open.spotify.com/album/7llXOf1YV2Hc9zBUD0Un1f"
       },
       "artists": [
         {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
         }
       ],
-      "duration_ms": 270344,
-      "name": "Tired Boy",
-      "url": "https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc"
+      "duration_ms": 123500,
+      "name": "KNOCK KNOCK",
+      "url": "https://open.spotify.com/track/60beUsEcWAuppAebGiReIv"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Brando!",
+        "url": "https://open.spotify.com/album/5QEd8VkVoGYTAsIBiuQFq8"
+      },
+      "artists": [
+        {
+          "name": "Tuff Bear",
+          "url": "https://open.spotify.com/artist/7AOmmzhzOjls8I7MoHOUfR"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "Brando!",
+      "url": "https://open.spotify.com/track/2XNYgZ6wekgwOYq96SEfWk"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Hot Melt Glue",
+        "url": "https://open.spotify.com/album/3hnJAX57pZCsvqJtylX0V7"
+      },
+      "artists": [
+        {
+          "name": "Fast Money Music",
+          "url": "https://open.spotify.com/artist/37rvdJhJTdOjONlJWJzvTO"
+        }
+      ],
+      "duration_ms": 167780,
+      "name": "Hot Melt Glue",
+      "url": "https://open.spotify.com/track/3VRj4d6pOSAHYRgllt3R0q"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "A public place",
+        "url": "https://open.spotify.com/album/1Vbe6nk4QsGxPSgE0jQbHm"
+      },
+      "artists": [
+        {
+          "name": "Helenor",
+          "url": "https://open.spotify.com/artist/48ArPjkg4eeTRFMB9abusw"
+        }
+      ],
+      "duration_ms": 296828,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/3oYvny1uTScMeCYYePNSNm"
     },
     {
       "added_at": "2024-04-10 04:00:00",
@@ -87,6 +231,22 @@
       "duration_ms": 207400,
       "name": "horny dog",
       "url": "https://open.spotify.com/track/2785k69pUIsXbtCDFrmQD2"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Computer Kill",
+        "url": "https://open.spotify.com/album/3tDz1RnL21p4cj7v1DZAnD"
+      },
+      "artists": [
+        {
+          "name": "Computer Kill",
+          "url": "https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6rt8MfB69MaYstJjyjmm9h"
     },
     {
       "added_at": "2024-03-29 22:27:29",
@@ -531,8 +691,8 @@
     {
       "added_at": "2024-03-20 16:00:00",
       "album": {
-        "name": "Acid Star",
-        "url": "https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe"
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC"
       },
       "artists": [
         {
@@ -542,7 +702,7 @@
       ],
       "duration_ms": 213720,
       "name": "Cycle",
-      "url": "https://open.spotify.com/track/1FBEQqHKgV2EWquBd0Bcgn"
+      "url": "https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX"
     },
     {
       "added_at": "2024-04-03 04:00:00",
@@ -788,7 +948,7 @@
       "added_at": "2024-03-06 05:00:00",
       "album": {
         "name": "Fire Excape",
-        "url": "https://open.spotify.com/album/7nU97h6a16WCM6AJlrYIry"
+        "url": "https://open.spotify.com/album/66GbIXnM68XdHD0Bt8sTfh"
       },
       "artists": [
         {
@@ -798,7 +958,7 @@
       ],
       "duration_ms": 198184,
       "name": "Fire Excape",
-      "url": "https://open.spotify.com/track/2m8MI1dFTkFhlVjjm7zFXp"
+      "url": "https://open.spotify.com/track/1WSJbZvaflbboQCFnTRcYu"
     },
     {
       "added_at": "2024-03-20 16:00:00",
@@ -984,7 +1144,7 @@
       "added_at": "2024-03-13 04:00:00",
       "album": {
         "name": "Never Get It Right",
-        "url": "https://open.spotify.com/album/0Qyv3Qh4YBUpEep2Lil3ZS"
+        "url": "https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT"
       },
       "artists": [
         {
@@ -994,7 +1154,7 @@
       ],
       "duration_ms": 201853,
       "name": "Never Get It Right",
-      "url": "https://open.spotify.com/track/0OuDodKllEo0z7COb8Pnph"
+      "url": "https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz"
     },
     {
       "added_at": "2024-03-13 04:00:00",
@@ -1152,7 +1312,7 @@
       "added_at": "2024-03-06 05:00:00",
       "album": {
         "name": "lose myself in you",
-        "url": "https://open.spotify.com/album/7pB0ATavEWiOg7AlcdZn88"
+        "url": "https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS"
       },
       "artists": [
         {
@@ -1166,7 +1326,7 @@
       ],
       "duration_ms": 198533,
       "name": "lose myself in you",
-      "url": "https://open.spotify.com/track/6xuOyswMC7oj12UcGXrGXx"
+      "url": "https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -1483,230 +1643,6 @@
       "duration_ms": 202093,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6PVXqgR8oHdbZzgAO49cw2"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "JULIA",
-        "url": "https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m"
-      },
-      "artists": [
-        {
-          "name": "Juice Webster",
-          "url": "https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4"
-        }
-      ],
-      "duration_ms": 245891,
-      "name": "Returning",
-      "url": "https://open.spotify.com/track/4XaagD7R1HqT3tu5wGoxdT"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 178180,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Fibbs",
-        "url": "https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l"
-      },
-      "artists": [
-        {
-          "name": "No Windows",
-          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
-        }
-      ],
-      "duration_ms": 208042,
-      "name": "Fibbs",
-      "url": "https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "BIG LOVE",
-        "url": "https://open.spotify.com/album/77sNBL5dqXRLQ3TfxJHTLW"
-      },
-      "artists": [
-        {
-          "name": "Ethansroom",
-          "url": "https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Shower Thoughts",
-      "url": "https://open.spotify.com/track/1jGXdyuVnBiIiNUHD4q7Ra"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/7kLZSaOb6EwfZ3gj7ynwQR"
-      },
-      "artists": [
-        {
-          "name": "Suzie True",
-          "url": "https://open.spotify.com/artist/4COdM5vE5byEogAXp1cghR"
-        }
-      ],
-      "duration_ms": 213890,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2rQ21Ja2Pg3O88NGFEC9v3"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "safe space",
-        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
-      },
-      "artists": [
-        {
-          "name": "Sughn",
-          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "safe space",
-      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Computer Love",
-        "url": "https://open.spotify.com/album/56BloPLPzJUc0L81RcDwaY"
-      },
-      "artists": [
-        {
-          "name": "Sarah Meth",
-          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "Computer Love",
-      "url": "https://open.spotify.com/track/1a8GO5CTwoQAz2Rhal9vls"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "My Own Mess",
-        "url": "https://open.spotify.com/album/5mp3KxReZ08V8JP5HxOfEe"
-      },
-      "artists": [
-        {
-          "name": "lake j",
-          "url": "https://open.spotify.com/artist/6qkkqxyqLSZHoeimJ7XwQe"
-        }
-      ],
-      "duration_ms": 226270,
-      "name": "My Own Mess",
-      "url": "https://open.spotify.com/track/6plytfUC3sPLEIRYJPZGt7"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Kirkland",
-        "url": "https://open.spotify.com/album/4sMdjdYH7jx47MW2xoq04L"
-      },
-      "artists": [
-        {
-          "name": "Max Leone",
-          "url": "https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE"
-        }
-      ],
-      "duration_ms": 166761,
-      "name": "Kirkland",
-      "url": "https://open.spotify.com/track/4OxjnvgN5wtUNALPUPIyAz"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Our Love Was Fading",
-        "url": "https://open.spotify.com/album/2SBwUD1kcaLVMgC4ykLQHS"
-      },
-      "artists": [
-        {
-          "name": "Fetch Tiger",
-          "url": "https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts"
-        }
-      ],
-      "duration_ms": 239462,
-      "name": "Our Love Was Fading",
-      "url": "https://open.spotify.com/track/57S2nF6YymIpqHGICiWLeZ"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Bad Parts",
-        "url": "https://open.spotify.com/album/0yIP1cfqa0I2SY5erTNZ4a"
-      },
-      "artists": [
-        {
-          "name": "Jack Boyd",
-          "url": "https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw"
-        }
-      ],
-      "duration_ms": 177295,
-      "name": "Pisces 2",
-      "url": "https://open.spotify.com/track/4eKdnaQERFG2KN9BW9Q1nR"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/48Qt5QQVuP7E39iJw2Nfni"
-      },
-      "artists": [
-        {
-          "name": "Sierra Spirit",
-          "url": "https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/0JKJhT8xLUbkBSglfIm8nP"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Inaka",
-        "url": "https://open.spotify.com/album/5ybEeQKYsEErgNZnxPqn4B"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 185115,
-      "name": "Inaka",
-      "url": "https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Synthetic Flowers For A Romantic Comedy",
-        "url": "https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A"
-      },
-      "artists": [
-        {
-          "name": "Flora Rose",
-          "url": "https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL"
-        }
-      ],
-      "duration_ms": 279984,
-      "name": "The Brown Eyed Driver",
-      "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
     }
   ],
   "unique_name": "Fresh Finds Indie",

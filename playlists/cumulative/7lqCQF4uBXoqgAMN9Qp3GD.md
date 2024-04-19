@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/2Aq3u8r55epOhtphZ4Tqel) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5EZXhncph5lrmQPVmeNxDz) | 0:00 | 2021-10-02 |  |
+| [](https://open.spotify.com/track/2Aq3u8r55epOhtphZ4Tqel) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5EZXhncph5lrmQPVmeNxDz) | 0:00 | 2021-10-02 |  |
 | [Bom Diggy Diggy](https://open.spotify.com/track/6qCNaRRr5xJALfNJvh0NAw) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy Diggy \(From "Sonu Ke Titu Ki Sweety"\)](https://open.spotify.com/album/3tOA9zT2Kg5lPln6oQcLfZ) | 3:58 | 2021-10-02 |  |
 | [Labb Par Aaye](https://open.spotify.com/track/1H31HxfIHETvrQ02nWpsLO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 3:47 | 2021-10-02 |  |
 | [Manjha](https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Manjha](https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E) | 3:11 | 2021-10-02 |  |

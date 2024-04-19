@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=ZIGZb1C1Q8-8ny22j7ylmA\">Riaan Benad\u00e9</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2?si=2H2mJFrhRVuQ30Zb4Q_TEg\">Werner Van der Hoven</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1890,10 +1890,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167933,
       "name": "Kyk Na My Hart",
       "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
+    },
+    {
+      "album": {
+        "name": "Verewig Afrikaans",
+        "url": "https://open.spotify.com/album/0M1TwvcUE0x5f6gdF2RbdE"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Kyk Na My Hart",
+      "url": "https://open.spotify.com/track/7tS40e1QqDUZl5bkINlkup"
     },
     {
       "album": {
@@ -2454,10 +2472,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203413,
       "name": "Nonna",
       "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
+    },
+    {
+      "album": {
+        "name": "Afrikaans Is Groot, Vol. 13 (Deluxe Uitgawe)",
+        "url": "https://open.spotify.com/album/02h1bL3h2aIViJ3NZVQp54"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203413,
+      "name": "Nonna",
+      "url": "https://open.spotify.com/track/7FZGY1vyOFGvPNeeKDEzBl"
     },
     {
       "album": {
@@ -3302,10 +3338,28 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208519,
       "name": "Tekkies Brand",
       "url": "https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi"
+    },
+    {
+      "album": {
+        "name": "Tekkies Brand",
+        "url": "https://open.spotify.com/album/5OS8Fu5s3oOGv58FO7kE2c"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208519,
+      "name": "Tekkies Brand",
+      "url": "https://open.spotify.com/track/6iMPMrSlrIi272VQgvqCCF"
     },
     {
       "album": {
@@ -3356,10 +3410,28 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192053,
       "name": "Vat 'n Bietjie",
       "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
+    },
+    {
+      "album": {
+        "name": "Spontaan",
+        "url": "https://open.spotify.com/album/03ZN1Le5d94yg39ijW9cBO"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Vat 'n Bietjie",
+      "url": "https://open.spotify.com/track/1u69vEZpvkC9eV9bv6kxm5"
     },
     {
       "album": {
@@ -3400,7 +3472,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180182,
       "name": "Vat Die Cruiser",
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
@@ -3570,6 +3642,24 @@
       "duration_ms": 216795,
       "name": "Vuur Op Die Water",
       "url": "https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV"
+    },
+    {
+      "album": {
+        "name": "Hart se Taal",
+        "url": "https://open.spotify.com/album/6enxtnG3uRmtW2gyCoONB1"
+      },
+      "artists": [
+        {
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204304,
+      "name": "Vuur Wat Brand",
+      "url": "https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB"
     },
     {
       "album": {

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3Pjfzk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3Pjfzk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3Pjfzk)
 
-### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
+### [This is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This Is Lainey Wilson\. Los temas esenciales, todos en una lista.
+> This is Lainey Wilson\. Lagu\-lagu utama, semuanya dalam satu playlist.
 
 59 songs - 3 hr 22 min
 

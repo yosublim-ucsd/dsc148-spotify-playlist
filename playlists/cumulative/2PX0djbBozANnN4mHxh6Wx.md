@@ -4,7 +4,7 @@
 
 > 
 
-542 songs - 1 day 8 hr 36 min
+544 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Spring colors](https://open.spotify.com/track/1FJgrGTfUEQkCXfKCU4OY9) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection\~My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 2:34 | 2023-10-26 |  |
 | [Star U](https://open.spotify.com/track/2p37rpqVkZuWcSuP5wTdNi) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [Ideation Deluxe](https://open.spotify.com/album/4p1q83d3FMGXXAjEUBep7Z) | 3:47 | 2023-10-26 |  |
 | [STH1 Green Hill Zone 〜 Mega Drive version 〜](https://open.spotify.com/track/2ZbJuTlSK9TYokeza42cmR) | [Masato Nakamura](https://open.spotify.com/artist/1dMS02fPNC7ace36g64qPm) | [ソニック・ザ・ヘッジホッグ1＆2 サウンドトラック](https://open.spotify.com/album/1jUGmnsp1VAmqeYWgpHtK1) | 2:36 | 2023-05-09 |  |
+| [style savvy ☆ apartment theme](https://open.spotify.com/episode/4EDeqPex3iUGBqKnzVAyDM) | [star ☆ radio ](https://open.spotify.com/show/25IFD0V0aGcEFOYlagoC1w) | [star ☆ radio ](https://open.spotify.com/album/25IFD0V0aGcEFOYlagoC1w) | 2:58 | 2023-10-26 |  |
 | [Submarine Theme](https://open.spotify.com/track/2ci4lOtSJWEhTLr1bBhq4S) | [ConcernedApe](https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2) | [Stardew Valley Update 1.3 \(Original Game Soundtrack\)](https://open.spotify.com/album/3Bw7iefjhungzLwETtN26i) | 2:07 | 2023-05-09 |  |
 | [Subterranean Homesick Alien](https://open.spotify.com/track/2CVV8PtUYYsux8XOzWkCP0) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2023-05-09 |  |
 | [Subwoofer Lullaby](https://open.spotify.com/track/1OJxI8lIWRqBvouJxW1nzN) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:28 | 2023-05-09 |  |
@@ -481,6 +482,7 @@
 | [wii party \~ nintendo lofi](https://open.spotify.com/track/7CJrmOVv8dR9Ssaad54BJG) | [Tanoshi](https://open.spotify.com/artist/6vHUuOIt6n6TjRfywPL6Tj) | [nintendo wii \~ lofi](https://open.spotify.com/album/3193XGyG9dMLcS2vXphzVX) | 1:42 | 2023-10-26 |  |
 | [Wii Shop Channel](https://open.spotify.com/track/0WbQbvLdJVYHztMw5AZTYi) | [Toasty](https://open.spotify.com/artist/1Et87gJgqPIIqDBa0Vu0c3) | [Wii Shop Channel](https://open.spotify.com/album/5dP4tdRImEu89S1e9I7Mze) | 1:04 | 2023-10-26 |  |
 | [Wii Sports Resort \- Main Theme](https://open.spotify.com/track/2n7GhubcycSvpkCHOak3Hn) | [Arcade Games Online Band](https://open.spotify.com/artist/2REmXJt2oBmwjt2Un6wBAC) | [Best of Video Game Music Classics, Vol\. 2](https://open.spotify.com/album/11pF1BGdNG5jsM5Zm6HJET) | 4:07 | 2023-10-26 |  |
+| [wii u mii maker ☆!!](https://open.spotify.com/episode/7e9ZRzvr5FN6EliqURdTzV) | [sloop radio 💤🐈](https://open.spotify.com/show/6EN1maF5jkgMBssUqOLgKB) | [sloop radio 💤🐈](https://open.spotify.com/album/6EN1maF5jkgMBssUqOLgKB) | 4:59 | 2023-10-26 |  |
 | [Wii Volleyball](https://open.spotify.com/track/6U5MncvVMGkt4aPo4vRU3p) | [Gabriel Gundacker](https://open.spotify.com/artist/5pllh30wANVWCz3YaTePAG) | [Unofficial Wii Sports Soundtrack](https://open.spotify.com/album/0yYSBI6nKv1yTTnIFEbT7f) | 2:36 | 2023-10-26 |  |
 | [Wildlife Analysis](https://open.spotify.com/track/1H4Eiavp6smYJDIYQmo0vb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:15 | 2023-05-09 |  |
 | [Wilton, Clarkson, James](https://open.spotify.com/track/4J0VX3vMJuZDQoplxXwTF8) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [Ideation Deluxe](https://open.spotify.com/album/4p1q83d3FMGXXAjEUBep7Z) | 3:23 | 2023-05-09 |  |

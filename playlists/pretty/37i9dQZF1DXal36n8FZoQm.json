@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for Cobra Kai. Watch on Netflix.",
-  "num_followers": 109058,
+  "num_followers": 109140,
   "original_name": "Cobra Kai Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -44,17 +44,21 @@
       "added_at": "2022-09-09 12:58:25",
       "album": {
         "name": "Mexico and Mariachis",
-        "url": "https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju"
+        "url": "https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9"
       },
       "artists": [
         {
-          "name": "Antonio Banderas/los Lobos",
-          "url": "https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn"
+          "name": "Antonio Banderas",
+          "url": "https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ"
+        },
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
         }
       ],
       "duration_ms": 127226,
-      "name": "Cancion Del Mariachi",
-      "url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls"
+      "name": "Cancion del Mariachi",
+      "url": "https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU"
     },
     {
       "added_at": "2022-09-09 12:58:25",
@@ -208,7 +212,7 @@
       "added_at": "2022-09-09 12:58:25",
       "album": {
         "name": "Boneshaker",
-        "url": "https://open.spotify.com/album/1WEM7Gz0rj7InZfQ8HSnKT"
+        "url": "https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T"
       },
       "artists": [
         {
@@ -218,13 +222,13 @@
       ],
       "duration_ms": 210103,
       "name": "Boneshaker",
-      "url": "https://open.spotify.com/track/1i9mctpfTvkg0Yb1mJDQZE"
+      "url": "https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93"
     },
     {
       "added_at": "2022-09-09 12:58:25",
       "album": {
-        "name": "Runnin' Wild (Special Edition)",
-        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8"
       },
       "artists": [
         {
@@ -232,9 +236,9 @@
           "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
         }
       ],
-      "duration_ms": 222240,
+      "duration_ms": 218040,
       "name": "Runnin' Wild",
-      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
+      "url": "https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV"
     },
     {
       "added_at": "2022-09-09 12:58:25",
@@ -440,7 +444,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Believer",
-        "url": "https://open.spotify.com/album/40VaqqOJLg453srI7kx7Rb"
+        "url": "https://open.spotify.com/album/54uX7vRtpbNTOwH3OsLU9a"
       },
       "artists": [
         {
@@ -458,13 +462,13 @@
       ],
       "duration_ms": 215761,
       "name": "Just Reach For The Sky",
-      "url": "https://open.spotify.com/track/5ymaNnUgeVPb4zlLXmM1BO"
+      "url": "https://open.spotify.com/track/060rDShhKz9WtjcikdeMmd"
     },
     {
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Cocktail Hour",
-        "url": "https://open.spotify.com/album/32nctCTJPaQiJpdtIqXDof"
+        "url": "https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4"
       },
       "artists": [
         {
@@ -478,13 +482,13 @@
       ],
       "duration_ms": 318655,
       "name": "Late Night Jazz",
-      "url": "https://open.spotify.com/track/2bJ8o7w2TQqPm8mVU4cIAy"
+      "url": "https://open.spotify.com/track/12KH9ouW87OwGbnB16m7gx"
     },
     {
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
       },
       "artists": [
         {
@@ -494,7 +498,7 @@
       ],
       "duration_ms": 232425,
       "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
+      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
     },
     {
       "added_at": "2022-01-11 20:09:30",
@@ -552,7 +556,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "New York Jazz Cafe",
-        "url": "https://open.spotify.com/album/5DhjcNrFBG0nvFbzQs4rQ0"
+        "url": "https://open.spotify.com/album/6uKUFWsDNSdiJKUrXJfgkj"
       },
       "artists": [
         {
@@ -570,7 +574,7 @@
       ],
       "duration_ms": 180334,
       "name": "Greenwich Village Mean Time",
-      "url": "https://open.spotify.com/track/0Gl2fQmEtnG32pgtciqLhf"
+      "url": "https://open.spotify.com/track/2Nyio0BsD1UKkZlt7Pycrn"
     },
     {
       "added_at": "2022-01-06 15:34:12",
@@ -628,7 +632,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Cinderelly",
-        "url": "https://open.spotify.com/album/37UlnQ04FICxVBYaZ2uIWP"
+        "url": "https://open.spotify.com/album/39zIVvbgkZLTQMqBiUChgW"
       },
       "artists": [
         {
@@ -638,13 +642,13 @@
       ],
       "duration_ms": 128367,
       "name": "Cinderelly",
-      "url": "https://open.spotify.com/track/5KqcscxC2cHoq72DSypqIN"
+      "url": "https://open.spotify.com/track/1tj53uXJoc0uvWSF74KSx7"
     },
     {
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
       "artists": [
         {
@@ -652,9 +656,9 @@
           "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 258866,
+      "duration_ms": 256146,
       "name": "Sailing",
-      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
     },
     {
       "added_at": "2022-01-06 15:34:12",
@@ -692,7 +696,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Cocktail Hour",
-        "url": "https://open.spotify.com/album/32nctCTJPaQiJpdtIqXDof"
+        "url": "https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4"
       },
       "artists": [
         {
@@ -706,7 +710,7 @@
       ],
       "duration_ms": 287345,
       "name": "Five Over Four",
-      "url": "https://open.spotify.com/track/0qjGr8u3nLsmXEUfSCaUyn"
+      "url": "https://open.spotify.com/track/0c946BQlEOYlcVq8n6pAKt"
     },
     {
       "added_at": "2022-01-06 15:34:12",
@@ -728,7 +732,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Cocktail Hour",
-        "url": "https://open.spotify.com/album/32nctCTJPaQiJpdtIqXDof"
+        "url": "https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4"
       },
       "artists": [
         {
@@ -742,7 +746,7 @@
       ],
       "duration_ms": 272923,
       "name": "Dinner For Two",
-      "url": "https://open.spotify.com/track/1DuBQIVjiXOuCQdAuuZzzB"
+      "url": "https://open.spotify.com/track/2KkuQEFHO2f3C3Z9fsgUKj"
     },
     {
       "added_at": "2022-01-11 20:09:30",
@@ -788,7 +792,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
       },
       "artists": [
         {
@@ -796,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 270533,
+      "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+      "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
     },
     {
       "added_at": "2022-01-06 15:34:12",
@@ -976,7 +980,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Vibe City",
-        "url": "https://open.spotify.com/album/6FtILJfVlycAU484t2GA1l"
+        "url": "https://open.spotify.com/album/5qB9fJHiKOpeUxiOkepKBj"
       },
       "artists": [
         {
@@ -986,7 +990,7 @@
       ],
       "duration_ms": 244250,
       "name": "Hear My Heart",
-      "url": "https://open.spotify.com/track/7yl21WlxXzzYblzkxDyqE5"
+      "url": "https://open.spotify.com/track/1PDkqKq5PtfjwsoqnQctAz"
     },
     {
       "added_at": "2022-01-06 15:34:12",
@@ -1139,8 +1143,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "The Essentials: Ratt",
-        "url": "https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp"
+        "name": "Invasion of Your Privacy",
+        "url": "https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI"
       },
       "artists": [
         {
@@ -1148,31 +1152,35 @@
           "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
         }
       ],
-      "duration_ms": 205466,
+      "duration_ms": 205560,
       "name": "Lay It Down",
-      "url": "https://open.spotify.com/track/0d3qwh4HY9w6Ywywj6ksTv"
+      "url": "https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx"
     },
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Live It Up",
-        "url": "https://open.spotify.com/album/6VgN0Ib01UW2jIaW6eCKtX"
+        "url": "https://open.spotify.com/album/6EhpN4NRqVZZObgYWqjYpa"
       },
       "artists": [
         {
           "name": "Ali Pierre",
           "url": "https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7"
+        },
+        {
+          "name": "Aaron Wayne",
+          "url": "https://open.spotify.com/artist/51GqPiiVqeQzsVntoKXixa"
         }
       ],
-      "duration_ms": 328615,
+      "duration_ms": 329669,
       "name": "Live It Up (Aaron Wayne Remix)",
-      "url": "https://open.spotify.com/track/5PMc7HZzdYUlowyUlxzON4"
+      "url": "https://open.spotify.com/track/0gSPaub8muOF2zFikracsk"
     },
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "The Essentials: Ratt",
-        "url": "https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp"
+        "name": "Out of the Cellar",
+        "url": "https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut"
       },
       "artists": [
         {
@@ -1182,7 +1190,7 @@
       ],
       "duration_ms": 265893,
       "name": "Round and Round",
-      "url": "https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL"
+      "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1204,7 +1212,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Riding On A New Wave",
-        "url": "https://open.spotify.com/album/4DkgOa4BTwtU5wCUqgdykW"
+        "url": "https://open.spotify.com/album/2oeJB9YDHfVD98mT6tVoEx"
       },
       "artists": [
         {
@@ -1214,13 +1222,13 @@
       ],
       "duration_ms": 223529,
       "name": "Say You Don't Want Me",
-      "url": "https://open.spotify.com/track/6LnFf7WFMkX9IGtwt4vQq8"
+      "url": "https://open.spotify.com/track/3ioH4Hroyj5mpYVskBZqhS"
     },
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+        "url": "https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3"
       },
       "artists": [
         {
@@ -1230,7 +1238,7 @@
       ],
       "duration_ms": 226909,
       "name": "Bring The Funk Back",
-      "url": "https://open.spotify.com/track/1N5Thcd7ECdY0z2gP7fNpi"
+      "url": "https://open.spotify.com/track/7lVRyNg6jKsvgrbGkyyBj3"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1331,8 +1339,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "The Miracle (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs"
+        "name": "The Miracle",
+        "url": "https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9"
       },
       "artists": [
         {
@@ -1340,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 280480,
-      "name": "I Want It All - Remastered 2011",
-      "url": "https://open.spotify.com/track/2htmMitogin6NMGABye6YG"
+      "duration_ms": 272973,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/0GQo5VkiurD6HnVpaCNeMf"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1380,7 +1388,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Black Dog Barking (Special Edition)",
-        "url": "https://open.spotify.com/album/2ByV33s2Y1uJRAooa8ivrn"
+        "url": "https://open.spotify.com/album/4ulIP4JbW6KegM8KNC02k5"
       },
       "artists": [
         {
@@ -1389,8 +1397,8 @@
         }
       ],
       "duration_ms": 205506,
-      "name": "Back In the Game",
-      "url": "https://open.spotify.com/track/2XjeZEdPK7Qo66Z7ONp854"
+      "name": "Back In The Game",
+      "url": "https://open.spotify.com/track/5S5GRSDNdEPjNjj07gORMf"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1412,7 +1420,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Playtime",
-        "url": "https://open.spotify.com/album/5XoVGXTgsT3wVjByeDSfoz"
+        "url": "https://open.spotify.com/album/13zRIbjKcrLgHqvJLOzD85"
       },
       "artists": [
         {
@@ -1422,7 +1430,7 @@
       ],
       "duration_ms": 240466,
       "name": "I'm Gonna Be The One",
-      "url": "https://open.spotify.com/track/0RLZeSzRs9AuiUzcQ6PNVR"
+      "url": "https://open.spotify.com/track/50HFNjJcEp9bNMwVQZq9dO"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1475,8 +1483,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Now And Forever",
-        "url": "https://open.spotify.com/album/1UDaAmmTpoWWpkFIti7LGM"
+        "name": "Now and Forever",
+        "url": "https://open.spotify.com/album/3lOX8tvHmjj2EmnqBUyFy1"
       },
       "artists": [
         {
@@ -1486,7 +1494,7 @@
       ],
       "duration_ms": 241080,
       "name": "Fight Song",
-      "url": "https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"
+      "url": "https://open.spotify.com/track/6SnokqeMmGKiOzMlhag3Mb"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1524,7 +1532,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Pioneer",
-        "url": "https://open.spotify.com/album/0dWFb0mT7OSSuEZr6X5WMm"
+        "url": "https://open.spotify.com/album/2RDDgJdJR5bZlPJ0qv6afl"
       },
       "artists": [
         {
@@ -1534,7 +1542,7 @@
       ],
       "duration_ms": 232142,
       "name": "Pioneer",
-      "url": "https://open.spotify.com/track/1WEGo5CZafSDrtAmkuK7Qu"
+      "url": "https://open.spotify.com/track/4nwpJ3Z6aPakk0EibboPdc"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1555,8 +1563,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Points On The Curve",
-        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+        "name": "Everybody Wang Chung Tonight... Wang Chung's Greatest Hits",
+        "url": "https://open.spotify.com/album/5p0y8lkXH7hUsmrjtwzfPf"
       },
       "artists": [
         {
@@ -1564,15 +1572,15 @@
           "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
         }
       ],
-      "duration_ms": 240800,
+      "duration_ms": 239133,
       "name": "Dance Hall Days",
-      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+      "url": "https://open.spotify.com/track/1Z6IVAyTC47I1wob7b3aOh"
     },
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Dig! Rock Classics",
-        "url": "https://open.spotify.com/album/5LTC8pH1pEnDoPLhBO4AzZ"
+        "name": "Saints & Sinners",
+        "url": "https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3"
       },
       "artists": [
         {
@@ -1580,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
         }
       ],
-      "duration_ms": 308240,
+      "duration_ms": 308800,
       "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/66yF4fCC4NiFZTjhegI90o"
+      "url": "https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1672,7 +1680,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Bat Fangs",
-        "url": "https://open.spotify.com/album/72EmvI2TP4pLOCVizB13ih"
+        "url": "https://open.spotify.com/album/0kopRwEQgaL0fpQMrGO8tR"
       },
       "artists": [
         {
@@ -1682,7 +1690,7 @@
       ],
       "duration_ms": 217551,
       "name": "Fangs Out",
-      "url": "https://open.spotify.com/track/0YPI0lpt5gFzpHwNASKbKi"
+      "url": "https://open.spotify.com/track/5CrrcfYTyVgbkrbQL4Gl8P"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1823,8 +1831,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+        "name": "Dr. Feelgood",
+        "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
       "artists": [
         {
@@ -1834,7 +1842,7 @@
       ],
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+      "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1871,8 +1879,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Escape (2022 Remaster)",
-        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
         {
@@ -1880,9 +1888,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 199320,
-      "name": "Open Arms (2022 Remaster)",
-      "url": "https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht"
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -2283,8 +2291,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Wooly Bully",
-        "url": "https://open.spotify.com/album/43ohvLotIrT1cprKaXYMn8"
+        "name": "The MGM Singles",
+        "url": "https://open.spotify.com/album/5I2zgmTqg6qLVQ0j72BkZ3"
       },
       "artists": [
         {
@@ -2292,9 +2300,9 @@
           "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
         }
       ],
-      "duration_ms": 141613,
+      "duration_ms": 138866,
       "name": "Wooly Bully",
-      "url": "https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY"
+      "url": "https://open.spotify.com/track/0SRkuudTEWe2HOloI1Nssq"
     },
     {
       "added_at": "2022-01-07 19:11:07",

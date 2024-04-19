@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Girl Ultra en portada.
 
-4,026 songs - 9 day 7 hr 0 min
+4,027 songs - 9 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Adiós](https://open.spotify.com/track/1c6XOzej5UPdKrfOvb2V0j) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Adiós](https://open.spotify.com/album/6E5gd0iEKhHyXWhrHfwIYd) | 2:58 | 2024-02-23 | 2024-03-02 |
 | [Adiós Elisa](https://open.spotify.com/track/0sRlqD0dQOx00v9oU3lAVw) | [Calequi](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Adiós Elisa](https://open.spotify.com/album/6CXmXvstlJkMVHp6Wr5hll) | 3:01 | 2022-12-05 | 2022-12-17 |
 | [Admiración](https://open.spotify.com/track/1u2ynu6W6dTlHXUdTdrwzV) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [Admiración](https://open.spotify.com/album/2Q9k7iuX832oPOLUorm0Bl) | 3:27 | 2023-06-16 | 2023-06-24 |
-| [Aeronostalgia](https://open.spotify.com/track/5r7q1ilvnK3MSjXVJ5x4a5) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0) | [Aeronostalgia](https://open.spotify.com/album/0oQDaUfgj0AVb0tigPuIsX) | 3:47 | 2024-04-05 |  |
+| [Aeronostalgia](https://open.spotify.com/track/5r7q1ilvnK3MSjXVJ5x4a5) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0) | [Aeronostalgia](https://open.spotify.com/album/0oQDaUfgj0AVb0tigPuIsX) | 3:47 | 2024-04-05 | 2024-04-19 |
+| [Aeronostalgia \(feat\. J\)](https://open.spotify.com/track/3RGdkhavDsgwonblfcKrcm) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0) | [Aeronostalgia \(feat\. J\)](https://open.spotify.com/album/0qTiWQtWepKSaNCLfFxccp) | 3:47 | 2024-04-12 |  |
 | [Afecto](https://open.spotify.com/track/16hL3p91KMvdZXQFktrs2O) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Afecto](https://open.spotify.com/album/3jko9J4qcTG3nqFvda6oRL) | 4:12 | 2023-10-27 | 2023-11-06 |
 | [Afonía de alma](https://open.spotify.com/track/1t5H48bBmtLbVL4DTnhoXv) | [Amigas!](https://open.spotify.com/artist/243UeGFUgHCAUPhSIbq3TU) | [Afonía de alma](https://open.spotify.com/album/78keoyzmv16k74SkHoFtvZ) | 2:50 | 2024-03-08 | 2024-03-23 |
 | [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 | 2023-08-11 | 2023-08-19 |

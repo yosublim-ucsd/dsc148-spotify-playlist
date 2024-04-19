@@ -4,7 +4,7 @@
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 김주리\(juri kim\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-62 songs - 4 hr 7 min
+67 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Night Sea](https://open.spotify.com/track/2efR2mfIfPAx9Sf96pOtNL) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [In Summer](https://open.spotify.com/album/5sDkMwuCbhOOw8oFMyh6yx) | 3:03 | 2023-09-26 |  |
 | [Ninano](https://open.spotify.com/track/6E5vKRvu9tGT3WVoGtm7kn) | [Band\_LineOut](https://open.spotify.com/artist/6y4ZfA9AbX3P0Ywjh2pPK7) | [The temptation of folk songs](https://open.spotify.com/album/50et9JT2KW1Fi9fFZJ6kbT) | 4:22 | 2023-09-26 |  |
 | [Nolja Taryeong](https://open.spotify.com/track/1OETWDN0GQwfv0pdskSgIy) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO) | [Chosun Electronic Music Big Party](https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub) | 1:56 | 2023-09-26 |  |
-| [NOZANOZA](https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 5:01 | 2023-09-26 |  |
+| [NOZANOZA](https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 5:01 | 2023-09-26 | 2024-04-19 |
+| [NOZANOZA](https://open.spotify.com/track/5GSAyule2TvNbu3WtZq0H7) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/5EyQuCN4hW7ufsNJtKxyG9) | 5:01 | 2024-03-21 |  |
 | [Ongheya](https://open.spotify.com/track/0A46uytgiwGuIqBWbUa3Wv) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO) | [Ongheya](https://open.spotify.com/album/51ERJzQK3NtQvA85qThAAS) | 3:36 | 2023-09-26 |  |
 | [Peaceful Arirang](https://open.spotify.com/track/0Kj2VkWFRr6vqkWxJhvOJp) | [sEODo BAND](https://open.spotify.com/artist/3oMLo2XGQd7pzCssRNmDz6) | [Peaceful Arirang](https://open.spotify.com/album/44avudDdh2nZfOVhkE9Jsz) | 3:14 | 2023-09-26 |  |
 | [ride the wind \(feat\. Blank!d\)](https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer), [Blank!d](https://open.spotify.com/artist/18LCQDhzfktqMyKT8pqFQ3) | [ride the wind](https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz) | 5:07 | 2023-09-26 |  |
@@ -58,17 +59,21 @@
 | [THE RED MOOn](https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np) | [EruhWa](https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q) | [THE RED MOOn](https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS) | 3:06 | 2023-09-26 |  |
 | [Things that stop me](https://open.spotify.com/track/16SruDdMS9yjBVZa5G6PJy) | [Suwa](https://open.spotify.com/artist/0RNLhrzL8kMllpnqMx9BAw) | [Daily Rutuals](https://open.spotify.com/album/2ZIgcSbVjZJD509EbtqPm2) | 4:20 | 2023-09-26 |  |
 | [Wal Wal](https://open.spotify.com/track/2HB0ITiQEhBlxFBHURNzER) | [dunggi doobop project](https://open.spotify.com/artist/7ePNAdFlZK4TwRZhRfDVOh) | [dunggi doobop project](https://open.spotify.com/album/5ZanfdcvUYTrOFYZS5fpYl) | 3:17 | 2023-09-26 |  |
-| [Wind Blowing From The East](https://open.spotify.com/track/4nQxpwAHhLMZGG9g6HyFPB) | [Mago](https://open.spotify.com/artist/3JoAChLOYQem9dlwqaTW1t) | [Wind Blowing From The East](https://open.spotify.com/album/4yb06uEYQVKG8HpZdroRuz) | 4:38 | 2023-09-26 |  |
+| [Wind Blowing From The East](https://open.spotify.com/track/4nQxpwAHhLMZGG9g6HyFPB) | [Mago](https://open.spotify.com/artist/3JoAChLOYQem9dlwqaTW1t) | [Wind Blowing From The East](https://open.spotify.com/album/4yb06uEYQVKG8HpZdroRuz) | 4:38 | 2023-09-26 | 2024-04-19 |
+| [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/track/34LtGQ7tuZC9A3jdGxtnob) | [김신일\(Electreecity\)](https://open.spotify.com/artist/2r0sbNAu8c2hLlh0GuR9TS), [Mago 마고](https://open.spotify.com/artist/7dAsAiYMBahaIoSsm7cIGt) | [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/album/5yv7dPP2Z4lmGw1xSb2sCC) | 4:38 | 2024-03-21 |  |
 | [계절이 주는 마음](https://open.spotify.com/track/67CvKNXT23SqRRFltadbHw) | [구민지](https://open.spotify.com/artist/19caLarL08QqtoAXlKVoV3) | [구민지 강호사시가 \(2022 국악방송 새음원 시리즈\)](https://open.spotify.com/album/294OMRH8BcwlTOUJO8JVDe) | 3:36 | 2023-09-26 |  |
 | [군밤타령](https://open.spotify.com/track/6ASEjwlY8xU8glTrFjQPZe) | [국악인가요](https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe) | [국악IN가요](https://open.spotify.com/album/1PsixE91NtJBahibMDufbr) | 2:33 | 2023-09-26 |  |
 | [떡타령](https://open.spotify.com/track/3u5BZkeJ6MyZgHKtPiD6bS) | [SingSing](https://open.spotify.com/artist/1YtWXv7FkpK6eCANfgOkmh) | [제비다방 컴필레이션 2017+2018](https://open.spotify.com/album/02QfXHdfexGozTcvlT94Pl) | 1:52 | 2023-09-26 |  |
 | [사랑가](https://open.spotify.com/track/5TPFp4x1XZfeyh5uNdVGb0) | [국악인가요](https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe) | [국악IN가요](https://open.spotify.com/album/1PsixE91NtJBahibMDufbr) | 3:46 | 2023-09-26 |  |
+| [사랑가 Sarang\-Ga](https://open.spotify.com/track/05OWC7eELEIfnP6X9br8YQ) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가 Sarang\-Ga](https://open.spotify.com/album/71FMTaK6SY0JM7BaP6tuUn) | 3:58 | 2024-03-21 |  |
 | [사철가](https://open.spotify.com/track/5MKmYrqG7AKgUrJDBePMOR) | [juri kim](https://open.spotify.com/artist/32xsx3uhWocPe8QkffUMen) | [사철가](https://open.spotify.com/album/0zMo671mzJyTYutazaJ3Kn) | 6:12 | 2024-03-21 |  |
 | [산세가](https://open.spotify.com/track/6UFOH0T8vDqjsdagF2bWU8) | [fullmoon project](https://open.spotify.com/artist/3eTwOC2mxAQJcfYFXGHzmh) | [산세가](https://open.spotify.com/album/2Kcj1lqZj8qh2cmtvHa6qk) | 3:30 | 2023-09-26 |  |
 | [심청날다](https://open.spotify.com/track/4lH5VY45CWptXStnNFrFDK) | [nalda](https://open.spotify.com/artist/3LmhODh3xJbv6B5ZufqQ5x) | [심청날다](https://open.spotify.com/album/15AV3oJn5yB02rW22Io2OG) | 4:09 | 2023-09-26 |  |
 | [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 | 2023-11-10 |  |
+| [이별가 Ibyeolga \(farewell song\)](https://open.spotify.com/track/4veY29tsr2j6MKha1HMTet) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [이별가 Ibyeolga \(farewell song\)](https://open.spotify.com/album/5NTx3PD2jwWAVrRULH7FqT) | 4:04 | 2024-03-21 |  |
 | [제비가](https://open.spotify.com/track/5i64k1sSeBMBylC8MxACrv) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men 2nd](https://open.spotify.com/album/1zwG2m1lhSHwByNNVK2wpa) | 3:56 | 2023-09-26 |  |
 | [허송세월말어라](https://open.spotify.com/track/05HnmQWeDrBrvC0q5i297T) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [OBSG](https://open.spotify.com/album/7GzuVsGWXIlFcbY7JaIWg5) | 3:14 | 2023-09-26 |  |
-| [홀로아리랑 \(prod\. 박경훈\)](https://open.spotify.com/track/2NYhv60zNkD4nciDt0GJUO) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:46 | 2023-09-26 |  |
+| [홀로아리랑 \(Prod\. 박경훈\)](https://open.spotify.com/track/1YEPlFih5U3nsThB67Rz5A) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:46 | 2024-03-21 |  |
+| [홀로아리랑 \(prod\. 박경훈\)](https://open.spotify.com/track/2NYhv60zNkD4nciDt0GJUO) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:46 | 2023-09-26 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-10-12. Prior content cannot be recovered.

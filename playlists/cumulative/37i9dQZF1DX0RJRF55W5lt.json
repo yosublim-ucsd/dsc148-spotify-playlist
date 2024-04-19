@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308784,
       "name": "138 Trek",
       "url": "https://open.spotify.com/track/41rcTbVxz3b2Rv4RngYKj8"
@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Little Bit Of Luck",
+        "url": "https://open.spotify.com/album/58Y57EP7Q4k4K0f3cUOZli"
+      },
+      "artists": [
+        {
+          "name": "DJ Luck",
+          "url": "https://open.spotify.com/artist/4q8FNGIIYhWnkGxjWilCL2"
+        },
+        {
+          "name": "MC Neat",
+          "url": "https://open.spotify.com/artist/57mLUstRreHV8pa9o2r5ZY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349040,
+      "name": "A Little Bit Of Luck",
+      "url": "https://open.spotify.com/track/0QumpjZOPu1d7nMJMBIZ2H"
+    },
+    {
+      "album": {
         "name": "A Little Bit Of Luck",
         "url": "https://open.spotify.com/album/2lnitRC7G6edIjewfydk2U"
       },
@@ -52,7 +74,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349960,
       "name": "A Little Bit of Luck",
       "url": "https://open.spotify.com/track/3stQUVyIkVtY7KbU8OGnEN"
@@ -74,7 +96,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 366434,
       "name": "A London Thing - Extended Mix",
       "url": "https://open.spotify.com/track/1EO2wRH9Tj2e7SLLiNoALJ"
@@ -165,6 +187,28 @@
     },
     {
       "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309520,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
+    },
+    {
+      "album": {
         "name": "Babycakes",
         "url": "https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW"
       },
@@ -252,7 +296,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269173,
       "name": "Blues For You (Hard Dub)",
       "url": "https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P"
@@ -318,10 +362,32 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315533,
       "name": "Body Groove - Mix Mc Version",
       "url": "https://open.spotify.com/track/2hpoLae9rAKGQUBXMYVbr1"
+    },
+    {
+      "album": {
+        "name": "Body Groove",
+        "url": "https://open.spotify.com/album/7EwbVzsV6cKL6ucpq6bcxO"
+      },
+      "artists": [
+        {
+          "name": "Architechs",
+          "url": "https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G"
+        },
+        {
+          "name": "Nay Nay",
+          "url": "https://open.spotify.com/artist/1xZtNiq2jiWsekkw2IpHVy"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315533,
+      "name": "Body Groove - Mix Mc Version",
+      "url": "https://open.spotify.com/track/56UNoQz1kXeBZeqmQbFpYe"
     },
     {
       "album": {
@@ -373,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Execute",
+        "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
+      },
+      "artists": [
+        {
+          "name": "Oxide & Neutrino",
+          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292226,
+      "name": "Bound 4 da Reload - Casualty",
+      "url": "https://open.spotify.com/track/4UYrVcOhdVQ2L0ZwYliXNH"
+    },
+    {
+      "album": {
         "name": "Bring Me Down 2014",
         "url": "https://open.spotify.com/album/69ctY5wPad54fhQJDvuZEB"
       },
@@ -388,7 +472,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347997,
       "name": "Bring Me Down - Vocal Mix",
       "url": "https://open.spotify.com/track/049MMnSYqnfbUFyAZlq8SY"
@@ -447,6 +531,24 @@
     },
     {
       "album": {
+        "name": "UK Garage Classics - Best of Jeremy Sylvester, Vol. 3",
+        "url": "https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Sylvester",
+          "url": "https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "C'est Cool",
+      "url": "https://open.spotify.com/track/6AAWrCUg5AEHhbeJpn01s5"
+    },
+    {
+      "album": {
         "name": "Is This Real",
         "url": "https://open.spotify.com/album/3ae504ho747nwloxNn2CH8"
       },
@@ -462,6 +564,24 @@
       "duration_ms": 303000,
       "name": "Cheque One-Two",
       "url": "https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a"
+    },
+    {
+      "album": {
+        "name": "Club Asylum Sampler, Vol. 1",
+        "url": "https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq"
+      },
+      "artists": [
+        {
+          "name": "Club Asylum",
+          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314148,
+      "name": "Club Lonely",
+      "url": "https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt"
     },
     {
       "album": {
@@ -487,6 +607,42 @@
     },
     {
       "album": {
+        "name": "House Tracks for the Dancefloor, Vol. One",
+        "url": "https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372480,
+      "name": "Dancing for Heaven - Club",
+      "url": "https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu"
+    },
+    {
+      "album": {
+        "name": "Pure Grime - The Very Best of Grime",
+        "url": "https://open.spotify.com/album/4KoltQiyOJAt1ToaeyKkYj"
+      },
+      "artists": [
+        {
+          "name": "Agent X",
+          "url": "https://open.spotify.com/artist/3gnnsoDJAHfrNZXd2mgzZa"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349884,
+      "name": "Decoy",
+      "url": "https://open.spotify.com/track/1jnXvUg6FbG89itv7aXHh1"
+    },
+    {
+      "album": {
         "name": "Deep Inside (Remixes)",
         "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
       },
@@ -502,6 +658,24 @@
       "duration_ms": 145940,
       "name": "Deep Inside - Shadow Child Remix Edit",
       "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
+    },
+    {
+      "album": {
+        "name": "In-Fidelity",
+        "url": "https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35"
+      },
+      "artists": [
+        {
+          "name": "Ruff Driverz",
+          "url": "https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234607,
+      "name": "Deeper Love",
+      "url": "https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt"
     },
     {
       "album": {
@@ -596,10 +770,50 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227493,
       "name": "Dooms Night - Timo Maas Radio Edit",
       "url": "https://open.spotify.com/track/12GwtT1n24TIpp2RER56Ij"
+    },
+    {
+      "album": {
+        "name": "Dooms Night",
+        "url": "https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N"
+      },
+      "artists": [
+        {
+          "name": "Azzido Da Bass",
+          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
+        },
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226600,
+      "name": "Dooms Night - Timo Maas Radio Edit",
+      "url": "https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf"
+    },
+    {
+      "album": {
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+      },
+      "artists": [
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328243,
+      "name": "Down On Me",
+      "url": "https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4"
     },
     {
       "album": {
@@ -614,7 +828,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348160,
       "name": "Envy (They Don't Know Vocal Remix)",
       "url": "https://open.spotify.com/track/1GpOWSP9X3lo05xbtEmvuV"
@@ -680,10 +894,32 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230133,
       "name": "Flowers - Sunship Edit",
       "url": "https://open.spotify.com/track/2Np6ZbVFXfhlk3Oin6i92t"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4EBj7OhtgpRZspPD3RHczW"
+      },
+      "artists": [
+        {
+          "name": "Sweet Female Attitude",
+          "url": "https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230906,
+      "name": "Flowers - Sunship Radio Edit",
+      "url": "https://open.spotify.com/track/1IqANTbvKLojRoomq685LA"
     },
     {
       "album": {
@@ -779,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "Pay Close Attention : XL Recordings",
+        "url": "https://open.spotify.com/album/19xt2EkDfNcbAdQzOVUttd"
+      },
+      "artists": [
+        {
+          "name": "Roy Davis Jr.",
+          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
+        },
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444123,
+      "name": "Gabriel (Live Garage Version)",
+      "url": "https://open.spotify.com/track/39gEBCOlL2IdbgLfdly2Ri"
+    },
+    {
+      "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/6tpMPtjSNecQgsJlXHXARd"
       },
@@ -794,7 +1052,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 443849,
       "name": "Gabriel - Live Garage Mix",
       "url": "https://open.spotify.com/track/6fSdR81YvNG8Wo6i2ytLPR"
@@ -886,7 +1144,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 356487,
       "name": "Girls Like Us - Extended Mix",
       "url": "https://open.spotify.com/track/75jvPWqVp6IiFBMuaWSvGe"
@@ -926,10 +1184,32 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161200,
       "name": "Gotta Get Thru This - D'N'D Radio Edit",
       "url": "https://open.spotify.com/track/747tpec1a0Hfqvj2za1pBs"
+    },
+    {
+      "album": {
+        "name": "Gotta Get Thru This",
+        "url": "https://open.spotify.com/album/6d5bzbzrZzXrB6BP6MMSeL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bedingfield",
+          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
+        },
+        {
+          "name": "D'N'D Productions",
+          "url": "https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "Gotta Get Thru This - D'N'D Radio Edit",
+      "url": "https://open.spotify.com/track/2HStGirSZokbjdi1xU1QCW"
     },
     {
       "album": {
@@ -962,10 +1242,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243106,
       "name": "Has It Come to This?",
       "url": "https://open.spotify.com/track/7I63krPum3VHEKQYk4SsE9"
+    },
+    {
+      "album": {
+        "name": "Original Pirate Material",
+        "url": "https://open.spotify.com/album/0hkZGxfsFypXbjq15hM6U9"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "Has It Come to This?",
+      "url": "https://open.spotify.com/track/35zEswqAFI1D41cmoBXOFK"
     },
     {
       "album": {
@@ -1038,7 +1336,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340693,
       "name": "Imagine - Asylum Remix",
       "url": "https://open.spotify.com/track/23k9zieWoOTm67FVWkvAFn"
@@ -1060,6 +1358,24 @@
       "duration_ms": 303606,
       "name": "It's the Way '99",
       "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
+    },
+    {
+      "album": {
+        "name": "Smack Da House Vol.2",
+        "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
+      },
+      "artists": [
+        {
+          "name": "Janet Rushmore",
+          "url": "https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329866,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
     },
     {
       "album": {
@@ -1129,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Double 99 Double Pack",
+        "url": "https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz"
+      },
+      "artists": [
+        {
+          "name": "Double 99",
+          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324096,
+      "name": "Jump to It",
+      "url": "https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx"
+    },
+    {
+      "album": {
         "name": "Just Gets Better",
         "url": "https://open.spotify.com/album/3WSB8rJfDTxT192dR3ZXkR"
       },
@@ -1166,7 +1500,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 439083,
       "name": "Just Gets Better - Extended Dub",
       "url": "https://open.spotify.com/track/4yF939fEIyto1xOaxb6GmA"
@@ -1260,7 +1594,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232933,
       "name": "Let Me Be Your Fantasy - Trick Or Treat Remix Edit",
       "url": "https://open.spotify.com/track/6dA4KrYTgjl6Ovq8T5HqRG"
@@ -1290,6 +1624,24 @@
       "duration_ms": 232933,
       "name": "Let Me Be Your Fantasy - Trick Or Treat Remix Edit",
       "url": "https://open.spotify.com/track/1RSMVL8AlfIZVD3zkBXTCt"
+    },
+    {
+      "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67"
+      },
+      "artists": [
+        {
+          "name": "95 North",
+          "url": "https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439746,
+      "name": "Let Yourself Go - Capitol Mix",
+      "url": "https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A"
     },
     {
       "album": {
@@ -1340,7 +1692,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/7qzNY9IQpo3jqKEYk1FlRz"
@@ -1392,7 +1744,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303800,
       "name": "Little Man - Exemen Works",
       "url": "https://open.spotify.com/track/0PxXQz4Im41YdDi0J3kPCv"
@@ -1421,6 +1773,32 @@
     },
     {
       "album": {
+        "name": "Pure Garage Rewind",
+        "url": "https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq"
+      },
+      "artists": [
+        {
+          "name": "Ramsey",
+          "url": "https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU"
+        },
+        {
+          "name": "Fen",
+          "url": "https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL"
+        },
+        {
+          "name": "Lyndsey Moore",
+          "url": "https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355218,
+      "name": "Love Bug - Bump Mix",
+      "url": "https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH"
+    },
+    {
+      "album": {
         "name": "Love Bug (Original Bump Mix)",
         "url": "https://open.spotify.com/album/5GOGt6fpFc39ZhEdq3rdU0"
       },
@@ -1436,7 +1814,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357560,
       "name": "Love Bug - Original Bump Mix",
       "url": "https://open.spotify.com/track/1cIT3qEj3gNy0NDP5YgNc1"
@@ -1626,7 +2004,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334426,
       "name": "My Love (So Good) [10 Below Club Mix]",
       "url": "https://open.spotify.com/track/3z84XGmcOS2V1cQSXe9IGZ"
@@ -1691,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Execute",
+        "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
+      },
+      "artists": [
+        {
+          "name": "Oxide & Neutrino",
+          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362373,
+      "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
+      "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
+    },
+    {
+      "album": {
         "name": "4X4, Vol. 1",
         "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
       },
@@ -1702,10 +2098,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 343222,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9"
+    },
+    {
+      "album": {
+        "name": "Oh Boy",
+        "url": "https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX"
+      },
+      "artists": [
+        {
+          "name": "Fabulous Baker Boys",
+          "url": "https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243874,
+      "name": "Oh Boy - Rafmat Radio Edit",
+      "url": "https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ"
     },
     {
       "album": {
@@ -1720,7 +2134,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333000,
       "name": "Oh No (Sentimental Things) - Oxide Remix",
       "url": "https://open.spotify.com/track/4ZzLtmgHbUTqmV6wvtZq0l"
@@ -1760,6 +2174,24 @@
       "duration_ms": 384706,
       "name": "Over Here - M-Dubs Edit",
       "url": "https://open.spotify.com/track/31bMYWATKM2b6d8fGBsrAV"
+    },
+    {
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403006,
+      "name": "Pick Me Up - Licenced Mix",
+      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
     },
     {
       "album": {
@@ -1880,7 +2312,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209373,
       "name": "RIP Groove (Radio Edit)",
       "url": "https://open.spotify.com/track/6CF9qg5FZFERIUzoYejIzH"
@@ -1985,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Shut The Door",
+        "url": "https://open.spotify.com/album/5oWUNXF1v39yYcVWbb5GDy"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438173,
+      "name": "Shut The Door",
+      "url": "https://open.spotify.com/track/6grf2vEapt8Fq61RuZQtS2"
+    },
+    {
+      "album": {
         "name": "Clubbed To Death",
         "url": "https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh"
       },
@@ -2032,7 +2482,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250160,
       "name": "Sorry! (I Didn't Know) - Original Radio Edit",
       "url": "https://open.spotify.com/track/1Hcu2NeyCTqcvk2UByNzIR"
@@ -2054,7 +2504,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 315040,
       "name": "Space Rider - MJ Cole Vocal Mix",
       "url": "https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW"
@@ -2076,7 +2526,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 543466,
       "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
       "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
@@ -2094,7 +2544,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 544093,
       "name": "Spin Spin Sugar - Armands Dark Garage Mix",
       "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
@@ -2181,6 +2631,32 @@
     },
     {
       "album": {
+        "name": "Bills 2 Pay",
+        "url": "https://open.spotify.com/album/5MjPumbBqd6C5BCO8Kvbdu"
+      },
+      "artists": [
+        {
+          "name": "Glamma Kid",
+          "url": "https://open.spotify.com/artist/5af1NCuQPqXvilvvum6tub"
+        },
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327573,
+      "name": "Taboo (feat. Shola Ama) - MJ Cole Full Vocal Mix",
+      "url": "https://open.spotify.com/track/4B5svMhrwXaCPl242LnYXN"
+    },
+    {
+      "album": {
         "name": "UK Garage Classics",
         "url": "https://open.spotify.com/album/4Ep1a2fK09LRdmplgIOPH2"
       },
@@ -2218,6 +2694,24 @@
       "duration_ms": 226666,
       "name": "Teardrops (Flava 7\" Mix)",
       "url": "https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ"
+    },
+    {
+      "album": {
+        "name": "Pure Grime - The Very Best of Grime",
+        "url": "https://open.spotify.com/album/4KoltQiyOJAt1ToaeyKkYj"
+      },
+      "artists": [
+        {
+          "name": "Heartless Crew",
+          "url": "https://open.spotify.com/artist/4TFwgJ0aP8Jr6rz9ZaIjkV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357736,
+      "name": "The Heartless Theme AKA Superglue Riddim",
+      "url": "https://open.spotify.com/track/0SlmWUiAHCOOUws7KieJBH"
     },
     {
       "album": {
@@ -2276,10 +2770,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211680,
       "name": "Things We Do for Love",
       "url": "https://open.spotify.com/track/6aK9ltNssyBsh0C6Q9ZsVZ"
+    },
+    {
+      "album": {
+        "name": "UK Garage Beats V2",
+        "url": "https://open.spotify.com/album/7KLkeK27wbHpuuUaHNr1Yr"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309105,
+      "name": "Triplets",
+      "url": "https://open.spotify.com/track/5K2nfj6reBygjD9gcI7AIH"
     },
     {
       "album": {
@@ -2334,7 +2846,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 379000,
       "name": "True",
       "url": "https://open.spotify.com/track/4UIVcg8hsML6ZFCW6geRbX"
@@ -2356,7 +2868,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343906,
       "name": "Try Me Out - Let Me Lick It",
       "url": "https://open.spotify.com/track/09WSDEUOZeRRtPf7ypQVoo"
@@ -2484,7 +2996,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215106,
       "name": "Where's Your Love (feat. Tinchy Stryder)",
       "url": "https://open.spotify.com/track/5TqqQILsOAUHTnaTieeMBN"
@@ -2502,7 +3014,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200906,
       "name": "Why? - UK Garage MC Radio Edit",
       "url": "https://open.spotify.com/track/1dHLyXaqQDLxH4IyZ3NgdN"
@@ -2598,10 +3110,32 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423250,
       "name": "Woman Trouble - Remix",
       "url": "https://open.spotify.com/track/6PsWyOvFbmIprcCc56ua46"
+    },
+    {
+      "album": {
+        "name": "Cut To The Chase",
+        "url": "https://open.spotify.com/album/23qJYwn8Ws7ByE8JOOxKLk"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Vula Malinga",
+          "url": "https://open.spotify.com/artist/62cbToG9jGPFvL0P2DslNf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216600,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1hEON5HHAv2GFuapRYuW8Y"
     },
     {
       "album": {

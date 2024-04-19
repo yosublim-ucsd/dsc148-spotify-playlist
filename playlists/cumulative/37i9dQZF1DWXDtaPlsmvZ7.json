@@ -38,10 +38,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292338,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/1TyGQ2z0wpmlKybtnTAC4d"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292338,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY"
     },
     {
       "album": {
@@ -56,7 +78,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175889,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
@@ -74,7 +96,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 175889,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
@@ -92,7 +114,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205266,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO"
@@ -164,7 +186,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 185200,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT"
@@ -298,7 +320,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278673,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
@@ -324,7 +346,7 @@
     {
       "album": {
         "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
       "artists": [
         {
@@ -339,6 +361,28 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202010,
+      "name": "Dr. Psiquiatra",
+      "url": "https://open.spotify.com/track/7lcEnkQEdNzjGGswqrZu6V"
+    },
+    {
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 202226,
       "name": "Dr. Psiquiatra",
       "url": "https://open.spotify.com/track/5XcLKl8fG16ELgk5CpvZLn"
@@ -440,7 +484,7 @@
     {
       "album": {
         "name": "Escapate Conmigo",
-        "url": "https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ"
+        "url": "https://open.spotify.com/album/0NkYH6Y00QR1Cds5nRZIHZ"
       },
       "artists": [
         {
@@ -451,6 +495,24 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 139361,
+      "name": "Escapate Conmigo",
+      "url": "https://open.spotify.com/track/0J3QMzqYv4RgaJ5KuJwNvh"
+    },
+    {
+      "album": {
+        "name": "Escapate Conmigo",
+        "url": "https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Para Bailar",
+          "url": "https://open.spotify.com/artist/3RG133b54fN5qW6soMSN0Q"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 139361,
       "name": "Escapate Conmigo",
       "url": "https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV"
@@ -592,10 +654,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling",
+        "url": "https://open.spotify.com/album/1JbW8zIG1gp5vnDV7N5LJN"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203059,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/7p6CgRGbeR6WyidudAzbsf"
     },
     {
       "album": {
@@ -614,10 +698,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "I Feel It Coming - Version Cumbia",
       "url": "https://open.spotify.com/track/76zoc2IdQM1s4bH5juv5zC"
+    },
+    {
+      "album": {
+        "name": "Insoportablemente Bella",
+        "url": "https://open.spotify.com/album/5YBjf5sQcHafLtAeTKLizv"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249910,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/2QebKAsE19YlK3AIMw0wHQ"
     },
     {
       "album": {
@@ -632,7 +734,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249910,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/3T70Y5JdAJV5iFh1NGuXhu"
@@ -734,7 +836,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245063,
       "name": "La Chica de Humo",
       "url": "https://open.spotify.com/track/48LOg8Yk0glezVTk4xiAss"
@@ -759,6 +861,46 @@
     },
     {
       "album": {
+        "name": "Pura Sabrosura",
+        "url": "https://open.spotify.com/album/7pYXOhusm68rW81SdYuekC"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Latinos",
+          "url": "https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "La Chica De Humo",
+      "url": "https://open.spotify.com/track/34PGaH3Ps2I3Tp3nAIOEGG"
+    },
+    {
+      "album": {
+        "name": "La Incondicional (Version Cumbia Pop)",
+        "url": "https://open.spotify.com/album/6pc3Ttq5xewStsRuE1ErIs"
+      },
+      "artists": [
+        {
+          "name": "Otto Bunge",
+          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
+        },
+        {
+          "name": "Nicki Luis",
+          "url": "https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "La Incondicional (Version Cumbia Pop)",
+      "url": "https://open.spotify.com/track/3IxVP7vjukxmjk1T9gZ7kf"
+    },
+    {
+      "album": {
         "name": "La Incondicional (Version Cumbia)",
         "url": "https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr"
       },
@@ -774,7 +916,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156000,
       "name": "La Incondicional - Version Cumbia",
       "url": "https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa"
@@ -927,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "LemonChamp",
+        "url": "https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127128,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/1w6dOqzuranu79QoUNMNpT"
+    },
+    {
+      "album": {
         "name": "Lemonchamp",
         "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
       },
@@ -938,7 +1098,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127128,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8"
@@ -1000,7 +1160,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226586,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
@@ -1025,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
+        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
+    },
+    {
+      "album": {
         "name": "Los Miticos del Ritmo",
         "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
       },
@@ -1036,10 +1214,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174640,
       "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
       "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
+    },
+    {
+      "album": {
+        "name": "Los Miticos del Ritmo (Soundway Records)",
+        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "No Pares Hasta Tener lo Suficiente - Don't Stop 'til You Get Enough",
+      "url": "https://open.spotify.com/track/7D1AsxEUv12CXEzTmyZXWX"
     },
     {
       "album": {
@@ -1084,7 +1280,7 @@
     {
       "album": {
         "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
       "artists": [
         {
@@ -1099,6 +1295,28 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266015,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+    },
+    {
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
@@ -1134,10 +1352,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212746,
       "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
       "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
+    },
+    {
+      "album": {
+        "name": "Los Miticos del Ritmo (Soundway Records)",
+        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo - Another One Bites the Dust",
+      "url": "https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM"
+    },
+    {
+      "album": {
+        "name": "Pop Goes Cumbia: Bella / Picky / La Camisa Negra / La Bicicleta",
+        "url": "https://open.spotify.com/album/61Q9YdMwrcG4HumInagTys"
+      },
+      "artists": [
+        {
+          "name": "La Casetera",
+          "url": "https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272160,
+      "name": "Pop Goes Cumbia: Bella / Picky / La Camisa Negra / La Bicicleta",
+      "url": "https://open.spotify.com/track/47siYyTMuaUswYaxHeA7Jg"
     },
     {
       "album": {
@@ -1206,10 +1460,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156211,
       "name": "Reggaeton Lento",
       "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
+    },
+    {
+      "album": {
+        "name": "Los Remixes 2.0",
+        "url": "https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Kings",
+          "url": "https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Pee Wee Gonzalez",
+          "url": "https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "Sabes A Chocolate",
+      "url": "https://open.spotify.com/track/3avKbg8OWkwFhucGI7WE22"
     },
     {
       "album": {
@@ -1232,10 +1512,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227200,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz"
+    },
+    {
+      "album": {
+        "name": "Puro Cumbi\u00f3n Legendario",
+        "url": "https://open.spotify.com/album/3axQ66u4Yd3mcv3OUS1Ru2"
+      },
+      "artists": [
+        {
+          "name": "Los Master Plus",
+          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185900,
+      "name": "Sexo en Fuego",
+      "url": "https://open.spotify.com/track/2R77a6R33wXYmqGkzcnnyV"
     },
     {
       "album": {
@@ -1250,7 +1548,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185900,
       "name": "Sexo en Fuego",
       "url": "https://open.spotify.com/track/3bgSYLZVMA8QywFaGoeS4a"
@@ -1272,6 +1570,24 @@
       "duration_ms": 153960,
       "name": "Si una Vez",
       "url": "https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn"
+    },
+    {
+      "album": {
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM"
+      },
+      "artists": [
+        {
+          "name": "BXS",
+          "url": "https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224298,
+      "name": "Simplemente Amigos - Electrocumbia Remix",
+      "url": "https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU"
     },
     {
       "album": {
@@ -1312,10 +1628,32 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124133,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
+    },
+    {
+      "album": {
+        "name": "Huguito Flores: Sin Miedo Session #31",
+        "url": "https://open.spotify.com/album/2U4Y09cYHFKWAjxAc85G23"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/4O1oayNY92BuYHpG8RObhl"
     },
     {
       "album": {
@@ -1346,7 +1684,7 @@
     {
       "album": {
         "name": "Org\u00e1nico",
-        "url": "https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74"
+        "url": "https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7"
       },
       "artists": [
         {
@@ -1357,6 +1695,24 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205720,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv"
+    },
+    {
+      "album": {
+        "name": "Org\u00e1nico",
+        "url": "https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 205818,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY"
@@ -1414,7 +1770,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 225111,
       "name": "T\u00e1penme Porque Me Encuero",
       "url": "https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw"
@@ -1432,10 +1788,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140439,
       "name": "Una Lady Como T\u00fa",
       "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
+    },
+    {
+      "album": {
+        "name": "LemonChamp",
+        "url": "https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140538,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/3pMbfN9l3T4gfUH3UPGPvE"
     },
     {
       "album": {
@@ -1450,7 +1824,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196649,
       "name": "Y Como Es \u00c9l",
       "url": "https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK"
@@ -1493,6 +1867,32 @@
     },
     {
       "album": {
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp"
+      },
+      "artists": [
+        {
+          "name": "Otto Bunge",
+          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
+        },
+        {
+          "name": "Agu Cartier",
+          "url": "https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW"
+        },
+        {
+          "name": "Cande Grau",
+          "url": "https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8"
+    },
+    {
+      "album": {
         "name": "Ya No Tiene Novio (Version Cumbia)",
         "url": "https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77"
       },
@@ -1512,7 +1912,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180600,
       "name": "Ya No Tiene Novio - Version Cumbia",
       "url": "https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq"
@@ -1566,7 +1966,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215200,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"

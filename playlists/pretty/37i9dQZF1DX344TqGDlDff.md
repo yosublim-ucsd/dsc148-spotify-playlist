@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 
 > A woman of substance...Listen to the music from and inspired by Griselda, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,558 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,608 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 | 2 | [Maria Isabel](https://open.spotify.com/track/4Npc9R3uenfy1C4ZUYyfmW) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Onda Brava](https://open.spotify.com/album/4IcP00lgvctKBLf2JPvPOi) | 2:45 |
 | 3 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
 | 4 | [Liza..\. Liza](https://open.spotify.com/track/4YmNfxo3gehMgoBN0wbJ0b) | [Elias Rahbani and His Orchestra](https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo) | [Elias Rahbani and His Orchestra](https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr) | 5:26 |
-| 5 | [Charanga Pa'Gozar](https://open.spotify.com/track/6HXLfrsyny6PPuIxMqR2tW) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Sensación Hay Una Sola](https://open.spotify.com/album/5cQ2MyZ4rPuOwwsBJwnbqv) | 3:43 |
-| 6 | [Oye No Me Beses](https://open.spotify.com/track/6SskFpY3EoOLskKGsBWjhD) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Charanga Super Charanga Vol\. 2](https://open.spotify.com/album/7qEfeKgbIVpVCANCaxgOe3) | 3:15 |
-| 7 | [Sueltame, Vieja](https://open.spotify.com/track/66hjg1yDtzXBMuYdz7lE7q) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom) | [Vol\. 2](https://open.spotify.com/album/6iD95jmyozhjOGd3R4Bu4c) | 2:36 |
+| 5 | [Charanga Pa'Gozar](https://open.spotify.com/track/5jMgGC6FQwlHtPmor4uN3p) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Sensación Hay Una Sola](https://open.spotify.com/album/0ilBIGeGsQt6iN58lw0aa5) | 3:43 |
+| 6 | [Oye No Me Beses](https://open.spotify.com/track/1mAm0qjAa37vifkgBG1Bwa) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Charanga Super Charanga Vol\. 2](https://open.spotify.com/album/7o2Ug4ry3Vhf7egIodmoH3) | 3:15 |
+| 7 | [Sueltame, Vieja](https://open.spotify.com/track/2xm8eAcUNUK1nHAJ1k5DNP) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom) | [Vol\. 2](https://open.spotify.com/album/245nj8mRiTEY7KJWrxaGSo) | 2:36 |
 | 8 | [Mirando al Mar](https://open.spotify.com/track/45PwEQFU7EPFvz7zMa2FYg) | [Jorge Sepúlveda](https://open.spotify.com/artist/3jGe43dtDkcRvPzqyHbLzU) | [El Increíble Jorge Sepúlveda](https://open.spotify.com/album/4lgmEJ96wxzygeOhnu9mrP) | 3:11 |
 | 9 | [Soy una Nube](https://open.spotify.com/track/6wuUERCNF5oppDPIblsLtp) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [La Onda de Elia y Elizabeth](https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX) | 2:47 |
 | 10 | [El Aguardientoski](https://open.spotify.com/track/7mAOtgCozFRVqUM45lV5Ar) | [Los Graduados](https://open.spotify.com/artist/1JldSq8x5MHlqxHVMDEnlF), [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn) | [Que Locura](https://open.spotify.com/album/6LMRqoVaGaRBydqkTMzK3v) | 2:45 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 | 12 | [Come and Get It](https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [Ralph Robles](https://open.spotify.com/album/2pBp6tnOazUbSHFm7bdCN8) | 3:02 |
 | 13 | [What We Can Do](https://open.spotify.com/track/2x2CiLWFtKMumjBkuPd3c5) | [Wild Wind](https://open.spotify.com/artist/6NjtzLmUIPIjNHuDbODkHB) | [Quit Jivin' \- A Funk Anthology](https://open.spotify.com/album/6HZDSjKpfdhUMaT42qDKsq) | 3:19 |
 | 14 | [We're Gonna Get Back Together](https://open.spotify.com/track/7yhKq2v4FfPjzrJWpEWtE0) | [Peggy Scott](https://open.spotify.com/artist/7cPHFG8We7A3dWUw0ajXgP), [Jo Jo Benson](https://open.spotify.com/artist/46Yrouayl80hwogcVO1WZN) | [Lover's Heaven](https://open.spotify.com/album/0zdTx1MWMhX6NzLg2lpONX) | 2:01 |
-| 15 | [Air](https://open.spotify.com/track/4MTJ4H2amTIJoLp1Ua26Y5) | [Ekseption](https://open.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE) | [Ekseption \(Expanded Edition\)](https://open.spotify.com/album/4PRp16q5FP7WU2JIAcP05T) | 2:50 |
+| 15 | [Air](https://open.spotify.com/track/45VflSSMKaOpSUaKYyNGNV) | [Ekseption](https://open.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE) | [Ekseption \(Re\-Issue\)](https://open.spotify.com/album/0dBzZ506I8PXqVcvipvqOI) | 2:51 |
 | 16 | [Let There Be Drums](https://open.spotify.com/track/0nf1kn9Nt1WeQyOinNadKz) | [Sandy Nelson](https://open.spotify.com/artist/5gI33iEWzSZqDZeVOwfJVi) | [Let There Be Drums](https://open.spotify.com/album/3lNS7bUQk0GcyD8u46z4Bd) | 2:18 |
 | 17 | [Sunshine and Dreams](https://open.spotify.com/track/2BwGdSXHFjqfVOFGgyWz0t) | [Syd Dale](https://open.spotify.com/artist/3zIU8LPjTkHA4kvYK4UrM4) | [Kpm 1000 Series: A Distinctive Approach](https://open.spotify.com/album/5QkBb8dScg2ObKlxgPoO4A) | 2:22 |
 | 18 | [Watermelon Man](https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:15 |

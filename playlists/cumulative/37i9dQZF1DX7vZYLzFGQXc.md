@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Milena\(밀레나\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,307 songs - 3 day 1 hr 46 min
+1,308 songs - 3 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Life is so Good](https://open.spotify.com/track/2r3ieGfAyXYD4VhS13m2GE) | [SANG HA](https://open.spotify.com/artist/5h7uYIa41cdONFy8pmu5Wm) | [Nomad's Diary](https://open.spotify.com/album/2vaWpJ5i7RlbvbXiJJiZAw) | 3:31 | 2024-04-03 |  |
 | [LIGHT](https://open.spotify.com/track/5wZsoZu6pIO7QYtnZhy7iS) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [LIGHT](https://open.spotify.com/album/5sb137DVbWJeiO8wlk0o2A) | 3:33 | 2022-08-12 | 2022-09-30 |
 | [Like a Neighbor](https://open.spotify.com/track/0jTkMJs9sUY3IAXNLfaDqh) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Like Good Neighbors OST](https://open.spotify.com/album/6SQnmOQOCVoHKGtBkpuZUV) | 3:14 | 2023-11-14 |  |
+| [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 | 2024-04-17 |  |
 | [Like Gravity](https://open.spotify.com/track/1VcNWIsPplZ79PMQgPU18g) | [Cheero](https://open.spotify.com/artist/4yzlHEgD5QKy6GoUdzvf55) | [Like Gravity](https://open.spotify.com/album/3Zt5Yd3Vm3uFxMBtlSWctQ) | 3:19 | 2022-03-23 | 2022-05-03 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-30 |
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2022-01-27 | 2022-03-03 |

@@ -1,6 +1,6 @@
 {
   "description": "Music from \"BLUE GIANT THE MOVIE\". <a href=\"https://bluegiant-movie.jp/\">\u6620\u753b\u300cBLUE GIANT\u300d</a>\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a92023 BGP \u00a92013 S.I, S",
-  "num_followers": 18532,
+  "num_followers": 18575,
   "original_name": "BLUE GIANT THE MOVIE",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-03-07 02:22:45",
       "album": {
+        "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u304c\u8a9e\u308b\uff01 Anime Music Deep Talk",
+        "url": "https://open.spotify.com/album/7iiMcAGEgx3YPWUJmBSkrg"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u304c\u8a9e\u308b\uff01 Anime Music Deep Talk",
+          "url": "https://open.spotify.com/show/7iiMcAGEgx3YPWUJmBSkrg"
+        }
+      ],
+      "duration_ms": 3948739,
+      "name": "\u7b2c7\u56de \u6620\u753b\u300eBLUE GIANT\u300f\u30b9\u30da\u30b7\u30e3\u30eb\uff01\u77f3\u585a\u771f\u4e00 x NUMBER 8 x\u4e0a\u539f\u3072\u308d\u307f\u304c\u8a9e\u308b\uff01",
+      "url": "https://open.spotify.com/episode/6H9oGjl1tFwc1QWEzgidpM"
+    },
+    {
+      "added_at": "2023-03-07 02:22:45",
+      "album": {
         "name": "On Impulse: John Coltrane",
         "url": "https://open.spotify.com/album/6yPS0oVk1bztYkyerUAF8N"
       },
@@ -539,18 +555,22 @@
     {
       "added_at": "2023-03-07 02:22:45",
       "album": {
-        "name": "Low Flame",
-        "url": "https://open.spotify.com/album/2IP4cee5dknBj24zyROpfC"
+        "name": "Low Flame (Hd Remastered)",
+        "url": "https://open.spotify.com/album/5TCj5eEfhom5CN9LuDkCF1"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Sonny Stitt Quartet",
+          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
+        },
+        {
+          "name": "Don Patterson",
+          "url": "https://open.spotify.com/artist/6SRSZ1BTxmlbfdHqIiEgIO"
         }
       ],
-      "duration_ms": 295400,
+      "duration_ms": 299702,
       "name": "Low Flame",
-      "url": "https://open.spotify.com/track/6AYhSDnaJvnFwtgD3Unlpb"
+      "url": "https://open.spotify.com/track/52BuEmAi6KpkeLVGEkZaR1"
     },
     {
       "added_at": "2023-03-07 02:22:45",

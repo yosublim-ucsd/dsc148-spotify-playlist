@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 273005,
+  "2024-04-19": 273032,
   "date_first_scraped": "2022-04-01",
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! De todas, Norte\u00f1as, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny",
   "name": "Super Cumbias",
@@ -4430,6 +4430,24 @@
     },
     {
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225742,
+      "name": "Suavecito Suavecito",
+      "url": "https://open.spotify.com/track/5HuVRxBhFVWNjUpMBZEBGT"
+    },
+    {
+      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -5141,7 +5159,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 161293,
       "name": "Y Me Besa",
       "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"

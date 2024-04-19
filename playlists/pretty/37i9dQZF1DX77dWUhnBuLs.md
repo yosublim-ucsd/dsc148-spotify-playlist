@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dWUhnBuLs.md) - [plain]
 
 > Los grandes éxitos de Emmanuel y Mijares en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,020 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,314 likes - 49 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dWUhnBuLs.md) - [plain]
 | 12 | [El Privilegio De Amar](https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Privilegio De Amar](https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f) | 3:56 |
 | 13 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
 | 14 | [Soldado Del Amor](https://open.spotify.com/track/2kJaoWF0iUmqma7fp9HPkh) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 3:39 |
-| 15 | [El Rey Azul \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/1Kecio0HXknkdeMdQYD4pv) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 4:08 |
+| 15 | [El Rey Azul \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/6wquN6L5vXzZEdYilNZChP) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo Edición Especial](https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl) | 4:08 |
 | 16 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 |
 | 17 | [Te Prometí](https://open.spotify.com/track/2xJxJdR7elaHDpTGZbyH3J) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [No Se Me Acaba El Alma](https://open.spotify.com/album/4WZUYXYUTWU0VcMLPa0wwx) | 3:20 |
 | 18 | [Tengo Mucho Que Aprender de Ti](https://open.spotify.com/track/4oGUe2drMP0QGkSeOHc0Ro) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:44 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dWUhnBuLs.md) - [plain]
 | 30 | [Pero Que Necesidad](https://open.spotify.com/track/5tiHTqiusHcF4JUR51cgjw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 5:42 |
 | 31 | [Cuando me vaya \- En vivo](https://open.spotify.com/track/77idoT8onagHBmAAITmnI8) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Sinfónico Desde el Palacio de Bellas Artes \(En Vivo\)](https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD) | 6:03 |
 | 32 | [Pobre Diablo](https://open.spotify.com/track/1BoYWVsb8PqT38YbqysRvr) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 4:06 |
-| 33 | [En Otra Vida \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/2i1PBmqgGnt97N31jZdlIG) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 3:39 |
+| 33 | [En Otra Vida \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0xi11udkxLviLO8FTZ5432) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Acústico En Vivo Edición Especial](https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl) | 3:39 |
 | 34 | [Esa Mujer](https://open.spotify.com/track/4QMXtMbF84GRVijuYnZQmK) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Esa Mujer](https://open.spotify.com/album/40foe8RPIUyb2dVgQdoDyw) | 3:38 |
 | 35 | [Siempre](https://open.spotify.com/track/4YJzEbnvbxjithHOLc75rR) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Zona Preferente 25](https://open.spotify.com/album/1JNLJNMhXQDLe62xWqYmoq) | 3:26 |
 | 36 | [Al Final](https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:40 |

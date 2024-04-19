@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: BOYNEXTDOOR",
-  "num_followers": 807482,
+  "num_followers": 807691,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzE3MTYwMCwwMDAwMDAwMDI2ZWVhMGMxODViMTgzYzMzMGVjYWE1NWI3ZTdlMDhm",
+  "snapshot_id": "MTcxMzQwNzU3NiwwMDAwMDAwMDBiMDkwNjM1MmU0YjdlYjU3ZmMxMDA2MWVlMzYxZDRi",
   "tracks": [
     {
       "added_at": "2024-04-15 09:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 179040,
       "name": "Earth, Wind & Fire",
       "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
+    },
+    {
+      "added_at": "2024-04-18 02:32:56",
+      "album": {
+        "name": "Planet Nine : ISOTROPY",
+        "url": "https://open.spotify.com/album/7gwFXZUmeGXQhMimYtujWN"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Beautiful Ashes",
+      "url": "https://open.spotify.com/track/3SLhntsE0KgkioZHs7l4ol"
+    },
+    {
+      "added_at": "2024-04-18 02:32:56",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ"
+      },
+      "artists": [
+        {
+          "name": "Loossemble",
+          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "Girls\u2019 Night",
+      "url": "https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG"
     },
     {
       "added_at": "2024-04-15 09:00:00",
@@ -216,7 +248,7 @@
       "added_at": "2024-04-15 09:00:00",
       "album": {
         "name": "Siren",
-        "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
+        "url": "https://open.spotify.com/album/13eyoNteqwQJmUqhUcWuQt"
       },
       "artists": [
         {
@@ -226,13 +258,13 @@
       ],
       "duration_ms": 147961,
       "name": "Siren",
-      "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"
+      "url": "https://open.spotify.com/track/0lCT7dZovwscmIRIltborh"
     },
     {
       "added_at": "2024-04-15 09:00:00",
       "album": {
         "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+        "url": "https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD"
       },
       "artists": [
         {
@@ -241,8 +273,8 @@
         }
       ],
       "duration_ms": 184053,
-      "name": "His Car Isn't Yours",
-      "url": "https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM"
+      "name": "His Car Isn\u2019t Yours",
+      "url": "https://open.spotify.com/track/6i5SuCCAmy2wx6SDhsyCP5"
     },
     {
       "added_at": "2024-04-15 09:00:00",
@@ -604,7 +636,7 @@
       "added_at": "2024-04-15 09:00:00",
       "album": {
         "name": "EVERSHINE",
-        "url": "https://open.spotify.com/album/6Vann84OY36Th0qtrewvKJ"
+        "url": "https://open.spotify.com/album/53kViNtJ9LUKWA2mJU9EsN"
       },
       "artists": [
         {
@@ -614,27 +646,7 @@
       ],
       "duration_ms": 167386,
       "name": "Love or Die",
-      "url": "https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF"
-    },
-    {
-      "added_at": "2024-04-15 09:00:00",
-      "album": {
-        "name": "Chi-Ka",
-        "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
-      },
-      "artists": [
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 203953,
-      "name": "Chi-Ka",
-      "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
+      "url": "https://open.spotify.com/track/0UvOdAvaTOZAaUHkYN592J"
     },
     {
       "added_at": "2024-04-15 09:00:00",
@@ -695,26 +707,6 @@
       "duration_ms": 187426,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/0e9skrsECOVqRRNFgFdA5c"
-    },
-    {
-      "added_at": "2024-04-15 09:00:00",
-      "album": {
-        "name": "KINEMA",
-        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
-      },
-      "artists": [
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        },
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Do or Die (ft. DPR IAN)",
-      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
     },
     {
       "added_at": "2024-04-15 09:00:00",

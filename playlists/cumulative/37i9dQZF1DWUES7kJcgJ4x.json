@@ -10,7 +10,7 @@
       },
       "artists": [
         {
-          "name": "",
+          "name": "artist",
           "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Boogaloo Smith",
       "url": "https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 98600,
       "name": "Boogaloo Smith",
       "url": "https://open.spotify.com/track/69d3Gm32wJVEIjzR554yvM"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153986,
       "name": "Bule Bule",
       "url": "https://open.spotify.com/track/7qTjlRierxmSVcdKDVAgya"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153506,
       "name": "Bule, bule",
       "url": "https://open.spotify.com/track/1e5fCFpVSLlpDvUBv8U9zd"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196573,
       "name": "Comme un gar\u00e7on",
       "url": "https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196573,
       "name": "Comme un gar\u00e7on",
       "url": "https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169240,
       "name": "Datemi Un Martello",
       "url": "https://open.spotify.com/track/0t4P8xI6xjrDwGCWMdepk2"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169426,
       "name": "Datemi Un Martello",
       "url": "https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187760,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 132680,
       "name": "El Gran Tom\u00e1s (Norman)",
       "url": "https://open.spotify.com/track/7b94Oh1p69ue3mCdXsngrh"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136280,
       "name": "El Gran Tom\u00e1s (Norman)",
       "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133533,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/121oskeJBhi1OvqHqydCSf"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 133533,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/3ZDcQjE8kM4Sj4a2Svgktp"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144960,
       "name": "Je me sens bien aupr\u00e8s de toi",
       "url": "https://open.spotify.com/track/3HQMBbHnNnysttUY1UZ0jT"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 144960,
       "name": "Je Me Sens Bien Aupr\u00e8s De Toi",
       "url": "https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-20",
+      "date_removed": null,
       "duration_ms": 232826,
       "name": "Let's Spend The Night Together",
       "url": "https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232826,
       "name": "Let's Spend The Night Together",
       "url": "https://open.spotify.com/track/4QZTQNmk3JnSr18xNu2N8S"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 117666,
       "name": "Ne Me Laisse Pas L'Aimer",
       "url": "https://open.spotify.com/track/4D2nYW0lvUSkkaQsD9B21F"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117666,
       "name": "Ne me laisse pas l'aimer",
       "url": "https://open.spotify.com/track/7eam8ssADNwOTEjkl8rsr4"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 102922,
       "name": "Nous tous",
       "url": "https://open.spotify.com/track/6lTNBo7bOR5gH2JPH1TnWZ"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 103373,
       "name": "Nous tous",
       "url": "https://open.spotify.com/track/3l7j6MfVs5gJ1ff09cxIay"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/7d3cKDG22Ig9kZOS1qsq3S"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125945,
       "name": "Ponte Bajo El Sol",
       "url": "https://open.spotify.com/track/0kgPPgFb0CVixXeBfpT2TG"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 125945,
       "name": "Ponte Bajo el Sol",
       "url": "https://open.spotify.com/track/5wXoMLwfBQiUrz5lRLFv6X"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 96757,
       "name": "Superpitagorico",
       "url": "https://open.spotify.com/track/0XQPlcLH3L2KqY1mSSLDND"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96838,
       "name": "Superpitagorico",
       "url": "https://open.spotify.com/track/0NeKyis005c9CMAbtw7L3i"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180160,
       "name": "Tengo 17 A\u00f1os",
       "url": "https://open.spotify.com/track/7wjCpCNNu2VHt82SVeymVt"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181786,
       "name": "Tengo 17 A\u00f1os",
       "url": "https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194080,
       "name": "The \"In\" Crowd",
       "url": "https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198306,
       "name": "The \"In\" Crowd - Live At Bohemian Caverns/1965",
       "url": "https://open.spotify.com/track/3W0TTX4l6LwUXhFEZX1Jc3"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204093,
       "name": "The Cat",
       "url": "https://open.spotify.com/track/1AZ5G23Kcn9h5Awws5Ekf3"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "The Cat",
       "url": "https://open.spotify.com/track/3accySZJEWnG4okxKazrFe"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166008,
       "name": "These Boots Are Made For Walkin'",
       "url": "https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166133,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163106,
       "name": "To Sir With Love",
       "url": "https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166693,
       "name": "To Sir with Love",
       "url": "https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152040,
       "name": "T\u00f3mbola",
       "url": "https://open.spotify.com/track/35lfDNjMbqNU54SVwsesn6"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152053,
       "name": "T\u00f3mbola",
       "url": "https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132343,
       "name": "Ya Ya Twist - Remastered",
       "url": "https://open.spotify.com/track/1dxQEqo1bWQyh6r6txaUyS"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 132760,
       "name": "Ya Ya Twist - Ya Ya",
       "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"

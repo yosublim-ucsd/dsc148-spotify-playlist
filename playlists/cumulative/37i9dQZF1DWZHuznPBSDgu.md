@@ -4,12 +4,12 @@
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-102 songs - 7 hr 35 min
+105 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [BLUE HEAVEN](https://open.spotify.com/track/51OW6MbQHHQhPoJJDQMCUC) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:47 | 2023-09-18 |  |
-| [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-09-18 |  |
+| [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-09-18 | 2024-04-19 |
 | [Bye Bye My Love\(U are the one\)](https://open.spotify.com/track/3AW6V9Xcq9IeOzSCjWA7EA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Bye Bye My Love\(U are the one\)](https://open.spotify.com/album/5ooWZW26JBhu9rrSczdJ59) | 4:45 | 2023-09-18 |  |
 | [CHRISTMAS TIME FOREVER](https://open.spotify.com/track/3KVI0WQZpi7J91dY2Zk8Im) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:19 | 2023-09-18 |  |
 | [Computer Children](https://open.spotify.com/track/7BlXfDOO0RgCXZGY4X7YXY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 6:12 | 2023-09-18 |  |
@@ -30,10 +30,11 @@
 | [Oh!クラウディア](https://open.spotify.com/track/0jUvRgPeGNS48HZ5dbUBk7) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド '77\~'82](https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD) | 3:30 | 2023-09-18 |  |
 | [OH, GIRL\(悲しい胸のスクリーン\)](https://open.spotify.com/track/1VRqtVKwdsvOQu7FxcUWRy) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド3 \~the album of LOVE\~](https://open.spotify.com/album/2UVNn2pM6ARwyJ5HxdPBFg) | 3:55 | 2023-09-18 |  |
 | [PARADISE](https://open.spotify.com/track/3po4F2ghECtZIrYsNlc4Jo) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 5:54 | 2023-09-18 |  |
-| [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-18 |  |
+| [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-18 | 2024-04-19 |
+| [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 | 2023-09-18 |  |
 | [TO YOU](https://open.spotify.com/track/3mmabJxHHd1K4GCnuQJfYu) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [タイニイ・バブルス](https://open.spotify.com/album/4fxa2gVYQCAbtcJ5AmDbFL) | 3:43 | 2023-09-18 |  |
 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 | 2023-09-18 |  |
-| [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 | 2023-09-18 |  |
+| [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 | 2023-09-18 | 2024-04-19 |
 | [Ya Ya\(あの時代を忘れない\)](https://open.spotify.com/track/1QGfRnNztw3SKr8Kx8Qw1M) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Ya Ya\(あの時代を忘れない\)](https://open.spotify.com/album/0ifpETJ4tDC49s3EhHrEe3) | 3:57 | 2023-09-18 |  |
 | [YARLEN SHUFFLE\~子羊達へのレクイエム\~](https://open.spotify.com/track/1rzAZFDh4eMWjK0H2qkRN2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:16 | 2023-09-18 |  |
 | [YOU](https://open.spotify.com/track/0azDpmHy0nK3R6jJabkx0U) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 4:31 | 2023-09-18 |  |
@@ -94,12 +95,14 @@
 | [東京VICTORY](https://open.spotify.com/track/4XnY5LBp2C37Cr0VrQmGl2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [東京VICTORY](https://open.spotify.com/album/33M5HqxOl248yYStshaJll) | 5:09 | 2023-09-18 |  |
 | [栄光の男](https://open.spotify.com/track/0b5IOHnch6K9Q1HiABT9UM) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [葡萄](https://open.spotify.com/album/1KusH5XDkblfjkmdoE2Too) | 4:45 | 2023-09-18 |  |
 | [栞\(しおり\)のテーマ](https://open.spotify.com/track/0V5QLyzA5gMuDeWuiltg9F) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [栞\(しおり\)のテーマ](https://open.spotify.com/album/0UVRQBkemLSxV0t9G6H17A) | 4:34 | 2023-09-18 |  |
+| [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 | 2023-09-18 |  |
 | [死体置場でロマンスを](https://open.spotify.com/track/6U5Jqs8bYsREVIIza72BET) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 3:59 | 2023-09-18 |  |
 | [気分しだいで責めないで](https://open.spotify.com/track/5EsSmQhV0aw6W9Uce4A6tj) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [気分しだいで責めないで](https://open.spotify.com/album/3fEN9ap8sQuB31ozWZHuts) | 3:34 | 2023-09-18 |  |
 | [海](https://open.spotify.com/track/4SoThxCMzVHGARcZcfP153) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [人気者で行こう](https://open.spotify.com/album/0ZIH5S5JD9ho8pFvEXo5Ex) | 4:12 | 2023-09-18 |  |
 | [涙のキッス](https://open.spotify.com/track/5XhqWow7MNpWsXRsg1mUl5) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙のキッス](https://open.spotify.com/album/5ZrFiZltJoN8cyoLtNDTQc) | 4:44 | 2023-09-18 |  |
 | [涙の海で抱かれたい\~SEA OF LOVE\~](https://open.spotify.com/track/5Fw07rxmvCU97W1ffx2LaI) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙の海で抱かれたい\~SEA OF LOVE\~](https://open.spotify.com/album/0rQhz9YRYheWp48EZns4Lw) | 4:27 | 2023-09-18 |  |
 | [湘南SEPTEMBER](https://open.spotify.com/track/7zsmpsDJHofE2X5w5tZfIs) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら](https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4) | 4:32 | 2023-09-18 |  |
+| [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 | 2023-09-18 |  |
 | [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 | 2023-09-18 |  |
 | [瞳の中にレインボウ](https://open.spotify.com/track/67Vem8LNv1WuUCAdubOb3d) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 4:51 | 2023-09-18 |  |
 | [神の島遥か国](https://open.spotify.com/track/5s1vLS3FfJgtRBLQkTXRlr) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:11 | 2023-09-18 |  |

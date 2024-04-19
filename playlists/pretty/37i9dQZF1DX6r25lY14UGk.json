@@ -1,13 +1,237 @@
 {
-  "description": "New releases for the kids. Cover: Sam Tsui & Casey Breves",
-  "num_followers": 20477,
+  "description": "New releases for the kids. Cover: Laurie Berkner",
+  "num_followers": 20576,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMGI2OTlhMzE4ODU1YjIzM2ExODgxNzI2MWEzMmNiZmYw",
+  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDc3NGJmNGE1MjIzNGNhMDgxNGIyNjVlMjY3ZGE1MTlk",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "We Are...The Laurie Berkner Band",
+        "url": "https://open.spotify.com/album/0jjYKLPSnsHooWERuZMEko"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 218928,
+      "name": "The Goldfish - We are\u2026 The Laurie Berkner Band Version",
+      "url": "https://open.spotify.com/track/49j8462ef5quIyGWZXReZO"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Fire Inside (From the Netflix Film \"Thelma the Unicorn\")",
+        "url": "https://open.spotify.com/album/1qIeR0x18Zaf0VnZyWTYm5"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 114281,
+      "name": "Fire Inside - From the Netflix Film \"Thelma the Unicorn\"",
+      "url": "https://open.spotify.com/track/0p8lTcG76m0InEbiet9lfp"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "The Crabs Go Crawling",
+        "url": "https://open.spotify.com/album/512zS2d4shhzxsLS1ugtCn"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Finny the Shark",
+          "url": "https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i"
+        }
+      ],
+      "duration_ms": 253009,
+      "name": "The Crabs Go Crawling",
+      "url": "https://open.spotify.com/track/2x25wqwggjcs2b1ACrVGcV"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Once I Caught A Fish Alive",
+        "url": "https://open.spotify.com/album/45uPeLPoY0x1l8Kge7L1XN"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Once I Caught A Fish Alive",
+      "url": "https://open.spotify.com/track/7qmPqpOy2m1kmd0u9GNYar"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Nature Sings",
+        "url": "https://open.spotify.com/album/7vXEXhvVDVX3LIcPY9dI9s"
+      },
+      "artists": [
+        {
+          "name": "Emily Arrow",
+          "url": "https://open.spotify.com/artist/0kUpZhl1fznhuvszZ4g0C9"
+        },
+        {
+          "name": "Ari Tibi",
+          "url": "https://open.spotify.com/artist/6Mdz8DUdZmeARUm2WKvqKa"
+        }
+      ],
+      "duration_ms": 194739,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/7eK8wQ7vX6EtN16ktyBS7n"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Rainbow Song",
+        "url": "https://open.spotify.com/album/0UG2zlHAuNjqrF3hAjtytA"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "duration_ms": 132155,
+      "name": "Rainbow Song",
+      "url": "https://open.spotify.com/track/5f2HdGMA0gsZ4T8VXSE9oO"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "The Wiggles Sound System: Rave of Innocence",
+        "url": "https://open.spotify.com/album/1ZZnrkjq3sKWHwEkvtHLdp"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "Lenny Pearce",
+          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+        }
+      ],
+      "duration_ms": 81412,
+      "name": "Hot Potato - The Wiggles Sound System Remix",
+      "url": "https://open.spotify.com/track/3Az7KofEhlRCdlWm3H7BKk"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Springtime Nursery Rhymes",
+        "url": "https://open.spotify.com/album/359jq0vYkJFQDt624OEsPG"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        },
+        {
+          "name": "Kevin Kerrigan",
+          "url": "https://open.spotify.com/artist/1sCw0KOoQS1ttp5YixvQ1r"
+        }
+      ],
+      "duration_ms": 150393,
+      "name": "Incy Wincy Spider",
+      "url": "https://open.spotify.com/track/7umkugWkWsKeQq2ZdV0WM8"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Feather",
+        "url": "https://open.spotify.com/album/3YehBwXG43soeqs5u8VDZ6"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 184212,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/0xjD3CLCEyeZKucRLNMsPm"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "My little Seed",
+        "url": "https://open.spotify.com/album/3ETaR1virkpryeroi9FNqm"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "My little Seed",
+      "url": "https://open.spotify.com/track/7GmXtSUGI9agLXdA5tKVGY"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Puffer Fish",
+        "url": "https://open.spotify.com/album/0RbFek10iCtCiVCPKlxvnU"
+      },
+      "artists": [
+        {
+          "name": "Mama B",
+          "url": "https://open.spotify.com/artist/0yFdwmRwiMLMnuvQ6XmRQX"
+        }
+      ],
+      "duration_ms": 150451,
+      "name": "Puffer Fish",
+      "url": "https://open.spotify.com/track/2X0ZTGjDU75jywEsGf3V6E"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Buzzy Bee",
+        "url": "https://open.spotify.com/album/4akhuxBfYyCU6vE8UA0VmQ"
+      },
+      "artists": [
+        {
+          "name": "Judi Cranston",
+          "url": "https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B"
+        }
+      ],
+      "duration_ms": 86964,
+      "name": "Buzzy Bee",
+      "url": "https://open.spotify.com/track/3a2l8ioZoc2ftGJpEhmbNR"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Open Shut Them",
+        "url": "https://open.spotify.com/album/3BTzETecI6nG1FieG6dJWk"
+      },
+      "artists": [
+        {
+          "name": "ItsyBitsyKids",
+          "url": "https://open.spotify.com/artist/69sRWANSmSFxBlJ7yfx3Au"
+        }
+      ],
+      "duration_ms": 122240,
+      "name": "Open Shut Them",
+      "url": "https://open.spotify.com/track/2bo8EzJS1zfT2AbnntJpuE"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
@@ -1023,8 +1247,8 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "5 Green and Speckled Frogs and Other Circle Time Songs",
-        "url": "https://open.spotify.com/album/1gINRi4CE7oF13FKKnosrO"
+        "name": "Hello Everybody and Other Circle Time Songs",
+        "url": "https://open.spotify.com/album/19FPtlAvRYPpScvEqxqD2x"
       },
       "artists": [
         {
@@ -1034,7 +1258,7 @@
       ],
       "duration_ms": 119978,
       "name": "Hello Everybody",
-      "url": "https://open.spotify.com/track/2n6ntNrlxYSxckBXwvGvnO"
+      "url": "https://open.spotify.com/track/4123v3VopASU20AYlIS2Eh"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1695,8 +1919,8 @@
     {
       "added_at": "2024-02-09 05:01:00",
       "album": {
-        "name": "5 Green and Speckled Frogs and Other Circle Time Songs",
-        "url": "https://open.spotify.com/album/1gINRi4CE7oF13FKKnosrO"
+        "name": "Wake Up Body",
+        "url": "https://open.spotify.com/album/7CgurGWicYjX5S0vcTj2T5"
       },
       "artists": [
         {
@@ -1706,7 +1930,7 @@
       ],
       "duration_ms": 109742,
       "name": "Wake Up Body",
-      "url": "https://open.spotify.com/track/7tHN46ejAutDtSrET3oLld"
+      "url": "https://open.spotify.com/track/1rwCDTzDZcRP6JK0A74DaA"
     },
     {
       "added_at": "2024-02-02 05:01:00",

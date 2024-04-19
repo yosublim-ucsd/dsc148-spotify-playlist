@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,015 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,082 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 12 | [For the Birds](https://open.spotify.com/track/3zIZn2lkgEVnnr7HutPnrT) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Little Trophy](https://open.spotify.com/album/12ZOnVksOZO6kRaRQY8N3t) | 3:35 |
 | 13 | [Glove Scene](https://open.spotify.com/track/1xUyWcChEGClUTOlGdhRGd) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [On the Waterfront \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KqLl9eMcIo79Zj5cmHpIq) | 1:47 |
 | 14 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
-| 15 | [Golden Leaves](https://open.spotify.com/track/4bhOCfkXuBR10GqmdR7aJn) | [Sula Mae](https://open.spotify.com/artist/4uU2oiUh7HtoaFnNF6MzG5) | [Golden Leaves](https://open.spotify.com/album/3pAY7Z5PLMzlZHpQGcnzPU) | 3:30 |
+| 15 | [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula Mae](https://open.spotify.com/artist/4uU2oiUh7HtoaFnNF6MzG5) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 |
 | 16 | [everything everywhere always](https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [everything everywhere always](https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf) | 2:27 |
 | 17 | [The Fall](https://open.spotify.com/track/26gaZ7kj1MQL6SwWvYvp3S) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Cult Classic](https://open.spotify.com/album/0NFxvuLwUsCzLICePGnEm6) | 4:32 |
-| 18 | [Something Better](https://open.spotify.com/track/2rJ5AqaUfxBDZFXSsbXfFo) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/7762DXt6ZVJ8SjDWhQNrFg) | 3:34 |
+| 18 | [Something Better](https://open.spotify.com/track/4PQAgLLzrYCUsgfMyjFmpP) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/0bkoN2KdMClWIOPda3R3WT) | 3:34 |
 | 19 | [Fill Your Soul \(Remix\)](https://open.spotify.com/track/7wH4BMbIapZab3Gqx3AnV2) | [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG), [Late Night Radio](https://open.spotify.com/artist/0FIRQJT2PBffTJEZvipVi2), [Cheshire](https://open.spotify.com/artist/1OHlpIsY1bcW2ySE97PPeq) | [Fill Your Soul \(Remix\)](https://open.spotify.com/album/0whhDzlRFK0beTVgOCrj88) | 4:32 |
 | 20 | [New Summers](https://open.spotify.com/track/2n8XS0fVWxqegEPyY84TDV) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 4:50 |
 | 21 | [Rollin feat\. JessB, Jewels](https://open.spotify.com/track/0J8EO7Xbpnlr3H5YqH2tHj) | [K+Lab](https://open.spotify.com/artist/3y7GPPMrPAZKg9BlCO8cFA), [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Jewels](https://open.spotify.com/artist/7GhEL8SPucOTNBFqXPP0lK) | [The Booty Galactic](https://open.spotify.com/album/11qd68q6RAuZcL57czw406) | 3:03 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 24 | [You're the One](https://open.spotify.com/track/4cREE7Jgm3e1szbDQ1P8hN) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/4oSPnhntlJfKCoplB7o93h) | 3:38 |
 | 25 | [Talking Out Loud](https://open.spotify.com/track/5yBbS6unic5B0XnV8rXOJW) | [Jody Glenham](https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW) | [Mood Rock](https://open.spotify.com/album/0hTR1zwLCtvXfX9L5ilPU7) | 3:26 |
 | 26 | [El Camino](https://open.spotify.com/track/1thMKDpPDWjxK05zvAiJ6Y) | [Murray Atkinson](https://open.spotify.com/artist/0aCaHbsifR5etwCSFV5JP9) | [El Camino](https://open.spotify.com/album/1kcIdh1riqRMx5WuviJvbc) | 2:26 |
-| 27 | [You Are](https://open.spotify.com/track/5RFXj4CtuwBr49Vt9DE7eQ) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Velvet](https://open.spotify.com/album/2ACuDDZFy5s5kHA1b8TSkW) | 2:54 |
+| 27 | [All You Are](https://open.spotify.com/track/7zf09VXfLiFAd5mY7tGoVM) | [Jeff Meegan and Brad Hatfield](https://open.spotify.com/artist/6n27kwGN6RHteWvmB9pCAc) | [Jazz Lounge \- Cocktails and Crooners](https://open.spotify.com/album/4OPNhTulfcjTjMGqSEtl2M) | 3:00 |
 | 28 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
 | 29 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 |
 | 30 | [Out of the Black](https://open.spotify.com/track/7I3RwDAUdpFfWT918o4tBg) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Out of the Black](https://open.spotify.com/album/23ojLab2DBvXvkPmbU8mHM) | 3:03 |

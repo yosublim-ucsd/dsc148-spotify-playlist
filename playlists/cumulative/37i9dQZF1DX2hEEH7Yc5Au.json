@@ -2620,7 +2620,7 @@
     {
       "album": {
         "name": "WHY NOT",
-        "url": "https://open.spotify.com/album/1xtrFAteSTcj9DsjGZ8d7q"
+        "url": "https://open.spotify.com/album/40j1P0pTMtw141uIqmZY8l"
       },
       "artists": [
         {
@@ -2631,6 +2631,24 @@
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274360,
+      "name": "\u4fe1\u611b\u6210\u766e",
+      "url": "https://open.spotify.com/track/1e3revlbqWb7wn8TvXaQz8"
+    },
+    {
+      "album": {
+        "name": "WHY NOT",
+        "url": "https://open.spotify.com/album/1xtrFAteSTcj9DsjGZ8d7q"
+      },
+      "artists": [
+        {
+          "name": "Ella Chen",
+          "url": "https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 274360,
       "name": "\u4fe1\u611b\u6210\u766e",
       "url": "https://open.spotify.com/track/6FgTqGczJsDVQN8I7mwhQV"
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249004,
       "name": "\u517d",
       "url": "https://open.spotify.com/track/0Jw0566ai4dmtPZ4BUGafk"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 249004,
       "name": "\u517d",
       "url": "https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL"
@@ -5566,6 +5584,24 @@
     {
       "album": {
         "name": "To Hebe",
+        "url": "https://open.spotify.com/album/5kQpJhfXQhkksNmzaXH1nR"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281440,
+      "name": "\u6211\u60f3\u6211\u4e0d\u6703\u611b\u4f60",
+      "url": "https://open.spotify.com/track/0uhtg2jhQTRvZyloPslikU"
+    },
+    {
+      "album": {
+        "name": "To Hebe",
         "url": "https://open.spotify.com/album/3LS8Yu3yTT5CnUvkTcISyC"
       },
       "artists": [
@@ -5576,7 +5612,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281440,
       "name": "\u6211\u60f3\u6211\u4e0d\u6703\u611b\u4f60",
       "url": "https://open.spotify.com/track/46Ubg39vkLzVQWrgSAXCGN"
@@ -8124,10 +8160,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235636,
       "name": "\u8352\u91ce\u5fd7 (\u4f34\u594f\u7248)",
       "url": "https://open.spotify.com/track/5yJrtNq8eEiYhhwVkuXCyV"
+    },
+    {
+      "album": {
+        "name": "\u8352\u91ce\u5fd7",
+        "url": "https://open.spotify.com/album/4SLsunR4ntaR50vc8nz9D9"
+      },
+      "artists": [
+        {
+          "name": "\u8a79\u96ef\u5a77",
+          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "\u8352\u91ce\u5fd7 (\u5f71\u8996\u5287\u300a\u864e\u9db4\u5996\u5e2b\u9304\u300b\u7247\u982d\u66f2)",
+      "url": "https://open.spotify.com/track/0bi0Dx5chSN1Vl8D0AwVHd"
     },
     {
       "album": {

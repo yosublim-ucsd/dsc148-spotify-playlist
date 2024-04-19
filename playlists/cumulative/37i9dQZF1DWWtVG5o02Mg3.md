@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv?si=afc0b53f965f42b8">Poppy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>
 
-30 songs - 1 hr 50 min
+31 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Eifersucht \- Jealousy \- 2019 Remaster](https://open.spotify.com/track/3qS81NPmYJYbvj8PnERqQc) | [Malaria!](https://open.spotify.com/artist/1QrqFxy3w6rk4IlVyoycI6) | [Full Emotion](https://open.spotify.com/album/4ZpsdcWrqrvPD8cUlRNTWj) | 3:09 | 2023-11-03 |  |
 | [Eye For An Eye](https://open.spotify.com/track/0O3uf428Mrw7R39ypgBoex) | [Blind To Faith](https://open.spotify.com/artist/3a89D5yn6vbUyQ69uSu6s1) | [Unstoppable War](https://open.spotify.com/album/1WV0bq0tj29MOx3FEj1dbv) | 2:33 | 2023-11-03 |  |
 | [Ghost Hardware](https://open.spotify.com/track/5m1VR5YlkswXMoHSmGWFqa) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 4:53 | 2023-11-03 |  |
-| [Hear Nothing See Nothing Say Nothing](https://open.spotify.com/track/7EHljAnmdx0lTM90jcVqWW) | [Discharge](https://open.spotify.com/artist/5SRhOM75OnwuXH8BmCxD5a) | [Never Again](https://open.spotify.com/album/5KpumvfvEcWg0fnsxtBrN2) | 1:29 | 2023-11-03 |  |
+| [Hear Nothing See Nothing Say Nothing](https://open.spotify.com/track/7EHljAnmdx0lTM90jcVqWW) | [Discharge](https://open.spotify.com/artist/5SRhOM75OnwuXH8BmCxD5a) | [Never Again](https://open.spotify.com/album/5KpumvfvEcWg0fnsxtBrN2) | 1:29 | 2023-11-03 | 2024-04-19 |
+| [Hear Nothing See Nothing Say Nothing](https://open.spotify.com/track/4jTLlwHR9tn7dIFUScOwRi) | [Discharge](https://open.spotify.com/artist/5SRhOM75OnwuXH8BmCxD5a) | [Hear Nothing See Nothing Say Nothing](https://open.spotify.com/album/6WYcRCX40Kfhjjeiy2S91P) | 1:30 | 2023-11-03 |  |
 | [Icct Hedral](https://open.spotify.com/track/1KSrR8A6FkYVbOM2Njwp0f) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 6:07 | 2023-11-03 |  |
 | [Inertia Creeps](https://open.spotify.com/track/3N2UhXZI4Gf64Ku3cCjz2g) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:57 | 2023-11-03 |  |
 | [Lovebomb](https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 5:06 | 2023-11-03 |  |

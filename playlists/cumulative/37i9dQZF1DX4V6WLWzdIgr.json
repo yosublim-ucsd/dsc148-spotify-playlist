@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346000,
       "name": "Bubrah",
       "url": "https://open.spotify.com/track/25RJ8ELZpDxxqYewIesAXY"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 346000,
       "name": "Bubrah",
       "url": "https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ"
@@ -150,10 +150,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377254,
       "name": "Cerito Loro",
       "url": "https://open.spotify.com/track/57egBaCTBOuAs7ErKxyYjN"
+    },
+    {
+      "album": {
+        "name": "Cerito Loro",
+        "url": "https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377266,
+      "name": "Cerito Loro",
+      "url": "https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN"
     },
     {
       "album": {
@@ -262,7 +280,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 256663,
       "name": "Dalan Liyane",
       "url": "https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256663,
       "name": "Dalan Liyane",
       "url": "https://open.spotify.com/track/2PHWOjXO7lhh0Nlaa8jmoe"
@@ -548,7 +566,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 275000,
       "name": "Kisinan",
       "url": "https://open.spotify.com/track/109u6faz5ePtC558pTonCw"
@@ -566,7 +584,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275000,
       "name": "KISINAN",
       "url": "https://open.spotify.com/track/26wNc0PJYduNHNQO6nk0xE"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284674,
       "name": "Loro Ati Sejak Dini",
       "url": "https://open.spotify.com/track/03Ct1Mmyvj0f0Eg5Jk6ULp"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 284674,
       "name": "Loro Ati Sejak Dini",
       "url": "https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341588,
       "name": "Lungo'O",
       "url": "https://open.spotify.com/track/5mKAqG9ejNhdZhkoSJIi4j"
@@ -812,7 +830,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 341588,
       "name": "LungoO",
       "url": "https://open.spotify.com/track/4ThWoB0h7kZFH9KI8NqdHG"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274879,
       "name": "Nemen - Hiphop Dangdut Version",
       "url": "https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 274879,
       "name": "Nemen HipHop Dangdut Version",
       "url": "https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 394925,
       "name": "Raiso Dadi Siji",
       "url": "https://open.spotify.com/track/2WamguLifm5R5oKt4kuddx"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397440,
       "name": "RAISO DADI SIJI",
       "url": "https://open.spotify.com/track/6Jo8Hoo4vJpXtESmBJEEJS"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 310244,
       "name": "Tak Ikhlasno",
       "url": "https://open.spotify.com/track/3c24cpsd4wWF9mqLsNAGm5"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310244,
       "name": "Tak Ikhlasno",
       "url": "https://open.spotify.com/track/7byQmHNYSJVjFAzd8eciFQ"
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 286162,
       "name": "Tatu",
       "url": "https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb"
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294144,
       "name": "Tatu",
       "url": "https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL"
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290000,
       "name": "Tresno liyane",
       "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Tresno Liyane",
       "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"

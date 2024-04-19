@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 66522,
+  "description": "This is Lunay. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 66538,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDVkNjdhYzQ4ZTMzNmEwYzhmOTA5NjUwY2YxMDRmYjJm",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDEyNTY1MjM3ZDUxM2ExY2Q0MDEwMzQwMDYyNGM0NjFk",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prendemos",
+        "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Prendemos",
+      "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hora y Lugar",
         "url": "https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 228267,
       "name": "Hora y Lugar",
       "url": "https://open.spotify.com/track/2kuWpL0C8LFcZSIbI3e35z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prendemos",
-        "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
-      },
-      "artists": [
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Prendemos",
-      "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
     },
     {
       "added_at": null,
@@ -1191,8 +1191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+      "duration_ms": 151562,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
     }
   ],
   "unique_name": "This Is Lunay",

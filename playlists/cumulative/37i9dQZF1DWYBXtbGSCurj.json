@@ -1457,6 +1457,32 @@
     },
     {
       "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/0jbfyfmfapZoYoXPXpHLSS"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/6nN8XpGqjA3CQmDy3BTx89"
+    },
+    {
+      "album": {
         "name": "Amaterasu",
         "url": "https://open.spotify.com/album/0rZzVQH3hadiHblK6nQvp9"
       },
@@ -2419,6 +2445,28 @@
     },
     {
       "album": {
+        "name": "Baby, Me Espera",
+        "url": "https://open.spotify.com/album/3kZUbJ5v02rNN9nhduuTzK"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Baby, Me Espera",
+      "url": "https://open.spotify.com/track/4ePWID12hilcagCnIhagdd"
+    },
+    {
+      "album": {
         "name": "Bad Bitch 2",
         "url": "https://open.spotify.com/album/0qhPnAOuxVNdR2eze9b2Rf"
       },
@@ -2442,6 +2490,32 @@
       "duration_ms": 256551,
       "name": "Bad Bitch 2",
       "url": "https://open.spotify.com/track/3xEo4cEzZEVYIqeQOuHJ5r"
+    },
+    {
+      "album": {
+        "name": "Bagulho Doido (Papatracks #14)",
+        "url": "https://open.spotify.com/album/0fDyobbQDSjItxCoOT5396"
+      },
+      "artists": [
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Neo BXD",
+          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Bagulho Doido (Papatracks #14)",
+      "url": "https://open.spotify.com/track/1PgRNBplB2HtcjqLEQoxae"
     },
     {
       "album": {
@@ -3318,7 +3392,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167826,
       "name": "Blockkstar x TTF Freestyle!",
       "url": "https://open.spotify.com/track/3CqhjRnc5nRWlWiunZVZuo"
@@ -3826,6 +3900,24 @@
       "duration_ms": 136712,
       "name": "BUEDAFIXE",
       "url": "https://open.spotify.com/track/5bWrqTRmzD7yIa0FmchkZU"
+    },
+    {
+      "album": {
+        "name": "Bunker",
+        "url": "https://open.spotify.com/album/76dIeqRHIzfhILBdv3PTpN"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169305,
+      "name": "Bunker",
+      "url": "https://open.spotify.com/track/4YJOWu7kEcic5lH59o4PCO"
     },
     {
       "album": {
@@ -4586,7 +4678,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222280,
       "name": "Castelo de Areia",
       "url": "https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr"
@@ -4620,7 +4712,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 222280,
       "name": "Castelo de Areia",
       "url": "https://open.spotify.com/track/3S0evEGz1esbk9xjsEm6i1"
@@ -5148,7 +5240,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
@@ -5174,7 +5266,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/475L05BT8k102evS4F1vx6"
@@ -6550,6 +6642,32 @@
       "duration_ms": 153529,
       "name": "DARK",
       "url": "https://open.spotify.com/track/55trQ7JncLLu37B89R9Iyw"
+    },
+    {
+      "album": {
+        "name": "Melhor Momento, Pt. 2",
+        "url": "https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Castelobeats",
+          "url": "https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164501,
+      "name": "Das Esquinas ao Sucesso",
+      "url": "https://open.spotify.com/track/4B0UfZP9tDHKtYWjNZKzVQ"
     },
     {
       "album": {
@@ -8145,6 +8263,28 @@
     },
     {
       "album": {
+        "name": "Dono Do Morro",
+        "url": "https://open.spotify.com/album/1e2ZjrdomPu2tBGXVyT2K2"
+      },
+      "artists": [
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Dono Do Morro",
+      "url": "https://open.spotify.com/track/6FkrWmDwc4w3YwMG3tWYTh"
+    },
+    {
+      "album": {
         "name": "Dores",
         "url": "https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n"
       },
@@ -8656,7 +8796,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
@@ -8690,7 +8830,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
@@ -9627,6 +9767,24 @@
     },
     {
       "album": {
+        "name": "Eu Lembro",
+        "url": "https://open.spotify.com/album/2yZjCeie6oduzyEeVNETgf"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158899,
+      "name": "Eu Lembro",
+      "url": "https://open.spotify.com/track/79IpvQrjXxP5QquprlESFL"
+    },
+    {
+      "album": {
         "name": "Eu Mereci (Freestyle Asfalto Rec)",
         "url": "https://open.spotify.com/album/62g2tur7hQbVe8u6LSG2zY"
       },
@@ -9898,7 +10056,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187493,
       "name": "Eurotrip 3",
       "url": "https://open.spotify.com/track/6YcAQWKNG23Juz6nkHzn7n"
@@ -10382,7 +10540,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158608,
       "name": "Favela T\u00e1 Mudada",
       "url": "https://open.spotify.com/track/1uQAjGhJtyY2qV8z8bZsI8"
@@ -12974,6 +13132,28 @@
       "duration_ms": 158350,
       "name": "Imaginar",
       "url": "https://open.spotify.com/track/3C9uvw1sMHegRGVrUsTy6J"
+    },
+    {
+      "album": {
+        "name": "Imperatriz",
+        "url": "https://open.spotify.com/album/3QfpNn7I9zuzTN6OFPpDgP"
+      },
+      "artists": [
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Imperatriz",
+      "url": "https://open.spotify.com/track/63Ky69ZZdFQUA68W1ctn3u"
     },
     {
       "album": {
@@ -15882,7 +16062,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166961,
       "name": "MA\u00c7OM",
       "url": "https://open.spotify.com/track/11YbstXIKTHRo02wkPNXea"
@@ -17378,7 +17558,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164571,
       "name": "Money Rain",
       "url": "https://open.spotify.com/track/5fefPmWX5UExIF49KtEK2f"
@@ -18338,7 +18518,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136888,
       "name": "Nega Doce",
       "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
@@ -20044,6 +20224,32 @@
       "duration_ms": 156153,
       "name": "Oi, Como Ce T\u00e1?",
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
+    },
+    {
+      "album": {
+        "name": "A Pe\u00e7a Final",
+        "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "Oi, Me Liga Depois",
+      "url": "https://open.spotify.com/track/3gCypMWXLFtBkqcJwM27Ps"
     },
     {
       "album": {
@@ -25290,7 +25496,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165135,
       "name": "Sem Problemas",
       "url": "https://open.spotify.com/track/4xOFKQElBJDAZDoBdpmVhY"
@@ -28899,6 +29105,28 @@
     },
     {
       "album": {
+        "name": "Bem-vindo a Armadilha Brasileira",
+        "url": "https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Bertoi Hyper",
+          "url": "https://open.spotify.com/artist/4ULgAMngZ83pHqS7RSgYZ0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144003,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/3GlI062UstXPkDZjSwAi4L"
+    },
+    {
+      "album": {
         "name": "VALHO NADA",
         "url": "https://open.spotify.com/album/2zHIz8N1VMO6XeoVgMNzQX"
       },
@@ -29292,6 +29520,36 @@
       "duration_ms": 185002,
       "name": "Vestido Vermelho - Ao Vivo no REP Festival",
       "url": "https://open.spotify.com/track/6sm671DQxRRIgfTDSgwmJn"
+    },
+    {
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4xx7nQMBP4himwaefJBUoA"
+      },
+      "artists": [
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0kgOMQNnkDW2pAPNT5UVeN"
     },
     {
       "album": {

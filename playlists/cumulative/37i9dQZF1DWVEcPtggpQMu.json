@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=OPO7p9FcTuizQfdDx0_TtQ\">Usimamane</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL?si=3ukoZ-_qTRKJGhVfoYqfSA\">Ney</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199715,
       "name": "80's Love",
       "url": "https://open.spotify.com/track/0nN4AmUQe1h2jCC1Z8rjG8"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109714,
       "name": "BIRDZ",
       "url": "https://open.spotify.com/track/2mQrO5e0h3MFFNAGmLCWN9"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 109714,
       "name": "BIRDZ",
       "url": "https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185417,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/0IfhFWyoPV2kz0JBkm2DbJ"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 185417,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130909,
       "name": "Broken Bottle",
       "url": "https://open.spotify.com/track/0I1AzqXQ6spcEeQy2FJmSy"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214796,
       "name": "Coffee Shop In Rosebank",
       "url": "https://open.spotify.com/track/44K6s1EPjRyzOwKq30hLzC"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 214796,
       "name": "Coffee Shop In Rosebank",
       "url": "https://open.spotify.com/track/6Pu3lyI7V6Npt8wNshCYnO"
@@ -4138,7 +4138,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281696,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/7aT29WUHb31MOBTK1Kpj50"
@@ -4772,6 +4772,24 @@
       "duration_ms": 168221,
       "name": "Gameplay",
       "url": "https://open.spotify.com/track/1DDs6VrHyHXyavwhiZATbS"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/7oQNzhhHowIoFPcCerMzid"
+      },
+      "artists": [
+        {
+          "name": "ZULO",
+          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207768,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/7Mcha392HDMej65tfaoSVM"
     },
     {
       "album": {
@@ -6463,6 +6481,28 @@
     },
     {
       "album": {
+        "name": "Itching",
+        "url": "https://open.spotify.com/album/5gNi9SlYTOt15MWLT4QjFM"
+      },
+      "artists": [
+        {
+          "name": "Ney",
+          "url": "https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215312,
+      "name": "Itching",
+      "url": "https://open.spotify.com/track/3weI0fLWMRDb6coy9HflBS"
+    },
+    {
+      "album": {
         "name": "THIS IS RELIGION",
         "url": "https://open.spotify.com/album/5ITleVPjnTRzYudzWbBN8R"
       },
@@ -7430,7 +7470,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 252435,
       "name": "Lick Back (Uh Huh Uh Huh)",
       "url": "https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C"
@@ -7464,7 +7504,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252435,
       "name": "Lick Back (Uh Huh Uh Huh) [feat. Wordz, Flow Jones Jr., 25K, Maglera Doe Boy]",
       "url": "https://open.spotify.com/track/3HxVTegEK7POrN3sFzSYX5"
@@ -11812,7 +11852,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 157674,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/1pARdNL0rnflCKtrTtCmD0"
@@ -11830,7 +11870,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157674,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/4C3rbsYyFI6AQJAZXlf1zl"
@@ -12562,6 +12602,32 @@
       "duration_ms": 232779,
       "name": "Stalling",
       "url": "https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4"
+    },
+    {
+      "album": {
+        "name": "Standing On Business",
+        "url": "https://open.spotify.com/album/0vTItuAIElEHrfhIBAUcz6"
+      },
+      "artists": [
+        {
+          "name": "VERBB",
+          "url": "https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b"
+        },
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        },
+        {
+          "name": "Elie G",
+          "url": "https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176896,
+      "name": "Standing On Business",
+      "url": "https://open.spotify.com/track/3fgfk7CK5jIsKr1zY4DLOr"
     },
     {
       "album": {

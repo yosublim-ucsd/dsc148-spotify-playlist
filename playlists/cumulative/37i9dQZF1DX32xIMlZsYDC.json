@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242000,
       "name": "Arkata (Munich Session)",
       "url": "https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180419,
       "name": "Joy Cycle",
       "url": "https://open.spotify.com/track/187XMbww7baW7X7zHDOTZL"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 180124,
       "name": "L'habit ne fait pas le moine",
       "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142706,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149197,
       "name": "New Chapter",
       "url": "https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 182624,
       "name": "Pigeon Prelude",
       "url": "https://open.spotify.com/track/0wkawzqdZwcjGKQ3A7cGvH"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223000,
       "name": "Snefri",
       "url": "https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E"
@@ -1820,6 +1820,42 @@
       "duration_ms": 140487,
       "name": "The Room Upstairs",
       "url": "https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ"
+    },
+    {
+      "album": {
+        "name": "Crashing In Slow Motion",
+        "url": "https://open.spotify.com/album/4HBwy3loMhcSUMszlNOXXD"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173100,
+      "name": "The Unspoken",
+      "url": "https://open.spotify.com/track/4y5pAAiq7zGMejPPAxvth7"
+    },
+    {
+      "album": {
+        "name": "Three Waltzes",
+        "url": "https://open.spotify.com/album/28DqpGRLUjFtNPTaSs2rgr"
+      },
+      "artists": [
+        {
+          "name": "Michael Ottosson",
+          "url": "https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171260,
+      "name": "Through The Wind",
+      "url": "https://open.spotify.com/track/4SYqypJlOI3mhf6zinkaUL"
     },
     {
       "album": {

@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 191137,
       "name": "A Weak Ago",
       "url": "https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 148327,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190657,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227847,
       "name": "Born For Greatness",
       "url": "https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191440,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/5KfXH2tHeTqIX9WvJwXTz1"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb"
@@ -662,6 +662,24 @@
       "duration_ms": 171665,
       "name": "Burnt (By the Sun)",
       "url": "https://open.spotify.com/track/0LcU62QpwyqPy0kTylVvkQ"
+    },
+    {
+      "album": {
+        "name": "Blue-Sky Research (U.S. Version)",
+        "url": "https://open.spotify.com/album/0yf6tzIZPVtgozEkWhKsoO"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/5OWHDcyCInbwVO0XXTIRj1"
     },
     {
       "album": {
@@ -748,7 +766,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237906,
       "name": "Check My Brain",
       "url": "https://open.spotify.com/track/0Fl8ciGpmcUezzgaSKvysd"
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210240,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
@@ -863,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Out Of Ashes",
+        "url": "https://open.spotify.com/album/34Zz8qH5QJgD2uTXDuZ2J9"
+      },
+      "artists": [
+        {
+          "name": "Dead By Sunrise",
+          "url": "https://open.spotify.com/artist/502ZZTWlqgS1Ht62ewubEJ"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Crawl Back In",
+      "url": "https://open.spotify.com/track/6eK6eWG03zxQFW8P4OE4Cb"
+    },
+    {
+      "album": {
         "name": "Hoobastank (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR"
       },
@@ -874,7 +910,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175226,
       "name": "Crawling In The Dark",
       "url": "https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"
@@ -1058,7 +1094,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 177789,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh"
@@ -1130,7 +1166,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234476,
       "name": "Death by Rock and Roll",
       "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225840,
       "name": "Don't Back Down",
       "url": "https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F"
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222826,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
@@ -1404,7 +1440,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200733,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93"
@@ -1696,7 +1732,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245195,
       "name": "Go To War",
       "url": "https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE"
@@ -1822,7 +1858,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 223720,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0BBuP5Ynwl0hMKbQGEjfnk"
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224533,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 224854,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
@@ -2006,7 +2042,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
@@ -2114,10 +2150,32 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256071,
       "name": "hometown",
       "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
+    },
+    {
+      "album": {
+        "name": "Hourglass (feat. Dani Winter-Bates)",
+        "url": "https://open.spotify.com/album/1HB9v2MwL7oRqI4LTa89iw"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        },
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301396,
+      "name": "Hourglass (feat. Dani Winter-Bates)",
+      "url": "https://open.spotify.com/track/7CrI4vI7wOk3ydMrmANGan"
     },
     {
       "album": {
@@ -2158,6 +2216,24 @@
     {
       "album": {
         "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/1UeOoLhpWzpuM5cWQsbCXg"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/16gpk3oHK8Ela7QbRNGjJd"
+    },
+    {
+      "album": {
+        "name": "Hypnotize",
         "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
       },
       "artists": [
@@ -2168,7 +2244,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189440,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
@@ -2226,6 +2302,24 @@
       "duration_ms": 214493,
       "name": "I Don't Care - Single Version",
       "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
+    },
+    {
+      "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188859,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq"
     },
     {
       "album": {
@@ -2294,7 +2388,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 250598,
       "name": "If Not for You",
       "url": "https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv"
@@ -2597,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Live to Rise",
+        "url": "https://open.spotify.com/album/0AhVRxG0GqFP4yTZWhJaCm"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280653,
+      "name": "Live to Rise",
+      "url": "https://open.spotify.com/track/579801BT5wkzD5IVwRLI8t"
+    },
+    {
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -2662,7 +2774,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 192008,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1"
@@ -3156,7 +3268,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199950,
       "name": "One For the Money",
       "url": "https://open.spotify.com/track/0TgUsThAVzuvVPnJ1rSDYK"
@@ -3214,6 +3326,24 @@
       "duration_ms": 157333,
       "name": "One Step Closer",
       "url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
+    },
+    {
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/5315Z6xurVwPxLivHKCidH"
     },
     {
       "album": {
@@ -3276,7 +3406,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
@@ -3348,7 +3478,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
@@ -3456,7 +3586,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225026,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
@@ -3654,7 +3784,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
@@ -3924,7 +4054,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198107,
       "name": "Sunshine!",
       "url": "https://open.spotify.com/track/75jOZla67WCSH24GjJrq5r"

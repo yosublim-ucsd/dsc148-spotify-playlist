@@ -4,7 +4,7 @@
 
 > A creepy collection of scary sounds
 
-151 songs - 8 hr 20 min
+152 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [In the Basement](https://open.spotify.com/track/2M9XfHIsEYZg3DsZxYFBlm) | [Monster Mash Halloween](https://open.spotify.com/artist/6B9xxpfiI7PGAnnDk59dwS), [Spooky Sounds For Halloween](https://open.spotify.com/artist/5aFslAdRaWoMHgTVZe6t00), [Scary Halloween Music](https://open.spotify.com/artist/6Y6fszlaYrTWIbaxQtdsGO) | [\#1 Ominous Sounds to Give You Chills](https://open.spotify.com/album/5meKG4MgP3CpXubX2weGx6) | 2:00 | 2023-06-19 |  |
 | [In the Dark Night](https://open.spotify.com/track/6g5exfvKKwla3FgykO9COs) | [Dr Dark Noise](https://open.spotify.com/artist/6l6ExhNwsH5l2GPAfYBtNP) | [Halloween Ambience](https://open.spotify.com/album/4xmU4hVsK2KKnxfAfMRIC2) | 3:08 | 2022-10-24 |  |
 | [Let There Be Dark](https://open.spotify.com/track/4JNSQ0tOPrNRsDdg8pmyeF) | [Prof\. Scape](https://open.spotify.com/artist/3UKpj8jskGniw2HTDY7sa6) | [Let There Be Dark](https://open.spotify.com/album/7sw4lczTvr6zdbXiGz2lbp) | 5:15 | 2023-10-12 |  |
-| [Living Dolls](https://open.spotify.com/track/7J7ArF6yehfTMQdXVwZTVa) | [Nox Arcana](https://open.spotify.com/artist/2vmxXfIAWKLWbN1yGgHdou) | [Carnival of Lost Souls](https://open.spotify.com/album/5UqoFr8yeW0wpF5JBYTcnJ) | 2:52 | 2022-10-24 |  |
+| [Living Dolls](https://open.spotify.com/track/6rYscM0Bn6bFRcRbcVuZr9) | [Nox Arcana](https://open.spotify.com/artist/2vmxXfIAWKLWbN1yGgHdou) | [Carnival of Lost Souls](https://open.spotify.com/album/6KjzifJVFySPX2mePDuc8z) | 2:52 | 2024-02-20 |  |
+| [Living Dolls](https://open.spotify.com/track/7J7ArF6yehfTMQdXVwZTVa) | [Nox Arcana](https://open.spotify.com/artist/2vmxXfIAWKLWbN1yGgHdou) | [Carnival of Lost Souls](https://open.spotify.com/album/5UqoFr8yeW0wpF5JBYTcnJ) | 2:52 | 2022-10-24 | 2024-04-19 |
 | [Lurken and Craven](https://open.spotify.com/track/6Ky8KQq6gKUv6KZ8R2VFzI) | [Polar Nights](https://open.spotify.com/artist/33Hll6SKYnTy9REz2gWlaG) | [The Cursed Path of Everlasting Loneliness](https://open.spotify.com/album/3SDUxuCLx42hA4J7T8NRTa) | 4:15 | 2024-02-20 |  |
 | [Macabre Midnight](https://open.spotify.com/track/5SCf4lwQEOvPmD5JOpUY6U) | [Hell on Halloween](https://open.spotify.com/artist/4tUZxqyxEFaXK1XAT8uqcl) | [Through the Woods](https://open.spotify.com/album/6sHyoUTkaeUGIJDUYVW4UU) | 2:41 | 2023-10-12 |  |
 | [Mansion in the Mist](https://open.spotify.com/track/6QIiUXvhADwiOVVdjR7GhZ) | [Midnight Syndicate](https://open.spotify.com/artist/5hgOjk7FGUwJvo1J3oDK9R) | [The 13th Hour](https://open.spotify.com/album/1KtUdUV8zA0E0eoNpjUiXz) | 1:17 | 2022-10-24 | 2023-06-20 |

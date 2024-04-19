@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrfD7naNJCL.md) - [plain]
 
 > All\-new performances by the cast and exclusive content\. How many wonders can one playlist hold?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,585 likes - 166 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,661 likes - 166 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrfD7naNJCL.md) - [plain]
 | 33 | [Wedding Announcement](https://open.spotify.com/track/6pLXq0DvTX9j3RNMUiwGMx) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 2:18 |
 | 34 | [Eric to the Rescue](https://open.spotify.com/track/5hE6mgwyI0Qsco7ec7YeNy) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:43 |
 | 35 | [Happy Ending](https://open.spotify.com/track/3ChNbqbiPteCoYtufO79qw) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW), [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:11 |
-| 36 | [Kiss the Girl](https://open.spotify.com/track/77ltWp9xNbfhldXx3IEqVx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Disneymania 5](https://open.spotify.com/album/4QUVJSHDCCMW1hxXvpMxMf) | 3:24 |
+| 36 | [Kiss the Girl](https://open.spotify.com/track/6kkFjjMbO9EL1YxNt8BKm3) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:22 |
 | 37 | [Poor Unfortunate Souls](https://open.spotify.com/track/3nGQdDpPPUGeCLwnXUf4BY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 2:26 |
 | 38 | [Part of Your World](https://open.spotify.com/track/45Ho6P0rArsyEyFkT5hvp0) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:27 |
-| 39 | [Under the Sea](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 |
+| 39 | [Under the Sea](https://open.spotify.com/track/6KRhCrxN8dY35Eq6SDZH2i) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:14 |
 | 40 | [Fathoms Below \- From "The Little Mermaid Live!"](https://open.spotify.com/track/51SWt10JEUEFpFPBWVRgOb) | [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 2:26 |
 | 41 | [Daughters of Triton \- From "The Little Mermaid Live!"](https://open.spotify.com/track/5wojWJBETK9off57QwnWlc) | [RILEY](https://open.spotify.com/artist/5AKj7LRRQHfYPsCKfsptga) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 1:51 |
 | 42 | [Part of Your World \- From "The Little Mermaid Live!"](https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:10 |

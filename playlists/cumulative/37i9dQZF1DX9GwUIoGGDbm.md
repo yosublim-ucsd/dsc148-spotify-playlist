@@ -4,7 +4,7 @@
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. 「かぐや様は告らせたい」シリーズを彩る楽曲をプレイリストで。©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-80 songs - 3 hr 6 min
+82 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [キミだけの](https://open.spotify.com/track/1DSQ0WAk4RvIAosMF3neyP) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 0:39 | 2023-03-30 |  |
 | [ゲームしましょう！](https://open.spotify.com/track/6QL2KO5yrEUyECQhZcDKRv) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:38 | 2023-03-30 |  |
 | [ゴッドハンド](https://open.spotify.com/track/32Ql1M3S7rZhgdKJ6eUsQ8) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:07 | 2023-03-30 |  |
-| [センチメンタルクライシス](https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ) | 4:03 | 2023-03-30 |  |
+| [センチメンタルクライシス](https://open.spotify.com/track/48gbPVwayrBnpyrjaQxP2q) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Sentimental Crisis](https://open.spotify.com/album/48wxnaMynnuZ4XUbrYyu33) | 4:02 | 2023-03-30 |  |
+| [センチメンタルクライシス](https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ) | 4:03 | 2023-03-30 | 2024-04-19 |
 | [センチメンタルクライシス](https://open.spotify.com/track/0W4Ke3QvBn1I8jBqbv9A0X) | [四宮かぐや\(CV:古賀葵\)](https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:00 | 2023-03-30 |  |
 | [ソーラン節 \(秀知院学園体育祭ver.\)](https://open.spotify.com/track/1s1jG27fmKbees3BMDKBD7) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 3:26 | 2023-03-30 |  |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2023-03-30 |  |
@@ -85,7 +86,8 @@
 | [誕生日](https://open.spotify.com/track/15vAw4BHpWGgEJpXqlyCYo) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:11 | 2023-03-30 |  |
 | [間接キ……](https://open.spotify.com/track/5nq7LH2smwREjrQtUziT6d) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:09 | 2023-03-30 |  |
 | [間違っている](https://open.spotify.com/track/6l2ut29Xk75agCI73QuwdO) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:19 | 2023-03-30 |  |
-| [風に吹かれて](https://open.spotify.com/track/6qi17D1xjNEFMLpYwFurV1) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [ハルカカナタヘ](https://open.spotify.com/album/6vkvEwrB0FClvO0pMg7FLq) | 4:32 | 2023-03-30 |  |
+| [風に吹かれて](https://open.spotify.com/track/3VEwy927d2YEqnNqP6xwfk) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/6ZbwErHeIXrRGIMk1sPtY6) | 4:31 | 2023-03-30 |  |
+| [風に吹かれて](https://open.spotify.com/track/6qi17D1xjNEFMLpYwFurV1) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [ハルカカナタヘ](https://open.spotify.com/album/6vkvEwrB0FClvO0pMg7FLq) | 4:32 | 2023-03-30 | 2024-04-19 |
 | [魔女の館](https://open.spotify.com/track/0Cl7mvysw3gzg8YeGx9YMi) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:46 | 2023-03-30 |  |
 | [魔法](https://open.spotify.com/track/0xnuIoUVDqG4WUjtoMVKHq) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:49 | 2023-03-30 |  |
 

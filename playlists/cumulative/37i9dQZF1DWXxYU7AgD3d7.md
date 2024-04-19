@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-82 songs - 6 hr 36 min
+83 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Block Rockin](https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Block Rockin](https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf) | 4:58 | 2023-10-13 |  |
 | [Bottomless Brunch](https://open.spotify.com/track/2mAPMuXFMx9qJwsE1E0wtc) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8) | [Bottomless Brunch](https://open.spotify.com/album/1xorIZ4EwvxN1ZUmXqNcEz) | 5:12 | 2024-03-19 |  |
 | [Changing Channels](https://open.spotify.com/track/1wKGelyxxXFwqvc2kTl3sw) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels / Hole Away](https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0) | 7:14 | 2023-10-13 |  |
-| [Corovado \- Knee Deep Classic Club Mix](https://open.spotify.com/track/3t6D0NzCmatM0vipFwtXt4) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66), [Knee Deep](https://open.spotify.com/artist/2RTq0CujB3hkMrklOCYgJ1) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 6:19 | 2024-03-19 |  |
+| [Corcovado \- Knee Deep Classic Club Mix Ben Watt Vocal Re\-edit](https://open.spotify.com/track/6tsldgOWfH7HMbrIeoDOVc) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/61qmNyeHwJ8SMCOKMRCaV2) | 6:19 | 2024-03-21 |  |
+| [Corovado \- Knee Deep Classic Club Mix](https://open.spotify.com/track/3t6D0NzCmatM0vipFwtXt4) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66), [Knee Deep](https://open.spotify.com/artist/2RTq0CujB3hkMrklOCYgJ1) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 6:19 | 2024-03-19 | 2024-04-19 |
 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 | 2023-12-20 |  |
 | [em & aitch](https://open.spotify.com/track/7jAObx5xXwxz4ql5xQObNe) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 4:34 | 2023-10-13 |  |
 | [Fever](https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 2:52 | 2023-10-13 | 2023-11-24 |
@@ -37,8 +38,8 @@
 | [Higher Than Ever Before \- ATRIP Remix](https://open.spotify.com/track/1sWXjZ8rxRz51xuzPMlBhf) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Higher Than Ever Before \(ATRIP Remix\)](https://open.spotify.com/album/0jKKn6llm1Ty32tDrfnHE5) | 3:19 | 2023-11-23 | 2024-03-22 |
 | [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-10-13 | 2023-12-21 |
 | [I Can't Help but Love](https://open.spotify.com/track/2svuSVmTq5WdHHVDBlobVS) | [David R\. Trask](https://open.spotify.com/artist/7G37dqQpR4pzSxS553aBJG) | [I Can't Help but Love](https://open.spotify.com/album/0IqxR7phNjVfHArCG7LEMR) | 3:39 | 2023-10-13 |  |
-| [I Feel for You](https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs Elysées](https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B) | 5:50 | 2024-03-21 |  |
-| [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 | 2023-11-23 | 2024-03-27 |
+| [I Feel for You](https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs Elysées](https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B) | 5:50 | 2024-03-21 | 2024-04-19 |
+| [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 | 2023-11-23 |  |
 | [I Like It](https://open.spotify.com/track/3UedDxQdGoEdw3cV5eLCJS) | [Madcliff](https://open.spotify.com/artist/4XVNXuvUEcareBngNTDDX5) | [Mad Cliff](https://open.spotify.com/album/0OxzPeW4hJ6GLOqGu4xKpN) | 3:56 | 2023-10-13 |  |
 | [I Move, You Move](https://open.spotify.com/track/5jVOR9leZjED30YJxjtmoF) | [Golden Lambo](https://open.spotify.com/artist/41KnTYjQMWmLmzwFXS5lum) | [I Move, You Move](https://open.spotify.com/album/3ZqXUYoGMl7tVntIRm4XKh) | 2:50 | 2024-03-19 |  |
 | [In The Mood](https://open.spotify.com/track/3BqOGhCJD4qRD6xQjBeT0l) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Shake / In The Mood](https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp) | 3:49 | 2023-10-13 | 2024-02-06 |

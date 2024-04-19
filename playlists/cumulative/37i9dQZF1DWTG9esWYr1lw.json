@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 123724,
       "name": "A3zam Ayam",
       "url": "https://open.spotify.com/track/38bL58Q5kf7RbC2WIciW3Q"
@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Ahlan Ya Ramadhan",
+        "url": "https://open.spotify.com/album/7CKD4o6QQljTmUeed7H1F9"
+      },
+      "artists": [
+        {
+          "name": "Rayhaan Carrim",
+          "url": "https://open.spotify.com/artist/5DVVzZtDQfbNSY4NWT2Kp6"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209844,
+      "name": "Ahlan Ya Ramadhan",
+      "url": "https://open.spotify.com/track/2yBtd8LXwYGYgiaURXCV2v"
+    },
+    {
+      "album": {
         "name": "Ramadaniat",
         "url": "https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i"
       },
@@ -154,7 +172,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 262857,
       "name": "Alaao El Zeina",
       "url": "https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe"
@@ -208,7 +226,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 272144,
       "name": "Efrahou Ya Banat",
       "url": "https://open.spotify.com/track/0mE1z4WuQXZIwR1yRR4FqV"
@@ -526,7 +544,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 98300,
       "name": "Ramadan Gannah",
       "url": "https://open.spotify.com/track/5e4yPEIj6zY8tAdEof5dDV"
@@ -598,7 +616,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 107232,
       "name": "Shahr Ramadan",
       "url": "https://open.spotify.com/track/1eKfU40hKG21tJz0J8VgMW"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222931,
       "name": "\u0631\u0645\u0636\u0627\u0646",
       "url": "https://open.spotify.com/track/7txV2KJuaV24jQDWDiWdBs"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199412,
       "name": "\u0641\u064a \u0631\u0645\u0636\u0627\u0646",
       "url": "https://open.spotify.com/track/2aVE2DprFwstfzKfZSgGPh"

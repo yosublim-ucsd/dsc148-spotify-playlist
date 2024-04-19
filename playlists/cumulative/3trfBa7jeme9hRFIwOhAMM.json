@@ -119,6 +119,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7oqKGZU8HsenYTsZJQ4A3B"
+      },
+      "artists": [
+        {
+          "name": "Admixture",
+          "url": "https://open.spotify.com/artist/5nqxeomhktbyJmotHLE2e1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149642,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4DvXwUnhmI4MuSPAEonPiL"
+    },
+    {
+      "album": {
         "name": "All Day, All Night",
         "url": "https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6"
       },
@@ -178,6 +196,32 @@
       "duration_ms": 166461,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/1fkHEzHS9sB9hTVxRwlLAH"
+    },
+    {
+      "album": {
+        "name": "Ameno (Robbe & TARS. Techno Remix)",
+        "url": "https://open.spotify.com/album/7k1C7gXR6wYFgcVsGwYe3E"
+      },
+      "artists": [
+        {
+          "name": "Axel Paerel",
+          "url": "https://open.spotify.com/artist/4MfZSEXVCYwca7PMXtJB4g"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "TARS.",
+          "url": "https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Ameno (Robbe & TARS. Remix)",
+      "url": "https://open.spotify.com/track/2EqUYdNjz8PbmLh16qU4lx"
     },
     {
       "album": {
@@ -356,7 +400,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213500,
       "name": "Black Tortoise",
       "url": "https://open.spotify.com/track/6MdWhXZwdSRqQ2EWApxiii"
@@ -634,7 +678,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167906,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
@@ -707,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Days Off / Booty Dance EP",
+        "url": "https://open.spotify.com/album/0wxZN9id0ykAtGLqTzpD5G"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152841,
+      "name": "Days Off",
+      "url": "https://open.spotify.com/track/694PvXzjDR7LTO8D7qBENQ"
+    },
+    {
+      "album": {
         "name": "Deepest Desire",
         "url": "https://open.spotify.com/album/4qZCTPwQZXA5ALBfaHdb4L"
       },
@@ -740,7 +802,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152380,
       "name": "Do It",
       "url": "https://open.spotify.com/track/71vTjiwwzFDNlS6V4A5qGa"
@@ -842,6 +904,24 @@
       "duration_ms": 229438,
       "name": "East Bounce",
       "url": "https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4"
+    },
+    {
+      "album": {
+        "name": "EAT THE BASS",
+        "url": "https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "EAT THE BASS",
+      "url": "https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh"
     },
     {
       "album": {
@@ -1010,6 +1090,28 @@
       "duration_ms": 153508,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
+    },
+    {
+      "album": {
+        "name": "Frikitona (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191718,
+      "name": "Frikitona - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
     },
     {
       "album": {
@@ -1330,7 +1432,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156576,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/7mfFf3S4PVwRwekLT6YiWe"
@@ -1614,7 +1716,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293333,
       "name": "KUMBAYA",
       "url": "https://open.spotify.com/track/1xSYEWTIvedPRL8IG6Thk9"
@@ -1632,7 +1734,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177142,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/2jIbHF7gHq6N8ymyemruIm"
@@ -1694,7 +1796,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171428,
       "name": "Legday",
       "url": "https://open.spotify.com/track/6x8JdugszU0J5w2tcRNXhY"
@@ -2163,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Mud Season",
+        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Mud Season",
+      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
+    },
+    {
+      "album": {
         "name": "My Body",
         "url": "https://open.spotify.com/album/1jhvdy1WLUr4L0sutlzutg"
       },
@@ -2320,7 +2440,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194072,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor"
@@ -2742,7 +2862,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184761,
       "name": "Ripped",
       "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
@@ -2866,6 +2986,28 @@
       "duration_ms": 199755,
       "name": "Seeing Is Believing",
       "url": "https://open.spotify.com/track/3TqmTtE8bP2deIzx7ASnus"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/5pLIIiPDpI4dobUqDWNbNH"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/79hpiOdyCGHTJmkourQNYN"
     },
     {
       "album": {
@@ -3099,6 +3241,28 @@
     },
     {
       "album": {
+        "name": "Teka (with Peso Pluma)",
+        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Teka (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
+    },
+    {
+      "album": {
         "name": "Telugu Tech",
         "url": "https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav"
       },
@@ -3259,6 +3423,28 @@
     },
     {
       "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/527W5Y119gWLehXWUhpKWo"
+      },
+      "artists": [
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        },
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124724,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/0jOwACbG0qQ7RsTf6LMic4"
+    },
+    {
+      "album": {
         "name": "This Is Your Brain",
         "url": "https://open.spotify.com/album/1MaGW0nRejiDgFJbmMtaJO"
       },
@@ -3396,7 +3582,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127250,
       "name": "Tututu - Radio Edit",
       "url": "https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq"
@@ -3418,7 +3604,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163809,
       "name": "Un Poquito Mas",
       "url": "https://open.spotify.com/track/4SvvCSDxgjhtqZfXHZT8sc"

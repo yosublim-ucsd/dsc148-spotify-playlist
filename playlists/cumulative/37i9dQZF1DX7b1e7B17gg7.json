@@ -136,10 +136,32 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293600,
       "name": "Answer To Ronnie",
       "url": "https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc"
+    },
+    {
+      "album": {
+        "name": "Nuno Mindelis & the Cream Crackers",
+        "url": "https://open.spotify.com/album/4KIxSGyWxh9S5GSQk3DA6A"
+      },
+      "artists": [
+        {
+          "name": "Nuno Mindelis",
+          "url": "https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP"
+        },
+        {
+          "name": "The Cream Crackers",
+          "url": "https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293600,
+      "name": "Answer to Ronnie",
+      "url": "https://open.spotify.com/track/6UIOKglTs5ZRSCgrDQ4M13"
     },
     {
       "album": {
@@ -328,6 +350,24 @@
     {
       "album": {
         "name": "Memphis Charlie",
+        "url": "https://open.spotify.com/album/6DJhWTjjE9g6bTeM4U081J"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287240,
+      "name": "Blue Steel",
+      "url": "https://open.spotify.com/track/4w0mHOxhZOXuoEhKCtz3Jl"
+    },
+    {
+      "album": {
+        "name": "Memphis Charlie",
         "url": "https://open.spotify.com/album/3anXYfHvmF3ebgaHxbuROu"
       },
       "artists": [
@@ -338,7 +378,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287240,
       "name": "Blue Steel",
       "url": "https://open.spotify.com/track/7mrRkKKrwiwYv3qn7OZJgK"
@@ -374,10 +414,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183279,
       "name": "Blues After Hours",
       "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
+    },
+    {
+      "album": {
+        "name": "The Modern Legacy",
+        "url": "https://open.spotify.com/album/5KYO0eRr8nZwQESUhUreBy"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/0RDC5acwFJydRC4MYHRi7S"
     },
     {
       "album": {
@@ -392,7 +450,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 163533,
       "name": "Blues for Jimmie and Jesse",
       "url": "https://open.spotify.com/track/3C2WSB7TKIUlN7InbKnuot"
@@ -410,7 +468,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163533,
       "name": "Blues for Jimmie and Jesse",
       "url": "https://open.spotify.com/track/70NDKlCahd4X6eNxF5WmIu"
@@ -500,10 +558,48 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405427,
       "name": "Blues Wail",
       "url": "https://open.spotify.com/track/3wyWxsmfYrH3CH1P9HPJLK"
+    },
+    {
+      "album": {
+        "name": "Blues Groove (1958-1959)",
+        "url": "https://open.spotify.com/album/0XCfblhYFL6w4cBhGMeLy5"
+      },
+      "artists": [
+        {
+          "name": "Tiny Grimes",
+          "url": "https://open.spotify.com/artist/2SJ9t86XCfdJnyoMgAtPU1"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Musa Kaleem",
+          "url": "https://open.spotify.com/artist/6Yr9SwjYzzq2A7V7JQ5wkK"
+        },
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        },
+        {
+          "name": "Earl Womack",
+          "url": "https://open.spotify.com/artist/0UJkUm4W4zTKpPoyQV8VUX"
+        },
+        {
+          "name": "Teagle Fleming Jr.",
+          "url": "https://open.spotify.com/artist/3UWNuJiM78FhNxtdPtANY0"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406866,
+      "name": "Blues Wail",
+      "url": "https://open.spotify.com/track/0rwhtRedkXjkPjeoIxfgUw"
     },
     {
       "album": {
@@ -558,10 +654,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196133,
       "name": "Bolo Blues",
       "url": "https://open.spotify.com/track/0paLclaOTcSsiCnXVaCQnX"
+    },
+    {
+      "album": {
+        "name": "What's New?",
+        "url": "https://open.spotify.com/album/58sKNpmssUvt7Bc6TdlLeI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196145,
+      "name": "Bolo Blues",
+      "url": "https://open.spotify.com/track/5QDvociQGLJ0i6xGwcHhoc"
     },
     {
       "album": {
@@ -695,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Crossroads (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jBi4r5qQf5hpkVHYFyoh8"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256866,
+      "name": "Feelin' Bad Blues",
+      "url": "https://open.spotify.com/track/4Nnr7iCmg8AHDo1k1nGHON"
+    },
+    {
+      "album": {
         "name": "Crossroads (Original Sountrack)",
         "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
       },
@@ -706,7 +838,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256826,
       "name": "Feelin' Bad Blues - 2008 Remaster",
       "url": "https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6"
@@ -807,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Songs From A Forest",
+        "url": "https://open.spotify.com/album/2UoNmXrZFLNZhfPazCbRQY"
+      },
+      "artists": [
+        {
+          "name": "Richard Gjems",
+          "url": "https://open.spotify.com/artist/3NgCfexdR7Or1rhp9GJ5XU"
+        },
+        {
+          "name": "Tor Einar Bekken",
+          "url": "https://open.spotify.com/artist/3J30JgVNLzuCA6uaRasNoq"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/6JGamzIS2iW4v8E9UR2LZt"
+    },
+    {
+      "album": {
         "name": "Songs from a Forest",
         "url": "https://open.spotify.com/album/5iQVzqrwsj45S7jf6PfqwS"
       },
@@ -822,7 +976,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276333,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/17DzqYtuUdSSg1HbQ9i5Wd"
@@ -883,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk"
+      },
+      "artists": [
+        {
+          "name": "Berdon Kirksaether",
+          "url": "https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o"
+        },
+        {
+          "name": "The Twang Bar Kings",
+          "url": "https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "It's a Rough Ride We're On",
+      "url": "https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi"
+    },
+    {
+      "album": {
         "name": "Blues (Remastered)",
         "url": "https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX"
       },
@@ -894,7 +1070,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210013,
       "name": "It's a Rough Ride We're On",
       "url": "https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV"
@@ -1334,7 +1510,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/4g08s7tkhNSokWuB96Vm41"
@@ -1352,7 +1528,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
@@ -1616,7 +1792,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383933,
       "name": "The Prowler",
       "url": "https://open.spotify.com/track/0FNTkAob9g8XsdsrbWDiYc"
@@ -1634,10 +1810,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 383933,
       "name": "The Prowler",
       "url": "https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG"
+    },
+    {
+      "album": {
+        "name": "Outtakes and Oddities: The Unheard Duke Robillard",
+        "url": "https://open.spotify.com/album/53w0ln8sQpVBciq0dRKw0V"
+      },
+      "artists": [
+        {
+          "name": "Duke Robillard",
+          "url": "https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441186,
+      "name": "The Return Of Duke's Mood (Unreleased Demo)",
+      "url": "https://open.spotify.com/track/6Cmn3RVJSgab0IzlYcCBu4"
     },
     {
       "album": {
@@ -1652,7 +1846,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 441186,
       "name": "The Return Of Duke's Mood (Unreleased Demo)",
       "url": "https://open.spotify.com/track/6xlsvtBeqIXXqsYeDmmz0n"
@@ -1688,10 +1882,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231693,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/0iu6IMgTL20s10ihxUaent"
+    },
+    {
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/1L7SnKUbeePI2opelkYQFM"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231693,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/5r9YuPBgBZ7KPPilkFjw3g"
     },
     {
       "album": {

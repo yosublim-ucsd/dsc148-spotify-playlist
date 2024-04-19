@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Faouzia
 
-1,331 songs - 2 day 21 hr 28 min
+1,332 songs - 2 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [CAN YOU SEE ME?](https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [CAN YOU SEE ME?](https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O) | 2:21 | 2024-03-06 | 2024-04-04 |
 | [Can't Say No](https://open.spotify.com/track/5jqCvQyLsPocKs85B3jnxW) | [McKenzie Small](https://open.spotify.com/artist/03euI3RvhxVZ5fio13dzco) | [Can't Say No](https://open.spotify.com/album/1wcTMrPk2807e5Z3CJrihf) | 2:51 | 2022-01-05 | 2022-02-03 |
 | [Can't take me](https://open.spotify.com/track/2EuHwE5SjjKqH5uv8mMN8v) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Can't take me](https://open.spotify.com/album/38AcKTsnfYItzPuLseO1wI) | 2:15 | 2023-05-03 | 2023-06-08 |
-| [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 | 2024-04-03 |  |
+| [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 | 2024-04-03 | 2024-04-19 |
+| [Canopy](https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV) | 2:31 | 2024-04-05 |  |
 | [Car Accident](https://open.spotify.com/track/0fOwJiPxWs5Wp8IggTSYAE) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:33 | 2023-03-01 | 2023-04-06 |
 | [Care About Me](https://open.spotify.com/track/1xTzqBRcbLtLhJSiTjTifH) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Care About Me](https://open.spotify.com/album/3OMKHw3QWlhKqEd1aRxH5S) | 2:45 | 2024-04-03 |  |
 | [Carol](https://open.spotify.com/track/58raSxI2FUn6xBtkl5VXtm) | [lemin.](https://open.spotify.com/artist/1nTVRSMfzkCSct5efMdqrg) | [Carol](https://open.spotify.com/album/6jHWm6Jvh0NFBFcXSwlIfQ) | 3:14 | 2023-02-01 | 2023-03-02 |
@@ -240,8 +241,8 @@
 | [cool on the internet](https://open.spotify.com/track/6unyGJTPxAl6zrhfmH5FtF) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [cool on the internet](https://open.spotify.com/album/1M53JeJCmjk9gi6gHWThhz) | 2:21 | 2022-08-03 | 2022-09-09 |
 | [COOL\_DNB\_SONG](https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Personal Protocol](https://open.spotify.com/album/2ScwqDiRQMrGkthrrsumoW) | 2:03 | 2023-07-05 | 2023-08-10 |
 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 | 2022-03-08 | 2022-04-07 |
-| [could've been](https://open.spotify.com/track/24SvABnwS15OMaEm1PuUYH) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/3uId5HMCuBeTFFweJiRC3J) | 3:45 | 2024-04-03 | 2024-04-12 |
-| [could've been](https://open.spotify.com/track/2An6BIYHNcHFIkHCyzejyL) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/2Tf5xR0TQiiTT3yHRqP37Z) | 3:45 | 2024-04-05 |  |
+| [could've been](https://open.spotify.com/track/24SvABnwS15OMaEm1PuUYH) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/3uId5HMCuBeTFFweJiRC3J) | 3:45 | 2024-04-03 |  |
+| [could've been](https://open.spotify.com/track/2An6BIYHNcHFIkHCyzejyL) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/2Tf5xR0TQiiTT3yHRqP37Z) | 3:45 | 2024-04-05 | 2024-04-19 |
 | [Count on Me](https://open.spotify.com/track/0PJXUpD6Og6jy5gMv14knO) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [Count on Me](https://open.spotify.com/album/1iMsm7bddlthQjZr1STePf) | 3:03 | 2022-08-03 | 2022-09-09 |
 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 | 2022-05-04 | 2022-06-01 |
 | [Counting Thunder](https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8) | 3:18 | 2023-11-10 | 2024-01-13 |

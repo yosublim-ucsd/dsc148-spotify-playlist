@@ -2090,6 +2090,28 @@
     {
       "album": {
         "name": "Don't Rush to Grow Up",
+        "url": "https://open.spotify.com/album/3Hme7173t0FDQNG0lrrR3o"
+      },
+      "artists": [
+        {
+          "name": "Anetha",
+          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
+        },
+        {
+          "name": "Sugar",
+          "url": "https://open.spotify.com/artist/2aV1h0PGzqCuFT8kf9HbVO"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487278,
+      "name": "Candy from Strangers",
+      "url": "https://open.spotify.com/track/7dAmlqCPGGE6FoNcxszIl5"
+    },
+    {
+      "album": {
+        "name": "Don't Rush to Grow Up",
         "url": "https://open.spotify.com/album/4Q5xedhtYyB2l8r59QbKoN"
       },
       "artists": [
@@ -2104,7 +2126,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 487278,
       "name": "Candy from Strangers",
       "url": "https://open.spotify.com/track/4E6D7ZDOloEH57f5mWrUBz"
@@ -10172,10 +10194,32 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423601,
       "name": "No Hay Ma\u00f1ana - Club Mix",
       "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
+    },
+    {
+      "album": {
+        "name": "No Hay Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "COCO-PALOMA",
+          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423601,
+      "name": "No Hay Ma\u00f1ana - Club Mix",
+      "url": "https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR"
     },
     {
       "album": {

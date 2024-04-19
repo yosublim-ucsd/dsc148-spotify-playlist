@@ -1,12 +1,12 @@
 {
-  "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 31476,
-  "original_name": "This Is Jordan Davis",
+  "description": "This is Jordan Davis. Lagu-lagu utama, semuanya dalam satu playlist.",
+  "num_followers": 31574,
+  "original_name": "This is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDkyOWU0NjFmMmY3OGZiNTU2YzdkZTU0MWVjYTM1MzY4",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDI4YmRhZGVjZDdhNGQwMzRjOGFiYzdjZjJmNmVmYWQ0",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Gold",
-        "url": "https://open.spotify.com/album/4O4Ivcxj7nW28W1cM4tl2y"
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
       "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 196733,
-      "name": "Country Gold",
-      "url": "https://open.spotify.com/track/6xevQf91nZicZCkdUVObU7"
+      "duration_ms": 159997,
+      "name": "A Little Lime",
+      "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
     },
     {
       "added_at": null,
@@ -211,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+        "name": "Country Gold",
+        "url": "https://open.spotify.com/album/4O4Ivcxj7nW28W1cM4tl2y"
       },
       "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 159997,
-      "name": "A Little Lime",
-      "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
+      "duration_ms": 196733,
+      "name": "Country Gold",
+      "url": "https://open.spotify.com/track/6xevQf91nZicZCkdUVObU7"
     },
     {
       "added_at": null,
@@ -553,6 +553,6 @@
       "url": "https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9"
     }
   ],
-  "unique_name": "This Is Jordan Davis",
+  "unique_name": "This is Jordan Davis",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi"
 }

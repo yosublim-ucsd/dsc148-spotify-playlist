@@ -1,12 +1,12 @@
 {
-  "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 26321,
-  "original_name": "This Is Isabel LaRosa",
+  "description": "This is Isabel LaRosa. Lagu-lagu utama, semuanya dalam satu playlist.",
+  "num_followers": 26723,
+  "original_name": "This is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDMzMmI3NzQxNmIzMjg0YTFmZDFkMTNjY2JhZGZmODM3",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDQwNjM4YjI5ZDFiYjYxNjQ2ZGE1N2NiMDY3MjNiZDlk",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 129931,
-      "name": "eyes don't lie sped up",
-      "url": "https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "favorite",
         "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 122576,
       "name": "favorite sped up",
       "url": "https://open.spotify.com/track/0H2hzCPL66lueCl5n9qpob"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 129931,
+      "name": "eyes don't lie sped up",
+      "url": "https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1"
     },
     {
       "added_at": null,
@@ -329,6 +329,6 @@
       "url": "https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR"
     }
   ],
-  "unique_name": "This Is Isabel LaRosa",
+  "unique_name": "This is Isabel LaRosa",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8"
 }

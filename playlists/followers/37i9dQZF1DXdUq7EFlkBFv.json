@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 17688,
+  "2024-04-19": 17730,
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
   "name": "DJ Akademiks' Taste",
@@ -659,12 +659,12 @@
       },
       "artists": [
         {
-          "name": "Top5",
-          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
-        },
-        {
           "name": "Bundog",
           "url": "https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO"
+        },
+        {
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
         },
         {
           "name": "Why G",

@@ -13916,7 +13916,7 @@
     {
       "album": {
         "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+        "url": "https://open.spotify.com/album/3ndlM94LQzAXOduRGFsvbM"
       },
       "artists": [
         {
@@ -13927,6 +13927,24 @@
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/2GyJwfRSIuDZxbcGyfs8qy"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"

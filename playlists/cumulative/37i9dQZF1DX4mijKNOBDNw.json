@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Alborot\u00e1",
+        "url": "https://open.spotify.com/album/5x4tWBJAy5ciC0GWwksaU9"
+      },
+      "artists": [
+        {
+          "name": "Alea",
+          "url": "https://open.spotify.com/artist/7Ix9zNDM7zF30F2QBQKfNS"
+        },
+        {
+          "name": "Luisa Bastidas",
+          "url": "https://open.spotify.com/artist/31iuxYW2Vdi9XP8DCI25Kc"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256362,
+      "name": "Alborot\u00e1",
+      "url": "https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX"
+    },
+    {
+      "album": {
         "name": "Alma de Cantaora",
         "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
       },
@@ -56,6 +78,44 @@
       "duration_ms": 184378,
       "name": "Antipatriarca",
       "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Seguimos 2020",
+        "url": "https://open.spotify.com/album/62d6vTic3lLfCvt4HVEDYF"
+      },
+      "artists": [
+        {
+          "name": "Tania Barbar\u00e1",
+          "url": "https://open.spotify.com/artist/18zlMHVUNwCW1CmnG4pgFP"
+        },
+        {
+          "name": "Carmen Ruiz",
+          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
+        },
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+        },
+        {
+          "name": "Ale Moreno",
+          "url": "https://open.spotify.com/artist/33PzdbMNyVpDyta6Fyx1x3"
+        },
+        {
+          "name": "Florencia Quinteros",
+          "url": "https://open.spotify.com/artist/7E2jCj5j3DvSf77UQ3M9TO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270498,
+      "name": "Aqu\u00ed Seguimos 2020",
+      "url": "https://open.spotify.com/track/3IdyNey4zJRrCLrRDmhZBc"
     },
     {
       "album": {
@@ -156,10 +216,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174545,
       "name": "Brujas",
       "url": "https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar"
+    },
+    {
+      "album": {
+        "name": "Brujas",
+        "url": "https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF"
+      },
+      "artists": [
+        {
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Brujas",
+      "url": "https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD"
     },
     {
       "album": {
@@ -258,7 +336,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
@@ -540,7 +618,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230400,
       "name": "Hasta Salvarnos",
       "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
@@ -580,10 +658,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266613,
       "name": "Historika",
       "url": "https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe"
+    },
+    {
+      "album": {
+        "name": "La hija del loco",
+        "url": "https://open.spotify.com/album/5OjA7BRUSj9msWXXRGQqsj"
+      },
+      "artists": [
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266613,
+      "name": "Historika",
+      "url": "https://open.spotify.com/track/3zFa7TqRFNNZPjxJ1jkwkZ"
     },
     {
       "album": {
@@ -645,6 +741,28 @@
     },
     {
       "album": {
+        "name": "La Loba (Remixes)",
+        "url": "https://open.spotify.com/album/6DV5ObthuIgftL8GaJqwKx"
+      },
+      "artists": [
+        {
+          "name": "La Chica",
+          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
+        },
+        {
+          "name": "Trooko",
+          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256336,
+      "name": "La Loba - Trooko Remix",
+      "url": "https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr"
+    },
+    {
+      "album": {
         "name": "La Manada",
         "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
       },
@@ -656,7 +774,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 164507,
       "name": "La Manada",
       "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
@@ -716,7 +834,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221278,
       "name": "Libres",
       "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
@@ -734,7 +852,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237447,
       "name": "Lis\u00edstrata",
       "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
@@ -942,7 +1060,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187800,
       "name": "Mujeres Ya!",
       "url": "https://open.spotify.com/track/3Z7yT1rLxDZmGRy0k6WJT7"
@@ -1057,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/1rbgnjnxu4tHWNdf2OuArH"
+      },
+      "artists": [
+        {
+          "name": "Valentina Peralta",
+          "url": "https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId"
+        },
+        {
+          "name": "Fabi\u00e1n Hidalgo",
+          "url": "https://open.spotify.com/artist/2ZylpF6ChLnfAkQHINmf8r"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271315,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/60y8hKEZjCMchod0EcEnN7"
+    },
+    {
+      "album": {
         "name": "Cuentas Pendientes",
         "url": "https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6"
       },
@@ -1130,7 +1270,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 186315,
       "name": "Nunca Amor",
       "url": "https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt"
@@ -1148,7 +1288,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 207452,
       "name": "Otra Humanidad",
       "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
@@ -1240,7 +1380,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 214505,
       "name": "Piba Cumbia",
       "url": "https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx"
@@ -1266,6 +1406,24 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
+    },
+    {
+      "album": {
+        "name": "Mala Reputaci\u00f3n: Latfem Presenta una Memoria Feminista en Canci\u00f3n",
+        "url": "https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289367,
+      "name": "Por Cada Unx",
+      "url": "https://open.spotify.com/track/56we8zTvtmSuoqd8ktNzlh"
     },
     {
       "album": {
@@ -1298,7 +1456,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176000,
       "name": "Rompe (Vencer el Miedo)",
       "url": "https://open.spotify.com/track/6mQGZKKZR8EdUvfxqs4fko"
@@ -1320,7 +1478,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251936,
       "name": "Sacar los Tambores",
       "url": "https://open.spotify.com/track/07T5hgGjxLeEDzrWp31jt3"
@@ -1378,7 +1536,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283500,
       "name": "Se Quem\u00f3",
       "url": "https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2"
@@ -1440,7 +1598,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265500,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5"
@@ -1458,7 +1616,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220000,
       "name": "Sororidad",
       "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
@@ -1476,7 +1634,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Sororidad",
       "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
@@ -1534,7 +1692,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191499,
       "name": "Volando en la nube",
       "url": "https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2"
@@ -1570,7 +1728,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 245182,
       "name": "Yanara",
       "url": "https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw"

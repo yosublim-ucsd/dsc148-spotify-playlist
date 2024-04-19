@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-556 songs - 1 day 8 hr 16 min
+557 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-07-03 | 2024-03-22 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-07-03 | 2023-12-08 |
 | [Stand Anthem](https://open.spotify.com/track/0lE6OHpHjXcr6ikPZ68aLv) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Stand Anthem](https://open.spotify.com/album/0oJfZ9Podvx0QSDg0jpeHy) | 5:58 | 2023-08-03 | 2023-12-08 |
+| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-19 |  |
 | [State of Mind](https://open.spotify.com/track/40dxmIM75qPEArZMFvobQ3) | [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb), [Sey G](https://open.spotify.com/artist/52ukai8m68rt9ceZg9mIDg) | [State of Mind](https://open.spotify.com/album/0jr5DLMNE4N9mDK45Ujqnt) | 3:28 | 2023-04-13 | 2023-08-04 |
 | [Stay Close](https://open.spotify.com/track/0BBAidMvws9oslzLT3uQ9A) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Legitimate Cause](https://open.spotify.com/album/1LPZpvN2QMnfZugwz5rP3r) | 3:26 | 2023-02-10 | 2023-05-24 |
 | [Stay With Me Through The Night](https://open.spotify.com/track/60gpPVIPxuB8OLKS3mif0I) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Stay With Me Through The Night](https://open.spotify.com/album/5zXZBEsCxIFSqGwAO1FEOK) | 3:36 | 2024-01-29 |  |

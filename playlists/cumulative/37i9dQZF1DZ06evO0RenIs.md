@@ -2,7 +2,7 @@
 
 ### [This Is Phoenix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RenIs)
 
-> This is Phoenix\. The essential tracks, all in one playlist.
+> This is Phoenix\. Track\-track unggulan, semuanya dalam satu playlist.
 
 64 songs - 3 hr 51 min
 

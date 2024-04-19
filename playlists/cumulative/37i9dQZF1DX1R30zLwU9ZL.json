@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "All Good",
-        "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
+        "url": "https://open.spotify.com/album/7riCFI1z2nb9zmHGOnIpqb"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 152500,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/32pVxiyqfsKKoZMEyF9WDn"
+    },
+    {
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 152500,
       "name": "All Good",
       "url": "https://open.spotify.com/track/5rTLetGFtJPn2PxK5z19xs"
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209371,
       "name": "ALONG THE WAY",
       "url": "https://open.spotify.com/track/1TJJlmu9T3MZfQaljHEwF1"
@@ -70,10 +88,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 209371,
       "name": "ALONG THE WAY",
       "url": "https://open.spotify.com/track/1Vs6ls1E9OFuSt6yXsBjNY"
+    },
+    {
+      "album": {
+        "name": "A SIGN OF THE TIMES (Collection)",
+        "url": "https://open.spotify.com/album/2V43z0O8qdbNoaHLln2yVK"
+      },
+      "artists": [
+        {
+          "name": "Amber Ryann",
+          "url": "https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/0g9V1wrWV5xEvDTcosZ7ZL"
     },
     {
       "album": {
@@ -88,7 +124,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164866,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3og1zOOPN0zMsJtQgcgmit"
@@ -148,7 +184,7 @@
     {
       "album": {
         "name": "Blame It On The Youts",
-        "url": "https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN"
+        "url": "https://open.spotify.com/album/4DP3DptWs68FJ2zsSsG35B"
       },
       "artists": [
         {
@@ -159,6 +195,24 @@
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/05LTYcjv6MoUoqVxsKFCIF"
+    },
+    {
+      "album": {
+        "name": "Blame It On The Youts",
+        "url": "https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN"
+      },
+      "artists": [
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 190426,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/1RjkJczgPlNfhr71C6pDUG"
@@ -194,10 +248,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156920,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/2j7dJ3fOJhHRjC0fxY1M6j"
+    },
+    {
+      "album": {
+        "name": "Greenhouse EP",
+        "url": "https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156920,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/54cUU4IYhhjNzGylSaqGIk"
     },
     {
       "album": {
@@ -266,7 +338,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187294,
       "name": "Dodgeball",
       "url": "https://open.spotify.com/track/0ZLJcG2SkVde3GKoBsz7LX"
@@ -284,7 +356,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 187294,
       "name": "Dodgeball",
       "url": "https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm"
@@ -382,7 +454,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 372866,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa"
@@ -400,7 +472,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 372813,
       "name": "Enjoy the Silence - 2006 Remaster",
       "url": "https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP"
@@ -454,10 +526,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194624,
       "name": "Finally We're Alone",
       "url": "https://open.spotify.com/track/3FDkWoE4P93P3Fz67WycUP"
+    },
+    {
+      "album": {
+        "name": "Finally We're Alone",
+        "url": "https://open.spotify.com/album/6u0mt83n4f0dXQAb1AvAq4"
+      },
+      "artists": [
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194624,
+      "name": "Finally We're Alone",
+      "url": "https://open.spotify.com/track/4okTFvm9et2Bxm6l4nCL83"
     },
     {
       "album": {
@@ -558,10 +648,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Into the Wave",
       "url": "https://open.spotify.com/track/1GMJxMsvRTRTENbb8Q2nF8"
+    },
+    {
+      "album": {
+        "name": "San Lazarus",
+        "url": "https://open.spotify.com/album/7JNMPbFXXpVZ9Vbt2tb7Fl"
+      },
+      "artists": [
+        {
+          "name": "Desta French",
+          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Into the Wave",
+      "url": "https://open.spotify.com/track/3rJUrlAfS6jqqtUZZ1jhqa"
     },
     {
       "album": {
@@ -583,6 +691,24 @@
     },
     {
       "album": {
+        "name": "It's My World",
+        "url": "https://open.spotify.com/album/5WiBJc60RqfrcjlNX9q6Am"
+      },
+      "artists": [
+        {
+          "name": "Y2",
+          "url": "https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130533,
+      "name": "It's My World",
+      "url": "https://open.spotify.com/track/1m7bQkA9EJuWAh0SIgmDI0"
+    },
+    {
+      "album": {
         "name": "Victor",
         "url": "https://open.spotify.com/album/00mCJ4soyejUyK0wqbQlwJ"
       },
@@ -594,7 +720,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130533,
       "name": "It's My World",
       "url": "https://open.spotify.com/track/6gbidcxKKpJV7B57qEm7Xw"
@@ -630,10 +756,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162811,
       "name": "Jheeze",
       "url": "https://open.spotify.com/track/1gcbrVKjdNkp0iDNdmKKAH"
+    },
+    {
+      "album": {
+        "name": "Jheeze",
+        "url": "https://open.spotify.com/album/5FPVT1N7II8U44M2pAG2Bj"
+      },
+      "artists": [
+        {
+          "name": "Zines",
+          "url": "https://open.spotify.com/artist/3dKDLrcOBAqhFM0Btokf3c"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162811,
+      "name": "Jheeze",
+      "url": "https://open.spotify.com/track/2b6RmMHpaZyy5PjNB1wPut"
     },
     {
       "album": {
@@ -732,7 +876,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/2CyhpAB516q2OaNwcmTHyC"
@@ -754,7 +898,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
@@ -834,7 +978,7 @@
     {
       "album": {
         "name": "Sketchbook: Vol. 1",
-        "url": "https://open.spotify.com/album/6oW1XLE0Aj00qbarEYZphv"
+        "url": "https://open.spotify.com/album/30Eq8rncyqpK5sq0tGxw0x"
       },
       "artists": [
         {
@@ -845,6 +989,24 @@
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Move on",
+      "url": "https://open.spotify.com/track/4HLmCACZa1F5H6SRVrCMYI"
+    },
+    {
+      "album": {
+        "name": "Sketchbook: Vol. 1",
+        "url": "https://open.spotify.com/album/6oW1XLE0Aj00qbarEYZphv"
+      },
+      "artists": [
+        {
+          "name": "Peachcurls",
+          "url": "https://open.spotify.com/artist/3iaST3vC9790E2exXCvasS"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 176250,
       "name": "Move on",
       "url": "https://open.spotify.com/track/7c5w2GKpBxhsQ0owMg3uDt"
@@ -1054,7 +1216,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169893,
       "name": "Puedes Decir De Mi",
       "url": "https://open.spotify.com/track/2GiIG3pYsmHEXzy2LEomEp"
@@ -1076,7 +1238,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 169893,
       "name": "Puedes Decir De Mi (feat. Gaby Moreno)",
       "url": "https://open.spotify.com/track/5kmrgsolftnZzuLHnUsC3M"
@@ -1242,7 +1404,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223018,
       "name": "The Cheek",
       "url": "https://open.spotify.com/track/5ixC1NfXGoGSs2J9ZdXOeZ"
@@ -1260,7 +1422,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 223018,
       "name": "The Cheek",
       "url": "https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X"
@@ -1372,10 +1534,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207157,
       "name": "Wayback",
       "url": "https://open.spotify.com/track/3pdZahYd2Rk263FM1gBCpw"
+    },
+    {
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/4ej1OIC70ldOWQyh3XjI8B"
+      },
+      "artists": [
+        {
+          "name": "Juto",
+          "url": "https://open.spotify.com/artist/2txTOM1PXeT6aMDnEtSbn1"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Wayback",
+      "url": "https://open.spotify.com/track/5KOI12DgtoDtTbuiwVLGg6"
     },
     {
       "album": {

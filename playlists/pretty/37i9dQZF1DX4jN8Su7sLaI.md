@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,740 likes - 39 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,763 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
-| 2 | [Action](https://open.spotify.com/track/4eBxnGsRwwZmy1A8b0jnGu) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [from here](https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx) | 3:41 |
+| 2 | [アクション](https://open.spotify.com/track/4dSGdhrwYbkKMnmrbg9b6q) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB), [佐伯ユウスケ](https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM) | [アクション](https://open.spotify.com/album/1OVSsXu79hA5mnjvp9VyHz) | 3:39 |
 | 3 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 |
 | 4 | [リクライム](https://open.spotify.com/track/3Kc7MCGYcgSw8RdOJE2oaO) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [リクライム](https://open.spotify.com/album/4b2ZaJ9CQCdKadWSOKCEuR) | 3:36 |
 | 5 | [ツヨサヨワサ](https://open.spotify.com/track/6egJ4mBsymW0x6O19Cfl4I) | [佐伯ユウスケ](https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM) | [ツヨサヨワサ/行かないと](https://open.spotify.com/album/2qw57WcsgI21f1lxRppVfg) | 3:30 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 | 21 | [栄光への一秒](https://open.spotify.com/track/7dFE4eFmJnVExRqkUiJVLs) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [TVアニメ「弱虫ペダル GRANDE ROAD」 第2クール エンディング・テーマ「栄光への一秒」](https://open.spotify.com/album/3vJ7d8yNJ9f6UwhlpjDEt0) | 4:03 |
 | 22 | [Believer](https://open.spotify.com/track/00iJEqP9yfPE953xtpt2S5) | [LASTGASP](https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS) | [弱虫ペダル テーマソングアルバム](https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW) | 4:50 |
 | 23 | [限界の先](https://open.spotify.com/track/5N0xRd4JNfvntR7YN0Q8qE) | [沢田完](https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG) | [TVアニメ「弱虫ペダル NEW GENERATION」オリジナル・サウンドトラック](https://open.spotify.com/album/4K8itKzK58Bt26r93cq0WR) | 2:04 |
-| 24 | [はじまりの日々](https://open.spotify.com/track/0NEhEFk3CrVeoYtCSfgBlJ) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [Niemeyer](https://open.spotify.com/album/1Sh5Yv0oTXifF8oXgyOFme) | 3:41 |
+| 24 | [はじまりの日々](https://open.spotify.com/track/0QKjRcajwj5Ns2lG6xgSKf) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [Niemeyer](https://open.spotify.com/album/6PUjbkWEJcSWzrZ61TxVLz) | 3:41 |
 | 25 | [ケイデンス](https://open.spotify.com/track/2llVdRrltHCLKcIO8Vmleb) | [夏代孝明](https://open.spotify.com/artist/0fhTFborEMzRFyZIaVgz9r) | [TVアニメ「弱虫ペダル NEW GENERATION」オープニングテーマ「ケイデンス」](https://open.spotify.com/album/1gKsHNFY8OIEJUHp0yeBuc) | 4:17 |
 | 26 | [ALL FOR ONE](https://open.spotify.com/track/4dCeh7GVusg5NJyWea5NmP) | [今泉俊輔\(CV:鳥海浩輔\)](https://open.spotify.com/artist/6l0ihzxL9SQxFveCIESRi1), [金城真護\(CV:安元洋貴\)](https://open.spotify.com/artist/1b60JNECUGTk6J3yGP59N9) | [TVアニメ「弱虫ペダル」キャラクターソングアルバム](https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy) | 3:45 |
 | 27 | [トランジット](https://open.spotify.com/track/0fv2r0EZrKN4X70dyZZI7i) | [夏代孝明](https://open.spotify.com/artist/0fhTFborEMzRFyZIaVgz9r) | [TVアニメ「弱虫ペダル NEW GENERATION」第2クールオープニングテーマ「トランジット」](https://open.spotify.com/album/7zz9WzfZt0Oq1BvfTAqQCz) | 4:22 |

@@ -128,10 +128,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156000,
       "name": "A World Without Pain",
       "url": "https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK"
+    },
+    {
+      "album": {
+        "name": "A World Without Pain",
+        "url": "https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "A World Without Pain",
+      "url": "https://open.spotify.com/track/536rm114S2ByPbh906pksj"
     },
     {
       "album": {
@@ -420,7 +438,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167532,
       "name": "Au loin",
       "url": "https://open.spotify.com/track/684T86icudUoR4RjT7exYS"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 167532,
       "name": "Au loin",
       "url": "https://open.spotify.com/track/7JR2FbKiAkUfCw0pe4F9Ob"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH"
@@ -3328,10 +3346,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178000,
       "name": "Mursejler",
       "url": "https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C"
+    },
+    {
+      "album": {
+        "name": "Mursejler",
+        "url": "https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mursejler",
+      "url": "https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc"
     },
     {
       "album": {
@@ -3782,7 +3818,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154625,
       "name": "Only If You Stay",
       "url": "https://open.spotify.com/track/5qTDBdXQbOMPXM3TFSBjbB"
@@ -3800,7 +3836,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 154625,
       "name": "Only If You Stay",
       "url": "https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn"
@@ -4488,7 +4524,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 144625,
       "name": "Sans fleurir",
       "url": "https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V"
@@ -4506,7 +4542,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144625,
       "name": "Sans fleurir",
       "url": "https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo"
@@ -4870,7 +4906,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177386,
       "name": "Soleil De Printemps",
       "url": "https://open.spotify.com/track/11Q02wEHJQc7eSIOAB38qN"
@@ -4924,7 +4960,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 177386,
       "name": "Soleil De Printemps",
       "url": "https://open.spotify.com/track/3oCeHeT1LpAKRK7esg4S0R"
@@ -5264,7 +5300,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1u1aXnuFIFr5rm3Z1h7NWK"
@@ -5282,7 +5318,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/3mZ1vH8XtCcBL1HNrHfGWU"
@@ -6608,7 +6644,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 142625,
       "name": "XV...with gravitas",
       "url": "https://open.spotify.com/track/2fE6qaDpRnn3dImpGar0g6"
@@ -6626,7 +6662,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142625,
       "name": "XV...with gravitas",
       "url": "https://open.spotify.com/track/4aWS0YU1fWeQMeiGiSVuwv"

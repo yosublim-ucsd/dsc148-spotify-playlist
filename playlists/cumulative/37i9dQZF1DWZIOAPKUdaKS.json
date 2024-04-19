@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\u8349\u7a3f",
+        "url": "https://open.spotify.com/album/7vnmFoClimIW1xxjyorJJ4"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "190306-11",
+      "url": "https://open.spotify.com/track/04P0ErOc0W13SliezFing8"
+    },
+    {
+      "album": {
         "name": "Soukou",
         "url": "https://open.spotify.com/album/0zvPt1awVD6wc4LfkVTTYb"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155533,
       "name": "190306-11",
       "url": "https://open.spotify.com/track/79V5WPD3ZmojHUlRIhD2FG"
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/1C4NlMtgmBUOKzfW61sTYD"
@@ -5052,7 +5070,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/75VgkSAz0It7T1Og7bAu3B"
@@ -8494,7 +8512,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 144306,
       "name": "Out the Dark",
       "url": "https://open.spotify.com/track/4KWm3DyengX39eIr3p9mVs"
@@ -8512,7 +8530,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144306,
       "name": "Out the Dark",
       "url": "https://open.spotify.com/track/4hRsKj4mQgoJPYuZtj84FL"
@@ -8710,7 +8728,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 134500,
       "name": "Passage sombre",
       "url": "https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk"
@@ -8746,7 +8764,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134500,
       "name": "Passage sombre",
       "url": "https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE"
@@ -10060,7 +10078,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 144625,
       "name": "Sans fleurir",
       "url": "https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V"
@@ -10078,7 +10096,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144625,
       "name": "Sans fleurir",
       "url": "https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo"
@@ -12570,7 +12588,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154625,
       "name": "Until The Blissful Dawn",
       "url": "https://open.spotify.com/track/2wfAJQkNqipmojScYX9lhV"
@@ -12700,6 +12718,24 @@
       "duration_ms": 154625,
       "name": "Until The Blissful Dawn",
       "url": "https://open.spotify.com/track/5QZHUzGvrJqj2WRWGqrvqA"
+    },
+    {
+      "album": {
+        "name": "Until The Blissful Dawn",
+        "url": "https://open.spotify.com/album/45UjPgFGq62QWAbmKiNxOM"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Until The Blissful Dawn",
+      "url": "https://open.spotify.com/track/5hsIYSyWoanQtI5G1EpPEi"
     },
     {
       "album": {

@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Wax Figures",
+        "url": "https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt"
+      },
+      "artists": [
+        {
+          "name": "Infinity Ripple",
+          "url": "https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147390,
+      "name": "A Temporary Solution",
+      "url": "https://open.spotify.com/track/1FdYqR7Ap13f0BvjfeQmP9"
+    },
+    {
+      "album": {
+        "name": "Wax Figures",
         "url": "https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147390,
       "name": "A Temporary Solution",
       "url": "https://open.spotify.com/track/5dWTt3ER2jN4hR34FF7ZEh"
@@ -490,7 +508,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229000,
       "name": "Earnest Leslye",
       "url": "https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre"
@@ -508,7 +526,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Earnest Leslye",
       "url": "https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120000,
       "name": "I Thought About Death, About Time",
       "url": "https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "I Thought About Death, About Time",
       "url": "https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195832,
       "name": "Lantern - Piano Version",
       "url": "https://open.spotify.com/track/5LMnVTPqsmhGyjhMtb55pD"
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 195832,
       "name": "Lantern - Piano Version",
       "url": "https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229606,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229877,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU"
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/4BlEJ8BG3efMsKKJMhiMar"

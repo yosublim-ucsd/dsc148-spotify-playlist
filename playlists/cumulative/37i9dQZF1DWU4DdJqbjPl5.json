@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover: Shekinah",
+  "description": "The smoothest Afro R&B out right now. Cover: Juls",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179036,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
@@ -2815,6 +2815,28 @@
     },
     {
       "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3"
       },
@@ -2878,7 +2900,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
@@ -3162,7 +3184,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175031,
       "name": "IYD",
       "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
@@ -3800,7 +3822,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
@@ -3822,7 +3844,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
@@ -4525,6 +4547,28 @@
     },
     {
       "album": {
+        "name": "ON AIR",
+        "url": "https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn"
+      },
+      "artists": [
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254864,
+      "name": "NOBODY (feat. Blxckie)",
+      "url": "https://open.spotify.com/track/2gr6VEG2BdPka9Tz1mAfbi"
+    },
+    {
+      "album": {
         "name": "Nobody (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM"
       },
@@ -4594,7 +4638,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"
@@ -4612,7 +4656,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE"
@@ -4692,7 +4736,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150534,
       "name": "Ogogoro (with Bas & Ayra Starr)",
       "url": "https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx"
@@ -5107,6 +5151,52 @@
     },
     {
       "album": {
+        "name": "Push Push (feat. Nomfundo Moh, Leverage, Bobo Jay Nzima, Starr Healer, Thando Zide)",
+        "url": "https://open.spotify.com/album/7kITSYRzkAJs4YDPmQJ9hv"
+      },
+      "artists": [
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        },
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "MusiholiQ",
+          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
+        },
+        {
+          "name": "Bobo Jay Nzima",
+          "url": "https://open.spotify.com/artist/1D0i8SNNKxHHf4EhuKNQsE"
+        },
+        {
+          "name": "Leverage",
+          "url": "https://open.spotify.com/artist/2dq9tKlKAPKrdyGYW1ptO3"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Starr Healer",
+          "url": "https://open.spotify.com/artist/64SCkKgvQjmX6p6tpYcefT"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/2EhCXqQCZ3VJIcK0N0eK9s"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349213,
+      "name": "Push Push (feat. Nomfundo Moh, Leverage, Bobo Jay Nzima, Starr Healer, Thando Zide)",
+      "url": "https://open.spotify.com/track/5Appa9ILagoOCDK4bEas2L"
+    },
+    {
+      "album": {
         "name": "Put It Down",
         "url": "https://open.spotify.com/album/2jnGkkqnf1mLtFGFl3DACW"
       },
@@ -5122,7 +5212,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 165340,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/2Q5lu2KbEkBuAqqPFRvRla"
@@ -5144,7 +5234,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165340,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl"
@@ -5418,7 +5508,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153443,
       "name": "Run",
       "url": "https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj"
@@ -5530,7 +5620,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190344,
       "name": "Sarafina",
       "url": "https://open.spotify.com/track/0ihzl8eB3WzXt0dJm00iwN"
@@ -5548,7 +5638,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "Sarafina",
       "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
@@ -6704,6 +6794,28 @@
       "duration_ms": 216214,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
+    },
+    {
+      "album": {
+        "name": "Wahala (feat. Olamide)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Wahala (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
       "album": {

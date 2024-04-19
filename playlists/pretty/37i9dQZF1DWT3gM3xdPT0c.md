@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,849 likes - 115 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,893 likes - 115 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 98 | [Airstream](https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Airstream](https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16) | 3:44 |
 | 99 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 |
 | 100 | [Chance Encounter](https://open.spotify.com/track/1VxxgFevf8qEmCgCtSHYTL) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Chance Encounter](https://open.spotify.com/album/0B5jOPJp2DfOIS7hX8VjyB) | 2:36 |
-| 101 | [Green Grove](https://open.spotify.com/track/4baYQ5DpueDfAowcLUeBC9) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/0FqK8sZ2n2byVILgKSZJfN) | 2:17 |
+| 101 | [Green Grove](https://open.spotify.com/track/254HGk3wJX7S8YgGaB6zWK) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/53RGo4pZgU1DslHViFKJ8N) | 2:17 |
 | 102 | [Tagträumen](https://open.spotify.com/track/7hyWalK1MDzO6VNROH8pwq) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Tagträumen](https://open.spotify.com/album/7h7jVxlst3yZXbiQi9ajwo) | 2:11 |
 | 103 | [Evening Rhyme](https://open.spotify.com/track/2SKiHfZj0kYvrEVl8nm6Rq) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Evening Rhyme](https://open.spotify.com/album/4QWODS6k0zUNUkcf0hfRGe) | 2:13 |
 | 104 | [Weary Traveler](https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Weary Traveler](https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9) | 3:10 |

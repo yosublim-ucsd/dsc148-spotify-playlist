@@ -4,7 +4,7 @@
 
 > 愛本來就係自由嘅事！想愛就愛吧！
 
-127 songs - 8 hr 4 min
+129 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [This Is How We Roll \(feat\. Jace Chan\)](https://open.spotify.com/track/2IaoJ7OmbBSlzxUGcmMEtu) | [P1X3L](https://open.spotify.com/artist/72jkVdqYJJeimeZKeAFJ9d), [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [This Is How We Roll \(feat\. Jace Chan\)](https://open.spotify.com/album/4O8pb9wsJc4KBtnkkkA0QH) | 3:22 | 2022-04-07 | 2022-06-24 |
 | [Tracey \(電影 "翠絲" 主題曲\)](https://open.spotify.com/track/4lmOXmwygGpCEwXqXryY6B) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Tracey \(電影 "翠絲" 主題曲\)](https://open.spotify.com/album/5yefkK2l2VvSAdlHajtDSz) | 4:28 | 2023-01-27 |  |
 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 | 2022-04-07 | 2022-06-24 |
-| [XY](https://open.spotify.com/track/0SWutMMPzxvXjEOWE4k7hG) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [XY](https://open.spotify.com/album/3UipNYaJ8PHiwlsvGRhhE9) | 3:29 | 2023-01-27 |  |
+| [XY](https://open.spotify.com/track/0SWutMMPzxvXjEOWE4k7hG) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [XY](https://open.spotify.com/album/3UipNYaJ8PHiwlsvGRhhE9) | 3:29 | 2023-01-27 | 2024-04-19 |
+| [XY](https://open.spotify.com/track/7u0ycx02yWqbWYxB1A9jRc) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [XY](https://open.spotify.com/album/3vBTJtrBtoYEkgvf7lT3kp) | 3:29 | 2023-06-01 |  |
 | [一分鐘稀客一分鐘色誘](https://open.spotify.com/track/0Bw2tMHhLpVS416nfHWvSx) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [豔羨](https://open.spotify.com/album/5io1WPmed3j2hO6712p0pL) | 4:23 | 2022-06-23 | 2022-07-29 |
 | [三人床](https://open.spotify.com/track/6JQlVBfOTkF0yOTAnEB9Tn) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [三人床](https://open.spotify.com/album/0n60Y3MGspMfn4IygCnFyL) | 2:40 | 2023-06-01 |  |
 | [仙樂飄飄處處聞](https://open.spotify.com/track/6Yrocv0hTFHEbJAFQ9Zgr8) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [Eman Lam](https://open.spotify.com/album/49A8kv0BJoXsX5Ay6JxW5w) | 5:00 | 2022-06-23 | 2022-07-29 |
@@ -78,8 +79,8 @@
 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 | 2023-06-01 |  |
 | [命硬](https://open.spotify.com/track/47RgWWTJno746wCInL4gQz) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [From Justin Collection Of His First 3 Years](https://open.spotify.com/album/6pXr9g9r0p4Q32xJoBGKp1) | 3:37 | 2023-01-27 |  |
 | [因愛之罪名](https://open.spotify.com/track/4O8ZHulJzX2Xsbnk13Cf5Z) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [LIFE / LINE](https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA) | 5:02 | 2022-04-07 | 2022-06-24 |
-| [女扮男生](https://open.spotify.com/track/7d9ZAKEgMVblPNtpLo3FVM) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:19 | 2023-01-27 | 2023-11-03 |
-| [女扮男生](https://open.spotify.com/track/0pujceqmx9uhErQDU7Zo50) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:21 | 2023-06-01 |  |
+| [女扮男生](https://open.spotify.com/track/7d9ZAKEgMVblPNtpLo3FVM) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:19 | 2023-01-27 |  |
+| [女扮男生](https://open.spotify.com/track/0pujceqmx9uhErQDU7Zo50) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:21 | 2023-06-01 | 2024-04-19 |
 | [女神](https://open.spotify.com/track/47MN8iVKji2TUL2DOnXpgJ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [JOYCE](https://open.spotify.com/album/02Brb1tEIxIPc7t5DwX4xv) | 4:16 | 2022-06-23 | 2022-07-29 |
 | [好朋友](https://open.spotify.com/track/0b110tCRwwA7Z7BD1qGM6f) | [Edmond Leung](https://open.spotify.com/artist/1THfyLd3iyJYJ6X2U36K0y) | [好朋友 \(華星40系列\)](https://open.spotify.com/album/5wYJgrAPKb6xreuSMyYVpO) | 3:15 | 2023-01-27 |  |
 | [守口如瓶](https://open.spotify.com/track/3rZVW1QkoFmrEeZvV5qhzp) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [仲間](https://open.spotify.com/album/6YVD5g8jj29N54Rx4WdgEY) | 3:23 | 2022-06-23 |  |
@@ -134,6 +135,7 @@
 | [魔法BOY \(feat\. 持修\)](https://open.spotify.com/track/0N9Edk2gOod1W8MfRTBfJi) | [春艷](https://open.spotify.com/artist/20Ire8k6z7JX4iCFunLxxA), [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [感恩的心](https://open.spotify.com/album/4myHf6iCZ5yquYivqmYhYo) | 3:21 | 2022-04-07 | 2022-06-24 |
 | [麥當娜一吻](https://open.spotify.com/track/59zq7SZWp8iUgB8474qHTD) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [F](https://open.spotify.com/album/36ltQ6pWG0YtsqMXdt8h5F) | 2:59 | 2023-01-27 |  |
 | [黃色大門](https://open.spotify.com/track/2WkZMfC3eTYciJrhXD7vQb) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [Hopelessly Romantic Collection](https://open.spotify.com/album/5YKPJa7K3n7TtLZHvr3UkB) | 3:46 | 2023-01-27 |  |
-| [黑彩虹](https://open.spotify.com/track/2ATEmEBB0ZToPtkOSZonOM) | [鄭欣宜](https://open.spotify.com/artist/5IGAOhMJTKNeknCPZOs6Eb) | [黑彩虹](https://open.spotify.com/album/4uzmbnvaVTJ1CU1MNJNeqE) | 4:40 | 2023-01-27 |  |
+| [黑彩虹](https://open.spotify.com/track/4UWoWjmD9MzzbREGsIZ0ik) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [黑彩虹](https://open.spotify.com/album/03x5AHLUVKl9N4Q6Ix9O5O) | 4:40 | 2023-06-01 |  |
+| [黑彩虹](https://open.spotify.com/track/2ATEmEBB0ZToPtkOSZonOM) | [鄭欣宜](https://open.spotify.com/artist/5IGAOhMJTKNeknCPZOs6Eb) | [黑彩虹](https://open.spotify.com/album/4uzmbnvaVTJ1CU1MNJNeqE) | 4:40 | 2023-01-27 | 2024-04-19 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

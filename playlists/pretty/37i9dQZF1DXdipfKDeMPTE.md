@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,698 likes - 208 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,938 likes - 208 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 136 | [City Of Lofi](https://open.spotify.com/track/487Kkxgr20J7WW60ETMCFR) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [City Of Lofi](https://open.spotify.com/album/7qFFRJBS7AeqxMuQZGrBfh) | 2:05 |
 | 137 | [Urban Summer](https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Urban Summer](https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2) | 2:42 |
 | 138 | [golden lanterns](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [golden lanterns & sub zero](https://open.spotify.com/album/5BUYM7k80XcB4A2KSTK228) | 2:24 |
-| 139 | [Seven Seas](https://open.spotify.com/track/2yHEcXbsG36FNM9QNtTsNg) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Dimensions](https://open.spotify.com/album/24G9m7O40uKE7GfZRm9Fs8) | 2:27 |
+| 139 | [Seven Seas](https://open.spotify.com/track/2JopSERIXbuKbkeYdk2ZI7) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/1Y56nXdaB209z099ruA4jn) | 2:27 |
 | 140 | [certificate of](https://open.spotify.com/track/7bzHzSIHb4O9koAp4udyC1) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [certificate of](https://open.spotify.com/album/26HCy0ONmnzPa5XJvbLRfs) | 1:25 |
 | 141 | [Moonlight over Berlin](https://open.spotify.com/track/7xlsc2DKFeGVpX5j75IedC) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Moonlight over Berlin](https://open.spotify.com/album/3vWziBwLsv2STXfJR2wnnJ) | 2:25 |
 | 142 | [Quicksand](https://open.spotify.com/track/5R0hMjFR1pbR0UMqRk2G1m) | [Val Neter](https://open.spotify.com/artist/1oIiTiQaKHPd31g7ALlkRW) | [Quicksand](https://open.spotify.com/album/2qwYNU05DhcUTRF5rtWNiz) | 2:21 |
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 169 | [City Lights](https://open.spotify.com/track/2IpryWxpH26b0oLGvZmWOd) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [City Lights](https://open.spotify.com/album/30bmpl058wHb7q3fAfID72) | 2:44 |
 | 170 | [chillin](https://open.spotify.com/track/3QJdDT1QJNy61VvOWZVTty) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [chillin](https://open.spotify.com/album/1dD3vkNCJXyBLiOtf7GDml) | 2:43 |
 | 171 | [No one watches but the moon](https://open.spotify.com/track/1GPFXuz0xV9f6VMbzmsS5Z) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [No one watches but the moon](https://open.spotify.com/album/3FRXrAmRh8KyiWpjxlnLZs) | 2:22 |
-| 172 | [edda](https://open.spotify.com/track/313sTCLxVaZJYpQMV5FPNH) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Claudia Lessing](https://open.spotify.com/artist/3VgENonfFPkQVjUprmdpWW) | [Edda](https://open.spotify.com/album/7MvrMtceVgkfZBChSlpbwq) | 1:54 |
+| 172 | [edda](https://open.spotify.com/track/303JUet3V5CUmBBSTZrZCC) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Claudia Lessing](https://open.spotify.com/artist/3VgENonfFPkQVjUprmdpWW) | [Edda](https://open.spotify.com/album/4dfgVdUKi74BOqS1xWFGmP) | 1:54 |
 | 173 | [Sax and Violins](https://open.spotify.com/track/1PcrDxcQLHsk88iz0H6Oy2) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Sax and Violins](https://open.spotify.com/album/6QpmTAhuN7ignQ0F6jtawO) | 2:15 |
 | 174 | [tight squeeze](https://open.spotify.com/track/2F0umTe5UJsSlGSbeUcD8p) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [tight squeeze](https://open.spotify.com/album/5kfL0ZyNYQxthQK3pj5WOh) | 2:28 |
 | 175 | [rosella](https://open.spotify.com/track/02lwEdTi7l63LhAd70SXmm) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [rosella](https://open.spotify.com/album/0L0ln5Rz8Hv59Nxzlfx2ip) | 2:38 |
@@ -209,12 +209,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 199 | [Till We Meet Again](https://open.spotify.com/track/7FO6HcOd00BjnCRJDj3Pk8) | [Skengybeatz](https://open.spotify.com/artist/4RKXfmC9klLXN3SzDxmXJ1) | [Reunion II](https://open.spotify.com/album/5VIbn1fHYuFUsHblxVQU6D) | 2:36 |
 | 200 | [Lilith](https://open.spotify.com/track/2J3xam2qHHbrnBaXMC4kth) | [Mindless Meditation](https://open.spotify.com/artist/1jWBDHh1PMVKYnT44tnxpS) | [Lilith](https://open.spotify.com/album/7A4KcwsPKtbSRH6iFPB891) | 2:25 |
 | 201 | [Old Memories](https://open.spotify.com/track/2sc7hZXb7pbjB6BDCvdOIb) | [Midnight Sleep](https://open.spotify.com/artist/6FGYiM51juEWqEWi53MDYS) | [Old Memories](https://open.spotify.com/album/6TktgPndNoywcWy4UjRXnZ) | 1:33 |
-| 202 | [Not Me](https://open.spotify.com/track/4IFMvnFgQBTjbzHrnOykwF) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Moving Mountains](https://open.spotify.com/album/6ox5TwLvqWo71dJqrTWaLs) | 3:06 |
+| 202 | [Not Me](https://open.spotify.com/track/6jaM2iycz9Iorq6lOAr1aM) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Moving Mountains](https://open.spotify.com/album/76rxjLDqOnr4AsfD8bECOy) | 3:06 |
 | 203 | [wavy night](https://open.spotify.com/track/4gYfc1q07d3jB3ZF3pfqNk) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [wavy night](https://open.spotify.com/album/3LNYg9nhotYP61JtCV5qOW) | 1:25 |
 | 204 | [Distance](https://open.spotify.com/track/42wsxrrkw6FYYxr01zcNjr) | [Grizzly Beatz](https://open.spotify.com/artist/2TzIeWirsf62rqqqQMrXY2) | [Distance](https://open.spotify.com/album/2VkH7cE7KaixemQDFy3nkU) | 2:34 |
 | 205 | [burgundy](https://open.spotify.com/track/7HcbBm0hS43kmLSNclrAue) | [affogato.wav](https://open.spotify.com/artist/5IVNgz7eOCRq61neiYgXZT) | [burgundy](https://open.spotify.com/album/28wE9i34oVa5zG1ZC0miq7) | 1:45 |
 | 206 | [Chill With Me](https://open.spotify.com/track/3Bt3ARiqE55W8rqRmpnsid) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5) | [Chill With Me](https://open.spotify.com/album/5Vfa9hZn234F7bntKMvvD7) | 2:12 |
 | 207 | [Koya's adventure](https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [Koya's adventure](https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7) | 1:58 |
-| 208 | [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 |
+| 208 | [airless](https://open.spotify.com/track/0QSGGX0o7FnXZvjNiuTrKv) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [airless](https://open.spotify.com/album/1wMk0osZHmLq6SFU5Oy8j4) | 1:46 |
 
 Snapshot ID: `MTcxMTA2NTY2MCwwMDAwMDAwMGI3MjgwMWE4MTlmMWRiNDIwYTc2MWYxZjdjOGRlZjUy`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md) - cumulative - [plain](/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA)
 
-### [2010s Playlist 🔥 hits & bangers](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
+### [2010s Summer Throwbacks ☀️🦩🌴](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
 
-> Get your nostalgia hit with the biggest throwback anthems that everyone knows\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
+> Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
 351 songs - 21 hr 47 min
 

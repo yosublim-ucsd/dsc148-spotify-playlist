@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA\">Christina Shusho</a> ",
+  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY?si=QJbuh-RjQmmrNwSQBrFQhA\">Kanji Mbugua</a> ",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 295784,
       "name": "Asante Yesu",
       "url": "https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295784,
       "name": "Asante Yesu",
       "url": "https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt"
@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Kiriro Drill (Remix)",
+        "url": "https://open.spotify.com/album/4f5Aubguh5ezrvP8lFeuVq"
+      },
+      "artists": [
+        {
+          "name": "Bigpapamadethis",
+          "url": "https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113736,
+      "name": "Kiriro Drill - Remix",
+      "url": "https://open.spotify.com/track/7qeMkJOTE1yEgJjkuBHfUJ"
+    },
+    {
+      "album": {
         "name": "Siku Mpya New Day",
         "url": "https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV"
       },
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253474,
       "name": "Mifupani",
       "url": "https://open.spotify.com/track/4Ls6DToql6xu7jkEnCnuod"
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 253493,
       "name": "Mifupani",
       "url": "https://open.spotify.com/track/0C2cGCNAmY64HF7qI4Km1r"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230218,
       "name": "Mimi Ni Wa Juu",
       "url": "https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU"
@@ -1092,10 +1110,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231359,
       "name": "Mimi Ni Wa Juu",
       "url": "https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW"
+    },
+    {
+      "album": {
+        "name": "Mimi Ni Wa Mungu",
+        "url": "https://open.spotify.com/album/740ujjyVeY1jIXqUcB3iGq"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Mimi Ni Wa Mungu",
+      "url": "https://open.spotify.com/track/30bZJE9rGEjQIb2eWYbZBx"
     },
     {
       "album": {
@@ -1128,7 +1164,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 623693,
       "name": "Mlima - Live",
       "url": "https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc"
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 623693,
       "name": "Mlima - Live",
       "url": "https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF"
@@ -1189,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Mpango",
+        "url": "https://open.spotify.com/album/0UyldaytlWsu1JfRaS10B2"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290136,
+      "name": "Mpango",
+      "url": "https://open.spotify.com/track/2r9iEJtI80kGkLhKwqFhTJ"
+    },
+    {
+      "album": {
         "name": "Msaada",
         "url": "https://open.spotify.com/album/0JfHXADJpWRHgHB1XPg1k1"
       },
@@ -1222,7 +1276,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 294764,
       "name": "Mtawala",
       "url": "https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud"
@@ -1240,10 +1294,54 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294764,
       "name": "Mtawala",
       "url": "https://open.spotify.com/track/6mTzTzJsOWZr4Bcq7tMyzS"
+    },
+    {
+      "album": {
+        "name": "Mungu Mkuu",
+        "url": "https://open.spotify.com/album/0aYwMvoRxWOj7XHqjuBlTi"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Wanjiru",
+          "url": "https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304457,
+      "name": "Mungu Mkuu",
+      "url": "https://open.spotify.com/track/5DUQaHEFbmfTl1DJvzzaN5"
+    },
+    {
+      "album": {
+        "name": "Mungu Mmoja (Live)",
+        "url": "https://open.spotify.com/album/0dc3Brta6vhGPl09I6RT4I"
+      },
+      "artists": [
+        {
+          "name": "BELLA KOMBO",
+          "url": "https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk"
+        },
+        {
+          "name": "Evelyn Wanjiru",
+          "url": "https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK"
+        },
+        {
+          "name": "Neema Gospel Choir",
+          "url": "https://open.spotify.com/artist/0Rj46magWSjvL3hnxTaNGy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549875,
+      "name": "Mungu Mmoja - Live",
+      "url": "https://open.spotify.com/track/71FXICK2kMMLCCW7JQTGiy"
     },
     {
       "album": {
@@ -1673,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Nipungue Mimi",
+        "url": "https://open.spotify.com/album/7u4jXn0KVbC1BHn9frdkcd"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228075,
+      "name": "Nipungue Mimi",
+      "url": "https://open.spotify.com/track/4PMRuU6q0VBJsg86Sv3ArS"
+    },
+    {
+      "album": {
         "name": "Niseme Nini",
         "url": "https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m"
       },
@@ -1742,7 +1858,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236726,
       "name": "Nitumie",
       "url": "https://open.spotify.com/track/336Jz0yGtnAvPfQbLjjlBo"
@@ -1760,7 +1876,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 236726,
       "name": "Nitumie",
       "url": "https://open.spotify.com/track/5mApIp6LxaHq9htEK9g7KV"
@@ -2502,7 +2618,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312784,
       "name": "Umejua Kunifurahisha",
       "url": "https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru"
@@ -2524,7 +2640,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 312817,
       "name": "Umejua Kunifurahisha",
       "url": "https://open.spotify.com/track/1cHVVMDu1J9pCWGHHoMkIA"
@@ -2560,7 +2676,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 598022,
       "name": "Umezungukwa Na Sifa",
       "url": "https://open.spotify.com/track/6vR5SlKDAVTPGVfgtxR0Qs"
@@ -2578,7 +2694,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 598047,
       "name": "Umezungushwa Na Sifa",
       "url": "https://open.spotify.com/track/28W0lPWcA0mhpqlNJglxKF"
@@ -2950,7 +3066,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 414360,
       "name": "Yesu Karibu Kwangu",
       "url": "https://open.spotify.com/track/5km2sSfnNyYkAqo4QaGjdk"
@@ -2968,7 +3084,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 414360,
       "name": "Yesu Karibu Kwangu",
       "url": "https://open.spotify.com/track/7h8lc1Hzhw4i1KGhWbgEGP"

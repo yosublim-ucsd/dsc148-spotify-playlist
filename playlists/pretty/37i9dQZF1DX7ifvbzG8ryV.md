@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFHdCJiQTW4YT?si=1f331731fe084475">Wrabel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 209 likes - 43 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 43 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 33 | [Came Here For Love \- Acoustic](https://open.spotify.com/track/2Q2pi8imT08Jiv3dk6GIFo) | [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Came Here For Love \(Acoustic\)](https://open.spotify.com/album/6YPb3AbaEEvAJnSNu1hqFa) | 3:25 |
 | 34 | [For Forever \(From "Dear Evan Hansen"\)](https://open.spotify.com/track/5NIUbwidSGYpktALK89hey) | [Benj Pasek](https://open.spotify.com/artist/0qKRRwXdVtrVIEdPFr8vvo) | [Behind the Curtain \- Broadway Composers & Lyricists Sing Their Songs](https://open.spotify.com/album/0YXUWVX1yF2VP8H0llWQTS) | 5:02 |
 | 35 | [Let Them \(It's All Love\)](https://open.spotify.com/track/6YxYTXQN4trhMHSAFMj4iC) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:03 |
-| 36 | [Teenage Craze](https://open.spotify.com/track/5384G2YXgXksvoPOWJMGEB) | [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Teenage Craze](https://open.spotify.com/album/3mgiInwKb3TmGaThM0dl9H) | 3:45 |
+| 36 | [Teenage Craze](https://open.spotify.com/track/0YHQir43vZDV4I8M1GP1aZ) | [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Teenage Craze \- EP](https://open.spotify.com/album/3dI5C5vKok81IYSSPY97Xx) | 3:45 |
 | 37 | [High On Love](https://open.spotify.com/track/4QWjtKc3iovpzzIPEYnLNx) | [Kierran](https://open.spotify.com/artist/2f0IlfGc2Sia0UmEkSSPNl) | [High On Love](https://open.spotify.com/album/6Z6vdB5rpLiAhR4h7KujAx) | 3:06 |
 | 38 | [Stay the Night](https://open.spotify.com/track/6rgEWdTQL1bybGVTGyIDsa) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa), [Boy Untitled](https://open.spotify.com/artist/7C0ZlzfEYot9Iz0ENgFB8D) | [Stay the Night](https://open.spotify.com/album/1pIBJ8tLwf21r54A4c5OZ1) | 2:32 |
 | 39 | [What We Do for Love](https://open.spotify.com/track/6XC8EBZLjuXITae3TQLJP9) | [Julez Lorenzo](https://open.spotify.com/artist/3MTyaK6VZuT9A56qtxb3fH) | [What We Do for Love](https://open.spotify.com/album/6OaguZgMOBiEWIazJqrf6C) | 3:10 |

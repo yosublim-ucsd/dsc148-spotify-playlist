@@ -102,7 +102,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222824,
       "name": "Bhagavan Rap",
       "url": "https://open.spotify.com/track/1BkIQxD8RsyKCKOHNGbTFm"
@@ -146,10 +146,40 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 222955,
       "name": "Bhagavan Rap",
       "url": "https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst"
+    },
+    {
+      "album": {
+        "name": "Raam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7rAGXwE4JbyOqJgl4TULFi"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Premgi",
+          "url": "https://open.spotify.com/artist/0p0l6CNMWVPN7BRJbjt0Ye"
+        },
+        {
+          "name": "Tippu",
+          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
+        },
+        {
+          "name": "Joytsna",
+          "url": "https://open.spotify.com/artist/5JBsI8843fA4h2YActpbUd"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/6dqGbIiIVd4R6Y9V6PK37R"
     },
     {
       "album": {
@@ -176,7 +206,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276015,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/3grlUawHZ70GY9gUWzbkfr"
@@ -456,7 +486,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243066,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/3n6tB0RkaxQkgWtF1LmsU9"
@@ -486,6 +516,36 @@
       "duration_ms": 243066,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/73WOXOD2XSYKeVFCxiPZQJ"
+    },
+    {
+      "album": {
+        "name": "Kuruvi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/362sBhwBdzyyst3svyFn1t"
+      },
+      "artists": [
+        {
+          "name": "Yogi B",
+          "url": "https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm"
+        },
+        {
+          "name": "Dr. Burn",
+          "url": "https://open.spotify.com/artist/7Krjf68s0i3nSQe52tCEHP"
+        },
+        {
+          "name": "McJazz",
+          "url": "https://open.spotify.com/artist/3hC6i1PEMtCNic3kEiYfdY"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243066,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/6NKQu8xEJ0kIGen46avu4b"
     },
     {
       "album": {
@@ -634,10 +694,28 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207300,
       "name": "Inbam Pongum Vennila (From \"Aambala\") - Remix",
       "url": "https://open.spotify.com/track/4O0jtM9cVhcXu2fWoLDP0W"
+    },
+    {
+      "album": {
+        "name": "Inbam Pongum Vennila (Remix) (From \"Aambala\")",
+        "url": "https://open.spotify.com/album/2LhILFZ41kYJA5KIbV8IaG"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207300,
+      "name": "Inbam Pongum Vennila (Remix) - From \"Aambala\"",
+      "url": "https://open.spotify.com/track/3qY7DJwj6Q4rqsTljv8Cjx"
     },
     {
       "album": {
@@ -809,36 +887,6 @@
     },
     {
       "album": {
-        "name": "Kaala (Tamil) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Yogi B",
-          "url": "https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm"
-        },
-        {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
-        },
-        {
-          "name": "Roshan Jamrock",
-          "url": "https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S"
-        }
-      ],
-      "date_added": "2022-02-08",
-      "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
-      "duration_ms": 225757,
-      "name": "Katravai Patravai",
-      "url": "https://open.spotify.com/track/1Zn2q9DxG7v9l8eNXjZygH"
-    },
-    {
-      "album": {
         "name": "Kaala (Tamil) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/5BYybOtYzeSdkmiMmvGM6j"
       },
@@ -858,10 +906,50 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225757,
       "name": "Katravai Patravai",
       "url": "https://open.spotify.com/track/4g7h9teMEHUDn0ecQqg9M4"
+    },
+    {
+      "album": {
+        "name": "Kaala (Tamil) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y"
+      },
+      "artists": [
+        {
+          "name": "Yogi B,Arunraja Kamaraj,Roshan Jamrock",
+          "url": "https://open.spotify.com/artist/67Bw98ZE37JjhxXorBhZU6"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225757,
+      "name": "Katravai Patravai",
+      "url": "https://open.spotify.com/track/1Zn2q9DxG7v9l8eNXjZygH"
+    },
+    {
+      "album": {
+        "name": "Vallavan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6iS9GfnmK3wYwVQ8UyBBqu"
+      },
+      "artists": [
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Blaaze",
+          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407447,
+      "name": "Loosu Pennae",
+      "url": "https://open.spotify.com/track/3hw1iGc2WAhHG4DFPcu80r"
     },
     {
       "album": {
@@ -910,7 +998,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 411706,
       "name": "Loosu Pennae",
       "url": "https://open.spotify.com/track/2M85awz7QvZAq8JuMiduCZ"
@@ -1292,7 +1380,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258359,
       "name": "Pakkam Vanthu",
       "url": "https://open.spotify.com/track/2mo1jyrYHdyiekQHNKXx1C"
@@ -1314,7 +1402,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 256372,
       "name": "Pakkam Vanthu (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/3FYrauenN3nxu6G9OchcrO"
@@ -1576,7 +1664,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 278826,
       "name": "Showkali",
       "url": "https://open.spotify.com/track/3hHFVG2vcNfooKXgfLgCWd"
@@ -1636,7 +1724,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278826,
       "name": "Showkali (From \"Achcham Yenbadhu Madamaiyada\")",
       "url": "https://open.spotify.com/track/5RJck8e9eBWGwz0rxlmgcF"
@@ -1744,7 +1832,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 353440,
       "name": "Thathai Thathai",
       "url": "https://open.spotify.com/track/4Y2gtTF7MsvurQaTjVOFzJ"
@@ -1774,7 +1862,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353495,
       "name": "Thathai Thathai",
       "url": "https://open.spotify.com/track/0MGr7XgcVh5sPH6d38h7s0"

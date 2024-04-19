@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 359338,
       "name": "JOY",
       "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96000,
       "name": "Pod Kapturem",
       "url": "https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224100,
       "name": "Poduszka",
       "url": "https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk"
@@ -3440,6 +3440,24 @@
       "duration_ms": 202000,
       "name": "Wal si\u0119",
       "url": "https://open.spotify.com/track/4KZAOF5G7EhNAPyVtpnwWM"
+    },
+    {
+      "album": {
+        "name": "Lesbijski Groove",
+        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Warszawska",
+      "url": "https://open.spotify.com/track/4l3f66EteyRh0AjpI7SllF"
     },
     {
       "album": {

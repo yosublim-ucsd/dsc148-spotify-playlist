@@ -501,6 +501,32 @@
     },
     {
       "album": {
+        "name": "Merry Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ta3Yg6C2BRudYedr3o5vr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Varun Grover",
+          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "Dil Ki Mez (From \"Merry Christmas\")",
+      "url": "https://open.spotify.com/track/3J5MyBYgvaAIfCquTXrbyx"
+    },
+    {
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },

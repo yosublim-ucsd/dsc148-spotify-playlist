@@ -1,13 +1,45 @@
 {
   "description": "every day soul with a funky groove for a laid back day.",
-  "num_followers": 903437,
+  "num_followers": 903477,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwNzQ5ODQzNCwwMDAwMDAwMDNjMmIyZDJlNmY1OTU4OTQxZTFjZDY5YTg2YjkxY2Q0",
+  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDE3MWQ1MzA4MjdjZjMyOGY1Y2ExMTAyZDFhYWE1N2M3",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Love Had Other Plans, Pt. 2",
+        "url": "https://open.spotify.com/album/0JMXQR3Ya4UI3KDK2IdHav"
+      },
+      "artists": [
+        {
+          "name": "Nicole Chambers",
+          "url": "https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Stay In Time",
+      "url": "https://open.spotify.com/track/1Nl0xn0EDNVfuY6yb7hKTv"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL"
+      },
+      "artists": [
+        {
+          "name": "Milan Ring",
+          "url": "https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Leo",
+      "url": "https://open.spotify.com/track/4VwPMpZ4svZluuiZj9vNSM"
+    },
     {
       "added_at": "2024-02-09 17:07:14",
       "album": {
@@ -68,7 +100,7 @@
       "added_at": "2023-10-20 05:20:01",
       "album": {
         "name": "I Left My Heart In Ladera",
-        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
+        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
       },
       "artists": [
         {
@@ -82,7 +114,7 @@
       ],
       "duration_ms": 270080,
       "name": "2 Step In The Living Room",
-      "url": "https://open.spotify.com/track/44P7MQRsEWfuduYuLESV2w"
+      "url": "https://open.spotify.com/track/7Bqg0xmYlSbPEFYXLdKYIl"
     },
     {
       "added_at": "2023-10-20 05:20:01",
@@ -176,7 +208,7 @@
       "added_at": "2023-08-25 17:45:52",
       "album": {
         "name": "Nova",
-        "url": "https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF"
+        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
       },
       "artists": [
         {
@@ -194,7 +226,7 @@
       ],
       "duration_ms": 188186,
       "name": "Like It Like That (feat. Chief Adjuah)",
-      "url": "https://open.spotify.com/track/2EdHP7avAte3sAlVVxPSpp"
+      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
     },
     {
       "added_at": "2023-06-30 04:30:36",
@@ -347,8 +379,8 @@
     {
       "added_at": "2023-06-01 21:22:18",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
+        "name": "Something Different",
+        "url": "https://open.spotify.com/album/7GrnInJDvEyalLmTzAc8E4"
       },
       "artists": [
         {
@@ -358,7 +390,7 @@
       ],
       "duration_ms": 318361,
       "name": "Something Different",
-      "url": "https://open.spotify.com/track/0KftydL9BNI4g79mvD6UHR"
+      "url": "https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA"
     },
     {
       "added_at": "2023-08-11 04:53:37",
@@ -615,8 +647,8 @@
     {
       "added_at": "2023-06-30 04:30:36",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
+        "name": "Nothing We Can't Get Through",
+        "url": "https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi"
       },
       "artists": [
         {
@@ -626,7 +658,7 @@
       ],
       "duration_ms": 142406,
       "name": "Nothing We Can't Get Through",
-      "url": "https://open.spotify.com/track/5YoRg9SvbCmdxhVf3kyRfS"
+      "url": "https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD"
     },
     {
       "added_at": "2023-06-16 06:18:21",
@@ -747,8 +779,8 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/06plvRyV1UnY0OdxJwk4IG"
       },
       "artists": [
         {
@@ -758,7 +790,7 @@
       ],
       "duration_ms": 205090,
       "name": "Whenever",
-      "url": "https://open.spotify.com/track/1nOZdaEDnhuyZst0JPRqSs"
+      "url": "https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as"
     },
     {
       "added_at": "2023-06-01 21:22:18",
@@ -780,7 +812,7 @@
       "added_at": "2023-05-05 04:56:38",
       "album": {
         "name": "ME YOU & GOD",
-        "url": "https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU"
+        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
       },
       "artists": [
         {
@@ -790,7 +822,7 @@
       ],
       "duration_ms": 173506,
       "name": "MiSS BEHAVE",
-      "url": "https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq"
+      "url": "https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg"
     },
     {
       "added_at": "2023-03-03 05:07:57",
@@ -919,8 +951,8 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Through and Through",
-        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
+        "name": "I Won't Tell",
+        "url": "https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG"
       },
       "artists": [
         {
@@ -934,7 +966,7 @@
       ],
       "duration_ms": 219240,
       "name": "I Won't Tell",
-      "url": "https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk"
+      "url": "https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k"
     },
     {
       "added_at": "2023-05-05 16:15:12",
@@ -1352,7 +1384,7 @@
       "added_at": "2022-11-18 18:21:25",
       "album": {
         "name": "P.B.J.",
-        "url": "https://open.spotify.com/album/5uSiLxgkpViFzUYu5cu7hz"
+        "url": "https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I"
       },
       "artists": [
         {
@@ -1362,7 +1394,7 @@
       ],
       "duration_ms": 248928,
       "name": "P.B.J.",
-      "url": "https://open.spotify.com/track/47h0eLXSjZlhI8htgdhnre"
+      "url": "https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1436,7 +1468,7 @@
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "An Orange Colored Day",
-        "url": "https://open.spotify.com/album/7vSVYdbkNGZfSryuGlr80N"
+        "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
       },
       "artists": [
         {
@@ -1446,7 +1478,7 @@
       ],
       "duration_ms": 206706,
       "name": "Message",
-      "url": "https://open.spotify.com/track/4Ugs4gNxnjxdy3SW41QULa"
+      "url": "https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2"
     },
     {
       "added_at": "2022-02-18 16:18:51",
@@ -1503,8 +1535,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Luv N Chaos",
-        "url": "https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg"
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/34Kos9rX5MrGc0MXDnOZ2K"
       },
       "artists": [
         {
@@ -1518,7 +1550,7 @@
       ],
       "duration_ms": 222857,
       "name": "Lucky Me",
-      "url": "https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ"
+      "url": "https://open.spotify.com/track/0Ztok1tyr8YbgTi6iUJM9X"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1560,7 +1592,7 @@
       "added_at": "2022-07-22 14:52:39",
       "album": {
         "name": "Pineapple Cognac",
-        "url": "https://open.spotify.com/album/1b4agvuR4YOtlqSP5whuJC"
+        "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
       },
       "artists": [
         {
@@ -1570,7 +1602,7 @@
       ],
       "duration_ms": 134166,
       "name": "Pineapple Cognac",
-      "url": "https://open.spotify.com/track/74mprhwOJDamrTZ69Pz0cE"
+      "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
     },
     {
       "added_at": "2022-09-09 04:09:15",
@@ -1608,7 +1640,7 @@
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "5 Minutes",
-        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
+        "url": "https://open.spotify.com/album/7cljz15Xl6Ns0z3hGzSST8"
       },
       "artists": [
         {
@@ -1618,7 +1650,7 @@
       ],
       "duration_ms": 195000,
       "name": "5 Minutes",
-      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
+      "url": "https://open.spotify.com/track/4apymIFXeUd0lWSWPRrtSr"
     },
     {
       "added_at": "2022-02-18 16:18:51",
@@ -1692,7 +1724,7 @@
       "added_at": "2022-07-22 14:52:39",
       "album": {
         "name": "It Never Rains (In SoCal)",
-        "url": "https://open.spotify.com/album/3HktqNsXBuCenI3v9yjo8c"
+        "url": "https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s"
       },
       "artists": [
         {
@@ -1701,8 +1733,8 @@
         }
       ],
       "duration_ms": 256000,
-      "name": "It Never Rains - In SoCal",
-      "url": "https://open.spotify.com/track/4eNMY2zIzPuJWzEWxGCpLl"
+      "name": "It Never Rains (In SoCal)",
+      "url": "https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG"
     },
     {
       "added_at": "2022-02-18 16:18:51",
@@ -1855,8 +1887,8 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "IS IT YOU ?",
-        "url": "https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/0hrRzDQJNqOVeBT6EcOcBs"
       },
       "artists": [
         {
@@ -1866,7 +1898,7 @@
       ],
       "duration_ms": 199477,
       "name": "Levitate",
-      "url": "https://open.spotify.com/track/0TPXUxjcaisuLC5S8xZpcW"
+      "url": "https://open.spotify.com/track/5xIXG98Trt1GvkVitYauo9"
     },
     {
       "added_at": "2022-02-18 16:18:51",
@@ -1928,7 +1960,7 @@
       "added_at": "2022-02-18 16:18:51",
       "album": {
         "name": "Solaris",
-        "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
+        "url": "https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w"
       },
       "artists": [
         {
@@ -1938,7 +1970,7 @@
       ],
       "duration_ms": 180576,
       "name": "High Up",
-      "url": "https://open.spotify.com/track/3TcW4ih5EdzgMQd6tpfYEi"
+      "url": "https://open.spotify.com/track/54pog56aKXKPjvSLNVpE61"
     },
     {
       "added_at": "2022-02-18 16:18:51",
@@ -2031,8 +2063,8 @@
     {
       "added_at": "2022-02-18 16:18:51",
       "album": {
-        "name": "Rare Changes",
-        "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5"
       },
       "artists": [
         {
@@ -2042,7 +2074,7 @@
       ],
       "duration_ms": 194072,
       "name": "Only You",
-      "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
+      "url": "https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk"
     },
     {
       "added_at": "2022-02-18 16:18:51",
@@ -2063,8 +2095,8 @@
     {
       "added_at": "2022-02-18 16:18:51",
       "album": {
-        "name": "SUGA (Deluxe)",
-        "url": "https://open.spotify.com/album/7uJlMQQqUJ8s17FRoMuPrq"
+        "name": "Play Too Much",
+        "url": "https://open.spotify.com/album/4POCpTZfG4JAiLDisEjfZv"
       },
       "artists": [
         {
@@ -2082,7 +2114,7 @@
       ],
       "duration_ms": 197205,
       "name": "Play Too Much",
-      "url": "https://open.spotify.com/track/6kojoNSvYr4WFUx7CYMJWb"
+      "url": "https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA"
     },
     {
       "added_at": "2022-02-18 16:18:51",
@@ -2103,8 +2135,8 @@
     {
       "added_at": "2022-02-18 16:18:51",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+        "name": "King James",
+        "url": "https://open.spotify.com/album/4oLEB2ABMfxqC6mchADZp7"
       },
       "artists": [
         {
@@ -2114,7 +2146,7 @@
       ],
       "duration_ms": 197963,
       "name": "King James",
-      "url": "https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE"
+      "url": "https://open.spotify.com/track/0TtSoFrbLGjmpIgY4KgBeq"
     },
     {
       "added_at": "2022-02-18 16:18:51",

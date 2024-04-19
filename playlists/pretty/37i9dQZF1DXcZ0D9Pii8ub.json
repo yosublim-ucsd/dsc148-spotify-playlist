@@ -1,6 +1,6 @@
 {
   "description": "Spotify\u30aa\u30ea\u30b8\u30ca\u30eb\u4f01\u753b\u300cLiner Voice+(\u30e9\u30a4\u30ca\u30fc\u30dc\u30a4\u30b9\u30d7\u30e9\u30b9)\u300d\u3002Awich \u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u300eTHE UNION\u300f\u3092Awich\u672c\u4eba\u304c\u5168\u66f2\u30c7\u30a3\u30fc\u30d7\u306b\u89e3\u8aac\uff01\u30a4\u30f3\u30bf\u30d3\u30e5\u30a2\u30fc\uff1a\u6e21\u8fba\u5fd7\u4fdd",
-  "num_followers": 1210,
+  "num_followers": 1213,
   "original_name": "Liner Voice+  Awich\u300eTHE UNION\u300f",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTY5ODE4MTgxNCwwMDAwMDAwMGM4ZDEwMWYxZWQ1NWI3Yzc1MWE2Zjk1MmEyMWVmNTVh",
   "tracks": [
+    {
+      "added_at": "2023-10-24 21:10:14",
+      "album": {
+        "name": "Liner Voice+ (\u30e9\u30a4\u30ca\u30fc\u30dc\u30a4\u30b9\u30fb\u30d7\u30e9\u30b9)",
+        "url": "https://open.spotify.com/album/78s9JnT4Kp3Uv1tU4DSGWP"
+      },
+      "artists": [
+        {
+          "name": "Liner Voice+ (\u30e9\u30a4\u30ca\u30fc\u30dc\u30a4\u30b9\u30fb\u30d7\u30e9\u30b9)",
+          "url": "https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP"
+        }
+      ],
+      "duration_ms": 5199621,
+      "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+      "url": "https://open.spotify.com/episode/4PZJycSwFkFAoLDALmAba3"
+    },
     {
       "added_at": "2023-10-24 21:10:14",
       "album": {
@@ -44,7 +60,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -54,7 +70,7 @@
       ],
       "duration_ms": 219331,
       "name": "THE UNION",
-      "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
+      "url": "https://open.spotify.com/track/0cwWmh7iIH6aMpGvdjr48Q"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -76,7 +92,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -84,8 +100,8 @@
           "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         },
         {
-          "name": "Tsubaki",
-          "url": "https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx"
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
         },
         {
           "name": "OZworld",
@@ -98,7 +114,7 @@
       ],
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
-      "url": "https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9"
+      "url": "https://open.spotify.com/track/3PATiCIdIONM9Do0jrLlIN"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -120,7 +136,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -129,8 +145,8 @@
         }
       ],
       "duration_ms": 168599,
-      "name": "Guerilla",
-      "url": "https://open.spotify.com/track/5DNC77KlKgEIzkZVZBAtdS"
+      "name": "Guerrilla",
+      "url": "https://open.spotify.com/track/1Th1caepGi3occ1LWoaytv"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -152,7 +168,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -169,8 +185,8 @@
         }
       ],
       "duration_ms": 204568,
-      "name": "Ali Baba (feat. MFS & ralph) - Remix",
-      "url": "https://open.spotify.com/track/3Gmwg6yc89O20kDpWSn06o"
+      "name": "ALI BABA REMIX",
+      "url": "https://open.spotify.com/track/09iJXVL0BlTaq4E4fEflYd"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -191,8 +207,8 @@
     {
       "added_at": "2023-10-24 21:10:14",
       "album": {
-        "name": "United Queens",
-        "url": "https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr"
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -221,8 +237,8 @@
         }
       ],
       "duration_ms": 369111,
-      "name": "Bad Bitch Bigaku Remix",
-      "url": "https://open.spotify.com/track/7HBhfTW2zcldEs0qsXuvT2"
+      "name": "Bad Bitch \u7f8e\u5b66 Remix",
+      "url": "https://open.spotify.com/track/2BHMUxVdjuK9zKPmocIX56"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -244,7 +260,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -254,7 +270,7 @@
       ],
       "duration_ms": 196175,
       "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1e3mXhGDxuntmvO1sVACT2"
+      "url": "https://open.spotify.com/track/6JdhuUkxrr2a4vhvWt6HGO"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -276,7 +292,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -285,8 +301,8 @@
         }
       ],
       "duration_ms": 217067,
-      "name": "Say It All 2",
-      "url": "https://open.spotify.com/track/4eVvOOMDDk7Axq3hK8AlGp"
+      "name": "\u53e3\u306b\u51fa\u3057\u3066 2",
+      "url": "https://open.spotify.com/track/1eSDFUoHCCasPOrEVV7FE0"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -308,7 +324,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -318,7 +334,7 @@
       ],
       "duration_ms": 19920,
       "name": "Interlude",
-      "url": "https://open.spotify.com/track/5XQp1Rvq9IAaxpGS0brOvI"
+      "url": "https://open.spotify.com/track/5rxrvazsZxR4GJXYQpsgQy"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -340,7 +356,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -353,8 +369,8 @@
         }
       ],
       "duration_ms": 296617,
-      "name": "Burn Down (feat. GADORO)",
-      "url": "https://open.spotify.com/track/52hIH0CnuWdYCGAPLyUEye"
+      "name": "Burn Down",
+      "url": "https://open.spotify.com/track/4gKdE9tKEX7DnbLG2HVpva"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -376,7 +392,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -385,8 +401,8 @@
         }
       ],
       "duration_ms": 184240,
-      "name": "Kakurembo",
-      "url": "https://open.spotify.com/track/3vAOwkClLD0cwNrQ5i5dDg"
+      "name": "\u304b\u304f\u308c\u3093\u307c",
+      "url": "https://open.spotify.com/track/5LHub6HVDNPSoklzXkw6ch"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -408,7 +424,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -425,8 +441,8 @@
         }
       ],
       "duration_ms": 286366,
-      "name": "Twinkle Stars (feat. BIM)",
-      "url": "https://open.spotify.com/track/2xOLmtjnAX12xklZD05SOw"
+      "name": "Twinkle Stars",
+      "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
     },
     {
       "added_at": "2023-10-24 21:10:14",
@@ -448,7 +464,7 @@
       "added_at": "2023-10-24 21:10:14",
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -458,7 +474,7 @@
       ],
       "duration_ms": 252361,
       "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/5fqDukIEgU8Zn8aJxumLdd"
+      "url": "https://open.spotify.com/track/2EuYEIWOKMVU5BaZj6QEUk"
     },
     {
       "added_at": "2023-10-24 21:10:14",

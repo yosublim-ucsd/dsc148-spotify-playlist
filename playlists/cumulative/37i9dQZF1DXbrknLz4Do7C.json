@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 191710,
       "name": "Big God",
       "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191710,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4ZzSdItE217uwFoXa291YW"
@@ -1032,7 +1032,7 @@
     {
       "album": {
         "name": "Lugar Secreto (En Vivo)",
-        "url": "https://open.spotify.com/album/6ITdWQDRJ40si7dDr4tckE"
+        "url": "https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns"
       },
       "artists": [
         {
@@ -1043,6 +1043,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Conf\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt"
+    },
+    {
+      "album": {
+        "name": "Lugar Secreto (En Vivo)",
+        "url": "https://open.spotify.com/album/6ITdWQDRJ40si7dDr4tckE"
+      },
+      "artists": [
+        {
+          "name": "New Wine",
+          "url": "https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 270000,
       "name": "Conf\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/7GIv9QngRgd0oc12Umc3Pc"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230012,
       "name": "Dios Es Bueno",
       "url": "https://open.spotify.com/track/2aAXt6b25NvIXNaH7kj3pU"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 230012,
       "name": "Dios Es Bueno",
       "url": "https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ"
@@ -1610,7 +1628,7 @@
     {
       "album": {
         "name": "First Things First",
-        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
+        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
       },
       "artists": [
         {
@@ -1621,6 +1639,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 251185,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ"
+    },
+    {
+      "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 251185,
       "name": "First Things First",
       "url": "https://open.spotify.com/track/4E4JkkNvwl2EzZWIm0VJig"
@@ -3234,10 +3270,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170250,
       "name": "L",
       "url": "https://open.spotify.com/track/13GUmWrOYPpjTS1Mf9LQih"
+    },
+    {
+      "album": {
+        "name": "L",
+        "url": "https://open.spotify.com/album/6Tx1PIZy8fS28sxPtKIjRL"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "L",
+      "url": "https://open.spotify.com/track/1ZrmC67tOnkAv5dGl2ixxL"
     },
     {
       "album": {
@@ -3728,7 +3782,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 145750,
       "name": "Nights In Atlanta",
       "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
@@ -3746,7 +3800,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145750,
       "name": "Nights In Atlanta",
       "url": "https://open.spotify.com/track/7EAvUiKv3vjNPonp5gwm5l"
@@ -3816,7 +3870,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173178,
       "name": "no longer bound",
       "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
@@ -3838,7 +3892,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "No Longer Bound",
       "url": "https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3"
@@ -4009,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "Place For Me",
+        "url": "https://open.spotify.com/album/7LaeZvJR9oC9zqhfJ1vd23"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171834,
+      "name": "Place For Me",
+      "url": "https://open.spotify.com/track/14ZwtJEQKZfIxV7fNXfWcI"
+    },
+    {
+      "album": {
         "name": "Land Of The Living",
         "url": "https://open.spotify.com/album/5L8kyQqKEvjOZVP0Oj4RiH"
       },
@@ -4020,7 +4092,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171834,
       "name": "Place For Me",
       "url": "https://open.spotify.com/track/48Rv2UyK4yhXxCTeP5Z4W5"
@@ -5002,10 +5074,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8"
     },
     {
       "album": {

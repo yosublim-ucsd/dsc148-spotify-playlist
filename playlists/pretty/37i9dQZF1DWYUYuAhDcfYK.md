@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYuAhDcfYK.md) - [plain]
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720 likes - 34 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYuAhDcfYK.md) - [plain]
 | 4 | [The Seeker](https://open.spotify.com/track/72XPKvowJZXpmaUy2BjX7Q) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [The Strangers](https://open.spotify.com/artist/4eYZgISQVkajfQ3PAJlqqw) | [It's All In The Movies](https://open.spotify.com/album/0IEM9IgfeET03SguchKJmk) | 2:54 |
 | 5 | [Grass Is Blue](https://open.spotify.com/track/41hBHyV3UKjmkv9V56cZqm) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Grass Is Blue](https://open.spotify.com/album/25wFFXl4hyavcer4TEb4bB) | 4:18 |
 | 6 | [To Daddy \- 2003 Remaster](https://open.spotify.com/track/2lydvSVzUsdNL6Bz9Sw9q5) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 2:46 |
-| 7 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/5hpnLYTyiQOBMP3fpIdY8H) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq), [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Do I Ever Cross Your Mind](https://open.spotify.com/album/0Sy1ndBokQwCQ0P2zx4Xpe) | 2:25 |
-| 8 | [The Bargain Store](https://open.spotify.com/track/7FNhnbq4wLq2OMuh4OOcwn) | [Dan Bettridge](https://open.spotify.com/artist/626PNFpj7VtxuYllBq7Ju1), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [The Bargain Store](https://open.spotify.com/album/2knwNrZtjIS1xPg3j5FGjR) | 5:28 |
+| 7 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/291QLL91Lu39rkkWxDfNZZ) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq), [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Do I Ever Cross Your Mind](https://open.spotify.com/album/1wtJCSBYOF1w24uuebLeaW) | 2:25 |
+| 8 | [The Bargain Store](https://open.spotify.com/track/1t5i1pVLOkYr0ju5gkklN1) | [Dan Bettridge](https://open.spotify.com/artist/626PNFpj7VtxuYllBq7Ju1), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [The Bargain Store](https://open.spotify.com/album/0AJgG9Mysbxk2QDOIYuKBd) | 5:28 |
 | 9 | [Down from Dover](https://open.spotify.com/track/5vUQbycHAFaCvCywSDJlea) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 3:38 |
 | 10 | [Love Is Like A Butterfly](https://open.spotify.com/track/4WB6aLQDfFyINvf35rSQMW) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Chain](https://open.spotify.com/album/1GG1Pl3dFbrgYBhTE61V4H) | 3:33 |
 | 11 | [The Stranger](https://open.spotify.com/track/2dDRwg5bWU7pIyOBiV9d6o) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [What About Me](https://open.spotify.com/album/4UvKLRG4tRwJwsoOFMMBG9) | 3:46 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYuAhDcfYK.md) - [plain]
 | 26 | [Kentucky Gambler](https://open.spotify.com/track/1r717VaFVWg0GpgMGwWssL) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Keep Movin On](https://open.spotify.com/album/44YPIDUqls7ywVmbdhpi83) | 2:42 |
 | 27 | [Hard Candy Christmas](https://open.spotify.com/track/5v6pYQWbA4NjgZ3ez3QLJd) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Christmas](https://open.spotify.com/album/0V59zTtkUXNwrrLkzlGXTK) | 3:50 |
 | 28 | [My Tennessee Mountain Home](https://open.spotify.com/track/3oriKZzKW7gX7Xp0vlJNvC) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:31 |
-| 29 | [Touch Your Woman](https://open.spotify.com/track/3RcRNuyL4xpeqORYb2pYMY) | [Kate Campbell](https://open.spotify.com/artist/1NZA6DefBtQo2PgcmBtnTg) | [Twang On A Wire](https://open.spotify.com/album/1JAzY7B1BEY7MKgpIIeBsd) | 3:39 |
+| 29 | [Touch Your Woman](https://open.spotify.com/track/1Rgo8fk3zm48QV2qmRyIW2) | [Kate Campbell](https://open.spotify.com/artist/1NZA6DefBtQo2PgcmBtnTg) | [Twang On A Wire](https://open.spotify.com/album/04dcYq8bajhjRdEHIGoMA9) | 3:39 |
 | 30 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
 | 31 | [The Bargain Store](https://open.spotify.com/track/2VcgKDUD7EE8ITbvfndK2R) | [oldmanyoung](https://open.spotify.com/artist/4TPnCTUDviiv1gTdYIsj3B) | [The Bargain Store](https://open.spotify.com/album/7GCe8qfedFd4QE1AVQnLuM) | 3:02 |
 | 32 | [Coat of Many Colors \- 2003 Remaster](https://open.spotify.com/track/38GaOE8Umdi8ueq9G3cQxw) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:42 |

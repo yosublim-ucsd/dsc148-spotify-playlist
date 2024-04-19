@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain](/playlists/plain/37i9dQZF1DXcTpoGQmyr2B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcTpoGQmyr2B)
 
-### [Acoustic Pilates](https://open.spotify.com/playlist/37i9dQZF1DXcTpoGQmyr2B)
+### [Acoustic Pilates \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXcTpoGQmyr2B)
 
 > Let your stress melt away while you work up a sweat.
 

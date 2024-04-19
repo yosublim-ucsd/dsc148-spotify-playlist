@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: BLVTH, BLOODMOON",
+  "description": "New music off the beaten track. Cover: Parra for Cuva",
   "name": "OFF POP",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302020,
       "name": "Allein in Italien",
       "url": "https://open.spotify.com/track/716ROf2GNn9IdO7EwQYaOT"
@@ -1021,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "album": {
         "name": "Bait",
         "url": "https://open.spotify.com/album/3wnGJIfAXv18as89ckvk4N"
       },
@@ -1120,6 +1142,32 @@
       "duration_ms": 208653,
       "name": "Because of You (feat. Isaac Delusion)",
       "url": "https://open.spotify.com/track/46HKDN72dkLckTwFV8TrLd"
+    },
+    {
+      "album": {
+        "name": "Because of You (feat. Isaac Delusion) [Sophie Lloyd Remix]",
+        "url": "https://open.spotify.com/album/6rum9kO2WI8ZnTnY7zfQvx"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        },
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369767,
+      "name": "Because of You (feat. Isaac Delusion) - Sophie Lloyd Remix",
+      "url": "https://open.spotify.com/track/1apR3hyx33FyiwqLLo27WO"
     },
     {
       "album": {
@@ -3803,6 +3851,32 @@
     },
     {
       "album": {
+        "name": "false gold (Imogen Heap Remix)",
+        "url": "https://open.spotify.com/album/3HDQvr31JTdn7QMFEM7G5K"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        },
+        {
+          "name": "ai.mogen",
+          "url": "https://open.spotify.com/artist/77mYai06p9Ju6y5pyGBH4C"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "false gold - Imogen Heap Remix",
+      "url": "https://open.spotify.com/track/1FTDuTMJLeUkmDx7O6TUbl"
+    },
+    {
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -3818,7 +3892,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
@@ -3840,7 +3914,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248469,
       "name": "Fantasy - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/0rm385SIdp7KV248WA3yI4"
@@ -4554,7 +4628,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 183093,
       "name": "Funky And You Know It - Myd Remix",
       "url": "https://open.spotify.com/track/3GXNESAx5m5wtE2bWjzmN2"
@@ -4580,7 +4654,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183093,
       "name": "Funky And You Know It - Myd Remix",
       "url": "https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE"
@@ -5206,10 +5280,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246453,
       "name": "Hideout",
       "url": "https://open.spotify.com/track/0DIpiVfVoAGIuGf3AVWphi"
+    },
+    {
+      "album": {
+        "name": "Hideout",
+        "url": "https://open.spotify.com/album/5dJ4KG29TkSey5mlyJO5gZ"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/1nLXY1q1YnLeongeoxfTLa"
     },
     {
       "album": {
@@ -5290,7 +5382,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273275,
       "name": "Higher Ground (feat. Roosevelt)",
       "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
@@ -5312,7 +5404,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 273293,
       "name": "Higher Ground (feat. Roosevelt)",
       "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
@@ -5799,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "I Got It",
+        "url": "https://open.spotify.com/album/2mphyR11O9ffePXdr2MYc0"
+      },
+      "artists": [
+        {
+          "name": "Velar Prana",
+          "url": "https://open.spotify.com/artist/2WFJLkIUFKNj7QLZFyPDHg"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146301,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/2mihsBJgTTLGgQgj9uSLH9"
+    },
+    {
+      "album": {
         "name": "I Know, I Know",
         "url": "https://open.spotify.com/album/0UETdQXKfEJtzQoiiXV7Kz"
       },
@@ -5882,7 +5992,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158086,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5SlXy3CFqdz8zGiJYB8Zni"
@@ -6402,7 +6512,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180442,
       "name": "IT HURTS ME",
       "url": "https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H"
@@ -6522,6 +6632,24 @@
       "duration_ms": 277085,
       "name": "It's You - Alan Braxe Remix",
       "url": "https://open.spotify.com/track/48tAxJPKyxs3KeIrKIzmuY"
+    },
+    {
+      "album": {
+        "name": "Memory Morning",
+        "url": "https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239089,
+      "name": "Ithaca",
+      "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
     },
     {
       "album": {
@@ -6706,10 +6834,32 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 484173,
       "name": "Kandy - Tiga Remix",
       "url": "https://open.spotify.com/track/12rO7uz0h7l089uhdOgOBp"
+    },
+    {
+      "album": {
+        "name": "Kandy (Tiga Remix)",
+        "url": "https://open.spotify.com/album/2Walo20FvXoBGsjkIhqnA9"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484173,
+      "name": "Kandy - Tiga Remix",
+      "url": "https://open.spotify.com/track/3S8k3ehLpwvApPr4YUo3tJ"
     },
     {
       "album": {
@@ -7957,6 +8107,28 @@
     },
     {
       "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/7LcxZhOQPE33kiifkOXDi4"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        },
+        {
+          "name": "Helaine Vis",
+          "url": "https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224739,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/6ZMjNr1LUsqEjBEPMzVxnE"
+    },
+    {
+      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -8140,7 +8312,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221636,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/2Ki0bQiWB2F09S0BiS079l"
@@ -8176,7 +8348,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 221636,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/66c9EmPAVDQpzYkuyzRx1W"
@@ -8252,6 +8424,28 @@
       "duration_ms": 200901,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6ExEbMM3BpqiChkdZcoWiG"
+    },
+    {
+      "album": {
+        "name": "Moments Die",
+        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246886,
+      "name": "Moments Die",
+      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
     },
     {
       "album": {
@@ -10998,7 +11192,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181998,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
@@ -11282,7 +11476,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301706,
       "name": "Space",
       "url": "https://open.spotify.com/track/5eRN2ORFEvPgb8J8Wda0xH"
@@ -11420,7 +11614,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217306,
       "name": "Stay",
       "url": "https://open.spotify.com/track/169m17LngQCxaxWdbVSVNL"
@@ -11446,6 +11640,24 @@
       "duration_ms": 371087,
       "name": "Stay Awhile",
       "url": "https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml"
+    },
+    {
+      "album": {
+        "name": "Mimose",
+        "url": "https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225849,
+      "name": "Stellar",
+      "url": "https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN"
     },
     {
       "album": {
@@ -11846,7 +12058,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 303142,
       "name": "Swirl - Roosevelt Remix",
       "url": "https://open.spotify.com/track/5hwwsF2ghUGZL7VQKKV16k"
@@ -11868,7 +12080,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303142,
       "name": "Swirl - Roosevelt Remix",
       "url": "https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG"
@@ -13056,7 +13268,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273500,
       "name": "U Make Me Feel",
       "url": "https://open.spotify.com/track/2i19OkDLbXWVshR3thA6ca"
@@ -13234,7 +13446,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197036,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
@@ -13353,6 +13565,24 @@
     },
     {
       "album": {
+        "name": "Vhs",
+        "url": "https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
+    },
+    {
+      "album": {
         "name": "Breathe In, Breathe Out",
         "url": "https://open.spotify.com/album/4hfABogY2ThfnXf515qFBq"
       },
@@ -13456,6 +13686,28 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124401,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
     },
     {
       "album": {

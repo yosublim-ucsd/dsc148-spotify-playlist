@@ -1,13 +1,37 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
-  "num_followers": 444414,
+  "num_followers": 444420,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDY5YWYxYjcyODJjMjhiMjgxMWQ3Yzg3YTJmMDc2MTZl",
+  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDg0ODYwYzNlMWVlMWQ2YzUxZDY3OTBkOTI2MzY4MjAw",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Feel Like Going Home (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        },
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "duration_ms": 185984,
+      "name": "Trouble (Sunday Version)",
+      "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
@@ -236,7 +260,7 @@
       "added_at": "2024-02-09 05:01:00",
       "album": {
         "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
+        "url": "https://open.spotify.com/album/4vrG1J4J6h0Sfmq0YdUWUd"
       },
       "artists": [
         {
@@ -246,7 +270,7 @@
       ],
       "duration_ms": 205026,
       "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/3j3AQiQEe24de1EcYqVxc3"
+      "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -480,7 +504,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Bad Spell (Acoustic)",
-        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
+        "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
       },
       "artists": [
         {
@@ -490,7 +514,7 @@
       ],
       "duration_ms": 194970,
       "name": "Bad Spell - Acoustic",
-      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
+      "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -527,8 +551,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "You're the One",
-        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+        "name": "Yet to Be (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi"
       },
       "artists": [
         {
@@ -542,7 +566,7 @@
       ],
       "duration_ms": 219746,
       "name": "Yet to Be (feat. Jason Isbell)",
-      "url": "https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE"
+      "url": "https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -571,8 +595,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
       "artists": [
         {
@@ -582,7 +606,7 @@
       ],
       "duration_ms": 258651,
       "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -708,7 +732,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Nothing's Gonna Stop Me Feeling Good",
-        "url": "https://open.spotify.com/album/1JHZ601aiZH8AexrDLnxbp"
+        "url": "https://open.spotify.com/album/3vgjJRc8CkEp5LbCwYdfVf"
       },
       "artists": [
         {
@@ -718,7 +742,7 @@
       ],
       "duration_ms": 180995,
       "name": "Nothing's Gonna Stop Me Feeling Good",
-      "url": "https://open.spotify.com/track/4rmOzQCwbGIiukTKmpRHlC"
+      "url": "https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -924,7 +948,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Get Real High",
-        "url": "https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF"
+        "url": "https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz"
       },
       "artists": [
         {
@@ -934,7 +958,7 @@
       ],
       "duration_ms": 247380,
       "name": "Get Real High",
-      "url": "https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq"
+      "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -972,7 +996,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Taking Me Higher",
-        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
+        "url": "https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP"
       },
       "artists": [
         {
@@ -982,7 +1006,7 @@
       ],
       "duration_ms": 243314,
       "name": "Taking Me Higher",
-      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
+      "url": "https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1003,8 +1027,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+        "name": "Souled Out On You",
+        "url": "https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK"
       },
       "artists": [
         {
@@ -1014,7 +1038,7 @@
       ],
       "duration_ms": 213093,
       "name": "Souled Out On You",
-      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
+      "url": "https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1035,8 +1059,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/5KE2nGwb7wlAw4DdwlMXV4"
+        "name": "A Thousand Heartaches",
+        "url": "https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj"
       },
       "artists": [
         {
@@ -1054,7 +1078,7 @@
       ],
       "duration_ms": 300240,
       "name": "A Thousand Heartaches",
-      "url": "https://open.spotify.com/track/3M4wqYQdjjQMEtEVprBflj"
+      "url": "https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1076,7 +1100,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6l9WiIy8A7MvFZvNNGJuxY"
+        "url": "https://open.spotify.com/album/0HyNnJrfMh3pQyjQFr5j60"
       },
       "artists": [
         {
@@ -1086,7 +1110,7 @@
       ],
       "duration_ms": 309936,
       "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1InEnV5LtvOlIi5tSp17vA"
+      "url": "https://open.spotify.com/track/53b1hEONbOjbiM4jrd9nPb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1107,8 +1131,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Half The City",
-        "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
+        "name": "Half the City",
+        "url": "https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ"
       },
       "artists": [
         {
@@ -1118,7 +1142,7 @@
       ],
       "duration_ms": 254333,
       "name": "Grass Is Greener",
-      "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
+      "url": "https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1303,8 +1327,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Rides On",
-        "url": "https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu"
+        "name": "Cherry Red Boots / Somebody Tryin\u2019 To HooDoo Me",
+        "url": "https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI"
       },
       "artists": [
         {
@@ -1314,13 +1338,13 @@
       ],
       "duration_ms": 278474,
       "name": "Somebody Tryin\u2019 to Hoodoo Me",
-      "url": "https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT"
+      "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/4lsxhQoLG5OEUEfVlUgA9H"
       },
       "artists": [
         {
@@ -1330,7 +1354,7 @@
       ],
       "duration_ms": 185160,
       "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+      "url": "https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1351,8 +1375,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+        "name": "Lost & Lonesome",
+        "url": "https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv"
       },
       "artists": [
         {
@@ -1362,7 +1386,7 @@
       ],
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
-      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+      "url": "https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1384,7 +1408,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Unchange",
-        "url": "https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW"
+        "url": "https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH"
       },
       "artists": [
         {
@@ -1394,13 +1418,13 @@
       ],
       "duration_ms": 204629,
       "name": "Unchange",
-      "url": "https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A"
+      "url": "https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl"
     },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+        "url": "https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c"
       },
       "artists": [
         {
@@ -1410,13 +1434,13 @@
       ],
       "duration_ms": 144985,
       "name": "Have a Ball",
-      "url": "https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD"
+      "url": "https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7"
     },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "It's Only a Little Loneliness",
-        "url": "https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P"
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/1Ru4jgnreryoTXbp2SdZRr"
       },
       "artists": [
         {
@@ -1426,13 +1450,13 @@
       ],
       "duration_ms": 205533,
       "name": "Mystery",
-      "url": "https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4"
+      "url": "https://open.spotify.com/track/2KbNZUsmY1jg6sCyN2Xtrd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+        "name": "It Feels Alright",
+        "url": "https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ"
       },
       "artists": [
         {
@@ -1442,7 +1466,7 @@
       ],
       "duration_ms": 208266,
       "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/0UDe6J6OfgOnHeQToYLRmo"
+      "url": "https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1495,8 +1519,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Denim & Diamonds",
-        "url": "https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2"
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD"
       },
       "artists": [
         {
@@ -1506,7 +1530,7 @@
       ],
       "duration_ms": 170440,
       "name": "Black Widow",
-      "url": "https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33"
+      "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1627,8 +1651,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "GET ON BOARD",
-        "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
+        "name": "Hooray Hooray",
+        "url": "https://open.spotify.com/album/49WXct9dVEokilWT2A7muj"
       },
       "artists": [
         {
@@ -1642,7 +1666,7 @@
       ],
       "duration_ms": 259946,
       "name": "Hooray Hooray",
-      "url": "https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q"
+      "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1663,28 +1687,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        }
-      ],
-      "duration_ms": 243219,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Undercover Bros.",
-        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh"
       },
       "artists": [
         {
@@ -1693,8 +1697,8 @@
         }
       ],
       "duration_ms": 248590,
-      "name": "How Deep is Your Love",
-      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy"
     },
     {
       "added_at": "2023-10-06 04:00:00",

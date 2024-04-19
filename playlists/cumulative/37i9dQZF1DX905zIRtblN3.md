@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con El Komander, Panter Bélico
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Bizarrap y Natanael Cano
 
 471 songs - 1 day 0 hr 36 min
 

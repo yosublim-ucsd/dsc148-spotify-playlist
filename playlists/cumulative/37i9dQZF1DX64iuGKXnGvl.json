@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 253400,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/6bNcR3QFsPdEtXWJGvLMeA"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302493,
       "name": "Cruz de Navajas",
       "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215666,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 223560,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 194920,
       "name": "En El Boulevard (Corre, Corre)",
       "url": "https://open.spotify.com/track/6Uxus4vvORyWbkEdHxAYEj"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Este Ritmo Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 435493,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310346,
       "name": "La Fuerza del Destino (Live)",
       "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345746,
       "name": "Locomia",
       "url": "https://open.spotify.com/track/7Ldch6dKso6bH4AFHm8FnS"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153173,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256066,
       "name": "Me Col\u00e9 en una Fiesta",
       "url": "https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174946,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176360,
       "name": "Mi Banda Toca Rock",
       "url": "https://open.spotify.com/track/3PuFdc2dkvuVuu4pvbKwyP"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 241733,
       "name": "No Huyas de Mi",
       "url": "https://open.spotify.com/track/4Zt2Sl24XNWTMOUhJNDwdx"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 242466,
       "name": "No Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/6qQyG6BLQi0hvqdmMxOrlG"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Franco De Vita Vuelve en Primera Fila",
+        "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203626,
+      "name": "S\u00f3lo Importas T\u00fa - Vuelve en Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/0zSSrYm8xdq09m5RePUg2p"
+    },
+    {
+      "album": {
         "name": "15 A\u00f1os De Historia",
         "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 224600,
       "name": "Tengo Mucho Que Aprender de Ti",
       "url": "https://open.spotify.com/track/1NBBMEhFjhzCMokhv0mJRd"
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221626,
       "name": "\u00c9l Me Minti\u00f3",
       "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"

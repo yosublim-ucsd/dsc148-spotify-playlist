@@ -4,7 +4,7 @@
 
 > Canciones y cuentos de tus clásicos favoritos.
 
-59 songs - 4 hr 27 min
+60 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [La Liebre y la Tortuga](https://open.spotify.com/track/6RFDcZBxeFusrMjb02IMT3) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fábulas, Vol\. 2](https://open.spotify.com/album/4oSwP1ODnaA792gMKdp6G8) | 3:06 | 2021-04-22 |  |
 | [La Mosca y la Hormiga](https://open.spotify.com/track/3iHDPOujoGvLYhWQakYhlY) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fábulas, Vol\. 2](https://open.spotify.com/album/4oSwP1ODnaA792gMKdp6G8) | 2:36 | 2021-04-22 |  |
 | [La Pájara Pinta](https://open.spotify.com/track/0VpA0iNtAnMtHNWc7c9AWS) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fábulas, Vol\. 3](https://open.spotify.com/album/19t6DR4O9qgOCwo1pypbAt) | 0:52 | 2021-04-22 |  |
-| [La Ratita Blanca](https://open.spotify.com/track/4nAxKGzccUeBGDY5HJrSK1) | [Había una Vez Cuentos Infantiles](https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX) | [La Ratita Blanca](https://open.spotify.com/album/4bb9aux1YYIg2XLU5rIMWw) | 2:17 | 2021-07-30 |  |
+| [La Ratita Blanca](https://open.spotify.com/track/2NItaEQ97YaPyPWRhloac0) | [Había una Vez Cuentos Infantiles](https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX) | [La Ratita Blanca](https://open.spotify.com/album/0oyGL1KdUiWGyDRBiFTgvS) | 2:17 | 2021-07-30 |  |
+| [La Ratita Blanca](https://open.spotify.com/track/4nAxKGzccUeBGDY5HJrSK1) | [Había una Vez Cuentos Infantiles](https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX) | [La Ratita Blanca](https://open.spotify.com/album/4bb9aux1YYIg2XLU5rIMWw) | 2:17 | 2021-07-30 | 2024-04-19 |
 | [La Sombra del Jumento](https://open.spotify.com/track/0nFhUye738xuMSaILOyYCE) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fábulas, Vol\. 6](https://open.spotify.com/album/41P2EaW58egcfP1li2nkaC) | 3:44 | 2021-04-22 |  |
 | [La Virgen de la Cueva](https://open.spotify.com/track/0ZN4VYmc89evZvrreWy5Ly) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fábulas, Vol\. 4](https://open.spotify.com/album/4nCRB0J7DYrQ2d3soK9UWy) | 1:08 | 2021-04-22 |  |
 | [La Zorra y las Uvas](https://open.spotify.com/track/0LwvNWvWQ4oae6Bb95LnkR) | [Elizabeth Dupeyron](https://open.spotify.com/artist/2UvAFkG3MxQA8gKCABvUpp) | [Canciones, Cuentos y Fabulas, Vol\. 5](https://open.spotify.com/album/5RoCsJ9wfJbjBFdKrkaXNa) | 2:21 | 2021-04-22 |  |

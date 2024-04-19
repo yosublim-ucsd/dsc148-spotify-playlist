@@ -4,7 +4,7 @@
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-45 songs - 2 hr 50 min
+46 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,8 @@
 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 | 2023-10-20 |  |
 | [Drawn to the Bitter](https://open.spotify.com/track/5wlDUKNC9S6qFWy2qrfT6V) | [DHeusta](https://open.spotify.com/artist/1dYLcY8kRTQ2l2Gsvq96MY) | [Drawn to the Bitter](https://open.spotify.com/album/6oI6pmtNs3Sn9lp77hbS0P) | 4:00 | 2023-10-20 |  |
 | [Five More Nights](https://open.spotify.com/track/4VbRzSzpXWmozGSpLeDxj7) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [Want It All](https://open.spotify.com/album/2nQUBrQXLuah57Toe5MGgP) | 4:09 | 2023-10-20 |  |
-| [Five Nights at Freddy's](https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI) | 2:45 | 2023-10-20 |  |
-| [Five Nights at Freddy's](https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/2nXOk2xDys9smftpAAufpQ) | 2:45 | 2023-10-20 | 2023-11-29 |
+| [Five Nights at Freddy's](https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI) | 2:45 | 2023-10-20 | 2024-04-19 |
+| [Five Nights at Freddy's](https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/2nXOk2xDys9smftpAAufpQ) | 2:45 | 2023-10-20 |  |
 | [Follow Me](https://open.spotify.com/track/5tvvVkt2MhUHfBXEwO1eH3) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG) | [Five Nights at Freddy's Songs](https://open.spotify.com/album/0A1G2GuC0F45Jb7tYn5w4e) | 3:24 | 2023-10-20 |  |
 | [For You](https://open.spotify.com/track/4xUnBhJLPGgwDFBiHnSaRE) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [For You](https://open.spotify.com/album/3yg9je9GS0BKhtP6Uc4eSy) | 3:00 | 2023-10-20 |  |
 | [Game over \(Y.G.I.O.\) \- Remastered](https://open.spotify.com/track/5SUC51QOfxjmolQRdI3bps) | [MiatriSs](https://open.spotify.com/artist/7s5A0SlNGTXP4EPKIthpaS) | [Fnaf, Vol​\. ​1 \(Remastered\)](https://open.spotify.com/album/06TvYnn9CnVUqomWikhjpa) | 4:22 | 2023-10-20 |  |
@@ -34,6 +34,7 @@
 | [Labyrinth](https://open.spotify.com/track/5F4nIA3JX7ONBuTw2tZI1Y) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx), [Fandroid!](https://open.spotify.com/artist/1ugK8Asl9rFTv6ehF9puwv), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW), [Dawko](https://open.spotify.com/artist/4FnnJYQ1aBQ5sSm0CtKdbj) | [Labyrinth](https://open.spotify.com/album/4l4P6L7AMd6clhPj7qWAaE) | 4:40 | 2023-10-20 |  |
 | [Left Behind \(Sister Location Song\)](https://open.spotify.com/track/7w2Yi23QmQdiAsix3NkuBD) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [Left Behind \(Sister Location Song\)](https://open.spotify.com/album/0CY6AwirtJYVArsiAzYQuw) | 4:50 | 2023-10-20 |  |
 | [Lights On](https://open.spotify.com/track/5iaDOrWLCyewyzoB9bLE4n) | [Kyle Allen Music](https://open.spotify.com/artist/1yH2ZjYHWeStR8K6Z7xYoL), [Corey Wilder](https://open.spotify.com/artist/55JaQX2wIdP3uVEZtt8mxW) | [Lights On](https://open.spotify.com/album/0yPsHjjaKQYGmCM8B5zLZK) | 3:30 | 2023-10-20 |  |
+| [Never Be Alone](https://open.spotify.com/track/2FfRcyV3BoxU5jZwyaQfNT) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Never Be Alone](https://open.spotify.com/album/07HCUJzOLakHtftpKEKa5G) | 3:00 | 2023-10-20 |  |
 | [Never Be Alone](https://open.spotify.com/track/3Mi2DxVPiT7j2EHdxOFCg3) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Never Be Alone](https://open.spotify.com/album/0MZHZHozOZe5L2uVSVdD0M) | 3:00 | 2023-10-20 |  |
 | [Never Coming Home](https://open.spotify.com/track/3eda5oVs9sQmajrLdHkzYz) | [Not a Robot](https://open.spotify.com/artist/29MVYfZicV6Hxa8SgzWuWB), [Christina Rotondo](https://open.spotify.com/artist/0JLPvCgJch8H8gdiez8HSY) | [Never Coming Home](https://open.spotify.com/album/4sKwsv7vJHcw5bMkfQ8IOd) | 3:17 | 2023-10-20 |  |
 | [Real Wild Child \(Wild One\)](https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 3:38 | 2023-10-20 |  |

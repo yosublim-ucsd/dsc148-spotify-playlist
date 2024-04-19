@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,568 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,490 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 3 | [Cedo Ou Tarde \- Mixagem 2023](https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Agora \(Mixagem 2023\)](https://open.spotify.com/album/6DtTX1ZvNBhN15LTYBhuYz) | 3:14 |
 | 4 | [Horizontes \(feat\. Lucas Silveira\)](https://open.spotify.com/track/2fNMkohK8dGXFxzfQx5M9c) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [\(Re\)Nascido](https://open.spotify.com/album/6KIYqiZRJVFHMNs3bVJJve) | 4:42 |
 | 5 | [Levo Comigo](https://open.spotify.com/track/77Y6GBebTNjzyLVTX3PmAk) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Greatest Hits \- Tour Edition](https://open.spotify.com/album/4LYsPGQ18Rb9fPnDbebCYC) | 3:28 |
-| 6 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/2Anewlbuh2nnlUc0bxIKgU) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 5:54 |
-| 7 | [Piloto Automático](https://open.spotify.com/track/6EmC6JFwF0Aq92ajBPKYiO) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Amianto](https://open.spotify.com/album/1WgexL6crC80Q39HwvkyXK) | 3:17 |
+| 6 | [Cada Poça Dessa Rua Tem um Pouco de Minhas Lágrimas](https://open.spotify.com/track/7H9ZO3l7JQDBjVykuxFujo) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/045PXgmguVjBFJ1PVMCgZO) | 5:52 |
+| 7 | [Piloto Automático](https://open.spotify.com/track/35689kbAwieHK4YNmwEisS) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Amianto](https://open.spotify.com/album/1M54W6vxFuAxYNrlO7Ocwd) | 3:16 |
 | 8 | [As Cores](https://open.spotify.com/track/3LQiSlultMCKcbGYWXmFvt) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Flashback](https://open.spotify.com/album/2p0nOVuLQbbAdXNKiaw48R) | 3:54 |
 | 9 | [História de Verão \- Demo](https://open.spotify.com/track/2hwGEeCOUbK9hJn1p7TGt5) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Das Pistas de Skate Às Pistas de Dança \(Demo\)](https://open.spotify.com/album/5vE6uxkDh6extaOJDFyftR) | 3:16 |
 | 10 | [Fé Acesa \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/track/2ZnyuuRN6tKBieIaQCM1U1) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Fé Acesa \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/album/29OIhsHot6kaFaYcbmDq6U) | 3:15 |
-| 11 | [Aquela Música](https://open.spotify.com/track/1WxGfAHm6Fr8OH5yxaIzAJ) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 4:01 |
-| 12 | [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 |
+| 11 | [Aquela Música](https://open.spotify.com/track/6SGPBkazPlEfXNMAAV0OqU) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Fake Number](https://open.spotify.com/album/04i0cENGYqgTl3Snbe29eo) | 4:01 |
+| 12 | [Razões E Emoções](https://open.spotify.com/track/0kpyiEcH82ni9TuuZYxKzL) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [NX Zero](https://open.spotify.com/album/36XdECqksmPP6MsEOjW6lG) | 3:42 |
 | 13 | [Minha Paz](https://open.spotify.com/track/0OZqJIjspmfNvsbmwoBbs7) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Gloria](https://open.spotify.com/album/7czSPeqnlYBszPJFxiRO86) | 4:09 |
 | 14 | [Danse Macabre](https://open.spotify.com/track/4ToGY2sw5NMxFyaEAHDnPZ) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Real / Surreal \(Deluxe\)](https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP) | 3:11 |
 | 15 | [O Mundo Dá Voltas](https://open.spotify.com/track/0f0Udph5uhDHBLEAbhWdNm) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM22](https://open.spotify.com/album/4IfW9TyWxqjTWMoSKBEdCK) | 2:57 |
 | 16 | [Janeiro](https://open.spotify.com/track/1V07iU8eJLtwfmWOx5W2Md) | [Sugar Kane](https://open.spotify.com/artist/2TbBb2QPTrPEbQ6yacOc7K) | [Continuidade da Máquina](https://open.spotify.com/album/4eV6Sz1w6sKCiGDZByAwnK) | 3:06 |
-| 17 | [Quebre As Correntes](https://open.spotify.com/track/26VzA1ncohB7RMsxpXWaZx) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 3:46 |
+| 17 | [Quebre As Correntes](https://open.spotify.com/track/3CjmvJEMATYeaGyzFo1DK9) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/045PXgmguVjBFJ1PVMCgZO) | 3:44 |
 | 18 | [Anteontem](https://open.spotify.com/track/4bdpZyVOz99woYjNTjF6ls) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM22](https://open.spotify.com/album/4IfW9TyWxqjTWMoSKBEdCK) | 3:04 |
-| 19 | [1997](https://open.spotify.com/track/2SBSgVWnqwk7jUNk22f36s) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 3:09 |
+| 19 | [1997](https://open.spotify.com/track/7c2JRBtf4WMA9Q4fzlk4Qx) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk) | [Procedimentos De Emergência](https://open.spotify.com/album/4NaA4eHOxha0RFS6JOseGu) | 3:09 |
 | 20 | [Devagar](https://open.spotify.com/track/7ikfySOHs4eIwI4qcwWJPs) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lapso](https://open.spotify.com/album/3F572fEa36ROblaZcKDv9U) | 4:46 |
 | 21 | [Só mais uma vez](https://open.spotify.com/track/0rWn4OID3XS0ynCe3q5mUW) | [B5](https://open.spotify.com/artist/3Suq9dAvF3bHa1NYEbMXpN) | [Novo](https://open.spotify.com/album/3kNRC2TKN1BLGMtBe8Dp66) | 3:17 |
 | 22 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 28 | [Apenas um Olhar](https://open.spotify.com/track/18KBYXlqr1PLiNSrcU1kca) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Diálogo?](https://open.spotify.com/album/7eQYsqda2CUZK5ju1KWQEg) | 3:20 |
 | 29 | [Embedded Needs](https://open.spotify.com/track/20h2ad5YtElrLw3oS6BYFV) | [Garage Fuzz](https://open.spotify.com/artist/5CxFdJDDcUDl0oa0DjrqJs) | [Comfortable Moments](https://open.spotify.com/album/5ssNcQbbj40yEBx3PDb8QL) | 3:46 |
 | 30 | [O Mito Do Insubstituível](https://open.spotify.com/track/4ZwkThefEvGhFtUGDsb7Ut) | [R.Sigma](https://open.spotify.com/artist/3TNHibACw2s9PnGFgp4KSG) | [Reflita\-Se](https://open.spotify.com/album/3QEOelWGO0n3R9WwZ4TQ0y) | 3:08 |
-| 31 | [Teu Semblante](https://open.spotify.com/track/7J6XsCBC7q22MHLD1CoCiI) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros](https://open.spotify.com/album/3vFIzGjPLlR292Eh6EGttQ) | 3:28 |
+| 31 | [Teu Semblante](https://open.spotify.com/track/598kFLYqXmjcGBlg1jX0SM) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto Dos Livros](https://open.spotify.com/album/0HgC2vLEjGrn1zMNFdCrCV) | 3:26 |
 | 32 | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/track/6ct49JoiM1g6akHiSuxXmH) | [Black Days](https://open.spotify.com/artist/4KbbbUQ9pZU363ykioVFB0) | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/album/7CTNki9wsXtQGnnrMt88uX) | 4:46 |
 | 33 | [Se Essas Paredes Falassem](https://open.spotify.com/track/6EBuhDXGEe8ZPDR8WuuieN) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 3:27 |
 | 34 | [Me Leve às Estrelas](https://open.spotify.com/track/7B6z4Ycf1k9o8mZdSkRoyc) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 4:16 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 38 | [Lembrar Me Faz Sofrer](https://open.spotify.com/track/6gibLc856RW7O3bL8gcENe) | [Display](https://open.spotify.com/artist/6wK3QnC206lJhV7QtC352T) | [Um Dia Pra Sonhar](https://open.spotify.com/album/3RCvS7nvwuIm7CszP8P7A7) | 2:48 |
 | 39 | [Aline](https://open.spotify.com/track/3GQKKCHtuRkS7RstsgWNJU) | [Skore](https://open.spotify.com/artist/5SMpPc5vINO0XkZFRkRxfw) | [Colisão](https://open.spotify.com/album/28HVFzRC5Qx8ul4pk8Z0cW) | 2:56 |
 | 40 | [Noite](https://open.spotify.com/track/5XtQX7YAnDR7ki1yJYfrUU) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Afasia](https://open.spotify.com/album/3S7osO3azTq6kvaIX0H3NW) | 3:16 |
-| 41 | [Criança](https://open.spotify.com/track/2GldKzHbVO2zQR3ZeWjfrh) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com Um Sonho](https://open.spotify.com/album/4cFrj5k0r7SFBXXU50L9Ph) | 4:36 |
+| 41 | [Criança](https://open.spotify.com/track/44Hewpc6MVWcWdQGzPfauT) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com um Sonho](https://open.spotify.com/album/0Ki5QTAVHWBjxPOh3uR4ux) | 4:36 |
 | 42 | [Asma](https://open.spotify.com/track/6zK9J2D3LAtDqfJmblD2P2) | [Visconde](https://open.spotify.com/artist/0ScxxqjnVMeXYqPl5AavFd) | [Visconde](https://open.spotify.com/album/6XiK7cPd6XqlyiPN7NjTJO) | 3:46 |
 | 43 | [Asas Fracas](https://open.spotify.com/track/6QB2atTwm7DpkmPwJH3w7L) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Gloria](https://open.spotify.com/album/7czSPeqnlYBszPJFxiRO86) | 2:45 |
 | 44 | [Mais Que um Perdão](https://open.spotify.com/track/5Dd5gzk4YVeSk6yfCF2VMy) | [Opallas](https://open.spotify.com/artist/45dNW6B9d2DdqCgJlrLbOh) | [Que Mal Há em Chorar por Nós Dois](https://open.spotify.com/album/0tZh9WyHmwIASV09q57nQh) | 1:25 |

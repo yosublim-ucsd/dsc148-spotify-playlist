@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,113 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,103 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 51 | [Hey Brother](https://open.spotify.com/track/6KjeFfePSDrlvsOb1aXqwy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid) | 3:41 |
 | 52 | [New Rules](https://open.spotify.com/track/5VIiodwSobgzi3JMynM6Oo) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6Bgtj0R3jwwpsmPyieO4Cq) | 2:45 |
 | 53 | [Ain't No Mountain High Enough](https://open.spotify.com/track/63FXIXULZiV2y8bMm0iDie) | [Summer Cocktail Crew](https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES) | [Ain't No Mountain High Enough](https://open.spotify.com/album/2Z8t4UNYuRhbkMlHGPFJlE) | 3:05 |
-| 54 | [Lovefool](https://open.spotify.com/track/3J49YFtSjLMiuyDi6xNHc1) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/0KEmmW5iXwzpaSlaamlizL) | 3:14 |
+| 54 | [Lovefool](https://open.spotify.com/track/2F3Ta1V8cKZfLmu5vEF41b) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Lovefool](https://open.spotify.com/album/7Jl45cmO0a0yzJJw62i3Ps) | 3:14 |
 | 55 | [Bad Guy](https://open.spotify.com/track/1TNPHIgn83UN8r0qg8VMwS) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Bad Guy](https://open.spotify.com/album/75KEw2J5VlubFMIrKNwhec) | 3:10 |
 | 56 | [Rolling in the Deep](https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Rolling in the Deep](https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ) | 3:43 |
 | 57 | [Dream A little Dream Of Me](https://open.spotify.com/track/39qMLKmf0lR6RtpWvW4FFS) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:57 |
 | 58 | [deja vu \- Bossa Nova](https://open.spotify.com/track/1xKrcdhhlNQXImSFEpi8Vo) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [deja vu \- Bossa Nova](https://open.spotify.com/album/7aBYanh7J5fh3ZoKmZoid0) | 4:00 |
 | 59 | [Can't Feel My Face](https://open.spotify.com/track/6kCmzHekDabtgbLVrMeK3G) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Can't Feel My Face](https://open.spotify.com/album/40h5M7JPSNxEP577f4iqRG) | 3:57 |
-| 60 | [Wonderwall](https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 4:20 |
+| 60 | [Wonderwall](https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 4:20 |
 | 61 | [I'm a Believer](https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow) | [Beatriz e Lucas](https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF) | [I'm a Believer](https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5) | 3:30 |
 | 62 | [Dancing With Tears In My Eyes \- Bossa Nova Remix](https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0) | [Blended Colors](https://open.spotify.com/artist/3Z8VvhRYsd2jzm1KTHeMyM) | [Dancing With Tears In My Eyes \(Bossa Nova Remix\)](https://open.spotify.com/album/10XzBSx1xOySdki0IKQk1a) | 3:36 |
 | 63 | [Easy](https://open.spotify.com/track/1xU2zC6bxsIFM2UHyXYqsW) | [Bossa de Carnaval](https://open.spotify.com/artist/3ydiYqDYKAvrnp1qfUjLQ3) | [Easy](https://open.spotify.com/album/2tBLls66FoItnyIBHlAJFE) | 3:45 |

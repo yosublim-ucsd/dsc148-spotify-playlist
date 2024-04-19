@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Shenseea",
+  "description": "Les hits dancehall du moment. Photo : P.L.L",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 173250,
       "name": "10 / 10",
       "url": "https://open.spotify.com/track/2YB3aHdfTB6SZpYp1iBCfI"
+    },
+    {
+      "album": {
+        "name": "420",
+        "url": "https://open.spotify.com/album/3R502v16PmUz1mXEjEsKch"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Team DAMP",
+          "url": "https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "420",
+      "url": "https://open.spotify.com/track/19KLlE2v5E4AMvushL8EHf"
     },
     {
       "album": {
@@ -3580,7 +3602,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152320,
       "name": "JOLIE MADAME",
       "url": "https://open.spotify.com/track/3gU73chQ8mscpYDEEemDt1"
@@ -3602,6 +3624,24 @@
       "duration_ms": 136620,
       "name": "JOOCHAR",
       "url": "https://open.spotify.com/track/41q55rxFJf5qpVIplA1hxN"
+    },
+    {
+      "album": {
+        "name": "JoyRide",
+        "url": "https://open.spotify.com/album/7fuye6A5quwHWNmHUwykEo"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151859,
+      "name": "JoyRide",
+      "url": "https://open.spotify.com/track/1zwz2ZRQg5tuBrJjOtSSCo"
     },
     {
       "album": {
@@ -5008,7 +5048,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240119,
       "name": "Noumonss",
       "url": "https://open.spotify.com/track/7ay0AQpTnJaJUKrhAGFkJ4"

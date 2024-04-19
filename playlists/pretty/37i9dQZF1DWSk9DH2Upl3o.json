@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 30095,
+  "num_followers": 30140,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDNlNTk3ODFlZGE1ZTQ4NTM3NDk1ODVhYzM3ZWY2M2Q3",
+  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDE3YmQ1MWUxODk1MjljZTBjYTlmYTZkNzlhZDAwMjhl",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Sorry, Kids",
+        "url": "https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp"
+      },
+      "artists": [
+        {
+          "name": "Taylor Scott Band",
+          "url": "https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe"
+        }
+      ],
+      "duration_ms": 259851,
+      "name": "Make That Booty Clap (Must Be Jelly)",
+      "url": "https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
@@ -117,7 +133,7 @@
         },
         {
           "name": "Josh Phillips",
-          "url": "https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke"
+          "url": "https://open.spotify.com/artist/2yoLBWKwU6H5gw1UE8TDul"
         }
       ],
       "duration_ms": 260015,
@@ -263,8 +279,8 @@
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
-        "name": "Chorus",
-        "url": "https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS"
+        "name": "Yourself",
+        "url": "https://open.spotify.com/album/2MAH1uPu3OZHwLEiHg7bhJ"
       },
       "artists": [
         {
@@ -274,7 +290,7 @@
       ],
       "duration_ms": 382887,
       "name": "Yourself",
-      "url": "https://open.spotify.com/track/3lFyL9JJvWnlZ13YzpTwzS"
+      "url": "https://open.spotify.com/track/4JQkCqj2vjcsECCL37bPEL"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -344,7 +360,7 @@
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "To Live A Making",
-        "url": "https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp"
+        "url": "https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU"
       },
       "artists": [
         {
@@ -354,7 +370,7 @@
       ],
       "duration_ms": 389403,
       "name": "Fate",
-      "url": "https://open.spotify.com/track/21wWMrhOMhSGwU2iRB2kYv"
+      "url": "https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -455,8 +471,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os"
       },
       "artists": [
         {
@@ -466,7 +482,7 @@
       ],
       "duration_ms": 401213,
       "name": "All I Need",
-      "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+      "url": "https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -504,7 +520,7 @@
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Walk Around The Moon",
-        "url": "https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM"
+        "url": "https://open.spotify.com/album/4PN9sGknmzIRLE2pItVS5u"
       },
       "artists": [
         {
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
         }
       ],
-      "duration_ms": 289853,
+      "duration_ms": 289636,
       "name": "Walk Around the Moon",
-      "url": "https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o"
+      "url": "https://open.spotify.com/track/7iBUz3MdI11jzHsmuyO0Ou"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -687,8 +703,8 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Grateful Deadication 2",
-        "url": "https://open.spotify.com/album/0iG9gEyft71vNk1LXIxGa1"
+        "name": "Scarlet Begonias",
+        "url": "https://open.spotify.com/album/3WfxL85c4fIfRNPLli2tXo"
       },
       "artists": [
         {
@@ -701,8 +717,8 @@
         }
       ],
       "duration_ms": 347600,
-      "name": "Scarlet Begonias (feat. Oteil Burbridge)",
-      "url": "https://open.spotify.com/track/08cjN3kq6Ox1RGcITIFjOO"
+      "name": "Scarlet Begonias",
+      "url": "https://open.spotify.com/track/7w3f1gluu1NTtKcTD6s5p0"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -836,24 +852,24 @@
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "The $1000 Question",
-        "url": "https://open.spotify.com/album/7sblF3Uewbjd1cal6qUOa1"
+        "url": "https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY"
       },
       "artists": [
-        {
-          "name": "RAAR Trio",
-          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
-        },
         {
           "name": "Ari Joshua",
           "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
         },
         {
-          "name": "Raymond Paczkowski",
-          "url": "https://open.spotify.com/artist/4qUkl3o89oPUOpFxm3NPDg"
+          "name": "Ray Paczkowski",
+          "url": "https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO"
         },
         {
-          "name": "Russell Lawton",
-          "url": "https://open.spotify.com/artist/1yb00XX9NeNeVGXrOUQZP8"
+          "name": "Russ Lawton",
+          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
+        },
+        {
+          "name": "RAAR Trio",
+          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
         },
         {
           "name": "Soule Monde",
@@ -862,13 +878,13 @@
       ],
       "duration_ms": 414475,
       "name": "The $1000 Question",
-      "url": "https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL"
+      "url": "https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k"
     },
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/22TcmPpJuX1tOlSw4fheP8"
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/0fn00wTH1vbkr4dWpozmOS"
       },
       "artists": [
         {
@@ -878,7 +894,7 @@
       ],
       "duration_ms": 250573,
       "name": "Lessons",
-      "url": "https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk"
+      "url": "https://open.spotify.com/track/1rT1QBkBlfmhwbggWMAP5Z"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1004,7 +1020,7 @@
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Nowhere To Go But Everywhere",
-        "url": "https://open.spotify.com/album/77mybqhJmrAAuhooCm3xW5"
+        "url": "https://open.spotify.com/album/2ispQP4b20p3IoW4bWfHrQ"
       },
       "artists": [
         {
@@ -1014,7 +1030,7 @@
       ],
       "duration_ms": 218949,
       "name": "Despierta",
-      "url": "https://open.spotify.com/track/3AZlc4kfSwUi3H58Oh4r5h"
+      "url": "https://open.spotify.com/track/3oVXcvauOF5fUgQXtfcyVy"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1253,26 +1269,10 @@
       "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf"
-      },
-      "artists": [
-        {
-          "name": "Umphrey's McGee",
-          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
-        }
-      ],
-      "duration_ms": 186763,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Native Sons",
-        "url": "https://open.spotify.com/album/1uqu7aUJh1qONoGAI0Sd23"
+        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
       },
       "artists": [
         {
@@ -1282,7 +1282,7 @@
       ],
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
-      "url": "https://open.spotify.com/track/184uLww2SrfPYRWs6RuyGN"
+      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1336,7 +1336,7 @@
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Nomad",
-        "url": "https://open.spotify.com/album/3pCxaR5TAlOmGAZQ7TLtwI"
+        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
       },
       "artists": [
         {
@@ -1346,7 +1346,7 @@
       ],
       "duration_ms": 306840,
       "name": "Colorado",
-      "url": "https://open.spotify.com/track/5UgymKh4hQH97G0m7sJeYl"
+      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1631,8 +1631,8 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Revolution in Motion",
-        "url": "https://open.spotify.com/album/0uPgoCXqTnQHJG3DZIJsHw"
+        "name": "Another Plan of Attack",
+        "url": "https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k"
       },
       "artists": [
         {
@@ -1640,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
         }
       ],
-      "duration_ms": 393266,
+      "duration_ms": 394596,
       "name": "Another Plan of Attack",
-      "url": "https://open.spotify.com/track/6z8lUADbhHlP3eKNfVtqjZ"
+      "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -2,9 +2,9 @@
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
+> This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-89 songs - 7 hr 45 min
+90 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Shekinah \- Live](https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Shekinah \(Live\)](https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP) | 8:30 | 2022-09-14 |  |
 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 | 2022-10-12 | 2023-11-11 |
 | [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2022-09-14 |  |
+| [Te Amo](https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Te Amo](https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL) | 5:31 | 2024-04-19 |  |
 | [Te Amo](https://open.spotify.com/track/4b8RrQABoHbJWHCddCeAGp) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [ROMPE EL CIELO](https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq) | 5:52 | 2022-09-14 | 2022-10-11 |
 | [Tu Habitación](https://open.spotify.com/track/0HwxrfM2sNTlJREqqif50Y) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 4:38 | 2022-09-14 | 2023-06-16 |
 | [Tu Nombre \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/5SMyRgHJ9ZfM97ZffH0Tsl) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:47 | 2022-09-14 | 2022-10-13 |

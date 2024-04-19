@@ -42,7 +42,7 @@
       ],
       "date_added": "2019-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 175954,
       "name": "1400 / 999 Freestyle",
       "url": "https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2019-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175954,
       "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2019-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 435333,
       "name": "Controversy",
       "url": "https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS"
@@ -194,6 +194,24 @@
       "duration_ms": 435333,
       "name": "Controversy",
       "url": "https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2019-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU"
     },
     {
       "album": {
@@ -450,10 +468,28 @@
       ],
       "date_added": "2019-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 619263,
       "name": "Maggot Brain",
       "url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
+    },
+    {
+      "album": {
+        "name": "Maggot Brain",
+        "url": "https://open.spotify.com/album/32mkDUhwDI9JCnKLjm5RGw"
+      },
+      "artists": [
+        {
+          "name": "Funkadelic",
+          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+        }
+      ],
+      "date_added": "2019-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621106,
+      "name": "Maggot Brain",
+      "url": "https://open.spotify.com/track/2t5GyUfFoZg3E8ak3i7dVP"
     },
     {
       "album": {
@@ -675,6 +711,24 @@
     },
     {
       "album": {
+        "name": "e5",
+        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2019-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP"
+    },
+    {
+      "album": {
         "name": "Diva Platinum Edition",
         "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
       },
@@ -704,7 +758,7 @@
       ],
       "date_added": "2019-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
@@ -906,10 +960,28 @@
       ],
       "date_added": "2019-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 391693,
       "name": "The Humpty Dance",
       "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu"
+    },
+    {
+      "album": {
+        "name": "Sex Packets",
+        "url": "https://open.spotify.com/album/1qUuOtsaAWlD6D83AebzD0"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "date_added": "2019-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391693,
+      "name": "The Humpty Dance",
+      "url": "https://open.spotify.com/track/3OcQkcvTcohs8vO8Rd3sKF"
     },
     {
       "album": {
@@ -1014,10 +1086,28 @@
       ],
       "date_added": "2019-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249333,
       "name": "Yonkers",
       "url": "https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav"
+    },
+    {
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/40ucxnGO51wcTGNI6xge6z"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2019-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Yonkers",
+      "url": "https://open.spotify.com/track/1zsAAnB6dMpGOvXjoYP9Um"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Megan Moroney. Los temas esenciales, todos en una lista.",
-  "num_followers": 8220,
-  "original_name": "This Is Megan Moroney",
+  "description": "This is Megan Moroney. Lagu-lagu utama, semuanya dalam satu playlist.",
+  "num_followers": 8299,
+  "original_name": "This is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGM4ZTcwNWRhMmE0NzU3NTU4ZjMxYzM0YzBkNzg2MjE5",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDMyZjc5ZDFhNGY0YzMzZWQyNzVlYTI5YzdkZWE3OWQx",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 165099,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
+      "duration_ms": 188931,
+      "name": "Sleep on My Side",
+      "url": "https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 188931,
-      "name": "Sleep on My Side",
-      "url": "https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS"
+      "duration_ms": 165099,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
     },
     {
       "added_at": null,
@@ -325,6 +325,6 @@
       "url": "https://open.spotify.com/track/2Ks3jo0IfcK280NRyd4wfR"
     }
   ],
-  "unique_name": "This Is Megan Moroney",
+  "unique_name": "This is Megan Moroney",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr"
 }

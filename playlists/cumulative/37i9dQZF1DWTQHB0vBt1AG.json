@@ -824,10 +824,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
     },
     {
       "album": {
@@ -997,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Madan Exotic",
+        "url": "https://open.spotify.com/album/4seEsEgkuc3oUejo7LMDGB"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458293,
+      "name": "Madan - Exotic Disco Mix",
+      "url": "https://open.spotify.com/track/0VxgGWGWRcAPONRMALrJHJ"
+    },
+    {
+      "album": {
         "name": "Balearic Beats",
         "url": "https://open.spotify.com/album/6dXLbFa1JTcovu4qSPI8UR"
       },
@@ -1008,7 +1044,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 458293,
       "name": "Madan - Exotic Disco Mix",
       "url": "https://open.spotify.com/track/2N7qZKGc5RHfgmonaKDVsh"
@@ -1206,6 +1242,24 @@
     {
       "album": {
         "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
+        "url": "https://open.spotify.com/album/7rWxK7htj2ZT0vnDYDgS5S"
+      },
+      "artists": [
+        {
+          "name": "Wganda Kenya",
+          "url": "https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "Pim Pom",
+      "url": "https://open.spotify.com/track/1teVIoGz6Wkygh3jvQOyNV"
+    },
+    {
+      "album": {
+        "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
         "url": "https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy"
       },
       "artists": [
@@ -1234,7 +1288,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257026,
       "name": "Pim Pom",
       "url": "https://open.spotify.com/track/642TUblgapeBjyrnHsujan"

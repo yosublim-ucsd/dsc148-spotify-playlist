@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 121136,
       "name": "Action Pack Theme Song (Music from the Netflix Series)",
       "url": "https://open.spotify.com/track/0cVykhtY5lkIZh4RlOQVdV"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121136,
       "name": "Action Pack Theme Song (Music from the Netflix Series)",
       "url": "https://open.spotify.com/track/2gDV2v7pECv2jEApJnrjXf"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230434,
       "name": "Always",
       "url": "https://open.spotify.com/track/5H6Ams75Ab5rob7lfVx6LK"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230434,
       "name": "Always",
       "url": "https://open.spotify.com/track/6YgU97L7MkIcCJRoLJDtqn"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 60098,
       "name": "Ask The StoryBots Theme",
       "url": "https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 60098,
       "name": "Ask The StoryBots Theme",
       "url": "https://open.spotify.com/track/3HN39lt79CHXdsDMKPBc4X"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149838,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/4yYrFMKjLBVEXF7Psy36LB"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149840,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/2JSd29ATGEql12Ecx0UTnA"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 99586,
       "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
       "url": "https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 99586,
       "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
       "url": "https://open.spotify.com/track/6ClXqnFK000PWmFiK2F3I6"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 63942,
       "name": "Chicken Bop",
       "url": "https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 63942,
       "name": "Chicken Bop",
       "url": "https://open.spotify.com/track/6kQHXSpfVv6pemkrMmCdXs"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 131649,
       "name": "Danger, Danger",
       "url": "https://open.spotify.com/track/090pfisth9XR8YT4I9XYYM"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131649,
       "name": "Danger, Danger",
       "url": "https://open.spotify.com/track/0ie7SrEYQQ8KXvgS6VuKX4"
@@ -454,6 +454,24 @@
       "duration_ms": 136002,
       "name": "Finger Family",
       "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
+    },
+    {
+      "album": {
+        "name": "Fire Inside (From the Netflix Film \"Thelma the Unicorn\")",
+        "url": "https://open.spotify.com/album/1qIeR0x18Zaf0VnZyWTYm5"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114281,
+      "name": "Fire Inside - From the Netflix Film \"Thelma the Unicorn\"",
+      "url": "https://open.spotify.com/track/0p8lTcG76m0InEbiet9lfp"
     },
     {
       "album": {
@@ -560,7 +578,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 157396,
       "name": "Freezie Day",
       "url": "https://open.spotify.com/track/2JQR4HGnpYSBeN6G6uJxef"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157396,
       "name": "Freezie Day (from the Netflix Special \"Waffles + Mochi: Holiday Feast\")",
       "url": "https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu"
@@ -618,7 +636,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 223800,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/0iEyU8xE61ICnyQ4fjZpL8"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223800,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/4TNyxTVDySijQVX2l68xCR"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 191094,
       "name": "Glowin' Up",
       "url": "https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU"
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191094,
       "name": "Glowin' Up",
       "url": "https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158650,
       "name": "Gonna Be My Day",
       "url": "https://open.spotify.com/track/00V49IkvvyTGE3PWTY9u85"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 158650,
       "name": "Gonna Be My Day",
       "url": "https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 157999,
       "name": "Good Good Day",
       "url": "https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157999,
       "name": "Good Good Day",
       "url": "https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134493,
       "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
       "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134500,
       "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
       "url": "https://open.spotify.com/track/2GMgGGx83x0QtJ2Q0qK0Vf"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137229,
       "name": "Hansel & Gretel's Lullaby (All Is Blind) [From The Netflix Series \"A Tale Dark & Grimm\"]",
       "url": "https://open.spotify.com/track/1AW7Z5j6fAhV1iJGLnXrGb"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 137229,
       "name": "Hansel & Gretel's Lullaby (All Is Blind) [From The Netflix Series \"A Tale Dark & Grimm\"]",
       "url": "https://open.spotify.com/track/3j5uSjiatPSFRyxcB7MZiJ"
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173773,
       "name": "I'll Always Love You",
       "url": "https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173773,
       "name": "I'll Always Love You",
       "url": "https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250555,
       "name": "Keep Holding On - Hybrid Version",
       "url": "https://open.spotify.com/track/0f1rObddzYzuikkqBKF8o3"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 250555,
       "name": "Keep Holding On - Hybrid Version",
       "url": "https://open.spotify.com/track/2u66zu5KxLUmINS2sCMpGH"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203773,
       "name": "Let\u2019s Move! Dance Party",
       "url": "https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW"
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203773,
       "name": "Let\u2019s Move! Dance Party",
       "url": "https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149112,
       "name": "Life Is Better Loud",
       "url": "https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 149112,
       "name": "Life Is Better Loud",
       "url": "https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156506,
       "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
       "url": "https://open.spotify.com/track/1nDccJP85l1wcgWhK9C1OZ"
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 156506,
       "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
       "url": "https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7"
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 86939,
       "name": "Ordinary Me",
       "url": "https://open.spotify.com/track/6gGjGxycyFeXx4s7rWogvU"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 86939,
       "name": "Ordinary Me",
       "url": "https://open.spotify.com/track/4Wf6McIFTYEyJFPkSNHk3P"
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 64986,
       "name": "Paws Off",
       "url": "https://open.spotify.com/track/4F0lrCxtYqDPsg5HXzEbPE"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 64986,
       "name": "Paws Off",
       "url": "https://open.spotify.com/track/7qSk3rPjRoksldhlwcZdc7"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158167,
       "name": "Rules R Made 2 B Broken",
       "url": "https://open.spotify.com/track/0mtEUhkt4MwxtNtYOitnCp"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 158167,
       "name": "Rules R Made 2 B Broken",
       "url": "https://open.spotify.com/track/5wX68SsEADVhUjFdEyTOAd"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 193180,
       "name": "Say Hello to Your Friends",
       "url": "https://open.spotify.com/track/2MGc23qUgE1PiQ1dlGx9Eu"
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193180,
       "name": "Say Hello to Your Friends",
       "url": "https://open.spotify.com/track/2WAnnfktY5onWnQZdQFZRe"
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 55693,
       "name": "Spirit Rangers Theme Song",
       "url": "https://open.spotify.com/track/55k4Rc5XuIwuF4v4ZFwZJO"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 55693,
       "name": "Spirit Rangers Theme Song",
       "url": "https://open.spotify.com/track/5ilCMUE33xFgGMzZGUw0KX"
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161025,
       "name": "The Gratitude Attitude",
       "url": "https://open.spotify.com/track/2BGfPHga1Kr75ew5NDqGKb"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161025,
       "name": "The Gratitude Attitude",
       "url": "https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 121533,
       "name": "The Kid (Kid Cosmic Theme)",
       "url": "https://open.spotify.com/track/6i2A4dpAYVkIINr7ypBNJD"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121533,
       "name": "The Kid (Kid Cosmic Theme)",
       "url": "https://open.spotify.com/track/7FcW4LbjumvTOqVlsXULIS"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150800,
       "name": "Two Left Feet",
       "url": "https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 150800,
       "name": "Two Left Feet",
       "url": "https://open.spotify.com/track/70FZ0JbtD0BmEB3ekr8rcd"
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 82957,
       "name": "Tyrannosaurus Rex",
       "url": "https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 82957,
       "name": "Tyrannosaurus Rex",
       "url": "https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0"
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100925,
       "name": "We Are The Planets",
       "url": "https://open.spotify.com/track/3OQVXUIYVddmvvf8nnXopf"
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 101000,
       "name": "We Are The Planets",
       "url": "https://open.spotify.com/track/6T6reDGarkisz8OraafLRy"

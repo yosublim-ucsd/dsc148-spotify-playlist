@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 3927,
+  "2024-04-19": 3934,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl\">Ryan Tedder</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ryan Tedder",
@@ -8428,6 +8428,24 @@
     },
     {
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW"
+    },
+    {
+      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr"
       },
@@ -8439,7 +8457,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 211880,
       "name": "Why Try",
       "url": "https://open.spotify.com/track/6tg9IlbJeHzesV5OWuhDup"

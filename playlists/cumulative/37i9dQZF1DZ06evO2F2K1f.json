@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Alan Hawkshaw. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Alan Hawkshaw. The essential tracks, all in one playlist.",
   "name": "This Is Alan Hawkshaw",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228755,
       "name": "Grit Band Reggae",
       "url": "https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz"
@@ -1712,6 +1712,24 @@
       "duration_ms": 137466,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/1udm3gM3s5K3kvY0yJ30Uq"
+    },
+    {
+      "album": {
+        "name": "Hawk's Hammond Lounge",
+        "url": "https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140640,
+      "name": "Parisian Jazz",
+      "url": "https://open.spotify.com/track/3DQZfDxqIGQhNWoVZLmuke"
     },
     {
       "album": {

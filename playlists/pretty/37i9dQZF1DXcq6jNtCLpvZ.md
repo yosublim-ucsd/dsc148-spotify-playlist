@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 
 > Music from "Symphogear"! /アニメ「戦姫絶唱シンフォギア」の楽曲を1つのプレイリストで。Ⓒproject シンフォギアXV
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,618 likes - 68 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,633 likes - 68 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WE ARE THE FUTURE](https://open.spotify.com/track/24JsKK6aVyDRvRN4yNYZhE) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [キャロル・マールス・ディーンハイム\(CV:水瀬いのり\)](https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングシングル](https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP) | 4:02 |
 | 2 | [Believe is All](https://open.spotify.com/track/6PMwbN0AudOcwKhudbxfQV) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [小日向未来\(CV:井口裕香\)](https://open.spotify.com/artist/0law47IqPXszmlHrquztRS) | [戦姫絶唱シンフォギアXD UNLIMITED キャラクターソングシングル](https://open.spotify.com/album/4ORfUlNVOQYYkju8XCHHLP) | 3:50 |
 | 3 | [Synchrogazer](https://open.spotify.com/track/3Y0vHa9j7yyznCZoRwkSlM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Synchrogazer](https://open.spotify.com/album/0em2lAYqDwbG6EZ2tAokS8) | 4:24 |
-| 4 | [Meteor Light](https://open.spotify.com/track/3JEuZrltbcs7iHQAw8fXLv) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [relation](https://open.spotify.com/album/4rOwquOrhSHEqn5PEJ14Ri) | 4:37 |
+| 4 | [Meteor Light](https://open.spotify.com/track/2z8qR5EIr2ht31c4r3mIQ4) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [Meteor Light](https://open.spotify.com/album/1MJOHuKyxQp0o1FoRvKbji) | 4:37 |
 | 5 | [Vitalization](https://open.spotify.com/track/1BJHubwnUKElLe0B5tEWpq) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Vitalization](https://open.spotify.com/album/55LFu6vcCbZ8FXIgk1oI1V) | 3:43 |
 | 6 | [Next Destination](https://open.spotify.com/track/6ijvhaTbzRMGHbaDZ9GSh7) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/2BgjPNHgBMSCxJ99XZuuFH) | 4:33 |
 | 7 | [Exterminate](https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:05 |

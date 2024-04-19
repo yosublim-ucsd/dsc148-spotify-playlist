@@ -5017,6 +5017,24 @@
     },
     {
       "album": {
+        "name": "Parce qu'on vient de loin.",
+        "url": "https://open.spotify.com/album/4PuU7cyGf140vvhpQ14zUO"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Parce qu'on vient de loin",
+      "url": "https://open.spotify.com/track/5t03AORuoEz8a4S8aRpsD1"
+    },
+    {
+      "album": {
         "name": "Parce qu'on vient de loin",
         "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
@@ -5028,7 +5046,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232932,
       "name": "Parce qu'on vient de loin",
       "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"

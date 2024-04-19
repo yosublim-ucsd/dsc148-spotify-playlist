@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Shironamhin
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,067 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,227 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 51 | [Aushomapto](https://open.spotify.com/track/1S10omnF4NT8QhcLNSxRse) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto 1](https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS) | 4:59 |
 | 52 | [Amar Bhitor O Bahire](https://open.spotify.com/track/2yY8uyFsf5smk2FbUDlj96) | [Somlata And The Aces](https://open.spotify.com/artist/6kVSwOn5ZEbrjIOxED9Ria), [Somlata Acharyya Chowdhury](https://open.spotify.com/artist/43t7ABAwiLwVJ9b738CWOh) | [Amar Bhitor O Bahire](https://open.spotify.com/album/5ErBzap0Bg26fiBexF1UYS) | 5:20 |
 | 53 | [Bondho Janala](https://open.spotify.com/track/5e6jBOUv3HLIpK0OLAFz3q) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0zhCDEUwpXeGDI7ukyRVH7) | 4:02 |
-| 54 | [Jadur Shohor](https://open.spotify.com/track/1x2Rx5lJw6RwHzYGsROHNk) | [Chirkutt](https://open.spotify.com/artist/4AAYv15s4VrCOV5RBVZNix) | [Jadur Shohor](https://open.spotify.com/album/75Drx1ZBQersYmvIrnTv8T) | 6:16 |
+| 54 | [Jadur Shohor](https://open.spotify.com/track/1x2Rx5lJw6RwHzYGsROHNk) | [Chirkutt](https://open.spotify.com/artist/5yAjp9iEmSbfjdTvGl85Ib) | [Jadur Shohor](https://open.spotify.com/album/75Drx1ZBQersYmvIrnTv8T) | 6:16 |
 | 55 | [Sheishob Din Raatri](https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:30 |
 | 56 | [Dhoa](https://open.spotify.com/track/5Im33LhAh81QPRbv7AKNKa) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Jed](https://open.spotify.com/album/18JuuxQCdUw2L7sCUpoblH) | 5:40 |
 

@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Naezy
 
-132 songs - 7 hr 3 min
+135 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [\#NoBakshis](https://open.spotify.com/track/0nFIjLWAyKA6D7T4Ju15hO) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 2:13 | 2023-12-13 | 2024-02-08 |
 | [307 \- Tadipaar](https://open.spotify.com/track/3ykJ0aV5PDv4ELluV4wJQX) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [307 \(Tadipaar\)](https://open.spotify.com/album/2eppHH9aIpflUcMLvWsj8V) | 2:32 | 2023-03-17 |  |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-03-17 |  |
-| [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 | 2024-01-19 |  |
+| [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 | 2024-01-19 | 2024-04-19 |
+| [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 | 2024-04-12 |  |
 | [808](https://open.spotify.com/track/5zq4bkV1NxcJ9pyZCXqE6l) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:09 | 2023-09-13 | 2023-12-09 |
 | [Aafat \- Bombay 70](https://open.spotify.com/track/6nLXztjml4pmkSm8K2NBwJ) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Aafat \(Bombay 70\)](https://open.spotify.com/album/0WAsXRD2Dg28MDSqPKiyWV) | 3:12 | 2023-03-17 | 2023-12-14 |
 | [Aaina](https://open.spotify.com/track/7rMJ1krFie8nKq5cWUAQsx) | [Mohak](https://open.spotify.com/artist/4P7MLqhC62ywWaE2iHiW8p), [Prithvi Shetty](https://open.spotify.com/artist/7yIyJiv9hpogI5BWjUXMNd) | [Aaina](https://open.spotify.com/album/3oCS4F4IVlOvjhYZRX5tzi) | 3:16 | 2023-03-17 | 2023-04-25 |
@@ -55,6 +56,7 @@
 | [Drill](https://open.spotify.com/track/4tCrnq1KgZy1nGch1wP5aY) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Drill](https://open.spotify.com/album/3au6AYCZMdQkw7gaPVHiRY) | 2:28 | 2023-03-17 | 2023-04-25 |
 | [Drill Karte](https://open.spotify.com/track/66qAXPAHwLKPLi8Gx58x5z) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:29 | 2023-03-17 | 2023-12-09 |
 | [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2023-03-17 |  |
+| [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/track/7n8xH63Whw5spavIWScPIh) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/album/3cXkzvtDOyah8H8CYtvYcN) | 4:34 | 2024-04-12 |  |
 | [Ghost Rider](https://open.spotify.com/track/1uu8WLy7yw6kG6SwwpluuJ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Ghost Rider](https://open.spotify.com/album/7LZBdskdqo3OHvjlRYplgp) | 2:46 | 2023-03-17 | 2023-04-25 |
 | [Good Boy](https://open.spotify.com/track/1CN0mBmNtNqV70GqWzVruC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Good Boy](https://open.spotify.com/album/7CVCPyl3tb2xShy7YGzmrK) | 2:41 | 2023-11-15 |  |
 | [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2023-03-17 |  |
@@ -116,8 +118,9 @@
 | [Robin Hood](https://open.spotify.com/track/1BtTsqCyxTOXlkmY3iHeKY) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Robin Hood](https://open.spotify.com/album/6sVYed41ypnAPwcoHOXzWu) | 2:56 | 2023-09-15 | 2023-12-09 |
 | [Royal Rumble](https://open.spotify.com/track/5TfVd7uMROQYyh6ifcKWn3) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Royal Rumble](https://open.spotify.com/album/3K6txR80fCDOBRgjkVLClM) | 3:36 | 2023-03-17 | 2023-04-25 |
 | [Ruthless](https://open.spotify.com/track/0ttWU4iS0Axuie887ueZvW) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu), [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Ruthless](https://open.spotify.com/album/2WBXuZ5gtFLnkcjJd36EIJ) | 4:15 | 2023-03-17 | 2023-12-14 |
-| [Rx100](https://open.spotify.com/track/5coadHEWKzAeKK3Rp3PuoL) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/5XEnLwdHlMRvKequbRsQWt) | 5:28 | 2023-03-17 |  |
-| [Samajh mein aaya kya?](https://open.spotify.com/track/2FcVvA6ltdOyvP4jUgOqfa) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Samajh mein aaya kya?](https://open.spotify.com/album/1FxCO5t2JevJGXQMgegUPK) | 4:33 | 2023-03-17 |  |
+| [Rx100](https://open.spotify.com/track/7i6WQRhgwXqWJ3CnpJIu0U) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/2SGg4AETclQYvFw0wT9tYW) | 5:20 | 2024-04-12 |  |
+| [Rx100](https://open.spotify.com/track/5coadHEWKzAeKK3Rp3PuoL) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/5XEnLwdHlMRvKequbRsQWt) | 5:28 | 2023-03-17 | 2024-04-19 |
+| [Samajh mein aaya kya?](https://open.spotify.com/track/2FcVvA6ltdOyvP4jUgOqfa) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Samajh mein aaya kya?](https://open.spotify.com/album/1FxCO5t2JevJGXQMgegUPK) | 4:33 | 2023-03-17 | 2024-04-19 |
 | [Sarvasva](https://open.spotify.com/track/5QIJhGo2jifLwIqrnkOYuz) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 2:43 | 2023-12-13 |  |
 | [Sath Mai](https://open.spotify.com/track/4oThKMygc8GyFYB82z8RAz) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Meme Machine](https://open.spotify.com/artist/08EMsXwlxsiyeC08Kjh2AS), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Sath Mai](https://open.spotify.com/album/6wlc1WXdX4kwGPCJ2hZBBe) | 3:17 | 2023-03-17 | 2023-10-23 |
 | [Satya](https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-17 |  |

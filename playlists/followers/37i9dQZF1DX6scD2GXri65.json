@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 56112,
+  "2024-04-19": 56177,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -571,6 +571,28 @@
       "duration_ms": 262550,
       "name": "Come Take My Hand - Ran-D Remix",
       "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
+    },
+    {
+      "album": {
+        "name": "Come Take My Hand (Ran-D Remix)",
+        "url": "https://open.spotify.com/album/14sJTIcqHrSTciFVv1cyGF"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        },
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262550,
+      "name": "Come Take My Hand - Ran-D Remix",
+      "url": "https://open.spotify.com/track/7nypeU3hLjP6ZbZdmCkO1w"
     },
     {
       "album": {
@@ -2815,7 +2837,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 188914,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/4IMmJyNPll5HorW8Ip2HCS"

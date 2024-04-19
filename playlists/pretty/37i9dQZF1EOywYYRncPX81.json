@@ -71,6 +71,22 @@
     {
       "added_at": "2020-12-03 00:01:51",
       "album": {
+        "name": "Open House Party Uncut",
+        "url": "https://open.spotify.com/album/7KZIMoRicNne2jsfGkgLZI"
+      },
+      "artists": [
+        {
+          "name": "Open House Party Uncut",
+          "url": "https://open.spotify.com/show/7KZIMoRicNne2jsfGkgLZI"
+        }
+      ],
+      "duration_ms": 1191314,
+      "name": "Sia",
+      "url": "https://open.spotify.com/episode/0zpWG4y9SRHl3j5X3Np1ve"
+    },
+    {
+      "added_at": "2020-12-03 00:01:51",
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -99,6 +115,22 @@
       "duration_ms": 162960,
       "name": "Genius (feat. Sia, Diplo, and Labrinth) - Lil Wayne Remix",
       "url": "https://open.spotify.com/track/4TlbZgqxhJ6uN3tpVyjw90"
+    },
+    {
+      "added_at": "2020-12-03 00:01:51",
+      "album": {
+        "name": "Sodajerker On Songwriting",
+        "url": "https://open.spotify.com/album/4oTBzqC3DHbaKNFq2YXpQw"
+      },
+      "artists": [
+        {
+          "name": "Sodajerker On Songwriting",
+          "url": "https://open.spotify.com/show/4oTBzqC3DHbaKNFq2YXpQw"
+        }
+      ],
+      "duration_ms": 2433255,
+      "name": "Episode 169 - Labrinth",
+      "url": "https://open.spotify.com/episode/3lL5i7YTR0HOG1HRiwVEbS"
     },
     {
       "added_at": "2020-12-03 00:01:51",
@@ -163,6 +195,22 @@
     {
       "added_at": "2020-12-03 00:01:51",
       "album": {
+        "name": "Phil Taggart\u2019s Slacker Podcast",
+        "url": "https://open.spotify.com/album/4JHRWijaDsdLCYje4qx9gb"
+      },
+      "artists": [
+        {
+          "name": "Phil Taggart\u2019s Slacker Podcast",
+          "url": "https://open.spotify.com/show/4JHRWijaDsdLCYje4qx9gb"
+        }
+      ],
+      "duration_ms": 3626880,
+      "name": "Hozier",
+      "url": "https://open.spotify.com/episode/5dW3TfZXgU8h63WZaW8nCz"
+    },
+    {
+      "added_at": "2020-12-03 00:01:51",
+      "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
@@ -179,6 +227,22 @@
     {
       "added_at": "2020-12-03 00:01:51",
       "album": {
+        "name": "Zach Sang Show",
+        "url": "https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL"
+      },
+      "artists": [
+        {
+          "name": "Zach Sang Show",
+          "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        }
+      ],
+      "duration_ms": 2614047,
+      "name": "5 Seconds of Summer Talks \"Easier\", New Sound & Accents",
+      "url": "https://open.spotify.com/episode/7BTSnAisyZZp7PqSq3evZu"
+    },
+    {
+      "added_at": "2020-12-03 00:01:51",
+      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -191,6 +255,22 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+      "added_at": "2020-12-03 00:01:51",
+      "album": {
+        "name": "Why I Hate this Album",
+        "url": "https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s"
+      },
+      "artists": [
+        {
+          "name": "Why I Hate this Album",
+          "url": "https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s"
+        }
+      ],
+      "duration_ms": 5959372,
+      "name": "#89 - Fall Out Boy - Save Rock and Roll",
+      "url": "https://open.spotify.com/episode/2pXm6F4WnIgurYjRs49pUZ"
     },
     {
       "added_at": "2020-12-03 00:01:51",
@@ -223,6 +303,22 @@
       "duration_ms": 333466,
       "name": "What The Water Gave Me",
       "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
+    },
+    {
+      "added_at": "2020-12-03 00:01:51",
+      "album": {
+        "name": "Rhapsody In Reverie",
+        "url": "https://open.spotify.com/album/6HIbdgU4vwViy3LIkITwml"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody In Reverie",
+          "url": "https://open.spotify.com/show/6HIbdgU4vwViy3LIkITwml"
+        }
+      ],
+      "duration_ms": 5968196,
+      "name": "Florence and The Machine: On Her Powerful and Expressive Discography From Lungs to High As Hope",
+      "url": "https://open.spotify.com/episode/5s0uKJ2kRaXuvsaWV0ALNo"
     }
   ],
   "unique_name": "On Record (20)",

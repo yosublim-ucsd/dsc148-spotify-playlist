@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123135,
       "name": "May We Meet Again",
       "url": "https://open.spotify.com/track/094ycsRYKwaMjTXyJlvOGe"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 123135,
       "name": "May We Meet Again",
       "url": "https://open.spotify.com/track/7zn6XN9BFYtjLm730WuDov"
@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Morning Dove",
+        "url": "https://open.spotify.com/album/5dJYBPJ7O6oRlGI8EIwHDl"
+      },
+      "artists": [
+        {
+          "name": "Maxim Slanov",
+          "url": "https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179249,
+      "name": "Morning Dove",
+      "url": "https://open.spotify.com/track/6ms7Xldy08kR3MOcmGa2jS"
+    },
+    {
+      "album": {
         "name": "Morning Drizzle",
         "url": "https://open.spotify.com/album/4XV8y6sM5adZI5gSVmHZ0c"
       },
@@ -942,6 +960,24 @@
     {
       "album": {
         "name": "Piano & Rain",
+        "url": "https://open.spotify.com/album/7B4S2dWJRzmEY94ExgX0kq"
+      },
+      "artists": [
+        {
+          "name": "Piano Peace",
+          "url": "https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157696,
+      "name": "Nice & Cosy",
+      "url": "https://open.spotify.com/track/2xymjBnWOzgUtjBMbq5LCM"
+    },
+    {
+      "album": {
+        "name": "Piano & Rain",
         "url": "https://open.spotify.com/album/1E0c1Av9dZpro9yxfSf8Ha"
       },
       "artists": [
@@ -952,7 +988,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157696,
       "name": "Nice & Cosy",
       "url": "https://open.spotify.com/track/5CzWP6W28noCwI1dT63QTL"
@@ -978,6 +1014,24 @@
     {
       "album": {
         "name": "Night Rain",
+        "url": "https://open.spotify.com/album/06oyD2tmjylPYVG9DZx2BL"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163581,
+      "name": "Night Rain",
+      "url": "https://open.spotify.com/track/4NamR3Sy1mmnHWqSr2QHlQ"
+    },
+    {
+      "album": {
+        "name": "Night Rain",
         "url": "https://open.spotify.com/album/5cQVztFB5SHVpE5ftXoIYo"
       },
       "artists": [
@@ -988,7 +1042,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163581,
       "name": "Night Rain",
       "url": "https://open.spotify.com/track/6sppRP45WJDlOZHnvhBk7k"
@@ -1211,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Rainwaltz (Sarabande no 5)",
+        "url": "https://open.spotify.com/album/4ZmHYU7lAJr1ygK5KXk7Dp"
+      },
+      "artists": [
+        {
+          "name": "Enid Fergus",
+          "url": "https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157624,
+      "name": "Rainwaltz (Sarabande no 5)",
+      "url": "https://open.spotify.com/track/3zfT07rguWfRXdaRFKYsgs"
+    },
+    {
+      "album": {
         "name": "A Cottage in a Storm",
         "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
       },
@@ -1384,7 +1456,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127000,
       "name": "Sparkling Raindrops",
       "url": "https://open.spotify.com/track/5XGEqEZcTEazxrjUKxdmqe"
@@ -1402,7 +1474,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 127000,
       "name": "Sparkling Raindrops",
       "url": "https://open.spotify.com/track/6wa9UyYtc4fzGudPw0l361"
@@ -1464,6 +1536,24 @@
     {
       "album": {
         "name": "take a moment to breathe.",
+        "url": "https://open.spotify.com/album/0toJrr2xW06CSwEut3bbK9"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "take a moment to breathe. - Instrumental",
+      "url": "https://open.spotify.com/track/38aTQ9Zc5HuQKHyUdmewQn"
+    },
+    {
+      "album": {
+        "name": "take a moment to breathe.",
         "url": "https://open.spotify.com/album/22V9tEtQVgB85xG24ozhS3"
       },
       "artists": [
@@ -1474,7 +1564,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218181,
       "name": "take a moment to breathe. - Instrumental",
       "url": "https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1"
@@ -1618,10 +1708,28 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254954,
       "name": "The Sound of Rain",
       "url": "https://open.spotify.com/track/0JdUloeK9xqiorsQPsvugp"
+    },
+    {
+      "album": {
+        "name": "The Sound of Rain",
+        "url": "https://open.spotify.com/album/6b7Vboys7AaxWf6CMtdFD6"
+      },
+      "artists": [
+        {
+          "name": "BigRicePiano",
+          "url": "https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254954,
+      "name": "The Sound of Rain",
+      "url": "https://open.spotify.com/track/1AiLbHCZ7UT89KNjZ56NJH"
     },
     {
       "album": {
@@ -1679,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/3uOCKTrysibG4lRH3QzGrD"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162661,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/0AM2l6llDTVSDPZrZsBNyU"
+    },
+    {
+      "album": {
         "name": "The Long Way Home",
         "url": "https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7"
       },
@@ -1694,6 +1820,24 @@
       "duration_ms": 152000,
       "name": "Through the Clouds",
       "url": "https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu"
+    },
+    {
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/7edx4a6OyN2gtpzInf8867"
+      },
+      "artists": [
+        {
+          "name": "Sofia Marcello",
+          "url": "https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138139,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5"
     },
     {
       "album": {

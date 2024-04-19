@@ -28,7 +28,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 407787,
       "name": "16 Days No Sleep",
       "url": "https://open.spotify.com/track/19uPtGGKYV9SFf168auCmQ"
@@ -58,7 +58,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407787,
       "name": "16 Days No Sleep (feat. Madumane)",
       "url": "https://open.spotify.com/track/3eVCJPQ8AD58kT49QfjYrc"
@@ -154,10 +154,28 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390832,
       "name": "All About You",
       "url": "https://open.spotify.com/track/1xYfsU7m7fdyRhX0BxEtPq"
+    },
+    {
+      "album": {
+        "name": "Far Away From Home",
+        "url": "https://open.spotify.com/album/1mhvj8JNl8A9L2C413NDna"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390832,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/6xCEHAgxH9q4jwpByXXpuj"
     },
     {
       "album": {
@@ -184,7 +202,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 463744,
       "name": "AMA SUPERSTAR",
       "url": "https://open.spotify.com/track/6cwijYehMZidKWoJtCUDK0"
@@ -210,7 +228,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 463744,
       "name": "AMA SUPERSTAR (feat. Ice Beats Slide & 2Kultured)",
       "url": "https://open.spotify.com/track/3UVPSQ5OxNBCqyqhNu06Hy"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 304566,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2dcVfoWSaJC4c8z0GrM3o4"
@@ -400,7 +418,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304566,
       "name": "Casablanca (feat. Tremic Dah Rockstar)",
       "url": "https://open.spotify.com/track/36DTw6wBSwRNYT2AeYKqgh"
@@ -426,7 +444,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 368604,
       "name": "Daze",
       "url": "https://open.spotify.com/track/5VnDOYib64xglb7lwUDZre"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368604,
       "name": "Daze (feat. Unlimited Soul and TNK MusiQ)",
       "url": "https://open.spotify.com/track/7jWAAuM3cAEPQA09HERAF2"
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327416,
       "name": "JAGERMEISTER",
       "url": "https://open.spotify.com/track/3S9FC9B3GExBXy2eIFq1tT"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 327416,
       "name": "JAGERMEISTER",
       "url": "https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 411912,
       "name": "Mene Mene",
       "url": "https://open.spotify.com/track/4LrE6acW8NdoAnoPXwQLe7"
@@ -900,7 +918,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 411912,
       "name": "Mene Mene (feat. Skii)",
       "url": "https://open.spotify.com/track/1qqfU2hwPbiPGwHuVZztFF"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 381298,
       "name": "Nkulunkulu",
       "url": "https://open.spotify.com/track/0RBHBDEbEJiNBOHCUJvc2H"
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381298,
       "name": "Nkulunkulu",
       "url": "https://open.spotify.com/track/3NvHyOT5LrvOgFGckzIo9X"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 527142,
       "name": "Sophia Town",
       "url": "https://open.spotify.com/track/5woz5dvVVf7UC5oUF1bVLH"
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 527142,
       "name": "Sophia Town (feat. Optimist Music ZA, Leandra.Vert, Bongane Sax)",
       "url": "https://open.spotify.com/track/0Il9irtCIKbNLVw6EpL4ZK"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376078,
       "name": "Tanzania (feat. Sino Msolo and Boibizza)",
       "url": "https://open.spotify.com/track/4qm0rzVQA3kqQ0yA7LkuFK"

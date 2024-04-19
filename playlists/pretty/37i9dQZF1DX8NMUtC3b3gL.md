@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,162 likes - 207 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,181 likes - 207 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 187 | [Iced Tea](https://open.spotify.com/track/5tRZ5EMRDkuRiJ49iCzudM) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Iced Tea](https://open.spotify.com/album/1zFOiKmCbekeOWT0n7aNTq) | 1:57 |
 | 188 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 |
 | 189 | [Anywhere But Here](https://open.spotify.com/track/0eHG8d8vt9Od9fGU6mnrCL) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Anywhere But Here](https://open.spotify.com/album/7IKpVNi7hkPwUYP6lAvPnD) | 1:34 |
-| 190 | [Limitless Romance](https://open.spotify.com/track/7H6q2iavCpGfPM7anKkmLl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/51DG6QyIympPsj5KUQQTqh) | 2:25 |
+| 190 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 |
 | 191 | [Nocturn Doubts](https://open.spotify.com/track/5zVTc85gPq1ncILKdK9vXc) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Night Times](https://open.spotify.com/album/7wIa2SC3g2x4YvVzTFO3xd) | 2:18 |
 | 192 | [Ripples to Shore](https://open.spotify.com/track/3hIyjMuHctZZ0e3pcCzNcA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Alone at Dusk](https://open.spotify.com/album/2M24MgxeKXbrPBY1GYppfF) | 2:53 |
 | 193 | [Remain](https://open.spotify.com/track/4bNewDsQMCHz8eYbobTV8o) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Remain](https://open.spotify.com/album/7hC4FhRas3FdiYrQAOGSos) | 2:17 |
@@ -214,6 +214,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 204 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 |
 | 205 | [Fading](https://open.spotify.com/track/1mL3YZ7HjesgGu2RWHacxv) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Fading](https://open.spotify.com/album/3dzs7o0stX20Z105dG4Ffh) | 1:57 |
 | 206 | [Patterns Of Nature](https://open.spotify.com/track/3RjNoeYW7Xfyw72744iEDJ) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Patterns Of Nature](https://open.spotify.com/album/2oq1tmjN0vPEE7xDycGydt) | 2:29 |
-| 207 | [Morning Coffee](https://open.spotify.com/track/2DBuAr9TrVh9Ra2cRMoXGR) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/5FrM4oAMzCxAAsCWYM5mo7) | 2:09 |
+| 207 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
 
 Snapshot ID: `MTcxMTA2NTY2MCwwMDAwMDAwMDZiYTI5MTkzZGM5NDI0MjAzZWM5YzU3NDMyZDEwMDgx`

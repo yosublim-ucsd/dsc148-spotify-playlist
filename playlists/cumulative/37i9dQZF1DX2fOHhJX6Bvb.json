@@ -862,10 +862,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158694,
       "name": "Golden Hour - Piano",
       "url": "https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO"
+    },
+    {
+      "album": {
+        "name": "Golden Hour (Piano)",
+        "url": "https://open.spotify.com/album/7H4URknmYd8Am6pQLtZny6"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158694,
+      "name": "Golden Hour - Piano",
+      "url": "https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7"
     },
     {
       "album": {
@@ -1248,6 +1266,24 @@
     {
       "album": {
         "name": "Lift Me Up (Piano Version)",
+        "url": "https://open.spotify.com/album/3M2wA7kvyghCBHnpLCpXrC"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Lift Me Up - Piano Version",
+      "url": "https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up (Piano Version)",
         "url": "https://open.spotify.com/album/3ZbvHn0IRGGEJiH3CJoggk"
       },
       "artists": [
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148000,
       "name": "Lift Me Up - Piano Version",
       "url": "https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F"

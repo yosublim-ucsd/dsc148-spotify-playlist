@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 531240,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/6i4kz0kfnBYlA0HkU015tk"
@@ -600,10 +600,32 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 531240,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F"
+    },
+    {
+      "album": {
+        "name": "Spirit of Praise 7",
+        "url": "https://open.spotify.com/album/43UYPX4SkCTGFwoJOUO3y6"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331484,
+      "name": "Ekugcineni",
+      "url": "https://open.spotify.com/track/22YCu4JlNER6GS8NvblvoC"
     },
     {
       "album": {
@@ -622,7 +644,7 @@
       ],
       "date_added": "2018-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331484,
       "name": "Ekugcineni - Live",
       "url": "https://open.spotify.com/track/73TDScJYYrLlUBjuve3fQc"
@@ -1372,7 +1394,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 502068,
       "name": "Interlude - Zulu Worship Medley - Live",
       "url": "https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3"
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2018-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 502068,
       "name": "Interlude-Zulu Worship Medley Live",
       "url": "https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7"
@@ -1523,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Another Level Of Worship",
+        "url": "https://open.spotify.com/album/0Efc952Zwr7eco7WyiWoJx"
+      },
+      "artists": [
+        {
+          "name": "Neyi Zimu",
+          "url": "https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341053,
+      "name": "Jehova Retshepile Wena",
+      "url": "https://open.spotify.com/track/3NIngZRxMFF6OX4um51JMB"
+    },
+    {
+      "album": {
         "name": "Another Level of Worship (Live)",
         "url": "https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX"
       },
@@ -1534,7 +1574,7 @@
       ],
       "date_added": "2019-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341053,
       "name": "Jehova Retshepile Wena - Live",
       "url": "https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM"
@@ -1552,7 +1592,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 458013,
       "name": "Jehovah Is Your Name (Live)",
       "url": "https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK"
@@ -1570,7 +1610,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 458083,
       "name": "Jehovah Is Your Name - Live",
       "url": "https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN"
@@ -1823,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "Spirit of Praise 7",
+        "url": "https://open.spotify.com/album/43UYPX4SkCTGFwoJOUO3y6"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Neyi Zimu",
+          "url": "https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407973,
+      "name": "Ke Mang",
+      "url": "https://open.spotify.com/track/5B80shEtKtSVaiHB4yYVxj"
+    },
+    {
+      "album": {
         "name": "Ke Mang",
         "url": "https://open.spotify.com/album/2JBxdERjVMKSQVArIqKTcW"
       },
@@ -1856,7 +1918,7 @@
       ],
       "date_added": "2018-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407973,
       "name": "Ke Mang - Live",
       "url": "https://open.spotify.com/track/4PhX4M2Ahh14sqthX6PSt1"
@@ -2721,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Kulungile Baba Live",
+        "url": "https://open.spotify.com/album/2LrlhOhIwh3ebdqYSbTAuD"
+      },
+      "artists": [
+        {
+          "name": "S'fiso Ncwane",
+          "url": "https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167288,
+      "name": "Ngobekezela - Live",
+      "url": "https://open.spotify.com/track/0GawoSqYLlB2VjTjhAtFC3"
+    },
+    {
+      "album": {
         "name": "Kulungile Baba (Live at Durban ICC RSA)",
         "url": "https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa"
       },
@@ -2732,7 +2812,7 @@
       ],
       "date_added": "2019-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167213,
       "name": "Ngobekezela - Live at Durban ICC RSA",
       "url": "https://open.spotify.com/track/7cbzm3WHC4J30wwQ3BVELA"
@@ -3241,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "The Dawn",
+        "url": "https://open.spotify.com/album/0KgCHkQfHguIXzGqKOfQCl"
+      },
+      "artists": [
+        {
+          "name": "Khaya Mthethwa and The Uprising",
+          "url": "https://open.spotify.com/artist/0cU6Po0FTDOmx5QIHrRPxH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230238,
+      "name": "Settle For Less",
+      "url": "https://open.spotify.com/track/25TbptZWRF48kwfsIe3ou1"
+    },
+    {
+      "album": {
         "name": "The Dawn (Live)",
         "url": "https://open.spotify.com/album/69i6OVB0BEPOaQYf7fn7tl"
       },
@@ -3256,7 +3354,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230238,
       "name": "Settle for Less (Live)",
       "url": "https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4"
@@ -3657,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Atamelang Ho Jehova",
+        "url": "https://open.spotify.com/album/6Z5wKbRXQ4RuqkImPGocXY"
+      },
+      "artists": [
+        {
+          "name": "Teboho Moloi",
+          "url": "https://open.spotify.com/artist/3LmjTfyNxwbzwXJoQkhQp0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464053,
+      "name": "Thina Ngemihla",
+      "url": "https://open.spotify.com/track/1djSYJVcbrePZUcqs97eQi"
+    },
+    {
+      "album": {
         "name": "Atamelang Ho Jehova (Live)",
         "url": "https://open.spotify.com/album/6Jg7TeqC6VyWcvCX9jYJnD"
       },
@@ -3668,7 +3784,7 @@
       ],
       "date_added": "2019-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 464117,
       "name": "Thina Ngemihla (Live)",
       "url": "https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH"
@@ -3704,7 +3820,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 589875,
       "name": "Thixo Wamadinga Ethu (Live)",
       "url": "https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi"
@@ -3722,7 +3838,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 589875,
       "name": "Thixo Wamadinga Ethu (Live)",
       "url": "https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh"
@@ -3744,6 +3860,24 @@
       "duration_ms": 123632,
       "name": "Thula Interlude",
       "url": "https://open.spotify.com/track/7uqfbyDg0dYr2pk8gnj3Gd"
+    },
+    {
+      "album": {
+        "name": "THULA WAZI (NGIKHONA)",
+        "url": "https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv"
+      },
+      "artists": [
+        {
+          "name": "Dan Shaw",
+          "url": "https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "THULA WAZI (NGIKHONA)",
+      "url": "https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq"
     },
     {
       "album": {
@@ -4569,6 +4703,24 @@
     },
     {
       "album": {
+        "name": "Wash'Umlilo",
+        "url": "https://open.spotify.com/album/7uzInEeGb5QkR7u5K6VrI6"
+      },
+      "artists": [
+        {
+          "name": "Bucy Radebe",
+          "url": "https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370365,
+      "name": "Wash'Umlilo",
+      "url": "https://open.spotify.com/track/0GGplcnPYWTfR7a6zSmRLS"
+    },
+    {
+      "album": {
         "name": "Wash'Umlilo (Live)",
         "url": "https://open.spotify.com/album/7ifRrsq1VTtYskZrnZGXyM"
       },
@@ -4580,7 +4732,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 370365,
       "name": "Wash'Umlilo - Live",
       "url": "https://open.spotify.com/track/3ii6csjSvjYGrQhYkR5YNY"
@@ -4748,10 +4900,36 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
+    },
+    {
+      "album": {
+        "name": "Collaborations, Vol. 1",
+        "url": "https://open.spotify.com/album/6FUPRNJO74x0fl6xphVQ3b"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Tshepiso",
+          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406600,
+      "name": "Xa Ndiyekelelwa - Live",
+      "url": "https://open.spotify.com/track/5MDmBimlxmvhDshNiV5fCa"
     },
     {
       "album": {
@@ -4864,7 +5042,7 @@
       ],
       "date_added": "2019-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 508640,
       "name": "Yiwo Lawa Amandla",
       "url": "https://open.spotify.com/track/0TlaxuJDdtZuTnTjgkNzEa"
@@ -4890,7 +5068,7 @@
       ],
       "date_added": "2019-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 508653,
       "name": "Yiwo Lawa Amandla - Live",
       "url": "https://open.spotify.com/track/1mWlPrcAYTvCh6VDMojZzd"
@@ -5086,10 +5264,28 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292911,
       "name": "Ziphozenkosi",
       "url": "https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt"
+    },
+    {
+      "album": {
+        "name": "Ziphozenkosi",
+        "url": "https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti"
+      },
+      "artists": [
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292937,
+      "name": "Ziphozenkosi",
+      "url": "https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww"
     },
     {
       "album": {

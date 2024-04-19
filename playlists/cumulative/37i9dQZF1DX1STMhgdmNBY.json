@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 515933,
       "name": "Ain't It A Shame",
       "url": "https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 311933,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/6wDGgiUZIpC7eCgrSoguie"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 414297,
       "name": "Anyhow",
       "url": "https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226600,
       "name": "As The Years Go Passing By",
       "url": "https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF"
@@ -323,6 +323,40 @@
     },
     {
       "album": {
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/1HJx1bLXzu4CetOBwRTBGl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        },
+        {
+          "name": "Fernando Castillo",
+          "url": "https://open.spotify.com/artist/2JAzPnf84cdFdYfWANS9MK"
+        },
+        {
+          "name": "Carlos Sosa",
+          "url": "https://open.spotify.com/artist/4fm5vfb6UWvswweIFzCOpV"
+        },
+        {
+          "name": "Raul Vallejo",
+          "url": "https://open.spotify.com/artist/4HTiVcjJiFy50IZpGnSt68"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234939,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/1a2A3twwnD5uRMNZj7OBAh"
+    },
+    {
+      "album": {
         "name": "Brownie McGhee and Sonny Terry Sing",
         "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
@@ -370,7 +404,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279840,
       "name": "Blue Jean Blues (2005 Remaster)",
       "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
@@ -518,7 +552,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157266,
       "name": "Drivin' Wheel - Single Version",
       "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
@@ -558,6 +592,24 @@
       "duration_ms": 215333,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
+    },
+    {
+      "album": {
+        "name": "Be Cool",
+        "url": "https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27"
+      },
+      "artists": [
+        {
+          "name": "Willie J. Campbell",
+          "url": "https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273869,
+      "name": "Forever Shall Be",
+      "url": "https://open.spotify.com/track/1APXtCtbg7ssoxpLXy3XWA"
     },
     {
       "album": {
@@ -634,7 +686,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
@@ -822,7 +874,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "I Have No One - Remastered 2022",
       "url": "https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB"
@@ -894,7 +946,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 277733,
       "name": "I Need Some Air",
       "url": "https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a"
@@ -984,7 +1036,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
@@ -1002,7 +1054,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191355,
       "name": "I'm on My Way",
       "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
@@ -1020,10 +1072,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189213,
       "name": "I'm On My Way - Remastered Version",
       "url": "https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO"
+    },
+    {
+      "album": {
+        "name": "I'm Slippin' In (Mono Version)",
+        "url": "https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8"
+      },
+      "artists": [
+        {
+          "name": "Ford Eaglin",
+          "url": "https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173164,
+      "name": "I'm Slippin' In",
+      "url": "https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe"
     },
     {
       "album": {
@@ -1056,7 +1126,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 296613,
       "name": "If Your Heart Needs a Hand",
       "url": "https://open.spotify.com/track/1SX4kL6dSWORIWWGoDWa3p"
@@ -1150,7 +1220,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 351040,
       "name": "Let's Make Loving Great Again",
       "url": "https://open.spotify.com/track/78yb8biX3CkeU3gCP084s7"
@@ -1240,7 +1310,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 616560,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
@@ -1283,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/0y3Oa3xrl3RRgf9T492q6X"
+      },
+      "artists": [
+        {
+          "name": "Justin Lynn",
+          "url": "https://open.spotify.com/artist/59SDz8Aqxagj6epB2uFWbQ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227124,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4zZTJprxXDYv3IYkOvlp0Q"
+    },
+    {
+      "album": {
         "name": "The Country Side Of Esther",
         "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
       },
@@ -1312,7 +1400,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 237680,
       "name": "Plenty Good Room",
       "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
@@ -1366,7 +1454,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189466,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
@@ -1384,7 +1472,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190185,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o"
@@ -1500,7 +1588,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/5L6Yh5jeJeEa50U0Gy11yh"
@@ -1540,7 +1628,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208733,
       "name": "She Caught the Katy and Left Me a Mule to Ride",
       "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
@@ -1558,7 +1646,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208733,
       "name": "She Caught the Katy and Left Me a Mule to Ride",
       "url": "https://open.spotify.com/track/4RZ5Bc5m9rNL6PRNOfbd6V"
@@ -1602,7 +1690,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203226,
       "name": "Sittin' And Cryin' The Blues",
       "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
@@ -1728,7 +1816,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180333,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T"
@@ -1746,7 +1834,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183293,
       "name": "Three O'clock Blues",
       "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
@@ -1836,7 +1924,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270752,
       "name": "Violet Nights",
       "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"

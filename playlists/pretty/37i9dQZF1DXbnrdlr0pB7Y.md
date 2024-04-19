@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,877 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,897 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 49 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 |
 | 50 | [Cuando Te Duermas](https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Cuando Te Duermas](https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT) | 2:42 |
 | 51 | [Vals Poético](https://open.spotify.com/track/10tWEw9BIKxnxm8ftkdNqB) | [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C), [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6) | [Vals Poético](https://open.spotify.com/album/06ubDTSYS4XFZUH3epihYq) | 3:06 |
-| 52 | [Guantanamera](https://open.spotify.com/track/5kuNPTnpZPDInDaGFpuao9) | [Berta Rojas](https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY), [Carlos Barbosa\-Lima](https://open.spotify.com/artist/6hznHFy1sAJBOO6pmOdxV5) | [Alma Y Corazon](https://open.spotify.com/album/1XrxVoDGaMXWF67dDJHJws) | 3:28 |
+| 52 | [Guantanamera](https://open.spotify.com/track/5xcJY6gg4ja8bVdXP612Kr) | [Joseito Fernandez](https://open.spotify.com/artist/3k5yvrU4CBsA1SRBBKxx0O), [Carlos Barbosa Lima & Berta Rojas](https://open.spotify.com/artist/6YCtYyfGIjpsNwT7hmRW15) | [Alma Y Corazon](https://open.spotify.com/album/2AUUHqjY7aWSrmTiGsznSi) | 3:28 |
 | 53 | [Sueño Tropical](https://open.spotify.com/track/1uZaPYYWuG3zwWzbVGNHue) | [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Sueño Tropical](https://open.spotify.com/album/4zhn0fpRxeSeDHeMBfxkDL) | 2:52 |
 | 54 | [Winter Escape](https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 2:49 |
 | 55 | [La Fogata](https://open.spotify.com/track/0lIee3QNGXfs0AVJr29yIo) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [La Fogata](https://open.spotify.com/album/72AEnJLKgvXxsPuVQAWPvi) | 2:32 |

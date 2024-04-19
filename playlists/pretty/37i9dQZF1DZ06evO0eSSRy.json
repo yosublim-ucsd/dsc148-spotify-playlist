@@ -1,12 +1,12 @@
 {
   "description": "This is P\u00c6RISH. The essential tracks, all in one playlist.",
-  "num_followers": 666,
+  "num_followers": 671,
   "original_name": "This Is P\u00c6RISH",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDQ0ZjE5MTBmNjAzYjQ3NDAxYjE5MTZlNDEwYjY0ODU1",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGU1ZmNjMzA3NWMwNmFkNjhkODEyZTk0MTIwZTczMGVh",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 185433,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh"
+      "duration_ms": 243612,
+      "name": "It Only Bothers You",
+      "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 154122,
-      "name": "Sailplane",
-      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/3tvYy58ntsK4Gr3ZPp2fop"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 243612,
-      "name": "It Only Bothers You",
-      "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
+      "duration_ms": 185433,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 211029,
-      "name": "Then People Forget",
-      "url": "https://open.spotify.com/track/3tvYy58ntsK4Gr3ZPp2fop"
+      "duration_ms": 154122,
+      "name": "Sailplane",
+      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
     },
     {
       "added_at": null,

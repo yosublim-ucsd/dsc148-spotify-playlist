@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsJ5BFexrvT.md) - [plain]
 
 > Grab a quick nap for an instant refresher\. Zzzz...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,804 likes - 169 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,876 likes - 169 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsJ5BFexrvT.md) - [plain]
 | 26 | [Remoteness](https://open.spotify.com/track/6dqHEnPLdVZb5Snm7tGjBZ) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Remoteness](https://open.spotify.com/album/7sqCUhzfBBaI0TtIS77C9G) | 2:55 |
 | 27 | [Soft](https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Soft](https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx) | 2:52 |
 | 28 | [Calm Patient](https://open.spotify.com/track/78ZMJYYePMsMltUFFV3X8S) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Calm Patient](https://open.spotify.com/album/4KvtEcKitdJ2xnXhpsagP9) | 3:24 |
-| 29 | [Suavizar El Dolor](https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar El Dolor](https://open.spotify.com/album/1eepNMy4qQaYaKt6zUuc8n) | 2:07 |
+| 29 | [Suavizar el Dolor](https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar el Dolor](https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP) | 2:07 |
 | 30 | [Shaded Cosmos](https://open.spotify.com/track/3uvYdddUFjnlW9ONU4k4eD) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Shaded Cosmos](https://open.spotify.com/album/0GQ0KcLnEwMAAaI3Qf7Von) | 2:32 |
 | 31 | [Tranquilizar el Ser](https://open.spotify.com/track/3HMptEvLblLn7DbyRVaCLw) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z) | [Tranquilizar el Ser](https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O) | 2:07 |
 | 32 | [Inner Nebula](https://open.spotify.com/track/46qoXJqr0QHFTHftO02FNT) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Inner Nebula](https://open.spotify.com/album/7LaKwVWxwMtjsvE7jet7KR) | 2:07 |

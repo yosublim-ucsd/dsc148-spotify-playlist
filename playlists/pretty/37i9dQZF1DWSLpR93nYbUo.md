@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Sterium
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,444 likes - 73 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,451 likes - 73 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 23 | [Take Another One](https://open.spotify.com/track/31Ig4NrUgsQDKbdGNROY45) | [Doche](https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf) | [Take Another One](https://open.spotify.com/album/1HclTpHPkgrg9RWZf13xLP) | 2:45 |
 | 24 | [USER \- Original Mix](https://open.spotify.com/track/4yRl21DdVy0MJdMXOhAg9O) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [USER](https://open.spotify.com/album/3I2Tpmvq74OnufD3JzBpho) | 5:07 |
 | 25 | [Collapse](https://open.spotify.com/track/4tTXKlq8TADdbjkA21YThx) | [ZARO](https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk), [Moonphazes](https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH) | [Collapse](https://open.spotify.com/album/2csn3ac1mcHWk3OBZoJVym) | 3:44 |
-| 26 | [Summer Of Love \- Rework](https://open.spotify.com/track/1PmBNr3lkfQbC8V59Y1vmT) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee), [Victor Ventura \(BR\)](https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU) | [Summer Of Love](https://open.spotify.com/album/5254hbNLICqX71dsjsYR6o) | 3:12 |
+| 26 | [Summer Of Love \- Rework](https://open.spotify.com/track/2uSKAaJBX45hqJCZFCmqXd) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee), [Victor Ventura \(BR\)](https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU) | [Summer Of Love \(Rework\)](https://open.spotify.com/album/6FNS0SPLrODLqFWJM2avIs) | 3:12 |
 | 27 | [Bailalo](https://open.spotify.com/track/7s2Hlm1v8apXqFJo4Gj64t) | [Lamooc](https://open.spotify.com/artist/7Fd7GoXHkgFZWinY7QA5hx) | [Bailalo](https://open.spotify.com/album/2zLL8VkoFe0AOu2Qj6JrTw) | 3:00 |
 | 28 | [You Gonna](https://open.spotify.com/track/62PpvrrCJpHqn1JVIBlLHp) | [The Fish House](https://open.spotify.com/artist/0TXfVIHlCROnWuH89PfnJj) | [You Gonna](https://open.spotify.com/album/6D99pdgHXLkPlQjJn8JDE5) | 2:11 |
 | 29 | [Cupid](https://open.spotify.com/track/2WAkKuNKKCsGc7EOVmgxzP) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Cupid](https://open.spotify.com/album/0H2dpkiKzML5jOkf7fu6ic) | 3:27 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 40 | [City of Lights](https://open.spotify.com/track/3i88BattarCOjHp9floMKS) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [City of Lights](https://open.spotify.com/album/2sbMrM0xT4eKphg68TUNma) | 2:53 |
 | 41 | [NEW YORK LA](https://open.spotify.com/track/6fINXdAMhEHJh9MQaK7mhT) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [NEW YORK LA](https://open.spotify.com/album/6MFKyK1sH7zyWtKEjjjIfx) | 2:54 |
 | 42 | [Falling Down](https://open.spotify.com/track/34p4fCmqhtRLRhmODfibZ4) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Lowdelic](https://open.spotify.com/artist/5Kddhc8aFjVx5Ab2MBCVnD) | [Falling Down](https://open.spotify.com/album/76deBFvpUGQkq3tnZdwHAj) | 3:21 |
-| 43 | [Só Vem](https://open.spotify.com/track/6C0Vwd5dww3W5DLDI0WEAQ) | [R3ckzet](https://open.spotify.com/artist/4Y5Bxlvf5SQO3xtfbt5vrS), [Grace Grey](https://open.spotify.com/artist/4dKpgzFHqM2zSCW6COFAx2) | [Só Vem](https://open.spotify.com/album/3sFs2jpsYxt2c4b9Xr3biP) | 3:02 |
-| 44 | [Everytime](https://open.spotify.com/track/3NFLTwrWOFF5dmJGiYOmFe) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Everytime](https://open.spotify.com/album/3ECI1UlNJ2cMl8TmU82nDZ) | 2:57 |
+| 43 | [Só Vem](https://open.spotify.com/track/64YGPLcahYphHK9rvjFRUq) | [R3ckzet](https://open.spotify.com/artist/4Y5Bxlvf5SQO3xtfbt5vrS), [Grace Grey](https://open.spotify.com/artist/4dKpgzFHqM2zSCW6COFAx2) | [Só Vem](https://open.spotify.com/album/4iH0TS0TCDOqsf3RL6BzlB) | 3:02 |
+| 44 | [Everytime](https://open.spotify.com/track/7eruZzuUHUhxARNWGgqpRb) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Everytime](https://open.spotify.com/album/3xmQFSBsw0RdWGhf8KszOF) | 2:57 |
 | 45 | [Take Me Higher](https://open.spotify.com/track/46llJyW3ZoNwOHmP5rF7u9) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Take Me Higher](https://open.spotify.com/album/7guWqurSqbQVpihJxOScAC) | 2:48 |
 | 46 | [TUCUPI TRIP](https://open.spotify.com/track/6ZIAW5k9yTJZUvL7mbAJKq) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [TUCUPI TRIP](https://open.spotify.com/album/5soWmdPeZdNOxuTLZ1Q2Mo) | 6:16 |
 | 47 | [Every Kind Of Taste](https://open.spotify.com/track/6aurebaNFLgvVlWcCnH2Xs) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Every Kind Of Taste](https://open.spotify.com/album/1UCRHxLBS72U33BjbHaQRb) | 3:02 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 64 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 65 | [Sarrafo](https://open.spotify.com/track/2H7s8MYLIBye3gTSPXuJoQ) | [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Sarrafo](https://open.spotify.com/album/0pvAnzAywZUoTeb6Rr5Bom) | 4:25 |
 | 66 | [Desce](https://open.spotify.com/track/6bTlmguryAksEPZSi40KTY) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Desce](https://open.spotify.com/album/4znhwDlqA9l1Bezbs28IT0) | 2:49 |
-| 67 | [Haunting Me](https://open.spotify.com/track/3OGDGKB1NlZiiU6oJU4l0S) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/6CSYEhL34pO5NLPLRRl8pw) | 4:51 |
+| 67 | [Haunting Me](https://open.spotify.com/track/1rYSTJRgyGCa5Yl1SXC5sR) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/4xRmlHLvoZ2OEISy3SJ7TC) | 4:51 |
 | 68 | [I Need You](https://open.spotify.com/track/37Bz57c2aHf0G1SZSNlyYt) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Adrian Mønteiro](https://open.spotify.com/artist/6ziI5fDvwg8r0QPT0nAT7r) | [I Need You](https://open.spotify.com/album/3WYVqWa7S671phWjQXi3hT) | 3:26 |
 | 69 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
 | 70 | [SUPRA](https://open.spotify.com/track/0scxHDtdgt3k0mQkQW86lE) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Supra](https://open.spotify.com/album/28ERZnx6OhIDz3YZT2dGHF) | 2:43 |

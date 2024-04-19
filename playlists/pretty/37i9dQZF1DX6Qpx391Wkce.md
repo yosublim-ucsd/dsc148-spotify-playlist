@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,955 likes - 57 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,992 likes - 57 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 39 | [Against The Limits \- Rave Mix](https://open.spotify.com/track/7HdR1xMfdxNdLcJKKakcGJ) | [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m) | [Against The Limits EP](https://open.spotify.com/album/7fDwKQdYVHBlmlfNWCDKTx) | 6:28 |
 | 40 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
 | 41 | [Ascesis](https://open.spotify.com/track/6ww44Zlk1tfrcVGgS7Rafm) | [K.A.L.I.L.](https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT) | [Systolic](https://open.spotify.com/album/6IPZXA2MK2AaoYRuQR45I6) | 3:42 |
-| 42 | [Heavy Mental](https://open.spotify.com/track/5WVBKX7vgFzJBGJL0OynIs) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Heavy Mental](https://open.spotify.com/album/0RYoOBzv9RPVv6PW5YlKuG) | 6:15 |
+| 42 | [Heavy Mental](https://open.spotify.com/track/7xC3QWFXihruSUAGg0yV2p) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Heavy Mental](https://open.spotify.com/album/5iRDtxcELPkiRILjzO2wJz) | 6:15 |
 | 43 | [Mirazh](https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Mirazh](https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A) | 3:25 |
 | 44 | [Goliath](https://open.spotify.com/track/4APrFO2JX1Rs1UAFeScbKQ) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Quiet Distortion](https://open.spotify.com/album/2DDFVyjV6IE1EjLjiQaJnz) | 7:26 |
 | 45 | [Generation](https://open.spotify.com/track/5jbxsj3nHkQ84mJTUwSTnm) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Generation](https://open.spotify.com/album/6KrKTifLtFBbfYmlOgrFmo) | 4:01 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 53 | [Riders on the Storm \- Monika Kruse @ Voodooamt Remix](https://open.spotify.com/track/2bAp0GaG7ezv1dNMuy2fZm) | [Tube\-Tech](https://open.spotify.com/artist/1fIC9eSJNmwS8IskOJc6yE), [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Riders on the Storm](https://open.spotify.com/album/7LVeHGsK7dhtEL8sxc0hg7) | 5:20 |
 | 54 | [Cosmic Dance](https://open.spotify.com/track/5QWLpCLmzXy77mmSG8JLL6) | [Eric Sneo](https://open.spotify.com/artist/4YcZ1IyKQ4egHqSNVoZbKT) | [Cosmic Dance](https://open.spotify.com/album/0kBE9hvc9TBv5dfKJ7NAqA) | 7:23 |
 | 55 | [Wasted \- Extended Mix](https://open.spotify.com/track/2d9JcfJczE9MOI4IvoSOul) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Wasted \(Extended Mix\)](https://open.spotify.com/album/3NlvAEJXKcegWczMcSeHTs) | 6:05 |
-| 56 | [The Beat Just Goes Straight on and On](https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight on and On](https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE) | 9:53 |
+| 56 | [The Beat Just Goes Straight On And On](https://open.spotify.com/track/1Y0OHYrteTswnjo72YKUL5) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight On And On](https://open.spotify.com/album/4CUfZ5Ujfctd6HXr65WZtj) | 9:53 |
 | 57 | [Method](https://open.spotify.com/track/5mlGbqK6kYoJOkg8X97bCd) | [Drumsauw](https://open.spotify.com/artist/5PYI7iXojjJqfWoxZrJtBb) | [Crypto EP](https://open.spotify.com/album/2Zf3hzeDAGJNL5xnmSDjoz) | 5:49 |
 
 Snapshot ID: `MTcxMjkxNDcwNiwwMDAwMDAwMGQ1OWE5Y2ZkZGJjMTI5ZTQzODEzMDA5YWNiZWQyN2Jh`

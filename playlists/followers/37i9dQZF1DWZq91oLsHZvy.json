@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 656296,
+  "2024-04-19": 657128,
   "date_first_scraped": "2022-01-24",
   "description": "Let's go! \ud83d\udc5f",
   "name": "Indie Running",
@@ -263,7 +263,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 246426,
       "name": "Balance",
       "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
@@ -1099,6 +1099,24 @@
       "duration_ms": 242000,
       "name": "Come Out",
       "url": "https://open.spotify.com/track/3JkcPEiVQtTfS0rixsJM3e"
+    },
+    {
+      "album": {
+        "name": "Coming Back To Me Good",
+        "url": "https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169568,
+      "name": "Coming Back To Me Good",
+      "url": "https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS"
     },
     {
       "album": {
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 248840,
       "name": "Go It Alone",
       "url": "https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1"

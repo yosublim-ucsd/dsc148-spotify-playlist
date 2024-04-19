@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374280,
+      "name": "I've Had Enough",
+      "url": "https://open.spotify.com/track/2j5BDdYwHfJVPfgzmnD2DF"
+    },
+    {
+      "album": {
         "name": "The Who With Orchestra: Live At Wembley",
         "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
       },
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223453,
       "name": "Is It In My Head?",
       "url": "https://open.spotify.com/track/3y3phapKU02pwqoAhEUIzU"

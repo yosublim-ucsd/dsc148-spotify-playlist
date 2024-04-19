@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/7DRill2AgyTf9LV7uWAK5E) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/717UG2du6utFe7CdmpuUe3) | 0:00 | 2015-04-08 |  |
+| [](https://open.spotify.com/track/7DRill2AgyTf9LV7uWAK5E) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/717UG2du6utFe7CdmpuUe3) | 0:00 | 2015-04-08 |  |
 | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/7jT2PnjzkziqfxhiMgGs5r) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1EmaWIpdBQ1QBUf96EltGQ) | 3:50 | 2015-04-08 |  |
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2015-04-08 |  |
 | [All Hands On Deck REMIX \(feat\. Iggy Azalea\)](https://open.spotify.com/track/5rX9fqEGsHnQeEEsc1Cc3J) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [All Hands On Deck REMIX \(feat\. Iggy Azalea\)](https://open.spotify.com/album/4lP8vfD5YomYnhEvavof6R) | 3:40 | 2015-04-08 |  |

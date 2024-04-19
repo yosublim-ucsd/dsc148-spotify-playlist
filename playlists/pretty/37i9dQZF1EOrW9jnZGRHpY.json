@@ -51,6 +51,22 @@
     {
       "added_at": "2020-11-27 16:36:15",
       "album": {
+        "name": "\u00a1Viva Latino!",
+        "url": "https://open.spotify.com/album/4KipqK7RBwdIhYmqGvCrEu"
+      },
+      "artists": [
+        {
+          "name": "\u00a1Viva Latino!",
+          "url": "https://open.spotify.com/show/4KipqK7RBwdIhYmqGvCrEu"
+        }
+      ],
+      "duration_ms": 1532891,
+      "name": "J Balvin",
+      "url": "https://open.spotify.com/episode/5n1zXQ5aXvmXqxBG6qCFW9"
+    },
+    {
+      "added_at": "2020-11-27 16:36:15",
+      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -67,6 +83,22 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2020-11-27 16:36:15",
+      "album": {
+        "name": "Switched on Pop",
+        "url": "https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J"
+      },
+      "artists": [
+        {
+          "name": "Switched on Pop",
+          "url": "https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J"
+        }
+      ],
+      "duration_ms": 2465149,
+      "name": "Drake vs Drake",
+      "url": "https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO"
     },
     {
       "added_at": "2020-11-27 16:36:15",
@@ -115,6 +147,22 @@
     {
       "added_at": "2020-11-27 16:36:15",
       "album": {
+        "name": "The Sample",
+        "url": "https://open.spotify.com/album/33QZUMjL7CgttNWL1gs3or"
+      },
+      "artists": [
+        {
+          "name": "The Sample",
+          "url": "https://open.spotify.com/show/33QZUMjL7CgttNWL1gs3or"
+        }
+      ],
+      "duration_ms": 693054,
+      "name": "EP2 | Chris Brown - \"Undecided\"",
+      "url": "https://open.spotify.com/episode/7twhRsJY0x8wupCXm0lOoe"
+    },
+    {
+      "added_at": "2020-11-27 16:36:15",
+      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
       },
@@ -143,6 +191,22 @@
       "duration_ms": 200197,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+    },
+    {
+      "added_at": "2020-11-27 16:36:15",
+      "album": {
+        "name": "ON With Mario Interviews",
+        "url": "https://open.spotify.com/album/0yU4kEIGRodx3sgK99xnJz"
+      },
+      "artists": [
+        {
+          "name": "ON With Mario Interviews",
+          "url": "https://open.spotify.com/show/0yU4kEIGRodx3sgK99xnJz"
+        }
+      ],
+      "duration_ms": 652460,
+      "name": "Maluma",
+      "url": "https://open.spotify.com/episode/4xKVzMDp62c55myti88M0Y"
     },
     {
       "added_at": "2020-11-27 16:36:15",
@@ -203,6 +267,22 @@
     {
       "added_at": "2020-11-27 16:36:15",
       "album": {
+        "name": "\u00a1Viva Latino!",
+        "url": "https://open.spotify.com/album/4KipqK7RBwdIhYmqGvCrEu"
+      },
+      "artists": [
+        {
+          "name": "\u00a1Viva Latino!",
+          "url": "https://open.spotify.com/show/4KipqK7RBwdIhYmqGvCrEu"
+        }
+      ],
+      "duration_ms": 1700963,
+      "name": "Daddy Yankee",
+      "url": "https://open.spotify.com/episode/1TgpbmpVIeOsxRCneVwwih"
+    },
+    {
+      "added_at": "2020-11-27 16:36:15",
+      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -219,6 +299,22 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "added_at": "2020-11-27 16:36:15",
+      "album": {
+        "name": "Drink Champs",
+        "url": "https://open.spotify.com/album/1CtRqrNGqpAttWyft6nVss"
+      },
+      "artists": [
+        {
+          "name": "Drink Champs",
+          "url": "https://open.spotify.com/show/1CtRqrNGqpAttWyft6nVss"
+        }
+      ],
+      "duration_ms": 7373296,
+      "name": "Episode 224 w/ Nicky Jam",
+      "url": "https://open.spotify.com/episode/6cANYTP9oPaYNyTLVqIHvx"
     }
   ],
   "unique_name": "On Record (11)",

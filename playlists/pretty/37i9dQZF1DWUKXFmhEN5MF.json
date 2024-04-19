@@ -1,6 +1,6 @@
 {
   "description": "Songs to make your Zumba workout extra fun.",
-  "num_followers": 52798,
+  "num_followers": 52804,
   "original_name": "Bollywood Zumba",
   "owner": {
     "name": "Spotify",
@@ -258,10 +258,6 @@
         {
           "name": "Kedrock",
           "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
-        },
-        {
-          "name": "Sd Style",
-          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
         }
       ],
       "duration_ms": 4907695,
@@ -926,10 +922,6 @@
         {
           "name": "Kedrock",
           "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
-        },
-        {
-          "name": "Sd Style",
-          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
         }
       ],
       "duration_ms": 2073335,
@@ -1091,8 +1083,8 @@
     {
       "added_at": "2023-11-09 10:08:13",
       "album": {
-        "name": "Cocktail (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w"
+        "name": "Cocktail",
+        "url": "https://open.spotify.com/album/6Wu6m82JvVQvsa3kRhRebR"
       },
       "artists": [
         {
@@ -1102,15 +1094,11 @@
         {
           "name": "Kavita Seth",
           "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
-      "duration_ms": 283693,
-      "name": "Tum Hi Ho Bandhu",
-      "url": "https://open.spotify.com/track/7H3mfOvtPNA8YDF3EdKy0L"
+      "duration_ms": 282012,
+      "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
+      "url": "https://open.spotify.com/track/4pE05HNzmVFGpCOfNKE3w6"
     },
     {
       "added_at": "2023-11-09 10:08:13",
@@ -1470,18 +1458,6 @@
         {
           "name": "Bombay Rockers",
           "url": "https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Kedrock",
-          "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
-        },
-        {
-          "name": "Sd Style",
-          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
         }
       ],
       "duration_ms": 3600628,

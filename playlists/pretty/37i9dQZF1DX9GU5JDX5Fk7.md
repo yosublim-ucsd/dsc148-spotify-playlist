@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain]
 
 > Enjoy the soundtrack of the drama 'Reborn Rich'! This playlist contains 10 songs to listen to to get revenge on the person/world that gave you a hard time selected by the actors\. \(드라마 '재벌집 막내아들'의 사운드 트랙을 감상해보세요! 본 플레이리스트에는 배우진들이 선정한 '날 힘들게 한 사람/세상에게 복수하기 위해 들어야 할 노래 10 곡'이 포함되어 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,665 likes - 22 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,672 likes - 22 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain]
 | 11 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 |
 | 12 | [A SOLITARY MAN](https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [A SOLITARY MAN](https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P) | 3:07 |
 | 13 | [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 |
-| 14 | [last day](https://open.spotify.com/track/5ggGYQI6V2DS9Ypp6cxdNA) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Unwanted Life](https://open.spotify.com/album/11x4FGSAiqX5TzygrmBHMy) | 2:09 |
+| 14 | [last day](https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Unwanted Life](https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r) | 2:09 |
 | 15 | [thirst](https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 2:37 |
 | 16 | [School Record](https://open.spotify.com/track/7c7QIaIQIrdLl7vkMm3Omz) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [School Record](https://open.spotify.com/album/41rrPPixjiz6RbmCuExVh3) | 3:29 |
 | 17 | [Cross The Street](https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 4:00 |

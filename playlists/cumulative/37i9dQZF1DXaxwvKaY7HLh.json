@@ -674,10 +674,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234306,
       "name": "El Tiempo De Ti (Version 08)",
       "url": "https://open.spotify.com/track/3dHnaxm2aQKlnlGM5EaJbN"
+    },
+    {
+      "album": {
+        "name": "Canciones De Hotel",
+        "url": "https://open.spotify.com/album/2SNwGCRxtWiN4B0EHl6FxE"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "El Tiempo De Ti (Version 08)",
+      "url": "https://open.spotify.com/track/3ybqYV99Urwvs6YZKqyqzm"
     },
     {
       "album": {
@@ -891,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Hay Un Cuerpo Tirado En La Calle",
+        "url": "https://open.spotify.com/album/3rsyIoOTciEVvMKDnj77Fv"
+      },
+      "artists": [
+        {
+          "name": "Franny Glass",
+          "url": "https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171794,
+      "name": "Hoy No Quiero Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/5QuzLVxFcvHCtP1UOIO4v6"
+    },
+    {
+      "album": {
         "name": "Hay un Cuerpo Tirado en la Calle",
         "url": "https://open.spotify.com/album/5JGM9jsek7zlpSt0i7yU0q"
       },
@@ -902,7 +938,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171859,
       "name": "Hoy No Quiero Verte Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/3pLLAEk2F3LXtl6GAUT8Jh"
@@ -1330,7 +1366,7 @@
     {
       "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
       "artists": [
         {
@@ -1341,6 +1377,24 @@
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Me cuesta tanto olvidarte",
+      "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
+    },
+    {
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 174946,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"

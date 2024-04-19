@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233906,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
+    },
+    {
+      "album": {
         "name": "Trance Top 1000 (Ibiza Anthems Mini Mix)",
         "url": "https://open.spotify.com/album/3q2xAPNvEuLEyFGXFT6eGu"
       },
@@ -223,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Fitness Beats 2013",
+        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
+      },
+      "artists": [
+        {
+          "name": "William Orbit",
+          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220565,
+      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
+      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
+    },
+    {
+      "album": {
         "name": "Beachball",
         "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
       },
@@ -234,10 +274,32 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234160,
       "name": "Beachball - Vocal Radio Edit",
       "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
+    },
+    {
+      "album": {
+        "name": "Trance Top 1000 - The Pioneers",
+        "url": "https://open.spotify.com/album/12V7wbO3PZyHjcBymYzjTg"
+      },
+      "artists": [
+        {
+          "name": "Matt Darey",
+          "url": "https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S"
+        },
+        {
+          "name": "Marcella Woods",
+          "url": "https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5loz2QJNexqwK2jqEn1RF2"
     },
     {
       "album": {
@@ -274,7 +336,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194560,
       "name": "Bellissima - Radio Edit",
       "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
@@ -458,7 +520,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190413,
       "name": "Bullet In the Gun 2000 - Radio Mix",
       "url": "https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty"
@@ -568,7 +630,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
       "url": "https://open.spotify.com/track/2w9Yfj0FcyKcPCIkzsRSwD"
@@ -590,7 +652,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
       "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
@@ -710,7 +772,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
@@ -757,6 +819,28 @@
     },
     {
       "album": {
+        "name": "The World Of Trance (40 Biggest Trance Hits Ever) - Armada Music",
+        "url": "https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR"
+      },
+      "artists": [
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199719,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/1ZLjrNoJWPvfMb7grtSNVf"
+    },
+    {
+      "album": {
         "name": "Coming On Strong (ReOrder Remix)",
         "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
       },
@@ -772,7 +856,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199719,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
@@ -856,7 +940,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235024,
       "name": "Concrete Angel - Radio Edit",
       "url": "https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL"
@@ -874,7 +958,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257760,
       "name": "Cry",
       "url": "https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz"
@@ -914,7 +998,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 220173,
       "name": "Diving Faces - Radio Cut",
       "url": "https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU"
@@ -1106,7 +1190,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249022,
       "name": "Everytime - Nalin & Kane Mix",
       "url": "https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU"
@@ -1364,7 +1448,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233243,
       "name": "For An Angel - PVD Angel In Heaven Radio Edit",
       "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
@@ -1586,7 +1670,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 215480,
       "name": "Happiness Happening - Lange Remix",
       "url": "https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5"
@@ -1798,10 +1882,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215640,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
+    },
+    {
+      "album": {
+        "name": "One For The Lad's",
+        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
     },
     {
       "album": {
@@ -1816,7 +1918,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203440,
       "name": "Komodo (Radio Edit)",
       "url": "https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ"
@@ -2192,7 +2294,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208933,
       "name": "Nessaja",
       "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
@@ -2370,7 +2472,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 233160,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
@@ -2388,7 +2490,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234186,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/7fIfO8fZ55Eq5qtd5vCd6z"
@@ -2424,7 +2526,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200333,
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "url": "https://open.spotify.com/track/71cEGt2SrA5toSCCTVpLMU"
@@ -2504,10 +2606,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 236521,
       "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
       "url": "https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2"
+    },
+    {
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Maire Brennan",
+          "url": "https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS"
     },
     {
       "album": {
@@ -2526,7 +2650,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202533,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
@@ -2596,6 +2720,28 @@
       "duration_ms": 209653,
       "name": "Satellite - Above & Beyond Mix (Edit)",
       "url": "https://open.spotify.com/track/05vDouhgLfm8cZgwISi2cR"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "OceanLab",
+          "url": "https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209653,
+      "name": "Satellite - Above & Beyond Mix (Edit)",
+      "url": "https://open.spotify.com/track/29xhHp7I079jDveVcoShIk"
     },
     {
       "album": {
@@ -2868,7 +3014,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 685640,
       "name": "Silence - DJ Ti\u00ebsto's In Search Of Sunrise Remix",
       "url": "https://open.spotify.com/track/0CB7J9QsvEqmD0MY1plRsh"
@@ -2956,6 +3102,28 @@
       "duration_ms": 220973,
       "name": "Something",
       "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+    },
+    {
+      "album": {
+        "name": "Southern Sun / Ready Steady Go",
+        "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Carla Werner",
+          "url": "https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu"
     },
     {
       "album": {
@@ -3229,6 +3397,28 @@
     },
     {
       "album": {
+        "name": "Synaesthesia (Fly Away)",
+        "url": "https://open.spotify.com/album/5VsjT0u49R46HG9kSYsHMz"
+      },
+      "artists": [
+        {
+          "name": "The Thrillseekers",
+          "url": "https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5"
+        },
+        {
+          "name": "Sheryl Deane",
+          "url": "https://open.spotify.com/artist/7dVxjwH88uQMmN69MD61Fa"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229973,
+      "name": "Synaesthesia (Fly Away)",
+      "url": "https://open.spotify.com/track/5QdgpcfAw8EbsupH0B6BpI"
+    },
+    {
+      "album": {
         "name": "Synaesthesia",
         "url": "https://open.spotify.com/album/40FjILzRvfgSP8Y70c5G6j"
       },
@@ -3345,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "Brave New World (The Opera Song)",
+        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "CMC",
+          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212658,
+      "name": "The Opera Song (Brave New World)",
+      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
+    },
+    {
+      "album": {
         "name": "The Silmarillia Remixes",
         "url": "https://open.spotify.com/album/2YBYrISVU6Zw19oIjpO2PK"
       },
@@ -3426,7 +3638,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 187343,
       "name": "The Theme",
       "url": "https://open.spotify.com/track/2VW6HO7fSA4dkbGgG1xkdn"
@@ -3684,7 +3896,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
@@ -3800,7 +4012,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 226673,
       "name": "We Control The Sunlight",
       "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
@@ -3874,6 +4086,24 @@
       "duration_ms": 189333,
       "name": "What Ya Got 4 Me - Vocal Mix",
       "url": "https://open.spotify.com/track/2mMk6O2R0gpasYAe7nm5pK"
+    },
+    {
+      "album": {
+        "name": "The Xpander E.P.",
+        "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Xpander - Edit",
+      "url": "https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf"
     },
     {
       "album": {

@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236402,
       "name": "All I Want - Edit",
       "url": "https://open.spotify.com/track/2OW3gzlWWNloHuFSXV9xWH"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 175748,
       "name": "Better Take That",
       "url": "https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261160,
       "name": "Brazilian Love Song - Jengi Remix",
       "url": "https://open.spotify.com/track/2tnyg4zVfxjkKPgTBPBTiM"
@@ -2225,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Fallin Luv",
+        "url": "https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Jeria",
+          "url": "https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Fallin Luv",
+      "url": "https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c"
+    },
+    {
+      "album": {
         "name": "Feel My Needs",
         "url": "https://open.spotify.com/album/1DhXzsPrJjFpwOKRPV2Hpu"
       },
@@ -3100,7 +3122,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173452,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i"
@@ -3430,6 +3452,32 @@
       "duration_ms": 286408,
       "name": "How U Do It",
       "url": "https://open.spotify.com/track/7dl5jIAxtO0Ix0e40PcjfJ"
+    },
+    {
+      "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     },
     {
       "album": {
@@ -5284,7 +5332,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328356,
       "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
       "url": "https://open.spotify.com/track/5uMgU0XdqAC0244xdQpJEb"
@@ -5516,7 +5564,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234285,
       "name": "Nu World - Solomun Remix",
       "url": "https://open.spotify.com/track/4AcPaPKQzv8bnfRMwuQXTK"
@@ -5782,6 +5830,28 @@
       "duration_ms": 172384,
       "name": "OOH",
       "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
+    },
+    {
+      "album": {
+        "name": "Opened Up My Soul",
+        "url": "https://open.spotify.com/album/3HlS6pRxpCD6PoLvTsJ2Lu"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140059,
+      "name": "Opened Up My Soul",
+      "url": "https://open.spotify.com/track/5ECDg47YFFUqFbyhoQdLtV"
     },
     {
       "album": {
@@ -6286,7 +6356,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269666,
       "name": "Red Alert - Grant Nelson Remix - Edit",
       "url": "https://open.spotify.com/track/0PxaHHLDDpla6C8qS0Yhjk"
@@ -7252,7 +7322,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 350443,
       "name": "Strobe Queen - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/2S5MuGkMZl3KmBa1PCqFqP"
@@ -7452,7 +7522,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 160379,
       "name": "Take You High",
       "url": "https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK"
@@ -7546,7 +7616,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233346,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB"
@@ -7564,7 +7634,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 233346,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"
@@ -8408,7 +8478,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 181935,
       "name": "We Groovin",
       "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
@@ -8430,7 +8500,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181935,
       "name": "We Groovin (with Jazzy)",
       "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"

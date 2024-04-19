@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 259308,
       "name": "Ain't The First Time",
       "url": "https://open.spotify.com/track/419M0Xn4BGRb7iF9bvkUay"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260105,
       "name": "Ain't The First Time",
       "url": "https://open.spotify.com/track/2kOfFQYXdYqave7rKo5hvh"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195200,
       "name": "BEST SHE'S EVER SEEN",
       "url": "https://open.spotify.com/track/6cWGUbR0kYBp1AvPNo64zV"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 135719,
       "name": "Don't",
       "url": "https://open.spotify.com/track/7HlywI6BHiSqaGW6s9AMc2"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157465,
       "name": "Fables",
       "url": "https://open.spotify.com/track/794TOghUvz5JLRJlLeTpGA"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 180307,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/0Cgc9eDY9ce3KBdAQMBEbt"
@@ -1424,10 +1424,28 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157161,
       "name": "Pa Ti",
       "url": "https://open.spotify.com/track/0AOJ5APhQCmpXetxUgQn3v"
+    },
+    {
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/4wmmHX8xeBY61kcbuO2rfT"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157161,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/4Y7v3cUCoiuj50tSUeeJZr"
     },
     {
       "album": {
@@ -1675,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/7wj9yrMVycNokTWexkX6sN"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202469,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/07noXC0scx7ERiMaokPm58"
+    },
+    {
+      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202469,
       "name": "Tears",
       "url": "https://open.spotify.com/track/3NVHPKmlswVXe6I0neLHkC"
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 233774,
       "name": "Tell Your Heart To Beat Again",
       "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233774,
       "name": "Tell Your Heart To Beat Again",
       "url": "https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA"
@@ -1940,7 +1976,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 179954,
       "name": "Why",
       "url": "https://open.spotify.com/track/2BEk1FVrYVPicOo4rLzpfm"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224000,
       "name": "Why Am I Not Yours",
       "url": "https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 
 > Gospel songs you grew up listening to
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,272 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,286 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 12 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 |
 | 13 | [Taunet Nelel](https://open.spotify.com/track/4v9KNIuUReOJpix2zIPKMh) | [Emmy Kosgei](https://open.spotify.com/artist/22IUTWiY0oxVdFX4vOEYLu) | [Taunet Nelel](https://open.spotify.com/album/7uwR6IIekSRq37cBIs3cmd) | 3:50 |
 | 14 | [Hurutira](https://open.spotify.com/track/3E4FGMYEelW9vYjkDqUHIv) | [Njuguna Gicheha](https://open.spotify.com/artist/2KGk1iowAiU7Kvz5tVNaQI) | [Hurutira](https://open.spotify.com/album/69wyEyTLd1xEMowFNjtLQr) | 5:32 |
-| 15 | [Milele](https://open.spotify.com/track/0izibEkKOx2qNGDG7lgnqL) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Milele](https://open.spotify.com/album/5k9fzwZwsO1ktiflkMQoDX) | 4:14 |
+| 15 | [Milele](https://open.spotify.com/track/4Zt7e0XX2UM7GfOVK95m56) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Milele](https://open.spotify.com/album/5fmpQXoRQ3OHUT77xItVH6) | 4:14 |
 | 16 | [Watoto Inkane](https://open.spotify.com/track/2hK5cYroLTHhzp2X38wIDp) | [Ambasada](https://open.spotify.com/artist/0NVrN0IXwyTJ4paY5EwB9j), [Grace Nyumbani Children](https://open.spotify.com/artist/0NhZVoEUoBhMm90p72rsTf) | [Watoto Inkane](https://open.spotify.com/album/4qgJIyTBAVMIfAzAP9X5JR) | 4:07 |
 | 17 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 |
 | 18 | [Saluti](https://open.spotify.com/track/5Gy9NQKWeXwvJ6vx3g6MSq) | [Emmy Kosgei](https://open.spotify.com/artist/22IUTWiY0oxVdFX4vOEYLu) | [Ololo](https://open.spotify.com/album/3Pe2cSUz5CXCMrrqX9EanW) | 4:38 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 49 | [Hafungi Macho](https://open.spotify.com/track/6oNIEp0Y8VpKoDbInOz6hP) | [Willy](https://open.spotify.com/artist/6CQWAijGt7Jrsq989jrIiU), [Daddy Owen, Danco](https://open.spotify.com/artist/7jy14TpPZamZmOXgFJVsl0) | [Moto Bila Moshi](https://open.spotify.com/album/19hhff1rO2V4hozszJ6e1n) | 4:38 |
 | 50 | [Wi Muthaka](https://open.spotify.com/track/5JjXWfkTAijBjoUJQ7Lwkv) | [Ruth Wamuyu](https://open.spotify.com/artist/79ArlctP6JAe3ek0O30jjz) | [Shammah](https://open.spotify.com/album/5PAvEq9EvsFaecJ1xydeb7) | 4:37 |
 | 51 | [Malebo](https://open.spotify.com/track/3ckHAuda9YAL0AthcSc29r) | [Pst\. Faustin S\. Munishi](https://open.spotify.com/artist/2pgd8AuBUu2RUVqsNvupPz) | [Namlilia Malebo, Vol\. 6](https://open.spotify.com/album/35Cx5vdLH64zK1WZnGqoqa) | 6:13 |
-| 52 | [Nginyukagia](https://open.spotify.com/track/5Dvqpwdf3h0w6dHJpRQyyR) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/5WTxbTRnjjKG5g1kDEtXD2) | 4:28 |
+| 52 | [Nginyukagia](https://open.spotify.com/track/72OaHdvpG5XVH4G0zhIJIQ) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/27eSrqz3T0Z6U4tg2tNM5K) | 4:28 |
 | 53 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
 | 54 | [Tobina](https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Tobina](https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp) | 3:51 |
 | 55 | [Ombi Langu Kwa Mungu](https://open.spotify.com/track/5p5AlkP9uCSb0StIgcBA9f) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Ombi Langu Kwa Mungu](https://open.spotify.com/album/4HpdzfRrDZHh7be6X12e59) | 9:10 |

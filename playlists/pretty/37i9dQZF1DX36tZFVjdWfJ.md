@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36tZFVjdWfJ.md) - [plain]
 
 > Listen to the music from and inspired by Priscilla, curated by Sofia Coppola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,260 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,285 likes - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36tZFVjdWfJ.md) - [plain]
 | 2 | [Venus](https://open.spotify.com/track/6KHEgLNJn7SDvUEF2FZPS0) | [Frankie Avalon](https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 2:22 |
 | 3 | [Crimson & Clover](https://open.spotify.com/track/4etbBw63TpkWowL8OBxyd7) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 3:28 |
 | 4 | [My Elixir](https://open.spotify.com/track/5ShoQtH1YaLSmtE5STXspw) | [Sons of Raphael](https://open.spotify.com/artist/1stGFX6w6VMHQPDPlBqX74) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 3:49 |
-| 5 | [In and out of the Shadows](https://open.spotify.com/track/5nyeOQbEyAg3PBkTDBOeqq) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 4:18 |
+| 5 | [In and out of the Shadows](https://open.spotify.com/track/1oAqkNd2VjS435uds7U9Ez) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be with You / Streetheart](https://open.spotify.com/album/6TkmkfaLuRjdXIdGGOCGj6) | 4:18 |
 | 6 | [Baby, I Love You](https://open.spotify.com/track/6omsa7qVNvOlggj4CNZ47v) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 3:45 |
 | 7 | [Sweet Dreams](https://open.spotify.com/track/2DH8FH5UPYUGiXztxSazgU) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Almost Blue](https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w) | 2:58 |
 | 8 | [Rippling Waters](https://open.spotify.com/track/6iZS7CX9F2TiTuTEXwOvE2) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Priscilla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68KMSWZumigzfszTy87ESB) | 2:45 |

@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245226,
       "name": "Becoming Me",
       "url": "https://open.spotify.com/track/4UIKecHJRFBtOg3FjHPbrO"
@@ -230,10 +230,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213080,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3hN8RetXNOyDVhxGdkFlqA"
+    },
+    {
+      "album": {
+        "name": "Everything Is Changing",
+        "url": "https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
     },
     {
       "album": {
@@ -328,6 +346,24 @@
     {
       "album": {
         "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik"
+      },
+      "artists": [
+        {
+          "name": "Hawk Nelson",
+          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Drops In the Ocean",
+      "url": "https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
         "url": "https://open.spotify.com/album/6H9N73NXBNugcz4FevMxlC"
       },
       "artists": [
@@ -338,7 +374,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201733,
       "name": "Drops in the Ocean",
       "url": "https://open.spotify.com/track/6CeoTeUhMFHKoKeQkRrhaU"
@@ -374,7 +410,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183413,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/23rnAadbz4rxHZNEZoW1Ao"
@@ -396,6 +432,24 @@
       "duration_ms": 183413,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/61kZS3it3T3LyrcesmlH82"
+    },
+    {
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/1ICW4kWyWvw5ekrwul18gP"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Murray",
+          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/7oZqpToODghmQtvmzmyfQK"
     },
     {
       "album": {
@@ -526,6 +580,24 @@
     {
       "album": {
         "name": "Lifer",
+        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Hello Beautiful",
+      "url": "https://open.spotify.com/track/1Hihvr3uI8WatnTKp1Rhqn"
+    },
+    {
+      "album": {
+        "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
       "artists": [
@@ -536,7 +608,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199053,
       "name": "Hello Beautiful",
       "url": "https://open.spotify.com/track/1l8lZRPPZHthXeyZHaujqe"
@@ -594,10 +666,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259293,
       "name": "How Can It Be",
       "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "album": {
@@ -742,7 +832,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202533,
       "name": "Jesus & You",
       "url": "https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ"
@@ -872,10 +962,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199584,
       "name": "Love Lifting Me",
       "url": "https://open.spotify.com/track/4O8TOAWNMGrvpY3bn0SO3y"
+    },
+    {
+      "album": {
+        "name": "Love Lifting Me",
+        "url": "https://open.spotify.com/album/2dEwQ85Ja103sCcpxn7L6q"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199584,
+      "name": "Love Lifting Me",
+      "url": "https://open.spotify.com/track/5L6cqpkpql7sePP3pDJdoh"
     },
     {
       "album": {
@@ -944,7 +1052,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253923,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/00Zvm8IilIwqYi44SLincr"
@@ -962,7 +1070,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 253923,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/6AFOYvjA9cJMzta9PZK0eK"
@@ -998,7 +1106,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 233087,
       "name": "mama's boy",
       "url": "https://open.spotify.com/track/76BMsbr1S4tX3pagMY6zpr"
@@ -1056,7 +1164,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 291926,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/0llRpbgcHZ9Ig5F105manW"
@@ -1092,7 +1200,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Momma Kinda Lovin",
       "url": "https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1"
@@ -1182,7 +1290,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 221732,
       "name": "O God Our Mother",
       "url": "https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm"
@@ -1351,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Spend a Life",
+        "url": "https://open.spotify.com/album/6XG1TDdfiazkWqS18lGgg8"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207901,
+      "name": "Spend a Life",
+      "url": "https://open.spotify.com/track/5nHI8nKWPcuLvhdg50Y0ey"
+    },
+    {
+      "album": {
         "name": "Perspectives",
         "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
       },
@@ -1362,7 +1488,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208325,
       "name": "Spend a Life",
       "url": "https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7"
@@ -1445,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Hope in Front of Me",
+        "url": "https://open.spotify.com/album/7fY3WG6Ae45UiPbFYPDYCX"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233774,
+      "name": "Tell Your Heart to Beat Again",
+      "url": "https://open.spotify.com/track/5aTnHLb3N64yshgD8i5Emn"
+    },
+    {
+      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
       },
@@ -1456,7 +1600,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233774,
       "name": "Tell Your Heart To Beat Again",
       "url": "https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA"
@@ -1500,6 +1644,24 @@
     {
       "album": {
         "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
       "artists": [
@@ -1510,7 +1672,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211600,
       "name": "Trust in You",
       "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
@@ -1564,7 +1726,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195280,
       "name": "Watch You Be a Mother",
       "url": "https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV"
@@ -1746,6 +1908,28 @@
     {
       "album": {
         "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/6wuUosaTZizPH4t085tNVg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/345RHjiEdIVedsxtiwGG7t"
+    },
+    {
+      "album": {
+        "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
       },
       "artists": [
@@ -1760,7 +1944,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 366160,
       "name": "You Make Me Brave - Live",
       "url": "https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ"
@@ -1778,7 +1962,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"

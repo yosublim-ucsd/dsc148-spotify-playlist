@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243618,
       "name": "Bottle of Rum",
       "url": "https://open.spotify.com/track/4k8U68hROtiZyiKxdfrUyj"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 243618,
       "name": "Bottle of Rum",
       "url": "https://open.spotify.com/track/7nwiWG62G7ih8V9yAxuOSR"
@@ -1070,10 +1070,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251533,
       "name": "Dushi",
       "url": "https://open.spotify.com/track/1KIdcuwkC2ZE8EZLwnk66E"
+    },
+    {
+      "album": {
+        "name": "Influenced - The Good And Badd In Me",
+        "url": "https://open.spotify.com/album/2lRdnUdtWBQfTD4aF75mvB"
+      },
+      "artists": [
+        {
+          "name": "Edwin Yearwood",
+          "url": "https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "Dushi",
+      "url": "https://open.spotify.com/track/525tL11Zsp9qMRIPCOoX01"
     },
     {
       "album": {
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 218689,
       "name": "Epic",
       "url": "https://open.spotify.com/track/0FgZq5lsz1LU9WOErYPkJs"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218689,
       "name": "Epic",
       "url": "https://open.spotify.com/track/23yay5jEuXDX2FslLUqz35"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260972,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/274ak6JcZTcX3lT7W9bZjK"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 260973,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/6Em6PEG03s2qGhz9KbR7Wu"
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189657,
       "name": "Like Ah Boss",
       "url": "https://open.spotify.com/track/08uIpFwr0W4XuoJqR7uuQa"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 189657,
       "name": "Like Ah Boss",
       "url": "https://open.spotify.com/track/6yauoDrUUPOaLTMwycTomd"
@@ -3108,14 +3126,14 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230823,
       "name": "Mr. Fete",
       "url": "https://open.spotify.com/track/4m8vRm7j9mt7eGb8baKt37"
     },
     {
       "album": {
-        "name": "Mr. Fete - Single",
+        "name": "Mr. Fete",
         "url": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
       },
       "artists": [
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 231050,
       "name": "Mr. Fete",
       "url": "https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5"
@@ -4310,7 +4328,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225748,
       "name": "The Fog",
       "url": "https://open.spotify.com/track/5MhE9FciAXHz8QSgJLUAJb"
@@ -4328,7 +4346,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 225748,
       "name": "The Fog",
       "url": "https://open.spotify.com/track/5SKbOc7r1goCQPFXaEGJ5H"
@@ -4812,7 +4830,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217173,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/5Y9JDz8MZDfjlwq0uTuqrV"
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 216947,
       "name": "Unforgettable (Soca 2016 Trinidad and Tobago Carnival)",
       "url": "https://open.spotify.com/track/1KDbylz0Lyu3TdmsiAUTSA"
@@ -4860,7 +4878,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223028,
       "name": "Waiting On the Stage",
       "url": "https://open.spotify.com/track/2g0WxGJFjev7kVNFBBsxMl"
@@ -4882,9 +4900,9 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 223028,
-      "name": "Waiting On the Stage",
+      "name": "Waiting On the Stage (feat. Badjohn Republic)",
       "url": "https://open.spotify.com/track/3vOY6iJH9Sl3cbzA3sXsT3"
     },
     {

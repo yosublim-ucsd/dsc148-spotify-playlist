@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124277,
+  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
+  "num_followers": 124293,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDkzMTZjZWNiYWFiMWE3ZDlhNmRlYjA1Y2M0YmVjMGU3",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDFmNjJmOWNiYWE5NGYzYTY0YTcwM2Q2MWZlYjg3YzQ3",
   "tracks": [
     {
       "added_at": null,
@@ -426,78 +426,6 @@
         {
           "name": "Joy",
           "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Leire Martinez",
-          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
-        },
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Mal\u00fa",
-          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
-        },
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        },
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        },
-        {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
         }
       ],
       "duration_ms": 307473,
@@ -915,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 155256,
-      "name": "Japonesa",
-      "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz"
       },
@@ -947,6 +859,22 @@
       "duration_ms": 181804,
       "name": "Malo",
       "url": "https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 155256,
+      "name": "Japonesa",
+      "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
     },
     {
       "added_at": null,
@@ -1031,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "ME ACOSTUMBR\u00c9",
+      "url": "https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Tiene Novio (Remix)",
         "url": "https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3"
       },
@@ -1055,26 +1003,6 @@
       "duration_ms": 212053,
       "name": "Ya No Tiene Novio - Remix",
       "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "ME ACOSTUMBR\u00c9",
-      "url": "https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat"
     },
     {
       "added_at": null,

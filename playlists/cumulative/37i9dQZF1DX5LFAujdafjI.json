@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 133846,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133846,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/7aGcgv4G1upG0XK6nHC5rF"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308000,
       "name": "Everybody in the Place - Fairground Remix",
       "url": "https://open.spotify.com/track/5O0lJp1fbKe7a8Hksc6KL7"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 309506,
       "name": "Everybody In The Place - Fairground Remix Remastered",
       "url": "https://open.spotify.com/track/6AD52fIWx6p4T8D4nqL53e"
@@ -600,10 +600,28 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212706,
       "name": "God Is a Circle",
       "url": "https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg"
+    },
+    {
+      "album": {
+        "name": "God Is a Circle",
+        "url": "https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "God Is a Circle",
+      "url": "https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx"
     },
     {
       "album": {
@@ -1426,10 +1444,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285373,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Fever [The Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285373,
+      "name": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
+      "url": "https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq"
     },
     {
       "album": {
@@ -1475,7 +1511,7 @@
       "artists": [
         {
           "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/5jdsZCFuLyMBxZyfQfI3sL"
+          "url": "https://open.spotify.com/artist/4wViPWQjxGLGo3spK7IFbJ"
         },
         {
           "name": "Skin On Skin",
@@ -1484,7 +1520,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 369800,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0Tdk0FFDp6S43PRcpnryRv"
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369800,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/18RGqi2N6qGVueHQwfOB7m"
@@ -1626,7 +1662,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
@@ -1644,7 +1680,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"

@@ -4,7 +4,7 @@
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-141 songs - 7 hr 29 min
+144 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Thousand Greetings](https://open.spotify.com/track/095iVxE4njPKGPv51N7EUK) | [Muhammad Al Muqit](https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05) | [Anasheeds, Vol\. 3](https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD) | 3:57 | 2024-03-11 | 2024-04-09 |
 | [Abrakha Min Sa'a](https://open.spotify.com/track/2R8dOkDTAOFOYPdSeuA84J) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S), [Nasser Al Kubaisi](https://open.spotify.com/artist/0fC7bynVVOrhri9VhNG6Gu) | [Abrakha Min Sa'a](https://open.spotify.com/album/6ekaaw1ifb9mc5max3CIhA) | 2:23 | 2024-03-11 | 2024-04-09 |
 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 | 2024-04-08 |  |
-| [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 | 2024-04-08 |  |
+| [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 | 2024-04-08 | 2024-04-19 |
+| [Al Eid Gaa](https://open.spotify.com/track/5ra4kmbcUvek1OdmMcDRm5) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/3TwvfliTWcoaU3lc3PzGHu) | 1:49 | 2024-04-10 |  |
 | [Al Kol Yafnny](https://open.spotify.com/track/0DP3o17gDVEe6ADkpHi8FD) | [Ahmed Hamdy](https://open.spotify.com/artist/7rwf98k7PayJKQCzFpm0xD) | [Ya Rasoul Allah](https://open.spotify.com/album/008HEgbo9fydgwkr7krc2W) | 3:27 | 2024-03-25 | 2024-04-09 |
 | [Al Quran](https://open.spotify.com/track/6n4qf4LMDMl5hQSS1HZe0h) | [Ahmed Bukhatir](https://open.spotify.com/artist/7H045XjM40okitH2R60OrR) | [Fartaqi](https://open.spotify.com/album/46y3eqKg2y5IceTGROJi6T) | 3:03 | 2024-03-11 | 2024-04-09 |
 | [Ala Tatafakron](https://open.spotify.com/track/03JZ24r3awWpKZED5dFNB6) | [Ahmed Burhan](https://open.spotify.com/artist/7Lbjz4JoUYXlnfN9knP8L7) | [Ala Tatafakron](https://open.spotify.com/album/3Yqzyju8x2QCqU2NfPgk9Y) | 2:21 | 2024-03-11 | 2024-03-26 |
@@ -48,6 +49,7 @@
 | [Habibna Al Mostafa \- Al Maddah](https://open.spotify.com/track/4IREk5iMdOnZ0cIIFa7Tkl) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Habibna Al Mostafa \(Al Maddah\)](https://open.spotify.com/album/3wAUcH51VjK2DyEgIBqIup) | 3:09 | 2024-03-11 | 2024-04-09 |
 | [Hadul El\-Quran](https://open.spotify.com/track/37i5M2dPXF44z745r0HDEz) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Hadul El\-Quran](https://open.spotify.com/album/4mUAz2Gmtcg4gJM7TPpCtl) | 3:19 | 2024-03-11 | 2024-04-09 |
 | [Hanen Alena Ya Rab](https://open.spotify.com/track/2zQtX0AL8stVNw3tMcHY51) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC), [Amany](https://open.spotify.com/artist/1BduYVz5NAQzEGofQ4cWKZ) | [Hanen Alena Ya Rab](https://open.spotify.com/album/6fmZ5xg1bq1TZ1CyvPCoic) | 2:19 | 2024-03-11 | 2024-04-09 |
+| [Hanghanni Kaman W Kaman](https://open.spotify.com/track/67BhQrmFsuqdIuYiUK5JIg) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Sahbit Raey](https://open.spotify.com/album/0oXIpAgpGx3rRIyKlV6Wfs) | 3:46 | 2024-04-10 |  |
 | [Hasbi Rabbi](https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [My Ummah](https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz) | 4:18 | 2024-03-11 | 2024-04-09 |
 | [Hayati Kulluha lillah](https://open.spotify.com/track/3AlzllgM3BmndzrJmzKETm) | [Yahya Hawwa](https://open.spotify.com/artist/6R2tMGEaOBoWsLEY81ihRX) | [The Best of Islamic Music Vol\. 2](https://open.spotify.com/album/1pDnHdMzxKhuvLTa2zTVMS) | 4:12 | 2024-03-11 | 2024-04-09 |
 | [Healing](https://open.spotify.com/track/7CJtjm69nBXUatYIhSE7vD) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Wherever You Are](https://open.spotify.com/album/1WUFPPcISy76XSVtd4FSv4) | 4:15 | 2024-03-11 | 2024-04-09 |
@@ -139,11 +141,12 @@
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2024-04-08 |  |
 | [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2024-04-08 |  |
 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-04-08 |  |
-| [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2024-04-08 |  |
+| [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2024-04-08 | 2024-04-19 |
+| [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2024-04-10 |  |
 | [مفيش غيرك احن يارب](https://open.spotify.com/track/7oYnLRqYvPnnQRElg6XY2j) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [مفيش غيرك احن يارب](https://open.spotify.com/album/4JH9w7bp3W2Iba6T7umPxS) | 2:37 | 2024-03-11 | 2024-04-09 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/5PTcKJsd0jFJtSf5GhE6IF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة](https://open.spotify.com/album/2TjoHRwrTEce1SJZBkZFXn) | 2:47 | 2024-04-08 |  |
 | [هل هلالك يا رمضان](https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [هل هلالك يا رمضان](https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5) | 1:28 | 2024-03-11 | 2024-04-09 |
-| [هنغني كمان وكمان](https://open.spotify.com/track/1bVHiY8JtZGhXcrmYVd2QC) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [صاحبة رأي](https://open.spotify.com/album/4PxfvkleMJtcPnDFtKvQ9W) | 3:46 | 2024-04-08 |  |
+| [هنغني كمان وكمان](https://open.spotify.com/track/1bVHiY8JtZGhXcrmYVd2QC) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [صاحبة رأي](https://open.spotify.com/album/4PxfvkleMJtcPnDFtKvQ9W) | 3:46 | 2024-04-08 | 2024-04-19 |
 | [واسع الكرم](https://open.spotify.com/track/0h8jtha9IbvKDO4p9vBwc0) | [Yousef Al Ayoub](https://open.spotify.com/artist/3JenNVbS5aTA7XGTUd25Rg) | [واسع الكرم](https://open.spotify.com/album/0bXvr1KjkD2JBR782M4byT) | 3:17 | 2024-03-11 | 2024-04-09 |
 | [واقف على بابك](https://open.spotify.com/track/3UcUPTW36BwtD3ZOsfoo8W) | [Youssef El Barbary](https://open.spotify.com/artist/2kIDZgEu3dLoedZIzyCRFV) | [واقف على بابك](https://open.spotify.com/album/3SndNOO87K57fEKUPJO8do) | 1:30 | 2024-03-20 | 2024-04-09 |
 | [يا ربنا](https://open.spotify.com/track/6D5OU26bbZAUY4Tesasfin) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حديث الروح 1](https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE) | 1:50 | 2024-03-11 | 2024-04-09 |

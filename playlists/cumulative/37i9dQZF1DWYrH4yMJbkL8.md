@@ -4,7 +4,7 @@
 
 > A free space for Indigenous creators\. Currently curated by Florent Vollant.
 
-582 songs - 1 day 11 hr 19 min
+584 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [Nothing Is Meaningless](https://open.spotify.com/track/3FKtv1Gu9UEM48u6MtbFZM) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:25 | 2022-03-04 | 2022-04-02 |
 | [Nutarâsuk](https://open.spotify.com/track/2UC60EhosBPaCH9FQ3WPGG) | [Friedrich Reichardt](https://open.spotify.com/artist/1Cp6vGlrWhJpSygqKvg4D9), [Deantha Edmunds](https://open.spotify.com/artist/6bMwsfzqTf4Fs8IzlVUfHr), [Tom Gordon](https://open.spotify.com/artist/5YILjkdDZjTAcyVir2b7oI) | [My Beautiful Home](https://open.spotify.com/album/30GeFNV4NrzQcv4j7cDcHE) | 1:40 | 2022-06-03 | 2022-07-06 |
 | [O Siem](https://open.spotify.com/track/2ouMDSbiSvFZqeAUr4mmVg) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [White Sahara](https://open.spotify.com/album/6qnBJUlyjtoJO8yAQ3fSxP) | 4:17 | 2022-06-03 | 2022-07-06 |
-| [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 | 2024-04-12 |  |
+| [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 | 2024-04-12 | 2024-04-19 |
+| [O Siem](https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN) | 4:27 | 2024-04-12 |  |
 | [Odana](https://open.spotify.com/track/11ZD34xWpRq1ddLfgelNKf) | [Alanis Obomsawin](https://open.spotify.com/artist/7J5Huz5o04QwDPwGJzp9KR) | [Bush Lady](https://open.spotify.com/album/3PJUIwLqmg10myebFhVmuY) | 3:39 | 2023-06-30 | 2023-07-29 |
 | [Odana](https://open.spotify.com/track/1yhwQLeQQjaeKipD09osli) | [Mali Obomsawin](https://open.spotify.com/artist/4MQzIvdXOAdlGvBM2KKqp5) | [Odana](https://open.spotify.com/album/3DRVrB8AWDqqtjZeT5Hczf) | 4:16 | 2023-10-20 | 2023-11-25 |
 | [Oil Pastel/Dope Sick \(Ft\. Cadence Weapon\)](https://open.spotify.com/track/6RfuyPf7WCQbboOZCNaaAh) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Big Pharma](https://open.spotify.com/album/3AnUyMML0Fl0ItqIBvVMGj) | 3:09 | 2022-08-12 | 2022-09-10 |
@@ -449,7 +450,8 @@
 | [Soldier Blue](https://open.spotify.com/track/3vx7dqQCjTLPOgySOarWpe) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [She Used To Wanna Be A Ballerina](https://open.spotify.com/album/0Gxy0Z3Zo4OissivfQGzzz) | 3:21 | 2022-10-14 | 2022-11-19 |
 | [Somebody Else](https://open.spotify.com/track/0NKr0EoKLsKRPLBgLHrnUj) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Here and Now](https://open.spotify.com/album/4M0F46mBr3ZNvE660SCBiC) | 2:53 | 2024-02-09 | 2024-03-09 |
 | [Somehow Someone](https://open.spotify.com/track/7l4NlQe5vfpwhuVMJNSjwN) | [Jade Turner](https://open.spotify.com/artist/2IcuWwM2AJpbLrycJUuELT) | [Jade Turner](https://open.spotify.com/album/4pxOilsNIlOGg99cGfbf3l) | 3:30 | 2022-05-06 | 2022-06-04 |
-| [Someone Call an Angel Down](https://open.spotify.com/track/6Uvn68XWVZqCMzvNCmE7WM) | [Derek Miller](https://open.spotify.com/artist/3tabavepzPNS1GfI72AedM) | [Music Is the Medicine](https://open.spotify.com/album/3rKd1eacDBKToUM2yJUnfW) | 4:51 | 2024-04-12 |  |
+| [Someone Call An Angel Down](https://open.spotify.com/track/2XsHKLn5DnyrbfN7XEVfPh) | [Derek Miller](https://open.spotify.com/artist/3tabavepzPNS1GfI72AedM) | [Music Is The Medicine](https://open.spotify.com/album/1qCeu9DRGhAA06j59DemOM) | 4:51 | 2024-04-12 |  |
+| [Someone Call an Angel Down](https://open.spotify.com/track/6Uvn68XWVZqCMzvNCmE7WM) | [Derek Miller](https://open.spotify.com/artist/3tabavepzPNS1GfI72AedM) | [Music Is the Medicine](https://open.spotify.com/album/3rKd1eacDBKToUM2yJUnfW) | 4:51 | 2024-04-12 | 2024-04-19 |
 | [somnambulist](https://open.spotify.com/track/4qZKt7X9tbe90PqSQQLTmb) | [nêhiyawak](https://open.spotify.com/artist/1ABpOPFTkd957JpeQUN3U4) | [nipiy](https://open.spotify.com/album/3Jco6in23tJMrvZFLtLqyT) | 3:16 | 2022-08-12 | 2024-04-13 |
 | [Son of a Gun](https://open.spotify.com/track/5zsVYoquMgMSZYXzTwLbB7) | [Q052](https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE) | [The Storm](https://open.spotify.com/album/2PJDK1hEOnFHOM8qt7qrgQ) | 2:29 | 2022-09-09 | 2023-02-04 |
 | [Son of the Sun](https://open.spotify.com/track/75LgtWQRfVIkpECqakZ6ra) | [Willie Dunn](https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6) | [Native North America \(Vol\. 1\) : Aboriginal Folk, Rock, And Country 1966\-1985](https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen) | 3:45 | 2022-06-03 | 2022-07-06 |

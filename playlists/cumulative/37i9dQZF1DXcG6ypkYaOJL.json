@@ -104,7 +104,7 @@
     {
       "album": {
         "name": "Diablos",
-        "url": "https://open.spotify.com/album/0k79I6niA0AMFCEuLw8pJ9"
+        "url": "https://open.spotify.com/album/6U21QNNcAxdPykTyqy9p3O"
       },
       "artists": [
         {
@@ -115,6 +115,24 @@
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178451,
+      "name": "Diablos",
+      "url": "https://open.spotify.com/track/5WzpLvRJcV7j5BmkDQ6Sks"
+    },
+    {
+      "album": {
+        "name": "Diablos",
+        "url": "https://open.spotify.com/album/0k79I6niA0AMFCEuLw8pJ9"
+      },
+      "artists": [
+        {
+          "name": "Quimera",
+          "url": "https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 178451,
       "name": "Diablos",
       "url": "https://open.spotify.com/track/7oILlqkIKl0mNBN4k8eaSG"
@@ -176,7 +194,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 198546,
       "name": "Good Bad Times",
       "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
@@ -194,7 +212,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198546,
       "name": "Good Bad Times",
       "url": "https://open.spotify.com/track/3x1PdN9Q9IV8bhnTvjI7LA"
@@ -288,10 +306,46 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142608,
       "name": "Qu\u00e9 Hice",
       "url": "https://open.spotify.com/track/51YZsnWXxpQCE6VYwTBTFz"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Hice",
+        "url": "https://open.spotify.com/album/3mLqDKwhIPrdLiGHcaIVOc"
+      },
+      "artists": [
+        {
+          "name": "Quimera",
+          "url": "https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142608,
+      "name": "Qu\u00e9 Hice",
+      "url": "https://open.spotify.com/track/6xk8tIU5BK6oF4FLxsXYUC"
+    },
+    {
+      "album": {
+        "name": "Rebeli\u00f3n",
+        "url": "https://open.spotify.com/album/4odSTwvbkW9H6oswRL3fOL"
+      },
+      "artists": [
+        {
+          "name": "Quimera",
+          "url": "https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177290,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/2AwDQjzehP8SuKL2BG4pFN"
     },
     {
       "album": {
@@ -306,7 +360,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177290,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3jM59UshXAZ94eRYLTL016"
@@ -350,7 +404,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229087,
       "name": "WALO",
       "url": "https://open.spotify.com/track/2kO739EXBh5TRXImLK4kss"
@@ -368,7 +422,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 229087,
       "name": "WALO",
       "url": "https://open.spotify.com/track/65v0r10DBGY5C0Z4pjHmI2"

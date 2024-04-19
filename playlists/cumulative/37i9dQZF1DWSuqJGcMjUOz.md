@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-368 songs - 20 hr 55 min
+369 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [Oublie pas](https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s) | 4:57 | 2022-05-25 | 2023-04-13 |
 | [Où sera le monde](https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Où sera le monde](https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl) | 3:58 | 2022-05-25 | 2023-04-13 |
 | [P'tit cochon](https://open.spotify.com/track/4KzVQwE98AbZ7TrrNwt9L9) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [P'tit cochon](https://open.spotify.com/album/6yReqmLmHrrVzRIL9p4pKi) | 3:31 | 2024-04-03 |  |
-| [Parce qu'on vient de loin](https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 3:52 | 2024-04-16 |  |
+| [Parce qu'on vient de loin](https://open.spotify.com/track/5t03AORuoEz8a4S8aRpsD1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin.](https://open.spotify.com/album/4PuU7cyGf140vvhpQ14zUO) | 3:52 | 2024-04-16 |  |
+| [Parce qu'on vient de loin](https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 3:52 | 2024-04-16 | 2024-04-19 |
 | [Parler](https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol) | 3:38 | 2023-05-25 | 2024-04-04 |
 | [Parler](https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO) | 3:38 | 2023-05-25 | 2023-07-13 |
 | [Pas de limite](https://open.spotify.com/track/2XoYRNX6SJEZaVvP0aZ3sb) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Pas de limite](https://open.spotify.com/album/42r9Vjwpwvi6LCfC5FV3XT) | 2:38 | 2022-05-25 | 2023-04-13 |

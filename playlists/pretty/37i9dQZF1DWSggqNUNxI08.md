@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,977 likes - 27 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,019 likes - 27 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 5 | [Let Go](https://open.spotify.com/track/1M34IpRHhPwlQ84KAhHXPw) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H), [Truncate](https://open.spotify.com/artist/1JxLnEvBPdm9baryEFzE50) | [Let Go](https://open.spotify.com/album/4iaSfox7ilmf2Zu3hVjVfh) | 5:34 |
 | 6 | [Five \- Josh Wink Remix](https://open.spotify.com/track/3s23m6BoTrmiVjyzEmx43G) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Playground Remixes Vol\. 1 & 2](https://open.spotify.com/album/1Vr24HWECkKznFnjk3gzuY) | 8:00 |
 | 7 | [Free Bird \- Extended Version](https://open.spotify.com/track/3lcAlXzgKN3GDErKPjriTM) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Free Bird](https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ) | 6:46 |
-| 8 | [Flight Path Estate](https://open.spotify.com/track/17Dqco4pcnJ2STOIq2QVHw) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Haunted Dancehall](https://open.spotify.com/album/1fDvCeSUdfVvMhOxfcl8V0) | 3:21 |
-| 9 | [Bushwa \- Smagghe & Cross Version](https://open.spotify.com/track/3YedpyFKdLEgHnEOSQEMUi) | [Chez de Milo](https://open.spotify.com/artist/7jPSujSofbQnGDg3H2TFcp), [Smagghe & Cross](https://open.spotify.com/artist/4aLw2jqSywRPpArQOZD0UV) | [Bushwa EP](https://open.spotify.com/album/2PaX8QacOxTf3tT7H8MCI2) | 10:39 |
+| 8 | [Flight Path Estate](https://open.spotify.com/track/5ktM8njXxfv1ORz5MKwKHT) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Haunted Dancehall](https://open.spotify.com/album/1fjxW1nWJZbZhni4slSy38) | 3:21 |
+| 9 | [Bushwa \- Smagghe & Cross Version](https://open.spotify.com/track/57oF6BtdUFLWnmjXADMEAn) | [Chez de Milo](https://open.spotify.com/artist/7jPSujSofbQnGDg3H2TFcp), [Smagghe & Cross](https://open.spotify.com/artist/4aLw2jqSywRPpArQOZD0UV) | [Bushwa EP](https://open.spotify.com/album/7yfArOEiLyTw8nOcTuA7lE) | 10:39 |
 | 10 | [The Barber \- Don't DJ Remix](https://open.spotify.com/track/0U5xfTNV8SbAW9biUYgM0q) | [Mop Mop](https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf), [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [Don't DJ](https://open.spotify.com/artist/1xZF8kbYaY7YOhv7qZpRGX) | [Lunar Love Remixed](https://open.spotify.com/album/5TkMkIvuk0BahkR4ynYUfE) | 8:54 |
 | 11 | [Smith Lake](https://open.spotify.com/track/0cJdOINnuKQn44OMNdg2g3) | [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Ostgut Ton \| Zehn](https://open.spotify.com/album/0PLIRws8LVuBweCNW74qVb) | 6:04 |
 | 12 | [Power Seat](https://open.spotify.com/track/2PCg45g4oKy2VEbtR980wo) | [Head High](https://open.spotify.com/artist/5VKJLLauOecpruhxPw9qUS) | [Megatrap](https://open.spotify.com/album/4J43s20v8XyP63E43Qo6hV) | 6:05 |
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 19 | [Fantasy \(Herbert's Greenery Dub\)](https://open.spotify.com/track/4HzWIrOOmPl4UXDDWdoPv5) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC) | [Musca \(Remixes\)](https://open.spotify.com/album/0xA0LmJkhEp0ARH1CeCku1) | 9:01 |
 | 20 | [Yeah](https://open.spotify.com/track/0F0vzMciKJw9sGyOZRtJbU) | [Silvestre](https://open.spotify.com/artist/7hsJxdonMPUYzuhbYDJQgm) | [Yeah](https://open.spotify.com/album/1FsdX6Tixk5EMDD4njoiBP) | 5:46 |
 | 21 | [Twice](https://open.spotify.com/track/68VMdArFBr8w42U15SkD48) | [Joe](https://open.spotify.com/artist/0p5J6Pid4QK3jg9jTjduFK) | [Hessle Audio: 116 and Rising](https://open.spotify.com/album/23avwUUQ0UQgd8Z1kV3QRz) | 6:52 |
-| 22 | [Midnight on Rainbow Road](https://open.spotify.com/track/3j63zGG3rkxxJ0cBmQF6Op) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Midnight on Rainbow Road](https://open.spotify.com/album/2gUl6ruDSRjHz0MZ3iayNN) | 6:23 |
+| 22 | [Midnight on Rainbow Road \(BAB 5\)](https://open.spotify.com/track/6Ux7QzLM5G2c3NziJ3RktI) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Gerd Janson presents Musik for Autobahns 2](https://open.spotify.com/album/0VdiNg5obaRnUpIBVGwaOO) | 6:23 |
 | 23 | [Brunela](https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Tongue](https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s) | 7:27 |
 | 24 | [Bosco Bosco \(Drums For Life\)](https://open.spotify.com/track/4EQ3FEAFDB7NHhjGXGrVnm) | [Talaboman](https://open.spotify.com/artist/0w1RQjkLFHpokbFNikYbPN), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Bosca Bosca / Bosco Bosco](https://open.spotify.com/album/14oZCnvUrYSb3umn8hLndu) | 8:06 |
-| 25 | [Inner Rhythm \- Higher World Mix](https://open.spotify.com/track/2in8sK3ePe7bUeYphpHspg) | [Exquisite Corpse](https://open.spotify.com/artist/6gstrxfobyKePO9egUPDLo) | [Between Rhythms I](https://open.spotify.com/album/2pi2CFmohwf8QLCEiIe9CI) | 8:10 |
+| 25 | [Inner Rhythm \- Higher World Mix](https://open.spotify.com/track/2OciONxbClzOO48v7EeEa4) | [Exquisite Corpse](https://open.spotify.com/artist/6gstrxfobyKePO9egUPDLo) | [Between Rhythms I](https://open.spotify.com/album/1Ohs55A6Zqt2hK3iOiqgj1) | 8:10 |
 | 26 | [Menta Y Menta](https://open.spotify.com/track/4Lb5mlLEmSQH8NYKJwKHt3) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 4:09 |
 | 27 | [Finally](https://open.spotify.com/track/0tZE8ObYA8vZOS2XTIPSSQ) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [For when we haven't slept](https://open.spotify.com/album/0lzwcFU4ju29M54ADFrFwz) | 5:20 |
 

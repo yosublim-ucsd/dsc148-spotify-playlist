@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "VEM FAN E DU!?",
+  "description": "VAD B\u00c4NKAR DU??",
   "name": "30 km/h",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 115000,
       "name": "34:an",
       "url": "https://open.spotify.com/track/3boRJTCXt9D0MVaDdMyD0r"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115000,
       "name": "34:an",
       "url": "https://open.spotify.com/track/4ONAbYY5jWfwLU7NiyVmKt"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126015,
       "name": "ALLTING L\u00d6SER SIG",
       "url": "https://open.spotify.com/track/3a6ib9AZ1PMz3SjSZJfxP3"
@@ -3195,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "DEN MAN VILL HA",
+        "url": "https://open.spotify.com/album/6RvYaOvQYKb1glxDfC5fX8"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "MADNEZZ",
+          "url": "https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109333,
+      "name": "DEN MAN VILL HA",
+      "url": "https://open.spotify.com/track/3cx30FR0xzXuL6bZwdtgYd"
+    },
+    {
+      "album": {
         "name": "Den sista s\u00e5ngen",
         "url": "https://open.spotify.com/album/1BSCYFMPa8Vdano6qM0M9G"
       },
@@ -4862,7 +4884,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 165230,
       "name": "En kv\u00e4ll i juni",
       "url": "https://open.spotify.com/track/60fffK6XCHdFBjOv8TFJiW"
@@ -4884,7 +4906,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165230,
       "name": "En kv\u00e4ll i juni",
       "url": "https://open.spotify.com/track/7o9WYsE8zub22FT6THC4Pm"
@@ -5298,6 +5320,32 @@
       "duration_ms": 193123,
       "name": "F*CKED UP! - SJUK REMIX!",
       "url": "https://open.spotify.com/track/1VcviCNAPM1uzajsIVxtkH"
+    },
+    {
+      "album": {
+        "name": "F.F.F.",
+        "url": "https://open.spotify.com/album/1eoTeEVPkVMyJSBXU3tbsY"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "FL\u00c4DERPOJKARNA",
+          "url": "https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd"
+        },
+        {
+          "name": "FL\u00c4DERFLICKAN",
+          "url": "https://open.spotify.com/artist/5vSm8Ru446StZBWSlDUUBx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160191,
+      "name": "F.F.F.",
+      "url": "https://open.spotify.com/track/1P8daHkXA1EGdRoAPy6LCA"
     },
     {
       "album": {
@@ -8254,7 +8302,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152486,
       "name": "G\u00d6R N\u00c5T DUMT",
       "url": "https://open.spotify.com/track/4RNoZGFzsKm6x86jiW2Ujo"
@@ -8272,7 +8320,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 152486,
       "name": "G\u00d6R N\u00c5T DUMT",
       "url": "https://open.spotify.com/track/50f1LUcmjx9PUJs2vGklJ0"
@@ -8922,7 +8970,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132003,
       "name": "HEY BABY",
       "url": "https://open.spotify.com/track/56yXFAt1OptPnMTcaP4do2"
@@ -9396,7 +9444,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 127200,
       "name": "H\u00c4R KOMMER SVINERS",
       "url": "https://open.spotify.com/track/1WuQOUYOsOZNhAfvEU0fIR"
@@ -9414,7 +9462,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127200,
       "name": "H\u00c4R KOMMER SVINERS",
       "url": "https://open.spotify.com/track/46AgqdcUExU4jdtJ1kRJkc"
@@ -9748,6 +9796,24 @@
       "duration_ms": 141621,
       "name": "Igelkott",
       "url": "https://open.spotify.com/track/6ImJTRiCekTTfVRf5FDmEf"
+    },
+    {
+      "album": {
+        "name": "IGEN IGEN IGEN",
+        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130153,
+      "name": "IGEN IGEN IGEN",
+      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
     },
     {
       "album": {
@@ -13256,7 +13322,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158898,
       "name": "M\u00e5nen",
       "url": "https://open.spotify.com/track/7Jyj9yjlmCjxH1IwQ0LY0a"
@@ -14236,7 +14302,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136875,
       "name": "PAMELA ANDERSON",
       "url": "https://open.spotify.com/track/3po4bVMCkXSLZestgmJUTt"
@@ -15366,7 +15432,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174121,
       "name": "RAGGARDISCO",
       "url": "https://open.spotify.com/track/2TNrBxpRxzhA1xaSvBRFMW"
@@ -15926,7 +15992,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110470,
       "name": "REBOUND",
       "url": "https://open.spotify.com/track/1dJrKfAg3nFwNAE6I7I9hh"
@@ -16209,6 +16275,28 @@
     },
     {
       "album": {
+        "name": "ROM & COLA",
+        "url": "https://open.spotify.com/album/6pLFyBUWwYcg3a4ZSdIeBj"
+      },
+      "artists": [
+        {
+          "name": "Facket",
+          "url": "https://open.spotify.com/artist/5f5d0ji6hrxwI4sREQl3hK"
+        },
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "ROM & COLA",
+      "url": "https://open.spotify.com/track/0MaVhvIUlTyaqCPIoaWFv3"
+    },
+    {
+      "album": {
         "name": "Ron Weesley Is Dead",
         "url": "https://open.spotify.com/album/0updtDWTVcdAd4CBuL2BQj"
       },
@@ -16374,7 +16462,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166350,
       "name": "Rymdraket",
       "url": "https://open.spotify.com/track/7gAg1behdciBIlkW2smGQ2"
@@ -17679,6 +17767,50 @@
     },
     {
       "album": {
+        "name": "SNUS",
+        "url": "https://open.spotify.com/album/1RcgzvufhzACnubIxywQrM"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "Generalen",
+          "url": "https://open.spotify.com/artist/4ILF3iNALAp9zFG8V1cOrF"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149236,
+      "name": "SNUS",
+      "url": "https://open.spotify.com/track/2kMGTglp9UD5eXVK8jpqqT"
+    },
+    {
+      "album": {
+        "name": "SNYGGING SOM JAG INTE KAN F\u00c5",
+        "url": "https://open.spotify.com/album/65OmCGuzUnEWzCyDik9Fxc"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Banditerna",
+          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "SNYGGING SOM JAG INTE KAN F\u00c5",
+      "url": "https://open.spotify.com/track/2wfmsAH7begnIpbvmSIHq5"
+    },
+    {
+      "album": {
         "name": "SN\u00c4LLA SOV MED MIG",
         "url": "https://open.spotify.com/album/3B7bHqA4GSfqCZcx5hyxkL"
       },
@@ -18958,7 +19090,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132467,
       "name": "SUPIT BORT DITT NAMN",
       "url": "https://open.spotify.com/track/2fk4VRwQkbasWYm2sqXDMH"
@@ -20324,7 +20456,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 203100,
       "name": "TRUCKER MOTHERFUCKER",
       "url": "https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE"
@@ -20350,7 +20482,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203100,
       "name": "TRUCKER MOTHERFUCKER",
       "url": "https://open.spotify.com/track/3VERP2rb6wFy5Qf8J2pcff"
@@ -20376,7 +20508,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190064,
       "name": "TRUCKER MOTHERFUCKER - DUNK EDIT",
       "url": "https://open.spotify.com/track/0jgDRd5aI84kL8DqdKCS8T"
@@ -20402,7 +20534,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 190064,
       "name": "TRUCKER MOTHERFUCKER - DUNK EDIT",
       "url": "https://open.spotify.com/track/6VtdJaVMRruCdGuINjjunm"
@@ -20621,6 +20753,28 @@
     },
     {
       "album": {
+        "name": "UNGA & FRIA REMIX",
+        "url": "https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "UNGA & FRIA REMIX",
+      "url": "https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT"
+    },
+    {
+      "album": {
         "name": "UNIDUNK",
         "url": "https://open.spotify.com/album/2G4qhLFJh1ryGtXli2Ts95"
       },
@@ -20772,6 +20926,24 @@
       "duration_ms": 159375,
       "name": "Va Sa 'Ru (Russin P\u00e5 Russin Av)",
       "url": "https://open.spotify.com/track/3kP9KGpyBWmss1vKg5riIa"
+    },
+    {
+      "album": {
+        "name": "Vad b\u00e4nkar du?",
+        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
+      },
+      "artists": [
+        {
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167998,
+      "name": "Vad b\u00e4nkar du?",
+      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
     },
     {
       "album": {
@@ -20946,7 +21118,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130404,
       "name": "VARJE G\u00c5NG",
       "url": "https://open.spotify.com/track/0PEKJlRFMCfo99QMs3Yf0D"
@@ -20964,7 +21136,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 130404,
       "name": "VARJE G\u00c5NG",
       "url": "https://open.spotify.com/track/1vyVW1rjJQGCJigEsZzi4L"

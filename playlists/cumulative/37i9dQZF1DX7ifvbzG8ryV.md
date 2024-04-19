@@ -4,7 +4,7 @@
 
 > From the LGBTQIA+ songwriters that make the music happen\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFHdCJiQTW4YT?si=1f331731fe084475">Wrabel</a>
 
-43 songs - 2 hr 22 min
+44 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Somewhere With You](https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:13 | 2024-03-27 |  |
 | [Stay the Night](https://open.spotify.com/track/6rgEWdTQL1bybGVTGyIDsa) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa), [Boy Untitled](https://open.spotify.com/artist/7C0ZlzfEYot9Iz0ENgFB8D) | [Stay the Night](https://open.spotify.com/album/1pIBJ8tLwf21r54A4c5OZ1) | 2:32 | 2024-03-27 |  |
 | [Sun Goes Down \- Edit](https://open.spotify.com/track/4o3fupxrJRng5gol1Fe5cZ) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Serotonin](https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T) | 3:42 | 2024-03-27 |  |
-| [Teenage Craze](https://open.spotify.com/track/5384G2YXgXksvoPOWJMGEB) | [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Teenage Craze](https://open.spotify.com/album/3mgiInwKb3TmGaThM0dl9H) | 3:45 | 2024-03-27 |  |
+| [Teenage Craze](https://open.spotify.com/track/0YHQir43vZDV4I8M1GP1aZ) | [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Teenage Craze \- EP](https://open.spotify.com/album/3dI5C5vKok81IYSSPY97Xx) | 3:45 | 2024-03-27 |  |
+| [Teenage Craze](https://open.spotify.com/track/5384G2YXgXksvoPOWJMGEB) | [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Teenage Craze](https://open.spotify.com/album/3mgiInwKb3TmGaThM0dl9H) | 3:45 | 2024-03-27 | 2024-04-19 |
 | [Tell It To My Heart](https://open.spotify.com/track/4UIE7f7D2BoaMsjN57vv3y) | [Kieran Armitage](https://open.spotify.com/artist/3RCjhGXVQU0PhGNCmcIMF4), [Joe Morrison](https://open.spotify.com/artist/1khFPCSu6aoMnPAaIoqCmp) | [Tell It To My Heart](https://open.spotify.com/album/14Vl2hwHjKMfI6ek3FOezl) | 3:09 | 2024-03-27 |  |
 | [The Village](https://open.spotify.com/track/6epvwUINain4iSHCTWA0sj) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Village](https://open.spotify.com/album/1tVsOrPK4fwQB6kN7jIZxy) | 3:50 | 2024-03-27 |  |
 | [Thunda Thighs](https://open.spotify.com/track/6s8IJGj8S8KQtAugPz590O) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Thunda Thighs](https://open.spotify.com/album/24HIJnSXvGvpACPPQOAbO7) | 4:26 | 2024-03-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,762 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,758 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 29 | [Sandmen](https://open.spotify.com/track/0HkAMEiDz97dCeEISdZoFg) | [Prof\. Scape](https://open.spotify.com/artist/3UKpj8jskGniw2HTDY7sa6) | [Halloweenscapes](https://open.spotify.com/album/2ZUQ4nLxOEUBTxZyWE8mip) | 5:17 |
 | 30 | [Demon’s Organ](https://open.spotify.com/track/24h2G7n0wGCNud0EqEk410) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Demon’s Organ](https://open.spotify.com/album/3i6GAC37ByZmPLsRz1X7Gh) | 2:29 |
 | 31 | [Witch's Tomb](https://open.spotify.com/track/103f2lTeiqKGDp7gMyy6eW) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Witch's Tomb](https://open.spotify.com/album/04OLKEyBdS0J3MbwFYBUap) | 3:40 |
-| 32 | [Living Dolls](https://open.spotify.com/track/7J7ArF6yehfTMQdXVwZTVa) | [Nox Arcana](https://open.spotify.com/artist/2vmxXfIAWKLWbN1yGgHdou) | [Carnival of Lost Souls](https://open.spotify.com/album/5UqoFr8yeW0wpF5JBYTcnJ) | 2:52 |
+| 32 | [Living Dolls](https://open.spotify.com/track/6rYscM0Bn6bFRcRbcVuZr9) | [Nox Arcana](https://open.spotify.com/artist/2vmxXfIAWKLWbN1yGgHdou) | [Carnival of Lost Souls](https://open.spotify.com/album/6KjzifJVFySPX2mePDuc8z) | 2:52 |
 | 33 | [Ghouls](https://open.spotify.com/track/1ihFlBccQg6zp0nCmBTGS1) | [Hell on Halloween](https://open.spotify.com/artist/4tUZxqyxEFaXK1XAT8uqcl) | [Creepy Ambience](https://open.spotify.com/album/32LgDWdMoovNxQDvj5z1Ln) | 3:16 |
 | 34 | [Haunted and Scary Halloween Sounds](https://open.spotify.com/track/4AzgUoGILdndmnpnD5K0BH) | [Halloween Effects Horror Library](https://open.spotify.com/artist/1tIqtC8E6DsbnjKsoDQaGk), [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [Haunted and Scary Halloween Sounds \(Best Halloween Party Collection 2018, Horror & Creepy Effects\)](https://open.spotify.com/album/7jbZkKuzu0zMsAJivgSREc) | 4:01 |
 | 35 | [Witches Brew](https://open.spotify.com/track/4co5EDLIE4ZZNYfzqmgITI) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Ambience](https://open.spotify.com/album/17rnMzoPcedRwZvV5KIRBC) | 4:40 |

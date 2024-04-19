@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,918 likes - 105 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,259 likes - 105 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 61 | [Mtargashti](https://open.spotify.com/track/5fB5O3TLUezJkA2zM8ePZ9) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Mtargashti](https://open.spotify.com/album/1LSHwRDQnJlDG4YRLStcQN) | 4:10 |
 | 62 | [Midnight Dream](https://open.spotify.com/track/1J96lxcOXD1icipqx7WgBy) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Midnight Dream](https://open.spotify.com/album/7HaPx3Nhl5iPpEMMgx4IpT) | 3:18 |
 | 63 | [Shaantipoorn Bageecha](https://open.spotify.com/track/3qqvBjzXGgeyGCTJ5x3OXu) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Rajasthan](https://open.spotify.com/album/3lmvyNXwElZPiV3BLpIbDr) | 4:00 |
-| 64 | [Siddharthas Echoes](https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/55Jz6l9fzWVopImHAFYzoG) | 3:12 |
+| 64 | [Siddharthas Echoes](https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b) | 3:12 |
 | 65 | [Peace](https://open.spotify.com/track/0as6KfIJRQvPTKVheJbCBE) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [The Power Of Now](https://open.spotify.com/album/5p2KtH7CjijqRZUjAAeFE5) | 2:56 |
 | 66 | [Soothing Oasis](https://open.spotify.com/track/6SLhNH99NX98JlN1rnrtFl) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Soothing Oasis](https://open.spotify.com/album/2hwuGsoJs0qmtyCB3kLGXx) | 6:17 |
 | 67 | [Ustrasana](https://open.spotify.com/track/7q0YjCUbiMjkZdpRUTkorT) | [Nepenthesis](https://open.spotify.com/artist/5eCkBm1UK2IpA92JiNoMV6) | [Ustrasana](https://open.spotify.com/album/5Y3PXDGxOTzYqNZ8fvJJDm) | 5:31 |
@@ -112,6 +112,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 102 | [Warm Showers](https://open.spotify.com/track/2912FSrpfP5O9nzuwSPlDa) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Warm Showers](https://open.spotify.com/album/59jT8Zj0DbyKbF703easKX) | 3:04 |
 | 103 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 |
 | 104 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 |
-| 105 | [Spiritual air](https://open.spotify.com/track/1KAATnviD1ZXgcwmvLDYB1) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual Air](https://open.spotify.com/album/0pq0aHyIYn08kdFHUci3H6) | 3:38 |
+| 105 | [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 |
 
 Snapshot ID: `MTcxMTQ1NjU2MywwMDAwMDAwMDkxZWE5NGU1YmM5YzBjN2YyNmU2MzdjODdlNjljOThh`

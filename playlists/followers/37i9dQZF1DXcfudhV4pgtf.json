@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 25900,
+  "2024-04-19": 25982,
   "date_first_scraped": "2023-05-31",
   "description": "<a href=\"spotify:artist:7icoOm5fKKPo49jVxoj1Cq\">Anfisa Letyago</a>'s favorite tracks. Updated regularly. Curated by Anfisa Letyago. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Anfisa Letyago's track IDs",
@@ -169,6 +169,24 @@
       "duration_ms": 537574,
       "name": "Blue Shost",
       "url": "https://open.spotify.com/track/7oxT7jprQ8TSfviTpGnWLx"
+    },
+    {
+      "album": {
+        "name": "Cassa Dritta",
+        "url": "https://open.spotify.com/album/2HAxnWD9pa3wSb0VxusmqS"
+      },
+      "artists": [
+        {
+          "name": "Peppe Amore",
+          "url": "https://open.spotify.com/artist/11U2CZuFigTnfqYF8I4rH3"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347201,
+      "name": "Cassa Dritta",
+      "url": "https://open.spotify.com/track/1ipFo6VKkjrQNXo2J98JPL"
     },
     {
       "album": {
@@ -501,7 +519,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 187773,
       "name": "Forgive",
       "url": "https://open.spotify.com/track/1vyeqnphXY3hw1G4AF5yup"

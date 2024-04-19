@@ -1,13 +1,29 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 15679,
+  "num_followers": 15682,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjI3MCxlMjZlNzAxY2Q1OGRmMzg0OTFhZjkxMTkzMTM0NzA5NjVhOGI4YzEx",
+  "snapshot_id": "NjI3MixjOTkwOTJhZDlkN2Q2ODkwNzBmMjVmYjJhOGZhNDBlZTEzZjE4NGVh",
   "tracks": [
+    {
+      "added_at": "2024-04-19 00:55:37",
+      "album": {
+        "name": "Starburster",
+        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
     {
       "added_at": "2024-04-04 12:41:43",
       "album": {

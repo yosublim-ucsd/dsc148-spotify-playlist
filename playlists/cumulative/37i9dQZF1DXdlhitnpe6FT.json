@@ -10,13 +10,13 @@
       },
       "artists": [
         {
-          "name": "",
+          "name": "artist",
           "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
@@ -28,13 +28,13 @@
       },
       "artists": [
         {
-          "name": "",
+          "name": "artist",
           "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212053,
       "name": "Adam's Hotel",
       "url": "https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219026,
       "name": "Adam's Hotel",
       "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145506,
       "name": "Afrikaan Beat",
       "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172893,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125544,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 130493,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Ave Maria No Morro",
       "url": "https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154506,
       "name": "Ave Maria No Morro",
       "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157986,
       "name": "Ballade Pour Adeline",
       "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158000,
       "name": "Ballade pour Adeline (Piano et orchestre)",
       "url": "https://open.spotify.com/track/0Ep9uYqDWeVvhhqe124p9E"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160826,
       "name": "Beer Barrel Polka",
       "url": "https://open.spotify.com/track/0TfEddOVb6s6qhzb6GVdTn"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160826,
       "name": "Beer Barrel Polka",
       "url": "https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 495466,
       "name": "Before the Rain",
       "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 213617,
       "name": "Blue Navajo",
       "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145573,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 111146,
       "name": "Capullito de Aleli",
       "url": "https://open.spotify.com/track/6WlYy1nXmehizsvKs1EZV8"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111200,
       "name": "Capullito de Alel\u00ed",
       "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 211208,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306146,
       "name": "Chi Mai",
       "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 145800,
       "name": "Claire",
       "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 296693,
       "name": "Coiuldn't We Be Friends?",
       "url": "https://open.spotify.com/track/1wcpxfVZiOHYDHptZA5GIm"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142040,
       "name": "Concierto para una sola voz",
       "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140560,
       "name": "Concierto para una Sola Voz",
       "url": "https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 145746,
       "name": "El Bimbo",
       "url": "https://open.spotify.com/track/5K1fJewuOw6qRqEkKpoupc"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 199213,
       "name": "El Mundial - Instrumental",
       "url": "https://open.spotify.com/track/3ot35nXnnTewSLf2k57Sga"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221174,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221174,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 582733,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200411,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197093,
       "name": "Il",
       "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197093,
       "name": "Il",
       "url": "https://open.spotify.com/track/7CvMq5t11kJI64GAJLQawP"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168626,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153346,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160866,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291996,
       "name": "La vita \u00e8 bella",
       "url": "https://open.spotify.com/track/7ob7mrVX7FEQIT2gSClVtA"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 124240,
       "name": "Last Waltz",
       "url": "https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 165200,
       "name": "Lazy Bones",
       "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 181933,
       "name": "Limelight (Theme)",
       "url": "https://open.spotify.com/track/62I0t1dSziR3zSLn1UtUwl"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353680,
       "name": "Lluvia de Primavera",
       "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 355653,
       "name": "Lluvia De Primavera",
       "url": "https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 130586,
       "name": "Look For A Star",
       "url": "https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132600,
       "name": "Look For A Star",
       "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 135993,
       "name": "Look for a Star",
       "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246266,
       "name": "Love's Theme",
       "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248266,
       "name": "Love's Theme",
       "url": "https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209998,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/5oUq3mzTtlqFltQMFXlnTa"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 147453,
       "name": "Mademoiselle de Paris",
       "url": "https://open.spotify.com/track/3cGMK5oIwTvy4IZNVtWSxc"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 190840,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190840,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 308760,
       "name": "Morricone: Chi Mai",
       "url": "https://open.spotify.com/track/2AO1wjtZURTG3Ti43mYAz0"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192360,
       "name": "Music Box Dancer",
       "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192360,
       "name": "Music Box Dancer",
       "url": "https://open.spotify.com/track/5NdzToomqRRxNSR0F0nUHg"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 164360,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 281920,
       "name": "Rain Forest",
       "url": "https://open.spotify.com/track/4Ve4LuhZIelATSSegdfqhR"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139653,
       "name": "Red Roses For A Blue Lady",
       "url": "https://open.spotify.com/track/4GXXOBUEpCr58TFHIkLrZ0"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 457400,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 457400,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 692373,
       "name": "Rodrigo: Concierto De Aranjuez: 2. Adagio",
       "url": "https://open.spotify.com/track/1XgTqDYeR2L4AWObBUu5rC"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202367,
       "name": "Route 101",
       "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 126226,
       "name": "Sail Along Silv'ry Moon",
       "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129680,
       "name": "Sail Along Silv'ry Moon",
       "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150893,
       "name": "Siempre en Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/46J3o36c0PLQsiUoVwLbRA"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220400,
       "name": "Soleado",
       "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169413,
       "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
       "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 303253,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
@@ -3176,10 +3176,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303333,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
+    },
+    {
+      "album": {
+        "name": "!!!Going Places!!!",
+        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2"
     },
     {
       "album": {
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126893,
       "name": "Spanish Flea",
       "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157013,
       "name": "Star Dust",
       "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
@@ -3386,7 +3404,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180600,
       "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
       "url": "https://open.spotify.com/track/1wOCbnIsFcps5HALzAwRF5"
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183360,
       "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
       "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257633,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261173,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi"
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230681,
       "name": "The Song from Moulin Rouge (Where Is Your Heart)",
       "url": "https://open.spotify.com/track/1forE8vXOCGqYqtWaCTI80"
@@ -3530,7 +3548,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194840,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl"
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125920,
       "name": "Tijuana Taxi",
       "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
@@ -3642,7 +3660,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi"
@@ -3660,7 +3678,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
@@ -3696,7 +3714,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 133733,
       "name": "Wenn wir auseinandergeh'n (Please Release Me)",
       "url": "https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD"
@@ -3714,7 +3732,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 124604,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128785,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"

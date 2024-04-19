@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 305991,
+  "2024-04-19": 306047,
   "date_first_scraped": "2021-12-21",
   "description": "The best new music from the wide world of punk. Cover: BODEGA",
   "name": "All New Punk",
@@ -21184,7 +21184,7 @@
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 124965,
+      "duration_ms": 123705,
       "name": "PMS Police",
       "url": "https://open.spotify.com/track/0O0GhdAcMZsprSzwsDVi4x"
     },
@@ -25382,6 +25382,24 @@
     },
     {
       "album": {
+        "name": "Deep Sage",
+        "url": "https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1"
+      },
+      "artists": [
+        {
+          "name": "Gouge Away",
+          "url": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104232,
+      "name": "Spaced Out",
+      "url": "https://open.spotify.com/track/0BNMSzyRWl8LtSGYGSQtm4"
+    },
+    {
+      "album": {
         "name": "Spaced Out",
         "url": "https://open.spotify.com/album/4Ftg4p1D4gF7HCV1ucJWN2"
       },
@@ -25393,7 +25411,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 104232,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF"

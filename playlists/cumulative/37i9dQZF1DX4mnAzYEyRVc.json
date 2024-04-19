@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
@@ -497,6 +497,28 @@
     },
     {
       "album": {
+        "name": "Ai",
+        "url": "https://open.spotify.com/album/0mMjeFMp1gG5BmGSth4ngC"
+      },
+      "artists": [
+        {
+          "name": "3 Pemuda Berbahaya",
+          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
+        },
+        {
+          "name": "Sallsa Bintan",
+          "url": "https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233965,
+      "name": "Ai",
+      "url": "https://open.spotify.com/track/5KjgtZ66c7MnDgWW8MeZ18"
+    },
+    {
+      "album": {
         "name": "Prince Buster - Fabulous Greatest Hits [Diamond Range]",
         "url": "https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc"
       },
@@ -584,7 +606,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112493,
       "name": "All Outta Angst",
       "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167173,
       "name": "Baggy Trousers",
       "url": "https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6"
@@ -1110,7 +1132,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 194258,
       "name": "Behin Eta Berriz",
       "url": "https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3"
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 168688,
       "name": "Bella ciao",
       "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
@@ -1222,7 +1244,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 267346,
       "name": "Blessed with a Melody",
       "url": "https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx"
@@ -1276,7 +1298,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256000,
       "name": "Boogie Stop Shuffle",
       "url": "https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8"
@@ -1694,7 +1716,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 196070,
       "name": "Chupasangre",
       "url": "https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv"
@@ -1734,7 +1756,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 205527,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 157253,
       "name": "Como un Rayo",
       "url": "https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle"
@@ -1999,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Curse The Universe",
+        "url": "https://open.spotify.com/album/0MUpsDIB7XqwM7H9qoL2vG"
+      },
+      "artists": [
+        {
+          "name": "Half Past Two",
+          "url": "https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "Curse The Universe",
+      "url": "https://open.spotify.com/track/02Jc4S6p06RuUC0yCuTDUk"
+    },
+    {
+      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -2046,7 +2086,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190893,
       "name": "C\u2019est La Vie",
       "url": "https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN"
@@ -2302,7 +2342,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
@@ -2414,7 +2454,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 189601,
       "name": "Don't Stop Me Now",
       "url": "https://open.spotify.com/track/69Eq4fi8N7JvSazDTC7Us5"
@@ -2544,7 +2584,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
@@ -2562,7 +2602,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223013,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
@@ -3050,7 +3090,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "Forza St. Pauli",
       "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
@@ -3404,7 +3444,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 225397,
       "name": "Gotta Keep It Going",
       "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
@@ -3728,7 +3768,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180066,
       "name": "House Of Fun",
       "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
@@ -3890,7 +3930,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184760,
       "name": "In The Mirror",
       "url": "https://open.spotify.com/track/4SRxwnWECRpCp9pRvTonQ6"
@@ -3962,7 +4002,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221733,
       "name": "Into Action",
       "url": "https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s"
@@ -4490,7 +4530,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237666,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
@@ -4526,7 +4566,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
@@ -4584,7 +4624,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219320,
       "name": "Labios Rojos",
       "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
@@ -5162,7 +5202,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 185925,
       "name": "Me Va A Castigar El Se\u00f1or",
       "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
@@ -5198,7 +5238,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273893,
       "name": "Mejores Tiempos",
       "url": "https://open.spotify.com/track/13HIuzcWFCyMdtb8AQ8uYw"
@@ -5582,7 +5622,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165600,
       "name": "Monkey Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE"
@@ -5676,7 +5716,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 255500,
       "name": "Mudik",
       "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
@@ -5748,7 +5788,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 184533,
       "name": "My Commanding Wife",
       "url": "https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv"
@@ -5936,7 +5976,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211226,
       "name": "Night Boat to Cairo",
       "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
@@ -6220,7 +6260,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 209626,
       "name": "Noc je je\u0161t\u011b mlad\u00e1",
       "url": "https://open.spotify.com/track/66DzNV3HkTmYlYA9shXAr2"
@@ -6418,7 +6458,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 173800,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8"
@@ -6606,7 +6646,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 220645,
       "name": "Palm Trees and Pines",
       "url": "https://open.spotify.com/track/4FzgB1N6xjQnTLWEQgS2VS"
@@ -6700,7 +6740,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171173,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
@@ -7307,6 +7347,36 @@
     },
     {
       "album": {
+        "name": "Rompecabezas (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276932,
+      "name": "Rompecabezas (feat. NATURE)",
+      "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
+    },
+    {
+      "album": {
         "name": "Rude Boy",
         "url": "https://open.spotify.com/album/3r8bAbEVhzERSA197cd5dq"
       },
@@ -7550,7 +7620,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
@@ -7604,7 +7674,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156160,
       "name": "Same In The End",
       "url": "https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5"
@@ -7676,7 +7746,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
@@ -7820,7 +7890,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205120,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
@@ -7838,7 +7908,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205693,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
@@ -7968,7 +8038,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131039,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
@@ -8382,7 +8452,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217973,
       "name": "Sk\u00e1pate",
       "url": "https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0"
@@ -8640,7 +8710,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239725,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF"
@@ -8764,7 +8834,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164186,
       "name": "Somos del Barrio",
       "url": "https://open.spotify.com/track/6gKOMpon4qc0A9Z2z0XX8S"
@@ -8800,7 +8870,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
@@ -8890,7 +8960,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266760,
       "name": "Spiderwebs",
       "url": "https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3"
@@ -9128,7 +9198,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 232656,
       "name": "Sweet Loneliness",
       "url": "https://open.spotify.com/track/0CS6MtBUa48ZzYgqJaNf9F"
@@ -9236,7 +9306,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304000,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/3Jx2zlAdV9UPERSDhIFjwa"
@@ -9402,7 +9472,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
@@ -9442,6 +9512,24 @@
       "duration_ms": 216626,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/6hbjWtvfVCVk8vAzdVyyUf"
+    },
+    {
+      "album": {
+        "name": "That's What She Said",
+        "url": "https://open.spotify.com/album/0SA10XhtVzliyW4bt7E7zJ"
+      },
+      "artists": [
+        {
+          "name": "Matamoska!",
+          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117418,
+      "name": "That's What She Said",
+      "url": "https://open.spotify.com/track/1kbu8gLL0IvJmXIMymmwEE"
     },
     {
       "album": {
@@ -9517,6 +9605,24 @@
     },
     {
       "album": {
+        "name": "In The Wild (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171615,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/0zW9oSPyHLMBNfPKorHaFU"
+    },
+    {
+      "album": {
         "name": "Let's Face It",
         "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
       },
@@ -9546,10 +9652,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195195,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+    },
+    {
+      "album": {
+        "name": "The Last Ninja",
+        "url": "https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "The Last Ninja",
+      "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"
     },
     {
       "album": {
@@ -9582,7 +9706,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 183725,
       "name": "The One And Only",
       "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
@@ -9834,7 +9958,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144585,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
@@ -10148,7 +10272,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229426,
       "name": "TU ALMA MIA/ADELITA",
       "url": "https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q"
@@ -10516,7 +10640,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
@@ -10560,7 +10684,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206333,
       "name": "War 4 Peace",
       "url": "https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb"
@@ -10694,7 +10818,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 230014,
       "name": "Where Did All My Friends Go?",
       "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
@@ -10730,7 +10854,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 207295,
       "name": "Wir sind wieder wer",
       "url": "https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb"
@@ -10788,7 +10912,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136146,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
@@ -10846,7 +10970,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 243615,
       "name": "Yes It's True",
       "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
@@ -10900,7 +11024,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174306,
       "name": "Yo No Me Sentar\u00eda en Tu Mesa - Remasterizado 2008",
       "url": "https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG"
@@ -11102,6 +11226,24 @@
       "duration_ms": 202373,
       "name": "\u0429\u0430\u0441\u0442\u044c\u0435",
       "url": "https://open.spotify.com/track/06zAGNmYEeAjVqEF9TrB7p"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30c3\u30bf\u30e9",
+        "url": "https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30c3\u30bf\u30e9",
+      "url": "https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,709 songs - 10 day 14 hr 17 min
+6,710 songs - 10 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5882,6 +5882,7 @@
 | [the point of no reconciliation](https://open.spotify.com/track/0wHz7ccdx0bGhbu7tnjPdo) | [desci](https://open.spotify.com/artist/0pD7DmPsnzsvpKAD2xECQg), [jawima](https://open.spotify.com/artist/7vmLyoAdXR7ExRFFAookbz) | [the point of no reconciliation](https://open.spotify.com/album/58rW8v8O0LnjrYzQqhwzQm) | 3:02 | 2021-10-20 | 2022-04-15 |
 | [The Professional](https://open.spotify.com/track/217JOyBgO5NZZT3v9rnBoO) | [Harry Clean](https://open.spotify.com/artist/130axKrTnqVnPFn7XMnf83) | [The Professional](https://open.spotify.com/album/5JLN0IVLGkdwIn9EWX6bMR) | 1:58 | 2023-06-07 | 2024-03-15 |
 | [The Pumpkin Salesman](https://open.spotify.com/track/4l4v5QIeWOdStZnFTgrf3W) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Meltdown at the Toy Factory](https://open.spotify.com/album/3DsZXB4lnAaVZYTcB11nQw) | 2:45 | 2022-11-18 | 2023-11-11 |
+| [The Quilted Giraffe](https://open.spotify.com/track/1tRpQwnHyJ1zodI0L6hyyn) | [Cosmoo](https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG) | [The Quilted Giraffe](https://open.spotify.com/album/5InkyrNI78I5kdc3QaygdJ) | 1:44 | 2024-04-12 |  |
 | [The Realest](https://open.spotify.com/track/3PSJtsmUpV4Zk6ZPLJmmaI) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Realest](https://open.spotify.com/album/6G42Qb7HVcHAwRQDWvt0Iq) | 2:46 | 2023-02-13 | 2023-10-13 |
 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 | 2022-01-21 | 2022-07-16 |
 | [The Riot](https://open.spotify.com/track/3l7x2uqzhDe6VcSW1IIV3R) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [The Riot](https://open.spotify.com/album/40avBoYjFO8PbcxTaW8DUs) | 2:10 | 2022-12-09 | 2023-09-16 |
@@ -6668,7 +6669,7 @@
 | [You're the Dream I Never Wanna Wake Up From](https://open.spotify.com/track/1k6WdNgK2EFLIr3opwgCpm) | [sad boy with a laptop](https://open.spotify.com/artist/55ZGP7wiI7sIfU36CTeBzT) | [You're the Dream I Never Wanna Wake Up From](https://open.spotify.com/album/4hjaqGRyvkaUqm2SSA9GKj) | 2:21 | 2019-06-23 | 2019-06-25 |
 | [You're Welcome](https://open.spotify.com/track/3LRD83xy49LRTidwhKjbG0) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [You're Welcome](https://open.spotify.com/album/4PcN0xC4tl3UPU02YSzEqv) | 1:47 | 2019-06-09 | 2019-11-29 |
 | [You, My Love](https://open.spotify.com/track/6bO9af6eKCyJtDoAgx0uQB) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2) | [You, My Love](https://open.spotify.com/album/4t3A2y9MwmPgFfC4eZqYqH) | 2:15 | 2023-11-17 |  |
-| [Young Dreamers \- Instrumental](https://open.spotify.com/track/4cpSgAb7dUjgSbciyehq87) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Leo Low Pass](https://open.spotify.com/artist/6O5EImeAtQgZ914wsKeLR7) | [Still Dreaming \(Instrumentals\)](https://open.spotify.com/album/2C1igCIknn0006d8xzIav2) | 2:33 | 2024-04-12 |  |
+| [Young Dreamers \- Instrumental](https://open.spotify.com/track/4cpSgAb7dUjgSbciyehq87) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Leo Low Pass](https://open.spotify.com/artist/6O5EImeAtQgZ914wsKeLR7) | [Still Dreaming \(Instrumentals\)](https://open.spotify.com/album/2C1igCIknn0006d8xzIav2) | 2:33 | 2024-04-12 | 2024-04-19 |
 | [Young Soul](https://open.spotify.com/track/2XMq1uGyf2sBQTJXXdmsYW) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Young Soul](https://open.spotify.com/album/4JSyOhrpHF92DNgRdcYvXD) | 1:39 | 2022-07-08 | 2022-10-21 |
 | [Your Aura](https://open.spotify.com/track/7iwnyFLjOXxdWFEkYGreuW) | [Jrney](https://open.spotify.com/artist/3rMQZdpFopAmh4RNFGRU0T) | [Your Aura](https://open.spotify.com/album/0MfPWm5nJbEd1EASSrStX2) | 2:29 | 2020-08-30 | 2021-10-02 |
 | [Your Eyes](https://open.spotify.com/track/1kR1zMHBceL0bhbtGnyrkP) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Your Eyes](https://open.spotify.com/album/3koTAiq6tJJg5usPYNiKDf) | 2:06 | 2024-03-22 |  |

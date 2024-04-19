@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: CHERISE\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,516 likes - 53 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,804 likes - 53 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 36 | [Beautiful Dreamer](https://open.spotify.com/track/3NPzHaUQnWmoSU1cPjnZLT) | [Rory Sturgeon](https://open.spotify.com/artist/7v5gnZba4iB7tjlnZKS1Oo) | [Beautiful Dreamer](https://open.spotify.com/album/3gUd6UI6ra8jUH1kVk7BWa) | 2:53 |
 | 37 | [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 |
 | 38 | [Glow](https://open.spotify.com/track/4sWb33DsxhA4nR0LGmLjs7) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Glow](https://open.spotify.com/album/1O2hShZVzgvvZgEUV4ssER) | 5:17 |
-| 39 | [Cliff Dunes](https://open.spotify.com/track/5l5oNJOGaq9DTLa3bhLsZk) | [PSA Trio](https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM), [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Sharik Hasan](https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy), [Avery Logan](https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs) | [PSA \(I\)](https://open.spotify.com/album/2wqmd5DoDYnE2f4OfB4beH) | 6:48 |
+| 39 | [Cliff Dunes](https://open.spotify.com/track/1CuS7IbOOGvajoiK11lLMD) | [PSA Trio](https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM), [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Sharik Hasan](https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy), [Avery Logan](https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs) | [PSA](https://open.spotify.com/album/759qx30YELpUI8WKhI9A39) | 6:48 |
 | 40 | [Sunday In The Park](https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh) | [Sammy Jackson](https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y) | [Sunday In The Park](https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL) | 4:25 |
 | 41 | [Moving On](https://open.spotify.com/track/4jTOEKRSmjIzeB8uFI5d07) | [Lawrence Fields](https://open.spotify.com/artist/6Gx8FEiq4GWxQibFuSzmeY) | [To the Surface](https://open.spotify.com/album/6V6ize3i50A084GZA7UZy8) | 8:59 |
 | 42 | [D de Donaire](https://open.spotify.com/track/7oEoRFnE2Cm7bLGuk1YETN) | [Pablo Donaire](https://open.spotify.com/artist/3Y2PPN4bLkAZ7z4171ByVN) | [D de Donaire](https://open.spotify.com/album/3ChawfmCunt7YtBNJ1ALoZ) | 6:19 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 44 | [Motion](https://open.spotify.com/track/3nOqSknOTK1xN0ZwxSu2tv) | [Yevhenii Dubovyk](https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn), [Kyryllch](https://open.spotify.com/artist/7Ajotsth9cvhl7hX2VeFvt), [Andrii Frolov](https://open.spotify.com/artist/4JvXpML8Fo2hBNMVQMExVs), [Ivan Korniienko](https://open.spotify.com/artist/2dSx4VzsV1SB78xjKAuLBS), [Stanislav Diachenko](https://open.spotify.com/artist/4QLuMp5SszGid5FBSaWo4K) | [Motion](https://open.spotify.com/album/10NGY2OWKsOzCBaQKAA6b0) | 4:50 |
 | 45 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 46 | [Tropical Disco](https://open.spotify.com/track/3FbucvtW24qXXByZFO08u4) | [Starwolf](https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV), [Marcello Cassanelli](https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm) | [Tropical Disco](https://open.spotify.com/album/4zUfrhHQNe9MEUq0CjjFeu) | 4:37 |
-| 47 | [From the Fire](https://open.spotify.com/track/7lvM9IebiXmefI2k94OaCc) | [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm) | [From The Fire + Instrumental](https://open.spotify.com/album/1YWX3E6gPicRPN97Rksrf3) | 4:58 |
+| 47 | [From the Fire](https://open.spotify.com/track/7ptZN3udg7LZzmAcT2p85E) | [Audrey Powne](https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm) | [From the Fire](https://open.spotify.com/album/1bbB0rXdfZ8jO7TWuOZMmo) | 4:58 |
 | 48 | [Satellites](https://open.spotify.com/track/6Rmc0ZAzhESwPH9e5hKdj8) | [Lucien Johnson](https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV) | [Satellites](https://open.spotify.com/album/5tA0Ykz8inSNmzTA9iLSsu) | 6:21 |
 | 49 | [Garden View](https://open.spotify.com/track/5bkcJEtnUJeapsTXwo0S6z) | [Salin](https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3) | [Kouta in Siam](https://open.spotify.com/album/185sYGJyCzCm84SbLGC2jT) | 2:39 |
 | 50 | [Nguinya Mulema](https://open.spotify.com/track/3rjMaIg9VeSOjOCrzHyrm4) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Nguinya Mulema](https://open.spotify.com/album/317Z4PKLlx0Et61qpiaHvT) | 4:41 |

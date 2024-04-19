@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,280 likes - 163 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,414 likes - 163 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,14 +119,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 109 | [Ripples in the sand](https://open.spotify.com/track/5QZVpjifzC8k1h4f37ro4B) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Ripples in the sand](https://open.spotify.com/album/4a6ck1QSXNh1mk1LEyI57L) | 3:06 |
 | 110 | [Graceful Embrace](https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Graceful Embrace](https://open.spotify.com/album/65MzPj8IVyE8eBJ2Ml55vS) | 2:20 |
 | 111 | [Epilogue](https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Believe](https://open.spotify.com/album/0Iutlc6WCFQ64TZrdQUECo) | 2:49 |
-| 112 | [Wayside](https://open.spotify.com/track/6CBBglnS5LlPhAAVlexAYt) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/6Mmo52kGpB7c0Hg2UiM9hW) | 2:13 |
+| 112 | [Wayside](https://open.spotify.com/track/3MKIGVnGdYeYNCH9CIXc7A) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/4rHzZA0psmw7iEHjBiRb2o) | 2:13 |
 | 113 | [Mises](https://open.spotify.com/track/0xLmO0851Cwyr9aQEjie6v) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Mises](https://open.spotify.com/album/2jMiVD9mNKLi41SWlyspHP) | 2:03 |
 | 114 | [The Day We Met](https://open.spotify.com/track/2jkeX1SMWAkMTHeigflbjh) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Deep Blue Sea](https://open.spotify.com/album/44rNLzjZt8NJYwrfOv5dO8) | 2:41 |
 | 115 | [Morning Ritual](https://open.spotify.com/track/24aREp2kgpTPjcgBD5ccSh) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [A Single Rose](https://open.spotify.com/album/7aGJT4P2S8Eh1XaE2YQ8mP) | 2:42 |
 | 116 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 |
 | 117 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 |
 | 118 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 |
-| 119 | [Glide](https://open.spotify.com/track/4ErdgxMPqlPd7wNM07oan4) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/4zvQetd2SH0ecyCY14flMz) | 2:29 |
+| 119 | [Glide](https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18) | 2:29 |
 | 120 | [Stargazing](https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Stargazing](https://open.spotify.com/album/4iKix895yw4BjGUysZXtCU) | 2:42 |
 | 121 | [Melibea](https://open.spotify.com/track/6iPklVZHZeyQBqm4zV2ruy) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Melibea](https://open.spotify.com/album/2PwIYDzYOuEYl6ZhttAGI6) | 2:31 |
 | 122 | [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 |

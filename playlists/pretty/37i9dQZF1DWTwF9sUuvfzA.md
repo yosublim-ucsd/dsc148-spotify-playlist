@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwF9sUuvfzA.md) - [plain]
 
 > La playlist ufficiale della nuova stagione! Guarda Skam Italia 6, solo su Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,299 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,302 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwF9sUuvfzA.md) - [plain]
 | 35 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 |
 | 36 | [Non ho più freddo](https://open.spotify.com/track/7dUqdyD6T6sq20XhDOUC6S) | [Ivan Silvestrini](https://open.spotify.com/artist/11EgjjkYzqn7PycxDATAkk) | [Hikikomori](https://open.spotify.com/album/2V9NE1E99zbZDuCKFiIuCu) | 2:07 |
 | 37 | [Balla da sola](https://open.spotify.com/track/1bC4hInJXcqbBPgh8HZcQ6) | [Ivan Silvestrini](https://open.spotify.com/artist/11EgjjkYzqn7PycxDATAkk) | [Anticlimax](https://open.spotify.com/album/52vIxVUQjQAAGHlREVW2Ky) | 3:20 |
-| 38 | [Mi piace](https://open.spotify.com/track/7HBThEfsbTu0m6hWQ4vGmL) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/16gNp90FuTSwbBRulKlFTA) | 3:11 |
+| 38 | [Mi piace](https://open.spotify.com/track/1FVJXPTCvJRsr3H359CuRV) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/0ZEM5B4oMJk6EAhOaekSDk) | 3:11 |
 | 39 | [Bruci la città](https://open.spotify.com/track/188pScGz3iGJpkvLxku5ML) | [Francesco Bianconi](https://open.spotify.com/artist/6MFdJZPZF36B0YbmvCdfTR) | [Accade](https://open.spotify.com/album/4kZruvl50uw3cJhEZtOp5B) | 3:29 |
 | 40 | [Ci sentiamo](https://open.spotify.com/track/4pdm0vwcpK0ZGeovDIXp2T) | [Ivan Silvestrini](https://open.spotify.com/artist/11EgjjkYzqn7PycxDATAkk) | [Lo stesso accade qui](https://open.spotify.com/album/48fKFmYT4Op28WmAwh6wNL) | 6:38 |
 | 41 | [Ufo Robot](https://open.spotify.com/track/3SUsrG4eDnR3p9xznlh8RZ) | [Actarus](https://open.spotify.com/artist/3n9AFp15AsJXurKgSI9Zk2) | [Collection: Tutto Sigle & Cartoni TV](https://open.spotify.com/album/3mpmorbleEZMxEzYcmc861) | 2:54 |

@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184320,
       "name": "50 Bag",
       "url": "https://open.spotify.com/track/0PskmWMf89REo5ndk01GL8"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194420,
       "name": "Always",
       "url": "https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145813,
       "name": "Blessed (with Tyga)",
       "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200370,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165480,
       "name": "Budum",
       "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
@@ -502,7 +502,7 @@
     {
       "album": {
         "name": "Bun Fi Bun (Fast)",
-        "url": "https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3"
+        "url": "https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z"
       },
       "artists": [
         {
@@ -517,6 +517,28 @@
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Bun Fi Bun (Fast)",
+      "url": "https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq"
+    },
+    {
+      "album": {
+        "name": "Bun Fi Bun (Fast)",
+        "url": "https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 149493,
       "name": "Bun Fi Bun - Fast",
       "url": "https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT"
@@ -538,7 +560,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 230157,
       "name": "Call Me (feat. Stefflon Don)",
       "url": "https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma"
@@ -596,7 +618,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/2CuEoTltt7yzIT7ORP75Vy"
@@ -658,7 +680,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250357,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
@@ -792,7 +814,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166699,
       "name": "Crocodile Teeth",
       "url": "https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN"
@@ -810,7 +832,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 161739,
       "name": "Curious",
       "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
@@ -967,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Drunk and Incapable (feat. Melissa Steel)",
+        "url": "https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK"
+      },
+      "artists": [
+        {
+          "name": "Krishane",
+          "url": "https://open.spotify.com/artist/1HUUKt5Ms3fG0VO6JJGicO"
+        },
+        {
+          "name": "Melissa Steel",
+          "url": "https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200379,
+      "name": "Drunk and Incapable (feat. Melissa Steel)",
+      "url": "https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo"
+    },
+    {
+      "album": {
         "name": "Dumpling (dEVOLVE Remix)",
         "url": "https://open.spotify.com/album/0TgAmEpkApIOxhvRqYKgta"
       },
@@ -1020,7 +1064,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 159743,
       "name": "Dumpling - Toddla T Remix",
       "url": "https://open.spotify.com/track/0YLdHkSOh05jocGjQ8mpfc"
@@ -1078,7 +1122,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186265,
       "name": "Dye Dye (Raw)",
       "url": "https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa"
@@ -1150,7 +1194,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226746,
       "name": "Everything Fi Hold Him",
       "url": "https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd"
@@ -1168,7 +1212,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 175445,
       "name": "Execution",
       "url": "https://open.spotify.com/track/4MhSHzlW1y0Q6e60lwwZS5"
@@ -1204,7 +1248,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
@@ -1244,7 +1288,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204500,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL"
@@ -1400,7 +1444,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 166504,
       "name": "Gal a Get More",
       "url": "https://open.spotify.com/track/3gPRyYL4h3E0VUkstlTLSK"
@@ -1418,7 +1462,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 226246,
       "name": "Gal Yuh Body Hot",
       "url": "https://open.spotify.com/track/2jPlPtYwsBM3RUZDI530E8"
@@ -1440,7 +1484,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 131343,
       "name": "Gangster Love",
       "url": "https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op"
@@ -1458,7 +1502,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211666,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
@@ -1660,7 +1704,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 160388,
       "name": "Hard & Done",
       "url": "https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n"
@@ -1704,7 +1748,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 165534,
       "name": "Heavy!",
       "url": "https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf"
@@ -1730,7 +1774,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 165717,
       "name": "Heavy! (Vybz Kartel Remix)",
       "url": "https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt"
@@ -1882,7 +1926,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 171068,
       "name": "Instruction (Gallong Gyal)",
       "url": "https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z"
@@ -2086,7 +2130,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179737,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/6cy4qUAqBO5F5v5TR4AAIP"
@@ -2122,7 +2166,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127346,
       "name": "Mad Out",
       "url": "https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo"
@@ -2162,6 +2206,24 @@
       "duration_ms": 204626,
       "name": "Mango",
       "url": "https://open.spotify.com/track/49oIEfr2Il2yelVtaZTYyY"
+    },
+    {
+      "album": {
+        "name": "Money Fever",
+        "url": "https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151144,
+      "name": "Money Fever",
+      "url": "https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM"
     },
     {
       "album": {
@@ -2332,7 +2394,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 156328,
       "name": "No Rampin (feat. Moelogo & Nadia Rose)",
       "url": "https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww"
@@ -2416,7 +2478,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176587,
       "name": "One Man / Moving On - Raw",
       "url": "https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L"
@@ -2660,7 +2722,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150279,
       "name": "Pull up to Mi Bumper",
       "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
@@ -2696,7 +2758,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 181816,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
@@ -2714,7 +2776,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181816,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/6tz8hU4xMhnvC7duzGjCSX"
@@ -2820,7 +2882,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213600,
       "name": "Romping Shop",
       "url": "https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz"
@@ -2998,7 +3060,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194406,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng"
@@ -3096,7 +3158,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253139,
       "name": "SUH ME LUV IT (feat. Jada Kingdom)",
       "url": "https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO"
@@ -3176,7 +3238,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188737,
       "name": "Talibans",
       "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
@@ -3212,7 +3274,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199627,
       "name": "Tek It To Dem",
       "url": "https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj"
@@ -3320,7 +3382,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
@@ -3338,7 +3400,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187245,
       "name": "Toast - Remix",
       "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
@@ -3448,7 +3510,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 170097,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk"
@@ -3638,7 +3700,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215112,
       "name": "Walking Trophy",
       "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
@@ -3900,7 +3962,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174327,
       "name": "Yamabella",
       "url": "https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1"
@@ -3954,7 +4016,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 154282,
       "name": "Young",
       "url": "https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5boXKbYwAF.md) - [plain]
 
 > Music from "The Imaginary"\. スタジオポノック最新作「屋根裏のラジャー 」の楽曲を1つのプレイリストで。　© 2023 Ponoc
 
-[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 54 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 54 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nothing's Impossible \(from "The Imaginary" soundtrack\)](https://open.spotify.com/track/4JHHiUFhwAAmojORjcgEUG) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Nothing's Impossible \(from "The Imaginary" soundtrack\)](https://open.spotify.com/album/3m9Ps9RBt9AUnmJgwSq9HQ) | 4:21 |
+| 1 | [ナッシングズ・インポッシブル](https://open.spotify.com/track/2eQL1wDRgqBLZ0wux5rqI0) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [屋根裏のラジャー \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4) | 4:24 |
 | 2 | [Interlude for “The Imaginary” Theme – Welcome to the World of the Imaginaries](https://open.spotify.com/track/2vYH2zKOvLxjsa9JwGkHIP) | [屋根裏のラジャー](https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H) | [屋根裏のラジャーInterlude](https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa) | 0:27 |
 | 3 | [イマジナリのテーマ～ようこそ！イマジナリの世界へ](https://open.spotify.com/track/1DIgbhMXhdgxfjdvkgzE4v) | [玉井健二](https://open.spotify.com/artist/60mNzFaJyXwRcr69MqVEtg), [agehasprings](https://open.spotify.com/artist/2henVu4hR7FuLhRSwR9vZQ) | [屋根裏のラジャー \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4) | 4:01 |
 | 4 | [Interlude for Blow Away the Blues](https://open.spotify.com/track/1THP8mlg6De1bNP5vA5YXX) | [屋根裏のラジャー](https://open.spotify.com/artist/6GktUyMMwSKmW9IGqXQX8H) | [屋根裏のラジャーInterlude](https://open.spotify.com/album/4FSvQuDNqKV5ze9VLSltEa) | 0:07 |

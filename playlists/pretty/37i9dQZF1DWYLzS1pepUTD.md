@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,835 likes - 82 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,051 likes - 82 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 77 | [WWE: New Day, New Way \(The New Day\)](https://open.spotify.com/track/46t0t6bhKIdToavghVEXmi) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i) | [WWE: New Day, New Way \(The New Day\)](https://open.spotify.com/album/1lqy388S3GgWr0R9hUQJlA) | 2:34 |
 | 78 | [WWE: I Came To Play \(The Miz\)](https://open.spotify.com/track/0VMqWQGY5xb2yi98bS6z2b) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Downstait](https://open.spotify.com/artist/4g6EnIPhmYBTZ7vsmxDkxH) | [WWE: I Came To Play \(The Miz\)](https://open.spotify.com/album/32niZysz2D9Kn2poOejBfw) | 4:56 |
 | 79 | [WWE: Feel the Power \(Big E\)](https://open.spotify.com/track/0qHls5hkIs5jqVlKZuRvy3) | [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [WWE: Feel the Power \(Big E\)](https://open.spotify.com/album/3SjD5DmlEwdCWR4CQORMGB) | 2:14 |
-| 80 | [WWE: I Am A Psycho \(Shotzi\)](https://open.spotify.com/track/463ybNbB3xgRel2gOS0C3X) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: I Am A Psycho \(Shotzi\)](https://open.spotify.com/album/3K2OAWPu5k1Rx8NkWFq5K1) | 2:45 |
-| 81 | [WWE: Legacy Of The Ghost \(Santos Escobar\)](https://open.spotify.com/track/57do2RsTvIU9zr1JD5zH7r) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Legacy Of The Ghost \(Santos Escobar\)](https://open.spotify.com/album/4ooM3q9JMNUSb6Oc58S3mT) | 2:32 |
+| 80 | [WWE: Ball Pit \(Shotzi\)](https://open.spotify.com/track/0Bzp8e8SE0g8DuccpqOnoO) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Ball Pit \(Shotzi\)](https://open.spotify.com/album/1riQLSsZ8rC04OISFhJswN) | 2:43 |
+| 81 | [WWE: Soul March \(Santos Escobar\)](https://open.spotify.com/track/1vNStl1A5EYQdbgnTpfhBX) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Soul March \(Santos Escobar\)](https://open.spotify.com/album/19BG1o1qSLkBtzUnHG3HDT) | 2:32 |
 | 82 | [WWE: I Won't Do What You Tell Me \(Stone Cold Steve Austin\) \[Original Theme\]](https://open.spotify.com/track/4vHR7NYZh2wbQ6jLlC0wdH) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i) | [WWE: Stone Cold Steve Austin \(The Entrance Music\)](https://open.spotify.com/album/6G3gBUvVjaWTJXjYBln3K0) | 3:03 |
 
 Snapshot ID: `MTcxMTk4NTQ4NSwwMDAwMDAwMDhmOTNkY2U0YzM1ZjAyM2I2MTE0MGZiNmI3ZTdjYTM1`

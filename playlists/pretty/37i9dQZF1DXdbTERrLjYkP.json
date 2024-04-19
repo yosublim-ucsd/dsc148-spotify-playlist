@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Nell Mescal",
-  "num_followers": 95231,
+  "num_followers": 95258,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NzEzMCwwMDAwMDAwMDNlNTg3ODdhZGQ0NDdjNjk1MmNmZDU5MzEzZDJhYjQ4",
+  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDIwNmY1ZDEyZjg0NzdkN2E5NDM5ODlkMGViYWIzMGQx",
   "tracks": [
     {
       "added_at": "2024-04-12 04:45:30",
@@ -23,6 +23,54 @@
       "duration_ms": 204136,
       "name": "Yellow Dresser",
       "url": "https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "What You Wanted",
+        "url": "https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 177803,
+      "name": "What You Wanted",
+      "url": "https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/4QGuaJoRjdOw326Ex7xzwp"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/3CdMzFEOICekztAAcJw3ct"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Your Presence",
+        "url": "https://open.spotify.com/album/1H6Dv712b57GUsb9VvtdYT"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Farren",
+          "url": "https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG"
+        }
+      ],
+      "duration_ms": 199471,
+      "name": "Your Presence",
+      "url": "https://open.spotify.com/track/6urvD8IGktg5UZAsrpxEpp"
     },
     {
       "added_at": "2024-04-12 04:45:30",
@@ -320,7 +368,7 @@
       "added_at": "2024-04-12 04:45:30",
       "album": {
         "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+        "url": "https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT"
       },
       "artists": [
         {
@@ -328,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 194440,
+      "duration_ms": 194604,
       "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+      "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
     },
     {
       "added_at": "2024-04-12 04:45:30",
@@ -459,22 +507,6 @@
       "duration_ms": 190423,
       "name": "talking in your sleep",
       "url": "https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw"
-    },
-    {
-      "added_at": "2024-04-12 04:45:30",
-      "album": {
-        "name": "Bad Timing",
-        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 208978,
-      "name": "Bad Timing",
-      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
     },
     {
       "added_at": "2024-04-12 04:45:30",
@@ -804,7 +836,7 @@
       "added_at": "2024-04-12 04:45:30",
       "album": {
         "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
       },
       "artists": [
         {
@@ -814,7 +846,7 @@
       ],
       "duration_ms": 199756,
       "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
     },
     {
       "added_at": "2024-04-12 04:45:30",
@@ -979,8 +1011,8 @@
     {
       "added_at": "2024-04-12 04:45:30",
       "album": {
-        "name": "County Line",
-        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+        "name": "Looking For",
+        "url": "https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM"
       },
       "artists": [
         {
@@ -990,7 +1022,7 @@
       ],
       "duration_ms": 246000,
       "name": "Looking For",
-      "url": "https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83"
+      "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
     },
     {
       "added_at": "2024-04-12 04:45:30",
@@ -1012,7 +1044,7 @@
       "added_at": "2024-04-12 04:45:30",
       "album": {
         "name": "Better Days",
-        "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
+        "url": "https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc"
       },
       "artists": [
         {
@@ -1022,7 +1054,7 @@
       ],
       "duration_ms": 167865,
       "name": "Better Days",
-      "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
+      "url": "https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d"
     },
     {
       "added_at": "2024-04-12 04:45:30",
@@ -1092,7 +1124,7 @@
       "added_at": "2024-04-12 04:45:30",
       "album": {
         "name": "Cleveland",
-        "url": "https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG"
+        "url": "https://open.spotify.com/album/3EOV98GZqdlAMYRCMSwMbG"
       },
       "artists": [
         {
@@ -1102,7 +1134,7 @@
       ],
       "duration_ms": 190119,
       "name": "Cleveland",
-      "url": "https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY"
+      "url": "https://open.spotify.com/track/5JE0Fw3LPGOmZ1UCqhp9jw"
     },
     {
       "added_at": "2024-04-12 04:45:30",
@@ -1124,7 +1156,7 @@
       "added_at": "2024-04-12 04:45:30",
       "album": {
         "name": "Looking At Me",
-        "url": "https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS"
+        "url": "https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue"
       },
       "artists": [
         {
@@ -1134,7 +1166,7 @@
       ],
       "duration_ms": 192461,
       "name": "Looking At Me",
-      "url": "https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1"
+      "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

@@ -49,6 +49,32 @@
     },
     {
       "album": {
+        "name": "Ibtida",
+        "url": "https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Rajarshi Sanyal",
+          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301156,
+      "name": "Aadatein",
+      "url": "https://open.spotify.com/track/0mo7QWcntm7G2syqkf0cNP"
+    },
+    {
+      "album": {
         "name": "Sapne",
         "url": "https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy"
       },
@@ -496,6 +522,24 @@
       "duration_ms": 210461,
       "name": "Alvida - Unplugged",
       "url": "https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ"
+    },
+    {
+      "album": {
+        "name": "Andhere Ka Sawera",
+        "url": "https://open.spotify.com/album/6kbg7stADaZUYHWduMBzw4"
+      },
+      "artists": [
+        {
+          "name": "Lavanya Dixit",
+          "url": "https://open.spotify.com/artist/4TIlUf7GZgIhIHnLrdYxLm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82152,
+      "name": "Andhere Ka Sawera",
+      "url": "https://open.spotify.com/track/75vCRbmPdxOKzkkLDpgLCU"
     },
     {
       "album": {
@@ -1140,7 +1184,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215217,
       "name": "Chandni Si Raat - Reprise",
       "url": "https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ"
@@ -1613,6 +1657,32 @@
     },
     {
       "album": {
+        "name": "Ibtida",
+        "url": "https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Rajarshi Sanyal",
+          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272756,
+      "name": "Ek Samay",
+      "url": "https://open.spotify.com/track/7ePPBTUfDOj5t6UCXecSLI"
+    },
+    {
+      "album": {
         "name": "Ek Sheher",
         "url": "https://open.spotify.com/album/7aX7q7EJb4cko8NLfzhMne"
       },
@@ -1708,7 +1778,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202220,
       "name": "Ghulaam",
       "url": "https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg"
@@ -2476,6 +2546,28 @@
     {
       "album": {
         "name": "Kabhi Kabhi",
+        "url": "https://open.spotify.com/album/1QWMabbCgjaO8o7fqgeD3w"
+      },
+      "artists": [
+        {
+          "name": "pho",
+          "url": "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC"
+        },
+        {
+          "name": "Mr. Doss",
+          "url": "https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Kabhi Kabhi",
+      "url": "https://open.spotify.com/track/1t3ypW6DYHtxdvR5lPWn8f"
+    },
+    {
+      "album": {
+        "name": "Kabhi Kabhi",
         "url": "https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc"
       },
       "artists": [
@@ -2490,7 +2582,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198000,
       "name": "Kabhi Kabhi",
       "url": "https://open.spotify.com/track/6mh140yXGpf0ABlVna1out"
@@ -2884,7 +2976,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226500,
       "name": "Khaali Panne",
       "url": "https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX"
@@ -3637,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Main Badal Gaya",
+        "url": "https://open.spotify.com/album/4uIseloolEIePDsVQAW6hh"
+      },
+      "artists": [
+        {
+          "name": "Harry Arora",
+          "url": "https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228510,
+      "name": "Main Badal Gaya",
+      "url": "https://open.spotify.com/track/7zDWmBat5hPhGzrvsz4aGH"
+    },
+    {
+      "album": {
         "name": "Article 370",
         "url": "https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY"
       },
@@ -3648,11 +3758,15 @@
         {
           "name": "Shashwat Sachdev",
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 332727,
       "name": "Main Tujhe Phir Miloongi",
       "url": "https://open.spotify.com/track/0T0dczg8pK5vCsnj8GoRcR"
@@ -3678,7 +3792,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332727,
       "name": "Main Tujhe Phir Miloongi",
       "url": "https://open.spotify.com/track/7qnflfkgOUMbVQ7YjlkOT7"
@@ -4448,6 +4562,28 @@
     {
       "album": {
         "name": "Kuhu Kuhu",
+        "url": "https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB"
+      },
+      "artists": [
+        {
+          "name": "Khatija Rahman",
+          "url": "https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP"
+        },
+        {
+          "name": "Firdaus Orchestra",
+          "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254091,
+      "name": "Piya Tose Naina Lage Re",
+      "url": "https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn"
+    },
+    {
+      "album": {
+        "name": "Kuhu Kuhu",
         "url": "https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg"
       },
       "artists": [
@@ -4462,36 +4598,10 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258255,
       "name": "Piya Tose Naina Lage Re",
       "url": "https://open.spotify.com/track/6br9un9rA9AqqRTSgWq3jJ"
-    },
-    {
-      "album": {
-        "name": "Kuhu Kuhu",
-        "url": "https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB"
-      },
-      "artists": [
-        {
-          "name": "Khatija Rahman",
-          "url": "https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP"
-        },
-        {
-          "name": "Firdaus Orchestra",
-          "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
-        },
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        }
-      ],
-      "date_added": "2023-09-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
-      "duration_ms": 254091,
-      "name": "Piya Tose Naina Lage Re",
-      "url": "https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn"
     },
     {
       "album": {
@@ -5392,7 +5502,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214000,
       "name": "Teri Batein",
       "url": "https://open.spotify.com/track/3u1Tj8Y8W8mNrHnQ85R7C4"
@@ -6310,10 +6420,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208320,
       "name": "Zara Zara - MTV Unwind",
       "url": "https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M"
+    },
+    {
+      "album": {
+        "name": "Zara Zara - MTV Unwind",
+        "url": "https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208320,
+      "name": "Zara Zara - MTV Unwind",
+      "url": "https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc"
     },
     {
       "album": {

@@ -4,12 +4,13 @@
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp?si=87a2593f6abb427a">Scowl's<a/> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-32 songs - 1 hr 41 min
+33 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30,000 Monkies](https://open.spotify.com/track/0hO33tahX0V8rjyowWpjti) | [Lightning Bolt](https://open.spotify.com/artist/2og3FOCLYXT9H7IYE6QPUq) | [Wonderful Rainbow](https://open.spotify.com/album/4DsHBZ9Cw8D5cE2gmjoaXu) | 3:49 | 2023-12-08 |  |
-| [All Things Ordinary](https://open.spotify.com/track/0319aZdGSQRknC3R23c6J1) | [The Anniversary](https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8) | [Designing a Nervous Breakdown](https://open.spotify.com/album/1LD2jBpotKpAuC0vQtK9Nu) | 3:51 | 2023-12-08 |  |
+| [All Things Ordinary](https://open.spotify.com/track/0319aZdGSQRknC3R23c6J1) | [The Anniversary](https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8) | [Designing a Nervous Breakdown](https://open.spotify.com/album/1LD2jBpotKpAuC0vQtK9Nu) | 3:51 | 2023-12-08 | 2024-04-19 |
+| [All Things Ordinary](https://open.spotify.com/track/0oZkYnk4LWRDD43JbsINb7) | [The Anniversary](https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8) | [Designing a Nervous Breakdown](https://open.spotify.com/album/42fsY10FqhlkSbkJA4lUCJ) | 3:51 | 2023-12-08 |  |
 | [Antabuse](https://open.spotify.com/track/3BjFcVP5mCRocHRuz1JeT5) | [Casket Cassette](https://open.spotify.com/artist/7hpTA4ta9iSezFWhwfEbWK) | [Antabuse](https://open.spotify.com/album/3t1jIinJS1Gb87pW9RWwUz) | 2:22 | 2023-12-08 |  |
 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 | 2023-12-08 |  |
 | [Better Off This Way](https://open.spotify.com/track/4J0J5yU0fmbsOwF1Rophkp) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:11 | 2023-12-08 |  |
@@ -20,8 +21,8 @@
 | [Don't Test the Pest](https://open.spotify.com/track/53Y7W9ZTW53vJXbMbjKUJp) | [Pest Control](https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y) | [Don't Test the Pest](https://open.spotify.com/album/6YkMeBcCcXcc8iCWGhOLjc) | 0:44 | 2023-12-08 |  |
 | [Elastic](https://open.spotify.com/track/2QpoSBsLfzocxIHkRtN2xi) | [Star 99](https://open.spotify.com/artist/0SclPISF5pHutoTooqCfFJ) | [Bitch Unlimited](https://open.spotify.com/album/0ad3GIlZUMyiu3VCCFdK9W) | 2:36 | 2023-12-08 |  |
 | [Fate Is…](https://open.spotify.com/track/0wIwl2tvNN2fxKFh7V9rPF) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/07dXaYcSea0bdLcwmpeZJw) | 2:40 | 2023-12-08 |  |
-| [Feelin' Myself](https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [Ronald Dregan](https://open.spotify.com/album/3w9W3fAOdt8eDPD748VsqV) | 3:44 | 2023-12-08 |  |
-| [Fellin' Myself](https://open.spotify.com/track/4sqGlfDc7QCPvAvUBk4OKn) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [Ronald Dregan For President 2004: Dreganomics](https://open.spotify.com/album/2xvk51ccjE7SThC1PM5E0b) | 3:44 | 2023-12-08 | 2024-04-04 |
+| [Feelin' Myself](https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [Ronald Dregan](https://open.spotify.com/album/3w9W3fAOdt8eDPD748VsqV) | 3:44 | 2023-12-08 | 2024-04-19 |
+| [Fellin' Myself](https://open.spotify.com/track/4sqGlfDc7QCPvAvUBk4OKn) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [Ronald Dregan: Dreganomics](https://open.spotify.com/album/2xvk51ccjE7SThC1PM5E0b) | 3:44 | 2023-12-08 |  |
 | [forever](https://open.spotify.com/track/2nvfv8GSUBtwY7oCFC3zeP) | [blood club](https://open.spotify.com/artist/7fwQXV2gZBk74cDBYpRIfR) | [crybaby](https://open.spotify.com/album/1V1uefbpsw1EALLIzsWjpN) | 2:56 | 2023-12-08 |  |
 | [Heading For Hell](https://open.spotify.com/track/7811tVgmykmUS1TEGRYpWV) | [Anti Cimex](https://open.spotify.com/artist/1mLYahiL1Os2Ill7PRkldB) | [Scandinavian Jawbreaker](https://open.spotify.com/album/4FrDKIfFKugO4jQbjcTEzv) | 3:48 | 2023-12-08 |  |
 | [human debenture](https://open.spotify.com/track/6t4MwCXw0MYC01QHDF2NgL) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [i'm so lucky](https://open.spotify.com/album/3CWtENutenUjSjgdt6XNBa) | 2:21 | 2023-12-08 |  |
@@ -33,8 +34,8 @@
 | [My Somebody](https://open.spotify.com/track/7llhCqgJIxynd6uO5DDdbW) | [Jordan Jones](https://open.spotify.com/artist/5jzNsfaWzpV3g1R88zQYhx) | [Jordan Jones](https://open.spotify.com/album/70RPj9fV8dqxMJh6ioetc6) | 2:25 | 2023-12-08 |  |
 | [No Justice, No Peace](https://open.spotify.com/track/1Yc3ZItIejmZNP7VRYjHnC) | [Aus Rotten](https://open.spotify.com/artist/2AEBd7Gd3l28yVkLLGlD3a) | [The System Works for Them](https://open.spotify.com/album/1oLnRaiMdQf4LH9GmQ5TqL) | 3:03 | 2023-12-08 |  |
 | [Nothing \- From 10 Song 7 Inch EP 1982](https://open.spotify.com/track/52iI6RzIhhzLyLSP685yzh) | [Negative Approach](https://open.spotify.com/artist/1DijMV2W1I2CfGLcarzgav) | [Total Recall](https://open.spotify.com/album/54ebrK34aJ9bHYB6fCr2P0) | 1:51 | 2023-12-08 |  |
-| [Shot Down](https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/4dTxiPkNE6NClPvdrxtXsA) | 1:49 | 2023-12-08 |  |
-| [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-12-08 | 2024-01-25 |
+| [Shot Down](https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/4dTxiPkNE6NClPvdrxtXsA) | 1:49 | 2023-12-08 | 2024-04-19 |
+| [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-12-08 |  |
 | [Stuck on You](https://open.spotify.com/track/6vvy5pRjQOXeigpYE2TDbZ) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 4:28 | 2023-12-08 |  |
 | [Sugarless](https://open.spotify.com/track/54M2XssVMTLbj1xhFiJIhj) | [Autolux](https://open.spotify.com/artist/7HizNYe1mSfmvbXlx3la3m) | [Future Perfect](https://open.spotify.com/album/6LoLOun0sJqNEpSuDZrKoS) | 5:22 | 2023-12-08 |  |
 | [The Brightest Star](https://open.spotify.com/track/719pSqXGWdmjGHJz6n1rad) | [Godstar](https://open.spotify.com/artist/0LeXelhldWZeqIZJrGwk4m) | [The Brightest Star 7" \- EP](https://open.spotify.com/album/5IwakoxqMxlDaEigPTGuJz) | 2:19 | 2023-12-08 |  |

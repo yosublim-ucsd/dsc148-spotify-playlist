@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 187440,
       "name": "365",
       "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187440,
       "name": "365",
       "url": "https://open.spotify.com/track/5ywWzoH8TFmthpebFjCyR3"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 229306,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150491,
       "name": "Alpine Green",
       "url": "https://open.spotify.com/track/5eBrtJj35okckUbYP78X14"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 178252,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 227497,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 167304,
       "name": "Floorboards",
       "url": "https://open.spotify.com/track/3DZKzoLMmAXIEH0vIDILjk"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 194069,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/1xFGvwqlCx7vnCkviqon4J"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 233080,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3LN4IPqwKfNaZh6eyc1arz"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123374,
       "name": "I Can See New Zealand From Here",
       "url": "https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh"
@@ -2054,6 +2054,24 @@
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
+    },
+    {
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "album": {
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143842,
       "name": "Love, The Time Is Now",
       "url": "https://open.spotify.com/track/1lyMIOFj8fddSUNVnPwZ5r"
@@ -2512,7 +2530,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192000,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171789,
       "name": "My Heart Can't Take A Hint",
       "url": "https://open.spotify.com/track/79r6w6rpfSDdq2qSleztWj"
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271093,
       "name": "Petals",
       "url": "https://open.spotify.com/track/7Ez1T8CS8CeXTwMnLzDWiR"
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 216684,
       "name": "So I've Been Told",
       "url": "https://open.spotify.com/track/1tAFpWt9kNI3b17so9ZfxN"
@@ -3978,10 +3996,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196719,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu"
+    },
+    {
+      "album": {
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/7MHyuzz7zHhGvbgWfXWKAR"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196719,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/5QdPm7hJxZj3YvumMBLhsV"
     },
     {
       "album": {
@@ -4039,6 +4075,24 @@
     },
     {
       "album": {
+        "name": "This Is How We Move",
+        "url": "https://open.spotify.com/album/5ni8B7V4FIXt61Jkghjkf9"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186168,
+      "name": "This Is How We Move",
+      "url": "https://open.spotify.com/track/5bQV0NEKpqCd3Erpau30VL"
+    },
+    {
+      "album": {
         "name": "Drop Cherries",
         "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
@@ -4050,7 +4104,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186168,
       "name": "This Is How We Move",
       "url": "https://open.spotify.com/track/7BDBOaBevxxjq2VN3WrUyS"
@@ -4266,7 +4320,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260000,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
@@ -4428,7 +4482,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 248337,
       "name": "Wild Garlic",
       "url": "https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF"

@@ -2392,6 +2392,44 @@
     {
       "album": {
         "name": "Pari Hoon Main (From \"Thank You For Coming\")",
+        "url": "https://open.spotify.com/album/3Xdjd6F5JB9EFMXCDbrwLk"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Sushant Divgikar",
+          "url": "https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8"
+        },
+        {
+          "name": "Rahul Pais",
+          "url": "https://open.spotify.com/artist/0iByQOkheGQaW823yagplF"
+        },
+        {
+          "name": "Nariman Khambata",
+          "url": "https://open.spotify.com/artist/3kvPoJrBHkhNT8j7Pj8QZN"
+        },
+        {
+          "name": "Leslee Lewis",
+          "url": "https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV"
+        },
+        {
+          "name": "Rajesh Johri",
+          "url": "https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199824,
+      "name": "Pari Hoon Main (From \"Thank You For Coming\")",
+      "url": "https://open.spotify.com/track/6ENW5H0OaRbNDESsXljuOb"
+    },
+    {
+      "album": {
+        "name": "Pari Hoon Main (From \"Thank You For Coming\")",
         "url": "https://open.spotify.com/album/7FeW62hoXwElXFoDpMhpCj"
       },
       "artists": [
@@ -2486,7 +2524,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199824,
       "name": "Pari Hoon Main (From \"Thank You For Coming)",
       "url": "https://open.spotify.com/track/4351grftIjxdiHySLZYrvS"
@@ -2905,6 +2943,32 @@
     },
     {
       "album": {
+        "name": "Sakhiyan2.0 - BellBottom",
+        "url": "https://open.spotify.com/album/5iXTBxq6U8TlbjRIDEDItN"
+      },
+      "artists": [
+        {
+          "name": "Maninder Buttar",
+          "url": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177694,
+      "name": "Sakhiyan2.0",
+      "url": "https://open.spotify.com/track/2hTn8oS49IQULxAWs7hEBz"
+    },
+    {
+      "album": {
         "name": "Sakhiyan2.0 (From \"BellBottom\") - Single",
         "url": "https://open.spotify.com/album/3T7z9uyd25hw8zLcxkS5Yc"
       },
@@ -2924,7 +2988,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177694,
       "name": "Sakhiyan2.0 (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
@@ -3620,6 +3684,40 @@
     {
       "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW"
+    },
+    {
+      "album": {
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
       },
       "artists": [
@@ -3650,7 +3748,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"

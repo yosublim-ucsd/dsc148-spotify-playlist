@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 166902,
       "name": "AMANA",
       "url": "https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166903,
       "name": "AMANA",
       "url": "https://open.spotify.com/track/0DAnkEea6lZ0CFlZMHWop0"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217021,
       "name": "Hiya Hiya",
       "url": "https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 217021,
       "name": "Hiya Hiya",
       "url": "https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121250,
       "name": "LOVE DOCTOR",
       "url": "https://open.spotify.com/track/3cyW7qRBsH3S95gP1IuXmS"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 121250,
       "name": "LOVE DOCTOR",
       "url": "https://open.spotify.com/track/76IYiajfXenzXODVm000sw"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272509,
       "name": "my secrets",
       "url": "https://open.spotify.com/track/2FUMEJlBFVUaa8ikJD29lF"
@@ -1142,15 +1142,11 @@
         {
           "name": "Bigsam",
           "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        },
-        {
-          "name": "siilawy",
-          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
         }
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 207840,
       "name": "Ountha",
       "url": "https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1"
@@ -1172,7 +1168,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207888,
       "name": "Ountha",
       "url": "https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN"
@@ -1528,7 +1524,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252639,
       "name": "Ya Lalali",
       "url": "https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529"
@@ -1546,7 +1542,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 252639,
       "name": "Ya Lalali",
       "url": "https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv"
@@ -1676,7 +1672,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 272514,
       "name": "\u0627\u0644\u0633\u0631",
       "url": "https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3"
@@ -1820,7 +1816,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105810,
       "name": "\u0634\u0641\u062a\u0647\u0627 \u0648\u0639\u0642\u0644\u064a \u0631\u0627\u0633\u0627 \u0637\u0627\u0631",
       "url": "https://open.spotify.com/track/2hXeiHmVkR1DNL99tr7Rf2"
@@ -1838,7 +1834,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 105810,
       "name": "\u0634\u0641\u062a\u0647\u0627 \u0648\u0639\u0642\u0644\u064a \u0631\u0627\u0633\u0627 \u0637\u0627\u0631",
       "url": "https://open.spotify.com/track/7ypmlaEF73dkmyo6KKOgeL"
@@ -1878,7 +1874,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 187501,
       "name": "\u0639\u0634\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D"
@@ -1896,7 +1892,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187501,
       "name": "\u0639\u0634\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR"
@@ -1944,7 +1940,7 @@
       },
       "artists": [
         {
-          "name": "Omar Dafencii",
+          "name": "Dafencii",
           "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
         },
         {
@@ -1954,7 +1950,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 164959,
       "name": "\u0643\u0646\u0642 \u0627\u0644\u062d\u0644\u0628\u0629",
       "url": "https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW"
@@ -1976,7 +1972,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164959,
       "name": "\u0643\u0646\u0642 \u0627\u0644\u062d\u0644\u0628\u0629 (feat. Khayyat)",
       "url": "https://open.spotify.com/track/2CGwAtvjAvC5gjSqg70pm1"
@@ -2052,7 +2048,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 197537,
       "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
       "url": "https://open.spotify.com/track/4VEJSIx2XA4MZbNzRDLQNz"
@@ -2070,7 +2066,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197601,
       "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
       "url": "https://open.spotify.com/track/3LoGJ6zyg8fjU6VUZrY22J"

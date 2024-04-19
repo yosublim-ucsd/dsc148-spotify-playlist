@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain]
 
 > Enjoy the NCT DREAM Berlin concert LIVE SET including the voices of members on stage! \(NCT DREAM 멤버들의 무대의 목소리가 포함된 베를린 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,386 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,458 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain]
 | 5 | [Greetings from NCT DREAM](https://open.spotify.com/track/3exqacShAPj7sUdxLiDBBc) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’](https://open.spotify.com/album/4h8UgrSzeee1AmvokOOxfy) | 1:21 |
 | 6 | [Greetings from Individual Members](https://open.spotify.com/track/2ybodQpyGe30qUBBgBHa4E) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’](https://open.spotify.com/album/4h8UgrSzeee1AmvokOOxfy) | 7:47 |
 | 7 | [About 'Dreaming'](https://open.spotify.com/track/4ffr77VSAexTpXFkbmiiRw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’](https://open.spotify.com/album/4h8UgrSzeee1AmvokOOxfy) | 0:32 |
-| 8 | [Dreaming](https://open.spotify.com/track/79IikGOqOg2Rnnz0Fo5Qao) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:10 |
-| 9 | [Déjà Vu](https://open.spotify.com/track/1fFcWSwHHYdrNlDIJWNT0R) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:27 |
+| 8 | [Dreaming](https://open.spotify.com/track/00Qg5kk0QM1UtQMXPEPo7j) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 3:10 |
+| 9 | [Déjà Vu](https://open.spotify.com/track/73TM9iCEp8VtKZNXZADbQb) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/1rGpCbxrR8efs4nMPdUj1q) | 3:27 |
 | 10 | [마지막 첫사랑 My First and Last](https://open.spotify.com/track/24PhZrRiALtUXgdwXkEwGt) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [The First \- The 1st Single Album](https://open.spotify.com/album/4wmCJoHoVwHdSBnLq5d4Sm) | 3:21 |
 | 11 | [Bye My First…](https://open.spotify.com/track/0qhTNlYrAJBXpHHzay7qvM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:27 |
 | 12 | [Love Again](https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:30 |

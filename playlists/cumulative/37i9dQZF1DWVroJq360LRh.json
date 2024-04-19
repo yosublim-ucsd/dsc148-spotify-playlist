@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-21",
   "description": "Acoustic covers to accompany your pilates session.",
-  "name": "Acoustic Pilates (2)",
+  "name": "Acoustic Pilates",
   "tracks": [
     {
       "album": {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 243453,
       "name": "Cool",
       "url": "https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243453,
       "name": "Cool",
       "url": "https://open.spotify.com/track/6lF7TSRbGXhSQhGWQyvBaX"
@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218175,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c"
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218175,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153000,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91"
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177433,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/0nC1qkOgwU7yQZLpUQmUms"
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179346,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2FlG7RSmCD0e3uvSNzdiMe"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203869,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203893,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/6u1E03WKp0QsOfK5FEzzGr"
@@ -3228,7 +3228,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152357,
       "name": "positions - Acoustic",
       "url": "https://open.spotify.com/track/0vcQ2pIVpCjda0peOjOXP1"
@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152357,
       "name": "positions - Acoustic",
       "url": "https://open.spotify.com/track/1Ca0BlORhLRm0Z3F66gh5t"
@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197227,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/0oJdAKfEck3cQxi28lExu2"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197227,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/39ldhlm119RIWwXICpBEkU"
@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 141880,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4nYxHYLezGh4WWuEEjIoPs"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141880,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az"
@@ -3864,7 +3864,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205188,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/5VhW6Px1Nxc2gTqdS4isdl"
@@ -3882,7 +3882,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 205188,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN"

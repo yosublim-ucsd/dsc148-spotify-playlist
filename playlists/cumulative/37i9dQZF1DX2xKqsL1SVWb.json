@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 211456,
       "name": "Antes de Partir - Cap.1",
       "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/20sa61LS3BS3dhOmedmC1A"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185889,
       "name": "Contigo Va a Estar Bien",
       "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178000,
       "name": "Cu\u00e1nto Tiempo sin Verte",
       "url": "https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Hoy Es Hoy",
       "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243175,
       "name": "Hubo Algo - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7vAAJI56AbHvnx1AEdmQPO"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 154048,
       "name": "La Balada de Sarah Lynn",
       "url": "https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211680,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 214500,
       "name": "La Triste Historia de un Cazafantasmas Retirado",
       "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
@@ -1738,6 +1738,24 @@
     {
       "album": {
         "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/24QEcWNmuCzYB7dcb1nUzl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/05dd1UuDnxJzJNOkYgjAPf"
+    },
+    {
+      "album": {
+        "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
       "artists": [
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 222438,
       "name": "Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU"
@@ -2124,7 +2142,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186748,
       "name": "Que no me encuentre",
       "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
@@ -2168,7 +2186,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240880,
       "name": "Quince Mil D\u00edas",
       "url": "https://open.spotify.com/track/0xJDZoUeyeOBlj9jtqhyum"
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 163958,
       "name": "Repetir",
       "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "SIN TI",
       "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244251,
       "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/3vz9KTx96s6arsWmRgpJN0"
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 244251,
       "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
@@ -2880,10 +2898,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220365,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/2BYxK7AncmF8JmYHXFzh38"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220365,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/5pATokMa9U8NXpDjt3gXGt"
     },
     {
       "album": {
@@ -2898,7 +2934,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181093,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
@@ -3136,7 +3172,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134470,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"

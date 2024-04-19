@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,863 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,861 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 | 4 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5ZbZJ4dQWi1JBkyEY3KNSI) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3eEeXbemnjgvuGoDbHndIu) | 2:58 |
 | 5 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/73c4lbbl4EOdb8tHsSkHVC) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [What Christmas Means to Me](https://open.spotify.com/album/661KZ9ps7JOOTffnK2zeQb) | 3:33 |
 | 6 | [The Most Wonderful Time of the Year](https://open.spotify.com/track/2YJ7szfmAHgJFvZrNHfL8M) | [The Trippin Allstars](https://open.spotify.com/artist/56HG26zbal3fukId2eJbN4) | [This Christmas](https://open.spotify.com/album/5nYrP2zWbOJRkCCPVMy4Ue) | 4:55 |
-| 7 | [The Christmas Song](https://open.spotify.com/track/5nT9ArtXb3OMLQdFvzm6D1) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4FSzrcXxW3BmqsOcNydE4H) | 3:41 |
+| 7 | [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 |
 | 8 | [My Grown Up Christmas List](https://open.spotify.com/track/2aNQUanNORng6vQCpdPMt3) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Christmas Present](https://open.spotify.com/album/6ZKDifTK1ilxVQ9e83QluU) | 4:43 |
 | 9 | [A Silent Night](https://open.spotify.com/track/3AX2SrD2UnZ2uNcGeDsFrv) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [A Silent Night](https://open.spotify.com/album/0bmUJW3r9I5TBFSZEXt7bC) | 4:10 |
 | 10 | [The Magi's Song / A Child Is Born](https://open.spotify.com/track/1PtXxxWRUNO3Di2CuS036c) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Breath Of Heaven \- A Holiday Collection](https://open.spotify.com/album/5jb5ySoX2Sesf6Ybsu1lAo) | 4:52 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 | 16 | [Give Love On Christmas Day](https://open.spotify.com/track/5CBg1kk31ThEySWb6AUEG6) | [Antonio Allen](https://open.spotify.com/artist/05rspYZjHPapSedkNKUX5u) | [The Ultimate Gift](https://open.spotify.com/album/5b5rLMaXH0hq5kE7IByapQ) | 3:44 |
 | 17 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/3SntjRYVRPJ8NU42uKmnEK) | [Andre Delano](https://open.spotify.com/artist/2gxojbTSW5wXJHXXhsWvqw) | [First Christmas](https://open.spotify.com/album/7umUdxSmcgrNGpg4CMJFVk) | 4:21 |
 | 18 | [The Christmas Waltz](https://open.spotify.com/track/3AfoQsG5S3Ksh4862CsPLW) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Breath Of Heaven \- A Holiday Collection](https://open.spotify.com/album/5jb5ySoX2Sesf6Ybsu1lAo) | 4:43 |
-| 19 | [Angels We Have Heard On High](https://open.spotify.com/track/0xysaDMwmF0jmtf0htOFn9) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Snowbound](https://open.spotify.com/album/0KFxRqO4FUXlOZ1GbPgJ23) | 4:51 |
+| 19 | [Angels We Have Heard On High](https://open.spotify.com/track/12Bgw8ZZEWfVS1kkn6502z) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Snowbound](https://open.spotify.com/album/4KW0MUvW0oeLY8xUtmSBof) | 4:51 |
 | 20 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/4QyoccZRXcLSXfaBxGi84w) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Faith \- A Holiday Album](https://open.spotify.com/album/4AokESVAm0tGIAQzDMxzMT) | 3:08 |
 | 21 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/1yV7p2Pa2O8aikHIBTyQKA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [December](https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG) | 4:07 |
 | 22 | [Hark The Herald Angels Sing](https://open.spotify.com/track/0uc1RuwvJCJxP6SY8wNOWY) | [Ron Brown](https://open.spotify.com/artist/4DxoUVT94G1TrSPWUE6eWS) | [In The Christmas Spirit](https://open.spotify.com/album/2e1qQezB37nL0KrpS5P3uk) | 4:31 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 | 25 | [Happy Christmas](https://open.spotify.com/track/5RoTkfo12pRhmBy2srqA7A) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Happy Christmas](https://open.spotify.com/album/1r2c5paX9fbgMn84LGfXPU) | 3:48 |
 | 26 | [Joy To The World](https://open.spotify.com/track/6B90eiWt4oasFMbIifwMxs) | [Greg Vail](https://open.spotify.com/artist/6Yn96DfeLuerxcXxIYMKBK) | [Christmas, The Hymns](https://open.spotify.com/album/07VDMOEQHxMV4VfXzxO2TD) | 3:22 |
 | 27 | [Silent Night](https://open.spotify.com/track/0TckXJ96MJhzgTNEuhCh1Y) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 3:32 |
-| 28 | [Carol of the Bells](https://open.spotify.com/track/1swZg5sDaTaDt7dNNYkraz) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Snowfall](https://open.spotify.com/album/0NPir3XTu1H9UQO9giMjag) | 3:41 |
+| 28 | [Carol of the Bells](https://open.spotify.com/track/66JeuWwh9b1m4ZF4jYg8Gv) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Snowfall](https://open.spotify.com/album/0EVyte0jy30c8LUTyP2H9x) | 3:41 |
 | 29 | [Jingle Bells](https://open.spotify.com/track/6XnXovngOkOcXJQ3GcJQul) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [A Warren Hill Christmas](https://open.spotify.com/album/2yXQ76ZoWaL2mdzwjBLXQM) | 3:48 |
 | 30 | [O Tannenbaum](https://open.spotify.com/track/6T3Qc0IJ9qRx4YIsYJiZma) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [40 Years: A Charlie Brown Christmas](https://open.spotify.com/album/1YkhNOFpFKKA2oGw9NSenB) | 3:51 |
 | 31 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/3BT41D2fpKvZ35416E1iXp) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Christmas With the Saxtress](https://open.spotify.com/album/173m7v4ijnNTiGhKQd99vx) | 3:50 |

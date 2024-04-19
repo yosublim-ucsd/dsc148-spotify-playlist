@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174623,
       "name": "Leave",
       "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 174635,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135831,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 135831,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x"
@@ -1490,6 +1490,24 @@
     {
       "album": {
         "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
+    },
+    {
+      "album": {
+        "name": "UDNTLUVME",
         "url": "https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0"
       },
       "artists": [
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138461,
       "name": "UDNTLUVME",
       "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108923,
       "name": "You",
       "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 108923,
       "name": "You",
       "url": "https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI"

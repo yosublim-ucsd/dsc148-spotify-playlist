@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 760605,
+  "2024-04-19": 761319,
   "date_first_scraped": "2022-01-02",
   "description": "Come closer and see... into the dark. The Cure on cover.",
   "name": "Dark & Gothic",
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 278413,
       "name": "Allegedly, Dancefloor Tragedy",
       "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
@@ -2815,6 +2815,24 @@
       "duration_ms": 334666,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/5Dq4m4g2jrB3JlYlGGLqwm"
+    },
+    {
+      "album": {
+        "name": "Retro Mania 10",
+        "url": "https://open.spotify.com/album/5zspHu0KjBznd1Di6W8VRU"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334666,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/6PvHGd0HLGkX6V8HPb0Xvl"
     },
     {
       "album": {

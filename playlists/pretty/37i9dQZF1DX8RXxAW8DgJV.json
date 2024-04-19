@@ -1,6 +1,6 @@
 {
   "description": "Come on Girls, it's Time to get Ready and Glow!\nCover : Rashi Khanna",
-  "num_followers": 57797,
+  "num_followers": 57882,
   "original_name": "GRWM Tamil",
   "owner": {
     "name": "Spotify",
@@ -51,10 +51,14 @@
     {
       "added_at": "2023-05-19 11:16:54",
       "album": {
-        "name": "Dasara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
+        "name": "Mainaru Vetti Katti (From \"Dasara\") (Tamil)",
+        "url": "https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV"
       },
       "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
@@ -62,15 +66,11 @@
         {
           "name": "Dhee",
           "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        },
-        {
-          "name": "Muthamil",
-          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
         }
       ],
       "duration_ms": 203052,
       "name": "Mainaru Vetti Katti",
-      "url": "https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk"
+      "url": "https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj"
     },
     {
       "added_at": "2022-10-18 04:19:43",
@@ -115,8 +115,8 @@
     {
       "added_at": "2023-05-19 11:16:54",
       "album": {
-        "name": "Aga Naga (From \"Ponniyin Selvan Part-2\")",
-        "url": "https://open.spotify.com/album/4HEACUVhQAahmsz9n5q3yn"
+        "name": "Aga Naga (From \u201cPonniyin Selvan Part-2\u201d) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5A576slaUQhlCvNZtWynEX"
       },
       "artists": [
         {
@@ -126,15 +126,11 @@
         {
           "name": "Shakthisree Gopalan",
           "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Ilango Krishnan",
-          "url": "https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo"
         }
       ],
       "duration_ms": 243438,
-      "name": "Aga Naga (From \"Ponniyin Selvan Part-2\")",
-      "url": "https://open.spotify.com/track/2AU6aT9op6YzjOmsHOGOo0"
+      "name": "Aga Naga (From \u201cPonniyin Selvan Part-2\u201d)",
+      "url": "https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ"
     },
     {
       "added_at": "2021-06-24 11:29:01",
@@ -387,13 +383,13 @@
     {
       "added_at": "2022-10-18 04:19:43",
       "album": {
-        "name": "Minnalae (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6YU8UWD0sq0b3nAbR3pUfz"
+        "name": "Minnalae",
+        "url": "https://open.spotify.com/album/5D43FdsC4l29brx9n6cjBn"
       },
       "artists": [
         {
-          "name": "P. Unnikrishnan",
-          "url": "https://open.spotify.com/artist/26keeOxKiegOKx393CdcBH"
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
         },
         {
           "name": "Harini",
@@ -402,7 +398,7 @@
       ],
       "duration_ms": 324938,
       "name": "Verenna (Ivan Yaro)",
-      "url": "https://open.spotify.com/track/1ehPUo1i2CYfbhLdyZTS9H"
+      "url": "https://open.spotify.com/track/1XTEmKvJNskIc72sfS4zNA"
     },
     {
       "added_at": "2022-10-18 04:19:43",
@@ -428,7 +424,7 @@
       "added_at": "2022-10-18 04:19:43",
       "album": {
         "name": "Saamy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7BUEH5n79XcNOrTVtmNhGj"
+        "url": "https://open.spotify.com/album/2SEX0ZJdIoxmvAG07SBZpU"
       },
       "artists": [
         {
@@ -449,8 +445,8 @@
         }
       ],
       "duration_ms": 303424,
-      "name": "Pudichirukku",
-      "url": "https://open.spotify.com/track/6fTKv76b9fXlf0KRgPQzIj"
+      "name": "Pudichirukku (From \"Saamy\")",
+      "url": "https://open.spotify.com/track/1pcaKy7y1TlW4QnQ1UDnZJ"
     },
     {
       "added_at": "2022-10-18 04:19:43",
@@ -519,8 +515,8 @@
     {
       "added_at": "2022-10-18 04:19:43",
       "album": {
-        "name": "Hits of Harris & Yuvan Isai Thendral",
-        "url": "https://open.spotify.com/album/0mID66WWYchIZY5DzafyTr"
+        "name": "Sandakozhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aNsjCLxmlZKjg2O0lUDpd"
       },
       "artists": [
         {
@@ -528,13 +524,13 @@
           "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
         },
         {
-          "name": "Sujatha",
-          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+          "name": "Srerayakoshi",
+          "url": "https://open.spotify.com/artist/0yfKQa4tqnvTdL3fBFIJnP"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Thavani Pootta (From \"Sandakozhi\")",
-      "url": "https://open.spotify.com/track/0CmXnoIhxUwHiaSQab2cnM"
+      "duration_ms": 262922,
+      "name": "Thavani Pootta",
+      "url": "https://open.spotify.com/track/3wydawoyVWid46mYMj1wdk"
     },
     {
       "added_at": "2022-10-18 04:19:43",
@@ -663,8 +659,8 @@
     {
       "added_at": "2022-10-18 04:19:43",
       "album": {
-        "name": "Manmadhan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Y7FfRUWBEKImjc2T6NjzO"
+        "name": "Manmadhan",
+        "url": "https://open.spotify.com/album/1zXJtkBDoTnzJlJbf71RU5"
       },
       "artists": [
         {
@@ -676,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
         }
       ],
-      "duration_ms": 272135,
+      "duration_ms": 271339,
       "name": "Manmadhane Nee",
-      "url": "https://open.spotify.com/track/65Ey2oJuyHPGWpwjVJ13kd"
+      "url": "https://open.spotify.com/track/0CkDv2V3FFhltON32OwE0x"
     },
     {
       "added_at": "2022-10-18 04:19:43",
@@ -759,10 +755,14 @@
     {
       "added_at": "2021-06-24 11:29:01",
       "album": {
-        "name": "Maari 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5mly2tG8K6NL6KKSLSxgXC"
+        "name": "Rowdy Baby (From 'Maari 2' Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OtXwT06jhIGwJdSUHYFjY"
       },
       "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
         {
           "name": "Dhanush",
           "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
@@ -774,7 +774,7 @@
       ],
       "duration_ms": 281440,
       "name": "Rowdy Baby",
-      "url": "https://open.spotify.com/track/3c6Y3iJr3bm6utsdRcm30J"
+      "url": "https://open.spotify.com/track/0Tm5ER6IrGfmW0yZ5lkQli"
     },
     {
       "added_at": "2021-06-24 11:29:01",
@@ -887,8 +887,8 @@
     {
       "added_at": "2021-06-24 11:29:01",
       "album": {
-        "name": "Rockstar Anirudh Special",
-        "url": "https://open.spotify.com/album/43MRDI02yQ8V1lGyveTq4C"
+        "name": "Naanum Rowdy Dhaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx"
       },
       "artists": [
         {
@@ -898,27 +898,23 @@
       ],
       "duration_ms": 262539,
       "name": "Thangamey",
-      "url": "https://open.spotify.com/track/3Oh1zx6YSpHMk7R4grBIiI"
+      "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
     },
     {
       "added_at": "2021-06-24 11:29:01",
       "album": {
         "name": "Kavan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2xe8UP9JCeVFeprWWuQJFh"
+        "url": "https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9"
       },
       "artists": [
         {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Sudharshan Ashok",
-          "url": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
+          "name": "Hiphop Tamizha,Sudarshan Ashok",
+          "url": "https://open.spotify.com/artist/5Uj9KvhWJBUZQpuTeHslo9"
         }
       ],
       "duration_ms": 274114,
       "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4fOd87EwMLT1YlIKas0Zz3"
+      "url": "https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m"
     },
     {
       "added_at": "2021-06-24 11:29:01",
@@ -1007,14 +1003,10 @@
     {
       "added_at": "2021-06-24 11:29:01",
       "album": {
-        "name": "Enai Noki Paayum Thota (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2eGMsf3wqm3u0fdcvpszk3"
+        "name": "Maruvaarthai (From 'Enai Noki Paayum Thota')",
+        "url": "https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ"
       },
       "artists": [
-        {
-          "name": "Darbuka Siva",
-          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
-        },
         {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
@@ -1022,7 +1014,7 @@
       ],
       "duration_ms": 356718,
       "name": "Maruvaarthai",
-      "url": "https://open.spotify.com/track/7dbzO881X6TVJST6EKhnDg"
+      "url": "https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA"
     },
     {
       "added_at": "2021-06-24 11:29:01",

@@ -105,6 +105,32 @@
     },
     {
       "album": {
+        "name": "Delibes: Copp\u00e9lia",
+        "url": "https://open.spotify.com/album/2PiJBT5XnJeeMatVuBPPNT"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Orchestre de la Suisse Romande",
+          "url": "https://open.spotify.com/artist/4NzLn7UyhvBlgzhF7WwMM1"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Copp\u00e9lia / Tableau 2: No. 11 Musique des automates - sc\u00e8ne",
+      "url": "https://open.spotify.com/track/0cMdRZrg2uqH1hcXb3aBRM"
+    },
+    {
+      "album": {
         "name": "Delibes: Copp\u00e9lia/Massenet: Le Carillon",
         "url": "https://open.spotify.com/album/7bsHDZjD13p1TqmZtgOqTv"
       },
@@ -124,7 +150,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193000,
       "name": "Copp\u00e9lia / Tableau 2: No. 11 Musique des automates - sc\u00e8ne",
       "url": "https://open.spotify.com/track/4n60ppJDerFmpqrlKZSkQe"
@@ -154,7 +180,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 277226,
       "name": "Copp\u00e9lia / Tableau 3: No. 20 F\u00eate de la cloche: 7a) La paix",
       "url": "https://open.spotify.com/track/0ANp1Bv8q6Ll0W9T2vEOpi"
@@ -184,7 +210,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277240,
       "name": "Copp\u00e9lia / Tableau 3: No. 20 F\u00eate de la cloche: 7a) La paix",
       "url": "https://open.spotify.com/track/0I7opTitL3sfEJlmy5hajW"
@@ -240,7 +266,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127026,
       "name": "Copp\u00e9lia: Copp\u00e9lia, Act I: Valse Lente",
       "url": "https://open.spotify.com/track/3m3sGx5h2FG461vLt0WYzV"
@@ -262,7 +288,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127026,
       "name": "Copp\u00e9lia: Valse Lente",
       "url": "https://open.spotify.com/track/4UeByVN9dNidVPBJ7kpv1a"
@@ -340,7 +366,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234573,
       "name": "El amor brujo: Danza ritual del fuego, para ahuyentar los malos esp\u00edritus",
       "url": "https://open.spotify.com/track/3NazZXKr4hsWmPcXGdqUjw"
@@ -366,7 +392,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234573,
       "name": "El amor brujo: Danza ritual del fuego, para ahuyentar los malos esp\u00edritus",
       "url": "https://open.spotify.com/track/3z5SGBVtXxLe3aLUZPIVc2"
@@ -704,7 +730,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 436000,
       "name": "Le roi de Lahore, Opera in five Acts: Entr'acte Act V & Adagio & Waltz, Ballet Act III",
       "url": "https://open.spotify.com/track/0ekjNSeieypnjsTUKqW46v"
@@ -730,7 +756,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 438760,
       "name": "Le roi de Lahore, Opera in five Acts: Entr'acte Act V & Adagio & Waltz, Ballet Act III",
       "url": "https://open.spotify.com/track/5P1MW5xAwtVjhllL3v523n"
@@ -756,10 +782,36 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 366040,
       "name": "Les Sylphides: 2. Nocturne, Op. 32, No. 2",
       "url": "https://open.spotify.com/track/3BkGRO8WB5BBKKYqxTjEYl"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Boutique Fantasque / Chopin: Les Sylphides / Massenet: M\u00e9ditation from \"Tha\u00efs\"",
+        "url": "https://open.spotify.com/album/4XB5x3IhhlTboeH0FTcJcI"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366133,
+      "name": "Les Sylphides: 2. Nocturne, Op. 32, No. 2",
+      "url": "https://open.spotify.com/track/1yMrMo2x0gfSl2mGDtEpfJ"
     },
     {
       "album": {
@@ -786,32 +838,6 @@
       "duration_ms": 366133,
       "name": "Les Sylphides: 2. Nocturne, Op. 32, No. 2",
       "url": "https://open.spotify.com/track/5U7eGdN1CsZw6R2ZXlfljf"
-    },
-    {
-      "album": {
-        "name": "Rossini: La Boutique Fantasque / Chopin: Les Sylphides / Massenet: M\u00e9ditation from \"Tha\u00efs\"",
-        "url": "https://open.spotify.com/album/4XB5x3IhhlTboeH0FTcJcI"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2022-07-08",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 366133,
-      "name": "Les Sylphides: 2. Nocturne, Op.32, No.2",
-      "url": "https://open.spotify.com/track/1yMrMo2x0gfSl2mGDtEpfJ"
     },
     {
       "album": {
@@ -1256,7 +1282,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 563693,
       "name": "Spartacus, Act III: Adagio of Spartacus and Phrygia (arr. Y. Grigorovich) [1968 Bolshoi Version]",
       "url": "https://open.spotify.com/track/0y02m6KIZ9DYC31jqcvggv"
@@ -1286,7 +1312,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 563693,
       "name": "Spartacus, Act III: Adagio of Spartacus and Phrygia (arr. Y. Grigorovich) [1968 Bolshoi Version]",
       "url": "https://open.spotify.com/track/1SWAxEdvQpu9ARUn9Xw1bp"
@@ -1620,7 +1646,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 191160,
       "name": "The Nutcracker, Op. 71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
       "url": "https://open.spotify.com/track/0AyNC0zlef2QbJ01Xfq8Wf"
@@ -1646,7 +1672,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191160,
       "name": "The Nutcracker, Op. 71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance)",
       "url": "https://open.spotify.com/track/7kIOMHUvbjjosQywMTre1N"
@@ -1750,7 +1776,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279506,
       "name": "The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse",
       "url": "https://open.spotify.com/track/2tLEaS1u9MHIzZ5jqv0R2Y"
@@ -1776,7 +1802,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279506,
       "name": "The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse",
       "url": "https://open.spotify.com/track/4ixh2ds0j86ydQvP0RjwIV"

@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 330,
+  "2024-04-19": 346,
   "date_first_scraped": "2023-09-27",
   "description": "Canta juntos con tus artistas favoritos.",
   "name": "Cantando con tus Favoritos",
@@ -675,7 +675,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 158986,
       "name": "Mal\u00edsima",
       "url": "https://open.spotify.com/track/1wmcsShYTSot5sc8tC0xA9"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 152198,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"

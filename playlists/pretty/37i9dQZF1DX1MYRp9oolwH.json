@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : The Family Star",
-  "num_followers": 120814,
+  "num_followers": 120896,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc0Mjk4NSwwMDAwMDAwMGNmZmY3M2FlMWY4MTQ2MTBlNDIxMzI1MDg0N2Y0M2Fi",
+  "snapshot_id": "MTcxMzQzMjg1MSwwMDAwMDAwMGZkZmRkM2NkY2M3YTQ5YWJkNjE0OTE2MjEwYWRkZjdm",
   "tracks": [
     {
       "added_at": "2024-02-07 10:49:22",
@@ -31,6 +31,30 @@
       "duration_ms": 299109,
       "name": "Nandanandanaa (From \"The Family Star\")",
       "url": "https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi"
+    },
+    {
+      "added_at": "2024-04-18 09:34:11",
+      "album": {
+        "name": "Om Bheem Bush",
+        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
+      },
+      "artists": [
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 211670,
+      "name": "Anuvanuvuu",
+      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
       "added_at": "2024-04-10 09:41:52",
@@ -88,16 +112,16 @@
       "added_at": "2024-04-09 09:04:36",
       "album": {
         "name": "Oh Madam (From \"Aa Okkati Adakku\")",
-        "url": "https://open.spotify.com/album/2m8aC0IEcJ8PAkB1ovb7xa"
+        "url": "https://open.spotify.com/album/4w6Yk9BowBhqsXiqMA7m6A"
       },
       "artists": [
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
           "name": "Gopi Sundar",
           "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
         },
         {
           "name": "Bhaskarabhatla",
@@ -106,7 +130,7 @@
       ],
       "duration_ms": 282636,
       "name": "Oh Madam (From \"Aa Okkati Adakku\")",
-      "url": "https://open.spotify.com/track/469cEOKrNx6i174DME9w60"
+      "url": "https://open.spotify.com/track/2SrTDN6saJjGUH8rbl5uz3"
     },
     {
       "added_at": "2024-04-10 09:56:25",
@@ -380,7 +404,7 @@
       "added_at": "2023-06-02 08:36:51",
       "album": {
         "name": "7:11 PM",
-        "url": "https://open.spotify.com/album/3XgIwL4L4wOU7vSeOJqU5q"
+        "url": "https://open.spotify.com/album/5nGLa40AxpJ13jDVMD7RUT"
       },
       "artists": [
         {
@@ -390,7 +414,7 @@
       ],
       "duration_ms": 228031,
       "name": "Neelaa Nannilaa",
-      "url": "https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C"
+      "url": "https://open.spotify.com/track/0mLyZNyrMZBn2JPB04RqIi"
     },
     {
       "added_at": "2024-03-18 10:53:06",
@@ -468,13 +492,9 @@
       "added_at": "2024-02-09 12:02:40",
       "album": {
         "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
-        "url": "https://open.spotify.com/album/4J1h8xIARJ6El2OREJ8hnI"
+        "url": "https://open.spotify.com/album/3O58tTvMyhvd9LYjNDansR"
       },
       "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
         {
           "name": "Ravi Basrur",
           "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
@@ -482,11 +502,15 @@
         {
           "name": "Kalyan Chakravarthy",
           "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
         }
       ],
       "duration_ms": 201600,
       "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
-      "url": "https://open.spotify.com/track/2LVsSLBBcf75ORYtRcYIO9"
+      "url": "https://open.spotify.com/track/1QBTZy7E6aLKQFuyimNn0m"
     },
     {
       "added_at": "2024-03-27 08:23:37",
@@ -507,17 +531,17 @@
     {
       "added_at": "2024-02-06 12:37:10",
       "album": {
-        "name": "Gaganaala-Love Is in the Air (From \"Operation Valentine\")",
-        "url": "https://open.spotify.com/album/11w65Xlc2RQR0enjIzYtLK"
+        "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\") (Telugu)",
+        "url": "https://open.spotify.com/album/4ZoE4BJJndX6iXdJSNOpar"
       },
       "artists": [
         {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
           "name": "Mickey J. Meyer",
           "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
         },
         {
           "name": "Ramajogayya Sastry",
@@ -525,8 +549,8 @@
         }
       ],
       "duration_ms": 230425,
-      "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\")",
-      "url": "https://open.spotify.com/track/368K2vpr06WF92JU7cDAnD"
+      "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\") (Telugu)",
+      "url": "https://open.spotify.com/track/3laPdjIsdYtkilT6c5N1dn"
     },
     {
       "added_at": "2023-05-29 10:28:29",
@@ -588,9 +612,13 @@
       "added_at": "2024-01-10 13:37:41",
       "album": {
         "name": "Inka Inka (From \"Naa Saami Ranga\")",
-        "url": "https://open.spotify.com/album/5K5MJb8Ql2kI6sQNrZtVtP"
+        "url": "https://open.spotify.com/album/2JPKhBno99Tsb7NrfDLawO"
       },
       "artists": [
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
         {
           "name": "Maman Kumar",
           "url": "https://open.spotify.com/artist/7uI5mgeZckjDanJrVVVatP"
@@ -598,30 +626,26 @@
         {
           "name": "Satya Yamini",
           "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
-        },
-        {
-          "name": "M. M. Keeravani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
         }
       ],
       "duration_ms": 211295,
       "name": "Inka Inka (From \"Naa Saami Ranga\")",
-      "url": "https://open.spotify.com/track/1XEO0GOd3Ds453Ee0uXJLk"
+      "url": "https://open.spotify.com/track/3Tmry3mvrMXSQDxqkFezqC"
     },
     {
       "added_at": "2023-12-11 14:06:21",
       "album": {
-        "name": "Sarada Saradaga (From \"Saindhav\")",
-        "url": "https://open.spotify.com/album/1t517JI97YzmweInvj2heT"
+        "name": "Sarada Saradaga (From \"Saindhav\") (Telugu)",
+        "url": "https://open.spotify.com/album/69tu5JQzhjbk0uNMdzurjU"
       },
       "artists": [
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
           "name": "Santhosh Narayanan",
           "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
         },
         {
           "name": "Ramajogayya Sastry",
@@ -629,8 +653,8 @@
         }
       ],
       "duration_ms": 218842,
-      "name": "Sarada Saradaga (From \"Saindhav\")",
-      "url": "https://open.spotify.com/track/1fOr0ysbNOkHy23yJ5IR1a"
+      "name": "Sarada Saradaga (From \"Saindhav\") (Telugu)",
+      "url": "https://open.spotify.com/track/7vhRfB1xkdItr7e6ilLYxS"
     },
     {
       "added_at": "2023-12-30 11:13:33",
@@ -715,8 +739,8 @@
     {
       "added_at": "2023-09-25 13:41:01",
       "album": {
-        "name": "Oh Na Madhu (From \"Month of Madhu\")",
-        "url": "https://open.spotify.com/album/0cgtH2iPd6EIRrH4952eHj"
+        "name": "Oh Na Madhu (From \"Month Of Madhu\")",
+        "url": "https://open.spotify.com/album/4h23jUnEssjWKPVUAyQWIC"
       },
       "artists": [
         {
@@ -726,19 +750,11 @@
         {
           "name": "Yamini Ghantasala",
           "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
-        },
-        {
-          "name": "Achu",
-          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
-        },
-        {
-          "name": "Srikanth Nagothi",
-          "url": "https://open.spotify.com/artist/55ANhricDJkaIg0AzcWrZq"
         }
       ],
       "duration_ms": 224554,
       "name": "Oh Na Madhu (From \"Month Of Madhu\")",
-      "url": "https://open.spotify.com/track/1Bw2vPShbMpG1icqIfsKlW"
+      "url": "https://open.spotify.com/track/1Q3toQpRmia59SoJpo8m0g"
     },
     {
       "added_at": "2023-10-05 12:03:17",
@@ -772,7 +788,7 @@
       "added_at": "2023-09-21 12:52:55",
       "album": {
         "name": "Maaye Chesi (From \"Devil - The British Secret Agent\")",
-        "url": "https://open.spotify.com/album/079eWocZWCXLpUuErQmqMX"
+        "url": "https://open.spotify.com/album/7GFHgmIeKYt8B9TYO9hPvy"
       },
       "artists": [
         {
@@ -790,15 +806,19 @@
       ],
       "duration_ms": 246997,
       "name": "Maaye Chesi (From \"Devil - The British Secret Agent\")",
-      "url": "https://open.spotify.com/track/1Mi843sbuuWmx0JQwiDq5F"
+      "url": "https://open.spotify.com/track/3NJa12j9bLQ7eZHg0JNrRD"
     },
     {
       "added_at": "2023-09-21 13:42:22",
       "album": {
         "name": "Gandeevadhari Arjuna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GEBKVxYcebjsTSQOndDym"
+        "url": "https://open.spotify.com/album/5AeyZe923QisS2s9VyDIs3"
       },
       "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
         {
           "name": "Nakul Abhyankar",
           "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
@@ -806,31 +826,19 @@
         {
           "name": "Elvya",
           "url": "https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N"
-        },
-        {
-          "name": "Rehman",
-          "url": "https://open.spotify.com/artist/6rcVCXZM8jdsftTbGBSec9"
         }
       ],
       "duration_ms": 234000,
       "name": "Nee Jathai",
-      "url": "https://open.spotify.com/track/5tnfQ6duDT5puWQgXdM3iu"
+      "url": "https://open.spotify.com/track/3vl82UXmY4KEk8cYc8Qq8i"
     },
     {
       "added_at": "2023-09-16 06:39:10",
       "album": {
-        "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
-        "url": "https://open.spotify.com/album/6i6vtXVWJb6LIZlL36t5XN"
+        "name": "Kallatho Kaatesinave (From \"Rudramkota\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/0k6PpEYhxbIMQmJNEmMNLp"
       },
       "artists": [
-        {
-          "name": "U.V.Niranjan",
-          "url": "https://open.spotify.com/artist/1HhXD7tI767VTOcesD5fRf"
-        },
-        {
-          "name": "Vinod Kumar",
-          "url": "https://open.spotify.com/artist/7uqmh3Pn62x0o8whff0egz"
-        },
         {
           "name": "Sri Krishna",
           "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
@@ -838,7 +846,7 @@
       ],
       "duration_ms": 279670,
       "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
-      "url": "https://open.spotify.com/track/7zJK7oXQnuzKGu7ctgpkdb"
+      "url": "https://open.spotify.com/track/3JJyz9Y9nOKkP4VciucAPh"
     },
     {
       "added_at": "2023-09-04 07:29:33",
@@ -937,30 +945,6 @@
       "url": "https://open.spotify.com/track/7EFaNHilj0K7XRx1wkez6V"
     },
     {
-      "added_at": "2023-08-18 14:55:45",
-      "album": {
-        "name": "Bedurulanka 2012 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ltTvOghT7Q60SplZgGWjm"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "J.V. Sudhanshu",
-          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
-        },
-        {
-          "name": "Harika Narayan",
-          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
-        }
-      ],
-      "duration_ms": 255445,
-      "name": "Vennello Aadapilla",
-      "url": "https://open.spotify.com/track/4WFMMeXBuMgoNabiRjAWLc"
-    },
-    {
       "added_at": "2023-08-16 05:55:24",
       "album": {
         "name": "Manase Marala Marala (From \"Sandeham\")",
@@ -1016,7 +1000,7 @@
       "added_at": "2023-07-15 09:51:46",
       "album": {
         "name": "Jaanavule (From \"BRO\")",
-        "url": "https://open.spotify.com/album/3CjTEOn02KVq8zw0BONyKZ"
+        "url": "https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg"
       },
       "artists": [
         {
@@ -1030,13 +1014,13 @@
       ],
       "duration_ms": 224477,
       "name": "Jaanavule (From \"BRO\")",
-      "url": "https://open.spotify.com/track/6YuOxaMb7UC3gL8snkZvHL"
+      "url": "https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik"
     },
     {
       "added_at": "2023-07-27 13:16:48",
       "album": {
         "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
-        "url": "https://open.spotify.com/album/42EmTGq2Eo0xSZibls0VtT"
+        "url": "https://open.spotify.com/album/39Z2qLJpswMem7z0BnYIsw"
       },
       "artists": [
         {
@@ -1058,7 +1042,7 @@
       ],
       "duration_ms": 205215,
       "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
-      "url": "https://open.spotify.com/track/48ZF74Oi3xueh0757PvEYf"
+      "url": "https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN"
     },
     {
       "added_at": "2023-07-12 10:52:00",
@@ -1131,10 +1115,14 @@
     {
       "added_at": "2023-06-16 08:56:18",
       "album": {
-        "name": "Paravasame Paravasame (From \"Narayana & Co\")",
-        "url": "https://open.spotify.com/album/3UFK8TuPlUxp7km8PMPDOZ"
+        "name": "Paravasame Paravasame (From \"Narayana And Co\")",
+        "url": "https://open.spotify.com/album/30i3MJ3Be1LT24JHRcbzFQ"
       },
       "artists": [
+        {
+          "name": "Dr. Josyabhatla",
+          "url": "https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL"
+        },
         {
           "name": "Anurag Kulkarni",
           "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
@@ -1142,19 +1130,11 @@
         {
           "name": "K. Pranati",
           "url": "https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP"
-        },
-        {
-          "name": "Dr. Josyabhatla",
-          "url": "https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL"
-        },
-        {
-          "name": "Purnachary",
-          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
         }
       ],
       "duration_ms": 258000,
-      "name": "Paravasame Paravasame (From \"Narayana & Co\")",
-      "url": "https://open.spotify.com/track/2pRvXeJbRMgNAOVPAYTEVW"
+      "name": "Paravasame Paravasame (From \"Narayana And Co\")",
+      "url": "https://open.spotify.com/track/10UULk3rJivW6YHsP60Una"
     },
     {
       "added_at": "2023-06-09 06:14:03",

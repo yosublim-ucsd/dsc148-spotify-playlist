@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 568085,
+  "num_followers": 568145,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDJiNTUwM2ZhMjdhNDVmNWYwOTE1ODYwY2MxMWYxYWRj",
+  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMGVjZDgyMTIyZmYzNGNmNGI2NzdhZTcwMzgxNDE4ZDk4",
   "tracks": [
     {
       "added_at": "2024-04-12 04:01:00",
@@ -71,6 +71,34 @@
       "duration_ms": 234026,
       "name": "Ascendence",
       "url": "https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Jellowstoned",
+        "url": "https://open.spotify.com/album/3gzVnpDE5qcrusH3UuNOZT"
+      },
+      "artists": [
+        {
+          "name": "cosmic collective",
+          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
+        },
+        {
+          "name": "DJ PRAWN",
+          "url": "https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x"
+        },
+        {
+          "name": "Trey Tarzia",
+          "url": "https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Autophagy Master",
+      "url": "https://open.spotify.com/track/3p0bE9o9cM1sFafJUjqKDT"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -285,26 +313,6 @@
       "url": "https://open.spotify.com/track/10227FHuo66ztQWglQEGTp"
     },
     {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "i've prepared my entire life for this",
-        "url": "https://open.spotify.com/album/562yLlE32KphWhkVjcMRpm"
-      },
-      "artists": [
-        {
-          "name": "cosmic collective",
-          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        }
-      ],
-      "duration_ms": 177051,
-      "name": "i've prepared my entire life for this",
-      "url": "https://open.spotify.com/track/497DyJqfw3viIe75HjzcGH"
-    },
-    {
       "added_at": "2023-09-29 04:01:00",
       "album": {
         "name": "DRILLTRONICA",
@@ -359,8 +367,8 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Les Jardins Mystiques Vol.1",
-        "url": "https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e"
+        "name": "Selections from Les Jardins Mystiques Vol.1",
+        "url": "https://open.spotify.com/album/5D1cEhsNMQBy4ZNryMZHNU"
       },
       "artists": [
         {
@@ -370,7 +378,7 @@
       ],
       "duration_ms": 308160,
       "name": "Kairos (Kefi)",
-      "url": "https://open.spotify.com/track/3ZqrwYaWu4wrum0MkXIdwV"
+      "url": "https://open.spotify.com/track/1BIuzWaarv9MXcHsJHXJ0I"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -828,7 +836,7 @@
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon - Taken From V/H/S/99",
-        "url": "https://open.spotify.com/album/2jNAU7PqXjTG6suAmQX1GE"
+        "url": "https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA"
       },
       "artists": [
         {
@@ -838,7 +846,7 @@
       ],
       "duration_ms": 133780,
       "name": "Consolation Prizes",
-      "url": "https://open.spotify.com/track/6gYAzrvbcd9eoA5igOW8Qp"
+      "url": "https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2"
     },
     {
       "added_at": "2022-04-11 13:55:08",
@@ -879,8 +887,8 @@
     {
       "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/76gn86INcV2mPqDiITo983"
       },
       "artists": [
         {
@@ -890,7 +898,7 @@
       ],
       "duration_ms": 312333,
       "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
+      "url": "https://open.spotify.com/track/1CdFAAgq4NisqVRDfyD8YV"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -915,8 +923,8 @@
     {
       "added_at": "2021-05-14 04:01:00",
       "album": {
-        "name": "MAINS",
-        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4dEEbU4lD5yDJ7VJU0bIuW"
       },
       "artists": [
         {
@@ -926,7 +934,7 @@
       ],
       "duration_ms": 191344,
       "name": "Right Now",
-      "url": "https://open.spotify.com/track/6byGwMitvQ9qyidOlSa8ug"
+      "url": "https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -947,8 +955,8 @@
     {
       "added_at": "2021-04-09 04:01:00",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1cCYQdoCfexbBg3xVpAn9R"
       },
       "artists": [
         {
@@ -958,7 +966,7 @@
       ],
       "duration_ms": 280000,
       "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+      "url": "https://open.spotify.com/track/6mrHWhe8HiCs32tOZx7Rey"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1011,8 +1019,8 @@
     {
       "added_at": "2021-04-09 04:01:00",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g"
       },
       "artists": [
         {
@@ -1022,7 +1030,7 @@
       ],
       "duration_ms": 166448,
       "name": "Superhero",
-      "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
+      "url": "https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5"
     },
     {
       "added_at": "2021-03-12 05:00:00",
@@ -1300,7 +1308,7 @@
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Blurred Tales",
-        "url": "https://open.spotify.com/album/66bywsYtdIcPogKSuYAqMO"
+        "url": "https://open.spotify.com/album/2Npqp2AyrDKwRZYxO2CGfZ"
       },
       "artists": [
         {
@@ -1310,7 +1318,7 @@
       ],
       "duration_ms": 158900,
       "name": "Blurred Tales",
-      "url": "https://open.spotify.com/track/4vXJJwoAVo0B28OWxuBYcm"
+      "url": "https://open.spotify.com/track/0l2hEwqU2iclUklGoLI84F"
     },
     {
       "added_at": "2022-05-27 04:02:00",
@@ -1571,8 +1579,8 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Into The Abyss",
-        "url": "https://open.spotify.com/album/5yiKeGdGjXnGhHDNTV342G"
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/32nPQigQIFZJCeDbUjVydx"
       },
       "artists": [
         {
@@ -1590,7 +1598,7 @@
       ],
       "duration_ms": 427662,
       "name": "The Universe",
-      "url": "https://open.spotify.com/track/1a4C9ahv2nw5vcvKhnl2Z1"
+      "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1843,8 +1851,8 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Perform the Compositions of Sam Wilkes & Jacob Mann",
-        "url": "https://open.spotify.com/album/2XLzAeQaaAL6hklNWvtoxL"
+        "name": "Jakarta",
+        "url": "https://open.spotify.com/album/470EDSykuxSbKTNnVQQudK"
       },
       "artists": [
         {
@@ -1858,13 +1866,13 @@
       ],
       "duration_ms": 218826,
       "name": "Jakarta",
-      "url": "https://open.spotify.com/track/6EWpxKt5zjvY7dfdQuRV6V"
+      "url": "https://open.spotify.com/track/5811rGxUfOfsmmymjwKlsB"
     },
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Seventh Wonder",
-        "url": "https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ"
+        "url": "https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM"
       },
       "artists": [
         {
@@ -1874,7 +1882,7 @@
       ],
       "duration_ms": 207707,
       "name": "Seventh Wonder",
-      "url": "https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI"
+      "url": "https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1976,7 +1984,7 @@
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "You Were Probably Younger Then",
-        "url": "https://open.spotify.com/album/7KlTPfMrBy1NOzyr4H0Tn2"
+        "url": "https://open.spotify.com/album/7svc0aRNic3e5NQFpMQwZ9"
       },
       "artists": [
         {
@@ -1986,13 +1994,13 @@
       ],
       "duration_ms": 314668,
       "name": "you were probably younger then",
-      "url": "https://open.spotify.com/track/3VrfmBjggSQHvpAN7tQjPG"
+      "url": "https://open.spotify.com/track/02YXJJZ5xQrFIRhqe62PTi"
     },
     {
       "added_at": "2022-08-08 13:44:11",
       "album": {
-        "name": "San Fernando Laser Tag",
-        "url": "https://open.spotify.com/album/1Thw8WgdExbxpVpl9AaB3O"
+        "name": "Popcorn Time",
+        "url": "https://open.spotify.com/album/52ygnFsRjudjtlsWAoQmF8"
       },
       "artists": [
         {
@@ -2006,13 +2014,13 @@
       ],
       "duration_ms": 156000,
       "name": "Popcorn Time",
-      "url": "https://open.spotify.com/track/553wXP4auVMQuD72D7z7ds"
+      "url": "https://open.spotify.com/track/4MeX5XlOUxVuCzoK6Y4DiY"
     },
     {
       "added_at": "2022-08-08 13:44:11",
       "album": {
-        "name": "Sci-Fi Jazz Directions",
-        "url": "https://open.spotify.com/album/0HD8XFL6F0sWMA73qPf78M"
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/4HmOs59sBZSsq3Kc052Nmp"
       },
       "artists": [
         {
@@ -2022,7 +2030,7 @@
       ],
       "duration_ms": 280923,
       "name": "Intergalactic",
-      "url": "https://open.spotify.com/track/33VfE4Ilw8MV3ZDKMpMHOm"
+      "url": "https://open.spotify.com/track/69fbNFD7BeSj8IGqitLgqx"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -2059,8 +2067,8 @@
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Moons of Jupiter",
-        "url": "https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr"
+        "name": "Galilean Moons",
+        "url": "https://open.spotify.com/album/4ECKQXhNcQJBP3iFTBWsHe"
       },
       "artists": [
         {
@@ -2074,7 +2082,7 @@
       ],
       "duration_ms": 242506,
       "name": "Galilean Moons",
-      "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
+      "url": "https://open.spotify.com/track/114T0Xj3B0erxZNU8zmhKQ"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -2223,8 +2231,8 @@
     {
       "added_at": "2022-05-27 04:02:00",
       "album": {
-        "name": "Modern Life",
-        "url": "https://open.spotify.com/album/18dz9uFRrFkmcLe8P5yjsp"
+        "name": "HULO",
+        "url": "https://open.spotify.com/album/4NbhvSDeCCb8ZpgWFQEFlP"
       },
       "artists": [
         {
@@ -2234,7 +2242,7 @@
       ],
       "duration_ms": 255173,
       "name": "HULO",
-      "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
+      "url": "https://open.spotify.com/track/2qfeVzDWRkSX6oq0pNfvN5"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -2255,8 +2263,8 @@
     {
       "added_at": "2022-05-20 04:01:00",
       "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/1dL25WjfKgZ0aSPtfiaxOE"
+        "name": "Sauce Brazil",
+        "url": "https://open.spotify.com/album/2kIe5TGnIaLKYh0g1tIW70"
       },
       "artists": [
         {
@@ -2270,18 +2278,22 @@
       ],
       "duration_ms": 306996,
       "name": "Sauce Brazil",
-      "url": "https://open.spotify.com/track/1enqMgoegZ9tTVhmDfpv3t"
+      "url": "https://open.spotify.com/track/3qoi5xFFw0UhGVAEkjkva7"
     },
     {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Bootyscoot",
-        "url": "https://open.spotify.com/album/57Re4Gq4x1NvimVAytLmKT"
+        "url": "https://open.spotify.com/album/0xjvDHTTYXUUtc9EKk9Bo0"
       },
       "artists": [
         {
           "name": "The Polish Ambassador",
           "url": "https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU"
+        },
+        {
+          "name": "Ananda Vaughan",
+          "url": "https://open.spotify.com/artist/5i1E5D2bW5VBtcIvi04S9V"
         },
         {
           "name": "Jesse Klein",
@@ -2290,15 +2302,11 @@
         {
           "name": "Robin Jackson",
           "url": "https://open.spotify.com/artist/7E3Dm7icYWJNSN8pK57Ufy"
-        },
-        {
-          "name": "Ananda Vaughan",
-          "url": "https://open.spotify.com/artist/5i1E5D2bW5VBtcIvi04S9V"
         }
       ],
       "duration_ms": 397090,
       "name": "Bootyscoot",
-      "url": "https://open.spotify.com/track/7nb8sYJDmnbEEEET8EZh59"
+      "url": "https://open.spotify.com/track/5gFgGj8ShXvq8PXs9tTc0F"
     },
     {
       "added_at": "2022-05-16 15:07:06",
@@ -2340,7 +2348,7 @@
       "added_at": "2022-05-16 15:07:06",
       "album": {
         "name": "Honk If You're Sad",
-        "url": "https://open.spotify.com/album/6vaViTZ9Hqlj2zo30JVR4U"
+        "url": "https://open.spotify.com/album/24YxXPFVExwXvkDkjVGzvC"
       },
       "artists": [
         {
@@ -2350,7 +2358,7 @@
       ],
       "duration_ms": 240751,
       "name": "Sadboys2020",
-      "url": "https://open.spotify.com/track/4HRP3KpGutMNyj3UevMxTy"
+      "url": "https://open.spotify.com/track/3MtAOH2nJoLMeKFkEN8PuG"
     },
     {
       "added_at": "2022-05-16 15:07:06",
@@ -2543,8 +2551,8 @@
     {
       "added_at": "2022-04-11 13:55:08",
       "album": {
-        "name": "Gravity / Renegades Of Jazz & V.B. K\u00fchl Remixes",
-        "url": "https://open.spotify.com/album/04iFMFMEuK758GCrvVWsWA"
+        "name": "Gravity (Renegades Of Jazz & V.B. K\u00fchl Remixes)",
+        "url": "https://open.spotify.com/album/6FS3N2KVn3LQvMrHGM39kw"
       },
       "artists": [
         {
@@ -2558,7 +2566,7 @@
       ],
       "duration_ms": 312102,
       "name": "All Around - Renegades Of Jazz Remix",
-      "url": "https://open.spotify.com/track/084ibigKQ739kTlpTNKqof"
+      "url": "https://open.spotify.com/track/0oHGooJ4QhVPM5WgW4cfJA"
     },
     {
       "added_at": "2022-04-11 13:55:08",
@@ -2580,7 +2588,7 @@
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Agua de Jamaica",
-        "url": "https://open.spotify.com/album/3bTbxFk7SO0ERWPVFBM5zE"
+        "url": "https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS"
       },
       "artists": [
         {
@@ -2594,7 +2602,7 @@
       ],
       "duration_ms": 377242,
       "name": "Agua de Jamaica",
-      "url": "https://open.spotify.com/track/7nMwHNG2YuyhI1HOBfn7pE"
+      "url": "https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -2615,8 +2623,8 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "YUNIK\u014dN (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ozWefQLSgQ3nO3uDjGEJl"
+        "name": "Viper (Card On Spokes Remix)",
+        "url": "https://open.spotify.com/album/1X6SwF0DNYYuuj7e0NO2zs"
       },
       "artists": [
         {
@@ -2630,13 +2638,13 @@
       ],
       "duration_ms": 271826,
       "name": "Viper - Card On Spokes Remix",
-      "url": "https://open.spotify.com/track/0VjoYWcUmOMkXhLF7Ae58J"
+      "url": "https://open.spotify.com/track/1LnUMYEuGZMXdIjjlXv6XO"
     },
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Close Distance",
-        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
+        "name": "Skybox",
+        "url": "https://open.spotify.com/album/0JlqVp5ZHaopgDAK3YnW8y"
       },
       "artists": [
         {
@@ -2650,7 +2658,7 @@
       ],
       "duration_ms": 181840,
       "name": "Skybox",
-      "url": "https://open.spotify.com/track/4gdyc5TGWtKD0N7OUtddzp"
+      "url": "https://open.spotify.com/track/3D1z6wtEXWMtL4sNjE6G34"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -2747,8 +2755,8 @@
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
-        "name": "Tales from the Old Dominion",
-        "url": "https://open.spotify.com/album/7kW73k8iZDv4uuS28kLxxE"
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/4bNax53ytZXfubuArSeyAK"
       },
       "artists": [
         {
@@ -2758,13 +2766,13 @@
       ],
       "duration_ms": 171788,
       "name": "City Lights",
-      "url": "https://open.spotify.com/track/03f7C0fndlZANGItBaUuP5"
+      "url": "https://open.spotify.com/track/12aJqPyNE7c5Uk7LaOjYEu"
     },
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
-        "name": "Remixes JID010",
-        "url": "https://open.spotify.com/album/0KEppewXYdU5uYk6m3qTze"
+        "name": "Soulsea (Cut Chemist Remix)",
+        "url": "https://open.spotify.com/album/3U0P9yntVMeANPGb4HLSzs"
       },
       "artists": [
         {
@@ -2772,12 +2780,12 @@
           "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
         },
         {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
           "name": "Ali Shaheed Muhammad",
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         },
         {
           "name": "Cut Chemist",
@@ -2786,7 +2794,7 @@
       ],
       "duration_ms": 143013,
       "name": "Soulsea - Cut Chemist Remix",
-      "url": "https://open.spotify.com/track/0pdbxmQUenzdyD61hF0OT0"
+      "url": "https://open.spotify.com/track/7w7pSGtnp1XyEdQ4ik1SfN"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -2808,7 +2816,7 @@
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "Bonzai View",
-        "url": "https://open.spotify.com/album/6GT1SMUUhwBwbEZrRpabfa"
+        "url": "https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j"
       },
       "artists": [
         {
@@ -2818,7 +2826,7 @@
       ],
       "duration_ms": 212527,
       "name": "Bonzai View",
-      "url": "https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C"
+      "url": "https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -2844,7 +2852,7 @@
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
+        "url": "https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN"
       },
       "artists": [
         {
@@ -2854,13 +2862,13 @@
       ],
       "duration_ms": 267500,
       "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
+      "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
     },
     {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Bill",
-        "url": "https://open.spotify.com/album/04fGnb0n2xVtx3fHrDXpQB"
+        "url": "https://open.spotify.com/album/61Q3cOwFHM9KIEgwqDMgZl"
       },
       "artists": [
         {
@@ -2870,7 +2878,7 @@
       ],
       "duration_ms": 225491,
       "name": "Bill",
-      "url": "https://open.spotify.com/track/0pcDNarowkjMqIcHkrJI5A"
+      "url": "https://open.spotify.com/track/55zTfwYJE8YZlzoHb0Y1Xz"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -2892,7 +2900,7 @@
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "Brighton",
-        "url": "https://open.spotify.com/album/6R1oCkivYasjO8mmzZre9B"
+        "url": "https://open.spotify.com/album/5Gx1g7YcTlOzF9fEbbwCep"
       },
       "artists": [
         {
@@ -2906,13 +2914,13 @@
       ],
       "duration_ms": 195428,
       "name": "Brighton",
-      "url": "https://open.spotify.com/track/6Xl0JyVz25vWDIFfLERYQz"
+      "url": "https://open.spotify.com/track/7CrqU9028RFFNCGvVLERWy"
     },
     {
       "added_at": "2021-08-27 04:01:00",
       "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
+        "name": "Space 3",
+        "url": "https://open.spotify.com/album/4Z5hSkWEc9MuQUZ0HArRij"
       },
       "artists": [
         {
@@ -2922,7 +2930,7 @@
       ],
       "duration_ms": 75000,
       "name": "Space 3",
-      "url": "https://open.spotify.com/track/4TS1SMLEEhjKr6qeKjfq5z"
+      "url": "https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -3011,8 +3019,8 @@
     {
       "added_at": "2021-07-30 04:01:00",
       "album": {
-        "name": "INWANE",
-        "url": "https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF"
+        "name": "Charlier",
+        "url": "https://open.spotify.com/album/1GdfpqOYJGO0QONj1ccSyD"
       },
       "artists": [
         {
@@ -3022,7 +3030,7 @@
       ],
       "duration_ms": 231853,
       "name": "Charlier",
-      "url": "https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR"
+      "url": "https://open.spotify.com/track/55ZzaH20npWGDLevSLWSWJ"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -3043,8 +3051,8 @@
     {
       "added_at": "2021-07-23 04:01:00",
       "album": {
-        "name": "NEXUS Z",
-        "url": "https://open.spotify.com/album/5RkhLrRWnYGK6ZZ5JF6Ric"
+        "name": "Smoothman",
+        "url": "https://open.spotify.com/album/1AO9kGFt0AmFjz1kGXkoOg"
       },
       "artists": [
         {
@@ -3053,8 +3061,8 @@
         }
       ],
       "duration_ms": 123925,
-      "name": "SMOOTHMAN",
-      "url": "https://open.spotify.com/track/11hGsS7TQItVKS4eue6b4C"
+      "name": "Smoothman",
+      "url": "https://open.spotify.com/track/4TNryKx5swcMlRv6wfdyCk"
     },
     {
       "added_at": "2021-07-19 12:43:20",
@@ -3096,7 +3104,7 @@
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Pire",
-        "url": "https://open.spotify.com/album/25UC82lB2kSaJIacwHkafb"
+        "url": "https://open.spotify.com/album/2mjxQEUX5uXMyHPMd0UHXC"
       },
       "artists": [
         {
@@ -3110,13 +3118,13 @@
       ],
       "duration_ms": 463540,
       "name": "Pire",
-      "url": "https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C"
+      "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
     },
     {
       "added_at": "2021-06-11 04:01:00",
       "album": {
-        "name": "Feed Me Weird Things (Remastered)",
-        "url": "https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR"
+        "name": "Feed Me Weird Things",
+        "url": "https://open.spotify.com/album/7qaIhnjJlxVRWkM8ii0Q8z"
       },
       "artists": [
         {
@@ -3126,7 +3134,7 @@
       ],
       "duration_ms": 381413,
       "name": "Squarepusher Theme",
-      "url": "https://open.spotify.com/track/5A8mxgppIz71mCLz7xAhpn"
+      "url": "https://open.spotify.com/track/4edrhanho86qAWRHNfHo5x"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -3163,8 +3171,8 @@
     {
       "added_at": "2021-04-16 04:01:00",
       "album": {
-        "name": "GGP/RMX",
-        "url": "https://open.spotify.com/album/6SM77WdeXcG35EdwWogXco"
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/3jwSxIPwXq77tJCqeUVIM0"
       },
       "artists": [
         {
@@ -3178,13 +3186,13 @@
       ],
       "duration_ms": 493687,
       "name": "Totem - James Holden Remix",
-      "url": "https://open.spotify.com/track/3kPD9JovaYEfBLlEnxRNYh"
+      "url": "https://open.spotify.com/track/38oADDJ6llVC91OZiR6rrl"
     },
     {
       "added_at": "2021-04-09 04:01:00",
       "album": {
-        "name": "Deep in the Pocket",
-        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+        "name": "Kountdown",
+        "url": "https://open.spotify.com/album/2Oej8sPlGfopqCnCDJ550z"
       },
       "artists": [
         {
@@ -3194,13 +3202,13 @@
       ],
       "duration_ms": 224971,
       "name": "Kountdown",
-      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
+      "url": "https://open.spotify.com/track/1Cw4mgI7Li0WF1PreMDasy"
     },
     {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Aspects",
-        "url": "https://open.spotify.com/album/4TH4ROwWGOAlbKenIaNtc0"
+        "url": "https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt"
       },
       "artists": [
         {
@@ -3210,13 +3218,13 @@
       ],
       "duration_ms": 234133,
       "name": "Dance Desire",
-      "url": "https://open.spotify.com/track/55ddSXpsB2sqIhRXETWA82"
+      "url": "https://open.spotify.com/track/1kDLuI1oC6XSvaNpAqFGkv"
     },
     {
       "added_at": "2021-04-09 04:01:00",
       "album": {
-        "name": "XXXX",
-        "url": "https://open.spotify.com/album/4IStAnJ6JI7ivJY8IGpTOW"
+        "name": "Nostalgia for the Light",
+        "url": "https://open.spotify.com/album/7abFEjbIV2UgZk67DmsLXQ"
       },
       "artists": [
         {
@@ -3238,7 +3246,7 @@
       ],
       "duration_ms": 321937,
       "name": "Nostalgia for the Light",
-      "url": "https://open.spotify.com/track/0UGGP2Yi2A4Sh2Q9TqayZX"
+      "url": "https://open.spotify.com/track/5tXJRqQ7RgjlYunSzjlkOD"
     },
     {
       "added_at": "2021-03-12 05:00:00",
@@ -3260,17 +3268,17 @@
       "added_at": "2021-03-12 05:00:00",
       "album": {
         "name": "PPL -PingPongLounge-",
-        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
+        "url": "https://open.spotify.com/album/4pxiAlpT6JAnUltiA33cmr"
       },
       "artists": [
         {
-          "name": "ddddeeeellllaaa",
-          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+          "name": "LADAISLE",
+          "url": "https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r"
         }
       ],
       "duration_ms": 114078,
       "name": "PPL -PingPongLounge-",
-      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
+      "url": "https://open.spotify.com/track/6ACvAgc7FB9uBo3JKfnomk"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -3347,8 +3355,8 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Blue Note Re:imagined II",
-        "url": "https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6"
+        "name": "The Creators",
+        "url": "https://open.spotify.com/album/31saMu4uqPiEkn9Zd1BLlH"
       },
       "artists": [
         {
@@ -3358,7 +3366,7 @@
       ],
       "duration_ms": 244108,
       "name": "The Creators",
-      "url": "https://open.spotify.com/track/31qdrKl0bvjVXL8TbIJSPO"
+      "url": "https://open.spotify.com/track/0zZdcedioJLp5lqdMeDSsg"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -3400,7 +3408,7 @@
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "The Chase",
-        "url": "https://open.spotify.com/album/3YQjsFFZQQuKEKMxAAMby0"
+        "url": "https://open.spotify.com/album/5CFLKkzjSI6qOqbD4eznTm"
       },
       "artists": [
         {
@@ -3414,7 +3422,7 @@
       ],
       "duration_ms": 152625,
       "name": "The Chase",
-      "url": "https://open.spotify.com/track/1vheEDJujscznLRAUVzzta"
+      "url": "https://open.spotify.com/track/46mnsGTn2Q15MC4f16RCev"
     },
     {
       "added_at": "2022-05-16 15:07:06",
@@ -3467,8 +3475,8 @@
     {
       "added_at": "2021-09-24 04:02:00",
       "album": {
-        "name": "Midnight Snacks, Vol. 1",
-        "url": "https://open.spotify.com/album/6CpPKzQnb2ZG01W0b1WDxa"
+        "name": "Midnight Snacks vol.1",
+        "url": "https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK"
       },
       "artists": [
         {
@@ -3478,7 +3486,7 @@
       ],
       "duration_ms": 190000,
       "name": "37,000 Feet",
-      "url": "https://open.spotify.com/track/3EAV0EJ8w4mK31C5sAzUaR"
+      "url": "https://open.spotify.com/track/0ECKs70DzRZ937EgkDs8uU"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -3768,7 +3776,7 @@
       "added_at": "2022-02-11 19:55:21",
       "album": {
         "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+        "url": "https://open.spotify.com/album/7yyNdeishrr78limvFPivT"
       },
       "artists": [
         {
@@ -3778,7 +3786,7 @@
       ],
       "duration_ms": 361602,
       "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
+      "url": "https://open.spotify.com/track/58vQhz3CLq2WbjVZXZpvwb"
     },
     {
       "added_at": "2021-09-03 04:01:00",

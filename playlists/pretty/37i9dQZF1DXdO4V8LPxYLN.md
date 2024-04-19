@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,925 likes - 53 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,930 likes - 53 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 13 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
 | 14 | [Undergrowth](https://open.spotify.com/track/21x3MJkvrwN7khg3id76mq) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Sottobosco](https://open.spotify.com/album/3iTJCEeHUMU9gNkQMBa2Ms) | 6:59 |
 | 15 | [Chemosynthesis \- Claudio PRC Remix](https://open.spotify.com/track/1hDJg4mrE6oCPidjgTefEb) | [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY), [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Deep Blue](https://open.spotify.com/album/2mV5VOADJfTyc1CZVmnDlh) | 6:19 |
-| 16 | [Alumen](https://open.spotify.com/track/1aPinvuTIDoAFwfFOyg1fM) | [Forest On Stasys](https://open.spotify.com/artist/2488XuqS0fAwu9PkXpYsbM) | [Systema Naturae I](https://open.spotify.com/album/1lT8nUygFq4ZddqgtGRVgz) | 6:52 |
+| 16 | [Alumen](https://open.spotify.com/track/3UGtvzgyFufQrrM8UBI5ox) | [Forest On Stasys](https://open.spotify.com/artist/2488XuqS0fAwu9PkXpYsbM) | [Systema Naturae I](https://open.spotify.com/album/08BxzfrMcOtsD5D2RjPenL) | 6:52 |
 | 17 | [Trails](https://open.spotify.com/track/1BDO98jEsdgjPsfvgRIIcV) | [Joachim Spieth](https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ) | [Astral Plane](https://open.spotify.com/album/59emWSCVpJRjXy8BulnM3X) | 7:58 |
 | 18 | [Oz](https://open.spotify.com/track/6wsJQSVHfCHgE13J3vfxmq) | [Vidno](https://open.spotify.com/artist/2uBgJ4hDGwZM5r9MbLNZwy) | [Oz](https://open.spotify.com/album/0cFC3Qcw6MiBuTzl61Lczd) | 5:56 |
 | 19 | [Untitled 3 \(Modvs Remix\) \- mixed](https://open.spotify.com/track/5hDrUXm39PyeVE6dseITDu) | [BLNDR](https://open.spotify.com/artist/6nJ0ByWSHN4TnDpiojmwIN), [Modvs](https://open.spotify.com/artist/2BEktaqnJQvz86OWEnMbT3) | [DJ\-Kicks \(Daniel Avery\) \[DJ Mix\]](https://open.spotify.com/album/4vD7rvkxOtsmkjqNWNv6bJ) | 3:28 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 22 | [Tardigrades \- Original Mix](https://open.spotify.com/track/4b50mQ2JktGe4gQDDO8D9t) | [Kontinum](https://open.spotify.com/artist/7jYPXtaFNntRhw6Rl0NoGG) | [Ultima Thule](https://open.spotify.com/album/6fM8MURBxsEIArYWt4GzSv) | 6:52 |
 | 23 | [Aava](https://open.spotify.com/track/3MhCVDf9GG1hAo8lz079CY) | [Kaspiann](https://open.spotify.com/artist/5n7XZrgUJenKAcceRSJIKa) | [TGP Extra Series 2014 \- 2020](https://open.spotify.com/album/2fnhtnWV4TL6vRWQTXO84S) | 6:15 |
 | 24 | [Nobody Knows The Way](https://open.spotify.com/track/6Sl24dgqGEbntTq1d39jND) | [Ness](https://open.spotify.com/artist/6k7Gdv0KGMT1P4dDUjOVSw) | [Flesh Of The Gods](https://open.spotify.com/album/1AzD2pSjyg7Hbo4QtDukkm) | 6:18 |
-| 25 | [Lyra II](https://open.spotify.com/track/3gkaXjXBqCGUgqVnAZNRHU) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [Lyra](https://open.spotify.com/album/5cRuKlaIu3pHizNIiLU3DA) | 6:09 |
+| 25 | [Lyra II](https://open.spotify.com/track/5D0cYaBH7s9VZWsLOKfq3I) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [LYRA](https://open.spotify.com/album/5LidrbnVxn41aV9CEEtOW9) | 6:09 |
 | 26 | [Fluctuation \- Claudio PRC Remix](https://open.spotify.com/track/5c0JhiQMvaX5HZWixebKYN) | [Dycide](https://open.spotify.com/artist/1NNz8MtqvD8S4axNyCv8DE), [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Fluctuation](https://open.spotify.com/album/14EThwp1u0B4C4PbEnNH7s) | 6:12 |
 | 27 | [Renio](https://open.spotify.com/track/29VDgZcqnBeq5AnWsWYiHr) | [Neel](https://open.spotify.com/artist/2IqUsUSES4M30F9VrAJuzx) | [Transition](https://open.spotify.com/album/1uDBrMv8z6LC58nfcwxtNS) | 6:43 |
 | 28 | [Steel Rose](https://open.spotify.com/track/5mfuEiVPfP2CWPC2IW2NIo) | [Jamaica Suk](https://open.spotify.com/artist/5LeWZsLNESW0TzNIiWkIWN) | [Stone Techno Series \- Orthorhombic EP](https://open.spotify.com/album/46xAqn9pmeusQ8Gu2EbFmt) | 6:07 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 31 | [Le Gratteur \- Original Mix](https://open.spotify.com/track/3FCSLaI5ClQFFhoVO439vP) | [Arnaud Le Texier](https://open.spotify.com/artist/7Gj9kZNsS1xUZTERqOpxmB) | [Split EP 7](https://open.spotify.com/album/56W1lpAbooXf1U8LLZqTDA) | 5:36 |
 | 32 | [Black Swan](https://open.spotify.com/track/2sfqPe4FTSdpHGtSLbVFxl) | [Dasha Rush](https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4) | [Ain't No God Nor King](https://open.spotify.com/album/1g2cOK5ubpw90j6mldIq3M) | 8:46 |
 | 33 | [Result Of Observation \- Original Mix](https://open.spotify.com/track/2BnEpdhBqTeo777Jy5SEfe) | [Marboc](https://open.spotify.com/artist/150IALYwlaBqGUiub9H6EK) | [First Appointment](https://open.spotify.com/album/6MUuitoEVZSbNfTCDBMx23) | 6:17 |
-| 34 | [Dharma](https://open.spotify.com/track/6g7qTPzOm8MvWwzG1VWZjK) | [Michal Wolski](https://open.spotify.com/artist/4wEs0g9b7mI3JZTg3cOIac) | [Chant LP](https://open.spotify.com/album/4Tp1lF8WTEDRqFVjROrMEu) | 7:07 |
+| 34 | [Dharma](https://open.spotify.com/track/0P64wyVy2pbyVGCqFqo4hT) | [Michal Wolski](https://open.spotify.com/artist/4wEs0g9b7mI3JZTg3cOIac) | [Chant LP](https://open.spotify.com/album/4L3xs4Ci8Bs4vATEvMdB3g) | 7:07 |
 | 35 | [Sacred Energy \- Raroh Remix](https://open.spotify.com/track/2HRY5xIBTg1hHHnPguTnkR) | [Martyn Päsch](https://open.spotify.com/artist/44LSGxRqbp1PaVgr6emXM4), [Raroh](https://open.spotify.com/artist/0X8u7Sdh89o8GuS8NE7Uiw) | [Sacred Thought](https://open.spotify.com/album/36YwzjsR8OVl0r0VTT2cjW) | 6:44 |
 | 36 | [Page 1](https://open.spotify.com/track/4mwbuW659PR4YIaXcDgzH0) | [James Ruskin](https://open.spotify.com/artist/1CxlOLe7rJ6EO7aPMxi9Xx), [DVS1](https://open.spotify.com/artist/2xrOogbM0l6NzOSp4zZ3IP) | [Mixmag Presents Ben Klock](https://open.spotify.com/album/6HkJq36kYwQWCyXWEePIRs) | 3:09 |
 | 37 | [Diffuser](https://open.spotify.com/track/4Lgn6ceez2BCx6odoMZmNP) | [Rethe](https://open.spotify.com/artist/0cJIGBg9q04ypOJlNL0J2O), [Mislaw](https://open.spotify.com/artist/1Ahtz0gmRMEoWRcuoQR1AK) | [Departure](https://open.spotify.com/album/2dhEGAzOyLrwc14AdVo8LU) | 5:44 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 44 | [Ceres](https://open.spotify.com/track/1pD4Z5dIRA7SIyhnPPs8Sg) | [Troy](https://open.spotify.com/artist/3LjP4c5kR69wiWiMJJ76Nt) | [Klockworks 21](https://open.spotify.com/album/6iSxIlI0aEhI8qKQGK3mmk) | 6:42 |
 | 45 | [Tapeworm](https://open.spotify.com/track/3EWMH95wrhmscPMHltsLQx) | [Rethe](https://open.spotify.com/artist/0cJIGBg9q04ypOJlNL0J2O) | [Ataraxia](https://open.spotify.com/album/57PDAJiNcDFmpkoWDat0Rc) | 6:22 |
 | 46 | [Eco](https://open.spotify.com/track/0WZ5a0z3O1x284noYc4rRk) | [Jana Sleep](https://open.spotify.com/artist/1j6asNkDb24x7Fxm8tlukL) | [Eco](https://open.spotify.com/album/6PAie51n2ylq02viVvOv1H) | 6:49 |
-| 47 | [Memories](https://open.spotify.com/track/0vp83hvcmTPcjhWM2YzIRA) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [FIGURE JAMS 001](https://open.spotify.com/album/77pre9eDDlOhnxa0TQnzm3) | 5:59 |
+| 47 | [Memories](https://open.spotify.com/track/0IuHmZobH0ypErTIG3f61X) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [Figure Jams 001](https://open.spotify.com/album/2hBVeGziq0XdoneJVUMdqr) | 5:59 |
 | 48 | [Lower Norfair](https://open.spotify.com/track/0bQPjjWiNrtPBdyt570MRc) | [Uun](https://open.spotify.com/artist/4CZJ0wOrcOkkYwB5rLSgzV) | [Hell Is Empty EP](https://open.spotify.com/album/2Ml00ngoYCkyR5XerBpLFv) | 5:56 |
 | 49 | [Croatian Steel](https://open.spotify.com/track/2jaTSJDlx44kqwBFW8wwGG) | [Volster](https://open.spotify.com/artist/4kQues2Z7iz7pr1cxbjb1I) | [V/A 1.0](https://open.spotify.com/album/6uYEST6aS3QictZAMfyucj) | 5:00 |
 | 50 | [Vertical Ice](https://open.spotify.com/track/3C3gWi1vRZxZRPoNHnVTaU) | [Polar Inertia](https://open.spotify.com/artist/0WStQnW9WLEG01RKPDB0oy) | [Kinematic Optics EP](https://open.spotify.com/album/7ssmG4eEaxOMymsZtA3oI7) | 11:58 |

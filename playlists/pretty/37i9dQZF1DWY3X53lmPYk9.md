@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,033 likes - 432 songs - 21 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,046 likes - 432 songs - 21 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 47 | [A Gentle Dance](https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [A Gentle Dance](https://open.spotify.com/album/1gzd7kZ4kZji630lABbjIQ) | 2:31 |
 | 48 | [My Writing Time](https://open.spotify.com/track/4YReZY9ljzF8jbIn9wRmUg) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [My Writing Time](https://open.spotify.com/album/13bS4DuoftGDo0Gfun7V7K) | 3:33 |
 | 49 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 |
-| 50 | [Pastoral](https://open.spotify.com/track/7rYSxMiI7xteBmFq2t6aE7) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/4DR8LgGyU1VbRJCD8jHTYp) | 3:48 |
+| 50 | [Pastoral](https://open.spotify.com/track/0UIv34XtUmPhvCU3nSPDqE) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/6sMJTmc5LNR7qgwrLKgJuZ) | 3:48 |
 | 51 | [Forever Yours](https://open.spotify.com/track/3756RYg6B88hMEFRoMbarD) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [Forever Yours](https://open.spotify.com/album/7MEbAca7yBtqEEnagaxQR9) | 2:56 |
 | 52 | [Crosby Street](https://open.spotify.com/track/22ugSr3HnMXfxTiXsroNQD) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Crosby Street](https://open.spotify.com/album/5lN5yfRTiTpukhAWyFHxxW) | 2:26 |
 | 53 | [It never entered my mind](https://open.spotify.com/track/1GrCH3c4r1eK4WErB5qqNz) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [It never entered my mind](https://open.spotify.com/album/1RU1wbupaOMAYNV4aaAPU3) | 3:14 |
@@ -241,7 +241,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 231 | [The Green Sky](https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [The Green Sky](https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec) | 3:01 |
 | 232 | [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 |
 | 233 | [Too Young To Go Steady](https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [Too Young To Go Steady](https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe) | 3:39 |
-| 234 | [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 |
+| 234 | [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 |
 | 235 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 |
 | 236 | [Soliloquy](https://open.spotify.com/track/5OGoqyZ6cn1XuCXYsmfomE) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Soliloquy](https://open.spotify.com/album/50SceCepq76rvBMF7AVjfU) | 2:41 |
 | 237 | [Mellow Moments](https://open.spotify.com/track/05mDaFGo2L11McsbZ0xLRR) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [Mellow Moments](https://open.spotify.com/album/6EPzhXnwWDGF1We8Qqk8cI) | 2:32 |

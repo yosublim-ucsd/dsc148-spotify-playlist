@@ -286,14 +286,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152766,
       "name": "BAR",
       "url": "https://open.spotify.com/track/0TsmKNo4DbEWDtOVtVCmbD"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152766,
+      "name": "BAR",
+      "url": "https://open.spotify.com/track/4ooQDkE8bNl1GtYxmtsA55"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -304,7 +322,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 96500,
       "name": "Berlint",
       "url": "https://open.spotify.com/track/4haknQRm1AE0Ixc56uOHes"
@@ -322,14 +340,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96500,
       "name": "Berlint",
       "url": "https://open.spotify.com/track/5UTvCCeRR5BlJcDM4jn66Q"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -340,7 +358,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 101333,
       "name": "Bondman",
       "url": "https://open.spotify.com/track/1JOBdK2yf2X7srMa9EGS9d"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101333,
       "name": "Bondman",
       "url": "https://open.spotify.com/track/75oYpYVq6NJBKMxE5LoX8p"
@@ -383,7 +401,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135066,
       "name": "Cecile Hall",
       "url": "https://open.spotify.com/track/5JZ1hlRauEImYgN6rtSsDv"
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135066,
       "name": "Cecile Hall",
       "url": "https://open.spotify.com/track/5eTNSg4xXJdtVweGK9Cjp0"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "City \u200b\u200bhall director",
       "url": "https://open.spotify.com/track/2NcPWn9F7BDKQVt4CmiuGR"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148500,
       "name": "City \u200b\u200bhall director",
       "url": "https://open.spotify.com/track/72kR48cv1WoZs6dXzwCOap"
@@ -466,10 +484,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218000,
       "name": "CODE: White",
       "url": "https://open.spotify.com/track/00GJmYsKFm2DL8UpEuRqCA"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "CODE: White",
+      "url": "https://open.spotify.com/track/4f6O97yeLWdxxA721vRKAB"
     },
     {
       "album": {
@@ -484,7 +520,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230666,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
@@ -527,6 +563,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "Competitor",
+      "url": "https://open.spotify.com/track/2fDV1NHafaDQUNeEBskVqp"
+    },
+    {
+      "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
       },
@@ -538,7 +592,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116800,
       "name": "Competitor",
       "url": "https://open.spotify.com/track/5WTd3D7WyUdL4ZDhIgGYD5"
@@ -592,14 +646,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105033,
       "name": "Crisis of my home",
       "url": "https://open.spotify.com/track/2MSnxMYehw5oZWlcgHMay6"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -610,7 +664,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 105033,
       "name": "Crisis of my home",
       "url": "https://open.spotify.com/track/4QWAtSGLf2viRGnOQtQj8Q"
@@ -653,7 +707,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -664,7 +718,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 100500,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/0zNs9JN9vmzay8LHCW4N57"
@@ -682,14 +736,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100500,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/4pQRZ0Pt9VPWtqpYsMvomM"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -700,7 +754,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174366,
       "name": "Eden College",
       "url": "https://open.spotify.com/track/0stiAPNBiFGDPA2tRSHjcl"
@@ -718,7 +772,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174366,
       "name": "Eden College",
       "url": "https://open.spotify.com/track/7Esg5AZ67nqCWfjpM9I3eO"
@@ -772,7 +826,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161500,
       "name": "Faithful Dog",
       "url": "https://open.spotify.com/track/2cnnc5oxlWt5SLH3M4DhxF"
@@ -790,10 +844,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 161500,
       "name": "Faithful Dog",
       "url": "https://open.spotify.com/track/3CkusI2yIe0JYVlZlzdDml"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96133,
+      "name": "Final points",
+      "url": "https://open.spotify.com/track/3LOcCMiEkFNZDJB048MJer"
     },
     {
       "album": {
@@ -808,10 +880,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96133,
       "name": "Final points",
       "url": "https://open.spotify.com/track/6XwRjB6E8g4Q4tyHMemmUC"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Find the ingredients!",
+      "url": "https://open.spotify.com/track/0tr09ajjvpTQfBWP5s2EKm"
     },
     {
       "album": {
@@ -826,7 +916,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131000,
       "name": "Find the ingredients!",
       "url": "https://open.spotify.com/track/6E8fLOminxclTsJ3LYPCfm"
@@ -869,7 +959,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -880,7 +970,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 100500,
       "name": "Front Line",
       "url": "https://open.spotify.com/track/2Jii3ESVjJ0aQAbSTbB4tl"
@@ -898,7 +988,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100500,
       "name": "Front Line",
       "url": "https://open.spotify.com/track/2lOhR6hK9Qmdd3fqxVEDRu"
@@ -916,10 +1006,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 99200,
       "name": "Gain wider knowledge",
       "url": "https://open.spotify.com/track/3tEkcswnJhrLdbJLqrS9Tf"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99200,
+      "name": "Gain wider knowledge",
+      "url": "https://open.spotify.com/track/5sSJeplorFC1HaGuzL9t6I"
     },
     {
       "album": {
@@ -945,7 +1053,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -956,7 +1064,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 101333,
       "name": "Girl's pastime",
       "url": "https://open.spotify.com/track/4zoedjiawRokXIEWZsjTUf"
@@ -974,14 +1082,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101333,
       "name": "Girl's pastime",
       "url": "https://open.spotify.com/track/6WHNjcCEkVSujv7xkoIE8w"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "name": "GOOD DAY(TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u633f\u5165\u6b4c)",
         "url": "https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV"
       },
       "artists": [
@@ -992,7 +1100,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 152600,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp"
@@ -1010,7 +1118,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152600,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/4eW3SwTKhAP85wIaopALTy"
@@ -1053,7 +1161,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1064,7 +1172,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 117066,
       "name": "Gorgeous step",
       "url": "https://open.spotify.com/track/2kjTuStXqriHVsYOgUzEIQ"
@@ -1082,10 +1190,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117066,
       "name": "Gorgeous step",
       "url": "https://open.spotify.com/track/70IAu6qwc3N3H90qXrH8Sn"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118633,
+      "name": "Guard dog",
+      "url": "https://open.spotify.com/track/0SHbFQOASUvnrbgXBExIS9"
     },
     {
       "album": {
@@ -1100,7 +1226,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118633,
       "name": "Guard dog",
       "url": "https://open.spotify.com/track/7nIZDvlQudGJP3cVl94WNv"
@@ -1172,14 +1298,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101733,
       "name": "housework",
       "url": "https://open.spotify.com/track/2GTfetNw3IuHrRvSyV7QeI"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1190,7 +1316,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 101733,
       "name": "housework",
       "url": "https://open.spotify.com/track/2wC93S6g4HW9DsIShpGgYE"
@@ -1208,10 +1334,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 91333,
       "name": "jealousy",
       "url": "https://open.spotify.com/track/0vxuqvOjQYWWoTcWWhbZKO"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91333,
+      "name": "jealousy",
+      "url": "https://open.spotify.com/track/4quNvi6hmEaJBKrz1TzwIc"
     },
     {
       "album": {
@@ -1244,14 +1388,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100766,
       "name": "Liar",
       "url": "https://open.spotify.com/track/0wDOlPfdq0XHuCjqDEHQy8"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1262,14 +1406,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 100766,
       "name": "Liar",
       "url": "https://open.spotify.com/track/4KvgnEJsg3qcRcjUEUBYNo"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1280,7 +1424,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 107300,
       "name": "little by little",
       "url": "https://open.spotify.com/track/3F9ERq4EWsnTxlw2FbB1lx"
@@ -1298,7 +1442,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 107300,
       "name": "little by little",
       "url": "https://open.spotify.com/track/6Cq4LlXZkuSw8B8BUVJYFA"
@@ -1316,7 +1460,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 267500,
       "name": "Little steps",
       "url": "https://open.spotify.com/track/5x3zRaTo5gHTsEvNvbt5C8"
@@ -1334,7 +1478,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267500,
       "name": "Little steps (Animation \u300eSPY\u00d7FAMILY\u300f Season 2 Insert Song)",
       "url": "https://open.spotify.com/track/0A80wKj5AHoEWl478awt4B"
@@ -1352,14 +1496,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105000,
       "name": "Looks like a nice family",
       "url": "https://open.spotify.com/track/6AuKc1uIooF5Yv6SbXAHuI"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1370,7 +1514,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 105000,
       "name": "Looks like a nice family",
       "url": "https://open.spotify.com/track/6wOohqUNOnnG2bPakvSsl6"
@@ -1388,7 +1532,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214000,
       "name": "Love is blind",
       "url": "https://open.spotify.com/track/2fjpyS4XAEmLGHaakxXRVb"
@@ -1406,7 +1550,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Love is blind",
       "url": "https://open.spotify.com/track/5WPLRYVMb6GrnXkQURIDyg"
@@ -1424,7 +1568,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152500,
       "name": "Make all ladies happy",
       "url": "https://open.spotify.com/track/4vG0yWI2ORXLHWzOOnwfFr"
@@ -1442,7 +1586,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Make all ladies happy",
       "url": "https://open.spotify.com/track/51wNa1DbDVEX9AslAdxxV3"
@@ -1460,7 +1604,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213438,
       "name": "Mixed Nuts",
       "url": "https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ"
@@ -1478,10 +1622,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 74133,
       "name": "Mother's Cooking",
       "url": "https://open.spotify.com/track/0511DtUwr7DgzxMu0CLHmL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74133,
+      "name": "Mother's Cooking",
+      "url": "https://open.spotify.com/track/2uwbO51iiEF31BgCwbBzvA"
     },
     {
       "album": {
@@ -1575,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103300,
+      "name": "Pitapat",
+      "url": "https://open.spotify.com/track/2XVC4Tg12j1pUlNkrAOUSt"
+    },
+    {
+      "album": {
         "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
         "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
       },
@@ -1590,7 +1770,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 103300,
       "name": "Pitapat",
       "url": "https://open.spotify.com/track/1CBuiVza0sSA5B7dsaKGsa"
@@ -1608,14 +1788,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115300,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2nfgyprnJBIBNPhbieJgl1"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1626,7 +1806,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 115300,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/5HG2kkDHiLWSWKBmUqNAKV"
@@ -1680,14 +1860,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140666,
       "name": "Precocious",
       "url": "https://open.spotify.com/track/07lMp0FAmLW4lBks9XFfJW"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1698,7 +1878,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140666,
       "name": "Precocious",
       "url": "https://open.spotify.com/track/7GQvws0KOPPsVy0DiZ9El5"
@@ -1716,7 +1896,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136500,
       "name": "Princess Lorelei",
       "url": "https://open.spotify.com/track/3ISx72cAM0e0SvwMh1xdlG"
@@ -1734,10 +1914,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 136500,
       "name": "Princess Lorelei",
       "url": "https://open.spotify.com/track/4BIgxnWbKmGQfAE2fjZwAz"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "pseudo family",
+      "url": "https://open.spotify.com/track/4eMvMMymXVEBVEsJqmQLi7"
     },
     {
       "album": {
@@ -1752,7 +1950,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254000,
       "name": "pseudo family",
       "url": "https://open.spotify.com/track/61NuxPXlj2WtxQF2JaoQZm"
@@ -1806,14 +2004,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115533,
       "name": "Second Son",
       "url": "https://open.spotify.com/track/1e6bYEeqBW0XP9SXWNncGo"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -1824,10 +2022,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 115533,
       "name": "Second Son",
       "url": "https://open.spotify.com/track/5mMQsxIopaFw14Xkm4cLuX"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119100,
+      "name": "sheep",
+      "url": "https://open.spotify.com/track/09wMFaDeajIHMxlMl4i8dn"
     },
     {
       "album": {
@@ -1842,7 +2058,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119100,
       "name": "sheep",
       "url": "https://open.spotify.com/track/2Z4zAG3c7hvPJ5eiOwBY3E"
@@ -1860,10 +2076,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110033,
       "name": "Shoot-out",
       "url": "https://open.spotify.com/track/1ebdCI1I00SlA4cMa4yCcv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110033,
+      "name": "Shoot-out",
+      "url": "https://open.spotify.com/track/4Tt4OVWjEkSMpmrq502onk"
     },
     {
       "album": {
@@ -1950,10 +2184,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123500,
       "name": "Snow Smoke",
       "url": "https://open.spotify.com/track/1vO7qAzy2xMAqDXYa7KcgT"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123500,
+      "name": "Snow Smoke",
+      "url": "https://open.spotify.com/track/2mFWkXvdEHjSIjwwQgVy24"
     },
     {
       "album": {
@@ -1993,7 +2245,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2004,7 +2256,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 106633,
       "name": "State Security Service",
       "url": "https://open.spotify.com/track/2xS1SaDq0xETzdA7DJHOdt"
@@ -2022,10 +2274,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106633,
       "name": "State Security Service",
       "url": "https://open.spotify.com/track/5QPa7jsgJUnxw405SLh4iW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "Stella Stars",
+      "url": "https://open.spotify.com/track/7LglQbPKybMKXQ5aCXtaxC"
     },
     {
       "album": {
@@ -2040,7 +2310,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120800,
       "name": "Stella Stars",
       "url": "https://open.spotify.com/track/7mIubKZQfgDwRyPoHNR0Vv"
@@ -2083,7 +2353,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2094,7 +2364,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 144833,
       "name": "STRIX",
       "url": "https://open.spotify.com/track/1ReifYy4YQWlAHu1yJjf7s"
@@ -2112,7 +2382,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144833,
       "name": "STRIX",
       "url": "https://open.spotify.com/track/4G0wGof3uWHhX0s6kcqRiz"
@@ -2130,7 +2400,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133000,
       "name": "STRIX (Season2)",
       "url": "https://open.spotify.com/track/3V8MSbTxaQOPJ14s8pNA98"
@@ -2148,7 +2418,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "STRIX\uff08Season2\uff09",
       "url": "https://open.spotify.com/track/5V45Ot7VXJtI2kC4KAEKQt"
@@ -2166,10 +2436,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104466,
       "name": "stroll",
       "url": "https://open.spotify.com/track/42iKxyU09JRGFkOMAjIeV9"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104466,
+      "name": "stroll",
+      "url": "https://open.spotify.com/track/6AFXkXTJSSzlkYcfjWADDY"
     },
     {
       "album": {
@@ -2220,14 +2508,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116133,
       "name": "sunset",
       "url": "https://open.spotify.com/track/0UG9nhDKZiW8FyoNAOVqVG"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2238,7 +2526,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116133,
       "name": "sunset",
       "url": "https://open.spotify.com/track/47SfIjyYK9YXttCi0fNg74"
@@ -2256,7 +2544,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236000,
       "name": "TBD",
       "url": "https://open.spotify.com/track/1nEaayEdWvl8YtQwjUjaJW"
@@ -2274,7 +2562,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "TBD",
       "url": "https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R"
@@ -2292,14 +2580,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129731,
       "name": "teacups",
       "url": "https://open.spotify.com/track/46HTpiHb4wy0pjbEH945If"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2310,7 +2598,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 129731,
       "name": "teacups",
       "url": "https://open.spotify.com/track/50iwvUSGVygTCMsf3mmDR3"
@@ -2328,10 +2616,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158000,
       "name": "The beginning of the journey",
       "url": "https://open.spotify.com/track/1dA9cBemBzbdj1hi3W91Lo"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "The beginning of the journey",
+      "url": "https://open.spotify.com/track/6W3KCj8gQcgT7VtZk11ugW"
     },
     {
       "album": {
@@ -2382,14 +2688,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127700,
       "name": "Thorn Princess",
       "url": "https://open.spotify.com/track/0YbS45CyIX5oCvMMtvoDQh"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2400,7 +2706,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127700,
       "name": "Thorn Princess",
       "url": "https://open.spotify.com/track/3VBtRTweZ2CvZaGRmABDwM"
@@ -2429,7 +2735,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2440,7 +2746,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 100033,
       "name": "transient calm",
       "url": "https://open.spotify.com/track/28jLXVNNEjpU8xQmwFmkHQ"
@@ -2458,7 +2764,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100033,
       "name": "transient calm",
       "url": "https://open.spotify.com/track/2nzLXdAAzjqJnbT8RKcova"
@@ -2476,14 +2782,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110666,
       "name": "try again",
       "url": "https://open.spotify.com/track/6AECqCV3b5Czh9qVEsGI2j"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2494,7 +2800,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 110666,
       "name": "try again",
       "url": "https://open.spotify.com/track/7LPI1LMZ8cx1kmSfWdL6bu"
@@ -2552,7 +2858,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 245513,
       "name": "uneven fruit",
       "url": "https://open.spotify.com/track/0wvwmnT6T4d9wokxeOCTdV"
@@ -2574,7 +2880,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245513,
       "name": "uneven fruit",
       "url": "https://open.spotify.com/track/5ZpSrTuhtfkMWTcA5wYSqn"
@@ -2596,7 +2902,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN"
@@ -2618,7 +2924,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173500,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/2zgOXu13AuQKKfZl3mBTRo"
@@ -2683,7 +2989,7 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2694,7 +3000,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135500,
       "name": "Very Elegant",
       "url": "https://open.spotify.com/track/46rgVwV7tuEi5MIOfhM2ks"
@@ -2712,7 +3018,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135500,
       "name": "Very Elegant",
       "url": "https://open.spotify.com/track/6fNKFeZUwRbCEhBAJCscv9"
@@ -2730,7 +3036,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250333,
       "name": "Why",
       "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
@@ -2748,14 +3054,14 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101166,
       "name": "WISE",
       "url": "https://open.spotify.com/track/3wf5Sdu75ioCuDubkBOtNv"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
       "artists": [
@@ -2766,7 +3072,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 101166,
       "name": "WISE",
       "url": "https://open.spotify.com/track/6OVNaqOK6r5CYsZCTcWHNd"
@@ -2820,10 +3126,28 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 103333,
       "name": "woolly",
       "url": "https://open.spotify.com/track/2Fl0EuplSz1Q8EqxlGKtWR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103333,
+      "name": "woolly",
+      "url": "https://open.spotify.com/track/5I5Dewrr5GutKLJ3pMFgGi"
     },
     {
       "album": {
@@ -2845,6 +3169,42 @@
     },
     {
       "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009 Season 2",
+        "url": "https://open.spotify.com/album/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009 Season 2",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1858168,
+      "name": "\u3010Season\uff12\u3011#20\u2026Podcast Season2\u3082\u4eca\u56de\u3067\u30e9\u30b9\u30c8\uff01\u300c\u25cf\u25cf\u25cf\u307f\u305f\u3044\u3060\u3063\u305f\u2026\u6700\u7d42\u56de\u306ePodcast\u300d",
+      "url": "https://open.spotify.com/episode/5PkNLlN9SaaL8WdaSh4xzX"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30e9\u30af\u30e9",
+        "url": "https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191105,
+      "name": "\u30af\u30e9\u30af\u30e9",
+      "url": "https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q"
+    },
+    {
+      "album": {
         "name": "Ado \"Ready For My Show Playlist\"",
         "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
       },
@@ -2856,7 +3216,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191105,
       "name": "\u30af\u30e9\u30af\u30e9",
       "url": "https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS"
@@ -2878,10 +3238,32 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310448,
       "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483",
       "url": "https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
+        "url": "https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310160,
+      "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h"
     },
     {
       "album": {
@@ -2890,13 +3272,13 @@
       },
       "artists": [
         {
-          "name": "Official HIGE DANdism",
+          "name": "OFFICIAL HIGE DANDISM",
           "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213438,
       "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
       "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
@@ -2932,7 +3314,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 250333,
       "name": "\u5149\u306e\u8de1",
       "url": "https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89"
@@ -2968,7 +3350,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230666,
       "name": "\u559c\u5287",
       "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
@@ -2986,10 +3368,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160666,
       "name": "\u5b50\u5b88\u5504",
       "url": "https://open.spotify.com/track/1Vo6Bz6ekS0Yn64LwTgaMY"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "\u30e8\u30eb\u30fb\u30d5\u30a9\u30fc\u30b8\u30e3\u30fc(CV:\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/3HA8EQvmlOQYX3QRw4QYbE"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "\u5b50\u5b88\u5504",
+      "url": "https://open.spotify.com/track/6EgICjgfShpEX4SsAA1xkP"
     },
     {
       "album": {

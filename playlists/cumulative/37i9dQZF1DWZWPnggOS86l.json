@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189893,
       "name": "1997",
       "url": "https://open.spotify.com/track/2SBSgVWnqwk7jUNk22f36s"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 189893,
       "name": "1997",
       "url": "https://open.spotify.com/track/7c2JRBtf4WMA9Q4fzlk4Qx"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241053,
       "name": "Aquela M\u00fasica",
       "url": "https://open.spotify.com/track/1WxGfAHm6Fr8OH5yxaIzAJ"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 241053,
       "name": "Aquela M\u00fasica",
       "url": "https://open.spotify.com/track/6SGPBkazPlEfXNMAAV0OqU"
@@ -276,6 +276,24 @@
     {
       "album": {
         "name": "Ciano",
+        "url": "https://open.spotify.com/album/045PXgmguVjBFJ1PVMCgZO"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352120,
+      "name": "Cada Po\u00e7a Dessa Rua Tem um Pouco de Minhas L\u00e1grimas",
+      "url": "https://open.spotify.com/track/7H9ZO3l7JQDBjVykuxFujo"
+    },
+    {
+      "album": {
+        "name": "Ciano",
         "url": "https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO"
       },
       "artists": [
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354120,
       "name": "Cada Po\u00e7a Dessa Rua Tem Um Pouco de Minhas L\u00e1grimas",
       "url": "https://open.spotify.com/track/2Anewlbuh2nnlUc0bxIKgU"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276666,
       "name": "Crian\u00e7a",
       "url": "https://open.spotify.com/track/2GldKzHbVO2zQR3ZeWjfrh"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 276666,
       "name": "Crian\u00e7a",
       "url": "https://open.spotify.com/track/44Hewpc6MVWcWdQGzPfauT"
@@ -958,6 +976,24 @@
     {
       "album": {
         "name": "Amianto",
+        "url": "https://open.spotify.com/album/1M54W6vxFuAxYNrlO7Ocwd"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196690,
+      "name": "Piloto Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/35689kbAwieHK4YNmwEisS"
+    },
+    {
+      "album": {
+        "name": "Amianto",
         "url": "https://open.spotify.com/album/1WgexL6crC80Q39HwvkyXK"
       },
       "artists": [
@@ -968,7 +1004,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197224,
       "name": "Piloto Autom\u00e1tico",
       "url": "https://open.spotify.com/track/6EmC6JFwF0Aq92ajBPKYiO"
@@ -990,6 +1026,24 @@
       "duration_ms": 227973,
       "name": "Porto Alegre",
       "url": "https://open.spotify.com/track/33Y1jukFR76pj7TXFTHQBJ"
+    },
+    {
+      "album": {
+        "name": "Ciano",
+        "url": "https://open.spotify.com/album/045PXgmguVjBFJ1PVMCgZO"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Quebre As Correntes",
+      "url": "https://open.spotify.com/track/3CjmvJEMATYeaGyzFo1DK9"
     },
     {
       "album": {
@@ -1022,7 +1076,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226466,
       "name": "Quebre As Correntes",
       "url": "https://open.spotify.com/track/26VzA1ncohB7RMsxpXWaZx"
@@ -1047,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "NX Zero",
+        "url": "https://open.spotify.com/album/36XdECqksmPP6MsEOjW6lG"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Raz\u00f5es E Emo\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0kpyiEcH82ni9TuuZYxKzL"
+    },
+    {
+      "album": {
         "name": "Daqui Pra Frente - NX Zero",
         "url": "https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4"
       },
@@ -1058,7 +1130,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222400,
       "name": "Raz\u00f5es E Emo\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg"
@@ -1137,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Quarto Dos Livros",
+        "url": "https://open.spotify.com/album/0HgC2vLEjGrn1zMNFdCrCV"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206843,
+      "name": "Teu Semblante",
+      "url": "https://open.spotify.com/track/598kFLYqXmjcGBlg1jX0SM"
+    },
+    {
+      "album": {
         "name": "Quarto dos Livros",
         "url": "https://open.spotify.com/album/7h6Qz4Ze4DRz9qApzMweWK"
       },
@@ -1166,7 +1256,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208840,
       "name": "Teu Semblante",
       "url": "https://open.spotify.com/track/7J6XsCBC7q22MHLD1CoCiI"

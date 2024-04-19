@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272348,
       "name": "Bless Me",
       "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 272348,
       "name": "Bless Me",
       "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
@@ -485,6 +485,40 @@
     },
     {
       "album": {
+        "name": "Brother (Mahogany Sessions x IRIS)",
+        "url": "https://open.spotify.com/album/27Df7VhCWRvdM5gnQ6uxUa"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        },
+        {
+          "name": "Bianca Rose",
+          "url": "https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221907,
+      "name": "Brother - Mahogany Sessions x IRIS",
+      "url": "https://open.spotify.com/track/1w0WcrTYKWAsibCg6fLy6O"
+    },
+    {
+      "album": {
         "name": "Brother (Mahogany x IRIS)",
         "url": "https://open.spotify.com/album/4iGPiRikSzYNxwPxfvUDxb"
       },
@@ -512,7 +546,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221907,
       "name": "Brother - Mahogany x IRIS",
       "url": "https://open.spotify.com/track/7KJYN0aBnEOYo7cnvGcDDL"
@@ -1146,7 +1180,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282540,
       "name": "I Am (Radio Edit)",
       "url": "https://open.spotify.com/track/5MRxO8zELsdc5ZHMV0y9JZ"
@@ -1168,7 +1202,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282816,
       "name": "I Am (Radio Edit)",
       "url": "https://open.spotify.com/track/4kHeq8xopjOKgOpR5WMysx"
@@ -1226,7 +1260,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275581,
       "name": "I Forgive Me",
       "url": "https://open.spotify.com/track/17MqdngAFPDWcaSt9wkPQi"
@@ -1262,7 +1296,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276423,
       "name": "I Forgive Me",
       "url": "https://open.spotify.com/track/53xAx35okUZ3BaCX6SWh6m"
@@ -1406,7 +1440,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 254208,
       "name": "I Still Have You",
       "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
@@ -1424,7 +1458,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254208,
       "name": "I Still Have You",
       "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
@@ -2076,7 +2110,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
@@ -2094,7 +2128,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
@@ -2372,7 +2406,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 747716,
       "name": "Not Holding Back",
       "url": "https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K"
@@ -2398,7 +2432,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 747716,
       "name": "Not Holding Back",
       "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
@@ -2742,7 +2776,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 297290,
       "name": "Shout Like You Got It",
       "url": "https://open.spotify.com/track/2FKDnfW7P20BgdH6l9g3Sh"
@@ -2760,7 +2794,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297290,
       "name": "Shout Like You Got It",
       "url": "https://open.spotify.com/track/2mJejlFobZcPFBZPzNnYWl"
@@ -3460,7 +3494,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 345625,
       "name": "You",
       "url": "https://open.spotify.com/track/07l6dBNEcArYKT1huIzCmV"
@@ -3478,7 +3512,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345625,
       "name": "You",
       "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
@@ -3746,7 +3780,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 570594,
       "name": "You've Been Good To Me - Live",
       "url": "https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b"
@@ -3764,7 +3798,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 570594,
       "name": "You've Been Good To Me - Live",
       "url": "https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU"
@@ -3800,7 +3834,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 379562,
       "name": "Your Great Name",
       "url": "https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU"
@@ -3818,7 +3852,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 384466,
       "name": "Your Great Name",
       "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"

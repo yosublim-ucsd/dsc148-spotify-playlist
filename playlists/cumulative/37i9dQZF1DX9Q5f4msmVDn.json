@@ -76,10 +76,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 172840,
       "name": "Angelic Hoodrat",
       "url": "https://open.spotify.com/track/0WcUDVYyI8qOdkesji6kdT"
+    },
+    {
+      "album": {
+        "name": "Beyond Bulletproof",
+        "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155968,
+      "name": "Boyz To Men",
+      "url": "https://open.spotify.com/track/4SCZOft290qQSfl4MLUMId"
     },
     {
       "album": {
@@ -382,7 +400,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283373,
       "name": "Heartz Of Men",
       "url": "https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93799,
       "name": "Lick Back",
       "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160078,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"

@@ -698,6 +698,28 @@
     {
       "album": {
         "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295471,
+      "name": "BACK TO ME",
+      "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
       "artists": [
@@ -716,7 +738,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
@@ -2166,6 +2188,28 @@
     {
       "album": {
         "name": "Deep Blue Sea (NOTION Remix)",
+        "url": "https://open.spotify.com/album/7qZDn64BgERGFJT6qah3Dt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Deep Blue Sea - Notion Remix",
+      "url": "https://open.spotify.com/track/1Q16QFSYVocGlAvMz3DSmb"
+    },
+    {
+      "album": {
+        "name": "Deep Blue Sea (NOTION Remix)",
         "url": "https://open.spotify.com/album/1wOqHox5XcTeKGhloFosDy"
       },
       "artists": [
@@ -2180,7 +2224,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288000,
       "name": "Deep Blue Sea - NOTION Remix",
       "url": "https://open.spotify.com/track/3OWt85Iv3pzFw8wKBXroYL"
@@ -3946,7 +3990,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
@@ -3964,7 +4008,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
@@ -5456,10 +5500,32 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164451,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/25XqmGzypcKDWVpwqZ5cIZ"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164451,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7h3SmdSMPWiqeMJdX1YKLO"
     },
     {
       "album": {
@@ -7732,10 +7798,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307213,
       "name": "Vortex 150",
       "url": "https://open.spotify.com/track/62bThnsXNrwt1UHfs0I5MJ"
+    },
+    {
+      "album": {
+        "name": "VORTEX",
+        "url": "https://open.spotify.com/album/4FQ6GnH0Oc09ADYHxhptul"
+      },
+      "artists": [
+        {
+          "name": "Special Request",
+          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307213,
+      "name": "Vortex 150",
+      "url": "https://open.spotify.com/track/78zfetCFu2zb3vgHdGJqx7"
     },
     {
       "album": {
@@ -8140,6 +8224,24 @@
     {
       "album": {
         "name": "Witness",
+        "url": "https://open.spotify.com/album/1QpzXe0shTuT75JgxTasJc"
+      },
+      "artists": [
+        {
+          "name": "Maina Doe",
+          "url": "https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238864,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/3I4Ay3SjBeJvp0JQCEu6mh"
+    },
+    {
+      "album": {
+        "name": "Witness",
         "url": "https://open.spotify.com/album/3zfQMqcvn7NwEBjZhKyX0C"
       },
       "artists": [
@@ -8150,7 +8252,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238864,
       "name": "Witness",
       "url": "https://open.spotify.com/track/4LfSwi3vWDMQYqNsxsIesm"

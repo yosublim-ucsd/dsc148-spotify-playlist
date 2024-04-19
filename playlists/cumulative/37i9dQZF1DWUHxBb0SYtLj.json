@@ -5986,7 +5986,7 @@
     {
       "album": {
         "name": "figliafutura",
-        "url": "https://open.spotify.com/album/5tVGZVMIH8xNqPmwhoLgp5"
+        "url": "https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen"
       },
       "artists": [
         {
@@ -5997,6 +5997,24 @@
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174681,
+      "name": "figliafutura",
+      "url": "https://open.spotify.com/track/52terdOzRx9GKRzsGybrns"
+    },
+    {
+      "album": {
+        "name": "figliafutura",
+        "url": "https://open.spotify.com/album/5tVGZVMIH8xNqPmwhoLgp5"
+      },
+      "artists": [
+        {
+          "name": "fluente",
+          "url": "https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 174681,
       "name": "figliafutura",
       "url": "https://open.spotify.com/track/7zICTxRBg8BF1JsuHvpGfk"

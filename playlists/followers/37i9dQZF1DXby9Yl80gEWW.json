@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 48596,
+  "2024-04-19": 48649,
   "date_first_scraped": "2022-04-09",
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
   "name": "Instrumental Bluegrass",
@@ -2624,6 +2624,24 @@
     },
     {
       "album": {
+        "name": "Jolly Green",
+        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142652,
+      "name": "Jolly Green",
+      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
+    },
+    {
+      "album": {
         "name": "Act 1",
         "url": "https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf"
       },
@@ -4607,7 +4625,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"

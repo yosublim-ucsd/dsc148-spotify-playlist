@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 8756,
+  "2024-04-19": 8758,
   "date_first_scraped": "2021-12-28",
   "description": "Flute and fiddle, drums and drops.",
   "name": "Post/Trad",
@@ -581,7 +581,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 237800,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/252OaSAHSoMemzy6lcplTf"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 237800,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/4CRFusPzKiPpRr7hWOoaUk"
@@ -1051,7 +1051,7 @@
     {
       "album": {
         "name": "Riverview (Ros T Remix)",
-        "url": "https://open.spotify.com/album/5NMC03WQ3x1cwzUEWNR0Al"
+        "url": "https://open.spotify.com/album/4R0wK6J19pNhgQxSfycHqF"
       },
       "artists": [
         {
@@ -1066,6 +1066,28 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262187,
+      "name": "Riverview - Ros T Remix",
+      "url": "https://open.spotify.com/track/0Msqo0D9lRsxgLBKY09ZaD"
+    },
+    {
+      "album": {
+        "name": "Riverview (Ros T Remix)",
+        "url": "https://open.spotify.com/album/5NMC03WQ3x1cwzUEWNR0Al"
+      },
+      "artists": [
+        {
+          "name": "Elephant Sessions",
+          "url": "https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq"
+        },
+        {
+          "name": "Ros T",
+          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-17",
       "duration_ms": 262187,
       "name": "Riverview - Ros T Remix",
       "url": "https://open.spotify.com/track/0xZJyYT18TPAY88DUTXzGH"
@@ -1141,7 +1163,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 195600,
       "name": "She Put on Her Headphones",
       "url": "https://open.spotify.com/track/3iT6kaZo5nfcmA6O5XVZTH"
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 195600,
       "name": "She Put on Her Headphones",
       "url": "https://open.spotify.com/track/7B2mHze9T4NespcBwnqp2L"

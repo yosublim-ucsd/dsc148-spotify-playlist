@@ -4,11 +4,17 @@
 
 > Um ano de bençãos por Isadora Pompeo.
 
-113 songs - 10 hr 26 min
+119 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1\. Introdução](https://open.spotify.com/episode/5bVphyQEURBfUEBaNMHEhr) | [Fé Pelo Ouvir](https://open.spotify.com/show/79gxLil3lPdnRu7slzdpe6) | [Fé Pelo Ouvir](https://open.spotify.com/album/79gxLil3lPdnRu7slzdpe6) | 0:07 | 2023-12-18 |  |
+| [2\. Bênçãos](https://open.spotify.com/episode/5sDYhh9BPFyKCHMecxvxXB) | [Fé Pelo Ouvir](https://open.spotify.com/show/79gxLil3lPdnRu7slzdpe6) | [Fé Pelo Ouvir](https://open.spotify.com/album/79gxLil3lPdnRu7slzdpe6) | 1:41 | 2023-12-18 |  |
+| [3\. Confiar Em Deus](https://open.spotify.com/episode/1ie6hJRCKMrduih26v0KwU) | [Fé Pelo Ouvir](https://open.spotify.com/show/79gxLil3lPdnRu7slzdpe6) | [Fé Pelo Ouvir](https://open.spotify.com/album/79gxLil3lPdnRu7slzdpe6) | 2:36 | 2023-12-18 |  |
+| [4\. Gratidão](https://open.spotify.com/episode/0VqPxBiGOfuIFvoQd66qr7) | [Fé Pelo Ouvir](https://open.spotify.com/show/79gxLil3lPdnRu7slzdpe6) | [Fé Pelo Ouvir](https://open.spotify.com/album/79gxLil3lPdnRu7slzdpe6) | 1:57 | 2023-12-18 |  |
+| [5\. Oração](https://open.spotify.com/episode/1Lo88I066qYA0KPposzvOC) | [Fé Pelo Ouvir](https://open.spotify.com/show/79gxLil3lPdnRu7slzdpe6) | [Fé Pelo Ouvir](https://open.spotify.com/album/79gxLil3lPdnRu7slzdpe6) | 1:27 | 2023-12-18 |  |
 | [500 Graus](https://open.spotify.com/track/7qSzexUzL3H8Fqic0jwDDL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:25 | 2023-09-25 | 2023-11-16 |
+| [6\. Perseverança ](https://open.spotify.com/episode/4CXvxXH3Ry5rPDv7aAkfeO) | [Fé Pelo Ouvir](https://open.spotify.com/show/79gxLil3lPdnRu7slzdpe6) | [Fé Pelo Ouvir](https://open.spotify.com/album/79gxLil3lPdnRu7slzdpe6) | 3:44 | 2023-12-18 |  |
 | [A Bênção](https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Bênção](https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4) | 5:57 | 2023-11-14 | 2023-12-19 |
 | [A Começar em Mim](https://open.spotify.com/track/7ppGbiCqds8k7hEkkWU2ER) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN) | [Por Toda Terra](https://open.spotify.com/album/5MTKFrApp6qcZpFIS0jQFA) | 4:53 | 2023-11-14 | 2023-12-19 |
 | [A Muralha](https://open.spotify.com/track/6lGYfaXbU4Z5QLZQLkeIao) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eternamente](https://open.spotify.com/album/3D9bbSyhg68AvRNPLksZvd) | 5:08 | 2023-07-11 | 2023-09-26 |

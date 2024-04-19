@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,660 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,661 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 8 | [Chops](https://open.spotify.com/track/2wsd1Xk3SBZQLDsGGBDpRf) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 1:06 |
 | 9 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 |
 | 10 | [Coming Correct Is Cheaper](https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:04 |
-| 11 | [...And Loyalty Is A Nuisance Child](https://open.spotify.com/track/30Ch4yWdgbTcYziAvFt9TK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/6eWOqykBzznyzi3NrMWy7y) | 2:13 |
-| 12 | [Denial](https://open.spotify.com/track/0XfZd6yKJHKdWhT2P9Oi0q) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Gas Lit](https://open.spotify.com/album/5sDmr73j6wJxde6nAAMpsk) | 7:37 |
+| 11 | [...And Loyalty Is A Nuisance Child](https://open.spotify.com/track/0PDQRG9ogXCApqBNF6TmOb) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:13 |
+| 12 | [Denial](https://open.spotify.com/track/1jkXblR8Hx9WxvYo9LNPw2) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Gas Lit](https://open.spotify.com/album/54UM3b274EskTmhCHQdFzY) | 7:37 |
 | 13 | [Cranes In The Sky](https://open.spotify.com/track/7cBzwYUbsPYQjpdTruTdMW) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Cranes In The Sky](https://open.spotify.com/album/1ORpSxBLxcFtDKO3M1cetG) | 5:45 |
 | 14 | [Poseur](https://open.spotify.com/track/13GMvznHq9OotzYUmghSbS) | [The Younger Lovers](https://open.spotify.com/artist/0lBYvSxDBZ4Zmjp0DibXsS) | [Young Brothers](https://open.spotify.com/album/015uMGrg5Hnh8uetMrqPeA) | 2:14 |
 | 15 | [Racist, Sexist Boy](https://open.spotify.com/track/6CSLL3sOgYIMSRj69mkGSI) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 1:49 |
@@ -35,22 +35,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 25 | [Rot In the Doghouse](https://open.spotify.com/track/1W9QZolI15mIPJIvFIkX5S) | [Pure Hell](https://open.spotify.com/artist/2tvK2nmvNiOVxizxg7u7yT) | [Noise Addiction](https://open.spotify.com/album/2ohNwP1g0LYQeIA4l5kfnI) | 2:21 |
 | 26 | [Freakin Out](https://open.spotify.com/track/4rlcRCVPt5h4F8RSOa1IEp) | [Death](https://open.spotify.com/artist/6GLYG6CiVx1P5D8Qa6Ulyo) | […For The Whole World To See](https://open.spotify.com/album/1cRdIMuwJKSrsQXbp18jGZ) | 2:48 |
 | 27 | [Every Thing Is Over](https://open.spotify.com/track/7JAo1d99SEqlKLqKwSFdzM) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [45,000 Volts](https://open.spotify.com/album/2A4RVobKY6UiftPJiLkGgr) | 4:43 |
-| 28 | [Beep Beep](https://open.spotify.com/track/7gZ7Knn3D3uBhLuA1CA41F) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/5VqD9o3sYi1uqkoR53lqV2) | 2:14 |
+| 28 | [Beep Beep](https://open.spotify.com/track/4TH1GFk1VUpIVRxrxGpntC) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/1pdjhcIuj7MOtvNX1NIdI9) | 2:13 |
 | 29 | [Stranded](https://open.spotify.com/track/3pmlLEyIP75XR6yHbb82MV) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:05 |
 | 30 | [I'm Dead](https://open.spotify.com/track/7iZcO3nZZfx32MgT3Emy5W) | [Bam Bam](https://open.spotify.com/artist/23TGvRW3SRe3vOnxhHG4WG) | [Free Fall from Space](https://open.spotify.com/album/1o6DslTsIChyGQlJIZM6er) | 5:15 |
 | 31 | [I Am a Poseur](https://open.spotify.com/track/78Kve43aUj99QZCoIIK48h) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 2:33 |
 | 32 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 33 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
 | 34 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
-| 35 | [Cult of Personality \(2023 Remaster\)](https://open.spotify.com/track/4WG7Z3bNM3iE4vCYcXsxNx) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(2023 Remaster\)](https://open.spotify.com/album/0Itv01cUzRusmyNcEgEmOA) | 4:54 |
+| 35 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 |
 | 36 | [See\-Saw](https://open.spotify.com/track/3xqqUrphX5Cj26sCVG9uBk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Witch: We Intend to Cause Havoc!](https://open.spotify.com/album/28FR52kMwgdiIINFuzYP1q) | 5:25 |
 | 37 | [Just What I Needed](https://open.spotify.com/track/2JrnsQPYEHS3YrU6iEX2zl) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:39 |
 | 38 | [Who Rize Above](https://open.spotify.com/track/4GlYEuj1GwAhFE8nZdrUIR) | [Dragons Of Zynth](https://open.spotify.com/artist/4xKhzglPVswJVUyAtO9kBX) | [Coronation Thieves](https://open.spotify.com/album/2mevkWFwP79haXF7PcBynq) | 6:36 |
 | 39 | [Cold Well\-Lit Place](https://open.spotify.com/track/2gwSKfYV6MgEhGnu3gVDmV) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Thin Black Duke](https://open.spotify.com/album/3NbLpXAgk3AuzvcxPSS4iC) | 4:32 |
 | 40 | [Miles Apart](https://open.spotify.com/track/3RazUMVvAmhlmoPrCY95Jo) | [A.R\. Kane](https://open.spotify.com/artist/7JXwnoNAAY276k8wZVmpYf) | [I](https://open.spotify.com/album/742OF7b4k4oIX9tY5Xbqro) | 3:01 |
-| 41 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 |
+| 41 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 |
 | 42 | [Germfree Adolescence](https://open.spotify.com/track/6gI41jiMeH9k4E6FaQkwnx) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 3:15 |
-| 43 | [I Can Dream](https://open.spotify.com/track/7CRaXJtdCV0p4rQc0WV1xS) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Paranoid & Sunburnt](https://open.spotify.com/album/75QcyUJz3SDjpIUiLwafDG) | 3:32 |
+| 43 | [I Can Dream](https://open.spotify.com/track/4gBIByPcSgrLWJC7wk7u19) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Paranoid & Sunburnt](https://open.spotify.com/album/7xCSZZQEnMSSpzTgWzrPhG) | 3:32 |
 | 44 | [Soul In A Jar](https://open.spotify.com/track/54Biz1kZa4d9fXZdgdaHqN) | [The Veldt](https://open.spotify.com/artist/7hcJOolMkn9jRAAhaVSFnu) | [Afrodisiac](https://open.spotify.com/album/5ByAKbC8SjGW2HF1q4V4ZD) | 4:48 |
 | 45 | [Goodbye Horses](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 

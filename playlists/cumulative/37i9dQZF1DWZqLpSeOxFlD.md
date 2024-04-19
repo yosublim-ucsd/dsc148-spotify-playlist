@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/lakeithstanfield3/">LaKeith Stanfield</a>
 
-60 songs - 4 hr 39 min
+62 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,14 @@
 | [Think Twice](https://open.spotify.com/track/20kTcoOe7jB8lYOejYIkjv) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Worldwide Underground](https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY) | 3:02 | 2024-03-01 |  |
 | [Time after time](https://open.spotify.com/track/3QLjojWFdM4wbvEqWDWKmh) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Surround](https://open.spotify.com/album/1rnwK12BYEZDg4XWZEp98V) | 11:04 | 2024-03-01 |  |
 | [Too High](https://open.spotify.com/track/60TB2Ifv7CCjjyROXXnChC) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:36 | 2024-03-01 |  |
-| [Uncatena](https://open.spotify.com/track/7vITd7ck8l9Ww62BWpIhTY) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:15 | 2024-03-01 |  |
+| [Uncatena](https://open.spotify.com/track/2f5l2vw6KZXb6cbE0nl0pb) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/5Abelpx4c3FzhTOZP3ZIvS) | 4:15 | 2024-03-01 |  |
+| [Uncatena](https://open.spotify.com/track/7vITd7ck8l9Ww62BWpIhTY) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:15 | 2024-03-01 | 2024-04-19 |
 | [Under Control](https://open.spotify.com/track/2kBHv0gFA2iheTUXmPB9e1) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 4:04 | 2024-03-01 |  |
 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 | 2024-03-01 |  |
 | [Vibrations](https://open.spotify.com/track/7bwsqDTrvpqO4spefohQu3) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 3:02 | 2024-03-01 |  |
 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 | 2024-03-01 |  |
-| [Whatever I Want \(Fuck Who's Watching\)](https://open.spotify.com/track/5ohsTkUXwgGfR1t9YEaM7W) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 6:37 | 2024-03-01 |  |
+| [Whatever I Want \(Fuck Who's Watching\)](https://open.spotify.com/track/0d6RQcen3fnEVTWHES7IYy) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/2EuKpzSQ9RQ2n06Iu0pDop) | 6:37 | 2024-03-01 |  |
+| [Whatever I Want \(Fuck Who's Watching\)](https://open.spotify.com/track/5ohsTkUXwgGfR1t9YEaM7W) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 6:37 | 2024-03-01 | 2024-04-19 |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2024-03-01 |  |
 | [Window Seat](https://open.spotify.com/track/74HYrIbnpc2xKCTenv5qKM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 4:49 | 2024-03-01 |  |
 | [You Know What](https://open.spotify.com/track/40YQDJrYZFIP24QVfUi9Ar) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 4:30 | 2024-03-01 |  |

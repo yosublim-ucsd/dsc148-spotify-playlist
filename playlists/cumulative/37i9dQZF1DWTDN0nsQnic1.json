@@ -104,7 +104,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 205143,
       "name": "Buttermilk",
       "url": "https://open.spotify.com/track/4mqKn7ewOLvVTJvGMRB5cp"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205143,
       "name": "Buttermilk",
       "url": "https://open.spotify.com/track/7MJC5ROiAjImSkGm85eIWa"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176973,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/0tosIMpbs0c3D026bob94l"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 176973,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/4mH0YkiHRu0LF5hvx86ME9"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192317,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/0Y8R6nwouR14KIyHnumRSN"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 192317,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/2OniwRnM4rjRGFEDGsoJWP"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 228861,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/5EUPK2x1wJ5bERxjQ47lKv"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228861,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242000,
       "name": "It's a Moot Point",
       "url": "https://open.spotify.com/track/0MsP3Z4x4VCmveUxidTch1"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "It's a Moot Point",
       "url": "https://open.spotify.com/track/5OP4i76ZTqEAk85tTAoYZO"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 146400,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6C80rHHynL0EvgTHzzCZUq"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146400,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6bENTPZbrycDApVVQAkzEO"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357357,
       "name": "Movie",
       "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 357357,
       "name": "Movie",
       "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/02u9LupbcUXwrQfGH0Q9ub"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/4u8JJlRQ4WF6XLH5geEiyL"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 59071,
       "name": "Sprout",
       "url": "https://open.spotify.com/track/2YpnY3013jldehP8lvJwSy"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 59071,
       "name": "Sprout",
       "url": "https://open.spotify.com/track/6RFG5HsLNp0V5AVArBl8Fz"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 156147,
       "name": "Sunn",
       "url": "https://open.spotify.com/track/4ZAA5ABChC3NtSGNvXsMGV"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156147,
       "name": "Sunn",
       "url": "https://open.spotify.com/track/5dqMx00nPmSH6fKdqq7r67"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Super Sad Always",
       "url": "https://open.spotify.com/track/1BqSqUUGo1ilm7Pg4ghJvR"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193000,
       "name": "Super Sad Always",
       "url": "https://open.spotify.com/track/5U8WC9leLpyqiPR8A4pugS"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Talk In The Morning",
       "url": "https://open.spotify.com/track/4yxaiawEicI6fJHlGp5wAQ"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217053,
       "name": "Talk In The Morning",
       "url": "https://open.spotify.com/track/7zXOEWUCKiUcdbtZr6ZEdW"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266823,
       "name": "Tell Me When",
       "url": "https://open.spotify.com/track/4IrukTHhqJsr8SEpqz2Zx4"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267789,
       "name": "Tell Me When",
       "url": "https://open.spotify.com/track/2BlscWwajIvT29g6EiQaM9"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 115040,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/0sK6jRVjGwUTEXVNCFe9t7"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115040,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/1sLUDiE3A4PuWT3vmiCAio"

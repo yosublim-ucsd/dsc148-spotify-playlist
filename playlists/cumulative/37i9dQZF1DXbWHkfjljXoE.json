@@ -24,6 +24,28 @@
     {
       "album": {
         "name": "2000 Blacks Got To Be Free (feat. Roy Ayers)",
+        "url": "https://open.spotify.com/album/6EiGFcgkaIJzznQF25DbFY"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293295,
+      "name": "2000 Blacks Got To Be Free (feat. Roy Ayers) - Edit",
+      "url": "https://open.spotify.com/track/1v49ImdfM7a8TcnBzwHhLY"
+    },
+    {
+      "album": {
+        "name": "2000 Blacks Got To Be Free (feat. Roy Ayers)",
         "url": "https://open.spotify.com/album/1YV7aEV84KGSUHIDuM4TtZ"
       },
       "artists": [
@@ -38,7 +60,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293295,
       "name": "2000 Blacks Got to Be Free - Edit",
       "url": "https://open.spotify.com/track/6lI0dzCFeR86ijHg3SGSNP"
@@ -724,10 +746,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+    },
+    {
+      "album": {
+        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331960,
+      "name": "Inner City Blues (Make Me Wanna Holler)",
+      "url": "https://open.spotify.com/track/4KuBTG9nvmPhgwlRoXnJrJ"
     },
     {
       "album": {
@@ -832,10 +872,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442866,
       "name": "Living For The City",
       "url": "https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr"
+    },
+    {
+      "album": {
+        "name": "Original Musiquarium",
+        "url": "https://open.spotify.com/album/1G3yrGdknJ969tsT9oM2yF"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445103,
+      "name": "Living For The City - 1982 Musiquarium Version",
+      "url": "https://open.spotify.com/track/3dIEfSljSXVM6PyqKBaGFe"
     },
     {
       "album": {
@@ -1362,10 +1420,32 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 463052,
       "name": "Sorrow Tears and Blood - Edit",
       "url": "https://open.spotify.com/track/2VVM249iKbInuEg20siz5E"
+    },
+    {
+      "album": {
+        "name": "Sorrow Tears and Blood",
+        "url": "https://open.spotify.com/album/47j1FBntw6Eiy2XUjcLEwK"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463052,
+      "name": "Sorrow Tears and Blood - Edit",
+      "url": "https://open.spotify.com/track/55r3LnrYYQBZ2pkls4ZTnB"
     },
     {
       "album": {
@@ -1626,10 +1706,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250426,
       "name": "True To The Game",
       "url": "https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9"
+    },
+    {
+      "album": {
+        "name": "Death Certificate",
+        "url": "https://open.spotify.com/album/0VoorTgcwMRROTmmZlxPSG"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "True To The Game",
+      "url": "https://open.spotify.com/track/44xsa6cvJWeoWPm3dA1mdP"
     },
     {
       "album": {
@@ -1669,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "Wake Up Everybody",
+        "url": "https://open.spotify.com/album/6HEs5qnRcMu03zTSqMIdNM"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451400,
+      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/763jJ8T1utfvNqz1WRDzx4"
+    },
+    {
+      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -1684,7 +1804,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 452773,
       "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
@@ -1756,7 +1876,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232600,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB"
@@ -1774,7 +1894,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233000,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
@@ -1810,7 +1930,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163413,
       "name": "What's Happening Brother",
       "url": "https://open.spotify.com/track/3B1K9cOissM5S7zUBwd8TZ"
@@ -1828,7 +1948,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163680,
       "name": "What's Happening Brother",
       "url": "https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174440,
       "name": "#Twenty",
       "url": "https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174440,
       "name": "#Twenty",
       "url": "https://open.spotify.com/track/3CTZlHDyGpbzNyRCsPbdMK"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127405,
       "name": "24HRS",
       "url": "https://open.spotify.com/track/14TxLhdCi8gfO49n7RT2W6"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127405,
       "name": "24HRS",
       "url": "https://open.spotify.com/track/5aNuBrqbdJ8r9qFZHliWxR"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185426,
       "name": "365",
       "url": "https://open.spotify.com/track/0nV75BOrSyRuU11DtIhv0U"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185426,
       "name": "365",
       "url": "https://open.spotify.com/track/5J0fF2lLWE6KJMzICG8OHt"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193733,
       "name": "B[OO]M-BOXX",
       "url": "https://open.spotify.com/track/2RMQFfyDZEyF6Bm8lCdEYu"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "B[OO]M-BOXX",
       "url": "https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200033,
       "name": "Be In Love",
       "url": "https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx"
@@ -196,10 +196,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200033,
       "name": "Be In Love",
       "url": "https://open.spotify.com/track/4arN86u5stNI1axzs27pAr"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199106,
+      "name": "BET ON ME",
+      "url": "https://open.spotify.com/track/2nnjEpYDH2qyqgPpma0mGn"
     },
     {
       "album": {
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199106,
       "name": "BET ON ME",
       "url": "https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F"
@@ -250,10 +268,28 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194080,
       "name": "Blossom (LIA)",
       "url": "https://open.spotify.com/track/1GUOz1gZZTRWkGjwmrIYO8"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Blossom (LIA)",
+      "url": "https://open.spotify.com/track/4sqQx8O0HmVcIFhV4glxEr"
     },
     {
       "album": {
@@ -276,7 +312,7 @@
     {
       "album": {
         "name": "BORN TO BE",
-        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
       },
       "artists": [
         {
@@ -287,6 +323,24 @@
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178773,
+      "name": "BORN TO BE",
+      "url": "https://open.spotify.com/track/420Hl2YG4fBPD5oy3EKYSX"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 178773,
       "name": "BORN TO BE",
       "url": "https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF"
@@ -312,6 +366,24 @@
     {
       "album": {
         "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Bratty",
+      "url": "https://open.spotify.com/track/0omGorNM6dtT45h0CSRDrU"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
         "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
       },
       "artists": [
@@ -322,7 +394,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162840,
       "name": "Bratty",
       "url": "https://open.spotify.com/track/5Z0gyPr6idyscwLribVpFH"
@@ -378,6 +450,24 @@
     {
       "album": {
         "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198887,
+      "name": "CAKE",
+      "url": "https://open.spotify.com/track/121rSDpNoXL96bKOEdTGpW"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
         "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
       },
       "artists": [
@@ -388,7 +478,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198887,
       "name": "CAKE",
       "url": "https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6"
@@ -424,10 +514,28 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183573,
       "name": "Can't tie me down",
       "url": "https://open.spotify.com/track/35G2DPJgdku9Mr47LqQ1J0"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/0SbnkLLiTqVmoPmhY80s7S"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Can't tie me down",
+      "url": "https://open.spotify.com/track/0G9Umz9jxpkOpfGnhuAyAU"
     },
     {
       "album": {
@@ -442,7 +550,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190372,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/0w63dfnXnMUEjHTH3dGcLQ"
@@ -460,10 +568,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190372,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/3Ef2Sr4U0oehtcozO23yUN"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/1LJT4ctFlHUSVsfZqMeaz0"
     },
     {
       "album": {
@@ -478,7 +604,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182453,
       "name": "Cheshire",
       "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
@@ -496,7 +622,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Chillin' Chillin'",
       "url": "https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr"
@@ -514,10 +640,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206600,
       "name": "Chillin' Chillin'",
       "url": "https://open.spotify.com/track/6g5nc2mO1KFqd2XbneHshB"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Crown On My Head (YEJI)",
+      "url": "https://open.spotify.com/track/7qTFxE80I67uZTolycW8HQ"
     },
     {
       "album": {
@@ -532,7 +676,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192893,
       "name": "Crown On My Head (YEJI)",
       "url": "https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC"
@@ -550,7 +694,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199873,
       "name": "DALLA DALLA",
       "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
@@ -568,7 +712,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190547,
       "name": "DALLA DALLA - DallasK Remix",
       "url": "https://open.spotify.com/track/2jqfCjRRmqaTBgiJpwCAV3"
@@ -590,7 +734,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190547,
       "name": "DALLA DALLA - DallasK Remix",
       "url": "https://open.spotify.com/track/6SIq7FSWa5Hx11oQPGbie2"
@@ -608,7 +752,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199873,
       "name": "DALLA DALLA - English Ver.",
       "url": "https://open.spotify.com/track/1tQMEpkJ6ayK5w9mtW3Tqv"
@@ -626,7 +770,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199873,
       "name": "DALLA DALLA - English Ver.",
       "url": "https://open.spotify.com/track/77QE9S59GeSHtkU7GRE5PV"
@@ -662,7 +806,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186293,
       "name": "DOMINO",
       "url": "https://open.spotify.com/track/2Yi1F6c06h8HY5ZIvNRogo"
@@ -680,7 +824,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186293,
       "name": "DOMINO",
       "url": "https://open.spotify.com/track/7smzqb09g7J735QwRb6WUp"
@@ -698,7 +842,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196839,
       "name": "Don\u2019t Give A What",
       "url": "https://open.spotify.com/track/3tdKcnxykcmJcssYDGxoC2"
@@ -716,7 +860,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196839,
       "name": "Don\u2019t Give A What",
       "url": "https://open.spotify.com/track/4bjZomvqHkYJ6cIoyOAjrG"
@@ -734,10 +878,46 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169333,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/6qimUEOwCJJrFFKkfi1cCt"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/74WhxNeKL5u5YrYio5pHJm"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "Escalator",
+      "url": "https://open.spotify.com/track/4YUqccPLmuGqGneU5Pj5lQ"
     },
     {
       "album": {
@@ -752,10 +932,28 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200253,
       "name": "Escalator",
       "url": "https://open.spotify.com/track/73UD47tWBapeCpu1aJ2qF0"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/3lWD9ov0WZ7s0RJWFsjCAj"
     },
     {
       "album": {
@@ -770,7 +968,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175146,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d"
@@ -788,7 +986,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179226,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/0i9lsYuXfm13smNgSRmhFx"
@@ -806,7 +1004,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179226,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk"
@@ -824,7 +1022,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149453,
       "name": "Gas Me Up",
       "url": "https://open.spotify.com/track/3RCMSJIlIZkvJP4LFGtOtu"
@@ -842,7 +1040,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149453,
       "name": "Gas Me Up",
       "url": "https://open.spotify.com/track/6UcfMqiOGeA3koBW01SsFs"
@@ -860,7 +1058,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189812,
       "name": "I DON\u2019T WANNA DANCE",
       "url": "https://open.spotify.com/track/427ztPo5YDc2TgebnaFtgW"
@@ -878,7 +1076,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189812,
       "name": "I DON\u2019T WANNA DANCE",
       "url": "https://open.spotify.com/track/4WzPXQ6z0JhJWyc43cAMMX"
@@ -896,7 +1094,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191142,
       "name": "ICY",
       "url": "https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs"
@@ -914,7 +1112,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191142,
       "name": "ICY",
       "url": "https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu"
@@ -932,7 +1130,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191129,
       "name": "ICY - English Ver.",
       "url": "https://open.spotify.com/track/0H76idYK173LwctmFntEdz"
@@ -950,7 +1148,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191129,
       "name": "ICY - English Ver.",
       "url": "https://open.spotify.com/track/4r4tlYK3l78cDNut5SMeQ3"
@@ -986,7 +1184,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206553,
       "name": "iD",
       "url": "https://open.spotify.com/track/2GUikd8cj7qDBzkDzUMd8N"
@@ -1004,7 +1202,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206553,
       "name": "iD",
       "url": "https://open.spotify.com/track/6jfwYW9fmEAbbRxx42F5Kw"
@@ -1022,7 +1220,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172358,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
@@ -1040,7 +1238,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172373,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
@@ -1076,7 +1274,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197898,
       "name": "IT'z SUMMER",
       "url": "https://open.spotify.com/track/1F3q83uRQ1aO9LmaEUzYox"
@@ -1094,7 +1292,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197898,
       "name": "IT'z SUMMER",
       "url": "https://open.spotify.com/track/7p2qGo8x2bW9B0W789i1pt"
@@ -1112,7 +1310,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213960,
       "name": "KIDDING ME",
       "url": "https://open.spotify.com/track/3aGqHdZJusdhT3ZzfLRnO7"
@@ -1130,10 +1328,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213960,
       "name": "KIDDING ME",
       "url": "https://open.spotify.com/track/74WtkDIkOXTtEVO4TatDMX"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "Kill Shot",
+      "url": "https://open.spotify.com/track/37q0dF9Ggj8ty2l9o5B9jk"
     },
     {
       "album": {
@@ -1148,7 +1364,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136866,
       "name": "Kill Shot",
       "url": "https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9"
@@ -1196,7 +1412,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
@@ -1214,7 +1430,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV"
@@ -1232,7 +1448,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191462,
       "name": "LOCO - English Ver.",
       "url": "https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv"
@@ -1250,7 +1466,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191462,
       "name": "LOCO - English Ver.",
       "url": "https://open.spotify.com/track/0QPYsEvaoEJzZLSF5Cq390"
@@ -1286,7 +1502,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201054,
       "name": "Louder",
       "url": "https://open.spotify.com/track/39pv61XfYr9MUwsYkx30aQ"
@@ -1304,7 +1520,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201054,
       "name": "Louder",
       "url": "https://open.spotify.com/track/5QJuILYkvFC2eceU6nLQ9f"
@@ -1322,7 +1538,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207160,
       "name": "LOVE is",
       "url": "https://open.spotify.com/track/3ppdTc5q8S2Mn8FpD97CTQ"
@@ -1340,7 +1556,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207160,
       "name": "LOVE is",
       "url": "https://open.spotify.com/track/5ezx4XG58DNj74FtGLUaNU"
@@ -1358,10 +1574,28 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168360,
       "name": "Mine (CHAERYEONG)",
       "url": "https://open.spotify.com/track/0vVjP9MvzcaGdy2gKgbGcb"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "Mine (CHAERYEONG)",
+      "url": "https://open.spotify.com/track/7A4upE66kerzL1XCNVDnVY"
     },
     {
       "album": {
@@ -1376,7 +1610,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258680,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4yYr4DzjAD7JZIrSd1CoZT"
@@ -1394,7 +1628,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258680,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/7hwBAcUNcMFqNL2ZdyUexn"
@@ -1412,10 +1646,28 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170080,
       "name": "Mr. Vampire",
       "url": "https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Mr. Vampire",
+      "url": "https://open.spotify.com/track/4mlMihXnpCz6d05rI5hQV0"
     },
     {
       "album": {
@@ -1430,7 +1682,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197124,
       "name": "NOBODY LIKE YOU",
       "url": "https://open.spotify.com/track/4YUqGDMd1yJAa5i2ShysI6"
@@ -1448,10 +1700,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197124,
       "name": "NOBODY LIKE YOU",
       "url": "https://open.spotify.com/track/7JSaztudhBzfGiudI1QMJl"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "None of My Business",
+      "url": "https://open.spotify.com/track/4vfQRnIqR3GTERQGDS0pwZ"
     },
     {
       "album": {
@@ -1466,7 +1736,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202160,
       "name": "None of My Business",
       "url": "https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u"
@@ -1484,7 +1754,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177728,
       "name": "Not Shy",
       "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
@@ -1502,7 +1772,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177728,
       "name": "Not Shy",
       "url": "https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU"
@@ -1520,7 +1790,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177742,
       "name": "Not Shy - English Ver.",
       "url": "https://open.spotify.com/track/2p0WmvGmzE3mKr3lc6ZB9g"
@@ -1538,7 +1808,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177742,
       "name": "Not Shy - English Ver.",
       "url": "https://open.spotify.com/track/7tEE2ICgZzdrCblRl7eLdV"
@@ -1600,6 +1870,24 @@
     {
       "album": {
         "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164453,
+      "name": "Psychic Lover",
+      "url": "https://open.spotify.com/track/4OrXIOLFXH5emUmvNpwCTe"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
         "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
       },
       "artists": [
@@ -1610,7 +1898,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164453,
       "name": "Psychic Lover",
       "url": "https://open.spotify.com/track/5Xik9Cid9UnaLMOyaDYO8F"
@@ -1628,7 +1916,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192893,
       "name": "RACER",
       "url": "https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1"
@@ -1646,7 +1934,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192893,
       "name": "RACER",
       "url": "https://open.spotify.com/track/7cY0T2qBQU9gKKD47lqpI0"
@@ -1672,7 +1960,7 @@
     {
       "album": {
         "name": "BORN TO BE",
-        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
       },
       "artists": [
         {
@@ -1683,6 +1971,24 @@
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Run Away (RYUJIN)",
+      "url": "https://open.spotify.com/track/3L2HIhM57W8TZC44kV5dAC"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 216893,
       "name": "Run Away (RYUJIN)",
       "url": "https://open.spotify.com/track/4e94KIas5maH8RixY26LiN"
@@ -1700,7 +2006,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 139213,
       "name": "SHOOT!",
       "url": "https://open.spotify.com/track/11RRkvXd7FvwxLWvtuBIR1"
@@ -1718,7 +2024,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139213,
       "name": "SHOOT!",
       "url": "https://open.spotify.com/track/2xeaHUnzzT5Kc974OQt1kA"
@@ -1736,7 +2042,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179453,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr"
@@ -1754,7 +2060,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179453,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
@@ -1772,7 +2078,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179453,
       "name": "SNEAKERS (English Ver.)",
       "url": "https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp"
@@ -1790,10 +2096,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179453,
       "name": "SNEAKERS - English Ver.",
       "url": "https://open.spotify.com/track/4JtAmFcrtdyYpruYS3tuv0"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Snowy",
+      "url": "https://open.spotify.com/track/0938MnuIcLlLUVNtwlRoZq"
     },
     {
       "album": {
@@ -1808,7 +2132,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173560,
       "name": "Snowy",
       "url": "https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7"
@@ -1826,7 +2150,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202280,
       "name": "Sooo LUCKY",
       "url": "https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm"
@@ -1844,7 +2168,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202280,
       "name": "Sooo LUCKY",
       "url": "https://open.spotify.com/track/6zqZfHvp3f9r4AF6G7Nhgl"
@@ -1862,7 +2186,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189786,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM"
@@ -1880,10 +2204,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189786,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/5QaqP49NaSt1geAPNgDxYE"
+    },
+    {
+      "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/2u0QU6DP2HL5t9cp04vzBT"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "Spice",
+      "url": "https://open.spotify.com/track/1IA9021Q5gkRwTM99Xtsqh"
     },
     {
       "album": {
@@ -1898,7 +2240,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191640,
       "name": "Spice",
       "url": "https://open.spotify.com/track/2uIZvCteW9ZapDvSkfRJ69"
@@ -1988,7 +2330,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193932,
       "name": "SURF",
       "url": "https://open.spotify.com/track/5P8KNvNOdqp0dd5SnilkDZ"
@@ -2006,7 +2348,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193932,
       "name": "SURF",
       "url": "https://open.spotify.com/track/5rAjh9qDtJalKfwgxNk2vt"
@@ -2024,7 +2366,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177893,
       "name": "SWIPE",
       "url": "https://open.spotify.com/track/5au5BF6e1TgZFrdoAz9p6x"
@@ -2042,7 +2384,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177893,
       "name": "SWIPE",
       "url": "https://open.spotify.com/track/5o0urLKhjQLIFMoJH5SSrY"
@@ -2060,7 +2402,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219453,
       "name": "TENNIS (0:0)",
       "url": "https://open.spotify.com/track/1e8PJyZMP4Kx2lGbb7t4ng"
@@ -2078,7 +2420,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219453,
       "name": "TENNIS (0:0)",
       "url": "https://open.spotify.com/track/6wSBcV4mjwiVKGJzNrgwha"
@@ -2096,7 +2438,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180180,
       "name": "THAT\u2019S A NO NO",
       "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
@@ -2114,7 +2456,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180180,
       "name": "THAT\u2019S A NO NO",
       "url": "https://open.spotify.com/track/67lCDm8Z4KcFQPIRrqaaQr"
@@ -2136,7 +2478,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219143,
       "name": "TING TING TING (with Oliver Heldens)",
       "url": "https://open.spotify.com/track/4RNqQdwEk03s14HLRXJ9aD"
@@ -2158,7 +2500,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219143,
       "name": "TING TING TING (with Oliver Heldens)",
       "url": "https://open.spotify.com/track/7ADlvg3uIjCvItqeJPgDbu"
@@ -2176,7 +2518,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221638,
       "name": "Trust Me (MIDZY)",
       "url": "https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1"
@@ -2194,7 +2536,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221638,
       "name": "Trust Me (MIDZY)",
       "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
@@ -2220,7 +2562,7 @@
     {
       "album": {
         "name": "BORN TO BE",
-        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
       },
       "artists": [
         {
@@ -2231,6 +2573,24 @@
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194093,
+      "name": "UNTOUCHABLE",
+      "url": "https://open.spotify.com/track/2CnJMXdMj1uytoZbs4MPbO"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 194093,
       "name": "UNTOUCHABLE",
       "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
@@ -2266,7 +2626,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191242,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e"
@@ -2284,7 +2644,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191242,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA"
@@ -2302,7 +2662,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191242,
       "name": "WANNABE - English Ver.",
       "url": "https://open.spotify.com/track/2cnhL9Xb7jlTuUs4taxJSB"
@@ -2320,7 +2680,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191242,
       "name": "WANNABE - English Ver.",
       "url": "https://open.spotify.com/track/6JPIU7vP5gY81UkFu7V9Ur"
@@ -2356,7 +2716,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200303,
       "name": "WANT IT?",
       "url": "https://open.spotify.com/track/24HHXG8VtexJC0hrJe1WJY"
@@ -2374,7 +2734,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200303,
       "name": "WANT IT?",
       "url": "https://open.spotify.com/track/2DvBbpZ9MjOQZs2HtN5Ake"
@@ -2392,7 +2752,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207870,
       "name": "WANT IT? - Imad Royal Remix",
       "url": "https://open.spotify.com/track/56g54pCBLSGyjhAviQ6WWY"
@@ -2414,7 +2774,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207870,
       "name": "WANT IT? - Imad Royal Remix",
       "url": "https://open.spotify.com/track/73Y127nxOVRDwWhW2wT3qY"
@@ -2450,7 +2810,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143066,
       "name": "WHAT I WANT",
       "url": "https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE"
@@ -2468,7 +2828,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143066,
       "name": "WHAT I WANT",
       "url": "https://open.spotify.com/track/2zs9JUIjwWkveqL7el19Aq"
@@ -2486,7 +2846,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203426,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/3mRcVmaJlodmb7eensMMfZ"
@@ -2504,10 +2864,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203426,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/6oN3gPWl6ULGgq8EkslcBk"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Yet, but (YUNA)",
+      "url": "https://open.spotify.com/track/4GHHnfAZlbftjqy4YB69J3"
     },
     {
       "album": {
@@ -2522,7 +2900,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205666,
       "name": "Yet, but (YUNA)",
       "url": "https://open.spotify.com/track/5xvvYrp0VcaigWP088jybs"
@@ -2540,7 +2918,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183163,
       "name": "YOU MAKE ME",
       "url": "https://open.spotify.com/track/3ehpqyAGlcbI6Qx2bbawcx"
@@ -2558,7 +2936,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183163,
       "name": "YOU MAKE ME",
       "url": "https://open.spotify.com/track/5Hvr3JCRoAIKXDnXyg02OU"
@@ -2576,7 +2954,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199873,
       "name": "\ub2ec\ub77c\ub2ec\ub77c (DALLA DALLA)",
       "url": "https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT"

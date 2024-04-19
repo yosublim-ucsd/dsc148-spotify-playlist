@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 1420819,
+  "2024-04-19": 1421773,
   "date_first_scraped": "2021-12-28",
   "description": "Sleep with sounds of pouring rain and occasional rolling thunder.",
   "name": "Night Rain",
@@ -2829,6 +2829,24 @@
       "duration_ms": 208062,
       "name": "it's raining",
       "url": "https://open.spotify.com/track/6rgwScNF1ITtEYa8mkLQ0P"
+    },
+    {
+      "album": {
+        "name": "Nihon Garden Rain",
+        "url": "https://open.spotify.com/album/0ad3J1YO5XhWi1DoBCnZXa"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165378,
+      "name": "Japanese Garden Rain",
+      "url": "https://open.spotify.com/track/6Th9VRLifyT6FJ3BNTFge7"
     },
     {
       "album": {
@@ -7127,7 +7145,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 158000,
       "name": "Strong Rain",
       "url": "https://open.spotify.com/track/5WCKWlR0uNc6SxBlSqh5zj"

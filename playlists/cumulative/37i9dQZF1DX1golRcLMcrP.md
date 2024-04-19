@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Castaway Diva\. \(무인도의 디바 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-148 songs - 7 hr 57 min
+150 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Someday](https://open.spotify.com/track/6Y5mzZ8B5S1mgiC3G6z5tF) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 3:52 | 2023-12-05 |  |
 | [Someday Soon Again](https://open.spotify.com/track/100Sa2DEbbIkMrAkge2m8B) | [NA YUN SIK](https://open.spotify.com/artist/5MFHXdrPQi4PuWhJVg8DT0) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 2:28 | 2023-12-05 |  |
 | [Someday, Someway](https://open.spotify.com/track/0m30sSwMzBBJsXhNwEp4cx) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 3:55 | 2023-12-05 |  |
-| [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2023-11-06 |  |
+| [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2023-11-06 | 2024-04-19 |
+| [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 | 2023-12-05 |  |
 | [Step By Step](https://open.spotify.com/track/22NV7gO976Azmvhc1Krzsl) | [YU HUI HYEON](https://open.spotify.com/artist/5T2exIHUnJ2yoNqNVIs6IR), [Park Sejun](https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 1:33 | 2023-12-05 |  |
 | [Talk To Me](https://open.spotify.com/track/1r3pm2D7B69FqorXFmUJ5u) | [Kim Ji\-Ae](https://open.spotify.com/artist/1vStVPZ6YKFukHFrG5Ro4s) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 2:46 | 2023-12-05 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2023-11-06 |  |
@@ -144,7 +145,8 @@
 | [We are](https://open.spotify.com/track/63LRh32O1eE0NbN2JsA8Rx) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 | 2023-11-13 |  |
 | [We Are \(Inst.\)](https://open.spotify.com/track/1Q5cn6MHvlhz0gI9Xa0875) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 3:15 | 2023-12-05 |  |
 | [We are \(Inst.\)](https://open.spotify.com/track/3BcuKOI95PKAuBLP2EXnAj) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 | 2023-11-13 |  |
-| [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 | 2023-11-06 |  |
+| [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 | 2023-11-06 | 2024-04-19 |
+| [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 | 2023-12-05 |  |
 | [Why calling](https://open.spotify.com/track/6JrNdcEqbwt50I19SxJr2x) | [Diva](https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF) | [Snappy Diva's Second Album](https://open.spotify.com/album/4XG3swP5XIOrFzs1xd2lqF) | 4:07 | 2023-11-06 |  |
 | [You Are My Present](https://open.spotify.com/track/3YNqAi6sInh8aDBGwX8WpA) | [LEE NYEOM](https://open.spotify.com/artist/1F5ghPgVIV9sj2qEAyf5GC) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 2:53 | 2023-12-05 |  |
 | [You're leaving like the season](https://open.spotify.com/track/1Pa3xyjrAzYyrkhxDJeLMw) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [CASTAWAY DIVA OST Part.9](https://open.spotify.com/album/2CMMWmUcim52sqmzOR712T) | 4:26 | 2023-11-29 |  |

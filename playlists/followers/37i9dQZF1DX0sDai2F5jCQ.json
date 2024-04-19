@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 439305,
+  "2024-04-19": 439269,
   "date_first_scraped": "2023-09-23",
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: J. Cole",
   "name": "A1",
@@ -929,6 +929,24 @@
       "duration_ms": 150729,
       "name": "CFB",
       "url": "https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv"
+    },
+    {
+      "album": {
+        "name": "Champagne Moments",
+        "url": "https://open.spotify.com/album/2Nu6FUe5OFNFVDBtGPoR8E"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205356,
+      "name": "Champagne Moments",
+      "url": "https://open.spotify.com/track/3pD67h2Hd1Jd1pMZFYVXHC"
     },
     {
       "album": {

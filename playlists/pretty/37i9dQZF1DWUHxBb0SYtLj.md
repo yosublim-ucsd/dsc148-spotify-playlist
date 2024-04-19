@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Angelica
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,764 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,769 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 23 | [HOT](https://open.spotify.com/track/1ZSkx2qlwCSovf4N54QOM7) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt), [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [HOT](https://open.spotify.com/album/10QzfKIkL6mO9gZTVk2Svr) | 1:52 |
 | 24 | [APNEA](https://open.spotify.com/track/3qyidNdb5QNHLxAFJzTn6P) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [APNEA](https://open.spotify.com/album/0YMrslSUc1TClPK7b1SVBa) | 3:00 |
 | 25 | [Liquirizia e nostalgia](https://open.spotify.com/track/6pTw3RBBHnVQjvhEiCt3V7) | [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Liquirizia e nostalgia](https://open.spotify.com/album/0o9Insu8VlfXJAOIbE55V8) | 3:17 |
-| 26 | [figliafutura](https://open.spotify.com/track/7zICTxRBg8BF1JsuHvpGfk) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5tVGZVMIH8xNqPmwhoLgp5) | 2:54 |
+| 26 | [figliafutura](https://open.spotify.com/track/52terdOzRx9GKRzsGybrns) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [figliafutura](https://open.spotify.com/album/5ic1uVI97CBuguXfwtVgen) | 2:54 |
 | 27 | [Settembre](https://open.spotify.com/track/2EOb6rY5V6AUgpmQjgN5qX) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Verso una casa](https://open.spotify.com/album/7BL6JI1RpKtmysgBxtxuDV) | 2:34 |
 | 28 | [lacrime che](https://open.spotify.com/track/6CaxlHV4TAASm9wRRSfE8P) | [chesma](https://open.spotify.com/artist/14qfpqRSUFUcZOK424qddH) | [lacrime che](https://open.spotify.com/album/1nSnh2QFL2HDVPjwFtyI2V) | 2:32 |
 | 29 | [sfumature blu](https://open.spotify.com/track/7IzxGKw9eFHoLZlTMnJnKx) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o) | [sfumature blu](https://open.spotify.com/album/546RwR7WQx3n88cP6bS6fC) | 2:46 |

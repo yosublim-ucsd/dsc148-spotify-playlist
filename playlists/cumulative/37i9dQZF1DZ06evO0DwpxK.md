@@ -2,7 +2,7 @@
 
 ### [This Is Humbe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DwpxK)
 
-> This Is Humbe\. Los temas esenciales, todos en una lista.
+> This Is Humbe\. Sus mejores éxitos, todos en una playlist.
 
 42 songs - 2 hr 28 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,770 likes - 282 songs - 13 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,049 likes - 282 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 136 | [hot streak](https://open.spotify.com/track/7A6Y8nJXkpL8WOiAJ7NhVt) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [hot streak](https://open.spotify.com/album/2PpngRbcEsw36kL6v16qnp) | 2:31 |
 | 137 | [From the Heart](https://open.spotify.com/track/0EdgohABs9avmcSSI71aBh) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [From the Heart](https://open.spotify.com/album/1JH584zwgeLYauEmsPRt2f) | 3:32 |
 | 138 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 |
-| 139 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 |
+| 139 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 |
 | 140 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 |
 | 141 | [Beam](https://open.spotify.com/track/4oH3QxN1Gu6nQSaXnXxhdG) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Beam](https://open.spotify.com/album/4d9jrv1alGZIhLlijW8ZVZ) | 2:16 |
 | 142 | [Morning Glory](https://open.spotify.com/track/1p9F3GkrCNZDnR0hro4m8d) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best II](https://open.spotify.com/album/55v7tN175TJKDdbmzbriGh) | 2:46 |
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 164 | [Lakeswim](https://open.spotify.com/track/1hAUYakXQGSr6IvJ6uFll1) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Lakeswim](https://open.spotify.com/album/5hhSH0phuuah1ZTDnxCdar) | 2:35 |
 | 165 | [melt with you](https://open.spotify.com/track/2PaAxePigQ3wddWOXakh5y) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [melt with you](https://open.spotify.com/album/16C0uShYSHgzxVKNwdIMR5) | 2:24 |
 | 166 | [Floating](https://open.spotify.com/track/7trcNSGxT8x26jcv93YbiY) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Floating](https://open.spotify.com/album/2mBPlc7WO70IayqZj2fxo1) | 2:34 |
-| 167 | [Silent Night](https://open.spotify.com/track/2ukFKTsfS4BNWuTlaNMNJr) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/4Tb62CXMnvRIAcZ0KaRa42) | 2:50 |
+| 167 | [Silent Night](https://open.spotify.com/track/76sSclBbZk7dmGAqsHIbhx) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/5ALVrxBQN7xyMyeOF7DToQ) | 2:50 |
 | 168 | [teque](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [teque](https://open.spotify.com/album/4HsO0EPeFW6f4934ic9DDU) | 3:08 |
 | 169 | [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 |
 | 170 | [Lobby](https://open.spotify.com/track/2SYNph4RlGOSqW7h681G8D) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Lobby](https://open.spotify.com/album/53bhBGHmCq4XdN3lM785zZ) | 2:32 |
@@ -195,12 +195,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 185 | [Again again](https://open.spotify.com/track/7siaBvEhAnrEg27iXp2btt) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Again again](https://open.spotify.com/album/6qnIwtjqI38oymd4TNHRoR) | 2:44 |
 | 186 | [Fanfare](https://open.spotify.com/track/2qepxROwRFTCYlwlgrIbZ5) | [Transpiritual](https://open.spotify.com/artist/59taaUJx3Bx2oLgYe8EUjN), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Fanfare](https://open.spotify.com/album/2JWzpyP2ihJSEn2MP3IsMS) | 4:06 |
 | 187 | [White Island Dreams](https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [White Island Dreams](https://open.spotify.com/album/3O9jUdv6lXjPNiabvGE3wT) | 3:01 |
-| 188 | [Supine](https://open.spotify.com/track/1X8IcPJgn8FVCEuV3qVR2p) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Supine](https://open.spotify.com/album/4RtR2G0NXfEGxf768g3MeX) | 2:34 |
+| 188 | [Supine](https://open.spotify.com/track/5Ko0o58lO7LJDsIl4vpLxy) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Supine](https://open.spotify.com/album/0r1YdNfM2IKLNDHxSuPZkM) | 2:34 |
 | 189 | [Velleity](https://open.spotify.com/track/4HQ41ym9uibfzg3rDtEYcm) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Velleity](https://open.spotify.com/album/4huMtPAQYTHoD8Rc3ExI3n) | 3:32 |
 | 190 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 |
 | 191 | [paloma beach](https://open.spotify.com/track/7M3sK9nRnpwT826somSyS9) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [paloma beach](https://open.spotify.com/album/3ZtcDAqw3gck5JsDq8gkNv) | 4:02 |
 | 192 | [Wanderlust](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Wanderlust](https://open.spotify.com/album/4K9NFfOF2AfatXDGTmF56W) | 2:27 |
-| 193 | [A Moment Away](https://open.spotify.com/track/4Je74aqRXHa2XlTQqg2obW) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/5JBuR3SpFu5Wsnbtg1f7nQ) | 2:56 |
+| 193 | [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 |
 | 194 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 |
 | 195 | [Sunset In Miami](https://open.spotify.com/track/3P1f3w1gl4K88om3T9WwOi) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Sunset In Miami](https://open.spotify.com/album/7zYANoblZ4Qvoupmc69vgJ) | 2:45 |
 | 196 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 |
@@ -264,7 +264,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 254 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 |
 | 255 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 |
 | 256 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 |
-| 257 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 257 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 |
 | 258 | [Yin Yan Tonic](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Yin Yan Tonic](https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U) | 2:50 |
 | 259 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
 | 260 | [Summer flower](https://open.spotify.com/track/1FZ8DbYXBExoMZpVYlILR1) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Summer flower](https://open.spotify.com/album/5N07HHsi9ZhvquiBgwtQLa) | 3:08 |

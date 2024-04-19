@@ -1324,10 +1324,32 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161880,
       "name": "Love Ya",
       "url": "https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN"
+    },
+    {
+      "album": {
+        "name": "Love Ya",
+        "url": "https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Love Ya",
+      "url": "https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w"
     },
     {
       "album": {

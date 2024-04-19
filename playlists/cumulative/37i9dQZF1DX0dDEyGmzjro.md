@@ -31,8 +31,8 @@
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-06-16 |  |
 | [Sunvibes](https://open.spotify.com/track/5YLlLZJ8FXgssCMk5yftbS) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [Sunvibes](https://open.spotify.com/album/0tNVAYD5RBKmGo6cqHZTet) | 1:34 | 2023-06-16 |  |
 | [Tqm, Ptm](https://open.spotify.com/track/1DM1HpfqOGe4VV0UzrD1pr) | [Bolishe One](https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA) | [Cotidiano](https://open.spotify.com/album/5TN6envq3h0nZZstCs52GY) | 3:28 | 2023-06-16 |  |
-| [Videollamada](https://open.spotify.com/track/0opWM0Sr3vfKH8XSJDwutR) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Videollamada](https://open.spotify.com/album/0TLmVIGfbI9a1GejkyP0zC) | 2:25 | 2023-06-16 | 2023-07-22 |
-| [Videollamada](https://open.spotify.com/track/2SWHVnjQYzg45MMFQ5U44G) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Videollamada](https://open.spotify.com/album/6BCWigF4qV5B8ywsU9ggjl) | 2:25 | 2023-06-16 |  |
+| [Videollamada](https://open.spotify.com/track/0opWM0Sr3vfKH8XSJDwutR) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Videollamada](https://open.spotify.com/album/0TLmVIGfbI9a1GejkyP0zC) | 2:25 | 2023-06-16 |  |
+| [Videollamada](https://open.spotify.com/track/2SWHVnjQYzg45MMFQ5U44G) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Videollamada](https://open.spotify.com/album/6BCWigF4qV5B8ywsU9ggjl) | 2:25 | 2023-06-16 | 2024-04-19 |
 | [Waiting](https://open.spotify.com/track/60XKYSAexkc70KPDefZzYs) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Waiting](https://open.spotify.com/album/6bvRJ36iuSYbQD5kYaP64I) | 2:45 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2023-06-30. Prior content cannot be recovered.

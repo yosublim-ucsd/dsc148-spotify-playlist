@@ -140,10 +140,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 114444,
       "name": "Babe Bhangra Paunde Ne (From \"Babe Bhangra Paunde Ne\")",
       "url": "https://open.spotify.com/track/1whtXubWCdWMhvZiymscRH"
+    },
+    {
+      "album": {
+        "name": "Babe Bhangra Paunde Ne - Title Track (From \"Babe Bhangra Paunde Ne\")",
+        "url": "https://open.spotify.com/album/4kif1ckv7sR6g1nxOPntiU"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114444,
+      "name": "Babe Bhangra Paunde Ne - Title Track",
+      "url": "https://open.spotify.com/track/03EgzQpFoUvDp6NI03ZS5d"
     },
     {
       "album": {
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214405,
       "name": "It Ain't Legal",
       "url": "https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214405,
       "name": "It Ain't Legal",
       "url": "https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192654,
       "name": "Let 'em Play",
       "url": "https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195652,
       "name": "Let 'em Play",
       "url": "https://open.spotify.com/track/6S6HSSk9HzWe3pqvUJn6Vq"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Number 5",
       "url": "https://open.spotify.com/track/2WucLX3feWudkrM2MBtN3I"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174000,
       "name": "Number 5 (From \"Honsla Rakh\")",
       "url": "https://open.spotify.com/track/2G9m5QkNvyLbzxwlIcA6hO"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253636,
       "name": "Old Skool",
       "url": "https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz"
@@ -1518,8 +1536,12 @@
       },
       "artists": [
         {
-          "name": "Prem Dhillon Ft. Sidhu Moosewala",
-          "url": "https://open.spotify.com/artist/4hXZlvo1FmotuwiO3XGdbk"
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
         },
         {
           "name": "Naseeb",
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253675,
       "name": "Old Skool",
       "url": "https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d"

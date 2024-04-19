@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Papisa
 
-572 songs - 1 day 8 hr 21 min
+574 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [nem sempre foi assim](https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [nem sempre foi assim](https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn) | 3:32 | 2022-06-03 | 2022-08-20 |
 | [nesse verão](https://open.spotify.com/track/2o7Dnb3uCe2NRJhSEAruNv) | [Ente](https://open.spotify.com/artist/2lOXiSPGZ3mm6JpMhmL1bZ) | [nesse verão](https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A) | 2:47 | 2023-08-18 | 2023-12-02 |
 | [Netuno](https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [Fernando Rischbieter](https://open.spotify.com/artist/5G8onWVn2gx1OL3YuptZ6G) | [Netuno](https://open.spotify.com/album/42JEz98glWhal7Nte70EXS) | 5:50 | 2022-03-18 | 2022-05-07 |
-| [New Hit](https://open.spotify.com/track/70zZZhvy13xMJkWk6XbVdc) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 2:43 | 2024-04-05 |  |
+| [New Hit](https://open.spotify.com/track/2zp5qO1PlJJ5qb6eycAmI2) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/6dDeOUl4ZbHeCmJSWx03xw) | 2:43 | 2024-04-12 |  |
+| [New Hit](https://open.spotify.com/track/70zZZhvy13xMJkWk6XbVdc) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 2:43 | 2024-04-05 | 2024-04-19 |
 | [ninguém me perguntou](https://open.spotify.com/track/5f0OwJ1g8pGJqPModI6GBC) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [ninguém me perguntou](https://open.spotify.com/album/1PgEp8TGHXMsxFDWcDqVQV) | 2:36 | 2022-01-28 | 2022-03-12 |
 | [Ninguém Solta A Mão De Ninguém \- Jeff Pierre Remix](https://open.spotify.com/track/5vUkw7XU9iYFzBbacSqSsD) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt) | [Ninguém Solta A Mão De Ninguém \(Jeff Pierre Remix\)](https://open.spotify.com/album/4Y2eWP0Pg4O3nWPFPHgPzi) | 3:21 | 2022-07-15 | 2022-07-23 |
 | [No Escuro](https://open.spotify.com/track/2ZHxQrtMQF5goQyNUWG702) | [Mini Lamers](https://open.spotify.com/artist/4gJTuwBkcgDY6BC2lpYavZ), [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [No Escuro](https://open.spotify.com/album/3SnTf4h0rOS9f6f31wr9P2) | 3:55 | 2022-01-14 | 2022-01-22 |
@@ -498,8 +499,9 @@
 | [Tira a Roupa](https://open.spotify.com/track/5ayHgfHVet0M47OC4kTrTK) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO), [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Tira a Roupa](https://open.spotify.com/album/44Of1OGkx4p2UdeaIIJyg8) | 3:11 | 2022-06-10 | 2022-08-13 |
 | [Tirem\-me daqui](https://open.spotify.com/track/3ysIWLVSEYXNqE82GqnV0L) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Papel de carta](https://open.spotify.com/album/3cT88RfZ2nA2hDrbTm3M9W) | 3:26 | 2022-05-13 | 2022-07-16 |
 | [Tirem\-me daqui \- enzo dicarlo version](https://open.spotify.com/track/4kfNNAw6YBuZ1rsRKHyIaK) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2) | [Papel de Carta \(Deluxe\)](https://open.spotify.com/album/5lh3deg1xn4yYkXRBuYEuL) | 3:34 | 2023-04-28 | 2023-09-16 |
+| [Tirolirole](https://open.spotify.com/track/5x89MDzl5Xcsg7wO4yPpVJ) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/5NrcxMjJHswo4wYZRKfXDg) | 3:01 | 2024-04-12 |  |
 | [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 3:01 | 2023-11-17 | 2024-04-08 |
-| [Tirolirole](https://open.spotify.com/track/3ByPnYe3VB9nnR8ID3Nvtt) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 3:01 | 2024-04-05 |  |
+| [Tirolirole](https://open.spotify.com/track/3ByPnYe3VB9nnR8ID3Nvtt) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 3:01 | 2024-04-05 | 2024-04-19 |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 | 2022-04-29 |
 | [Todo Dia](https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Todo Dia](https://open.spotify.com/album/13Y4BalYZL0tvk5I8dlqJP) | 2:36 | 2022-06-03 | 2022-06-18 |
 | [Todo Dia É De Mudanca](https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [1 2 3 4](https://open.spotify.com/album/3OV2o4Fy4cgTWyJYCzF1dF) | 3:05 | 2023-07-21 | 2023-12-09 |

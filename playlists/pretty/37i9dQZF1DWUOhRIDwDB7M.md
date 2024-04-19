@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,706 likes - 215 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,642 likes - 215 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lay Down](https://open.spotify.com/track/4PIdLxret66FcX5mMyTyga) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Lay Down](https://open.spotify.com/album/6Pc9x79guaH7ahJduO7iFW) | 2:29 |
-| 2 | [Daybreak](https://open.spotify.com/track/5WNO5bppVKvSXgjy6QDZh4) | [Tehan Form](https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij) | [Daybreak](https://open.spotify.com/album/6go1i7O1O3Y5f5MJH93SA5) | 2:54 |
+| 2 | [Daybreak](https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT) | [Tehan Form](https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij) | [Daybreak](https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih) | 2:54 |
 | 3 | [Purpose](https://open.spotify.com/track/0WXhEn3IN5xTCSm6qWixEz) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Empathy](https://open.spotify.com/album/3cJ5MRVonIt3dJ2KjYabwp) | 3:29 |
 | 4 | [Sphera](https://open.spotify.com/track/5uUoengCI6EGB5dSGJuhWG) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Sphera](https://open.spotify.com/album/6mGJWXzSM9eEQOPitK2a9D) | 3:05 |
 | 5 | [Surrounded By Clouds](https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Surrounded By Clouds](https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b) | 2:38 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 78 | [Faultless](https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro) | [Lio](https://open.spotify.com/artist/2YVhWRw16lJgf11kPLiXP4) | [Faultless](https://open.spotify.com/album/3QOXzwINY9HQ5CgGuxZdvd) | 3:02 |
 | 79 | [Comets](https://open.spotify.com/track/5tyzIyddsHJ4vdmjxg5zGm) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Calm Constellation](https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz) | 3:42 |
 | 80 | [Father Time](https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Father Time](https://open.spotify.com/album/34oHoVmrfHegqTJRnO6dLQ) | 3:51 |
-| 81 | [glass house](https://open.spotify.com/track/6r42FewoFkF5VvYskh4aLL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:49 |
+| 81 | [glass house](https://open.spotify.com/track/5SP4NANOzKAzWDStzliHFk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glass house](https://open.spotify.com/album/3dBYsUNY4YBYC07LFSAGjn) | 2:49 |
 | 82 | [Aquarium](https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:40 |
 | 83 | [Ripples](https://open.spotify.com/track/5plHbWs9JiZmHLCPEuLnzz) | [Cloud Water Assembly](https://open.spotify.com/artist/4af8enmN5MdqxY3k5T6fa1) | [Ripples](https://open.spotify.com/album/0DoqsE8voJyzl60RdOrknQ) | 2:49 |
 | 84 | [einschlafen pt III](https://open.spotify.com/track/6kQAWkavVJEqKUmA84N8rE) | [Bernd Mehler](https://open.spotify.com/artist/0009LMJQT62wdZVgnM4vBy) | [einschlafen](https://open.spotify.com/album/6ukmmK7R5xhUJaB4AT7sCY) | 3:04 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 97 | [Walk with me](https://open.spotify.com/track/4NsbW7fe1W13OJ6Gxui1Mv) | [Times Are Changin'](https://open.spotify.com/artist/3rwP6QhyrzsIYFUeqy8HCK) | [Walk with me](https://open.spotify.com/album/09FhXMfmg2YIi01Z1QQQc3) | 2:28 |
 | 98 | [Beginnings](https://open.spotify.com/track/02NddgoemFd0ImJLtl2SAy) | [Bon Bruit](https://open.spotify.com/artist/0coLWs3rGDAnTiOPloePue) | [Beginnings](https://open.spotify.com/album/4aDQKCP3xdm9mWv5bWEjxk) | 3:19 |
 | 99 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 |
-| 100 | [The Land Untouched](https://open.spotify.com/track/5dr26IQ3AnEHHD7pw8DS1E) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [The Pilgrimage Series](https://open.spotify.com/album/5mWcOaY3p9iMKPUKfxDrLt) | 4:00 |
+| 100 | [The Land Untouched](https://open.spotify.com/track/76m4OZPd4JPBzPELtXeBwz) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [The Pilgrimage Series: Departure](https://open.spotify.com/album/5bX3B8XiOHrmOlq33D2iTG) | 4:00 |
 | 101 | [Open Fields](https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:03 |
 | 102 | [How Your Heart Sings](https://open.spotify.com/track/2aCsZCeT8P9MULklOrNHJH) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Lighthouse](https://open.spotify.com/album/0TdaNHlOAybJQHT6IbKA8z) | 3:46 |
 | 103 | [Fluctuating Current](https://open.spotify.com/track/4RVLtTncdB9vY6Qo3ldP5f) | [Sci\-Boy](https://open.spotify.com/artist/7zeiybXwQMwCY6mlYbLwE0) | [Fluctuating Current](https://open.spotify.com/album/5dU7FPAazuKy2Zt7C7ZslO) | 3:20 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 126 | [Astral Roar](https://open.spotify.com/track/48yKwM6nTNFrZm09Feix46) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Otherworld](https://open.spotify.com/album/4cripF2DCU1PGPqIxpRp2U) | 3:32 |
 | 127 | [Namtso](https://open.spotify.com/track/3vRfvwrt4QSdwiZc6Xf719) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Namtso](https://open.spotify.com/album/7c1EF53dqPdVTHmBR46KNr) | 3:42 |
 | 128 | [Dreamer](https://open.spotify.com/track/4AAXA43eClFFWQlEeQzC00) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Dreamer](https://open.spotify.com/album/5HPGRNcEd5ZXS8HZnknFNo) | 2:38 |
-| 129 | [\[Nowhere\]](https://open.spotify.com/track/24JJbx6jhyzsEyobFgpNZu) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:08 |
+| 129 | [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 |
 | 130 | [Reflections](https://open.spotify.com/track/78OmWdWdxRwFlIEDgNALeD) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Reflections](https://open.spotify.com/album/3AehN6vnl5y9j9ihOloltl) | 3:18 |
 | 131 | [Embracing Humility](https://open.spotify.com/track/6gPAUrj5TZNXd5nDOJHZlN) | [Gogofluc Armatures](https://open.spotify.com/artist/7rXZd0D8Vi4FlMCtIqEeAo) | [Embracing Humility](https://open.spotify.com/album/1EtNtGrxaHJyP61gPKxL4R) | 4:00 |
 | 132 | [Red Sky at Night](https://open.spotify.com/track/3R9iknEaIh2gUNS8cBVRhH) | [Nishol](https://open.spotify.com/artist/4SfjuPryVgTry3qffdm6oM) | [Red Sky at Night](https://open.spotify.com/album/1aOOWV81kQmS9efdxs0ODx) | 3:13 |
@@ -175,11 +175,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 165 | [First Snow \- Remix](https://open.spotify.com/track/1pb85q7sFYigf2ygjM1Xkq) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [First Snow \- Remix](https://open.spotify.com/album/2RDNI9VMnIuxCBdu1eKNmI) | 2:41 |
 | 166 | [The Only One](https://open.spotify.com/track/4ZhN4DujGaKdSTYi1ZFDbj) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Requiescence](https://open.spotify.com/album/3bhAl8RnnUNyNz53wlqOLf) | 4:21 |
 | 167 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 |
-| 168 | [As With The Night Sky](https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:27 |
-| 169 | [Affinity](https://open.spotify.com/track/6QBMi35bWSwDCnPYqFJ7CJ) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO) | 2:28 |
+| 168 | [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 |
+| 169 | [Affinity](https://open.spotify.com/track/1pJAweP34zFBSOplMQc1m0) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/6fjaKnvd9PFGQxe37E9UfM) | 2:28 |
 | 170 | [Corridors](https://open.spotify.com/track/66CiuQCGRMNy6sRzsi1Q6j) | [Mylo Rivers](https://open.spotify.com/artist/20MoKIG566PkzNMFkRldKy) | [Corridors of Diamonds](https://open.spotify.com/album/1M4Dd2Z9ulJQmITzC0q8A2) | 3:21 |
 | 171 | [New Year's Day](https://open.spotify.com/track/6ivDkaSCLNSPmElwC9C3b2) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [New Year's Day](https://open.spotify.com/album/02wzDF6qH6mIzpkcnCyLrQ) | 2:29 |
-| 172 | [You \- Ambient Dream](https://open.spotify.com/track/3My2BCqIKfxU8WkieHPVYV) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/7qTEMrV6yfEuERhJ8HgW0F) | 3:36 |
+| 172 | [You \- Ambient Dream](https://open.spotify.com/track/1ylQubRj7mAtG5MumE0sLN) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/2F5NGDaK7SiGJd0h5CfvPa) | 3:36 |
 | 173 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 |
 | 174 | [View from above](https://open.spotify.com/track/6g27Rgmh70pRtObHez98FU) | [Crosswood](https://open.spotify.com/artist/0f9ikBIWz9YiVZ3ut8sGYR) | [View from above](https://open.spotify.com/album/42r3FDP6ja38BMV15Y2a1F) | 2:19 |
 | 175 | [Halcyon](https://open.spotify.com/track/4DkgaBjJfrfavy1bWQb6vf) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Halcyon](https://open.spotify.com/album/0qRTjn6f3uNJTGfcaQfJ0c) | 2:23 |
@@ -222,6 +222,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 212 | [Clear Sight](https://open.spotify.com/track/2APpB3CYW0XThDZtaGFpQ9) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Clear Sight](https://open.spotify.com/album/1jiA5TfiHFMVrmdXhGDX90) | 2:13 |
 | 213 | [Petrichor](https://open.spotify.com/track/2hx0o7fZRPkmknXSgncOij) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:51 |
 | 214 | [Coda](https://open.spotify.com/track/2TFQPFUqRtgj1auq9b5PlR) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 3:00 |
-| 215 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 |
+| 215 | [Cross My Heart](https://open.spotify.com/track/1c8FmuRVU394oqbNKDX6mH) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:27 |
 
 Snapshot ID: `MTcxMjI2OTYzNCwwMDAwMDAwMDI3YzRjMzgwZTNkZDg5YTkyODY3NzBiYmU4YjRiYzQ4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Mushkaa.",
+  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Charlie USG",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Duerme",
+        "url": "https://open.spotify.com/album/2lh6z9MX5BEJ7dRHuvo5Rh"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        },
+        {
+          "name": "Demarco Flamenco",
+          "url": "https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Duerme",
+      "url": "https://open.spotify.com/track/3nJxOzRqFnsknEP9O07cUX"
+    },
+    {
+      "album": {
         "name": "Flamenco Flamenquito",
         "url": "https://open.spotify.com/album/51xUtTgInOpm7fhGin9JqW"
       },
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157000,
       "name": "Duerme",
       "url": "https://open.spotify.com/track/5C8N8ZWHsvLj49NChGmQGn"
@@ -1196,7 +1218,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 164138,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
@@ -1240,7 +1262,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164138,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/5dVDa4Ruk93IdiuiDz6D8w"
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 160695,
       "name": "habibi",
       "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
@@ -1676,7 +1698,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160695,
       "name": "habibi",
       "url": "https://open.spotify.com/track/7He9WMZyNY5X2oquPshBgQ"
@@ -3257,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Contacto Cero",
+        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153746,
+      "name": "Primeros intentos",
+      "url": "https://open.spotify.com/track/1iFpmzn9kyH8alTp0uM8rX"
+    },
+    {
+      "album": {
         "name": "PROGRESO",
         "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
       },
@@ -3658,7 +3698,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183770,
       "name": "Se\u00f1al de Respeto",
       "url": "https://open.spotify.com/track/556iuX1C4CMLq29To3qHAp"
@@ -3684,7 +3724,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 183770,
       "name": "Se\u00f1al de Respeto",
       "url": "https://open.spotify.com/track/55xmgELotq2YjHpSi57fIT"
@@ -4488,7 +4528,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 154549,
       "name": "Xarnega",
       "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
@@ -4514,7 +4554,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154549,
       "name": "Xarnega",
       "url": "https://open.spotify.com/track/4ABmdW0G3oDlanLL5rTbjq"

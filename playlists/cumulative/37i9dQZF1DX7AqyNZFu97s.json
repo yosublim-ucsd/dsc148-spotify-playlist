@@ -26467,6 +26467,24 @@
     },
     {
       "album": {
+        "name": "So Tell Me",
+        "url": "https://open.spotify.com/album/7E4skOyFHoUVHPc73MKmIH"
+      },
+      "artists": [
+        {
+          "name": "Oniimukuu",
+          "url": "https://open.spotify.com/artist/1mOo1vAGtVrsd44Q2EORAp"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178582,
+      "name": "So Tell Me",
+      "url": "https://open.spotify.com/track/6Y5zGMIYGdbGrUsaIY4laN"
+    },
+    {
+      "album": {
         "name": "All Black Everything",
         "url": "https://open.spotify.com/album/2ew7u07SEK1elZMVAddYyK"
       },

@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220000,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
@@ -138,7 +138,7 @@
     {
       "album": {
         "name": "Baile N\u00f3made",
-        "url": "https://open.spotify.com/album/1KtR00mNAAa71nOKhEp3Yz"
+        "url": "https://open.spotify.com/album/4TPjFwMK340FDMAgWWvJ3V"
       },
       "artists": [
         {
@@ -149,6 +149,24 @@
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 283604,
+      "name": "Baile N\u00f3made",
+      "url": "https://open.spotify.com/track/0rVyIZRzirfh13p2X5ZXOK"
+    },
+    {
+      "album": {
+        "name": "Baile N\u00f3made",
+        "url": "https://open.spotify.com/album/1KtR00mNAAa71nOKhEp3Yz"
+      },
+      "artists": [
+        {
+          "name": "Migra",
+          "url": "https://open.spotify.com/artist/4a37ZjTU7w166FGIdRYi9G"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 287790,
       "name": "Baile N\u00f3made",
       "url": "https://open.spotify.com/track/3V7Vsr4ZJez009CaCVxTMm"
@@ -173,6 +191,24 @@
     },
     {
       "album": {
+        "name": "CONTROVERSIA by Alok Vol. 002",
+        "url": "https://open.spotify.com/album/4hdUnBqxm3rGBrVvBJKnCL"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Body On My Mind",
+      "url": "https://open.spotify.com/track/4Mzs8wkE8SI8Q24prGT3H7"
+    },
+    {
+      "album": {
         "name": "Body On My Mind",
         "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
       },
@@ -184,7 +220,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
@@ -250,7 +286,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242380,
       "name": "Cantalo",
       "url": "https://open.spotify.com/track/6UIqRcSumEv1ITtXB3rc8X"
@@ -272,7 +308,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 242380,
       "name": "Cantalo",
       "url": "https://open.spotify.com/track/7zuNdvQ8KDEEu9wTGFKqyR"
@@ -327,6 +363,32 @@
     },
     {
       "album": {
+        "name": "DANCING",
+        "url": "https://open.spotify.com/album/46NAb5G474W5PKKw8Gz9ZM"
+      },
+      "artists": [
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        },
+        {
+          "name": "Kof",
+          "url": "https://open.spotify.com/artist/32udpvcxCMsZ86JrmFD59a"
+        },
+        {
+          "name": "ST\u00d6RIE MUSIC",
+          "url": "https://open.spotify.com/artist/3QMx1pN3uOTn188FWNHVwf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "DANCING",
+      "url": "https://open.spotify.com/track/3ZYm4CJkAxsW623k2rlgbK"
+    },
+    {
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/49q4hEuHz3TbmMpAbLm0Xb"
       },
@@ -346,7 +408,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134500,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/4uRx9FjP15Z4Yiy6P0Z4lN"
@@ -552,10 +614,50 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221266,
       "name": "Gute Vibes",
       "url": "https://open.spotify.com/track/0EJPwbfyWtmXV2xHm3G54W"
+    },
+    {
+      "album": {
+        "name": "Gute Vibes",
+        "url": "https://open.spotify.com/album/1lsS5tap0Fg4P8RSU2lGlo"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Gute Vibes",
+      "url": "https://open.spotify.com/track/3ptSyxnc2D8ltv9UJW2NUX"
+    },
+    {
+      "album": {
+        "name": "Habanera",
+        "url": "https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq"
+      },
+      "artists": [
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143040,
+      "name": "Habanera",
+      "url": "https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL"
     },
     {
       "album": {
@@ -574,7 +676,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143040,
       "name": "Habanera",
       "url": "https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb"
@@ -758,7 +860,7 @@
     {
       "album": {
         "name": "Me Medicaron (Remix)",
-        "url": "https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n"
+        "url": "https://open.spotify.com/album/2tHaAgiYRoqiE674uJRO1u"
       },
       "artists": [
         {
@@ -773,6 +875,28 @@
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202380,
+      "name": "Me Medicaron (Remix)",
+      "url": "https://open.spotify.com/track/0aCNp6QjGiNNE3x7UInQn9"
+    },
+    {
+      "album": {
+        "name": "Me Medicaron (Remix)",
+        "url": "https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "8CHO",
+          "url": "https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 202380,
       "name": "Me Medicaron - Remix",
       "url": "https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz"
@@ -798,7 +922,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/5C4lyumkhkQsNPTfqID2gk"
@@ -824,7 +948,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
@@ -1002,7 +1126,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 160650,
       "name": "Potente",
       "url": "https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8"
@@ -1024,7 +1148,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160650,
       "name": "Potente",
       "url": "https://open.spotify.com/track/4g8o6aIUIZhe4JVCYNw93H"
@@ -1086,10 +1210,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167041,
       "name": "Sarrinho",
       "url": "https://open.spotify.com/track/2LrmCYwhfOndR2ZJaPrL3T"
+    },
+    {
+      "album": {
+        "name": "Sarrinho",
+        "url": "https://open.spotify.com/album/5WS4kd05DnjFfibKBi72EW"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167041,
+      "name": "Sarrinho",
+      "url": "https://open.spotify.com/track/6MImEUBL67kTiRUzdxpo8a"
     },
     {
       "album": {
@@ -1150,7 +1292,7 @@
     {
       "album": {
         "name": "Sicko Drop",
-        "url": "https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE"
+        "url": "https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS"
       },
       "artists": [
         {
@@ -1165,6 +1307,28 @@
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147976,
+      "name": "Sicko Drop",
+      "url": "https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb"
+    },
+    {
+      "album": {
+        "name": "Sicko Drop",
+        "url": "https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 147976,
       "name": "Sicko Drop",
       "url": "https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr"
@@ -1194,7 +1358,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 227142,
       "name": "Siliwa Hay (feat. Max-Africana)",
       "url": "https://open.spotify.com/track/2BxNmiURRvrvQutWGrUizS"
@@ -1224,7 +1388,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227142,
       "name": "Siliwa Hay (feat. Max-Africana)",
       "url": "https://open.spotify.com/track/30ZPCyUqNsNRfBGwltMOjE"
@@ -1324,6 +1488,32 @@
     {
       "album": {
         "name": "The Prey (Gui Boratto & Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/6FZqkIDsHmsVPxQkjjbBQG"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400113,
+      "name": "The Prey - Gui Boratto & Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/1S7tMRg87einDV2lToYYjM"
+    },
+    {
+      "album": {
+        "name": "The Prey (Gui Boratto & Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/10dJSNEtG0jPua0J2g1QPI"
       },
       "artists": [
@@ -1368,7 +1558,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 400113,
       "name": "The Prey - Gui Boratto & Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3u5RuCF9VP8jgyHJdqWIj5"

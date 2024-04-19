@@ -4,7 +4,7 @@
 
 > La playlist oficial de A través de mi ventana\.  <a href=“https://www.netflix.com/title/81388078”>Ver en Netflix </a>
 
-56 songs - 2 hr 53 min
+58 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Cuanto Más](https://open.spotify.com/track/6JvHK1yy7PEN0yrpIc54mu) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Todo Mal](https://open.spotify.com/album/4bpZIdAt4WhuCtfxb8P0JR) | 2:52 | 2022-05-20 |  |
 | [Dame Estrellas O Limones](https://open.spotify.com/track/4vDuTsANp7ABw1gmibsfwg) | [Family](https://open.spotify.com/artist/1qYyfVCh404G4yUnVWr72I) | [Un Soplo En El Corazón](https://open.spotify.com/album/0XmSVwHuTHRnwy8pvfD0vs) | 2:24 | 2022-05-20 |  |
 | [De la Navidad al Neoliberalismo](https://open.spotify.com/track/2g32zamzVTenqqfjjPrGYh) | [Amor Butano](https://open.spotify.com/artist/1obBP2Y8LklbJCXIbVD74p) | [De la Navidad al Neoliberalismo](https://open.spotify.com/album/4FZzcvJ1hTj1ZOyjWvE2Wq) | 2:31 | 2024-02-21 |  |
-| [Devil I Know](https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 2:52 | 2022-05-20 |  |
+| [Devil I Know](https://open.spotify.com/track/4GSqiK9YdVNhilXMFtCiQB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 2:52 | 2022-05-20 |  |
+| [Devil I Know](https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 2:52 | 2022-05-20 | 2024-04-19 |
 | [Dime Niño ¿De Quién Eres?](https://open.spotify.com/track/4UHoWCgZ9pG1sFntl1ftBO) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Villancicos Populares Vol.2](https://open.spotify.com/album/7FfvCgqDR7xDRVD509V1WS) | 1:36 | 2024-02-21 |  |
 | [Dime Que Me Odias](https://open.spotify.com/track/45Bs2kaTWFUVJQV7Cpzn2x) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Depresión Sonora](https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j) | 3:28 | 2022-05-20 |  |
 | [Doble Check](https://open.spotify.com/track/1Ddiwyf1k01hzNARTJai9x) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Salu2](https://open.spotify.com/album/76TfhYNf67u3tX8EnGJm70) | 2:54 | 2022-05-20 |  |
@@ -57,7 +58,8 @@
 | [Tech Love \(Otra Vez\)](https://open.spotify.com/track/6ybpv1iwdGEkgHF9PB8Tyg) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Life After House](https://open.spotify.com/album/2yx5Yly6c6S3RHAcdVutBk) | 5:27 | 2022-05-20 |  |
 | [Time to Go](https://open.spotify.com/track/1Nq28eRSp1cvhGXOTw1olN) | [Emiranda](https://open.spotify.com/artist/2hq6lovoVveIPBDeJNvIfe) | [My Face](https://open.spotify.com/album/63SLmzA5fX0zL4JUckDu38) | 3:27 | 2024-02-21 |  |
 | [Tisno memoriæ](https://open.spotify.com/track/4OnnTNtBMpdQioFrb0lv7Z) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [In the Middle](https://open.spotify.com/album/7GyPLQXbq92GG9oG2Zhiky) | 3:47 | 2024-02-21 |  |
-| [Tocame el culo](https://open.spotify.com/track/6Y3mbEMBjlTbVUQdlcZoCe) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Recuerdos un poco antes y un poco despues de conocer a 1 xico \(el mio\)](https://open.spotify.com/album/2QMWFV9gf52dEyzsxwOzhL) | 2:37 | 2022-05-20 |  |
+| [Tocame el culo](https://open.spotify.com/track/4hqvrAyYHK9TCZysfeTB2V) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Recuerdos un poco antes y un poco despues de conocer a 1 xico \(el mio\)](https://open.spotify.com/album/0tbpAaKlBefe9o1MtMpC7W) | 2:37 | 2022-05-20 |  |
+| [Tocame el culo](https://open.spotify.com/track/6Y3mbEMBjlTbVUQdlcZoCe) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Recuerdos un poco antes y un poco despues de conocer a 1 xico \(el mio\)](https://open.spotify.com/album/2QMWFV9gf52dEyzsxwOzhL) | 2:37 | 2022-05-20 | 2024-04-19 |
 | [Tricorder](https://open.spotify.com/track/0X970883UAzMVpILfUDmYx) | [Akron](https://open.spotify.com/artist/45IqlMXLUpoBZFleCbvBUv) | [The Akron Quartet Plays "Ritualul Sferei"](https://open.spotify.com/album/2CDjq9CrnaCZzY8uHe6HrJ) | 2:27 | 2022-05-20 |  |
 | [Una Persona Sospechosa](https://open.spotify.com/track/03N3GfcATqhDRFqyfftGdu) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [Aniquilación](https://open.spotify.com/album/3dDLPzKdTFl4pFJKqWU6EV) | 2:43 | 2024-02-21 |  |
 | [X Navidad](https://open.spotify.com/track/0m3HOgZIzCirRNspU8A7Jo) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [X Navidad](https://open.spotify.com/album/1ffzMWWzDL5e35MNRKRRJx) | 2:40 | 2024-02-21 |  |

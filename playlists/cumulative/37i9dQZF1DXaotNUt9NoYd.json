@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 181863,
       "name": "Ayurveda",
       "url": "https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l"
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "The Raga Guide",
+        "url": "https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy"
+      },
+      "artists": [
+        {
+          "name": "Buddhadev DasGupta",
+          "url": "https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358826,
+      "name": "Bageshri",
+      "url": "https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy"
+    },
+    {
+      "album": {
         "name": "Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep",
         "url": "https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "Blue Aurora",
       "url": "https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154069,
       "name": "Breath Of Life",
       "url": "https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115453,
       "name": "Daydream (feat. Ashwin Srinivasan)",
       "url": "https://open.spotify.com/track/0TOVfRtYXE7D2CZw0fx9NU"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 314305,
       "name": "Deep Awareness",
       "url": "https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP"
@@ -272,6 +290,24 @@
       "duration_ms": 183284,
       "name": "Designated Solitude",
       "url": "https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i"
+    },
+    {
+      "album": {
+        "name": "Mindful Meditation",
+        "url": "https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6"
+      },
+      "artists": [
+        {
+          "name": "Elof Sunflower",
+          "url": "https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Dhy\u0101na",
+      "url": "https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES"
     },
     {
       "album": {
@@ -322,7 +358,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1125226,
       "name": "Endless Horizon",
       "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
@@ -484,7 +520,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216678,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz"
@@ -556,7 +592,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Inner Meditation",
       "url": "https://open.spotify.com/track/3R1wr152E0xa8J2vRbIQx2"
@@ -635,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Indian Meditation Spirit",
+        "url": "https://open.spotify.com/album/4GmKHj6MfNVtgnDI29EcrE"
+      },
+      "artists": [
+        {
+          "name": "Daniel Moon",
+          "url": "https://open.spotify.com/artist/1I7vjcdPb1t4QOv67ejO3h"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Meaning Of Life",
+      "url": "https://open.spotify.com/track/7ve7rdTlVAf4zV9dQ3bt4B"
+    },
+    {
+      "album": {
         "name": "Meditation & Yoga - Flutes (Native American Flute & Sounds of Nature for Yoga, Massage, New Age Spa, Zen & Chakra Healing)",
         "url": "https://open.spotify.com/album/1kcv6KyNliiIB9DniMrBOG"
       },
@@ -686,7 +740,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 518626,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
@@ -974,7 +1028,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1324564,
       "name": "Pineal Gland Activation - 936hz Alpha Meditation",
       "url": "https://open.spotify.com/track/7tfvDpUhhR6cgFHo2Xx8CE"
@@ -1071,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Reiki Bansuri: Recommended Music for Reiki Treatments and Meditation, Healing Flutes for Massage and Calm Nature for Harmonious and Balanced Life",
+        "url": "https://open.spotify.com/album/1xE7uD9HrzurXb3H8D7BQJ"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Flute Collection",
+          "url": "https://open.spotify.com/artist/3gOXobsj4Ad7IuEzxe9qVk"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245085,
+      "name": "Reiki Bansuri: Recommended Music",
+      "url": "https://open.spotify.com/track/0b7JB89DUAE4PLoqqQIHEZ"
+    },
+    {
+      "album": {
         "name": "Ragas Relax",
         "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
       },
@@ -1100,7 +1172,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 443885,
       "name": "Relaxing On The Mountain",
       "url": "https://open.spotify.com/track/6sr2dQtzDpfivRxYlTtw1F"
@@ -1136,10 +1208,28 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359204,
       "name": "Sahana Vavatu (For Inner Nourishment)",
       "url": "https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7"
+    },
+    {
+      "album": {
+        "name": "Meditation Spa",
+        "url": "https://open.spotify.com/album/6C6ZOAschwGsGWhFYH8Xwe"
+      },
+      "artists": [
+        {
+          "name": "Advaitas",
+          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232577,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f"
     },
     {
       "album": {
@@ -1190,10 +1280,28 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309024,
       "name": "Shiva's Meditation",
       "url": "https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b"
+    },
+    {
+      "album": {
+        "name": "Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise",
+        "url": "https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ"
+      },
+      "artists": [
+        {
+          "name": "Ayurveda",
+          "url": "https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216283,
+      "name": "Spa Music",
+      "url": "https://open.spotify.com/track/0Lh7IIcgWIA11OcfEstcko"
     },
     {
       "album": {
@@ -1342,7 +1450,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192793,
       "name": "Threads",
       "url": "https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0"

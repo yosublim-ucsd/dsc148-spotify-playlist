@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,513 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,508 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 2 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 |
 | 3 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 |
 | 4 | [It's not your fault](https://open.spotify.com/track/3TvkrmX72vHZ4gYeD7Qww2) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [It's not your fault](https://open.spotify.com/album/1VRnJri54pLYvaMx15f3xJ) | 3:43 |
-| 5 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 |
+| 5 | [我也難過的](https://open.spotify.com/track/3kQvyf0lMEpcn0xGWM1blY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/5NjBK5wSTAX9a2BbtBDKZ4) | 4:38 |
 | 6 | [好好掛住](https://open.spotify.com/track/0QA3wOHY0d8IYsevIrBrce) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [好好掛住](https://open.spotify.com/album/4x8GGMwSp8CfwW5EG0RjBs) | 4:51 |
 | 7 | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/track/1lY6aCnPSoLbwpukEk9l57) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/album/6AMjxEmzxMtlDomTbD13dg) | 4:02 |
 | 8 | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/track/5EsbPLjrFIOHRndKFxbVnx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/album/0FH9XolUtz2VSuYCkuy3pc) | 3:29 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 33 | [overthinking](https://open.spotify.com/track/1jCbIFQyPDiJ1cW2LBSxUx) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [overthinking](https://open.spotify.com/album/0MrwbhIr37SlyUDMw3ly8m) | 3:22 |
 | 34 | [企好](https://open.spotify.com/track/7DtzElK1X4H5FWQMPX7ZYH) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [企好](https://open.spotify.com/album/7A6puxwZwV0hxCNzjeg6S8) | 3:25 |
 | 35 | [路仍長](https://open.spotify.com/track/0xVlqxxhxKsLWythPiUsM7) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [路仍長](https://open.spotify.com/album/7jc7ZJtv12tt4P5bVbKr23) | 3:19 |
-| 36 | [Good Luck](https://open.spotify.com/track/3fvevSJBalzUd4AW1HcS4J) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [Good Luck](https://open.spotify.com/album/2W3GtsUfFCI11TEFkwa5yW) | 1:26 |
+| 36 | [Good Luck](https://open.spotify.com/track/5G46LoY6ABm0eGrCeppGEI) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [Good Luck](https://open.spotify.com/album/4CnM5igZYjQWvzrJFCg4NZ) | 1:26 |
 | 37 | [有我](https://open.spotify.com/track/3RZqYQExvfxee1o4xOfSMO) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [有我](https://open.spotify.com/album/1hRckpUFAUVF2Ekz79tung) | 4:27 |
 | 38 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 |
 | 39 | [Dear My Friend,](https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Dear My Friend,](https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3) | 3:52 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 41 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 |
 | 42 | [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 |
 | 43 | [離不開](https://open.spotify.com/track/0wqkdSzqQZDUJXOB6Etp7l) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [離不開](https://open.spotify.com/album/5axFyXeQt3bZCaelmy2N94) | 5:15 |
-| 44 | [救命歌](https://open.spotify.com/track/0FM5vfSFUm2w5an9tnzF4E) | [鄭欣宜](https://open.spotify.com/artist/5IGAOhMJTKNeknCPZOs6Eb) | [救命歌](https://open.spotify.com/album/0qRltMUwR0JwxKLH7xFC6E) | 4:19 |
+| 44 | [救命歌](https://open.spotify.com/track/2MgUrCOJ891yJTCez5hsaT) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [救命歌](https://open.spotify.com/album/4ptavMe4OBCtw0v3PMACbL) | 4:19 |
 | 45 | [終於好天氣](https://open.spotify.com/track/7pPrEnjS17f16t9BWRCRv9) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N), [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [終於好天氣](https://open.spotify.com/album/49hQQbjBPRkmcjg50v2Rh6) | 4:20 |
-| 46 | [全身想旅行](https://open.spotify.com/track/3rQHCAUeQ0k5YOexEU4LN7) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [全身想旅行](https://open.spotify.com/album/2Hs4lljiG9aHuO4Y79eHOp) | 1:51 |
+| 46 | [全身想旅行](https://open.spotify.com/track/0cUmsRJpFR28JpuGxUL5ru) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [全身想旅行](https://open.spotify.com/album/2q7Mg6exMeZvsnHbKmx8PI) | 1:51 |
 | 47 | [Little People](https://open.spotify.com/track/0Nzl9k3vQTjRh9f5VtG135) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Little People](https://open.spotify.com/album/268ylRyADnzi0BddwI0g03) | 3:28 |
 | 48 | [一步一悔過](https://open.spotify.com/track/2q81As6nMolcizDA78SeFH) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [LIFE / LINE](https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA) | 4:25 |
 | 49 | [Wish You Were Ok](https://open.spotify.com/track/2w69Skv6oxKvFJNmPzdYzb) | [Regenc.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [Wish You Were Ok](https://open.spotify.com/album/3IjSBZBsyps4wwdD4f2x9G) | 4:27 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 59 | [AUNTIE](https://open.spotify.com/track/5a5oBAAjI6Z6AuZo2MEVB9) | [Jan Lamb](https://open.spotify.com/artist/42uvXrSYcxDx4zStor068I) | [AUNTIE](https://open.spotify.com/album/1qXfSreBUV1bHlja9b9pfi) | 4:16 |
 | 60 | [裂](https://open.spotify.com/track/6siCl93Ei5QHzgRdNnPVkf) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [裂](https://open.spotify.com/album/02VYTcVpfz3YtM5kBKqCnk) | 3:51 |
 | 61 | [廢學](https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:28 |
-| 62 | [半島](https://open.spotify.com/track/6eNtCEN09CSRj8Facos1aM) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/7diEIBWK6mGtOTQJlWpMAn) | 3:37 |
+| 62 | [半島](https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj) | [Yusobeit](https://open.spotify.com/artist/6bY9OcnH6oAoBVRDFIQcso) | [半島](https://open.spotify.com/album/0dYHPqCkRi2R2msGwLNfsL) | 3:37 |
 | 63 | [神隊友](https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [神隊友](https://open.spotify.com/album/5kvb0Qz63Spmtv4Yw58clb) | 3:01 |
 | 64 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 |
 | 65 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 69 | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/track/1MrwXADPj7zsS23WflBVvx) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/album/1EDpQ08MEZk2PrJal7NDN4) | 4:41 |
 | 70 | [解答](https://open.spotify.com/track/2D3OI4U7iR9sYZKyuxsqQk) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [Philosophy](https://open.spotify.com/album/47IJYuvRr5O30gbIBh7ya9) | 3:47 |
 | 71 | [千世書](https://open.spotify.com/track/0IENIIyNzkRTJu7xhKvDNC) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [千世書](https://open.spotify.com/album/2VPXxz135nzaU7LTrOOby5) | 4:21 |
-| 72 | [得個等](https://open.spotify.com/track/2PlGOozW4kmGhRq4yI2uEy) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/4XRXAEi3a6HTTzPBxhttyY) | 4:17 |
+| 72 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 |
 | 73 | [我們都想旅行](https://open.spotify.com/track/67wmOm80zXISULC5CVQyv8) | [Ken Hung](https://open.spotify.com/artist/0sQMt1Llvcuza8oLKB9bmi) | [我們都想旅行](https://open.spotify.com/album/0iWpHNCYFrxiCbsa2dIfVj) | 3:24 |
 | 74 | [神奇的糊塗魔藥](https://open.spotify.com/track/7MresghYfws5S4JG5Fcl4e) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:23 |
 | 75 | [離散序](https://open.spotify.com/track/3iLKCRMxecPzGxLyjW85gk) | [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [離散序](https://open.spotify.com/album/2bv5vGNrmQ56rblW4zmSwz) | 4:19 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 86 | [對得起自己](https://open.spotify.com/track/0dbKKEitEKGPpgY7qOFwpe) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [對得起自己](https://open.spotify.com/album/0AJaOR1rvOB4ttpkSenHRF) | 4:20 |
 | 87 | [我想行開下](https://open.spotify.com/track/1gqiMq3X8QPXNhPrGULUZL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [我想行開下](https://open.spotify.com/album/6t5kaD0AQppsm06nKToYGq) | 2:29 |
 | 88 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 |
-| 89 | [自由之夏](https://open.spotify.com/track/2o02ylSNV1n5uA1vChimRw) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [自由之夏](https://open.spotify.com/album/1CflxPlilOpbKEhgJ2vO6Z) | 3:10 |
+| 89 | [自由之夏](https://open.spotify.com/track/3f5TvxSa8JEbIxzzv9jLgZ) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [TM+M DECADE \(NCE\)](https://open.spotify.com/album/2JCQGOXk3cuUgLddaKXgji) | 3:10 |
 | 90 | [All We Have Is Now](https://open.spotify.com/track/6sIE2GmdLDX8L96IEKmDls) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [All We Have Is Now](https://open.spotify.com/album/1aFRjm48xWffnCu3o0MY8t) | 4:22 |
-| 91 | [太陽花 Part II](https://open.spotify.com/track/6cc76cEDe5HLyq3kkhExPG) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/6KSWP1gXA7ov0QO4FL3icF) | 2:23 |
+| 91 | [太陽花 Part II](https://open.spotify.com/track/1m1RT4zFnqbuGAGr6O582U) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/3wrX6F2jQAzE4YvuLQ309P) | 2:23 |
 | 92 | [今宵多珍重](https://open.spotify.com/track/7hM5duVObouIsRhz1Y2OcH) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LMFXXYEARFEST](https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb) | 2:41 |
 | 93 | [我可以被這個世界淘汰,但不可以被世界擊敗](https://open.spotify.com/track/06SVExglFy0GOh3E5djqgm) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 2:40 |
 | 94 | [我心中尚未崩壞的部分](https://open.spotify.com/track/6BymbyJEEn85vcJnr5aAkR) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 3:26 |
@@ -108,11 +108,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 98 | [重生](https://open.spotify.com/track/0ICWLdBQR09jm2cQO9FPX0) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [本原](https://open.spotify.com/album/4UjWCkscIVWISArC7rfvoi) | 5:17 |
 | 99 | [Warrior](https://open.spotify.com/track/3jBI3hvc9Z0FUcdyj7spEm) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Warrior](https://open.spotify.com/album/2YvFttJM4ejmuoe7V8IuBz) | 4:07 |
 | 100 | [撐著](https://open.spotify.com/track/3beXcn7mFyG0X9aQKABOO6) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [上上下下左右左右 B A Start](https://open.spotify.com/album/38S43x73XDmOq58hNQqfek) | 3:37 |
-| 101 | [人間有愛](https://open.spotify.com/track/5V0p5mAIDgMTwlC5xtTt5B) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/4A9qg8Q4J20FBqyuhVHC3M) | 3:32 |
-| 102 | [白日夢一場](https://open.spotify.com/track/4yA1wA3ncst6Ihc2dxmZ49) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/61MuBBu3HpPKGngw0Sa3Ha) | 3:38 |
+| 101 | [人間有愛](https://open.spotify.com/track/1A82lER0hubY5nEQlV5glC) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/1Ol0nJXt9NeabxeisaDbG1) | 3:32 |
+| 102 | [白日夢一場](https://open.spotify.com/track/50xaTd95BzOEyWb74ugEw2) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/0HL8rl1mfJoh4vifTkRaqw) | 3:38 |
 | 103 | [若世界在明日結束](https://open.spotify.com/track/6TW6Q5BnQph1zkR5shovqx) | [粉紅A](https://open.spotify.com/artist/2EzbvLK5Q66fXB66NRfs8C) | [為藝術犧牲](https://open.spotify.com/album/5td7IpItIQBQbVzBFeXCu6) | 4:31 |
 | 104 | [見字飲水](https://open.spotify.com/track/4qVOU5UXelKdNIiYdosFS4) | [Lam1Hey](https://open.spotify.com/artist/5VYb36tskZeBekEyPPgEBV) | [見字飲水](https://open.spotify.com/album/29sqfKwN73ZQbOWAliIFuR) | 3:11 |
-| 105 | [水花四濺](https://open.spotify.com/track/42DleX9v5bbIzWJDvkiYRo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [廣東勵志歌集](https://open.spotify.com/album/0E59wmj03ppImPuzwE2onD) | 4:17 |
+| 105 | [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 |
 | 106 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
 Snapshot ID: `MTY4OTE0OTczMywwMDAwMDAwMDBhNTM0ODNjYTZiMjczMjc4Mzg1ZjI1ZDY5Zjk0Zjlh`

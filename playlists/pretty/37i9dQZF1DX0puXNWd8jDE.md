@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,434 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,431 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [分合](https://open.spotify.com/track/0pa3uU6yzXL4onmiIBVi6t) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [分合](https://open.spotify.com/album/7kCG6P2OCX53a0Ideqm0Eq) | 4:06 |
-| 2 | [Who Doesn’t Wanna](https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Love, Lord](https://open.spotify.com/album/2Z2Lv8Cl0QcTirhjo9IvDq) | 4:05 |
+| 2 | [誰不想](https://open.spotify.com/track/5z8xJ7R5dlO2r9X2ioBBE3) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [王](https://open.spotify.com/album/6dQdCtYPXh5uUDXvL5YEZn) | 4:05 |
 | 3 | [字字句句](https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu) | [卢卢快闭嘴](https://open.spotify.com/artist/4wUR1NviIGE01yEfeLNkeV) | [字字句句](https://open.spotify.com/album/5aQMO1ltAoQotkfPCOy0jn) | 3:20 |
 | 4 | [愛情跟麵包抱歉我選](https://open.spotify.com/track/3t2ofiLcImiArqPr1ewpbP) | [質感流氓](https://open.spotify.com/artist/0wmqwpMoYoxUBJIlmf48it) | [愛情跟麵包抱歉我選](https://open.spotify.com/album/1bzWJKTDV1cYJfIrZU0LDT) | 3:27 |
 | 5 | [毒藥](https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [狂人](https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol) | 3:25 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 7 | [流沙 \(Reimagined\)](https://open.spotify.com/track/0KFftmgOExvXxMH0zZK4jH) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [流沙 \(Reimagined\)](https://open.spotify.com/album/2qBynilrtiV9e0Zh2drTow) | 4:51 |
 | 8 | [我会等](https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [我会等](https://open.spotify.com/album/3113SgaBiac1ta3gtRnyYk) | 3:15 |
 | 9 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 |
-| 10 | [Redbreast \- Netflix Series "Let's Talk About CHU" Theme Song](https://open.spotify.com/track/2eHweJpHGYtp5BcBdx08k9) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [JUD 1st EP](https://open.spotify.com/album/64oR4idEvzWi1NgtfsriKO) | 4:09 |
+| 10 | [知更 \(Netflix影集《愛愛內含光》主題曲\)](https://open.spotify.com/track/4vydpYll42PEtZJnJIY4IM) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [JUD 陳泳希 首張迷你專輯](https://open.spotify.com/album/3wG4nyN6tc8sv61dWFbOh3) | 4:09 |
 | 11 | [天后](https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [再愛一遍‧天后陳勢安](https://open.spotify.com/album/7EYP32Kr9V27MBMdmBkUo0) | 4:49 |
 | 12 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 |
 | 13 | [致遠道而來的我們 \(feat.陳華\)](https://open.spotify.com/track/6o95XPlKyjtDEmSowKncrt) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [日與夜，跟自己說晚安](https://open.spotify.com/album/6eZ6GBoYL3HAezneabIq49) | 4:03 |
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 21 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 |
 | 22 | [可乐 \- 烟嗓版](https://open.spotify.com/track/4QoOdjeQ1dTZ4bjDAV3kzH) | [半吨兄弟](https://open.spotify.com/artist/1aokYlIHjGiKwbosaYHUic) | [可乐 \(烟嗓版\)](https://open.spotify.com/album/6B6vUsu3zUZFIHDWOYGtiW) | 3:22 |
 | 23 | [我也曾經想過這樣殺了我自己](https://open.spotify.com/track/4mYFClRJ8rZzqomD4pCg0l) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [你是平靜的](https://open.spotify.com/album/2r6iB01kDKqi8Bd0K6oFAg) | 4:49 |
-| 24 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 |
+| 24 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
 | 25 | [你說這叫天秤座但你喜歡](https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [Be a Lover](https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq) | 3:16 |
 | 26 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 27 | [问佛](https://open.spotify.com/track/0YgO1skqlfZwaXmRsu19aA) | [彤大王](https://open.spotify.com/artist/4OsHIavZflMjutBh9lALlV) | [问佛](https://open.spotify.com/album/1ihZNKcGB13qcIEz4cZ6UR) | 3:41 |
-| 28 | [Love Me True](https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Because of Love](https://open.spotify.com/album/6x1tyJxeLAr4ga3SxwFy91) | 5:13 |
+| 28 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 |
 | 29 | [台女不意外](https://open.spotify.com/track/6elsIEFaTvUHl0GiCw0ION) | [翊庭](https://open.spotify.com/artist/11se4ImB17rtPOkA7sca4D), [酷炫](https://open.spotify.com/artist/6zdulxGcgP4mHWuElVXCfy) | [MUSIC MAKER 音樂主理人 Episode 10,11](https://open.spotify.com/album/1idMaoVyLyXBPvuEhfozEU) | 3:07 |
 | 30 | [身騎白馬](https://open.spotify.com/track/5ocA068mvMpA2GFPYQo670) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 5:13 |
 | 31 | [如果我不是你想的那樣](https://open.spotify.com/track/0evnzLZotdEC59lH5X8Ryb) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [翊庭](https://open.spotify.com/artist/11se4ImB17rtPOkA7sca4D) | [MUSIC MAKER 音樂主理人 Episode 6,7](https://open.spotify.com/album/20GG6uROhEPBL41J6TW8UJ) | 4:18 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 39 | [台饒2](https://open.spotify.com/track/4wgliNc61toseCZhl6aGzp) | [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA), [Green Father 比杰](https://open.spotify.com/artist/5eIj9ZZOKLuHLtRw00oPGk), [神經元](https://open.spotify.com/artist/0JO7LjM53ktNVO02Px0aDh), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup), [阿跨面](https://open.spotify.com/artist/26QeJhwzQ5vwSNX8wH1t0D), [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi) | [台饒2](https://open.spotify.com/album/3ONRNiD4jECifuYZuGW9XY) | 6:04 |
 | 40 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
 | 41 | [你走以后](https://open.spotify.com/track/56apZsqdYuOVRiQujQoP06) | [于洋](https://open.spotify.com/artist/3WwZvtJoVs8siDJlT9Nlxr) | [你走以后](https://open.spotify.com/album/1U8TBLFcYEebVrZvZDIs3W) | 3:32 |
-| 42 | [Personal Angel](https://open.spotify.com/track/5zblxS4ZHlhsTR2LuwTwYh) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [Keep Fighting](https://open.spotify.com/album/5uyskiqeQOJPz7MxEyFK1O) | 4:19 |
+| 42 | [專屬天使](https://open.spotify.com/track/5hrPOTXZL5GPQDMZydBmon) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [延長比賽 Keep Fighting](https://open.spotify.com/album/3fh7kZ3pPBsEKH1m5aWVMN) | 4:19 |
 | 43 | [刺猬](https://open.spotify.com/track/1KghvWO064xOAaA3nB55iJ) | [戴羽彤](https://open.spotify.com/artist/31A89YVMYZPUVXstvCDLqK) | [刺猬](https://open.spotify.com/album/3qbflmJ8f8n2InwmWfogxh) | 3:38 |
 | 44 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
 | 45 | [幹掉他](https://open.spotify.com/track/5FJtg2VtW8vI3mo8rxhAWW) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [幹掉他](https://open.spotify.com/album/68xBtSIA6BbKeAb20dgCi2) | 3:40 |

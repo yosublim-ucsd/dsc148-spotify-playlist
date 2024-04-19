@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "ALIEN",
+        "url": "https://open.spotify.com/album/5BqIRh4Q4PQX7cz6NqgrAf"
+      },
+      "artists": [
+        {
+          "name": "JPD",
+          "url": "https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "ALIEN",
+      "url": "https://open.spotify.com/track/0nvWJynJUxMmaQHoiv1XLI"
+    },
+    {
+      "album": {
         "name": "Auch ein Atze muss mal weinen",
         "url": "https://open.spotify.com/album/2lY9XiTel43ofsXz4qsHI5"
       },
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 180525,
       "name": "Etwas Neues Beginnt",
       "url": "https://open.spotify.com/track/69S8tugy2hU1qGVXQ6c5lD"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180525,
       "name": "Etwas Neues beginnt",
       "url": "https://open.spotify.com/track/7LbRCCUHkWEc7tyDP7h1uz"
@@ -3060,6 +3078,24 @@
       "duration_ms": 153473,
       "name": "Fall F\u00fcr Dich",
       "url": "https://open.spotify.com/track/0MgXzvMM4bq01XgEHMeEhF"
+    },
+    {
+      "album": {
+        "name": "Fang",
+        "url": "https://open.spotify.com/album/4DErDX71xvkmCr2QJdk33d"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150037,
+      "name": "Fang",
+      "url": "https://open.spotify.com/track/4AiBmrYrcxTB5rFM7doAiv"
     },
     {
       "album": {
@@ -4471,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "ich brenn f\u00fcr dich",
+        "url": "https://open.spotify.com/album/5PDHCtutPfFupwRrAW4bjW"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171549,
+      "name": "ich brenn f\u00fcr dich",
+      "url": "https://open.spotify.com/track/5UvAg513TL86E8JWdJrGeV"
+    },
+    {
+      "album": {
         "name": "Ich Feier (feat. DISSY)",
         "url": "https://open.spotify.com/album/2BUq5m8CkzdW7znmM41rXC"
       },
@@ -5410,7 +5464,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163702,
       "name": "kenn ich auch",
       "url": "https://open.spotify.com/track/4R612vH0xIrZS89mPpX6hp"
@@ -5576,7 +5630,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214087,
       "name": "Kreise Durch Die Stadt",
       "url": "https://open.spotify.com/track/2Q8YCUUqYP0K01bcs6RBVB"
@@ -5866,6 +5920,24 @@
       "duration_ms": 209746,
       "name": "Letzte Kippe",
       "url": "https://open.spotify.com/track/0vvoGnFwt7b162tw7opVXJ"
+    },
+    {
+      "album": {
+        "name": "Liebe f\u00fcr lau",
+        "url": "https://open.spotify.com/album/68khQe9GoKmoc1w3mJf4qJ"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155782,
+      "name": "Liebe f\u00fcr lau",
+      "url": "https://open.spotify.com/track/6FBKpJzECXb30DLLWiGsB5"
     },
     {
       "album": {
@@ -6874,7 +6946,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128546,
       "name": "Nichts macht Sinn",
       "url": "https://open.spotify.com/track/4dNhCiis0TcK1hXqduzvAD"
@@ -10004,7 +10076,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142598,
       "name": "Vielleicht Vielleicht",
       "url": "https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL"
@@ -10948,7 +11020,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246530,
       "name": "Zittern",
       "url": "https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W"

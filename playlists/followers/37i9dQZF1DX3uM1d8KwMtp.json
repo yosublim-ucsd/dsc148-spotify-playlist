@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 26419,
+  "2024-04-19": 26494,
   "date_first_scraped": "2022-08-25",
   "description": "<a href=\"spotify:artist:1aIWC7EGIcWotOZ8LNHH9j\">Jad Halal</a>'s favorite tracks. Updated regularly. Curated by Jad Halal. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Jad Halal's track IDs",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
+        "name": "1001 Nights",
+        "url": "https://open.spotify.com/album/0OMnm0euox8G0i7TeaZKl5"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "1001 Nights",
+      "url": "https://open.spotify.com/track/1xB46SSVfV5wXqrbz4NSUN"
     },
     {
       "album": {
@@ -123,7 +141,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 228750,
       "name": "Ala Bora",
       "url": "https://open.spotify.com/track/5XeqFQ1Pxlw1agkLvPlTQe"
@@ -771,6 +789,24 @@
         {
           "name": "SAFAR",
           "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "SAFAR",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
         },
         {
           "name": "PAAX (Tulum)",
@@ -959,7 +995,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 330500,
       "name": "Home",
       "url": "https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q"
@@ -1054,6 +1090,32 @@
     },
     {
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/1R9a8YCp18o6AI1Ad4FzKK"
+      },
+      "artists": [
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        },
+        {
+          "name": "Jordy",
+          "url": "https://open.spotify.com/artist/1L7eYtWC1dfAIuWk1ARp7w"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459493,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/6rxK23o0MDMYUXo4jZ8W9S"
+    },
+    {
+      "album": {
         "name": "Initio",
         "url": "https://open.spotify.com/album/57LVfnJPGPKINK5Ub19OkC"
       },
@@ -1117,7 +1179,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 382439,
       "name": "It's Not Right",
       "url": "https://open.spotify.com/track/5EqWSdAZcpjZ29uKViQIGU"
@@ -1339,7 +1401,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 198688,
       "name": "Madan",
       "url": "https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj"
@@ -1379,7 +1441,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 283421,
       "name": "Malawi",
       "url": "https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7"
@@ -1977,7 +2039,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 239508,
       "name": "Selva - Radio Edit",
       "url": "https://open.spotify.com/track/5y8ZbmOusst4tXPtl329f4"
@@ -2427,7 +2489,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 218181,
       "name": "Trinidad Dreams",
       "url": "https://open.spotify.com/track/62F0yfVTEnjOBWKiXEEELZ"
@@ -2449,6 +2511,28 @@
       "duration_ms": 343448,
       "name": "Try To Escape",
       "url": "https://open.spotify.com/track/6ITyiTkL7g1D2hXYeSUYkO"
+    },
+    {
+      "album": {
+        "name": "Tsona",
+        "url": "https://open.spotify.com/album/3cRqdSoemxJH1LMXAQ3Opf"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448915,
+      "name": "Tsona",
+      "url": "https://open.spotify.com/track/3KfXeIDf3TEwMxove1U5YG"
     },
     {
       "album": {
@@ -2511,6 +2595,40 @@
       "duration_ms": 383154,
       "name": "Ven Pa Ka - Black Motion Rework",
       "url": "https://open.spotify.com/track/24WCTSU9zrsQxBE1NIhBPM"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB"
+      },
+      "artists": [
+        {
+          "name": "Gianni Romano",
+          "url": "https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK"
+        },
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "A\u00fcra",
+          "url": "https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ"
+        },
+        {
+          "name": "Trick Beat",
+          "url": "https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1"
+        },
+        {
+          "name": "Djarah Kan",
+          "url": "https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426541,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i"
     },
     {
       "album": {

@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 191422,
       "name": "BLUE CHEESE (feat. Lazza)",
       "url": "https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191422,
       "name": "BLUE CHEESE (feat. Lazza)",
       "url": "https://open.spotify.com/track/6JNadLbisqWzZk0E1MSopn"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227693,
       "name": "Brivido",
       "url": "https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227693,
       "name": "Brivido",
       "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192688,
       "name": "CRAZY LOVE",
       "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192688,
       "name": "CRAZY LOVE",
       "url": "https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161873,
       "name": "Male",
       "url": "https://open.spotify.com/track/1Dl5iWa6lWEZpkQDZNuVnO"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161873,
       "name": "Male",
       "url": "https://open.spotify.com/track/3PBBak16foXdHh0trdc8Hd"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
@@ -2072,6 +2072,24 @@
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6LHw9ZjMZ2VGW2AbSABBO4"
+    },
+    {
+      "album": {
+        "name": "MUJER",
+        "url": "https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "MUJER",
+      "url": "https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K"
     },
     {
       "album": {
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226808,
       "name": "Niente Canzoni D'Amore - Inedito",
       "url": "https://open.spotify.com/track/71Fyq3SgH24mrUAKrLECD4"
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226808,
       "name": "Niente Canzoni D'Amore - Inedito",
       "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf"
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152000,
       "name": "Scale (con Luch\u00e8)",
       "url": "https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq"
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Scale (con Luch\u00e8)",
       "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"

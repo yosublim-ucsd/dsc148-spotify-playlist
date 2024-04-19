@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 34 | [Run Outta Mistletoe](https://open.spotify.com/track/3RG2ckEP3Mb2pKuDsuR2YP) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Run Outta Mistletoe](https://open.spotify.com/album/5wIDdUcs5RFHu33dc9CnZy) | 2:43 |
 | 35 | [Please Come Home For Christmas](https://open.spotify.com/track/6OVrVGKb1Npjj4StFHiXwJ) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Season's Greetings From Alex Hall](https://open.spotify.com/album/1Gdwv5PQF6kcgkjuIn3YKr) | 3:01 |
 | 36 | [Run Run Rudolph \- Mason’s Version](https://open.spotify.com/track/1DigwEbyShfSMe8VU4vQK6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Run Run Rudolph \(Mason’s Version\)](https://open.spotify.com/album/6WfS0QdvRckuv4bUPRulk1) | 2:47 |
-| 37 | [Silver Bells](https://open.spotify.com/track/6zXErxTVDYkWizKbuULPlD) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [A Redhill Valley Christmas](https://open.spotify.com/album/23mnKQI9vBQhMKhXW3KDR5) | 3:16 |
+| 37 | [Silver Bells](https://open.spotify.com/track/3jamEnkqZJsEVOvfSNXMHw) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [A Redhill Valley Christmas](https://open.spotify.com/album/4kVGfnzFaPHeAg9dX4HloA) | 3:16 |
 | 38 | [Christmas When You Call](https://open.spotify.com/track/2qgMuttdSb2iaYYO73xmQt) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Christmas When You Call](https://open.spotify.com/album/1EpcSjZWYc3rNxSK4j3xDI) | 3:16 |
 | 39 | [Hot Pink Christmas](https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Hot Pink Christmas](https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT) | 2:36 |
 | 40 | [O Holy Night](https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [O Holy Night](https://open.spotify.com/album/085lMH6I79hVVbyATMspdf) | 3:09 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 52 | [Falalala Falling](https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Falalala Falling](https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq) | 3:17 |
 | 53 | [I'll Be Home For Christmas](https://open.spotify.com/track/0uRNguwONoOyXNVxiClRb8) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [I'll Be Home for Christmas](https://open.spotify.com/album/6hhqqTgsqc7gBcRDnGWK9a) | 2:47 |
 | 54 | [Mary Did You Know](https://open.spotify.com/track/1bf7ob93MJ60M2ulx10Un3) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Mary Did You Know](https://open.spotify.com/album/0VELGihA2e22w7jFeAHCCU) | 3:20 |
-| 55 | [Hurry Up Christmas](https://open.spotify.com/track/5xSMrP8c9doImUxajUi882) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/1fLwyTyXwRYx387gZLPJx9) | 2:47 |
+| 55 | [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 |
 | 56 | [O Christmas Tree](https://open.spotify.com/track/18k5cXsmyfv8zQjY7KManB) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [O Christmas Tree](https://open.spotify.com/album/2G29sODSfS34dFxpBSGrdu) | 2:44 |
 | 57 | [White Christmas](https://open.spotify.com/track/0qiauIcwYRaVSmerf90xAP) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [White Christmas](https://open.spotify.com/album/0jrdzb3xkwPWIMkoFtphdU) | 2:50 |
 | 58 | [ALL I WANT FOR CHRISTMAS IS YOU](https://open.spotify.com/track/7rPinTAHul6UER4cNmyHY9) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Anna Moon](https://open.spotify.com/artist/0DGI7yVTDYCnkY06mBLBje) | [ALL I WANT FOR CHRISTMAS IS YOU \(feat\. Anna Moon\)](https://open.spotify.com/album/6ArfVumRHgUfcs9QafIkv9) | 4:06 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 81 | [I Saw Mommy Kissing Santa Claus \(feat\. Vivianne Decker, Eric Decker II, Forrest Decker\)](https://open.spotify.com/track/3hz0J4UVZIqz6P06UE6LRu) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Eric Decker II](https://open.spotify.com/artist/0N8GlhymdZ0TyprN2xlDZU), [Forrest Decker](https://open.spotify.com/artist/75R6iL39fxQihNdPo1G18T), [Vivianne Decker](https://open.spotify.com/artist/2YOYCJsRiG4WvC7KpjrcUV) | [Decker The Halls](https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep) | 3:01 |
 | 82 | [Lit](https://open.spotify.com/track/4MaDMS6c4NIOznjrSyDZXV) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Lit](https://open.spotify.com/album/3zjZ9kKvJY5mQrJg5INSHS) | 2:39 |
 | 83 | [Wrap You Up](https://open.spotify.com/track/3kpk1EOVsnZIID0Bfgf1Za) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Silverado Santa](https://open.spotify.com/album/54kXDXgK0dhdxRa8MHHDzp) | 3:53 |
-| 84 | [Christmas Again](https://open.spotify.com/track/5OByBdrRvSq8xRk7O6WWJ9) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Christmas Again](https://open.spotify.com/album/3J7V3Aqh0t3D2tD5y3tT6K) | 3:40 |
+| 84 | [Christmas Again](https://open.spotify.com/track/6Xu0UNGLMDGL1gyQmwavla) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Christmas Again](https://open.spotify.com/album/4monFcb3YhZVNXWbbWG2H7) | 3:40 |
 | 85 | [Christmas Just Us Two](https://open.spotify.com/track/4w9aTg5zBHjUk6BjARqBOZ) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Christmas Just Us Two](https://open.spotify.com/album/32RZKD131KvRFVbT48URUx) | 3:54 |
 | 86 | [Christmas Trees Like That](https://open.spotify.com/track/5qDZFwamBt8Mj6J9aK2wwe) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Christmas Trees Like That](https://open.spotify.com/album/7cyfRGYWyJFBGdfgTyWNiV) | 3:41 |
 | 87 | [My Favorite Christmas](https://open.spotify.com/track/07wXKpcO4yJggnbTM6kEHW) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [My Favorite Christmas / I'll Be Home For Christmas](https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav) | 3:24 |

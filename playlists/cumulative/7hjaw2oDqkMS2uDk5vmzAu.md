@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 0:00 | 2014-07-16 |  |
-| [](https://open.spotify.com/track/16TbVkFPNUtNkwCSZIziXJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/16P67CKwAR45QleNvCINeX) | 0:00 | 2014-07-16 |  |
+| [](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 0:00 | 2014-07-16 |  |
+| [](https://open.spotify.com/track/16TbVkFPNUtNkwCSZIziXJ) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/16P67CKwAR45QleNvCINeX) | 0:00 | 2014-07-16 |  |
 | ['Round Midnight](https://open.spotify.com/track/6rIB9HudLdMSNEZaH8JxVm) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Plays Monk](https://open.spotify.com/album/3ar3gv14DQ9QnmF9n3D90G) | 6:13 | 2014-07-16 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/63kalFnjm1Wy8OvKXO7hWG) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Ray Bryant Plays](https://open.spotify.com/album/4q8hkJRnSQaWiqW0b2Lw7G) | 3:26 | 2014-07-16 |  |
 | [Ain't Misbehavin'](https://open.spotify.com/track/2jCEQ4ViFk3rkb3zOzi3rS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Jazz For A Sunday Morning](https://open.spotify.com/album/4a3eASYMdFTbmEpdj29zvg) | 5:17 | 2014-07-16 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 1810,
+  "2024-04-19": 1812,
   "date_first_scraped": "2022-09-17",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo\">Alessandro La Cava</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Alessandro La Cava",
@@ -743,6 +743,24 @@
       "duration_ms": 178179,
       "name": "Met\u00e0 mondo",
       "url": "https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG"
+    },
+    {
+      "album": {
+        "name": "Musica Italiana",
+        "url": "https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183461,
+      "name": "Musica Italiana",
+      "url": "https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS"
     },
     {
       "album": {

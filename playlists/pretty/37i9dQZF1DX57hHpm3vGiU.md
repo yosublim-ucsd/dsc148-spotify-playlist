@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,099 likes - 88 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,181 likes - 88 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 31 | [Spiritual Sounds](https://open.spotify.com/track/5erkedXCeiXSOfm6wEY08i) | [Kayce Laine](https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb) | [Spiritual Sounds](https://open.spotify.com/album/7v9NZZBD7LTDNygTnTIgkT) | 4:20 |
 | 32 | [Zen Tibetan Singing Bowls III](https://open.spotify.com/track/1t1JpR9dFGkoPaPemHT6My) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Zen Tibetan Singing Bowls](https://open.spotify.com/album/7fzlNnPVTaxRJSTnoo5UzM) | 4:26 |
 | 33 | [Lucid Cavern](https://open.spotify.com/track/38OIr42vBZBz6NGr39ZLvl) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Lucid Cavern](https://open.spotify.com/album/0MkerzKkZt57oGyDtverSE) | 3:29 |
-| 34 | [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 |
+| 34 | [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 |
 | 35 | [Relieve Stress](https://open.spotify.com/track/4D7s9uFRhQGeF0gPOjJPdC) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Singing Bowls in Nature](https://open.spotify.com/album/6oiXg3npUhIWScCT9sz8wm) | 3:00 |
 | 36 | [Soul Shower](https://open.spotify.com/track/3RCLYLBaVc2vSjSof1phdk) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Soul Shower](https://open.spotify.com/album/7c7bUDAMlzqPhgtyr6FL0V) | 3:32 |
 | 37 | [Singing Crystal 432 Hz](https://open.spotify.com/track/33o3GxEfZkx76sQAvcQiZs) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Meditative Crystal](https://open.spotify.com/album/1K6od3RmJnR6XSW4yYvLW8) | 3:00 |

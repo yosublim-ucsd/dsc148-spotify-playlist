@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Florent Vollant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,175 likes - 31 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,180 likes - 31 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 8 | [Kanatuut](https://open.spotify.com/track/0xe8BltGrL4HqoDRnsgiWP) | [Petapan](https://open.spotify.com/artist/5XimImrLy6ye73MRPjMWuF) | [Tshi nashkumitinan On vous remercie Thank you \(Compilation\)](https://open.spotify.com/album/2Zt8HjqoI2dLKMOpd8jfWk) | 4:15 |
 | 9 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 |
 | 10 | [Ashuapami](https://open.spotify.com/track/5Ohkd33e5crDYb6O87n0Nt) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Tshitatau](https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t) | 3:07 |
-| 11 | [Someone Call an Angel Down](https://open.spotify.com/track/6Uvn68XWVZqCMzvNCmE7WM) | [Derek Miller](https://open.spotify.com/artist/3tabavepzPNS1GfI72AedM) | [Music Is the Medicine](https://open.spotify.com/album/3rKd1eacDBKToUM2yJUnfW) | 4:51 |
+| 11 | [Someone Call An Angel Down](https://open.spotify.com/track/2XsHKLn5DnyrbfN7XEVfPh) | [Derek Miller](https://open.spotify.com/artist/3tabavepzPNS1GfI72AedM) | [Music Is The Medicine](https://open.spotify.com/album/1qCeu9DRGhAA06j59DemOM) | 4:51 |
 | 12 | [Immutaa](https://open.spotify.com/track/5Q9v0cy6iqc4VvCtDpUnPk) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [My All To You](https://open.spotify.com/album/6meWLme3zfqggs1SfGOwIh) | 3:31 |
 | 13 | [Innu\-auass](https://open.spotify.com/track/2iqlC5fMZeZuXvFLoOAiXe) | [Ninan](https://open.spotify.com/artist/3ERXkMlI9khEvuU4DJTRgG) | [Innu auass](https://open.spotify.com/album/0ncykYuyqzbIhI1kmk7qS8) | 4:05 |
 | 14 | [tshishpetenitakushin](https://open.spotify.com/track/3CIqHFIkxqmnKN07KJAvS1) | [Shauit](https://open.spotify.com/artist/7yWp3RPwRrklkXYWINFqBc) | [Natukun](https://open.spotify.com/album/3zhLQ4IDmwmKcACbRU9zNW) | 5:01 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 23 | [Eka Patshitenimu](https://open.spotify.com/track/3MlZfcV2aXIEwii8aYJ6eK) | [Dan\-Georges Mckenzie](https://open.spotify.com/artist/68mL5zdhhEli5uyDe0tlWm) | [Uitamui](https://open.spotify.com/album/25JmfuV91FiHtzCE5phcp9) | 3:38 |
 | 24 | [RÊVES](https://open.spotify.com/track/22nWc5p2nCsjrhypkfc9Lt) | [Native Mafia Family](https://open.spotify.com/artist/5CptimURU8kFnYEWYynLPp) | [THE 27A's](https://open.spotify.com/album/4m3jcbKcelHXuz8BnttWk9) | 4:40 |
 | 25 | [Ota](https://open.spotify.com/track/5d8Rw7RD8Gh3zXTscXZU9r) | [Régis Niquay](https://open.spotify.com/artist/4i1IJBUyz5vJDg2XlBY75X) | [Kosak](https://open.spotify.com/album/1JApUB1roNXyxHiRdKm4Qh) | 4:07 |
-| 26 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
+| 26 | [O Siem](https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN) | 4:27 |
 | 27 | [Here I am](https://open.spotify.com/track/3bJRSK6LGmabDz91waHWWS) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 3:57 |
 | 28 | [Peik Tshishek](https://open.spotify.com/track/7B8MSmoAMzBVFcU3Xmwtx5) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Uapen Nuta / Terre de nos aïeux](https://open.spotify.com/album/3fmzmf0oxOOggNGcmMEq0r) | 3:49 |
 | 29 | [Kir Neshimesh](https://open.spotify.com/track/6ClW07DTu0jzBsaflDaRcA) | [Nikamu Mamuitun \- Chansons Rassembleuses](https://open.spotify.com/artist/7MHVMBQK55O8QBWFobRr0A) | [Nikamu Mamuitun \- Chansons Rassembleuses](https://open.spotify.com/album/1rNZ6hEOEgntjXqIUwKnm1) | 4:09 |

@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218093,
       "name": "D\u00e1ndote",
       "url": "https://open.spotify.com/track/4qjxEKW5hIOhsZ3O584W63"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 153560,
       "name": "D\u00f3nde Est\u00e1s",
       "url": "https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153560,
       "name": "D\u00f3nde Est\u00e1s",
       "url": "https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131332,
       "name": "HIPOCRITA",
       "url": "https://open.spotify.com/track/6PY5d5Lwz4iGgEOMxYwL2c"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 131332,
       "name": "HIP\u00d3CRITA",
       "url": "https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 206894,
       "name": "Inseguridades",
       "url": "https://open.spotify.com/track/7LbbirHUrbo8NzKwiT7yOW"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206896,
       "name": "Inseguridades",
       "url": "https://open.spotify.com/track/3z7Pjl073zXKhEU16Reojn"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200142,
       "name": "Lo Que Tienes",
       "url": "https://open.spotify.com/track/1ftABeHaXdNPjsOmhosE5L"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200142,
       "name": "Lo Que Tienes",
       "url": "https://open.spotify.com/track/5dpLdsSEVRkTUwpOaULkeT"
@@ -2531,6 +2531,28 @@
     },
     {
       "album": {
+        "name": "Mas Envidia Que Fe",
+        "url": "https://open.spotify.com/album/6hlQV3e05fpJtQFmsHANHZ"
+      },
+      "artists": [
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "Mas Envidia Que Fe",
+      "url": "https://open.spotify.com/track/5XL7RmThB6GaVZ7wGUHfNH"
+    },
+    {
+      "album": {
         "name": "Mayor Que Yo",
         "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
       },
@@ -2608,7 +2630,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240362,
       "name": "Me Ense\u00f1aste (Remix)",
       "url": "https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2"
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240773,
       "name": "Me Ense\u00f1aste - Remix",
       "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
@@ -2978,7 +3000,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188698,
       "name": "No Somos",
       "url": "https://open.spotify.com/track/3Vef314Yps41CxqiHF13sK"
@@ -3128,7 +3150,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217478,
       "name": "Ojo por Ojo (Remix)",
       "url": "https://open.spotify.com/track/6BpG204BcPkC2yvixiyOba"
@@ -3154,7 +3176,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 217478,
       "name": "Ojo por Ojo - Remix",
       "url": "https://open.spotify.com/track/6A0agxt2FyRkpjT74sbeal"
@@ -3278,7 +3300,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220253,
       "name": "Pa Co",
       "url": "https://open.spotify.com/track/4HS7qS608TACaLDjh1Xfqa"
@@ -3304,7 +3326,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 220253,
       "name": "Pa Co",
       "url": "https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L"
@@ -3518,7 +3540,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149622,
       "name": "Pretinha",
       "url": "https://open.spotify.com/track/0gokl2danyrRzlPh8OcOtN"
@@ -3850,7 +3872,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217844,
       "name": "Saca Prende",
       "url": "https://open.spotify.com/track/5q42bRTW2TKUzx0nc2hsez"
@@ -4402,7 +4424,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"

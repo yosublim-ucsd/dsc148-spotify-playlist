@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,579 likes - 68 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,658 likes - 68 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 27 | [The Long Run \- 2013 Remaster](https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 3:41 |
 | 28 | [Turn To Stone](https://open.spotify.com/track/20IZ33kPSL7XV0WmKNaZVa) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Barnstorm](https://open.spotify.com/album/2mSYM0x3K8DxJar56FRlx4) | 5:20 |
 | 29 | [How Long](https://open.spotify.com/track/7hq1Zo9SwHN8Hi2Q4vn6PU) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Long Road out of Eden](https://open.spotify.com/album/2cWtnFvM7BmyQG1ojQDcCT) | 3:16 |
-| 30 | [Bramble Rose](https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3) | 4:30 |
+| 30 | [Bramble Rose](https://open.spotify.com/track/19pTbi9xqbInEHxpTIIhBN) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/4vM5KEIIw02lUaOUwYloJp) | 4:30 |
 | 31 | [In the City \- 2013 Remaster](https://open.spotify.com/track/3fgch6faHYPKqE6C3hIYfo) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 3:44 |
 | 32 | [Rock Me On The Water](https://open.spotify.com/track/50DGEghpwDFdZovHi0nz7K) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Linda Ronstadt](https://open.spotify.com/album/3O8Xv08sL6yK13WXed09ys) | 3:40 |
 | 33 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 35 | [On the Border \- 2013 Remaster](https://open.spotify.com/track/4ks6ecD50moKz0FD5dJKFJ) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:23 |
 | 36 | [Funk \#48](https://open.spotify.com/track/14R4uuf0SMjNmfLfHvMLZJ) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Yer' Album](https://open.spotify.com/album/5rsl1kj0N1N7yKQcBsjmMK) | 2:46 |
 | 37 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
-| 38 | [Taking You Home](https://open.spotify.com/track/7AoJXxRBfLVF2Dpx75lcg9) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/5WgUhTGN9wJsZ6kJDcz9mM) | 5:31 |
+| 38 | [Taking You Home](https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk) | 5:31 |
 | 39 | [After the Thrill Is Gone \- 2013 Remaster](https://open.spotify.com/track/73gx888k1raTwjFeuqIV5D) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 3:56 |
 | 40 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
 | 41 | [Try and Love Again \- 2013 Remaster](https://open.spotify.com/track/3ULgE72PnMaeV6lzA0G6Jv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:11 |
 | 42 | [One Day At A Time](https://open.spotify.com/track/1z3PhiWMUpj2Lu43T3rQfK) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Analog Man](https://open.spotify.com/album/076bM8NjtRgmIGGrF3Mb6k) | 3:18 |
 | 43 | [Doolin\-Dalton \- 2013 Remaster](https://open.spotify.com/track/0huHTieLTlluurvasQLB74) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:27 |
-| 44 | [Dirty Laundry](https://open.spotify.com/track/1deZHQ9Na7bnWA9pulmlXD) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can’t Stand Still](https://open.spotify.com/album/0C4C2xUJxiRsY4X0QcIS4Z) | 5:36 |
+| 44 | [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 |
 | 45 | [Love Will Keep Us Alive](https://open.spotify.com/track/7bJSiwLFnhoO7g83bWkCtA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hell Freezes Over \(Remaster 2018\)](https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF) | 4:03 |
 | 46 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
 | 47 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |

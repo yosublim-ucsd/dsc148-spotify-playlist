@@ -96,6 +96,24 @@
     {
       "album": {
         "name": "Angel",
+        "url": "https://open.spotify.com/album/7xAQvJXGnsVv0vvfZi6Iqm"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/5jtFyuwD32Mn9F5C3lLqsF"
+    },
+    {
+      "album": {
+        "name": "Angel",
         "url": "https://open.spotify.com/album/6PzZNFS1QaobNN9MrnRDJh"
       },
       "artists": [
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195555,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7lSdBy34Oxd06fK4KlaXVj"
@@ -646,7 +664,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 243453,
       "name": "Cool",
       "url": "https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243453,
       "name": "Cool",
       "url": "https://open.spotify.com/track/6lF7TSRbGXhSQhGWQyvBaX"
@@ -844,10 +862,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261665,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
+    },
+    {
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261666,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR"
     },
     {
       "album": {
@@ -870,6 +906,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
@@ -880,7 +934,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
@@ -1442,10 +1496,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218175,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c"
+    },
+    {
+      "album": {
+        "name": "& Covers",
+        "url": "https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN"
+      },
+      "artists": [
+        {
+          "name": "Cattle & Cane",
+          "url": "https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218175,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r"
     },
     {
       "album": {
@@ -1838,10 +1910,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153000,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91"
+    },
+    {
+      "album": {
+        "name": "Paradise (Acoustic)",
+        "url": "https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Paradise - Acoustic",
+      "url": "https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw"
     },
     {
       "album": {
@@ -2150,6 +2240,24 @@
     {
       "album": {
         "name": "Stop Calling Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3LjvPIqQWjsjFGagHTJnrv"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Stop Calling Me (Acoustic)",
+      "url": "https://open.spotify.com/track/0ouUnebxKTVkoQMBGY3YZp"
+    },
+    {
+      "album": {
+        "name": "Stop Calling Me (Acoustic)",
         "url": "https://open.spotify.com/album/6WvuOSA21xZ4BYPl1esySV"
       },
       "artists": [
@@ -2160,7 +2268,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183272,
       "name": "Stop Calling Me (Acoustic)",
       "url": "https://open.spotify.com/track/37LuQXfIG7zM1Khf880KoV"

@@ -10436,10 +10436,28 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265600,
       "name": "Ponte de Luz",
       "url": "https://open.spotify.com/track/1HNr6b2TxwZ8yxuCU9jTMq"
+    },
+    {
+      "album": {
+        "name": "Xinti",
+        "url": "https://open.spotify.com/album/30XUQP4eHCi0gGvVFRZCD0"
+      },
+      "artists": [
+        {
+          "name": "Sara Tavares",
+          "url": "https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Ponto De Luz",
+      "url": "https://open.spotify.com/track/3GILmlmzkVB6ztrLvqjUTF"
     },
     {
       "album": {

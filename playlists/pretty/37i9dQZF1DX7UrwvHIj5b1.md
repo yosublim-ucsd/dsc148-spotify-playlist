@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,337 likes - 94 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,472 likes - 94 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 45 | [Skankers Chant](https://open.spotify.com/track/19vA1y6D7Te1UdMaIUayQI) | [Numa Crew](https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL), [Lapo](https://open.spotify.com/artist/1rtJkutyjtQ7yqtqc0aHPd), [Ago](https://open.spotify.com/artist/5tGHJC8P1yydPdtYx1tgQ2) | [Skankers Chant Ep](https://open.spotify.com/album/4ygHPcN9QPc0Lru9rqaWfZ) | 4:42 |
 | 46 | [Vacant](https://open.spotify.com/track/4KtEedfcRM9VycSED3sWnF) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/30v5J4ieBtoICdxv0ss6Qc) | 5:03 |
 | 47 | [Lankershim Stroll](https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/4hsPWLX9kUyCecLp2BsNIj) | 5:03 |
-| 48 | [Insomnias](https://open.spotify.com/track/2tm3maRyexGOkhvS0Wro93) | [Soreab](https://open.spotify.com/artist/3gDCHnajxKxIGUtweD6p9k) | [Sensitivity 6.0](https://open.spotify.com/album/0UYTgJUsywTBRNwIY8g7QL) | 5:27 |
+| 48 | [Insomnias](https://open.spotify.com/track/4nV6k7nnof6wV4tbXSZiKB) | [Soreab](https://open.spotify.com/artist/3gDCHnajxKxIGUtweD6p9k) | [Sensitivity 6.0](https://open.spotify.com/album/7cZkjYF4onpWWy5ftfZFcM) | 5:27 |
 | 49 | [Where Ya From](https://open.spotify.com/track/2BaqPUM4FO9CH4YxKmy1gN) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Oaken](https://open.spotify.com/album/64AHueA64ofjV9g69ZXHhi) | 4:42 |
 | 50 | [Out Here](https://open.spotify.com/track/2d5mIkHNiBzHfpRpPAxV3o) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8) | [FKOFd043](https://open.spotify.com/album/1nlEE0hPDSYxJd6R2y5rLR) | 3:37 |
 | 51 | [Cryptic](https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi) | [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Congi Selection](https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n) | 5:52 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 57 | [Meek Dub](https://open.spotify.com/track/6jHOxTUmWeTupc4lKz76Vy) | [Somah](https://open.spotify.com/artist/0Dk9atH2YtBzyWlxu5VpyC) | [Mercy](https://open.spotify.com/album/5JOg5b9KEBsHju0GUen7lj) | 4:23 |
 | 58 | [Koshi](https://open.spotify.com/track/5f3PUD9AdDVGKcZnwZxoud) | [DE\-TÜ](https://open.spotify.com/artist/5iCCchx08AOJTQOg0IuAUd) | [Koshi](https://open.spotify.com/album/2SwzlOLKcWmN9NCrsWU8GO) | 6:10 |
 | 59 | [Forest of Sin](https://open.spotify.com/track/7irQGbq5KxxRpSWQn07YNp) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Forest of Sin](https://open.spotify.com/album/4dPY93ianmoQkWkNDjeZq8) | 2:38 |
-| 60 | [Qawwali](https://open.spotify.com/track/1Mjh2PRRpbUEhQhei6GkcH) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [10 Tons Heavy](https://open.spotify.com/album/2KijsPxVLWeObtHjipd80R) | 5:19 |
+| 60 | [Qawwali](https://open.spotify.com/track/5TyinkpuFzpSNDAJRYpNay) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [10 Tons Heavy](https://open.spotify.com/album/4c8z8N2B9MCE90BR3fH9sf) | 5:19 |
 | 61 | [Can't Dance](https://open.spotify.com/track/6ruuSfipk0prLfnyWcHODQ) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [2004 \- 2008](https://open.spotify.com/album/560Qumb8am9SbeZUPHBDWO) | 5:58 |
 | 62 | [Tusk](https://open.spotify.com/track/2icSoosXMB1U1WUhk3Qxlj) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Substrada](https://open.spotify.com/artist/1c27zyfou3LpncKmjvbtLd) | [Ghost Talk / Tusk](https://open.spotify.com/album/579NIcHU4u4K2nUBPqaiVF) | 4:24 |
 | 63 | [Heavy Eyes](https://open.spotify.com/track/1oi2rvtFwyZcp0aQbksZ00) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud), [Deep Heads](https://open.spotify.com/artist/0zBhbRRRy4nPr0HoSAPbB5) | [Strange Worlds](https://open.spotify.com/album/3lcexELcZhgwpvOyAo8lHy) | 5:22 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 412865,
+  "2024-04-19": 414165,
   "date_first_scraped": "2021-12-28",
   "description": "Soulful Hindi songs for your nostalgic journey. Cover - Mere Jeevan Saathi",
   "name": "Old is Gold",
@@ -743,10 +743,28 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 223506,
       "name": "Chaudhvin Ka Chand Ho",
       "url": "https://open.spotify.com/track/0NMHJgkmn6heDuxpL2brXX"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Chaudhvin Ka Chand Ho (From \"Chaudhvin Ka Chand\")",
+      "url": "https://open.spotify.com/track/7EKfhbcWA3ncDkuRhNCaru"
     },
     {
       "album": {

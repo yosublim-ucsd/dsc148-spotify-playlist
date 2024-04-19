@@ -4,7 +4,7 @@
 
 > Be careful what you wish for...Listen to the music from the Wish, available now on digital.
 
-55 songs - 2 hr 10 min
+56 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [This Is The Thanks I Get?!](https://open.spotify.com/track/4CArBYFhVovvWYu9FW23mr) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 3:14 | 2023-11-22 |  |
 | [This Is The Thanks I Get?! \- Instrumental](https://open.spotify.com/track/3bdaf42nVmM58mTLIXhxkv) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 3:14 | 2023-11-22 |  |
 | [This Wish](https://open.spotify.com/track/2srilwiYAXsMkmwny0RUQ3) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 3:25 | 2023-11-22 |  |
+| [This Wish](https://open.spotify.com/track/0SPQCd6HwTZpccRVexR229) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Wish](https://open.spotify.com/album/3SYfKw3qLbZqeXhMKhW8mI) | 3:36 | 2024-04-19 |  |
 | [This Wish \(Demo\)](https://open.spotify.com/track/0dlu1lf8BNv9ZXGB1W3k9c) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 3:22 | 2023-11-22 |  |
 | [This Wish \(Reprise\)](https://open.spotify.com/track/03dh3HGB2NPjAkL72HUsqD) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 2:45 | 2023-11-22 |  |
 | [This Wish \(Reprise\) \- Instrumental](https://open.spotify.com/track/5ekdvvZfLOI6PVdj2rtuka) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 2:42 | 2023-11-22 |  |

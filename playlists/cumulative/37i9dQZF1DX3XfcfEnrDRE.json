@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232061,
       "name": "atlas",
       "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Between The Joy And The Sorrow",
       "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213760,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW"
@@ -614,10 +614,32 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219266,
       "name": "Cornerstone (feat. Zach Williams)",
       "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
+    },
+    {
+      "album": {
+        "name": "Life After Death",
+        "url": "https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Cornerstone (feat. Zach Williams)",
+      "url": "https://open.spotify.com/track/6wCVcqWX20n8kAtIK9PoeG"
     },
     {
       "album": {
@@ -828,7 +850,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228000,
       "name": "Father",
       "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
@@ -900,7 +922,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217500,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
@@ -954,7 +976,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325893,
       "name": "First Love",
       "url": "https://open.spotify.com/track/3eOxPVgmYGVYPMnPK44Rm1"
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 227027,
       "name": "Found",
       "url": "https://open.spotify.com/track/3TdJeWZcITRaSf9Cr1k4Q4"
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 344938,
       "name": "Free?",
       "url": "https://open.spotify.com/track/40MYtIxcMkgex0xHvcZlMX"
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 110413,
       "name": "Get A Life",
       "url": "https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC"
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 236006,
       "name": "Good To Get Back",
       "url": "https://open.spotify.com/track/5wFJ02TSnS18SSyFZzIIPw"
@@ -1298,7 +1320,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188731,
       "name": "High Calling",
       "url": "https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m"
@@ -1374,7 +1396,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 212343,
       "name": "How Much More",
       "url": "https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC"
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 178153,
       "name": "I Might Not Be Breathing",
       "url": "https://open.spotify.com/track/4YJcjLWnuUtIdBDvpnN6Df"
@@ -1940,7 +1962,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192933,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
@@ -1976,7 +1998,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 275626,
       "name": "limbo",
       "url": "https://open.spotify.com/track/6JqwhcKzZX3HPbtyTxaQU7"
@@ -2034,6 +2056,24 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "album": {
+        "name": "May The Lamb",
+        "url": "https://open.spotify.com/album/6SdX9be9ZQk4Y1ZqS45o46"
+      },
+      "artists": [
+        {
+          "name": "Chris McCall",
+          "url": "https://open.spotify.com/artist/0TcGpkdfl5wneHvpYgN3xp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263252,
+      "name": "May The Lamb",
+      "url": "https://open.spotify.com/track/7H2I1AIj744jqp4Sh7U6ad"
     },
     {
       "album": {
@@ -2248,7 +2288,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210586,
       "name": "Not So Sure",
       "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 248347,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"
@@ -2586,7 +2626,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141177,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1eI2tJUhgaC1b0cYmvzUaa"
@@ -2836,7 +2876,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199306,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
@@ -2872,7 +2912,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 240967,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3QfiVsGee9fstGpgrdzrP5"
@@ -2984,7 +3024,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 277839,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/6ib5TpsfZglT3tieqg9Ley"
@@ -3096,7 +3136,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172552,
       "name": "We Won't Bow",
       "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
@@ -3310,7 +3350,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"

@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 244991,
       "name": "Anbe",
       "url": "https://open.spotify.com/track/435Cg6XcTpkVrBiYn4Ya01"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244992,
       "name": "Anbe",
       "url": "https://open.spotify.com/track/2jLZ0vtvGw8h0h2Awx8cJc"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "Azhagaana Vaaname",
       "url": "https://open.spotify.com/track/2X9AwXEdhVITzPQyNIqsxP"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175435,
       "name": "Azhagaana Vaaname",
       "url": "https://open.spotify.com/track/53X9pbk76O75M6xa5ZnZhM"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217845,
       "name": "Azhagey (feat. Sabari)",
       "url": "https://open.spotify.com/track/25bY7EeN1wrZqJMUSVqL7m"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 217845,
       "name": "Azhagey (feat. Sabari)",
       "url": "https://open.spotify.com/track/5Ke6Hvqn6fcU8fxSd7t2oE"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 190598,
       "name": "Azhuvurene (Story of a Bleeding Heart)",
       "url": "https://open.spotify.com/track/2zLqnD7Cj6BCjIfsZDyXqV"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190598,
       "name": "Azhuvurene (Story of a Bleeding Heart)",
       "url": "https://open.spotify.com/track/5copI38Nfc0lLbLqD09k8P"
@@ -2248,10 +2248,32 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240026,
       "name": "Enjotti",
       "url": "https://open.spotify.com/track/6HrWuMX4bxm8NplEFx0Caf"
+    },
+    {
+      "album": {
+        "name": "Enjotti",
+        "url": "https://open.spotify.com/album/6dDdDbsIUhvYSzzXzfjmc9"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Maanasi G Kannan",
+          "url": "https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240789,
+      "name": "Enjotti",
+      "url": "https://open.spotify.com/track/1C1bXvGkobyzoVPbGBk8nc"
     },
     {
       "album": {
@@ -2450,7 +2472,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252900,
       "name": "Gundu Kuzhi",
       "url": "https://open.spotify.com/track/4vdmh57LjtzPh6wKIZ7hsl"
@@ -2468,7 +2490,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 252900,
       "name": "Gundu Kuzhi",
       "url": "https://open.spotify.com/track/607puj8ynHdgBVtbrv8I3N"
@@ -2680,7 +2702,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 169999,
       "name": "i Aval",
       "url": "https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU"
@@ -2698,7 +2720,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169999,
       "name": "i Aval",
       "url": "https://open.spotify.com/track/2IF8PVUGyCrbYfJz5wsDa3"
@@ -3092,7 +3114,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 356917,
       "name": "Iru Manam",
       "url": "https://open.spotify.com/track/40iXnqTO0GMjqvOkymdgJt"
@@ -3114,7 +3136,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 356917,
       "name": "Iru Manam",
       "url": "https://open.spotify.com/track/6ZVd1A70cnjzCk0pCwwrdd"
@@ -4020,7 +4042,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179049,
       "name": "Kanavin Azhagi",
       "url": "https://open.spotify.com/track/0rn4D2uhDVkDGGmHDsJEDk"
@@ -4042,7 +4064,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 179049,
       "name": "Kanavin Azhagi",
       "url": "https://open.spotify.com/track/7ij3EIOUwmt8cp6O8BktQ4"
@@ -4718,7 +4740,7 @@
     {
       "album": {
         "name": "Lambo Lambo",
-        "url": "https://open.spotify.com/album/333wx95hhctae7PSkl6Cob"
+        "url": "https://open.spotify.com/album/4osVgrSj8hOXsCN26Dg3gi"
       },
       "artists": [
         {
@@ -4729,6 +4751,24 @@
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 259034,
+      "name": "Lambo Lambo",
+      "url": "https://open.spotify.com/track/0e5bZrkTKemjevkXPafKRd"
+    },
+    {
+      "album": {
+        "name": "Lambo Lambo",
+        "url": "https://open.spotify.com/album/333wx95hhctae7PSkl6Cob"
+      },
+      "artists": [
+        {
+          "name": "Nincy Vincent",
+          "url": "https://open.spotify.com/artist/3YztabPkmM6fDWVUZJ51AH"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 259034,
       "name": "Lambo Lambo",
       "url": "https://open.spotify.com/track/7K5pyTmRA4qqu3ZfS71Flf"
@@ -4900,7 +4940,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 265032,
       "name": "Maagamaaga Nee",
       "url": "https://open.spotify.com/track/1vUCR2FQtjamDlMBWJoega"
@@ -4922,7 +4962,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265032,
       "name": "Maagamaaga Nee",
       "url": "https://open.spotify.com/track/31RulhRU3qYzKdYUja9JHj"
@@ -5300,7 +5340,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 211199,
       "name": "Manasukkul - Symphony of Emotions",
       "url": "https://open.spotify.com/track/32wxNNLUIjD3o8IPqOt2zl"
@@ -5334,7 +5374,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211200,
       "name": "Manasukkul - Symphony of Emotions",
       "url": "https://open.spotify.com/track/3BOnjnpBt9ZwS4K0pG8Pae"
@@ -7326,7 +7366,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343152,
       "name": "Oru Parvaiyaal",
       "url": "https://open.spotify.com/track/0IEgdIb82qufxFDAZWNZYG"
@@ -7344,7 +7384,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 343152,
       "name": "Oru Parvaiyaal",
       "url": "https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER"
@@ -7444,13 +7484,17 @@
       },
       "artists": [
         {
+          "name": "C M Naveen",
+          "url": "https://open.spotify.com/artist/6PQtj3eFJNCgv6Frl1mmls"
+        },
+        {
           "name": "Sam Vishal",
           "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
         }
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-21",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Oru Vaarthai",
       "url": "https://open.spotify.com/track/0SB9hAOh1pImTNIV8SorMF"
@@ -7468,7 +7512,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192000,
       "name": "Oru Vaarthai",
       "url": "https://open.spotify.com/track/6X0drUsVUlOouNqBK3N2g0"
@@ -8150,7 +8194,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 175415,
       "name": "Poidhana",
       "url": "https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk"
@@ -8172,7 +8216,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175415,
       "name": "Poidhana",
       "url": "https://open.spotify.com/track/756zRtsR7enjgQRwJkGmCX"
@@ -8418,7 +8462,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 191999,
       "name": "Potta Pulla Vaasam Theadi",
       "url": "https://open.spotify.com/track/1ucrvhA6DV5bG6WTYqndu1"
@@ -8436,7 +8480,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191999,
       "name": "Potta Pulla Vaasam Theadi",
       "url": "https://open.spotify.com/track/5bSxYx4bXM0vm9hazQbaT8"
@@ -9066,7 +9110,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272000,
       "name": "Sila Naalai",
       "url": "https://open.spotify.com/track/0mqRWtlpot25AjLWpTrz5h"
@@ -9088,7 +9132,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Sila Naalai",
       "url": "https://open.spotify.com/track/5shrA3OgSbbvpyiIKA174Y"
@@ -9460,7 +9504,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 330731,
       "name": "Thamarai Poovilum",
       "url": "https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K"
@@ -9490,7 +9534,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330731,
       "name": "Thamarai Poovilum",
       "url": "https://open.spotify.com/track/5KDOstMGWmTNnpJeGnEBcV"
@@ -10708,7 +10752,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 276702,
       "name": "Veeravanam",
       "url": "https://open.spotify.com/track/1eCmpnUfMsno0j2cNLMj4Y"
@@ -10734,7 +10778,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276702,
       "name": "Veeravanam",
       "url": "https://open.spotify.com/track/4P1Qy4eK05sYjTFZ09obxk"
@@ -10834,7 +10878,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202085,
       "name": "Vengai Penne",
       "url": "https://open.spotify.com/track/4G9WEPGv2ROHjJ6QKjlK5k"
@@ -10860,7 +10904,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 202085,
       "name": "Vengai Penne",
       "url": "https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT"
@@ -11138,7 +11182,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 224456,
       "name": "Yaadhum kanaa",
       "url": "https://open.spotify.com/track/0zFTloLX0ssZGi0fxBsfNE"
@@ -11164,7 +11208,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224456,
       "name": "Yaadhum kanaa",
       "url": "https://open.spotify.com/track/4jtSol8vIhmCy5pynFQwMu"

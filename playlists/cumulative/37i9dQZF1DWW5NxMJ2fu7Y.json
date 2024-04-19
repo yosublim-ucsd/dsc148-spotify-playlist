@@ -234,7 +234,7 @@
     {
       "album": {
         "name": "Dawk Lya",
-        "url": "https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL"
+        "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
       },
       "artists": [
         {
@@ -245,6 +245,24 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 148062,
+      "name": "Dawk Lya",
+      "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
+    },
+    {
+      "album": {
+        "name": "Dawk Lya",
+        "url": "https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 148800,
       "name": "Dawk Lya",
       "url": "https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx"
@@ -540,10 +558,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198306,
       "name": "MIEL",
       "url": "https://open.spotify.com/track/3I1EOnxa1H2RDi8dkAwZX1"
+    },
+    {
+      "album": {
+        "name": "QUARTIER LATIN VOL.1",
+        "url": "https://open.spotify.com/album/3NJkAPcsibVbKi7MfJvADs"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "MIEL",
+      "url": "https://open.spotify.com/track/5KmYE2jcSQvtLpMGXqDBWJ"
     },
     {
       "album": {
@@ -562,10 +598,32 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
+    },
+    {
+      "album": {
+        "name": "Mizane",
+        "url": "https://open.spotify.com/album/3bkqMAcncddHFeAOxXT3qW"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Mizane",
+      "url": "https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ"
     },
     {
       "album": {
@@ -605,6 +663,24 @@
     },
     {
       "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm"
+      },
+      "artists": [
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202317,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY"
+    },
+    {
+      "album": {
         "name": "Moral",
         "url": "https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY"
       },
@@ -616,7 +692,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202344,
       "name": "Moral",
       "url": "https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0"
@@ -674,10 +750,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260000,
       "name": "Mtayf",
       "url": "https://open.spotify.com/track/55JxuhONEBHzqX6CtUzQB6"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Mtayf",
+      "url": "https://open.spotify.com/track/5zme2KCwXAY9dhTsCNovJp"
     },
     {
       "album": {
@@ -692,10 +786,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220320,
       "name": "Nabra",
       "url": "https://open.spotify.com/track/3OUY9lBuUBtU13yeSdfka4"
+    },
+    {
+      "album": {
+        "name": "Nabra",
+        "url": "https://open.spotify.com/album/6B3CysOt4CIOx9sVGHQygQ"
+      },
+      "artists": [
+        {
+          "name": "Plylist",
+          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220320,
+      "name": "Nabra",
+      "url": "https://open.spotify.com/track/3YR3gA3Zz8s2uxNwD6OGcc"
     },
     {
       "album": {
@@ -780,10 +892,32 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285554,
       "name": "Obscurit\u00e9 (feat. Hamza)",
       "url": "https://open.spotify.com/track/2kcQZtB9Ea7jbacoWhjXKJ"
+    },
+    {
+      "album": {
+        "name": "Cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285560,
+      "name": "Obscurit\u00e9 (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
     },
     {
       "album": {
@@ -864,7 +998,7 @@
     {
       "album": {
         "name": "Colors",
-        "url": "https://open.spotify.com/album/0XXLHVehTykkYO9z1Ool7o"
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },
       "artists": [
         {
@@ -875,6 +1009,24 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sac",
+      "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0XXLHVehTykkYO9z1Ool7o"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 196000,
       "name": "Sac",
       "url": "https://open.spotify.com/track/6x8BmqYKINbm7GFyVABsFH"
@@ -1044,10 +1196,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252639,
       "name": "Ya Lalali",
       "url": "https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529"
+    },
+    {
+      "album": {
+        "name": "Ya Lalali",
+        "url": "https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX"
+      },
+      "artists": [
+        {
+          "name": "Roffo",
+          "url": "https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252639,
+      "name": "Ya Lalali",
+      "url": "https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv"
     },
     {
       "album": {

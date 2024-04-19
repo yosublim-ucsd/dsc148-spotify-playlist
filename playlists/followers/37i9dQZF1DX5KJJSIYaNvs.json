@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 64629,
+  "2024-04-19": 64629,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover - Alka Yagnik",
   "name": "EQUAL India",
@@ -2706,6 +2706,28 @@
     },
     {
       "album": {
+        "name": "Khaali Botal",
+        "url": "https://open.spotify.com/album/6YatkhZz9GNPjrh6Zyrdye"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256157,
+      "name": "Khaali Botal",
+      "url": "https://open.spotify.com/track/5TWA9jc24sOjhO3Xlx1ZlG"
+    },
+    {
+      "album": {
         "name": "Khayaal",
         "url": "https://open.spotify.com/album/4Ox9ZXam3tPU1uOQrRZKsu"
       },
@@ -3433,7 +3455,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 187200,
       "name": "Mashooka (feat. Rakul Preet Singh)",
       "url": "https://open.spotify.com/track/6CVu3umk6baD6bwLVzmx3m"

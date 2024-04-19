@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,775 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,908 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 |
-| 2 | [Still / Sound – piano reworks](https://open.spotify.com/track/4BlEJ8BG3efMsKKJMhiMar) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:51 |
+| 2 | [Still / Sound – piano reworks](https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Still / Sound — piano reworks](https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N) | 4:51 |
 | 3 | [Fragrant Olive](https://open.spotify.com/track/4dlvj037LmL4KXUTh1ODgJ) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Fragrant Olive](https://open.spotify.com/album/4hqG4tT6fTZhiXOWwc0VIL) | 3:50 |
 | 4 | [Music For Growing Flowers \- Pt\. 8](https://open.spotify.com/track/0fqveSCZR2TqGAtEid72Ua) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 1:13 |
 | 5 | [Existence](https://open.spotify.com/track/1HZrGW4uQDVVhI8SRfZy8o) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Spaces](https://open.spotify.com/album/3ousrkrjhpoRMrDySi6h0K) | 4:46 |
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 10 | [For Leah](https://open.spotify.com/track/1PVSCJHI5Q0jAyvu0qSKXm) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [For Leah](https://open.spotify.com/album/74tyKTLDk3ebFMoV0S16NL) | 3:13 |
 | 11 | [Late](https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Late](https://open.spotify.com/album/2oaXu9YZPKsSuNOvBkAnGe) | 2:59 |
 | 12 | [Sandlóa](https://open.spotify.com/track/0ONcTpuI4HC0nOGCbPjGsa) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Sandlóa](https://open.spotify.com/album/5bxoucRv54ThMvQ2kAZSgF) | 3:35 |
-| 13 | [I Thought About Death, About Time](https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU) | 2:00 |
+| 13 | [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 |
 | 14 | [Éphémère](https://open.spotify.com/track/4LurYqydfPdLc9IN7eQxTF) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Nuit](https://open.spotify.com/album/6PSnEum2RrNY1uuj8goegP) | 1:43 |
 | 15 | [Patterns, Erase \- Simeon Walker Rework](https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Dear, Piano](https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u) | 4:31 |
-| 16 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 |
+| 16 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 |
 | 17 | [CRISALIDE 6](https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb) | [Puppi](https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc) | [CRISALIDE](https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2) | 4:21 |
 | 18 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 |
 | 19 | [Paint](https://open.spotify.com/track/6PC9beJbKsb3PMIBPbHtc7) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint & Dance](https://open.spotify.com/album/6R3DQm91XrjzIX1X0VnyLF) | 2:09 |
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 28 | [Lighthouse](https://open.spotify.com/track/5tfN5qARzeaurcsSr7S3mP) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Vivarium](https://open.spotify.com/album/0GfJmiUAaIQCBtJ25zpcwz) | 2:29 |
 | 29 | [Passing Soul](https://open.spotify.com/track/3nlAmaw9jE6BfS8BUuDHZy) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Passing Soul](https://open.spotify.com/album/2IaSJrHDMWC3Y3slcVntxU) | 2:55 |
 | 30 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
-| 31 | [Earnest Leslye](https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY) | 3:49 |
+| 31 | [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 |
 | 32 | [Berceuse](https://open.spotify.com/track/4W11ykVxHguZTyd30ckgLh) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 2:07 |
 | 33 | [Bråddjup](https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Bråddjup](https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay) | 3:04 |
-| 34 | [Lantern \- Piano Version](https://open.spotify.com/track/5LMnVTPqsmhGyjhMtb55pD) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/4nCQ0B5D2iQvyKsnz9patZ) | 3:15 |
-| 35 | [A Temporary Solution](https://open.spotify.com/track/5dWTt3ER2jN4hR34FF7ZEh) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:27 |
+| 34 | [Lantern \- Piano Version](https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/2N7PeDMcJbAcdth49YY8qa) | 3:15 |
+| 35 | [A Temporary Solution](https://open.spotify.com/track/1FdYqR7Ap13f0BvjfeQmP9) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:27 |
 | 36 | [Once in a Lifetime](https://open.spotify.com/track/00BHa28nUX4B9U8BGeacqx) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:37 |
 | 37 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
 | 38 | [Wandering II](https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 2:39 |

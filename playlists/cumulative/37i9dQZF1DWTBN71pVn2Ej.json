@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176805,
+      "name": "Cave In",
+      "url": "https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal"
+    },
+    {
+      "album": {
         "name": "Moral Panic II",
         "url": "https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156538,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/7AxasOJ0ksH6jDzWXLnTqM"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197026,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 177636,
       "name": "D.I.A.D.",
       "url": "https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177636,
       "name": "D.I.A.D.",
       "url": "https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL"
@@ -2568,6 +2586,24 @@
       "duration_ms": 178863,
       "name": "Delusions of Grandeur",
       "url": "https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ"
+    },
+    {
+      "album": {
+        "name": "Descend",
+        "url": "https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220074,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/21gzflUH729pjKczveSrHU"
     },
     {
       "album": {
@@ -3372,7 +3408,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202889,
       "name": "Freak Of Nature",
       "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
@@ -5112,7 +5148,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208500,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3bVpADrmV8LWwreYBRkfJl"
@@ -6877,6 +6913,24 @@
     },
     {
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164049,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137"
+    },
+    {
+      "album": {
         "name": "Out of the Dark and Into the Light",
         "url": "https://open.spotify.com/album/03wqT0b3aui6059tTnSqqs"
       },
@@ -8134,7 +8188,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224899,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
@@ -8408,6 +8462,24 @@
       "duration_ms": 215446,
       "name": "Star",
       "url": "https://open.spotify.com/track/3htTIczJijYQUMhuExSOED"
+    },
+    {
+      "album": {
+        "name": "Star 9200",
+        "url": "https://open.spotify.com/album/1qPbzCZZQiBrsi7lOaxqWp"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159606,
+      "name": "Star 9200",
+      "url": "https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB"
     },
     {
       "album": {
@@ -10034,6 +10106,24 @@
       "duration_ms": 239558,
       "name": "Waltzer",
       "url": "https://open.spotify.com/track/0etpfM0NrM6ByWqDtma4ss"
+    },
+    {
+      "album": {
+        "name": "WANTED2TRY",
+        "url": "https://open.spotify.com/album/4BnfYUTEvlRSWYJFY9JoUW"
+      },
+      "artists": [
+        {
+          "name": "Demo Division",
+          "url": "https://open.spotify.com/artist/3W6URN7nUXNxONfatUmWJU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "WANTED2TRY",
+      "url": "https://open.spotify.com/track/3PkZUROe0fvRdwIPggdgEu"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 52786,
+  "2024-04-19": 52992,
   "date_first_scraped": "2022-09-15",
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
   "name": "Sunny dnb",
@@ -893,6 +893,36 @@
     {
       "album": {
         "name": "Second Nature",
+        "url": "https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Babl Lemmens",
+          "url": "https://open.spotify.com/artist/2xHPYFV4Cs58qCZoMTAOmP"
+        },
+        {
+          "name": "Daddy Waku",
+          "url": "https://open.spotify.com/artist/19DWkWsLdFRuzN8naS8cUH"
+        },
+        {
+          "name": "Chantal Kashala",
+          "url": "https://open.spotify.com/artist/5wlcoAg1EcZWqHkqo2RaTD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/4ch0ejqrSwJrotLroa9mXn"
+    },
+    {
+      "album": {
+        "name": "Second Nature",
         "url": "https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks"
       },
       "artists": [
@@ -915,32 +945,6 @@
       "duration_ms": 200930,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/21JRqTnNDTiMxzTCvzcfc3"
-    },
-    {
-      "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Daddy Waku",
-          "url": "https://open.spotify.com/artist/19DWkWsLdFRuzN8naS8cUH"
-        },
-        {
-          "name": "Chantal Kashala",
-          "url": "https://open.spotify.com/artist/5wlcoAg1EcZWqHkqo2RaTD"
-        }
-      ],
-      "date_added": "2023-08-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200930,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/4ch0ejqrSwJrotLroa9mXn"
     },
     {
       "album": {

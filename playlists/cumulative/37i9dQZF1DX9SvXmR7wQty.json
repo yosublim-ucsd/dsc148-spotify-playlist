@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Koriass",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Agent Secret",
+        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164737,
+      "name": "Agent secret",
+      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+    },
+    {
+      "album": {
         "name": "Mari\u00e8me",
         "url": "https://open.spotify.com/album/0imKDEWMsjlhf0SjOWjg1z"
       },
@@ -2202,6 +2220,28 @@
       "duration_ms": 198986,
       "name": "Amour, Haine & Danger",
       "url": "https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX"
+    },
+    {
+      "album": {
+        "name": "Amours et Contradictions",
+        "url": "https://open.spotify.com/album/5S8FScCHYUnn7FTvU7iI1I"
+      },
+      "artists": [
+        {
+          "name": "Joe Rocca",
+          "url": "https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi"
+        },
+        {
+          "name": "Malia Laura",
+          "url": "https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Amours et Contradictions",
+      "url": "https://open.spotify.com/track/0QvndhdnzK1S5nDH5mBaMW"
     },
     {
       "album": {
@@ -7023,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "Certifi\u00e9",
+        "url": "https://open.spotify.com/album/4FPJakUjGGmXoRnD2UKSFI"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Certifi\u00e9",
+      "url": "https://open.spotify.com/track/1nA1QtJzSomE13YuGA4K7W"
+    },
+    {
+      "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
       },
@@ -7682,7 +7740,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257333,
       "name": "Ciel",
       "url": "https://open.spotify.com/track/3NcikFH886J3WbrdG4LNff"
@@ -8582,6 +8640,24 @@
       "duration_ms": 212013,
       "name": "Comme s'il pleuvait",
       "url": "https://open.spotify.com/track/6DSvtxMn1CPCoKl74pxN8a"
+    },
+    {
+      "album": {
+        "name": "Comme tu le souhaites (Ding Dong)",
+        "url": "https://open.spotify.com/album/7Fv4qj6cYO540OuEb8z9Ac"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353094,
+      "name": "Comme tu le souhaites (Ding Dong)",
+      "url": "https://open.spotify.com/track/0jv4Qiw0H1OXb1FQ1Epirs"
     },
     {
       "album": {
@@ -10150,6 +10226,24 @@
       "duration_ms": 160858,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
+    },
+    {
+      "album": {
+        "name": "dans le silence",
+        "url": "https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo"
+      },
+      "artists": [
+        {
+          "name": "benjamiin",
+          "url": "https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "dans le silence",
+      "url": "https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G"
     },
     {
       "album": {
@@ -14929,6 +15023,24 @@
     },
     {
       "album": {
+        "name": "Pour en finir",
+        "url": "https://open.spotify.com/album/47AouJ6QP2gjWqxJ9XVt2m"
+      },
+      "artists": [
+        {
+          "name": "Chapeaux pointus",
+          "url": "https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Fini",
+      "url": "https://open.spotify.com/track/0lJ0RZWBtJs8K50tXnA2Se"
+    },
+    {
+      "album": {
         "name": "Finir un texte",
         "url": "https://open.spotify.com/album/5OYj1DZEuqCe9cJfbtdlq7"
       },
@@ -15176,6 +15288,24 @@
       "duration_ms": 100406,
       "name": "FLEUR DE PEAU",
       "url": "https://open.spotify.com/track/2da33m6eQRWNXEjX90HzhG"
+    },
+    {
+      "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj"
+      },
+      "artists": [
+        {
+          "name": "Alix Fernz",
+          "url": "https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184745,
+      "name": "Fleur en poly\u00e9thyl\u00e8ne",
+      "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
       "album": {
@@ -16324,7 +16454,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224782,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
@@ -16814,7 +16944,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155240,
       "name": "hana",
       "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
@@ -18656,7 +18786,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172646,
       "name": "J'ai beau essayer mais \u00e7a s'passe moyen",
       "url": "https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv"
@@ -20842,7 +20972,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221013,
       "name": "J\u2019avoue",
       "url": "https://open.spotify.com/track/5grgfM15jZnD9WRAQJ3jyg"
@@ -21736,6 +21866,24 @@
       "duration_ms": 252146,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/4Kok3bROsgIY8hAV8hZZrO"
+    },
+    {
+      "album": {
+        "name": "Les jardins d\u00e9rang\u00e9s",
+        "url": "https://open.spotify.com/album/6QaGfB9N4swFg69SEOUWfS"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "L'horizon",
+      "url": "https://open.spotify.com/track/3Zrvi1Xt8Djy0RU8ugmftB"
     },
     {
       "album": {
@@ -22898,6 +23046,28 @@
       "duration_ms": 213586,
       "name": "La Nuit r\u00e8gne",
       "url": "https://open.spotify.com/track/781hUmNWjtcKD7Gz0nVAMR"
+    },
+    {
+      "album": {
+        "name": "La peine",
+        "url": "https://open.spotify.com/album/5ZzNnKX8zV7iAONaQnRalt"
+      },
+      "artists": [
+        {
+          "name": "D-Track",
+          "url": "https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu"
+        },
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "La peine",
+      "url": "https://open.spotify.com/track/2eqde2wm6T2EBRcI3oLKS0"
     },
     {
       "album": {
@@ -25286,7 +25456,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220253,
       "name": "Les jardins d\u00e9rang\u00e9s",
       "url": "https://open.spotify.com/track/6xjwMXCXIg5pVtrNRdg9tA"
@@ -25596,6 +25766,24 @@
       "duration_ms": 184520,
       "name": "Les SI n'aiment pas les r\u00eaves",
       "url": "https://open.spotify.com/track/1mPaGZfVKayUK4v8BejVQ8"
+    },
+    {
+      "album": {
+        "name": "Les s\u00e9cheresses du Sahara",
+        "url": "https://open.spotify.com/album/3xu6QWThnNteVK7w0zmNbj"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197740,
+      "name": "Les s\u00e9cheresses du Sahara",
+      "url": "https://open.spotify.com/track/6ehM6SHvqgZAARovOr7cUv"
     },
     {
       "album": {
@@ -28930,7 +29118,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232760,
       "name": "Moishes Riopelle",
       "url": "https://open.spotify.com/track/0YWWxtubocRe3nb4tXuDDw"
@@ -29514,7 +29702,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240933,
       "name": "Montr\u00e9al - Avec Louis-Jean Cormier",
       "url": "https://open.spotify.com/track/6fR0LwJ6ZQaIk0RMBjtRjD"
@@ -29808,7 +29996,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Multicolore",
       "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
@@ -30708,7 +30896,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242869,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
@@ -34425,6 +34613,28 @@
     },
     {
       "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182081,
+      "name": "Port d'arme",
+      "url": "https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ"
+    },
+    {
+      "album": {
         "name": "Pour de Vrai",
         "url": "https://open.spotify.com/album/5JcvPcv2DJ51OEdOKrfZrw"
       },
@@ -34454,7 +34664,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141226,
       "name": "Position",
       "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
@@ -35504,7 +35714,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203368,
       "name": "Prot\u00e9ger et Servir",
       "url": "https://open.spotify.com/track/3CsD5Pl7fVItNzxuQ5rwYm"
@@ -37597,6 +37807,28 @@
     },
     {
       "album": {
+        "name": "Rue Dandurand (feat. Le Couleur) [Radio Edit]",
+        "url": "https://open.spotify.com/album/3dj2qkPCAea8t4lX51L0cU"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        },
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155348,
+      "name": "Rue Dandurand (feat. Le Couleur) [Radio Edit]",
+      "url": "https://open.spotify.com/track/0dzcCp79Af8Zy63Jcc4KVb"
+    },
+    {
+      "album": {
         "name": "Rue de l'ours (feat. Safia Nolin) [Remix]",
         "url": "https://open.spotify.com/album/15optAEiyxZOz7m69YGIdk"
       },
@@ -37950,7 +38182,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194540,
       "name": "Saga",
       "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
@@ -39004,7 +39236,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203893,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/09iCConrp2c78DObRUgiNP"
@@ -39743,6 +39975,24 @@
     },
     {
       "album": {
+        "name": "Parh\u00e9lie",
+        "url": "https://open.spotify.com/album/0sBmYOOGem7io7zYkdE3e0"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286922,
+      "name": "Soleil encaban\u00e9",
+      "url": "https://open.spotify.com/track/0oWcXec6E4OV10gke838Of"
+    },
+    {
+      "album": {
         "name": "Soleil Soleil (feat. November Ultra)",
         "url": "https://open.spotify.com/album/1kygkof72o5j6UUTyN5cks"
       },
@@ -39976,6 +40226,24 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "album": {
+        "name": "Something About Us",
+        "url": "https://open.spotify.com/album/4e3Mf5DerPgrCf0ALtgHqH"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Something About Us",
+      "url": "https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo"
     },
     {
       "album": {
@@ -41825,6 +42093,24 @@
     },
     {
       "album": {
+        "name": "Terres br\u00fbl\u00e9es",
+        "url": "https://open.spotify.com/album/6Zahhq9Qh1JB4gXam2EkkZ"
+      },
+      "artists": [
+        {
+          "name": "Myriam Gendron",
+          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373529,
+      "name": "Terres br\u00fbl\u00e9es",
+      "url": "https://open.spotify.com/track/4CqNS90gqsUCPBI0XIz8GY"
+    },
+    {
+      "album": {
         "name": "Tes mots couverture",
         "url": "https://open.spotify.com/album/6o93nVkzc6wEpa6QtemMDW"
       },
@@ -43287,6 +43573,24 @@
     },
     {
       "album": {
+        "name": "Trompe-l'oeil",
+        "url": "https://open.spotify.com/album/6cuvswbgSkYojNo21x3Sjy"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Trompe-l'oeil",
+      "url": "https://open.spotify.com/track/1dYcCuAw9dBtc2eGZ490hc"
+    },
+    {
+      "album": {
         "name": "Trop grand ici",
         "url": "https://open.spotify.com/album/3S87e7C5pMtzaAJ5G035Kf"
       },
@@ -43870,7 +44174,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241240,
       "name": "tunnel",
       "url": "https://open.spotify.com/track/43tIV7UcEW6XrvhtRBJGd6"
@@ -45942,7 +46246,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183453,
       "name": "What We Doing!? / Qu'est-ce qu'on fait!?",
       "url": "https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn"

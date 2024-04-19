@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 282560,
       "name": "Abre a Janela",
       "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214798,
       "name": "Eleva",
       "url": "https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268706,
       "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
       "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163250,
       "name": "Fica um Pouco Mais",
       "url": "https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1"
@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Flor de Aruanda",
+        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183146,
+      "name": "Flor de Aruanda",
+      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
+    },
+    {
+      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 242948,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
@@ -778,7 +796,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227294,
       "name": "Love So Strong",
       "url": "https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p"
@@ -803,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Manh\u00e3s Azuis",
+        "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
+      },
+      "artists": [
+        {
+          "name": "Rafa!",
+          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Manh\u00e3s Azuis",
+      "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
+    },
+    {
+      "album": {
         "name": "Me Beija",
         "url": "https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk"
       },
@@ -814,7 +850,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179816,
       "name": "Me Beija",
       "url": "https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM"
@@ -890,7 +926,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 254858,
       "name": "Na Jornada - Remasterizado",
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 187884,
       "name": "O Amor Venceu",
       "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
@@ -1161,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
+        "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
+      },
+      "artists": [
+        {
+          "name": "Mateus Menezes",
+          "url": "https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Pra Que Fazer Assim? - Vers\u00e3o Instrumental",
+      "url": "https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT"
+    },
+    {
+      "album": {
         "name": "Praia do Rosa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
       },
@@ -1286,7 +1340,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240003,
       "name": "Que Vem Do Mar",
       "url": "https://open.spotify.com/track/0HnnjltageT1ZwKjVeG1u8"
@@ -1330,7 +1384,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
@@ -1504,7 +1558,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 173269,
       "name": "Se Joga",
       "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
@@ -1540,7 +1594,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192446,
       "name": "sei l\u00e1",
       "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
@@ -1742,7 +1796,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217941,
       "name": "Tchau Querido",
       "url": "https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8"
@@ -1804,6 +1858,24 @@
       "duration_ms": 275253,
       "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
       "url": "https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun"
+    },
+    {
+      "album": {
+        "name": "Todo Corpo",
+        "url": "https://open.spotify.com/album/2nwFfB3kFNkM9qehdqmxNm"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9loa",
+          "url": "https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220431,
+      "name": "Todo Corpo",
+      "url": "https://open.spotify.com/track/1MvZd2Ti0NJvYr58bBArn3"
     },
     {
       "album": {
@@ -2003,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Pre\u00e7o Curto, Prazo Longo",
+        "url": "https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252226,
+      "name": "Z\u00f3io De Lula",
+      "url": "https://open.spotify.com/track/0AsfpL8bzbmEyJsfbPPYnj"
+    },
+    {
+      "album": {
         "name": "Transpira\u00e7\u00e3o Cont\u00ednua Prolongada - Edi\u00e7\u00e3o Comemorativa",
         "url": "https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp"
       },
@@ -2014,7 +2104,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252226,
       "name": "Z\u00f3io De Lula",
       "url": "https://open.spotify.com/track/0qmzAFEijLDdvR2VbjFsPH"

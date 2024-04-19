@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,337 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 3 | [American Love \- Acoustic](https://open.spotify.com/track/4KxTDnSUNHtoN4Y0fYSUMd) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [American Love](https://open.spotify.com/album/2GobXOMJEUsQPJj4TPfiYl) | 3:01 |
 | 4 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/22s7GSnCQ2DlIaeM3mR9Bt) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Notes](https://open.spotify.com/album/7yHniZiIQiLjnDFJ2bgMen) | 3:04 |
 | 5 | [Rora \- Acoustic Version](https://open.spotify.com/track/7qmbGryDNg60fzUSRSbIOE) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora \(Acoustic Version\)](https://open.spotify.com/album/3RGNG2XnuR5cssGXtMjxj1) | 2:30 |
-| 6 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 |
+| 6 | [Be Honest \- Acoustic](https://open.spotify.com/track/7bDCBn5W4rLCQAJiUAymCk) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lost & Found](https://open.spotify.com/album/6rr0eXdvaplCmUWqT1t1Dp) | 3:11 |
 | 7 | [Smile For Me \- Acoustic Version](https://open.spotify.com/track/3kLRL0oEwf04wmvZtnQrsU) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet \(Acoustic Version\)](https://open.spotify.com/album/1MOVCeOpDDjssBPl0uiRBz) | 3:28 |
-| 8 | [i'm a mess \- stripped](https://open.spotify.com/track/1JiFcq82Ktk47AKbWkx434) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped\)](https://open.spotify.com/album/5Lr6mYqzGlUk9G4aPAetVk) | 2:33 |
+| 8 | [i'm a mess \(stripped version\)](https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped version\)](https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK) | 2:33 |
 | 9 | [Last Last Mashup](https://open.spotify.com/track/2EjFHEvXusf4IL2f5XGBeZ) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW), [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [Last Last Mashup](https://open.spotify.com/album/3uFuyvGogCxtUNZgCf32S9) | 2:22 |
 | 10 | [Your Body \- Acoustic](https://open.spotify.com/track/3oFeYtCozau0mRTzDV92H7) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Acoustic\)](https://open.spotify.com/album/3XZ6nx117dwC2emyIfacwU) | 3:26 |
 | 11 | [Kuliko Jana \- Acapella version](https://open.spotify.com/track/38Jnks0lBpHT8pfdGQsLI4) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [RedFourth Chorus](https://open.spotify.com/artist/4yPKgjg5Mz0GEqaT387cRd) | [Kuliko Jana \(Acapella version\)](https://open.spotify.com/album/2fB9vC3cFeko0ZCSyJzBkX) | 5:10 |

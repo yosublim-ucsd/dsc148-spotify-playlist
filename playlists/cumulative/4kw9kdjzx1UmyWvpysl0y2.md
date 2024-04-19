@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-705 songs - 1 day 16 hr 41 min
+707 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Fang](https://open.spotify.com/track/5DqGY6XxhHePdeKNfexYvE) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Fang](https://open.spotify.com/album/40qbM7Ukx5gWfZXreoYX2H) | 3:44 | 2023-11-06 | 2024-02-21 |
 | [FAR OUT](https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT](https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra) | 3:24 | 2023-02-21 | 2023-05-13 |
 | [FAR OUT \- VIP](https://open.spotify.com/track/7MkQcCKy90nZcoHGOdA7N8) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT \(VIP\)](https://open.spotify.com/album/1wIr5DAKLanHRO0E8DU7za) | 3:51 | 2023-12-06 | 2024-03-20 |
+| [FASTEST](https://open.spotify.com/track/2SFTvk2vpu26ZTpMuO3cjW) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [FASTEST](https://open.spotify.com/album/6PPdZI6Qg0AzTS10i2qxwl) | 2:30 | 2024-04-17 |  |
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
 | [Feeling Free](https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Feeling Free](https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB) | 2:59 | 2023-09-05 | 2023-12-14 |
@@ -370,6 +371,7 @@
 | [Losing Control](https://open.spotify.com/track/2UsEuBZl1HRTe8BLfApoMt) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:42 | 2022-11-19 | 2022-11-22 |
 | [Losing My Mind](https://open.spotify.com/track/0YYghi9h8fntXyNlOfbMJl) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Avrii Castle](https://open.spotify.com/artist/0UqWEQATGeW7cOGCg1bVO8) | [Losing My Mind](https://open.spotify.com/album/4ZCJtrMnf06BuEeFJT5E7l) | 2:48 | 2022-09-23 | 2022-11-29 |
 | [Lost & Found](https://open.spotify.com/track/5ids0N0UPvFHDYDtvDgVCl) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Lost & Found](https://open.spotify.com/album/1Qpo82QvvoXCawctSQfNNJ) | 3:57 | 2022-02-21 | 2022-05-03 |
+| [Lost Call](https://open.spotify.com/track/3zpbvOJzNlCm6BsDmegds3) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Lost Call / Underwater](https://open.spotify.com/album/3NIN1m1TRqzS3H28lE1jeV) | 4:37 | 2024-04-18 |  |
 | [Lost My Way](https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Lost My Way](https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7) | 3:06 | 2023-11-03 | 2024-02-16 |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
 | [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 | 2023-04-21 |
@@ -656,7 +658,7 @@
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [U & Me \- Vincent Remix](https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [U & Me \(Vincent Remix\)](https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J) | 3:58 | 2024-04-08 |  |
 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 | 2023-03-24 | 2023-06-20 |
-| [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 | 2024-01-29 |  |
+| [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 | 2024-01-29 | 2024-04-19 |
 | [Uatchu](https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Uatchu](https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw) | 4:37 | 2021-11-19 | 2022-01-25 |
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-02-24 | 2022-05-07 |
 | [Unbound](https://open.spotify.com/track/7Ga0UUOoWhScCqfsIBZcS1) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Unbound](https://open.spotify.com/album/65xq8ZR0EEGPJ21w4bivCI) | 3:43 | 2023-01-18 | 2023-04-05 |

@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232566,
+  "num_followers": 232559,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -155,8 +155,8 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Musicas para Churrasco, Vol.1 (Ao Vivo) (Delux Edition)",
-        "url": "https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah"
+        "name": "M\u00fasicas Para Churrasco Vol.1 Ao Vivo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RnUHSj1pNqVeWvQbEvqzI"
       },
       "artists": [
         {
@@ -165,132 +165,8 @@
         }
       ],
       "duration_ms": 551933,
-      "name": "Tive Raz\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4RQmuUT5DBOvnlewygH5Vy"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
-      },
-      "artists": [
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 182860,
-      "name": "Teu Segredo - Ao Vivo",
-      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Sambabook Dona Ivone Lara, Vol. 2",
-        "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
-      },
-      "artists": [
-        {
-          "name": "Sambabook",
-          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
-        },
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        },
-        {
-          "name": "Delcio Carvalho",
-          "url": "https://open.spotify.com/artist/0aYIJDtwspSbUCDEOJNbcn"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        },
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        },
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        },
-        {
-          "name": "Carminho",
-          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
-        },
-        {
-          "name": "Luiza Dion\u00edsio",
-          "url": "https://open.spotify.com/artist/0MjSZ7nMuEBukUZsRYquqf"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Aline Calixto",
-          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
-        },
-        {
-          "name": "Bruno Castro",
-          "url": "https://open.spotify.com/artist/5zuSZ0T9iRss0BaobIc6Xm"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Reinaldo",
-          "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
-        },
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        }
-      ],
-      "duration_ms": 228132,
-      "name": "Sonho Meu",
-      "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
+      "name": "Tive Raz\u00e3o - Live",
+      "url": "https://open.spotify.com/track/3GKOAWCxKK7y1Rhb0Q0FaG"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -363,116 +239,8 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Sambabook Jo\u00e3o Nogueira, 2",
-        "url": "https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH"
-      },
-      "artists": [
-        {
-          "name": "Sambabook",
-          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
-        },
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        },
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        },
-        {
-          "name": "Dudu Nobre",
-          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
-        },
-        {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        },
-        {
-          "name": "Gisa Nogueira",
-          "url": "https://open.spotify.com/artist/5jJWOdj0Sn9Spis0JYZYRp"
-        },
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        },
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Leny Andrade",
-          "url": "https://open.spotify.com/artist/0cWAA0nMjRXh8o61j3hUgm"
-        },
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        },
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        }
-      ],
-      "duration_ms": 278853,
-      "name": "Clube do Samba",
-      "url": "https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
       },
       "artists": [
         {
@@ -480,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+      "duration_ms": 178613,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -599,22 +367,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Mundu\u00ea",
-        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -635,28 +387,8 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
       },
       "artists": [
         {
@@ -664,9 +396,41 @@
           "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Cartola (1974)",
+        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 119560,
+      "name": "Festa Da Vinda",
+      "url": "https://open.spotify.com/track/5KfWGOC0Ql9ATrCVw3w3ky"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Gostoso Veneno",
+        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Gostoso Veneno",
+      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -735,6 +499,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Argumento",
+      "url": "https://open.spotify.com/track/5SK175I291bHHcroTHUwQn"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Quatro Grandes Do Samba",
         "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
       },
@@ -767,6 +547,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Nova Bis - Clara Nunes",
+        "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "\u00ca Baiana",
+      "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -795,22 +591,6 @@
       "duration_ms": 140706,
       "name": "Saudosa Maloca",
       "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Mund\u00e3o de Ouro",
-        "url": "https://open.spotify.com/album/68RAcI96T1s2u23uMJbAhm"
-      },
-      "artists": [
-        {
-          "name": "Riach\u00e3o",
-          "url": "https://open.spotify.com/artist/4DehzNT3tR37NB0Nz1iHBD"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Eu Vou Chegando",
-      "url": "https://open.spotify.com/track/3Yugu3Z6fUcFktCG5O6B5b"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -851,6 +631,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "No Pagode Do Vav\u00e1",
+      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "A Voz Do Samba (Disco 03)",
         "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
       },
@@ -883,26 +679,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Tudo Azul",
-        "url": "https://open.spotify.com/album/6POI5YwQbVMnplbryMA4VT"
-      },
-      "artists": [
-        {
-          "name": "VELHA GUARDA DA PORTELA",
-          "url": "https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Volta, Meu Amor",
-      "url": "https://open.spotify.com/track/1izDPzew6TdIcAJVN4XIyj"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
       },
@@ -919,22 +695,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
-        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Nogueira",
-          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Boteco do Arlindo",
-      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Zeca Pagodinho",
         "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
       },
@@ -947,6 +707,22 @@
       "duration_ms": 203000,
       "name": "Spc",
       "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -995,6 +771,54 @@
       "duration_ms": 222600,
       "name": "Partideiro Sem N\u00f3 Na Garganta",
       "url": "https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Tudo Que Sou, Vol. 1: Fragmentos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW"
+      },
+      "artists": [
+        {
+          "name": "Toninho Geraes",
+          "url": "https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp"
+        }
+      ],
+      "duration_ms": 267545,
+      "name": "Alma Bo\u00eamia - Ao Vivo",
+      "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Da M\u00fasica",
+        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz & Sombrinha",
+          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
+        }
+      ],
+      "duration_ms": 264466,
+      "name": "Pintou uma Lua L\u00e1",
+      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Leviano",
+        "url": "https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 172329,
+      "name": "Cora\u00e7\u00e3o Leviano",
+      "url": "https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh"
     }
   ],
   "unique_name": "Caipirinha",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: Las Migas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,335 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,341 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 61 | [Mi vida huele a flor \(un poema de Elvira Sastre\)](https://open.spotify.com/track/4wiJZp4e3wOhfEbL37JpYT) | [IDOIA](https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC) | [de amar y desandar](https://open.spotify.com/album/6bCPUu2cXzHjXFo2Q1Cr3U) | 4:19 |
 | 62 | [Rodeo](https://open.spotify.com/track/0GlSLP107DYH7nI86YfEBw) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [Rodeo](https://open.spotify.com/album/5pzxJAMgzKDPVTlGfMV3Wc) | 2:39 |
 | 63 | [Afonía de alma](https://open.spotify.com/track/1t5H48bBmtLbVL4DTnhoXv) | [Amigas!](https://open.spotify.com/artist/243UeGFUgHCAUPhSIbq3TU) | [Afonía de alma](https://open.spotify.com/album/78keoyzmv16k74SkHoFtvZ) | 2:50 |
-| 64 | [DALIA](https://open.spotify.com/track/3Xbfw78yztbv6R2zfcGvop) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/0u1yJMuQns6J1hniZEJ4YP) | 3:32 |
+| 64 | [DALIA](https://open.spotify.com/track/1cvaWa3yUprEFJE7LHSwYs) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/3R2jNXD3phm411Luzlz1DJ) | 3:32 |
 | 65 | [123 YA!](https://open.spotify.com/track/48V5lN2fokza355mAasROE) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [123 YA!](https://open.spotify.com/album/1MqFRIncqXKz48Mh1kS6od) | 2:07 |
 | 66 | [No somos pájaros](https://open.spotify.com/track/18crGp8t8TxXuwVufKOqGs) | [Marta Tchai](https://open.spotify.com/artist/3VQzBiPA8ZCfnG1s8eG9rh) | [No somos pájaros](https://open.spotify.com/album/44PWx5YfSJo6EFkfGmecHy) | 3:59 |
 | 67 | [EL EFECTO](https://open.spotify.com/track/5f9HgP1p3UrQBXVLlr2WAW) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [EL EFECTO](https://open.spotify.com/album/1HauBEtxwBAxYdwPG1akdd) | 2:30 |

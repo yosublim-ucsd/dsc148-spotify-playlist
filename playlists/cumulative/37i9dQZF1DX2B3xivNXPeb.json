@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186394,
       "name": "BBQ Energy",
       "url": "https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2"
@@ -994,6 +994,24 @@
     {
       "album": {
         "name": "Burning Up",
+        "url": "https://open.spotify.com/album/2O7lCJJPHzaX5yUh9ccOvx"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/2rzqGu37uhvlItBepRgHpK"
+    },
+    {
+      "album": {
+        "name": "Burning Up",
         "url": "https://open.spotify.com/album/1R584CKmkHdy2sBzyeNN5D"
       },
       "artists": [
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194333,
       "name": "Burning Up",
       "url": "https://open.spotify.com/track/3i7ENwWlZ5yLWvQqhuTuzu"
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189306,
       "name": "Courtyard Theatre",
       "url": "https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd"
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195037,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy"
@@ -2028,6 +2046,32 @@
       "duration_ms": 202170,
       "name": "Gonna Be Okay",
       "url": "https://open.spotify.com/track/3fxawBiMArwkgB7pljKAw4"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/06Z0BQS2kSZUPtzK3D56tw"
+      },
+      "artists": [
+        {
+          "name": "Shaznay Lewis",
+          "url": "https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2"
+        },
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240503,
+      "name": "Good Mourning",
+      "url": "https://open.spotify.com/track/0M1MpH0RHZuYYqN2wkBBBV"
     },
     {
       "album": {
@@ -2922,10 +2966,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252200,
       "name": "Inspiration Information",
       "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
+    },
+    {
+      "album": {
+        "name": "INSPIRATION INFORMATION",
+        "url": "https://open.spotify.com/album/5EvsfavFbWpzcg3VNLQEOF"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252293,
+      "name": "Inspiration Information",
+      "url": "https://open.spotify.com/track/6qH6xP8tzxvZlCcmHit4AL"
     },
     {
       "album": {
@@ -3178,7 +3240,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216160,
       "name": "Kitchen Sunset",
       "url": "https://open.spotify.com/track/2W4vCfd2QEYhgKA2UNwRch"
@@ -3442,10 +3504,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 171958,
       "name": "Lights are Dancing",
       "url": "https://open.spotify.com/track/3eAfr9tTURvobS4FGr7zMk"
+    },
+    {
+      "album": {
+        "name": "limerence",
+        "url": "https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187822,
+      "name": "limerence",
+      "url": "https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc"
     },
     {
       "album": {
@@ -4016,7 +4096,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
@@ -4070,7 +4150,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192835,
       "name": "ordinary love",
       "url": "https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch"
@@ -4088,7 +4168,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 192835,
       "name": "ordinary love",
       "url": "https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE"
@@ -4124,7 +4204,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Outrun This Feeling",
       "url": "https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8"
@@ -4178,7 +4258,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 215336,
       "name": "Over When It's Over",
       "url": "https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv"
@@ -4196,7 +4276,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215336,
       "name": "Over When It's Over",
       "url": "https://open.spotify.com/track/5r4qu6EI4ptv8NudzUzycx"
@@ -4553,6 +4633,42 @@
     },
     {
       "album": {
+        "name": "Same Road",
+        "url": "https://open.spotify.com/album/6yMBwaR4mmcVy9PJ1PwidD"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225749,
+      "name": "Same Road",
+      "url": "https://open.spotify.com/track/5Hbmizr0ss3edCuh5d6eNT"
+    },
+    {
+      "album": {
+        "name": "Caustic Love",
+        "url": "https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189566,
+      "name": "Scream (Funk My Life Up)",
+      "url": "https://open.spotify.com/track/2W58wKH0UciMzGl7Ot19DY"
+    },
+    {
+      "album": {
         "name": "Caustic Love",
         "url": "https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO"
       },
@@ -4753,6 +4869,24 @@
     },
     {
       "album": {
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP"
+    },
+    {
+      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
@@ -4764,7 +4898,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232080,
       "name": "So Sick Of Dreaming",
       "url": "https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC"
@@ -5230,6 +5364,24 @@
     {
       "album": {
         "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST"
+    },
+    {
+      "album": {
+        "name": "Take My Heart",
         "url": "https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI"
       },
       "artists": [
@@ -5258,7 +5410,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
@@ -5294,7 +5446,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186000,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW"
@@ -5420,7 +5572,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166766,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1oWGuXvVbZkAoQdCKENnF8"
@@ -5605,6 +5757,28 @@
     },
     {
       "album": {
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/0R6cd6EA20yOY5aerIPHyg"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        },
+        {
+          "name": "Tiece",
+          "url": "https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "The Love I Need",
+      "url": "https://open.spotify.com/track/668KYurfiwnnJNBH4jv7dI"
+    },
+    {
+      "album": {
         "name": "'Justments",
         "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
@@ -5728,7 +5902,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
@@ -5916,10 +6090,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "album": {
@@ -6006,7 +6198,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183963,
       "name": "Us",
       "url": "https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e"

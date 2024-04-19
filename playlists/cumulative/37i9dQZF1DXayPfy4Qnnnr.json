@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Contes, vents et mar\u00e9es",
       "url": "https://open.spotify.com/track/3Y4HzUg1dQGheNoTqz1BMZ"
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Deux, trois trucs",
+        "url": "https://open.spotify.com/album/3koj7cBNbJ2cICgr4HNk6I"
+      },
+      "artists": [
+        {
+          "name": "Les Tit' Nassels",
+          "url": "https://open.spotify.com/artist/1cZthYGjUVOGcPbymiznkC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185906,
+      "name": "Emm\u00e8ne-moi",
+      "url": "https://open.spotify.com/track/4ulUmNlJ8LxT49lT5gXHkV"
+    },
+    {
+      "album": {
         "name": "Prison Dor\u00e9e (Nouvelle Edition)",
         "url": "https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220866,
       "name": "Ginette",
       "url": "https://open.spotify.com/track/5jGN1aPoIYI8r2y9H2p9nf"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202173,
       "name": "J'aurais bien voulu",
       "url": "https://open.spotify.com/track/04sJ4GGfVm1fVpJvBQGngk"
@@ -315,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Le Mal De Vivre",
+        "url": "https://open.spotify.com/album/2LE9YgAyu2SdcqsmXI6hgE"
+      },
+      "artists": [
+        {
+          "name": "Au P'Tit Bonheur",
+          "url": "https://open.spotify.com/artist/6aA4f67AL9W1VxtO78M06b"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "J'veux du soleil",
+      "url": "https://open.spotify.com/track/0L4JEAhghqIcwjVyMJv8Yw"
+    },
+    {
+      "album": {
         "name": "Stupeflip",
         "url": "https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a"
       },
@@ -330,7 +366,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196920,
       "name": "Je fume pu d'shit",
       "url": "https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F"
@@ -370,7 +406,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 226866,
       "name": "Kana diskan",
       "url": "https://open.spotify.com/track/3DDozsIhKdjaOhnEPwn9H3"
@@ -932,7 +968,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108666,
       "name": "Poupine et Thierry",
       "url": "https://open.spotify.com/track/76tXsaonHTv3eDSnUIbimx"
@@ -1040,7 +1076,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203186,
       "name": "T'as la touche Manouche",
       "url": "https://open.spotify.com/track/6vRGcTdpMrjxAxj4302PUD"
@@ -1116,6 +1152,24 @@
       "duration_ms": 177760,
       "name": "Vivant",
       "url": "https://open.spotify.com/track/0khmGOdZlWxnB6hKLeE2y4"
+    },
+    {
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/6eHq4R3wNjPZdlHjzYIvLl"
+      },
+      "artists": [
+        {
+          "name": "Collectif 13",
+          "url": "https://open.spotify.com/artist/3i55ORsQQWzrt0Z9jqXqOs"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "Vivant",
+      "url": "https://open.spotify.com/track/0zPtUnDs7cHNjBgEm14mSd"
     },
     {
       "album": {

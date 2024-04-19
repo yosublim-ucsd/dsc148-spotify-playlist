@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/laurenlondon/">Lauren London</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,988 likes - 57 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991 likes - 57 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
-| 2 | [God Morning](https://open.spotify.com/track/178oVeafbxJ3hyx1aLOczd) | [Natalie Lauren](https://open.spotify.com/artist/0v4qnnnTMi9mgN3DUxCfHK) | [Handle With Care](https://open.spotify.com/album/4R4gWALHVJ2tZLWAA6VSyH) | 3:23 |
+| 2 | [God Morning](https://open.spotify.com/track/03UO77f0ccKwUjn46ArnSW) | [Natalie Lauren](https://open.spotify.com/artist/0v4qnnnTMi9mgN3DUxCfHK) | [Handle With Care](https://open.spotify.com/album/1D2jhyc76BTvA5wyJ1cTdi) | 3:23 |
 | 3 | [I Ain't Stressin' Today](https://open.spotify.com/track/4hDKQKIKBKcOJWICgBMtQq) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [I Ain't Stressin' Today](https://open.spotify.com/album/6YIwrIxcgoOvbDB5M6N7wu) | 2:49 |
 | 4 | [BE OK](https://open.spotify.com/track/2qzByN3XSyRZAOJA5CBsQV) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [CLEAR](https://open.spotify.com/album/5Awez3x6KU5lKsHCJjGWWi) | 3:24 |
 | 5 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 | 23 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 |
 | 24 | [Forgive Them \- Live](https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Forgive Them \(Live\)](https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa) | 4:03 |
 | 25 | [Sun + Moon](https://open.spotify.com/track/56JJaTfrkSJzqkUtz9NhmA) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:39 |
-| 26 | [Pure Gold](https://open.spotify.com/track/3SLjWC7ijFemgCefXuR1Qp) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 4:40 |
+| 26 | [Pure Gold](https://open.spotify.com/track/1Loq0v4EtOpfSgJpZo6ptH) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Illumination](https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM) | 4:40 |
 | 27 | [Speak Life](https://open.spotify.com/track/6SshTaATeLphs8rVagtKRo) | [Precious J](https://open.spotify.com/artist/41fRrcy0vhmvQq2LjDLRFh) | [Precious Points Volume 1](https://open.spotify.com/album/6lXULtLRxUJzLSvnlVOMZb) | 2:49 |
 | 28 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 |
 | 29 | [Son Shine](https://open.spotify.com/track/2Ohu1ERZnAuaCzi7N5ngRK) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 3:16 |

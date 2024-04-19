@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Imogen and the Knife
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,771 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,786 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mother of God](https://open.spotify.com/track/7BgujQxrgPgmEzkpPQI81l) | [Imogen and the Knife](https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY) | [Mother of God](https://open.spotify.com/album/7hRVnMKaiBRMwWkmEjjqaL) | 3:15 |
-| 2 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 |
+| 2 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/2C0fTD8sK5gNETLEg5PqUj) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE](https://open.spotify.com/album/71gslL2qa2QaPuZvQsWihW) | 3:08 |
 | 3 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 |
 | 4 | [My Thoughts Go](https://open.spotify.com/track/0HgiTjbuOBalJw2QgDlR0H) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [My Thoughts Go](https://open.spotify.com/album/2Xmyy15pLd7NwLjc1PAjXT) | 3:42 |
 | 5 | [Passing Judgment](https://open.spotify.com/track/1R2dM4T5lrnAk2Ajp0s1PA) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [All In One](https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg) | 3:58 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 28 | [A Track In Orbit](https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [A Track In Orbit](https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te) | 2:31 |
 | 29 | [placebo dreams](https://open.spotify.com/track/3akppgRklUClRW0d08fh8D) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi), [priestess](https://open.spotify.com/artist/3JDhZBUZGHTTc4Z6B1NzNj) | [placebo dreams](https://open.spotify.com/album/5IGoPEWBSxWZgQw1UmvOXK) | 2:24 |
 | 30 | [This Is Not The End](https://open.spotify.com/track/20OZFpJWz3ojDCNKfIbrmx) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heaven Sent](https://open.spotify.com/album/1tghmd68kDvjfM9zf0obnm) | 3:16 |
-| 31 | [Got It Made](https://open.spotify.com/track/4Fhe5EXinW5m77hmIb0V6B) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Got It Made](https://open.spotify.com/album/2cWL1gAsdlE6jAp4g4Fic6) | 3:33 |
+| 31 | [Got It Made](https://open.spotify.com/track/3kbpQSZWt561MsdrRUwkyI) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Got It Made](https://open.spotify.com/album/2Dtv2VvJBunfAyELfXBS1Y) | 3:33 |
 | 32 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 |
 | 33 | [Concrete](https://open.spotify.com/track/3dFZkn6TmBxv1AyuMdKZ3Y) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Better Days](https://open.spotify.com/album/6hfaHD2ncymALJD3g1df2c) | 2:22 |
 | 34 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 37 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 |
 | 38 | [Spirit Folio](https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [Spirit Folio](https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4) | 4:04 |
 | 39 | [King Size Slim](https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Title Track](https://open.spotify.com/album/08gFnRmxpci80sjhTkdFvL) | 4:24 |
-| 40 | [Business As Usual](https://open.spotify.com/track/3VBuguF3LDcfe5ASmHwOrf) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Business As Usual](https://open.spotify.com/album/4o3UY5DJ6KsZzHxBLsHjkN) | 3:23 |
+| 40 | [Business As Usual](https://open.spotify.com/track/0wlM6ob7PFbUQSamDGT5No) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Business As Usual](https://open.spotify.com/album/5Q6OigtVlM8tFCr3ebBrOC) | 3:23 |
 | 41 | [Toothache](https://open.spotify.com/track/0AyKfB8CNXhohSuOfenvpO) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Toothache](https://open.spotify.com/album/67lWLXOlTjMwtfdrgTMElp) | 3:06 |
 | 42 | [Headspace](https://open.spotify.com/track/6Ciqo08MA2NF2lgWiNi8u4) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Headspace](https://open.spotify.com/album/649jLqVMfUAXVgJ3zgqegv) | 4:39 |
 | 43 | [Hex](https://open.spotify.com/track/6yopQomQqrwmXTAUwQrp30) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Hex](https://open.spotify.com/album/6oE1ZAoKvEzA8LK43TWv81) | 2:37 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 45 | [Des Goblin](https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Des Goblin](https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB) | 4:16 |
 | 46 | [How To Disappear](https://open.spotify.com/track/2q1uTb4UGj9T7nPiFR2Kwo) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1EuVYwdFz5QnhJVzUEu81A) | 5:11 |
 | 47 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 |
-| 48 | [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 |
+| 48 | [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 |
 | 49 | [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 |
 | 50 | [Dead Poets Society](https://open.spotify.com/track/0tZOLoCGFPHuR2NPbuqHfE) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:43 |
 

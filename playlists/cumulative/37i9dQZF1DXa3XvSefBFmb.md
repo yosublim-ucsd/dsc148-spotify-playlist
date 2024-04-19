@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Marisa Liz, com o volume no máximo.
 
-793 songs - 1 day 19 hr 51 min
+794 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,7 +572,8 @@
 | [Podia Ser](https://open.spotify.com/track/26MrVseLs5Ncp0nYIFMV1e) | [Gabriela Couto](https://open.spotify.com/artist/4Uj1Qt9vL0Hu6q9ZPKgOjz) | [Podia Ser](https://open.spotify.com/album/4Sc8REBwQZfCZ7Y6wtrht0) | 3:14 | 2023-05-02 | 2023-06-07 |
 | [Poeta](https://open.spotify.com/track/2S7ZF4c4ZrDFuthTA5MAJ7) | [Ana Mariano](https://open.spotify.com/artist/7MUZ4F7lryA5Hf2d2aTafU) | [Poeta](https://open.spotify.com/album/7b0GyYsfFIDIzMjILZoMNq) | 3:23 | 2022-10-04 | 2022-12-01 |
 | [Poetas](https://open.spotify.com/track/2G3Yxf3AmrNC4y1RKth7R0) | [Alice](https://open.spotify.com/artist/5mS2UiwMkDbMqD7w6BbPSN) | [Poetas](https://open.spotify.com/album/3AjEX2nSy400jNnGdYL1Uo) | 2:47 | 2024-03-06 | 2024-04-03 |
-| [Ponte de Luz](https://open.spotify.com/track/1HNr6b2TxwZ8yxuCU9jTMq) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Xinti](https://open.spotify.com/album/2dmW4NVAqxEamemXzCppBs) | 4:25 | 2024-03-06 |  |
+| [Ponte de Luz](https://open.spotify.com/track/1HNr6b2TxwZ8yxuCU9jTMq) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Xinti](https://open.spotify.com/album/2dmW4NVAqxEamemXzCppBs) | 4:25 | 2024-03-06 | 2024-04-19 |
+| [Ponto De Luz](https://open.spotify.com/track/3GILmlmzkVB6ztrLvqjUTF) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Xinti](https://open.spotify.com/album/30XUQP4eHCi0gGvVFRZCD0) | 4:27 | 2024-04-05 |  |
 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 | 2024-02-07 |  |
 | [Por Mais Que Tente](https://open.spotify.com/track/2hTRVUQcC0SdW0tLnS0Tf8) | [NEIVA](https://open.spotify.com/artist/7hoGIV9g5Ttfr02HGDrJr2) | [SILHUETAS](https://open.spotify.com/album/5fcOQ85vmHs9tC3YloLtBz) | 3:20 | 2024-04-03 |  |
 | [Por Quem Me Trocaram](https://open.spotify.com/track/3ZOGcPpMqBmUj2BiHO8epG) | [Maia Balduz](https://open.spotify.com/artist/7ySlTjntwjPRkxfxuMCaEu) | [Por Quem Me Trocaram](https://open.spotify.com/album/6e1m6dNSOgZQbiZwc0LB0d) | 3:53 | 2024-02-07 | 2024-03-06 |

@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\. Foto: Las Migas.
 
-1,209 songs - 2 day 13 hr 22 min
+1,210 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 | 2023-07-04 | 2023-08-02 |
 | [CÓMO TE LLAMAS](https://open.spotify.com/track/1pt5QEZyzdCD5eDe2xzg78) | [Karlisha](https://open.spotify.com/artist/4MJnVJ6UeJY0WcULSDdu18), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [CÓMO TE LLAMAS](https://open.spotify.com/album/1XSw373fhHPCU0KKzc3Fqf) | 3:19 | 2023-08-01 | 2023-09-06 |
 | [Daikiri](https://open.spotify.com/track/36fFR5Dev1Q4sBzwLSp4AN) | [Sweet Aroha](https://open.spotify.com/artist/239oOcVIqLlsYWE74ttLnC) | [Daikiri](https://open.spotify.com/album/6NiZ3NSIuVeFzllXVAblMK) | 2:49 | 2023-02-01 | 2023-03-01 |
-| [DALIA](https://open.spotify.com/track/3Xbfw78yztbv6R2zfcGvop) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/0u1yJMuQns6J1hniZEJ4YP) | 3:32 | 2024-04-02 |  |
+| [DALIA](https://open.spotify.com/track/1cvaWa3yUprEFJE7LHSwYs) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/3R2jNXD3phm411Luzlz1DJ) | 3:32 | 2024-04-03 |  |
+| [DALIA](https://open.spotify.com/track/3Xbfw78yztbv6R2zfcGvop) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [DALIA](https://open.spotify.com/album/0u1yJMuQns6J1hniZEJ4YP) | 3:32 | 2024-04-02 | 2024-04-19 |
 | [Dame](https://open.spotify.com/track/5sS4Zsq2qp3vSs51C1HW6z) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Dame](https://open.spotify.com/album/0zVqUBWVpL69qYvS003p7h) | 2:38 | 2023-07-04 | 2023-08-02 |
 | [dame dame dame eso](https://open.spotify.com/track/4OgkUKE6zYulJKgwjnoaRt) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [es que acaso no me oyes??](https://open.spotify.com/album/1GGSHZuMMzpiiCZILnIrp2) | 3:29 | 2024-02-07 | 2024-03-06 |
 | [DAME UN BESITO](https://open.spotify.com/track/2MA7sCWNMeQb2ydEahUGfL) | [Jaqui Lin](https://open.spotify.com/artist/0n8IwT2DDwKkw04RnS6J3j) | [DAME UN BESITO](https://open.spotify.com/album/2yoJ8P03D1LjfsFt8W0d5F) | 3:53 | 2022-02-01 | 2022-03-08 |

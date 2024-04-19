@@ -70,10 +70,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354773,
       "name": "Bad Magic",
       "url": "https://open.spotify.com/track/7mSVXtwJgJSZ84cJSGleQX"
+    },
+    {
+      "album": {
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7s56HmaWbsRxiw1yfy8Psq"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354782,
+      "name": "Bad Magic",
+      "url": "https://open.spotify.com/track/5Cq9k53BuWnyKYqEb5GAaW"
     },
     {
       "album": {
@@ -150,7 +168,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 269448,
       "name": "Built on Bones",
       "url": "https://open.spotify.com/track/1lpUCvji6ZrKCYCqWhwxdK"
@@ -176,7 +194,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269448,
       "name": "Built on Bones",
       "url": "https://open.spotify.com/track/2DWtUDZiihXBBAj7t8LGld"
@@ -212,10 +230,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168693,
       "name": "Come Little Children",
       "url": "https://open.spotify.com/track/7H7XP9qyspP6W7wvqdJUBs"
+    },
+    {
+      "album": {
+        "name": "Come Little Children",
+        "url": "https://open.spotify.com/album/0ch4Qwp52CFvyiNKJMSIMs"
+      },
+      "artists": [
+        {
+          "name": "The Hound + The Fox",
+          "url": "https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171184,
+      "name": "Come Little Children",
+      "url": "https://open.spotify.com/track/1y0SElKYA0W2aBAWXUBQ94"
     },
     {
       "album": {
@@ -356,7 +392,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173633,
       "name": "Devil Put the Coal in the Ground",
       "url": "https://open.spotify.com/track/5QjQpV69v4jBd8WFSchAmx"
@@ -374,10 +410,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 173633,
       "name": "Devil Put the Coal in the Ground",
       "url": "https://open.spotify.com/track/6Fxf8Al1jas3YLcvGXKX7w"
+    },
+    {
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/7ClF8q4YDmizhMRJCRW9kF"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "Devil's Backbone",
+      "url": "https://open.spotify.com/track/4sd1TWbAnVyFcFRgcBw92t"
     },
     {
       "album": {
@@ -400,6 +454,24 @@
     {
       "album": {
         "name": "Unearthed",
+        "url": "https://open.spotify.com/album/218N0eGIlNwU5vwW0FzUJu"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152693,
+      "name": "Devil's Right Hand",
+      "url": "https://open.spotify.com/track/1PicHpPsIlF2CMb2kYO8fn"
+    },
+    {
+      "album": {
+        "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
       "artists": [
@@ -410,7 +482,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152693,
       "name": "Devil's Right Hand",
       "url": "https://open.spotify.com/track/3NGzaY9pJjoMvP4gnnajGF"
@@ -446,7 +518,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149000,
       "name": "Devil\u2019s Backbone",
       "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
@@ -471,6 +543,24 @@
     },
     {
       "album": {
+        "name": "doomsday",
+        "url": "https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -482,7 +572,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268432,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
@@ -518,7 +608,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 186111,
       "name": "Everybody Walkin' This Land",
       "url": "https://open.spotify.com/track/7LXLgoroFNCQQpMQt0tMA7"
@@ -536,7 +626,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186111,
       "name": "Everybody Walkin' This Land",
       "url": "https://open.spotify.com/track/7kTV0hr6wnq7qfrAqbgy7N"
@@ -562,7 +652,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239466,
       "name": "Feast Of The Dead",
       "url": "https://open.spotify.com/track/1i4ePubbhf9SkN7KLrbhve"
@@ -588,7 +678,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 239466,
       "name": "Feast Of The Dead",
       "url": "https://open.spotify.com/track/4TrVfDJGf5mHvWGT2Lch7B"
@@ -618,6 +708,24 @@
     {
       "album": {
         "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/19aZxgHJEtveuVPhDFTMMG"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271025,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/6FhTIsbEDEel7ju6pnKYtS"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
       "artists": [
@@ -628,7 +736,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271025,
       "name": "Friend of the Devil",
       "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
@@ -672,6 +780,24 @@
     {
       "album": {
         "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339720,
+      "name": "Ghosts That We Knew",
+      "url": "https://open.spotify.com/track/4ClTOGZc8kcb8l58Vx5z5A"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
       "artists": [
@@ -682,7 +808,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339720,
       "name": "Ghosts That We Knew",
       "url": "https://open.spotify.com/track/4OwUzSEXxSZXpCfdjKGzpD"
@@ -848,10 +974,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142284,
       "name": "Katie Cruel",
       "url": "https://open.spotify.com/track/6VXUBP9QwbRbKLPzYaMK71"
+    },
+    {
+      "album": {
+        "name": "In My Own Time",
+        "url": "https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142413,
+      "name": "Katie Cruel",
+      "url": "https://open.spotify.com/track/36OyWlJeF4SHHaaMxQ6c3q"
     },
     {
       "album": {
@@ -920,10 +1064,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214014,
       "name": "Little Sadie",
       "url": "https://open.spotify.com/track/0hx1VYrHlfA0ZgVHHbcXX9"
+    },
+    {
+      "album": {
+        "name": "Transmigration Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VeOfqGkgcCUk6dZejfm4f"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214014,
+      "name": "Little Sadie",
+      "url": "https://open.spotify.com/track/4Bi9l97RVT9ijBhDAbFGb7"
     },
     {
       "album": {
@@ -1028,7 +1190,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 268960,
       "name": "Murder In The Red Barn",
       "url": "https://open.spotify.com/track/0tMVpNYTOcPulIXocDQF7i"
@@ -1046,7 +1208,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268520,
       "name": "Murder In The Red Barn - 2023 Remaster",
       "url": "https://open.spotify.com/track/1UTCs77ZxgIG0qSX02JzxL"
@@ -1082,7 +1244,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 52186,
       "name": "Night Scented Stock - 2018 Remaster",
       "url": "https://open.spotify.com/track/6XdY9JkV7GQ6o4pZ9qwWRe"
@@ -1100,7 +1262,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 52186,
       "name": "Night Scented Stock - 2018 Remaster",
       "url": "https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY"
@@ -1346,10 +1508,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270893,
       "name": "The Devil Had A Hold Of Me",
       "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
+    },
+    {
+      "album": {
+        "name": "Hell Among The Yearlings",
+        "url": "https://open.spotify.com/album/42bYBsJeiG8fZC7XI0v7tS"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272160,
+      "name": "The Devil Had a Hold of Me",
+      "url": "https://open.spotify.com/track/7HVRUkoZmHIwZmXrjogaEH"
     },
     {
       "album": {
@@ -1382,7 +1562,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236026,
       "name": "The Devil Wears a Suit and Tie",
       "url": "https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh"
@@ -1400,7 +1580,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 236026,
       "name": "The Devil Wears a Suit and Tie",
       "url": "https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3"
@@ -1436,10 +1616,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182026,
       "name": "The Ghost Who Walks",
       "url": "https://open.spotify.com/track/3KrujCpaooRF2xXc7cfULh"
+    },
+    {
+      "album": {
+        "name": "The Ghost Who Walks",
+        "url": "https://open.spotify.com/album/3RrvVM9JLZL9WUSBam5Vee"
+      },
+      "artists": [
+        {
+          "name": "Karen Elson",
+          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "The Ghost Who Walks",
+      "url": "https://open.spotify.com/track/74NaFUDRcdfF5omge6gIzK"
     },
     {
       "album": {
@@ -1458,7 +1656,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 158877,
       "name": "The Gift of the Rose (from the Netflix Series \"Devil In Ohio\")",
       "url": "https://open.spotify.com/track/3Yk3bb5rOfk8l2dqrN7RY7"
@@ -1480,7 +1678,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158877,
       "name": "The Gift of the Rose (from the Netflix Series \"Devil In Ohio\")",
       "url": "https://open.spotify.com/track/5QS2WK90AEed7xEu0sDNSl"
@@ -1524,6 +1722,24 @@
     {
       "album": {
         "name": "A Long Life of Living",
+        "url": "https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250240,
+      "name": "The Railroad",
+      "url": "https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I"
+    },
+    {
+      "album": {
+        "name": "A Long Life of Living",
         "url": "https://open.spotify.com/album/1e7YbwFtvVBUpWMTojqeCg"
       },
       "artists": [
@@ -1534,7 +1750,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250240,
       "name": "The Railroad",
       "url": "https://open.spotify.com/track/7mkemk33kdLQvrkIpRkWWd"
@@ -1596,6 +1812,24 @@
     {
       "album": {
         "name": "Illinois",
+        "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309786,
+      "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
+      "url": "https://open.spotify.com/track/3CCwFADNM9hPfH7RmrWPjW"
+    },
+    {
+      "album": {
+        "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
       "artists": [
@@ -1606,7 +1840,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309786,
       "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
       "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
@@ -1646,7 +1880,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "Water Witch",
       "url": "https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO"
@@ -1668,7 +1902,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207600,
       "name": "Water Witch",
       "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
@@ -1704,7 +1938,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 181892,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/0p5zJBYoJOzVLBiDeA0PvS"
@@ -1722,7 +1956,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181892,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0"

@@ -1,15 +1,55 @@
 {
-  "description": "ny dansk rap og andet i den vibe \ud83d\udea8 <a href=\"spotify:artist:5LcNaarbF34TMSkVLE7YQc\">Merro8</a>",
-  "num_followers": 145869,
+  "description": "ny dansk rap og andet i den vibe \ud83d\udea8 <a href=\"spotify:artist:5IpqfN8Pqjy89nj1IfuOXC\">Baloosh</a>",
+  "num_followers": 145899,
   "original_name": "100 DK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg3MjgwMCwwMDAwMDAwMGFmNDIxOTI1ZWQzOGQxMTI1OWU2NTBmZmM3MzUxOWJi",
+  "snapshot_id": "MTcxMzQ3NzYwMCwwMDAwMDAwMGM1YmI2ZjIxNjIyNmIwYzNmZjQyMjViMDkyZmM3Yjgy",
   "tracks": [
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Helt Sikker",
+        "url": "https://open.spotify.com/album/7mh11unLoqJZZHFJR3J5Xg"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "duration_ms": 123224,
+      "name": "Helt Sikker",
+      "url": "https://open.spotify.com/track/5jWfU6LMjuFqWUK6gXGixD"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
+        "url": "https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl"
+      },
+      "artists": [
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 149543,
+      "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
+      "url": "https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Black Ops",
         "url": "https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT"
@@ -25,23 +65,43 @@
       "url": "https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "OT",
-        "url": "https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ"
+        "name": "Indre Stemme",
+        "url": "https://open.spotify.com/album/0MiIHv48KMk7FoqCe1mues"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        },
+        {
+          "name": "BOILERS",
+          "url": "https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8"
         }
       ],
-      "duration_ms": 170869,
-      "name": "OT",
-      "url": "https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA"
+      "duration_ms": 162223,
+      "name": "Indre Stemme",
+      "url": "https://open.spotify.com/track/0CToGTNJzK0JxMJM6otPON"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Purple Rain (Stadig Lay)",
+        "url": "https://open.spotify.com/album/6Ormh81VLPFjapNBQUNfS1"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        }
+      ],
+      "duration_ms": 167821,
+      "name": "Purple Rain (Stadig Lay)",
+      "url": "https://open.spotify.com/track/4xcXzfGf4ciBBaIOfvgrmk"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Balaclava",
         "url": "https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE"
@@ -57,7 +117,7 @@
       "url": "https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Passport",
         "url": "https://open.spotify.com/album/3UJdaVQNT58WUEGFEwqvm5"
@@ -77,23 +137,7 @@
       "url": "https://open.spotify.com/track/0Z6qMxDDq3JL3Zqns9ANVM"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "DO YOU LOVE ME?",
-        "url": "https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd"
-      },
-      "artists": [
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 142992,
-      "name": "DO YOU LOVE ME?",
-      "url": "https://open.spotify.com/track/7k4SfOrgXvcgXCH2QzcfZq"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -117,7 +161,7 @@
       "url": "https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Poison Ivy",
         "url": "https://open.spotify.com/album/1ZDIBDL88klUFwKthupCm5"
@@ -133,10 +177,26 @@
       "url": "https://open.spotify.com/track/03dQMcWzjly8qC5Yd5hblh"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Kiko Club",
-        "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
+        "url": "https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL"
       },
       "artists": [
         {
@@ -150,30 +210,42 @@
       ],
       "duration_ms": 157630,
       "name": "555 (feat. KESI)",
-      "url": "https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi"
+      "url": "https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Indre Stemme",
-        "url": "https://open.spotify.com/album/0MiIHv48KMk7FoqCe1mues"
+        "name": "SNAK/MILANO",
+        "url": "https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV"
       },
       "artists": [
         {
-          "name": "Magzim",
-          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
-        },
-        {
-          "name": "BOILERS",
-          "url": "https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8"
+          "name": "Eezy",
+          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
         }
       ],
-      "duration_ms": 162223,
-      "name": "Indre Stemme",
-      "url": "https://open.spotify.com/track/0CToGTNJzK0JxMJM6otPON"
+      "duration_ms": 182338,
+      "name": "SNAK/MILANO",
+      "url": "https://open.spotify.com/track/0mrZFAokNgdgsPQRV77cvi"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "DO YOU LOVE ME?",
+        "url": "https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 142992,
+      "name": "DO YOU LOVE ME?",
+      "url": "https://open.spotify.com/track/7k4SfOrgXvcgXCH2QzcfZq"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -205,7 +277,7 @@
       "url": "https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Hvad Vi Vil",
         "url": "https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk"
@@ -221,7 +293,7 @@
       "url": "https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "En dag giver alt nok mening\u2026 (DELUXE)",
         "url": "https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM"
@@ -241,7 +313,7 @@
       "url": "https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Intet Nyt (feat. Gilli)",
         "url": "https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n"
@@ -261,7 +333,7 @@
       "url": "https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Drunk Talk",
         "url": "https://open.spotify.com/album/6icOw8O8jEo3z6nMs5SJzv"
@@ -277,7 +349,7 @@
       "url": "https://open.spotify.com/track/4UHnAGrNmcosenpWfamNkZ"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -293,7 +365,23 @@
       "url": "https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Grim Verden",
+        "url": "https://open.spotify.com/album/50oFS5rbWDpPodUYOV3Ewv"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Grim Verden",
+      "url": "https://open.spotify.com/track/6AIAWHWftd6fwVd9wbwPkv"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "SOLEN ST\u00c5R OP",
         "url": "https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM"
@@ -309,7 +397,7 @@
       "url": "https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Distance (feat. Jamaika)",
         "url": "https://open.spotify.com/album/6KibBUnazaBaPjId1jSfAR"
@@ -329,7 +417,7 @@
       "url": "https://open.spotify.com/track/5AzSKwoLyIZUQOngfgZie4"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Stemmer",
         "url": "https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P"
@@ -345,7 +433,7 @@
       "url": "https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -361,7 +449,7 @@
       "url": "https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Sent",
         "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
@@ -381,7 +469,7 @@
       "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -401,10 +489,10 @@
       "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Noahs Ark",
-        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
+        "name": "Ousside (feat. Benny Jamz)",
+        "url": "https://open.spotify.com/album/3pirHD0zqwlGkb0QS4UsIU"
       },
       "artists": [
         {
@@ -418,10 +506,10 @@
       ],
       "duration_ms": 173744,
       "name": "Ousside (feat. Benny Jamz)",
-      "url": "https://open.spotify.com/track/7fwFV39b75w52PrBqM7OAT"
+      "url": "https://open.spotify.com/track/6gGN8KHsJL5Yw9PunS8TA8"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Wimbledon",
         "url": "https://open.spotify.com/album/7rhxRAp0OfX87dBLKkG5VN"
@@ -437,7 +525,7 @@
       "url": "https://open.spotify.com/track/4mWZ0AJ8gdPixvdE06tgpz"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "FEAR NOBODY",
         "url": "https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN"
@@ -453,7 +541,7 @@
       "url": "https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Danser i Modgang",
         "url": "https://open.spotify.com/album/6VfajJ5DeW20V0sGVaTBaT"
@@ -469,7 +557,7 @@
       "url": "https://open.spotify.com/track/0lybCcSxAzxAPNSrzWQuMp"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Glem Det (feat. Jamaika)",
         "url": "https://open.spotify.com/album/0C9uppyvWZfeJLng1b9KhZ"
@@ -489,7 +577,7 @@
       "url": "https://open.spotify.com/track/1k2LysiDCZflmHiA6DepMn"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Danser Med D\u00e6moner",
         "url": "https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy"
@@ -509,7 +597,7 @@
       "url": "https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "FORSVINDER (feat. Gobs)",
         "url": "https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW"
@@ -529,7 +617,7 @@
       "url": "https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "New York City",
         "url": "https://open.spotify.com/album/7eDqc9IAUhWSitkF7M6cc9"
@@ -545,7 +633,7 @@
       "url": "https://open.spotify.com/track/3HLVXuHXqFi9x7QCoFWbzF"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Championship",
         "url": "https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC"
@@ -569,7 +657,7 @@
       "url": "https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "BENZ",
         "url": "https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq"
@@ -585,7 +673,7 @@
       "url": "https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "North Face (feat. Lamin)",
         "url": "https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz"
@@ -605,10 +693,10 @@
       "url": "https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Noahs Ark",
-        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
+        "name": "winwin",
+        "url": "https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU"
       },
       "artists": [
         {
@@ -616,15 +704,15 @@
           "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 161845,
+      "duration_ms": 163561,
       "name": "winwin",
-      "url": "https://open.spotify.com/track/2MhRuxH6pJKQ0E3xcsLEaZ"
+      "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Kiko Club",
-        "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
+        "name": "Skarpt Lys",
+        "url": "https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y"
       },
       "artists": [
         {
@@ -632,12 +720,12 @@
           "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
         }
       ],
-      "duration_ms": 183332,
+      "duration_ms": 184440,
       "name": "Skarpt Lys",
-      "url": "https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu"
+      "url": "https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Vi Har Den",
         "url": "https://open.spotify.com/album/5bX6c44hmKpf0RCuKYBTK4"
@@ -653,7 +741,7 @@
       "url": "https://open.spotify.com/track/3tXwiFvdhXg9EtfQhXX9y6"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "LEV I NUET",
         "url": "https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ"
@@ -669,10 +757,10 @@
       "url": "https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "En dag giver alt nok mening\u2026 (DELUXE)",
-        "url": "https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM"
+        "name": "En dag giver alt nok mening\u2026",
+        "url": "https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9"
       },
       "artists": [
         {
@@ -682,10 +770,10 @@
       ],
       "duration_ms": 140637,
       "name": "Ensom",
-      "url": "https://open.spotify.com/track/46NhgL7Fvf99VfSp2yafEE"
+      "url": "https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41"
@@ -701,7 +789,7 @@
       "url": "https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "AMAL PT. 2",
         "url": "https://open.spotify.com/album/1fxN0kfZA3pus0HH1LfCJi"
@@ -717,7 +805,7 @@
       "url": "https://open.spotify.com/track/7zH44zeRQPJdkNmKJyNvrL"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Championship",
         "url": "https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC"
@@ -733,7 +821,7 @@
       "url": "https://open.spotify.com/track/3LrSFkh0r57DlAzj9MCerw"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Je Ka Jo",
         "url": "https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0"
@@ -749,10 +837,10 @@
       "url": "https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "2 Kanoner",
-        "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
+        "url": "https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy"
       },
       "artists": [
         {
@@ -762,10 +850,10 @@
       ],
       "duration_ms": 160615,
       "name": "2 Kanoner",
-      "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
+      "url": "https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h"
@@ -781,7 +869,7 @@
       "url": "https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Psykosebarn",
         "url": "https://open.spotify.com/album/1bVTGCNXPtNVjznVGYpCGx"
@@ -797,7 +885,7 @@
       "url": "https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0wiQ5yItDLDmfKBxPlBFhR"
@@ -817,7 +905,7 @@
       "url": "https://open.spotify.com/track/6Nb9knmY0K5SXDU0IZRcGK"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Altid Med (feat. Mowgli)",
         "url": "https://open.spotify.com/album/5D5P9ieuXW4WEtprfjCj4M"
@@ -837,7 +925,7 @@
       "url": "https://open.spotify.com/track/5od1j7k88aLQoLJdj4xdoq"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Championship",
         "url": "https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC"
@@ -853,10 +941,10 @@
       "url": "https://open.spotify.com/track/3tZIAsrTBOkslSFJyMZxes"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Kiko Club",
-        "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
+        "name": "Du & Jeg",
+        "url": "https://open.spotify.com/album/1JHGi1TfBtT4HSsEOflXhb"
       },
       "artists": [
         {
@@ -866,10 +954,10 @@
       ],
       "duration_ms": 173024,
       "name": "Du & Jeg",
-      "url": "https://open.spotify.com/track/574DlRMtD2Nv9kWHQevej3"
+      "url": "https://open.spotify.com/track/13FWeWAZ84LQQ1S4KNPWWe"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "I LIKE 2 MOVE IT (feat. ABCITOO)",
         "url": "https://open.spotify.com/album/19VwYofnlTp22my1SUbVeR"
@@ -889,10 +977,10 @@
       "url": "https://open.spotify.com/track/4FXxjGxNBIPmDnOU1VFq8x"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "MASKINEN",
-        "url": "https://open.spotify.com/album/7aDIiIQVIGVi5b0gYVHMhk"
+        "url": "https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q"
       },
       "artists": [
         {
@@ -902,10 +990,10 @@
       ],
       "duration_ms": 133333,
       "name": "MASKINEN",
-      "url": "https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW"
+      "url": "https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Uwawe",
         "url": "https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy"
@@ -921,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3BzCCqPqIsheyW4DyLM1ut"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "LEVENDE LEGENDE",
         "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
@@ -941,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Dreaming (feat. PAY & Dinero)",
         "url": "https://open.spotify.com/album/6fSe0DKpyUwXJQwPypQRbP"
@@ -965,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1JknFyUyJ4c8pfOHcFNrzF"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Chocola",
         "url": "https://open.spotify.com/album/6OEqU0UOYKlqn099nLP1oM"
@@ -985,7 +1073,7 @@
       "url": "https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
@@ -1005,7 +1093,7 @@
       "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Welcome To The Party",
         "url": "https://open.spotify.com/album/0Ygeof958pxuFxmOptZlHX"
@@ -1021,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Alt vi har er nu (Artigeardit, Lamin)",
         "url": "https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ"
@@ -1037,7 +1125,7 @@
       "url": "https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ"
@@ -1053,7 +1141,7 @@
       "url": "https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "Early Morning",
         "url": "https://open.spotify.com/album/5fR2lxQW91zljY6JYmFyTM"
@@ -1077,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3LRm9sflmioeTgaiLVylmy"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-18 22:00:00",
       "album": {
         "name": "4 LIFE",
         "url": "https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey"

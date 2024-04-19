@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u80e1\u6042\u821e (Sabrina Hu)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: PIZZALI",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -34,10 +34,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156416,
       "name": "3am - Demo Ver.",
       "url": "https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli"
+    },
+    {
+      "album": {
+        "name": "3am - Demo Ver.",
+        "url": "https://open.spotify.com/album/2C5ob9OfPO3J5wMETcOD5R"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "3am - Demo Ver.",
+      "url": "https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr"
     },
     {
       "album": {
@@ -740,10 +758,36 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175144,
       "name": "Don't Wanna Lie",
       "url": "https://open.spotify.com/track/7yAFLaZRowCz336xLqOiwe"
+    },
+    {
+      "album": {
+        "name": "\u71e5\u71b1",
+        "url": "https://open.spotify.com/album/5cnfLIkDHsBX1lsM7UftEM"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "8lak",
+          "url": "https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w"
+        },
+        {
+          "name": "Hosea",
+          "url": "https://open.spotify.com/artist/0wol98NPVvY4Q4wT6yZWGY"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175144,
+      "name": "Don't Wanna Lie (feat. 8lak, Hosea)",
+      "url": "https://open.spotify.com/track/69J2FD7vbagQ1cgnO6gjnl"
     },
     {
       "album": {
@@ -1482,6 +1526,28 @@
     {
       "album": {
         "name": "I Hate Myself Sometimes",
+        "url": "https://open.spotify.com/album/7HSZCDvflTWrGFVuoDeLX7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174580,
+      "name": "I Hate Myself Sometimes",
+      "url": "https://open.spotify.com/track/5znau6BqFcgBkyQGcOutil"
+    },
+    {
+      "album": {
+        "name": "I Hate Myself Sometimes",
         "url": "https://open.spotify.com/album/3hUr7wEoUWVlFeEV843iGT"
       },
       "artists": [
@@ -1496,7 +1562,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174580,
       "name": "I Hate Myself Sometimes",
       "url": "https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt"

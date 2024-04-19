@@ -1,6 +1,6 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=2Vi_2TSQT5-u7_kKg-IyKg\">Omagoqa</a>",
-  "num_followers": 73763,
+  "num_followers": 73764,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
@@ -547,8 +547,8 @@
     {
       "added_at": "2024-04-12 04:02:13",
       "album": {
-        "name": "Weekent Sun Sets (feat. Mo-T) [Horns In The Sun Remix EP]",
-        "url": "https://open.spotify.com/album/59LoBYTSYz63t98w6hc3u6"
+        "name": "Weekent Sun Sets (Horns In The Sun Remix EP)",
+        "url": "https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn"
       },
       "artists": [
         {
@@ -560,21 +560,21 @@
           "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
         },
         {
-          "name": "Brenden Praise",
-          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
-        },
-        {
           "name": "Mo-T",
           "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
         },
         {
           "name": "M\u00d6RDA",
           "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
         }
       ],
       "duration_ms": 336657,
-      "name": "Horns In The Sun (feat. Mo-T, Brenden Praise & M\u00f6rda) [Thakzin Remix]",
-      "url": "https://open.spotify.com/track/3LfXImvXHkHzz0qqdFAol4"
+      "name": "Horns In The Sun - Thakzin Remix",
+      "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
     },
     {
       "added_at": "2024-04-12 04:02:13",
@@ -731,13 +731,29 @@
     {
       "added_at": "2024-04-12 04:02:13",
       "album": {
-        "name": "Yes God (feat. Dearson) [M\u00f6rda, Thakzin, Mhaw Keys Remix]",
-        "url": "https://open.spotify.com/album/6Qw2MocHk45fM2lTVViDdO"
+        "name": "Yes God (M\u00f6rda, Thakzin, Mhaw Keys Remix)",
+        "url": "https://open.spotify.com/album/1lKbAHZVjunVFeZMEuwFLS"
       },
       "artists": [
         {
-          "name": "Oscar Mbo, KG Smallz, M\u00f6rda, Thakzin, & Mhaw Keys",
-          "url": "https://open.spotify.com/artist/7AZp3MmpEYCqZIGrDTpkWk"
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        },
+        {
+          "name": "KG Smallz",
+          "url": "https://open.spotify.com/artist/0AiHL2WtZP5LOxzr28uZjK"
+        },
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Mhaw Keys",
+          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
         },
         {
           "name": "Dearson",
@@ -745,8 +761,8 @@
         }
       ],
       "duration_ms": 420229,
-      "name": "Yes God (feat. Dearson) - M\u00f6rda, Thakzin, Mhaw Keys Remix",
-      "url": "https://open.spotify.com/track/4i2Dz0USzHqcOTrP0y79V9"
+      "name": "Yes God - M\u00f6rda, Thakzin, Mhaw Keys Remix",
+      "url": "https://open.spotify.com/track/0WPY91ucbS7OnJpo1x4smF"
     },
     {
       "added_at": "2024-04-12 04:02:13",

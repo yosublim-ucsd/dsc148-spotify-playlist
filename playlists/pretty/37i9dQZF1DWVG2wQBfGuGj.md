@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,807 likes - 198 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,132 likes - 198 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 90 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
 | 91 | [Run Run](https://open.spotify.com/track/0sms64g9Sgd2QZJ9URMaXY) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Run Run](https://open.spotify.com/album/1mCDqCwuQE7m4cCeA1Jc3o) | 2:44 |
 | 92 | [Xasnas](https://open.spotify.com/track/0mNJT8uGm19Xwbormh0IXa) | [Crisp Nibblets](https://open.spotify.com/artist/1DDHk8crK8M6gY3cVcGtJn) | [Xasnas](https://open.spotify.com/album/4r4k0QLD3W7hlVeFVNROrO) | 2:44 |
-| 93 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 |
+| 93 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 |
 | 94 | [endless cup](https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [endless cup](https://open.spotify.com/album/1AHdwERDExWS6MCKxtQ3gb) | 3:23 |
 | 95 | [Zellos](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Zellos](https://open.spotify.com/album/6csN1zLPLXVW04XWd2E611) | 2:08 |
 | 96 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 |

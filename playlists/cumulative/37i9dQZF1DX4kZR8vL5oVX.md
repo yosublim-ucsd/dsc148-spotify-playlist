@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Paola \(du titre \#1 au \#15\)\. Cover : Zaho de Sagazan
 
-1,202 songs - 2 day 14 hr 19 min
+1,203 songs - 2 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,8 @@
 | [Balmain](https://open.spotify.com/track/7v65B7oNtUzS3kV3Q7ftg9) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Balmain](https://open.spotify.com/album/0bZamcYjOZZDDQRqddnTrX) | 2:20 | 2023-04-04 | 2023-05-03 |
 | [Baltimore](https://open.spotify.com/track/0nmxB5hmIGopuFjBATeufO) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Baltimore](https://open.spotify.com/album/1qkrANE94Hj9VIUT7qzWZr) | 3:02 | 2024-01-09 |  |
 | [Bancale](https://open.spotify.com/track/4By9ybXyyb3WzA6HZ4ZOl2) | [Maroussia](https://open.spotify.com/artist/58G083mCMdDwHg0R9ndgPG) | [Bancale](https://open.spotify.com/album/2gl23hTT1XmSHbFksvicRB) | 3:07 | 2023-09-05 | 2023-10-04 |
-| [Bande organisée](https://open.spotify.com/track/1vZ9zAIQ9cB386y0E6jcxg) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/2x4sU3PRr3kh5IvwaxiXNQ) | 2:07 | 2024-03-05 |  |
-| [Bande organisée](https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6) | 2:07 | 2024-03-05 | 2024-03-24 |
+| [Bande organisée](https://open.spotify.com/track/1vZ9zAIQ9cB386y0E6jcxg) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/2x4sU3PRr3kh5IvwaxiXNQ) | 2:07 | 2024-03-05 | 2024-04-19 |
+| [Bande organisée](https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6) | 2:07 | 2024-03-05 |  |
 | [Barbie Dreams](https://open.spotify.com/track/4K34wkUKqd7leweceYqPFM) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/4Rh57STD18rbjXbBrx2X65) | 4:39 | 2023-02-28 | 2023-04-05 |
 | [BB](https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq) | [Dessplora](https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif) | [BB](https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M) | 2:05 | 2023-05-02 | 2023-06-07 |
 | [bbtumadores](https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [bbtumadores](https://open.spotify.com/album/4WmnQJL9ALfQOetoBXUpdZ) | 2:40 | 2024-02-06 |  |
@@ -474,7 +474,8 @@
 | [Je partirai](https://open.spotify.com/track/3qdffH7BqUr4kOxaenMkiZ) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:15 | 2024-02-06 | 2024-03-06 |
 | [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 | 2023-06-06 | 2023-07-05 |
 | [Je préfère \(faire la fête\)](https://open.spotify.com/track/79FHLtQBldbxy9HP7b8Yln) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Je préfère \(faire la fête\)](https://open.spotify.com/album/1CNHFdSvfE1yeyJu3sPGmA) | 2:22 | 2024-03-05 | 2024-04-03 |
-| [Je reste calme](https://open.spotify.com/track/3Or4BEBgd0TSlQWqqxFYHR) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je reste calme](https://open.spotify.com/album/3nYlOopDy3IUXx1fV3YQQy) | 2:52 | 2023-10-03 |  |
+| [Je reste calme](https://open.spotify.com/track/3Or4BEBgd0TSlQWqqxFYHR) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je reste calme](https://open.spotify.com/album/3nYlOopDy3IUXx1fV3YQQy) | 2:52 | 2023-10-03 | 2024-04-19 |
+| [Je reste calme](https://open.spotify.com/track/4RyX2v4EZMHAEPnwMXxivl) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je reste calme](https://open.spotify.com/album/45m9XEkCbMOR7l6AO7GUkF) | 2:52 | 2024-04-16 |  |
 | [Je Sais](https://open.spotify.com/track/5dxBvpiErOCz31kxdZOApJ) | [SKIA](https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE) | [Je Sais](https://open.spotify.com/album/6zRCEg2nGrba9aN9w3cH7N) | 2:52 | 2022-01-05 | 2022-02-02 |
 | [Je sais qu'il est tard](https://open.spotify.com/track/15ZsveLyDAOTbw1kK7ldsI) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais qu'il est tard](https://open.spotify.com/album/3L9zRjwao0Nag74lX7fdkc) | 3:40 | 2022-05-03 | 2022-06-01 |
 | [Je serai là](https://open.spotify.com/track/0cPsUSupo85xOLSO5o6wLw) | [SARA'H](https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9) | [Je serai là](https://open.spotify.com/album/7akvoqd2vEAIFFdss4K4uS) | 3:16 | 2022-01-05 | 2022-02-02 |

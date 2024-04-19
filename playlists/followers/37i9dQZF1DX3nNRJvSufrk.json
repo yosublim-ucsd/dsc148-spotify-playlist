@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 33097,
+  "2024-04-19": 33118,
   "date_first_scraped": "2021-12-21",
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
   "name": "Footwork/Juke",
@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Street Bangers Factory 17",
+        "url": "https://open.spotify.com/album/4W08kjPFYZywJ2L1xbHXoR"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183345,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/10SsszZXnRrXNKl2JGvs9I"
+    },
+    {
+      "album": {
         "name": "Another Chance (SBF17)",
         "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
@@ -225,10 +243,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 183345,
       "name": "Another Chance - SBF17",
       "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
+    },
+    {
+      "album": {
+        "name": "Bass + Funk & Soul",
+        "url": "https://open.spotify.com/album/45ppFjeJY6UXzmLdlbdj7Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Baaaaaa",
+      "url": "https://open.spotify.com/track/3A4s2fv1SjdSxH0LCGQBMc"
     },
     {
       "album": {
@@ -243,7 +279,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 150000,
       "name": "Baaaaaa - Taken from Bass + Funk & Soul",
       "url": "https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb"
@@ -1380,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "Street Bangers Factory 16",
+        "url": "https://open.spotify.com/album/3oi35tmgpACugdrK9nn0Nw"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit",
+      "url": "https://open.spotify.com/track/7eF3NHgdPEUph8Qxj6v1bB"
+    },
+    {
+      "album": {
         "name": "Get Down Lil Bit (Street Bangers Factory 16)",
         "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
       },
@@ -1391,7 +1445,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 290813,
       "name": "Get Down Lil Bit - Street Bangers Factory 16",
       "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
@@ -1863,6 +1917,24 @@
     {
       "album": {
         "name": "Aspects",
+        "url": "https://open.spotify.com/album/0iegmSGgcL3BsZ6VrcccqB"
+      },
+      "artists": [
+        {
+          "name": "bastienGOAT",
+          "url": "https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Imma Dog",
+      "url": "https://open.spotify.com/track/2IqDPPzeDOwzoAh4G9SlKq"
+    },
+    {
+      "album": {
+        "name": "Aspects",
         "url": "https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC"
       },
       "artists": [
@@ -1873,7 +1945,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 108000,
       "name": "Imma Dog",
       "url": "https://open.spotify.com/track/524AOf3Zmp93608e38RukD"
@@ -2234,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "Street Bangers Factory 14",
+        "url": "https://open.spotify.com/album/2tE0xOjKeRWDFmLlGTfZtF"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "No Cap 4 2020",
+      "url": "https://open.spotify.com/track/080YH64adAFd0QajwUFHQb"
+    },
+    {
+      "album": {
         "name": "No Cap 4 2020 (SBF14)",
         "url": "https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R"
       },
@@ -2245,7 +2335,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 157000,
       "name": "No Cap 4 2020 - SBF14",
       "url": "https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p"

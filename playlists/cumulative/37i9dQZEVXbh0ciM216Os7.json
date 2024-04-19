@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168921,
       "name": "A Mindful Blues",
       "url": "https://open.spotify.com/track/0RnwWRzaWJ9CHwjLgIuNFc"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 467344,
       "name": "A Musical Portrait of Chuck Close: Movement II",
       "url": "https://open.spotify.com/track/3kPHj5AxAP6ilNJiSCN30u"
@@ -928,6 +928,24 @@
       "duration_ms": 222741,
       "name": "Alien Love Call",
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
+    },
+    {
+      "album": {
+        "name": "All Apologies (Live From Boston)",
+        "url": "https://open.spotify.com/album/5isn793aL7uPW3ZmfuDREL"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251746,
+      "name": "All Apologies - Live From Boston",
+      "url": "https://open.spotify.com/track/5OLLqEW8HT7TodOgULamYp"
     },
     {
       "album": {
@@ -4719,6 +4737,28 @@
     },
     {
       "album": {
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "Country Gold",
+      "url": "https://open.spotify.com/track/0UnMW3SztHeKFHTEIFyIVh"
+    },
+    {
+      "album": {
         "name": "Crash The Car",
         "url": "https://open.spotify.com/album/7wvAhyTMzbDsgz03Tp21d1"
       },
@@ -7313,6 +7353,28 @@
     },
     {
       "album": {
+        "name": "Philip Glass: Etudes for Piano",
+        "url": "https://open.spotify.com/album/21eHvMd4t8nr6wtooccK6H"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Feico Deutekom",
+          "url": "https://open.spotify.com/artist/3CA6hPrl7Gjs8Kmjvani8r"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459410,
+      "name": "Etude No.2",
+      "url": "https://open.spotify.com/track/33mmFvzD7lxLIoboTGdIz9"
+    },
+    {
+      "album": {
         "name": "Philip Glass: Etude No.2 Reworked",
         "url": "https://open.spotify.com/album/4tUm9dqxJp0E77i2IU1rLL"
       },
@@ -8591,6 +8653,58 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/2nM7PvY9SHEaKaSYRmOCmh"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247445,
+      "name": "Freak (feat. Lil Wayne, Joyner Lucas & Tee Grizzley)",
+      "url": "https://open.spotify.com/track/1YySyMPnt1eNETQ2TA075k"
+    },
+    {
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -8614,7 +8728,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247445,
       "name": "Freak (feat. Lil Wayne, Joyner Lucas & Tee Grizzley)",
       "url": "https://open.spotify.com/track/4FXL19CnaMVS1HzRFl1BzS"
@@ -9852,7 +9966,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206146,
       "name": "Hangin\u2019 On (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
@@ -10088,6 +10202,28 @@
       "duration_ms": 555414,
       "name": "Have You Seen This Movie",
       "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
+    },
+    {
+      "album": {
+        "name": "I Got Away",
+        "url": "https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180149,
+      "name": "He Got Me",
+      "url": "https://open.spotify.com/track/08XkpS8iuYUEUuSyA1xbWO"
     },
     {
       "album": {
@@ -10560,7 +10696,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
@@ -11446,7 +11582,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -12216,6 +12352,32 @@
       "duration_ms": 426746,
       "name": "IV. Allegro ma non troppo",
       "url": "https://open.spotify.com/track/73I2679GOdAPb0eWpQTdZH"
+    },
+    {
+      "album": {
+        "name": "Perceive Its Beauty, Acknowledge Its Grace",
+        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/4rQuuNKKmV7K45aJoVqyIQ"
     },
     {
       "album": {
@@ -14312,7 +14474,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223240,
       "name": "Love Direction",
       "url": "https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7"
@@ -14944,7 +15106,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226497,
       "name": "Maybe We're Alright",
       "url": "https://open.spotify.com/track/6NRHaaaLEeP2POo9neRCkt"
@@ -17208,7 +17370,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242838,
       "name": "On The Game",
       "url": "https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V"
@@ -17292,6 +17454,32 @@
       "duration_ms": 179010,
       "name": "One Finger Snap",
       "url": "https://open.spotify.com/track/439PR1QLYBLZujThn3TQ0I"
+    },
+    {
+      "album": {
+        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Aaron Pauley",
+          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208054,
+      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
     },
     {
       "album": {
@@ -17854,7 +18042,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173610,
       "name": "Overtime (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
@@ -19008,7 +19196,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
@@ -19074,6 +19262,36 @@
       "duration_ms": 171997,
       "name": "Pretty Stoney",
       "url": "https://open.spotify.com/track/1fqlgNEkHwRVYq2Cp3Aztz"
+    },
+    {
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295146,
+      "name": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
+      "url": "https://open.spotify.com/track/2w5BtuWXISpB6NM4xPoeiR"
     },
     {
       "album": {
@@ -20207,6 +20425,24 @@
     },
     {
       "album": {
+        "name": "Route 66 (Live at the Blue Note Chicago)",
+        "url": "https://open.spotify.com/album/12wze2sZgUJ52p8mwcAPcK"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216173,
+      "name": "Route 66 - Live at the Blue Note Chicago",
+      "url": "https://open.spotify.com/track/3u3BeAd3tdY21Hc2vbQR9p"
+    },
+    {
+      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -20604,7 +20840,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157678,
       "name": "Schakkeliiin",
       "url": "https://open.spotify.com/track/2p1IxBUsBJwp0ttKTxNYPL"
@@ -21168,7 +21404,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249280,
       "name": "Siena Dreamin'",
       "url": "https://open.spotify.com/track/3upEQlKz2eX8kjfhtOlGWc"
@@ -21380,6 +21616,32 @@
       "duration_ms": 121317,
       "name": "Slide Again",
       "url": "https://open.spotify.com/track/680UAnBzIM0mKkXUpT5OyS"
+    },
+    {
+      "album": {
+        "name": "Slowly Slowly Remix",
+        "url": "https://open.spotify.com/album/0N2iHK04XxBQZ1GEir5Rh0"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Dj Lucky",
+          "url": "https://open.spotify.com/artist/4XCE9q0114mjNhnDNcUYp4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245234,
+      "name": "Slowly Slowly Remix",
+      "url": "https://open.spotify.com/track/4FUc2cg8aBasoMspxC14Qm"
     },
     {
       "album": {
@@ -23841,6 +24103,28 @@
     },
     {
       "album": {
+        "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 (Bonus Version)",
+        "url": "https://open.spotify.com/album/00ZEz3M7Buqb9m5qMO7fbZ"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 880348,
+      "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 - Bonus Version",
+      "url": "https://open.spotify.com/track/4YBnMQ5ncZUq9HmztP4YVF"
+    },
+    {
+      "album": {
         "name": "The End (feat. BABYMETAL)",
         "url": "https://open.spotify.com/album/6fwby6V70isfpvy9qVWDTa"
       },
@@ -24386,7 +24670,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171562,
       "name": "The Right To Love Us",
       "url": "https://open.spotify.com/track/41sYW1EhLzlMWlaefZGWvq"
@@ -25459,6 +25743,24 @@
     },
     {
       "album": {
+        "name": "From the Mars Hotel: The Angel's Share",
+        "url": "https://open.spotify.com/album/0U8ec9AzCbzMNNFEAAteQY"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288213,
+      "name": "U.S. Blues - Take 8",
+      "url": "https://open.spotify.com/track/3T1jkscRUHZDz5c6jLhSCg"
+    },
+    {
+      "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/5j6OGQCIWoTcKan2M7z703"
       },
@@ -25572,6 +25874,28 @@
       "duration_ms": 219400,
       "name": "Under You",
       "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
+    },
+    {
+      "album": {
+        "name": "Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/5kmcp5oSdQjaji6PDgbi1O"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164497,
+      "name": "Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/6WJu3kRMBSanaLp4c5rvgd"
     },
     {
       "album": {

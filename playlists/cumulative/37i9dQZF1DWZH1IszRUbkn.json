@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176557,
       "name": "Alibombo",
       "url": "https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 129493,
       "name": "El Sapo Pepe Y La Rana Juana",
       "url": "https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE"
@@ -266,7 +266,7 @@
     {
       "album": {
         "name": "Violetta",
-        "url": "https://open.spotify.com/album/6qc5VvjVyBNSMhUHzmG0uK"
+        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
       },
       "artists": [
         {
@@ -277,6 +277,24 @@
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212520,
+      "name": "En Mi Mundo - From \"Violetta\" Music from the TV Series",
+      "url": "https://open.spotify.com/track/1GJqULuKQWN1ltMEOJuhes"
+    },
+    {
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/6qc5VvjVyBNSMhUHzmG0uK"
+      },
+      "artists": [
+        {
+          "name": "Martina Stoessel",
+          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 212520,
       "name": "En Mi Mundo - From \"Violetta\" Music from the TV Series",
       "url": "https://open.spotify.com/track/3wfs0ssDxBBsUioKXQQTNc"
@@ -294,7 +312,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 98226,
       "name": "Feliz En Tu D\u00eda",
       "url": "https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c"
@@ -312,7 +330,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 184226,
       "name": "Garabato Colorado",
       "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132773,
       "name": "Hasta Diez",
       "url": "https://open.spotify.com/track/4vdyMCHuBNWRVPysXZFtsc"
@@ -398,10 +416,52 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177346,
       "name": "Juntos Somos Mas",
       "url": "https://open.spotify.com/track/0298TR48npXuchmJraLrzF"
+    },
+    {
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Lambre",
+          "url": "https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh"
+        },
+        {
+          "name": "Lodovica Comello",
+          "url": "https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq"
+        },
+        {
+          "name": "Candelaria Molfese",
+          "url": "https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy"
+        },
+        {
+          "name": "Facundo Gamband\u00e9",
+          "url": "https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG"
+        },
+        {
+          "name": "Jorge Blanco",
+          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
+        },
+        {
+          "name": "Nick Garnier",
+          "url": "https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy"
+        },
+        {
+          "name": "Rodrigo Velilla",
+          "url": "https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177346,
+      "name": "Juntos Somos Mas",
+      "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
     },
     {
       "album": {
@@ -416,7 +476,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222613,
       "name": "Ki Ki K\u00ed - Co Co C\u00f3 - Dance Remix",
       "url": "https://open.spotify.com/track/0dT11N8Apg5dqZrm5iYHyF"
@@ -470,7 +530,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143478,
       "name": "La Familia Dedo",
       "url": "https://open.spotify.com/track/4YKEh2ULjn9phBPXbiOfhI"
@@ -580,10 +640,28 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165306,
       "name": "La Regla Primordial",
       "url": "https://open.spotify.com/track/6WPUypjdzEgodbtnkreB62"
+    },
+    {
+      "album": {
+        "name": "31 Minutos, Ratoncitos",
+        "url": "https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
+      "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
     },
     {
       "album": {
@@ -602,7 +680,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 87893,
       "name": "Lala",
       "url": "https://open.spotify.com/track/5KTjlz5yJEsLbA02RXGp1u"
@@ -620,7 +698,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 72489,
       "name": "Las ma\u00f1anitas",
       "url": "https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN"
@@ -656,7 +734,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "Los Numeros",
       "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
@@ -674,7 +752,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158986,
       "name": "Mal\u00edsima",
       "url": "https://open.spotify.com/track/1wmcsShYTSot5sc8tC0xA9"
@@ -842,7 +920,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 50651,
       "name": "Osos de Paseo",
       "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
@@ -962,7 +1040,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 152198,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
@@ -980,7 +1058,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147800,
       "name": "Sana, Sana, Colita de Rana",
       "url": "https://open.spotify.com/track/26cHBaPyFGH2lhtdaq4Dz1"
@@ -1042,10 +1120,94 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208120,
       "name": "Ser Mejor",
       "url": "https://open.spotify.com/track/3PEWgIGnnjN9klG2XqtSWq"
+    },
+    {
+      "album": {
+        "name": "Violetta - La M\u00fasica Es Mi Mundo",
+        "url": "https://open.spotify.com/album/7lBVwNkGzT3M4qtCrgJA5r"
+      },
+      "artists": [
+        {
+          "name": "Martina Stoessel",
+          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+        },
+        {
+          "name": "Jorge Blanco",
+          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
+        },
+        {
+          "name": "Pablo Espinosa",
+          "url": "https://open.spotify.com/artist/7JOnYFbats5w0dEiHED2i4"
+        },
+        {
+          "name": "Mercedes Lambre",
+          "url": "https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh"
+        },
+        {
+          "name": "Lodovica Comello",
+          "url": "https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq"
+        },
+        {
+          "name": "Candelaria Molfese",
+          "url": "https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy"
+        },
+        {
+          "name": "Samuel Nascmiento",
+          "url": "https://open.spotify.com/artist/4tE054ScQH2W03Gq5YKMni"
+        },
+        {
+          "name": "Facundo Gamband\u00e9",
+          "url": "https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG"
+        },
+        {
+          "name": "Alba Rico",
+          "url": "https://open.spotify.com/artist/0OHS4qaEImZPoGt9TRuhFf"
+        },
+        {
+          "name": "Simone Lijoi",
+          "url": "https://open.spotify.com/artist/5tD8SBQnGPlf17OgSD8mFw"
+        },
+        {
+          "name": "Rodrigo Velilla",
+          "url": "https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv"
+        },
+        {
+          "name": "Nick Garnier",
+          "url": "https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Ser Mejor",
+      "url": "https://open.spotify.com/track/7qUv1mFQLXSkFHiybwdgk8"
+    },
+    {
+      "album": {
+        "name": "Canciones De La Granja 2",
+        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
+      },
+      "artists": [
+        {
+          "name": "Daniela",
+          "url": "https://open.spotify.com/artist/5Dlgh9n67713fZdBNXjX82"
+        },
+        {
+          "name": "Los Pollitos",
+          "url": "https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Susanita",
+      "url": "https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM"
     },
     {
       "album": {
@@ -1060,10 +1222,28 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181840,
       "name": "Susanita",
       "url": "https://open.spotify.com/track/0kzk0Vd1A8ZW16AhR0niJj"
+    },
+    {
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
+      },
+      "artists": [
+        {
+          "name": "Martina Stoessel",
+          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Te Creo",
+      "url": "https://open.spotify.com/track/7gsrhkG05oEIsk81MJ3yoW"
     },
     {
       "album": {
@@ -1078,7 +1258,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239600,
       "name": "Te Creo",
       "url": "https://open.spotify.com/track/7iMwrMRtauAM5EKh4J1Q4i"
@@ -1096,7 +1276,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132925,
       "name": "Tres Gatitos (Sin Pastel)",
       "url": "https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY"
@@ -1122,6 +1302,24 @@
       "duration_ms": 124853,
       "name": "Un Nuevo Viaje",
       "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+    },
+    {
+      "album": {
+        "name": "Vacaciones tope guay",
+        "url": "https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209253,
+      "name": "Vacaciones tope guay",
+      "url": "https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST"
     },
     {
       "album": {

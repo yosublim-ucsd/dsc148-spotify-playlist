@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="spotify:artist:1DN9Pgv4fiAaRSSgiisj5G">Felix!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,145 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,177 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 20 | [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 |
 | 21 | [GOAT FARM](https://open.spotify.com/track/7jUMcoiaQRJVPi9Fo4kL3Q) | [Clark D](https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4), [Noah Scharf](https://open.spotify.com/artist/2s7KEZJf3T50dgaQoJBFZ7) | [WHY THE F\*\*\* NOT?!](https://open.spotify.com/album/4mUyFtM2e9KRaWIyB2ajoS) | 2:49 |
 | 22 | [Never Enough](https://open.spotify.com/track/6zRJ4zXxZ5S8P1XMURRm7k) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Never Enough](https://open.spotify.com/album/2OZFvjpnidmupRRZGYjNZM) | 2:26 |
-| 23 | [WAHALA!](https://open.spotify.com/track/7Ei5tXp7sCjXjkWUWePMwq) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [WAHALA!](https://open.spotify.com/album/3P6dJzfnnXUKzNzL5kX5Tg) | 2:06 |
+| 23 | [WAHALA!](https://open.spotify.com/track/18Cnb8cok5JQeG8qU3ObVF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [WAHALA!](https://open.spotify.com/album/0h1JIu4n6aAaTwEjYiSPC8) | 2:06 |
 | 24 | [Bout You](https://open.spotify.com/track/7hkTsGWqvfYoc5LGcKzLdu) | [Nino Francis](https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr), [Olu Vibez](https://open.spotify.com/artist/4gWss5WLhs76gUsFACX7Rz) | [Bout You](https://open.spotify.com/album/2xrQFyNLYn09awM1tRoifh) | 2:41 |
 | 25 | [After Life](https://open.spotify.com/track/36UCQkdr0UO7YtF3jRAUAv) | [Gogo.](https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp) | [After Life](https://open.spotify.com/album/2pmN9CUGtz2ws2xzB95ofU) | 3:37 |
 | 26 | [WK](https://open.spotify.com/track/27tAN7i2rDioRsKIi0U8ze) | [Uche Malik](https://open.spotify.com/artist/2X4iiazskAL90U3e1QHVsG), [Jaey London](https://open.spotify.com/artist/4pOIfGaOomMfhsdni39IpL) | [WK](https://open.spotify.com/album/6u62QnlXBHRDrEQvnQS46l) | 2:43 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 32 | [uUuAa](https://open.spotify.com/track/6KYBtbf2CNwkupTvXWfS7J) | [Aura](https://open.spotify.com/artist/5bfbqVepB9jL5gBANS74iU) | [uUuAa](https://open.spotify.com/album/1lf9Sm10a3zg2ds9LwtZZj) | 2:21 |
 | 33 | [SELFISH](https://open.spotify.com/track/4M6OJAojzihucmOW9vYJwP) | [Vintage Lee](https://open.spotify.com/artist/197t0dYfJx5S2mxxEHApdf) | [SELFISH](https://open.spotify.com/album/3BoU2Mi8i6bB9IeaK40TdO) | 2:08 |
 | 34 | [Coat Hanger](https://open.spotify.com/track/5uZsVB4E34HdORdxFQ6QS5) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Coat Hanger](https://open.spotify.com/album/1SGR3mh7RFvON6buXUTe7S) | 1:49 |
-| 35 | [10pc](https://open.spotify.com/track/1PgBPDa8rxfsao5FkfMWP4) | [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx), [Vinyl Villain](https://open.spotify.com/artist/37OfAXhSGfjxrODZr2fNX4) | [Mookie Blaylock](https://open.spotify.com/album/3GjXhr9C7CW7BmB1uKVJ4z) | 2:52 |
+| 35 | [10pc](https://open.spotify.com/track/4qVackkH4lFR8n0TZs6R0s) | [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx), [Vinyl Villain](https://open.spotify.com/artist/37OfAXhSGfjxrODZr2fNX4) | [10pc](https://open.spotify.com/album/4aY4pGLmHiMmYzWvUZgeDo) | 2:52 |
 | 36 | [Declarations](https://open.spotify.com/track/75X92HqHCt21wu56OEoG68) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [Declarations](https://open.spotify.com/album/0hPTGUnRjDEdgkBE9ThBvn) | 2:06 |
 | 37 | [I Do I](https://open.spotify.com/track/6x75JRWcelMRPBMEHnGMiI) | [Nay Speaks](https://open.spotify.com/artist/3kYoVeuo1kVavmhDwBD8Xx) | [Nayborhood Healer](https://open.spotify.com/album/781crCQLQK320V8xWU6l9E) | 1:48 |
 | 38 | [DONE BEING BROKE](https://open.spotify.com/track/2ZFTzop62lkocOJ1nCkKiH) | [WHYTRI](https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [DONE BEING BROKE](https://open.spotify.com/album/0X9xx1cnBVkqdGFwpz9Yu3) | 3:38 |
-| 39 | [Yeah Yeah](https://open.spotify.com/track/3FScVu3qZNU2isUYNvCwh4) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/5jjL60rm8RzpoEQ3vs7lDf) | 2:46 |
+| 39 | [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 |
 | 40 | [Ain't Trippin](https://open.spotify.com/track/2ztRHARBf4Mp13vbNRkEFS) | [Lee Bezel](https://open.spotify.com/artist/73lsSnZSw4FUrXyCtlKS1G) | [Ain't Trippin](https://open.spotify.com/album/45H9VeEuVkoZZMSRuVH4Zo) | 1:51 |
 | 41 | [Wave Affair](https://open.spotify.com/track/2gC3jb2rkTpLwt3fuKb7Bt) | [Grubby Pawz](https://open.spotify.com/artist/4kmovQMQ9hZIvJSyivXQAP), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL), [al.divino](https://open.spotify.com/artist/5jyagx5BZME4APq93Q1HwZ), [Shaykh Hanif](https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg), [The Hidden Character](https://open.spotify.com/artist/1ADhnoBdMpGX3rE2nh4tcY), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [WAVY BULLET](https://open.spotify.com/album/4cT5zvT4mBLlWOLIuy2vAX) | 4:43 |
 | 42 | [DEMNUHWANT](https://open.spotify.com/track/73Bq6FQ3FrlIxaPXL3WIiF) | [Kadeem](https://open.spotify.com/artist/6tvhrOPkBOrTrzpfOB5n4R), [Loman](https://open.spotify.com/artist/3Dub887prH9nL1AFHcXE5g) | [PEACE OF HOME](https://open.spotify.com/album/5OYghbL3835zfXgoBk8VzN) | 3:02 |

@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -316,10 +316,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/3wlLknnMtD8yZ0pCtCeeK4"
+    },
+    {
+      "album": {
+        "name": "Emosi",
+        "url": "https://open.spotify.com/album/3KcgxnKXrKeh21uUaP8ssS"
+      },
+      "artists": [
+        {
+          "name": "Sheila Majid",
+          "url": "https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Antara Anyer Dan Jakarta",
+      "url": "https://open.spotify.com/track/5qCFwRlSV9Z8S35EYuQvDM"
     },
     {
       "album": {
@@ -542,7 +560,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 170909,
       "name": "bad together",
       "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166000,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/6qKZyYF6iZzzRASRgIRRec"
@@ -1097,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "can't you see",
+        "url": "https://open.spotify.com/album/2EuJGx0ZIlEvVtVoHqhjdf"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203902,
+      "name": "can't you see",
+      "url": "https://open.spotify.com/track/12fDGZPMJXkcFuqVytBT1t"
+    },
+    {
+      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 187898,
       "name": "comeoutside",
       "url": "https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu"
@@ -1376,7 +1412,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239307,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 197855,
       "name": "dinner in bed",
       "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173333,
       "name": "Favourite Things",
       "url": "https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk"
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 269712,
       "name": "It's You (feat. Kaleb J)",
       "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
@@ -3204,7 +3240,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 207625,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU"
@@ -3222,7 +3258,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
@@ -3900,7 +3936,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217146,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S"
@@ -4284,7 +4320,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
@@ -4378,7 +4414,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205552,
       "name": "Oh It's You",
       "url": "https://open.spotify.com/track/56vmm78xsrxvFMaJstBPKj"
@@ -4476,7 +4512,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215647,
       "name": "Other Half",
       "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
@@ -4810,7 +4846,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260000,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/2OwVW3JSGKjW767yndxeqc"
@@ -5270,7 +5306,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221700,
       "name": "Sakit",
       "url": "https://open.spotify.com/track/2rAJy2WSlQOINaWi0kydkr"
@@ -5288,7 +5324,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 158289,
       "name": "Same Mistakes",
       "url": "https://open.spotify.com/track/1ZUGTfYnbyc7hB4Y2uXXf0"
@@ -5480,7 +5516,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 165971,
       "name": "Shouldn't Have To Run",
       "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
@@ -5672,7 +5708,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164662,
       "name": "SOMEBODY",
       "url": "https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ"
@@ -6372,7 +6408,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205346,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
@@ -6830,6 +6866,24 @@
       "duration_ms": 175720,
       "name": "Who Are You (feat. J.O.Y & GARETH FERNANDEZ)",
       "url": "https://open.spotify.com/track/2eseiLa29tI1Rn2AefS55h"
+    },
+    {
+      "album": {
+        "name": "Who Do I Call?",
+        "url": "https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n"
+      },
+      "artists": [
+        {
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Who Do I Call?",
+      "url": "https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66"
     },
     {
       "album": {

@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Chewed Up",
+      "url": "https://open.spotify.com/track/4hy4x8VaOCy1g3ObRygzR1"
+    },
+    {
+      "album": {
         "name": "Mend, Move On",
         "url": "https://open.spotify.com/album/4bFdLj8gRfj2BnAtVuGGbc"
       },
@@ -1534,6 +1552,32 @@
       "duration_ms": 192226,
       "name": "Forget December",
       "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
+    },
+    {
+      "album": {
+        "name": "GIRL$",
+        "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132999,
+      "name": "GIRL$",
+      "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
     },
     {
       "album": {
@@ -2427,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "love like robots",
+        "url": "https://open.spotify.com/album/3P48marTOlJnMplWCZkot9"
+      },
+      "artists": [
+        {
+          "name": "knights in paris",
+          "url": "https://open.spotify.com/artist/74DW4UCeEwbvOKbvH3zKHs"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210559,
+      "name": "love like robots",
+      "url": "https://open.spotify.com/track/2i9ekgFsuogO1hIVs78HBd"
+    },
+    {
+      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
       },
@@ -3152,7 +3214,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190731,
       "name": "SEX ON THE BEACH",
       "url": "https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0"
@@ -3408,7 +3470,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"

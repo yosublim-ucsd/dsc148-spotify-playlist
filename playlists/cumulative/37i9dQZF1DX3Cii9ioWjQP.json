@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Milena(\ubc00\ub808\ub098))",
+  "description": "All about Korean Jazz hits & new (Cover: Yeri Kang(\uac15\uc608\ub9ac))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "A Snowy Field",
+        "url": "https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv"
+      },
+      "artists": [
+        {
+          "name": "LCY Project",
+          "url": "https://open.spotify.com/artist/6X9H0aP7HNL2RKH6XKIX1i"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "A Snowy Field",
+      "url": "https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81"
+    },
+    {
+      "album": {
         "name": "Jinxed at First (Original Television Soundtrack), Pt.4",
         "url": "https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 261374,
       "name": "Annual plant",
       "url": "https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw"
@@ -186,7 +204,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261374,
       "name": "Annual plant",
       "url": "https://open.spotify.com/track/3TcPYJi9lSwwt350olQ3zB"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 189398,
       "name": "Artemis In My Pluto",
       "url": "https://open.spotify.com/track/14rVKMBXB7yncPlstFwt8u"
@@ -222,10 +240,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189398,
       "name": "Artemis In My Pluto",
       "url": "https://open.spotify.com/track/3leuAjdy8RnqLKgvlvPqLT"
+    },
+    {
+      "album": {
+        "name": "Audrey",
+        "url": "https://open.spotify.com/album/5HTXudQOdLtmZvDNawqwMW"
+      },
+      "artists": [
+        {
+          "name": "Yeri Kang",
+          "url": "https://open.spotify.com/artist/0dO41bAMVabROIYUSbbhL9"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186367,
+      "name": "Audrey",
+      "url": "https://open.spotify.com/track/4a3NQxkOngZHj3b3zwMa1I"
     },
     {
       "album": {
@@ -334,7 +370,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291493,
       "name": "Bird+Disposable (Live at Nodeul Live House, 2021)",
       "url": "https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ"
@@ -352,7 +388,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 291493,
       "name": "Bird+Disposable - Live at Nodeul Live House, 2021",
       "url": "https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE"
@@ -424,7 +460,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188666,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/5XhtsFFa0x6T68RU228Eql"
@@ -442,10 +478,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 188666,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9"
+    },
+    {
+      "album": {
+        "name": "On the Way Home",
+        "url": "https://open.spotify.com/album/5vlDbrQPuOXA5FdGnE634D"
+      },
+      "artists": [
+        {
+          "name": "Mind Nook",
+          "url": "https://open.spotify.com/artist/3y71oigavnqzw1D3bFpuSf"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Breezy Night",
+      "url": "https://open.spotify.com/track/78ORvyLRxXyH553djGx6tx"
     },
     {
       "album": {
@@ -554,7 +608,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225569,
       "name": "CHANSON TRISTE",
       "url": "https://open.spotify.com/track/4QDOaEC18YN6l2BOFKo463"
@@ -656,7 +710,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 279192,
       "name": "Close my eyes",
       "url": "https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ"
@@ -678,7 +732,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279192,
       "name": "Close my eyes",
       "url": "https://open.spotify.com/track/6WTMDGgiLy5yOApHte6a12"
@@ -736,7 +790,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 579840,
       "name": "Consolation",
       "url": "https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p"
@@ -844,7 +898,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303152,
       "name": "Diaspora",
       "url": "https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU"
@@ -1296,7 +1350,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192592,
       "name": "Isolate (feat. AHRAM GO)",
       "url": "https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo"
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 192592,
       "name": "Isolate (feat. \uace0\uc544\ub78c)",
       "url": "https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q"
@@ -1336,7 +1390,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186343,
       "name": "It\u2019s Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8"
@@ -1390,7 +1444,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 195413,
       "name": "Late Autumn",
       "url": "https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb"
@@ -1408,7 +1462,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195413,
       "name": "Late Autumn",
       "url": "https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ"
@@ -1466,7 +1520,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212968,
       "name": "Like It",
       "url": "https://open.spotify.com/track/1KK7fQbTsWKeexy76WlvC4"
@@ -2478,7 +2532,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266527,
       "name": "Standstill",
       "url": "https://open.spotify.com/track/2FO4NG072mM775tWuGErNB"
@@ -2496,7 +2550,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 266527,
       "name": "Standstill",
       "url": "https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu"
@@ -2536,7 +2590,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200000,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
@@ -2669,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "The Day Before",
+        "url": "https://open.spotify.com/album/6N2aJMWPWK5RYwp6GFrRaX"
+      },
+      "artists": [
+        {
+          "name": "Kim Seong Hwa Trio",
+          "url": "https://open.spotify.com/artist/5B8SahzFBloYOMfoZVLBsE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340500,
+      "name": "The Day Before",
+      "url": "https://open.spotify.com/track/6D6O8cdlobpezavCvFjRVi"
+    },
+    {
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ"
       },
@@ -2738,7 +2810,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 209638,
       "name": "Tic Toc",
       "url": "https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o"
@@ -2756,7 +2828,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209638,
       "name": "Tic Toc",
       "url": "https://open.spotify.com/track/3v8tZDqJGf67V31paDAbd8"
@@ -2958,7 +3030,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 220053,
       "name": "Venice Calle",
       "url": "https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw"
@@ -2976,7 +3048,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220053,
       "name": "Venice Calle",
       "url": "https://open.spotify.com/track/4BQtzBhik3F3bDeerVrHvZ"
@@ -3070,6 +3142,24 @@
       "duration_ms": 257194,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/34jFiBvQltG35fneRLMMQM"
+    },
+    {
+      "album": {
+        "name": "Dear Mozart",
+        "url": "https://open.spotify.com/album/61c5QVCrlHFLjXSRhRUk72"
+      },
+      "artists": [
+        {
+          "name": "Shin Hyunpill & Ko Heean",
+          "url": "https://open.spotify.com/artist/6bk0kCo13gHdJfejZ2oaZ5"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Wiegenlied (Lullaby) K.350",
+      "url": "https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw"
     },
     {
       "album": {
@@ -3320,6 +3410,24 @@
       "duration_ms": 197982,
       "name": "\uc2dc\uc791",
       "url": "https://open.spotify.com/track/0LsATRvvj43sSh4lvCWsQc"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub298\uc740 \ub9d1\uc74c (Sunny Side Up)",
+        "url": "https://open.spotify.com/album/3u4UzQDUTwaO70GbvVj0o7"
+      },
+      "artists": [
+        {
+          "name": "Matt Park",
+          "url": "https://open.spotify.com/artist/5Kos2wrxbC9LI1rkaPvGIP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "\uc624\ub298\uc740 \ub9d1\uc74c (Sunny Side Up)",
+      "url": "https://open.spotify.com/track/3oA2whD4CPexa0Klod6msm"
     },
     {
       "album": {

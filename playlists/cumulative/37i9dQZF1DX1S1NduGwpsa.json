@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Emile Londonien",
+  "description": "The best jazz new releases. Cover: Madeleine Peyroux",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -112,7 +112,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168500,
       "name": "6 Feet Down",
       "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199933,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
@@ -1617,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235920,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
+    },
+    {
+      "album": {
         "name": "Chacha Rom",
         "url": "https://open.spotify.com/album/6hRtnGFtIzAlYh05Ehog4h"
       },
@@ -1884,7 +1906,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230680,
       "name": "Coconut Race",
       "url": "https://open.spotify.com/track/1RKnuOBNX0RLm7VgdgMEr0"
@@ -2136,6 +2158,28 @@
       "duration_ms": 300031,
       "name": "Corner Kisses",
       "url": "https://open.spotify.com/track/1DUQwRzzAeOhFAc5CD7qD9"
+    },
+    {
+      "album": {
+        "name": "Coton \u00c9lectrique",
+        "url": "https://open.spotify.com/album/2q3LydB5kjchVDxY3pD4jT"
+      },
+      "artists": [
+        {
+          "name": "Lucas Saint-Cricq",
+          "url": "https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI"
+        },
+        {
+          "name": "Tao Ehrlich",
+          "url": "https://open.spotify.com/artist/0uL8d6x8Zs3xRiBE5Ti7Kh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "Coton \u00c9lectrique",
+      "url": "https://open.spotify.com/track/2UD2QBFpea28KBnHjDYAt5"
     },
     {
       "album": {
@@ -3221,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Fly with Me",
+        "url": "https://open.spotify.com/album/0jxZUWyB9Hfgo3NVt4ss2f"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Fly with Me",
+      "url": "https://open.spotify.com/track/5xCSNRcQhOUpJjGWVkCYoL"
+    },
+    {
+      "album": {
         "name": "Follow the Light",
         "url": "https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt"
       },
@@ -3588,7 +3650,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301925,
       "name": "Game On",
       "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
@@ -4880,7 +4942,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248666,
       "name": "Istanbul (feat. Elijah Fox) - Live From Malibu",
       "url": "https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6"
@@ -5000,6 +5062,28 @@
       "duration_ms": 195849,
       "name": "Jazz Hands (feat. CeeLo Green)",
       "url": "https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL"
+    },
+    {
+      "album": {
+        "name": "Triptych Phase II",
+        "url": "https://open.spotify.com/album/51MLo86B4wPX40715BiCB7"
+      },
+      "artists": [
+        {
+          "name": "Stephane Wrembel",
+          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
+        },
+        {
+          "name": "Jean-Michel Pilc",
+          "url": "https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381585,
+      "name": "Jonathan Livingston Seagull",
+      "url": "https://open.spotify.com/track/69QHGsphyHQRqGjczGMnEt"
     },
     {
       "album": {
@@ -5279,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "La dolce vita",
+        "url": "https://open.spotify.com/album/7F3LVMV1RFVHS0IT86fi3b"
+      },
+      "artists": [
+        {
+          "name": "Stefano Di Battista",
+          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224763,
+      "name": "La dolce vita",
+      "url": "https://open.spotify.com/track/5Oe577tRLrdLTORLlweyfp"
+    },
+    {
+      "album": {
         "name": "Habana-Bahia",
         "url": "https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw"
       },
@@ -5480,7 +5582,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 314481,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ"
@@ -5498,7 +5600,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314481,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328"
@@ -6449,6 +6551,32 @@
     },
     {
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/4Tfadb0Ijk0k7yfx8cUwp5"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        },
+        {
+          "name": "Kenny Davis",
+          "url": "https://open.spotify.com/artist/3BdCo2Gy6glIDL4U55OkLn"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/6vHPQJVhOSAYVXLyb4qG08"
+    },
+    {
+      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/0Auii4hWw3billY9l4XCq2"
       },
@@ -6831,6 +6959,24 @@
     },
     {
       "album": {
+        "name": "Nymphea",
+        "url": "https://open.spotify.com/album/4QPC8VgOOEh6pBGmlPbSF0"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286298,
+      "name": "Nymphea",
+      "url": "https://open.spotify.com/track/1HxY3Z3vFws3fTsiOW1utQ"
+    },
+    {
+      "album": {
         "name": "Offering - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a"
       },
@@ -7140,7 +7286,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 215336,
       "name": "Over When It's Over",
       "url": "https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv"
@@ -7158,7 +7304,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215336,
       "name": "Over When It's Over",
       "url": "https://open.spotify.com/track/5r4qu6EI4ptv8NudzUzycx"
@@ -7580,7 +7726,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177120,
       "name": "R&B",
       "url": "https://open.spotify.com/track/1REW7x0cLKEkFre9W0GBEm"
@@ -7889,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "1978",
+        "url": "https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253320,
+      "name": "Saturday Night (Need You Now)",
+      "url": "https://open.spotify.com/track/7A7zkIt1RGMtyJNrjdY07o"
+    },
+    {
+      "album": {
         "name": "Everything Is Going to Be OK",
         "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
@@ -8080,6 +8244,24 @@
       "duration_ms": 539887,
       "name": "Short Shore",
       "url": "https://open.spotify.com/track/0ZixlJXjuXbo1cEYAGqnGu"
+    },
+    {
+      "album": {
+        "name": "Showman Dan",
+        "url": "https://open.spotify.com/album/5UkqnZeSLEafGVLyqRe38r"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Showman Dan",
+      "url": "https://open.spotify.com/track/6PfdBLM4XoGyWTrhnaVWgI"
     },
     {
       "album": {
@@ -8299,6 +8481,24 @@
     },
     {
       "album": {
+        "name": "Soon As I Can",
+        "url": "https://open.spotify.com/album/2w8f9kV5iT5uRHzoX8N4ZJ"
+      },
+      "artists": [
+        {
+          "name": "The Brooks",
+          "url": "https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288720,
+      "name": "Soon As I Can",
+      "url": "https://open.spotify.com/track/5wNoUMukHWRExLKTiqIKmL"
+    },
+    {
+      "album": {
         "name": "Sory",
         "url": "https://open.spotify.com/album/6qm9ZqiyyyccZiQJJiZHFe"
       },
@@ -8314,7 +8514,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209386,
       "name": "Sory",
       "url": "https://open.spotify.com/track/0B2QcsGn4HAVLMo5rmbxKK"
@@ -8466,7 +8666,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141812,
       "name": "Subtle Note",
       "url": "https://open.spotify.com/track/5X2XewQqTVrCA5zDOuY7zh"
@@ -9762,7 +9962,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176355,
       "name": "Twenties",
       "url": "https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K"
@@ -10428,7 +10628,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220641,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/0cH9J7RLTIjP025BxGXExO"
@@ -10550,6 +10750,24 @@
     {
       "album": {
         "name": "Willow",
+        "url": "https://open.spotify.com/album/5JEiVEahTeREdRncv5kAWV"
+      },
+      "artists": [
+        {
+          "name": "Bryony Jarman-Pinto",
+          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345060,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/5VM74SNvvTKWBJMnLA1OLD"
+    },
+    {
+      "album": {
+        "name": "Willow",
         "url": "https://open.spotify.com/album/08zbz4HJRqYYHH3iZ3wD4h"
       },
       "artists": [
@@ -10560,7 +10778,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345060,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6tqZ4GhZeGGe43z52w8A0Z"

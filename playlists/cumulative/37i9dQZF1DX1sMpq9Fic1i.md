@@ -4,14 +4,19 @@
 
 > Music from "BLUELOCK" /アニメ「ブルーロック」の楽曲を1つのプレイリストで。©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-32 songs - 1 hr 23 min
+38 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#1【ブルーロック】  浦和希×島﨑信長「どう考えたって『天才』凪と組んだ方がええやろ！」](https://open.spotify.com/episode/0CEvoRYPHSnyMedWiDFX44) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 34:59 | 2024-04-18 |  |
+| [\#2【ブルーロック】  浦和希×島﨑信長「ブルーロックはみんなのパッションをひたすらぶつけていこうぜ！という作品」](https://open.spotify.com/episode/4brfNXYdxQ98F8KhVAUeSI) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 33:47 | 2024-04-18 |  |
+| [\#3【ブルーロック】  浦 和希×内田雄馬「『凪は自分の宝物である』というセリフにひっかかる…」](https://open.spotify.com/episode/3atjyCquEVAZZsD9HbN9Ma) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 32:44 | 2024-04-18 |  |
+| [\#4【ブルーロック】  浦 和希×内田雄馬「ブルーロックの“作品力”は玲王だけじゃなく内田まで影響する」](https://open.spotify.com/episode/3nNXIEAF8jXyEG7L594xMk) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 30:14 | 2024-04-18 |  |
 | [Aggressive](https://open.spotify.com/track/7nCYiBOZ3zeTJ9kfW8RNDE) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:24 | 2023-06-22 |  |
 | [Awakening of BAROU](https://open.spotify.com/track/0tIhFwq1gSJdjPH0mo19HW) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:51 | 2023-06-22 |  |
 | [BACHIRA](https://open.spotify.com/track/1dtQH4HvGUYo8iCOn7m5Ss) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:48 | 2023-06-22 |  |
 | [Back and Forth](https://open.spotify.com/track/4syuXGPoDB2Fo3jnW2vs7K) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:37 | 2023-06-22 |  |
+| [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 | 2024-04-18 |  |
 | [Beyond the Image](https://open.spotify.com/track/1D83RID6kfu6t2FJwXS0Oa) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:17 | 2023-06-22 |  |
 | [BLUELOCK](https://open.spotify.com/track/6o6BdgEE5mK8muWiRuMw4j) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:22 | 2023-06-22 |  |
 | [CHIGIRI](https://open.spotify.com/track/2bbLUl984baOGtljQ6uPiR) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:39 | 2023-06-22 |  |
@@ -37,6 +42,7 @@
 | [TriWAR GAME \- ReCollision](https://open.spotify.com/track/4sSnACioBjMQsuz5nDzsre) | [潔 世一 \(CV.浦 和希\)](https://open.spotify.com/artist/4XUjnW6zLnXVPaRskMvja0), [馬狼照英 \(CV.諏訪部順一\)](https://open.spotify.com/artist/6KkwcFMAfIMWhIzqVCSWC0), [凪 誠士郎 \(CV.島﨑信長\)](https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 4:02 | 2023-06-22 |  |
 | [Turnaround](https://open.spotify.com/track/2on1qKATYdG1NyyJUEJbRO) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:35 | 2023-06-22 |  |
 | [WINNER](https://open.spotify.com/track/14mCnyDRVwIaBEzI4UKvt0) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/0ugax3s6E7k3ElIU0EMpuo) | 3:32 | 2023-06-22 |  |
+| [オクターヴ](https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [オクターヴ](https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL) | 3:07 | 2024-04-18 |  |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2023-06-22 |  |
 | [ゼロ](https://open.spotify.com/track/2gIUhgY6m1Yj0exHdXhVsR) | [國神錬介 \(CV.小野友樹\)](https://open.spotify.com/artist/2DFbKMoyXH8iGUvrCoYS6s), [千切豹馬 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/3Q5mbDEOzgcVvkWJCE2HQA), [御影玲王 \(CV.内田雄馬\)](https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.2](https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24) | 3:38 | 2023-06-22 |  |
 | [暴風とプロメテウス](https://open.spotify.com/track/6zVQTG4XWUQa7fyF8PIVGl) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:09 | 2023-06-22 |  |

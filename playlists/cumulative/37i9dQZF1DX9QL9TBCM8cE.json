@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264146,
       "name": "Ashita mo Beautiful Day",
       "url": "https://open.spotify.com/track/2ATsPqprRxCYYxF0phmvNW"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247786,
       "name": "BRIGHTEST WHITE",
       "url": "https://open.spotify.com/track/06TMFKm1kw8QymT6XGMIll"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213346,
       "name": "Hadashi ja Irarenai",
       "url": "https://open.spotify.com/track/3D4BcgYsmpTDDyxJKf0wbV"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222866,
       "name": "Homura Invitation",
       "url": "https://open.spotify.com/track/2MnRMcPCgafAljaw2Z6iK7"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316213,
       "name": "Ijigen BIGBANG",
       "url": "https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243720,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2hTddlDcHo4nghlfINF8Jt"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 339133,
       "name": "VOY@GER",
       "url": "https://open.spotify.com/track/1XpmPaXl4Hct0ZTtTZnEPb"
@@ -1623,6 +1623,40 @@
     },
     {
       "album": {
+        "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2SMURyI1Jvv83ZkP8LUiLA"
+      },
+      "artists": [
+        {
+          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
+          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
+        },
+        {
+          "name": "\u9edb \u51ac\u512a\u5b50 (CV.\u5e78\u6751\u6075\u7406)",
+          "url": "https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0"
+        },
+        {
+          "name": "\u548c\u6cc9\u611b\u4f9d (CV.\u5317\u539f\u6c99\u5f25\u9999)",
+          "url": "https://open.spotify.com/artist/5EL1PeXHLhtARmaFhNeCTT"
+        },
+        {
+          "name": "\u4e03\u8349\u306b\u3061\u304b (CV.\u7d2b\u6708\u674f\u6731\u5f69)",
+          "url": "https://open.spotify.com/artist/4QBth13tNmPlWh8cwsIMdm"
+        },
+        {
+          "name": "\u7dcb\u7530\u7f8e\u7434 (CV.\u5c71\u6839 \u7dba)",
+          "url": "https://open.spotify.com/artist/0VJYBd628F6WoLMA7tDX5h"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0vXs7097cLK8vQlKMlwpV5"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 04",
         "url": "https://open.spotify.com/album/3VGtdqoBVfUQxjJb4vO6dd"
       },
@@ -1760,7 +1794,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 274800,
       "name": "\u5343\u591c\u30a2\u30ea\u30a2",
       "url": "https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5"
@@ -1814,7 +1848,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 261265,
       "name": "\u5922\u898b\u9ce5",
       "url": "https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq"
@@ -1832,7 +1866,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291520,
       "name": "\u592a\u967d\u30ad\u30c3\u30b9",
       "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
@@ -1922,7 +1956,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 264146,
       "name": "\u660e\u65e5\u3082Beautiful Day",
       "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
@@ -2054,7 +2088,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 316213,
       "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
       "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
@@ -2400,7 +2434,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 213346,
       "name": "\u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4",
       "url": "https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq"

@@ -560,6 +560,24 @@
     {
       "album": {
         "name": "Faminta",
+        "url": "https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Eu Tava Em Casa",
+      "url": "https://open.spotify.com/track/2h7DmQXeYqAXG9cMtqdiLy"
+    },
+    {
+      "album": {
+        "name": "Faminta",
         "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
       },
       "artists": [
@@ -570,7 +588,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249333,
       "name": "Eu Tava Em Casa",
       "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
@@ -1616,10 +1634,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+    },
+    {
+      "album": {
+        "name": "SHAWTY",
+        "url": "https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF"
+      },
+      "artists": [
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173385,
+      "name": "SHAWTY",
+      "url": "https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm"
     },
     {
       "album": {
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194137,
       "name": "\u00cdndigo (Te Venero)",
       "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
@@ -1980,7 +2016,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 194137,
       "name": "\u00cdndigo (Te Venero)",
       "url": "https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl"

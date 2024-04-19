@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230654,
       "name": "Blinded By Your Grace, Pt. 2 (feat. MNEK)",
       "url": "https://open.spotify.com/track/0YwZuKtyHptLlCcacS7EqJ"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 230654,
       "name": "Blinded By Your Grace, Pt. 2 (feat. MNEK)",
       "url": "https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 216315,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216315,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279272,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235236,
       "name": "Celebrate Life",
       "url": "https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 235236,
       "name": "Celebrate Life",
       "url": "https://open.spotify.com/track/7qoJwPYtnQUEmltftJc7Id"
@@ -216,6 +216,24 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "album": {
+        "name": "Currency",
+        "url": "https://open.spotify.com/album/0iE9w3HQScgdOPXoFEwGWh"
+      },
+      "artists": [
+        {
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/4OzUSLeplKwTm2iSbrkF8g"
     },
     {
       "album": {
@@ -252,10 +270,28 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173600,
       "name": "Dancing On Top of the World",
       "url": "https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf"
+    },
+    {
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/1q8TJAtMTvA3FFjhcsDhvZ"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Dancing on Top of the World",
+      "url": "https://open.spotify.com/track/2YNKo5RSCPFs0X0YQmYGme"
     },
     {
       "album": {
@@ -288,10 +324,32 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175173,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf"
+    },
+    {
+      "album": {
+        "name": "Dear Regret",
+        "url": "https://open.spotify.com/album/27MKsRgdDeznExxKezUzjt"
+      },
+      "artists": [
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        },
+        {
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "Dear Regret",
+      "url": "https://open.spotify.com/track/5wrjoyXqTcLh7XvgukpFDO"
     },
     {
       "album": {
@@ -324,7 +382,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238608,
       "name": "Delight in You",
       "url": "https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b"
@@ -418,7 +476,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186513,
       "name": "Fanatic",
       "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
@@ -478,13 +536,13 @@
           "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
         },
         {
-          "name": "YB",
+          "name": "808 BEEZY",
           "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "From the Roof (feat. YB)",
       "url": "https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j"
@@ -524,7 +582,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
@@ -564,7 +622,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 235312,
       "name": "Gone Are the Days (Julie Odnoralov Remix)",
       "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
@@ -582,7 +640,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235312,
       "name": "Gone Are the Days - Julie Odnoralov Remix",
       "url": "https://open.spotify.com/track/1aGaOu7QcnogMdIDPbkwb2"
@@ -600,7 +658,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219613,
       "name": "Heaven (All Around You) - Acoustic",
       "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
@@ -618,7 +676,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 223783,
       "name": "Help You Heal",
       "url": "https://open.spotify.com/track/45BXjER0XEofYtOw4oB4lh"
@@ -672,7 +730,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201879,
       "name": "I Lift Your Name Up - 80's Remix",
       "url": "https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv"
@@ -712,10 +770,28 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189626,
       "name": "I'm Gonna Let It Go",
       "url": "https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK"
+    },
+    {
+      "album": {
+        "name": "In Rhythm",
+        "url": "https://open.spotify.com/album/3g2ucyCUURbjVNo8ec6rO0"
+      },
+      "artists": [
+        {
+          "name": "Mirours",
+          "url": "https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292506,
+      "name": "In Rhythm",
+      "url": "https://open.spotify.com/track/1V4M9hcOewZm6xydaxsWl0"
     },
     {
       "album": {
@@ -781,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3VvWba6kh5TcCiHhHBfpxP"
+      },
+      "artists": [
+        {
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195767,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/1TXs87J1Rxud9mmxSqFlYM"
+    },
+    {
+      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
       },
@@ -810,10 +904,28 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144629,
       "name": "Joyboy",
       "url": "https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy"
+    },
+    {
+      "album": {
+        "name": "Lazarus",
+        "url": "https://open.spotify.com/album/1mYVX6VT8bhVHlu3aUyfTc"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/4s3FRxV2vVlAUFHlrXyTUu"
     },
     {
       "album": {
@@ -868,6 +980,24 @@
       "duration_ms": 170000,
       "name": "Listen More",
       "url": "https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5xOBZA3d7Cvs38g9w7Su3g"
+      },
+      "artists": [
+        {
+          "name": "Westover",
+          "url": "https://open.spotify.com/artist/3IUGN5NE9KUwcbbbb057vZ"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211770,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/0LcM0Xxr198IB7Ji9EQgwv"
     },
     {
       "album": {
@@ -926,7 +1056,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211293,
       "name": "Maybe It's Ok",
       "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
@@ -1031,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/4rOSSAf4yT22M6N6o6NEGk"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242213,
+      "name": "Out of Sight",
+      "url": "https://open.spotify.com/track/7dSMZs32flMZOBlH0ZZEnu"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/5p4J0GlaNKf5Ti8P3YjNYw"
       },
@@ -1042,7 +1190,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 178878,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7qN4u1nehLLf702kG6j1QJ"
@@ -1064,10 +1212,28 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329466,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5"
+    },
+    {
+      "album": {
+        "name": "Quiet",
+        "url": "https://open.spotify.com/album/0Q6wkeuZkKehLWJuXnNGzU"
+      },
+      "artists": [
+        {
+          "name": "Empty Isles",
+          "url": "https://open.spotify.com/artist/5n1EMjVzdwnj5KaKzBUhFd"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "Quiet",
+      "url": "https://open.spotify.com/track/65QxL52nwKmW85mBKFTARI"
     },
     {
       "album": {
@@ -1090,7 +1256,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154624,
       "name": "Radical",
       "url": "https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8"
@@ -1126,10 +1292,28 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 215886,
       "name": "Real Friends",
       "url": "https://open.spotify.com/track/7zX0UYnQr1P3ztNrMp21Ei"
+    },
+    {
+      "album": {
+        "name": "Beats and Pieces: Volume One",
+        "url": "https://open.spotify.com/album/5sCH6evfbbnQDq7zUFJD72"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168994,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/5Aq6dhgVsvhy3g2tb0EGn2"
     },
     {
       "album": {
@@ -1166,7 +1350,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213997,
       "name": "Safe (feat. Chris Cron)",
       "url": "https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9"
@@ -1260,7 +1444,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235429,
       "name": "Speak to Me",
       "url": "https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc"
@@ -1278,7 +1462,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246445,
       "name": "Storehouse",
       "url": "https://open.spotify.com/track/3Kf9UApNiDkWXHNtOThNkB"
@@ -1296,7 +1480,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 246445,
       "name": "Storehouse",
       "url": "https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa"
@@ -1318,7 +1502,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 189024,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ"
@@ -1354,7 +1538,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249066,
       "name": "Sweet Water",
       "url": "https://open.spotify.com/track/3f5VaDwwxGN1Q99t5RRH8W"
@@ -1372,7 +1556,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "Sweet Water",
       "url": "https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK"
@@ -1430,7 +1614,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 297573,
       "name": "The Great Migration",
       "url": "https://open.spotify.com/track/64GSNWih2teT6tLgKOv0DR"
@@ -1466,7 +1650,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158280,
       "name": "Weakness",
       "url": "https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M"

@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
-140 songs - 6 hr 55 min
+141 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,8 @@
 | [Cztery Pory Roku](https://open.spotify.com/track/1Ie1oqzSIc7YVOG0Pa6qAI) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [CHOC](https://open.spotify.com/album/3Zaf7f6IaqIBUKufLFuwRb) | 3:05 | 2022-09-23 | 2023-03-14 |
 | [Diament](https://open.spotify.com/track/4snpPHFGYvqvAywbtGTk61) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Diament](https://open.spotify.com/album/0hcPWow9eAkb1iUxhj65aQ) | 3:08 | 2023-09-01 |  |
 | [Dinozaury](https://open.spotify.com/track/5XAFPMqtAlO4uKKAwgdw7z) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:44 | 2022-08-26 |  |
-| [Diss Na Miłość](https://open.spotify.com/track/0m8NvsR8kHzXSrHPyxaXc2) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/4QtxlIxlyH5czaqJyayPwM) | 1:52 | 2024-02-02 |  |
-| [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-16 | 2024-02-27 |
+| [Diss Na Miłość](https://open.spotify.com/track/0m8NvsR8kHzXSrHPyxaXc2) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/4QtxlIxlyH5czaqJyayPwM) | 1:52 | 2024-02-02 | 2024-04-19 |
+| [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-16 |  |
 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 | 2023-07-31 |  |
 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 | 2022-08-26 | 2023-03-14 |
 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 | 2023-11-10 |  |
@@ -53,8 +53,8 @@
 | [Haribo](https://open.spotify.com/track/1tsdI9LIUwxbCNiBPotSTx) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Haribo](https://open.spotify.com/album/2GYjVNl9rsOY58IXJxWqIH) | 3:03 | 2022-08-26 | 2022-09-24 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-05-16 | 2023-11-11 |
 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 | 2022-08-26 |  |
-| [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 | 2023-05-16 | 2024-02-28 |
-| [kartki](https://open.spotify.com/track/2eNEAWwAf32hte1Njp9xiF) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/1KPV9ruEJUJziXAj9I8VKI) | 2:30 | 2024-02-02 |  |
+| [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 | 2023-05-16 |  |
+| [kartki](https://open.spotify.com/track/2eNEAWwAf32hte1Njp9xiF) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/1KPV9ruEJUJziXAj9I8VKI) | 2:30 | 2024-02-02 | 2024-04-19 |
 | [Kokieterka](https://open.spotify.com/track/0yqCYvPXP2p6Uh9vKhkq7P) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Kokieterka](https://open.spotify.com/album/27kx8IlI2tZ5yu6UDx3DES) | 2:21 | 2022-08-26 | 2023-04-15 |
 | [kraksa](https://open.spotify.com/track/5NHrQlml5DG2JIYsIS1pMY) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [\[moja ciemność\]²](https://open.spotify.com/album/2Lw0wggQKFlULJY32KpPMa) | 2:52 | 2023-02-06 | 2023-09-02 |
 | [Kruszysz](https://open.spotify.com/track/5c3QbtxY4DBPT7FET6PE2A) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Kruszysz](https://open.spotify.com/album/2KnwvbHPgEEajYjNwwHPxv) | 3:54 | 2023-03-13 | 2023-05-17 |
@@ -110,7 +110,8 @@
 | [Przypadki](https://open.spotify.com/track/0Hw93iLjJaJct0bEcdkWx2) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Przypadki](https://open.spotify.com/album/3qUpOm5ZbZn6klgKk438VU) | 2:47 | 2022-08-26 |  |
 | [Pu$$ycat Dollz](https://open.spotify.com/track/1b4l2qmMY6LvAzRF7Kf9Lf) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Pu$$ycat Dollz](https://open.spotify.com/album/17aJCoSv1jz8QALI1m4HQm) | 2:05 | 2024-02-02 |  |
 | [Puszczaj](https://open.spotify.com/track/3pGuVG2rKFSKWuqtKahAS1) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Puszczaj](https://open.spotify.com/album/4Mixg1QO20t9cPuoDip5Hq) | 3:12 | 2022-08-26 |  |
-| [Put Me First \- Spotify Singles](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \- Spotify Singles](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 | 2023-03-13 |  |
+| [Put Me First \- Spotify Singles](https://open.spotify.com/track/3sjBxFckbKIYH7FShghTlF) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \(Spotify Singles\)](https://open.spotify.com/album/0elfTjxej6qsWnxpjgWs7q) | 2:25 | 2024-04-04 |  |
+| [Put Me First \- Spotify Singles](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \- Spotify Singles](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 | 2023-03-13 | 2024-04-19 |
 | [Płonę, płonę](https://open.spotify.com/track/6K6suYfzQyoJBQ6Btrldj4) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [DUCHY.DISCO](https://open.spotify.com/album/3QXSI4Wnz6CngNCqUq9UDS) | 3:45 | 2024-02-02 |  |
 | [Płonę, płonę](https://open.spotify.com/track/2F71Q213wMg4uDNRg3IGiz) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Płonę, płonę](https://open.spotify.com/album/7ewkjpkeJEnVFuLVSOmmEq) | 3:46 | 2023-05-16 | 2024-02-03 |
 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 | 2023-05-16 | 2023-11-11 |

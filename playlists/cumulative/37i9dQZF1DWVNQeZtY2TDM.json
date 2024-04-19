@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "\u5e73\u5eb8\u4e4b\u4e0a",
+        "url": "https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Aim High",
+      "url": "https://open.spotify.com/track/4447zXCsgDBPORAbbz3Pia"
+    },
+    {
+      "album": {
         "name": "Beyond Mediocrity",
         "url": "https://open.spotify.com/album/5N9n9M1DBQTCavQwbH316F"
       },
@@ -224,7 +242,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223995,
       "name": "Aim High",
       "url": "https://open.spotify.com/track/5to61SmuGq01AKvMmD5ffI"
@@ -953,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Outta Body\u9748\u9b42\u51fa\u7ac5",
+        "url": "https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY"
+      },
+      "artists": [
+        {
+          "name": "\u7626\u5b50E.SO",
+          "url": "https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "CHANGE",
+      "url": "https://open.spotify.com/track/4E5PyVOBH25CICgTURwGXM"
+    },
+    {
+      "album": {
         "name": "Outta Body",
         "url": "https://open.spotify.com/album/2ymoED9nkKBQeg9uyUIVlF"
       },
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161632,
       "name": "CHANGE",
       "url": "https://open.spotify.com/track/7kEjyjL7p62JSKE7Eiz1WG"
@@ -2820,7 +2856,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313281,
       "name": "Love Me True",
       "url": "https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD"
@@ -6264,10 +6300,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308693,
       "name": "\u5341\u4e03",
       "url": "https://open.spotify.com/track/27aaFp7yUBdhqzJUcz9NoJ"
+    },
+    {
+      "album": {
+        "name": "\u5341\u4e03",
+        "url": "https://open.spotify.com/album/4vybZhjpVc5L6cJBzczY3b"
+      },
+      "artists": [
+        {
+          "name": "S.H.E",
+          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308693,
+      "name": "\u5341\u4e03",
+      "url": "https://open.spotify.com/track/2qkJkRmcgpdVhdEhz3GcFX"
     },
     {
       "album": {
@@ -7982,7 +8036,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232400,
       "name": "\u611b\u60c5\u4f60\u6bd4\u6211\u60f3\u7684\u95a3\u8f03\u5049\u5927 (\u300a\u7576\u7537\u4eba\u6200\u611b\u6642\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/6m2I6ZyWRkxjBrrLVQILfl"
@@ -8000,7 +8054,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "\u611b\u60c5\u4f60\u6bd4\u6211\u60f3\u7684\u95a3\u8f03\u5049\u5927 -\u300a\u7576\u7537\u4eba\u6200\u611b\u6642\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC"
@@ -8221,6 +8275,24 @@
     },
     {
       "album": {
+        "name": "\u90fd\u662f\u56e0\u70ba\u611b",
+        "url": "https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg"
+      },
+      "artists": [
+        {
+          "name": "Power Station",
+          "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313281,
+      "name": "\u6211\u5f88\u597d\u9a19",
+      "url": "https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO"
+    },
+    {
+      "album": {
         "name": "\u6211\u5fd8\u4e86 \"memory kills you\"",
         "url": "https://open.spotify.com/album/1qlDt9axNde81rikaDKkO8"
       },
@@ -8366,7 +8438,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 347058,
       "name": "\u6211\u9084\u5e74\u8f15 \u6211\u9084\u5e74\u8f15",
       "url": "https://open.spotify.com/track/5o48kuQnPwhuRAzO2t0bCU"
@@ -8384,7 +8456,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347058,
       "name": "\u6211\u9084\u5e74\u8f15 \u6211\u9084\u5e74\u8f15",
       "url": "https://open.spotify.com/track/6cGzTAwvGHsmk4CqIAXoJj"
@@ -10972,7 +11044,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220693,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo"
@@ -10994,7 +11066,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 220693,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
@@ -11440,10 +11512,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247132,
       "name": "\u8def\u904e\u4eba\u9593",
       "url": "https://open.spotify.com/track/03UChw9aTMMe4VtF2rSEXe"
+    },
+    {
+      "album": {
+        "name": "\u8def\u904e\u4eba\u9593",
+        "url": "https://open.spotify.com/album/7hd795P01sAfMB5CtPPYUJ"
+      },
+      "artists": [
+        {
+          "name": "Yisa Yu",
+          "url": "https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247132,
+      "name": "\u8def\u904e\u4eba\u9593 (\u96fb\u8996\u5287\u300a\u6211\u5011\u8207\u60e1\u7684\u8ddd\u96e2\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/1ZSleGniKMWNrWvK5cGALO"
     },
     {
       "album": {

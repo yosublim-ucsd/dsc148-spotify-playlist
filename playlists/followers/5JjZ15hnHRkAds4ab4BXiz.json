@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 0,
+  "2024-04-19": 0,
   "date_first_scraped": "2023-11-18",
   "description": "",
   "name": "Ballads",
@@ -155,6 +155,24 @@
       "duration_ms": 162000,
       "name": "American Gigolo",
       "url": "https://open.spotify.com/track/4dV49dm1XBRvsm2EUZQad4"
+    },
+    {
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356946,
+      "name": "Apocalypse Dreams",
+      "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
     },
     {
       "album": {
@@ -757,6 +775,24 @@
       "duration_ms": 136348,
       "name": "ecstacy (super slowed)",
       "url": "https://open.spotify.com/track/4piafr7YSZHYgPvH4n4NeE"
+    },
+    {
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186640,
+      "name": "Endors Toi",
+      "url": "https://open.spotify.com/track/0YuePEX4KyfLIPMdNLPwgQ"
     },
     {
       "album": {
@@ -1742,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "album": {
         "name": "Modern Girls & Old Fashion Men",
         "url": "https://open.spotify.com/album/1JS6yTcVopsE6ROReK30ik"
       },
@@ -1851,6 +1905,24 @@
       "duration_ms": 145438,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/5rAG22yUrd0kkwxztDVAue"
+    },
+    {
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312213,
+      "name": "Music To Walk Home By",
+      "url": "https://open.spotify.com/track/0pJTrMWCiR0TuJ5FApIqrz"
     },
     {
       "album": {

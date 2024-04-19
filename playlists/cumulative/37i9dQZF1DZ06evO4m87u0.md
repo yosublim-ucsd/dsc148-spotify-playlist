@@ -2,7 +2,7 @@
 
 ### [This Is The Black Keys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4m87u0)
 
-> This is The Black Keys\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is The Black Keys\. The essential tracks, all in one playlist.
 
 103 songs - 6 hr 2 min
 

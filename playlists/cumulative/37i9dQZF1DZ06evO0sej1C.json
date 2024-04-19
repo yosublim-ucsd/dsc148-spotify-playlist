@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Ap\u00e1galo",
+        "url": "https://open.spotify.com/album/7fsQwnkGUKAzggaGwlV5zo"
+      },
+      "artists": [
+        {
+          "name": "Full THM",
+          "url": "https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192007,
+      "name": "Ap\u00e1galo",
+      "url": "https://open.spotify.com/track/138aUp8rOibpO2lTm5QBka"
+    },
+    {
+      "album": {
         "name": "Al Sur de la Noche",
         "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
       },

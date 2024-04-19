@@ -106,10 +106,46 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387666,
       "name": "Constant Fear",
       "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+    },
+    {
+      "album": {
+        "name": "Bohren For Beginners",
+        "url": "https://open.spotify.com/album/5IsL3WxtVRmJTbVUA9VFXf"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389297,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/1C5Qbj0VAXCP45e6IAeZeL"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5OajcRNtdKugFqYgIsEkRY"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305893,
+      "name": "Cool Change",
+      "url": "https://open.spotify.com/track/4TFo8kO1KlcgondsVKPuks"
     },
     {
       "album": {
@@ -124,7 +160,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316218,
       "name": "Cool Change - Remastered 2022",
       "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
@@ -464,7 +500,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109283,
       "name": "Play the Ponies",
       "url": "https://open.spotify.com/track/1VAvqNWXlVUiCpWdoOMc3W"
@@ -486,6 +522,24 @@
       "duration_ms": 109283,
       "name": "Play the Ponies",
       "url": "https://open.spotify.com/track/3r7pQSqIWmXYFQci0aBBQi"
+    },
+    {
+      "album": {
+        "name": "Clandestine",
+        "url": "https://open.spotify.com/album/5QAGH6VjcksjuWOYbFDSL4"
+      },
+      "artists": [
+        {
+          "name": "Jo Blankenburg",
+          "url": "https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109283,
+      "name": "Play the Ponies",
+      "url": "https://open.spotify.com/track/48ofDy99CGT9iKq4enGbcy"
     },
     {
       "album": {

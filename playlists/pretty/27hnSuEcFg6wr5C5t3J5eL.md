@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/27hnSuEcFg6wr5C5t3J5eL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/27hnSuEcFg6wr5C5t3J5eL.md) - [plain]
 | 30 | [Shine](https://open.spotify.com/track/3ZPTb9HHBRt2VDbsIUFnSD) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Rhino Hi\-Five: Collective Soul](https://open.spotify.com/album/1rljlzTrCBRBLX6K1mlOM0) | 5:06 |
 | 31 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 |
 | 32 | [Return To Innocence](https://open.spotify.com/track/2UKkLqST2xWpK8n1b0Xr5Z) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Cross Of Changes](https://open.spotify.com/album/1t4hf9yHMQBoTz2CxTBJKj) | 4:15 |
-| 33 | [](https://open.spotify.com/track/1e6kD8AXQ152lFZLr7kKPN) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6dNfuaaTMb3A3hMBfk9zQF) | 0:00 |
+| 33 | [](https://open.spotify.com/track/1e6kD8AXQ152lFZLr7kKPN) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6dNfuaaTMb3A3hMBfk9zQF) | 0:00 |
 | 34 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/3NDTh0ZPIG2zY2VUJ8jG3L) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [Playlist: The Very Best Of Crash Test Dummies](https://open.spotify.com/album/1S2dAoir19fgfJmeFdLLmL) | 3:53 |
 | 35 | [Can We Talk](https://open.spotify.com/track/5vXEj2R1LZFG4D5U70jXnz) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Rhino Hi\-Five: Tevin Campbell](https://open.spotify.com/album/1xhsYljQkbDeXaBljIc5Ce) | 4:44 |
 | 36 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 |

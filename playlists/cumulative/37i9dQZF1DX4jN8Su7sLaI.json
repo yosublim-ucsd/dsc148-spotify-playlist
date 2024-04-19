@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221926,
       "name": "Action",
       "url": "https://open.spotify.com/track/4eBxnGsRwwZmy1A8b0jnGu"
@@ -374,10 +374,28 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221306,
       "name": "\u306f\u3058\u307e\u308a\u306e\u65e5\u3005",
       "url": "https://open.spotify.com/track/0NEhEFk3CrVeoYtCSfgBlJ"
+    },
+    {
+      "album": {
+        "name": "Niemeyer",
+        "url": "https://open.spotify.com/album/6PUjbkWEJcSWzrZ61TxVLz"
+      },
+      "artists": [
+        {
+          "name": "MAGIC OF LiFE",
+          "url": "https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "\u306f\u3058\u307e\u308a\u306e\u65e5\u3005",
+      "url": "https://open.spotify.com/track/0QKjRcajwj5Ns2lG6xgSKf"
     },
     {
       "album": {
@@ -400,6 +418,28 @@
       "duration_ms": 230133,
       "name": "\u3082\u3046\u5c11\u3057\u3001\u3042\u3068\u5c11\u3057",
       "url": "https://open.spotify.com/track/2XVtzdar3sZnFi39YJxrwW"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/1OVSsXu79hA5mnjvp9VyHz"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u4e0b\u5927\u8f1d",
+          "url": "https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB"
+        },
+        {
+          "name": "\u4f50\u4f2f\u30e6\u30a6\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4dSGdhrwYbkKMnmrbg9b6q"
     },
     {
       "album": {

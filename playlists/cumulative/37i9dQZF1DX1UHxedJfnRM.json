@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269010,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/3I1kB3ftFb8IG82CbmwPpt"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 269010,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/7Bg5Z8VwnRxVVvq5C4qcRN"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229945,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229945,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/2bIIQIXgi5blVkSZ7Y2uTh"
@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Dejame Un Beso",
+        "url": "https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233593,
+      "name": "Dejame un Beso",
+      "url": "https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5"
+    },
+    {
+      "album": {
         "name": "Dejame un Beso",
         "url": "https://open.spotify.com/album/3MAoULqFF6kPThhrlEjwG1"
       },
@@ -548,28 +566,10 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233593,
       "name": "Dejame un Beso",
       "url": "https://open.spotify.com/track/7L37z7eVFI6KFpR6y0KtXB"
-    },
-    {
-      "album": {
-        "name": "Dejame Un Beso",
-        "url": "https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP"
-      },
-      "artists": [
-        {
-          "name": "MOLY",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        }
-      ],
-      "date_added": "2022-05-13",
-      "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
-      "duration_ms": 233593,
-      "name": "Dejame un Beso",
-      "url": "https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5"
     },
     {
       "album": {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228250,
       "name": "Dime C\u00f3mo Hago",
       "url": "https://open.spotify.com/track/3WSASuEFLKfnGbn3ZelPdu"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 228250,
       "name": "Dime C\u00f3mo Hago",
       "url": "https://open.spotify.com/track/5SQMbspeEIYJPkXDWeiOJH"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243150,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/55wQTdI8Z52zw0FGPSHFhP"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243762,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284732,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/72MkzD8gSET1ofpIuvTNe0"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284732,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/7C3Czet53d8yHPg6S97L29"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241667,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/2zPUGkFAw3gCMcEqWLLWpP"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241667,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/6NFqonbFp2QhnJIh7cE2s3"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276066,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269290,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269351,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 310426,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/0SVlCv4gOgWohAdBZMBu3v"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310426,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB"
@@ -1782,24 +1782,6 @@
     {
       "album": {
         "name": "No S\u00e9",
-        "url": "https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Gutierrez",
-          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
-        }
-      ],
-      "date_added": "2022-05-13",
-      "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
-      "duration_ms": 246962,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv"
-    },
-    {
-      "album": {
-        "name": "No S\u00e9",
         "url": "https://open.spotify.com/album/7FIB9L7nOwjaZI6iAvKrs5"
       },
       "artists": [
@@ -1810,10 +1792,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246962,
       "name": "No S\u00e9",
       "url": "https://open.spotify.com/track/0airpS5wunq0fn8ZXuEEqK"
+    },
+    {
+      "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246962,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv"
     },
     {
       "album": {
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276433,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278823,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/62vIBUC9hTfE4nlT3x90uH"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 277524,
       "name": "Por Ese Hombre",
       "url": "https://open.spotify.com/track/4lc937nnV8vRbIF7oJznNU"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299363,
       "name": "Que Locura Enamorarme de Ti",
       "url": "https://open.spotify.com/track/39OufQOaHXjXVdw1yEZAdb"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295960,
       "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
       "url": "https://open.spotify.com/track/1TXd3ke6yYLzk0ukD2BX9b"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274605,
       "name": "Que Voy a Hacer Con Mi Amor",
       "url": "https://open.spotify.com/track/1i8GtSThwXmrDMQebcZ00H"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274605,
       "name": "Que Voy a Hacer Con Mi Amor",
       "url": "https://open.spotify.com/track/5wnAIdzevofAf22VSmkbwU"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247494,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/58bITP8kCWbCgSMR7pymTk"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247494,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/6J9OXLfXFaf8QsUlvf7qx0"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 319263,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/2ESN4xnCP0dzgn5S7rFc6W"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319263,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/480oPnqQMLLRiALvz9aAJM"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185575,
       "name": "Sincero (Salsa)",
       "url": "https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 185575,
       "name": "Sincero - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T"
@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 328257,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66"
@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328257,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/7L4NlPfnt1MNc3hsgDQPqX"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 301288,
       "name": "Tu Falta de Querer",
       "url": "https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302938,
       "name": "Tu Falta de Querer",
       "url": "https://open.spotify.com/track/5EUDROV3ETbVvnafg0OhRf"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295543,
       "name": "Usted No Sabe",
       "url": "https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 295543,
       "name": "Usted No Sabe",
       "url": "https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274650,
       "name": "Vamos a Escapar - Salsa Version",
       "url": "https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km"
@@ -2806,13 +2806,13 @@
           "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
         },
         {
-          "name": "Amy Gutierrez",
+          "name": "Amy Guti\u00e9rrez",
           "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
         }
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274650,
       "name": "Vamos a Escapar - Salsa Version",
       "url": "https://open.spotify.com/track/2KT9Lol8Mpv2XKTDJFHoC7"
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243250,
       "name": "Ya para Que",
       "url": "https://open.spotify.com/track/3dzX3gSpIkQPFID4CcdrGN"
@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243253,
       "name": "Ya para qu\u00e9",
       "url": "https://open.spotify.com/track/6o9LsVJ2wmVS26HIKsxBIL"

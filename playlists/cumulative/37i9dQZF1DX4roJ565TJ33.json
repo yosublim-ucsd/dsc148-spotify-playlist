@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252629,
       "name": "Ack V\u00e4rmeland, Du Sk\u00f6na",
       "url": "https://open.spotify.com/track/29oS97LA4iW2EZA6Hxob1u"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 252629,
       "name": "Ack V\u00e4rmeland, Du Sk\u00f6na",
       "url": "https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "Autumn in New York",
       "url": "https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179026,
       "name": "Autumn in New York",
       "url": "https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291226,
       "name": "Believe Beleft Below",
       "url": "https://open.spotify.com/track/2Ih0uFDcu54GI18ByA90QS"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291226,
       "name": "Believe, Beleft, Below",
       "url": "https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129160,
       "name": "Brudmarsch fr\u00e5n Boda",
       "url": "https://open.spotify.com/track/3k3h25bsMzaXMSsWEhRi7Q"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 129160,
       "name": "Brudmarsch fr\u00e5n Boda",
       "url": "https://open.spotify.com/track/4kwKxWe4FR5K8aoKvJiRwY"
@@ -768,10 +768,6 @@
           "url": "https://open.spotify.com/artist/3jLzatCzHIGYop5o0pTbTr"
         },
         {
-          "name": "Leo Lindberg",
-          "url": "https://open.spotify.com/artist/77OBGeL75ilbMCJRKxskvI"
-        },
-        {
           "name": "Mikael Augustsson",
           "url": "https://open.spotify.com/artist/7AvWzDJSurr6NnKK0YKi8W"
         },
@@ -782,11 +778,15 @@
         {
           "name": "Chris Montgomery",
           "url": "https://open.spotify.com/artist/7B6FpoS1Dk7vKXz3S60HTW"
+        },
+        {
+          "name": "Leo Lindberg",
+          "url": "https://open.spotify.com/artist/77OBGeL75ilbMCJRKxskvI"
         }
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 255253,
       "name": "En S\u00e5ng",
       "url": "https://open.spotify.com/track/0fyB1ggn91AFAvKRgXcwnT"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255253,
       "name": "En S\u00e5ng",
       "url": "https://open.spotify.com/track/3FZJmHE7v3CsmnWEv1e1de"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243540,
       "name": "Figures and Movement",
       "url": "https://open.spotify.com/track/28nXpyO1xCeMmy3T06x7sS"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 243540,
       "name": "Figures and Movement",
       "url": "https://open.spotify.com/track/42VN1BbimFSSSVXx7s7hkH"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243333,
       "name": "From Gagarin's Point of View",
       "url": "https://open.spotify.com/track/3QxZooLdeJBAf0x405DDI7"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243333,
       "name": "From Gagarin's Point of View",
       "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263600,
       "name": "Hands Off",
       "url": "https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 263600,
       "name": "Hands Off",
       "url": "https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 373708,
       "name": "Hermetic Boogey",
       "url": "https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373708,
       "name": "Hermetic Boogey",
       "url": "https://open.spotify.com/track/1z1ba8WrbImEPG8BDoI8B8"
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246894,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/38DaQRDUl2zwvcMRuaT0IX"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246894,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/0nmKnxFMPZYQDeUV49HHA9"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Internationalen",
       "url": "https://open.spotify.com/track/4pQOo9ypR5yYV5O5xVq9mr"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182000,
       "name": "Internationalen",
       "url": "https://open.spotify.com/track/5slD6swSS3XtDiSzOOoL5h"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284386,
       "name": "L'Est",
       "url": "https://open.spotify.com/track/7fHj5Y3RjtXZGZdN2Q3yqz"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 394538,
       "name": "Love in Its Splendor",
       "url": "https://open.spotify.com/track/09kfpC8VYQiM1McrCEkF1m"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 394538,
       "name": "Love in Its Splendor",
       "url": "https://open.spotify.com/track/41qmKHMIrsew65y5uhzg6O"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284386,
       "name": "L\u2019Est",
       "url": "https://open.spotify.com/track/1Ptjlatj2888WP6e2xkb4B"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237866,
       "name": "Pr\u00e9lude C Minor",
       "url": "https://open.spotify.com/track/1cxzewcPOwz58W0sFHQ9r6"
@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237866,
       "name": "Pr\u00e9lude in C Minor",
       "url": "https://open.spotify.com/track/2Bl7sr1Nuc92CmSz1xg9mQ"
@@ -2915,24 +2915,6 @@
     },
     {
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/7z8DxRPvmqaJzNHlUfcCsh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "date_added": "2021-11-08",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 202360,
-      "name": "Sakta vi ga\u030a genom stan",
-      "url": "https://open.spotify.com/track/7bO6JxlfsO19aFIYxwUnkL"
-    },
-    {
-      "album": {
         "name": "The Swedish Songbook",
         "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
       },
@@ -2962,7 +2944,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202360,
       "name": "Sakta vi g\u00e5 genom stan",
       "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU"
@@ -2984,6 +2966,24 @@
       "duration_ms": 202360,
       "name": "Sakta vi g\u00e5 genom stan",
       "url": "https://open.spotify.com/track/6xICxwT5E3BSiCLpbStVeP"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/7z8DxRPvmqaJzNHlUfcCsh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2021-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Sakta vi g\u00e5 genom stan",
+      "url": "https://open.spotify.com/track/7bO6JxlfsO19aFIYxwUnkL"
     },
     {
       "album": {
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207426,
       "name": "Singel",
       "url": "https://open.spotify.com/track/0z6ZJJu9yDl0sfPcTUWDvy"
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207960,
       "name": "Singel",
       "url": "https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh"
@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291546,
       "name": "S\u00f6ndan",
       "url": "https://open.spotify.com/track/3GgKkg7jhloBH5vjT6ABYJ"
@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291546,
       "name": "S\u00f6ndan",
       "url": "https://open.spotify.com/track/3qvrvM6m2pjFX80T0p1ROY"
@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 540933,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/1zqXurcrxEYOapduEpfuEh"
@@ -3810,7 +3810,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 540933,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/4pOmvbidGuENodcbTTeP4I"
@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162373,
       "name": "Visa fr\u00e5n Utanmyra",
       "url": "https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP"
@@ -3864,7 +3864,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165733,
       "name": "Visa fr\u00e5n Utanmyra",
       "url": "https://open.spotify.com/track/37VD4tD2Y8FqhcGeXkSJGx"
@@ -3882,7 +3882,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176200,
       "name": "V\u00e4rmlandsvisan",
       "url": "https://open.spotify.com/track/15ZfBld86GoCxOVgJhz9XM"
@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176200,
       "name": "V\u00e4rmlandsvisan",
       "url": "https://open.spotify.com/track/2AlHBryGkTFdhCcXWxfMKb"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 199854,
       "name": "Zeta",
       "url": "https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199854,
       "name": "Zeta",
       "url": "https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9"

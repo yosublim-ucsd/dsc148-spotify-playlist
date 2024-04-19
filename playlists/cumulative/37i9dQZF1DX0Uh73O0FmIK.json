@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Garden of Delete",
+        "url": "https://open.spotify.com/album/5QSJ0MOjZcsquiyovQKM2R"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/48xW50K62AUjQedRSoy3qi"
+    },
+    {
+      "album": {
         "name": "Garden Of Delete",
         "url": "https://open.spotify.com/album/0B0pnJCB4ECF12VNo49p6g"
       },
@@ -342,7 +360,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234938,
       "name": "Animals",
       "url": "https://open.spotify.com/track/0acBwRDpjauwpGXKSg5wCD"
@@ -390,7 +408,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 317102,
       "name": "Auf Immer und ewig",
       "url": "https://open.spotify.com/track/7oEwkQT9tGcDiuUQyPX06g"
@@ -416,10 +434,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317102,
       "name": "Auf Immer und ewing",
       "url": "https://open.spotify.com/track/02uzr4k8hXZxGLL3dlhScl"
+    },
+    {
+      "album": {
+        "name": "Heart EP",
+        "url": "https://open.spotify.com/album/2YJBt7UzUA3EOqbGNR1S2l"
+      },
+      "artists": [
+        {
+          "name": "Doon Kanda",
+          "url": "https://open.spotify.com/artist/6w7wqJo8dY6Q7BWIRFBFX3"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172015,
+      "name": "Axolotl",
+      "url": "https://open.spotify.com/track/2QuQnPXZ0BRgNoDW5b1Ee7"
     },
     {
       "album": {
@@ -434,7 +470,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172015,
       "name": "Axolotl",
       "url": "https://open.spotify.com/track/6QasAq7k4YhJ64sENWEMXQ"
@@ -567,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Trst",
+        "url": "https://open.spotify.com/album/1EfX3H7i8z8CMLNGndQeCt"
+      },
+      "artists": [
+        {
+          "name": "TR/ST",
+          "url": "https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289320,
+      "name": "Bulbform",
+      "url": "https://open.spotify.com/track/3yWOYCg0m4RoEPPRUEwtKF"
+    },
+    {
+      "album": {
         "name": "TRST",
         "url": "https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK"
       },
@@ -578,7 +632,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289320,
       "name": "Bulbform",
       "url": "https://open.spotify.com/track/5c5LFrdYFQSyb5gIUiVCY9"
@@ -708,10 +762,28 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166596,
       "name": "Chrome.exe",
       "url": "https://open.spotify.com/track/2b4UETKynUkjq3EB2MuXCX"
+    },
+    {
+      "album": {
+        "name": "JPEG_complete",
+        "url": "https://open.spotify.com/album/6SAljKzmQPLqf0djFNfsUE"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166596,
+      "name": "Chrome.exe",
+      "url": "https://open.spotify.com/track/6xOb1gbfPIb8VGA8FvsHqP"
     },
     {
       "album": {
@@ -1084,7 +1156,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231028,
       "name": "Die tausende Herbst",
       "url": "https://open.spotify.com/track/4KKFTNQnmcU7MKPftrLA5L"
@@ -1110,7 +1182,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 231028,
       "name": "Die tausende Herbste",
       "url": "https://open.spotify.com/track/0teJBxvS6jvVsDNDefpHl8"
@@ -1344,7 +1416,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205906,
       "name": "Electric",
       "url": "https://open.spotify.com/track/1fi9BN8F15rCUWjAsaMngw"
@@ -1362,7 +1434,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 205906,
       "name": "Electric",
       "url": "https://open.spotify.com/track/1oUpE2W9kXdpYYMof5nnQA"
@@ -1886,7 +1958,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
@@ -1908,7 +1980,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE"
@@ -2876,7 +2948,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226466,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L"
@@ -2894,7 +2966,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 226466,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
@@ -3472,7 +3544,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284280,
       "name": "Technologic",
       "url": "https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE"
@@ -3490,7 +3562,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284280,
       "name": "Technologic",
       "url": "https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS"

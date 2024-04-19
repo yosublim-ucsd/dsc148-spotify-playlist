@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 158993,
       "name": "Awlad Misk",
       "url": "https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy"
@@ -4324,7 +4324,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138134,
       "name": "Fen Heya ElAyam",
       "url": "https://open.spotify.com/track/1EqwP3rT6FCGfoy1u1Nb4g"
@@ -7448,7 +7448,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133504,
       "name": "Makansh Keda",
       "url": "https://open.spotify.com/track/7hkiGCBr1lGEP9hy7gFkMb"
@@ -8226,7 +8226,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177241,
       "name": "Mesh 3ayez W Man7ebesh",
       "url": "https://open.spotify.com/track/2EsI3L6gZA9j2TPtLjTzKc"
@@ -8604,6 +8604,24 @@
       "duration_ms": 168285,
       "name": "Moody Aali",
       "url": "https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE"
+    },
+    {
+      "album": {
+        "name": "Moog (Red Bull Sada Sot)",
+        "url": "https://open.spotify.com/album/3s4lJrMp7HSVKf6mT4AbzU"
+      },
+      "artists": [
+        {
+          "name": "L5VAV",
+          "url": "https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202355,
+      "name": "Moog",
+      "url": "https://open.spotify.com/track/5biAZYSL9ujS1A87ZHm3Y0"
     },
     {
       "album": {
@@ -12138,7 +12156,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158993,
       "name": "\u0623\u0648\u0644\u0627\u062f \u0645\u0633\u0643",
       "url": "https://open.spotify.com/track/7lcfRpuUMaqXQPYgri11iD"
@@ -12640,6 +12658,28 @@
       "duration_ms": 204225,
       "name": "\u0627\u0644\u062d\u0628",
       "url": "https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647",
+        "url": "https://open.spotify.com/album/7vnRTngy32esACDIZdroyC"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        },
+        {
+          "name": "Blingos",
+          "url": "https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "\u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647",
+      "url": "https://open.spotify.com/track/6SaiYvNlHIh2gdVfAyAQKD"
     },
     {
       "album": {
@@ -13279,6 +13319,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u064a\u0627\u0645 \u0648\u0646\u0633\u064a\u062a\u0647\u0627",
+        "url": "https://open.spotify.com/album/27pxn0VeLoRrQTA4vuNDrM"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238636,
+      "name": "\u0627\u064a\u0627\u0645 \u0648\u0646\u0633\u064a\u062a\u0647\u0627",
+      "url": "https://open.spotify.com/track/1SJXNoG9rW3kkEDfPN9YWV"
+    },
+    {
+      "album": {
         "name": "\u0627\u064a\u0647 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 \u062f\u064a",
         "url": "https://open.spotify.com/album/4zuku3m8svJHhlHGylFIpJ"
       },
@@ -13540,6 +13598,24 @@
       "duration_ms": 253333,
       "name": "\u0628\u0639\u062f\u0647 \u0641\u0627\u0631\u0642",
       "url": "https://open.spotify.com/track/1c58kQ7ncA2yMYlU6uSgjW"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0642\u0648\u0644 \u0648\u0627\u0643\u062f\u0628",
+        "url": "https://open.spotify.com/album/2Gc1wvyvsKOrJQm91zGF92"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280975,
+      "name": "\u0628\u0642\u0648\u0644 \u0648\u0627\u0643\u062f\u0628",
+      "url": "https://open.spotify.com/track/4Lep7DGWWogIqr3tpAHfSC"
     },
     {
       "album": {

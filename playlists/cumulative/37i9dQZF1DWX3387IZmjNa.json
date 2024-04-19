@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 231111,
       "name": "Head Melodies",
       "url": "https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man"
@@ -3554,7 +3554,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231111,
       "name": "Head Melodies",
       "url": "https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK"
@@ -7128,7 +7128,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141827,
       "name": "Rich Boy",
       "url": "https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ"
@@ -7154,6 +7154,28 @@
       "duration_ms": 182250,
       "name": "Ride For You (feat. Kehlani)",
       "url": "https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb"
+    },
+    {
+      "album": {
+        "name": "Ride Home",
+        "url": "https://open.spotify.com/album/73tlDSppnnmvWbbBPRQDI6"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178559,
+      "name": "Ride Home",
+      "url": "https://open.spotify.com/track/2rnWo5yqcjpx0lldvnTdIU"
     },
     {
       "album": {

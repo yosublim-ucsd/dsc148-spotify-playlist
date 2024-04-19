@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country way of testifying.",
+  "description": "Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL! ",
   "name": "Country by the Grace of God",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289000,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/2rNmKzD3bdB1xqBzPkt5c1"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 289000,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6FW9MTGMjR5A6q2o7PLuuz"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229389,
       "name": "Blessed Beyond Believin'",
       "url": "https://open.spotify.com/track/5KisXZeI0uzWFyYBHoexy1"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 229389,
       "name": "Blessed Beyond Believin'",
       "url": "https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI"
@@ -466,6 +466,24 @@
       "duration_ms": 170549,
       "name": "Build a Boat (feat. Gabby Barrett)",
       "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
+    },
+    {
+      "album": {
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "By Your Grace",
+      "url": "https://open.spotify.com/track/0IlYvLvA257FhOau31pOK8"
     },
     {
       "album": {
@@ -538,7 +556,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195907,
       "name": "Chain Breaker",
       "url": "https://open.spotify.com/track/7IkdKPflK8lzgRs6cXChz4"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196466,
       "name": "Chain Breaker",
       "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261813,
       "name": "Changed",
       "url": "https://open.spotify.com/track/5lgFs35aqgh22XECp44NEQ"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262226,
       "name": "Changed",
       "url": "https://open.spotify.com/track/7ClZTubD4KudpEuBysLMUI"
@@ -841,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Never Giving Up On That",
+        "url": "https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190510,
+      "name": "Dirt Roads And Jesus",
+      "url": "https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr"
+    },
+    {
+      "album": {
         "name": "Songs From The Album Damascus",
         "url": "https://open.spotify.com/album/6MfkhCFBG2CRw3FZ45wSHi"
       },
@@ -910,7 +946,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257785,
       "name": "Everybody Talks To God",
       "url": "https://open.spotify.com/track/4nQ4Ea34XihpPFnJeyoOZ9"
@@ -946,7 +982,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257785,
       "name": "Everybody Talks To God",
       "url": "https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y"
@@ -1055,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "God & Country",
+        "url": "https://open.spotify.com/album/0hsCH0eDI9mq7wcuyWRqIU"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "God & Country",
+      "url": "https://open.spotify.com/track/7LJuvRQRJOyTAxBKk6xJbG"
+    },
+    {
+      "album": {
         "name": "God and a Good Man",
         "url": "https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG"
       },
@@ -1102,7 +1156,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163995,
       "name": "God Made Fridays",
       "url": "https://open.spotify.com/track/4rIBtj2jHi8nIVfV7KeWy4"
@@ -1120,7 +1174,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 163995,
       "name": "God Made Fridays",
       "url": "https://open.spotify.com/track/6ksQ2gxEZGqQdygMex4PGs"
@@ -1174,7 +1228,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221666,
       "name": "God Moves The Pen",
       "url": "https://open.spotify.com/track/5OVyTSbqz288MkNbZf15rY"
@@ -1192,7 +1246,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "God Moves The Pen",
       "url": "https://open.spotify.com/track/5vGfLxG7TJ0rzKvTPvwwCL"
@@ -1600,7 +1654,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261200,
       "name": "Here On Earth",
       "url": "https://open.spotify.com/track/0iMtc3As4fLUymohJSVjw8"
@@ -1636,7 +1690,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261200,
       "name": "Here On Earth",
       "url": "https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw"
@@ -1782,7 +1836,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257360,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/3Rkk851fZjIsglV2jbBPDd"
@@ -1800,7 +1854,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
@@ -1930,7 +1984,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 154279,
       "name": "If God Took Days Off",
       "url": "https://open.spotify.com/track/3JqF0zLGozLrnS1uvOhluB"
@@ -1948,7 +2002,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154279,
       "name": "If God Took Days Off",
       "url": "https://open.spotify.com/track/7Jy4SVdM8HViyfy3QcaDkb"
@@ -2050,7 +2104,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173000,
       "name": "In Our Blood",
       "url": "https://open.spotify.com/track/05EmiiuuN5I7DBHVZNJs8S"
@@ -2072,7 +2126,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "In Our Blood",
       "url": "https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3"
@@ -2322,7 +2376,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250626,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
@@ -2358,7 +2412,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250626,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li"
@@ -2456,7 +2510,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 185034,
       "name": "Made For Me To Love - Demo",
       "url": "https://open.spotify.com/track/06ksFBqRI5cSghYy0ix1de"
@@ -2474,7 +2528,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185034,
       "name": "Made For Me To Love - Demo",
       "url": "https://open.spotify.com/track/3hDXRPuvRtRsEhMNDspdJE"
@@ -2626,7 +2680,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "More Than Me",
       "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
@@ -2644,7 +2698,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211200,
       "name": "More Than Me",
       "url": "https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha"
@@ -2702,7 +2756,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Nearer My God To Thee",
       "url": "https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT"
@@ -2720,7 +2774,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250760,
       "name": "Nearer My God to Thee",
       "url": "https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3"
@@ -2796,7 +2850,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244266,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/2B8a2NDUrIGYzrb1JbhBdk"
@@ -2814,7 +2868,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244266,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/5J3jB1IKglDvEu0WRsOcq5"
@@ -2920,7 +2974,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213853,
       "name": "Pray",
       "url": "https://open.spotify.com/track/3xcyAHzKbIqfij1NHHpjcD"
@@ -2946,7 +3000,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 213853,
       "name": "Pray",
       "url": "https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9"
@@ -3131,6 +3185,28 @@
     },
     {
       "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/29cO6aoKc7Ced6oa4WeoQl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235725,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/5Oa6OS9SMCGYn1cVDpdt7s"
+    },
+    {
+      "album": {
         "name": "River Of Life",
         "url": "https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b"
       },
@@ -3309,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Songs About Whiskey",
+      "url": "https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY"
+    },
+    {
+      "album": {
         "name": "Southern Gospel",
         "url": "https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc"
       },
@@ -3356,7 +3450,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293933,
       "name": "Sunday Drive",
       "url": "https://open.spotify.com/track/2GOncX7Qsx9Y2haYlfi0J5"
@@ -3374,7 +3468,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293933,
       "name": "Sunday Drive",
       "url": "https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf"
@@ -3468,7 +3562,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 236986,
       "name": "Tell Somebody 'Bout You",
       "url": "https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T"
@@ -3486,7 +3580,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236986,
       "name": "Tell Somebody 'bout You",
       "url": "https://open.spotify.com/track/7Cf1zlZsFA2JzlbcDkEacw"
@@ -3598,7 +3692,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204573,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/2y4pN2wraqU3JOJbv68EiR"
@@ -3616,7 +3710,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204573,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP"
@@ -3782,7 +3876,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254880,
       "name": "There Is A God",
       "url": "https://open.spotify.com/track/057ssHCqyYBRcQ6J860Kwi"
@@ -3818,7 +3912,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256906,
       "name": "There Is a God",
       "url": "https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F"
@@ -3858,7 +3952,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225694,
       "name": "Thought About You",
       "url": "https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf"
@@ -3894,7 +3988,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226266,
       "name": "Thought About You",
       "url": "https://open.spotify.com/track/6CWzNUUmNLpiBMyR5cMzJK"
@@ -3930,7 +4024,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201240,
       "name": "Three Wooden Crosses",
       "url": "https://open.spotify.com/track/0riGx0wA6jMQsFmgdOUgcH"
@@ -3948,7 +4042,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201240,
       "name": "Three Wooden Crosses",
       "url": "https://open.spotify.com/track/3y1celx9jzjsbfI9T3hmvw"
@@ -4038,7 +4132,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229338,
       "name": "Today",
       "url": "https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM"
@@ -4056,7 +4150,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229345,
       "name": "Today",
       "url": "https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0"
@@ -4172,7 +4266,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206453,
       "name": "We All Carry Something",
       "url": "https://open.spotify.com/track/2SKI2QSQB2XluzxUJ31QD0"
@@ -4190,7 +4284,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206866,
       "name": "We All Carry Something",
       "url": "https://open.spotify.com/track/6uEZirSx14Fo2WOqJCdE0c"
@@ -4266,7 +4360,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249613,
       "name": "Where I Find God",
       "url": "https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi"
@@ -4284,7 +4378,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249613,
       "name": "Where I Find God",
       "url": "https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa"

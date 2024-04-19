@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 151872,
+  "2024-04-19": 152160,
   "date_first_scraped": "2022-04-19",
   "description": "Discover the classical side of anime with these orchestral soundtracks and classical masterpieces. \u30a2\u30cb\u30e1\u4f5c\u54c1\u306b\u767b\u5834\u3059\u308b\u30af\u30e9\u30b7\u30c3\u30af\u97f3\u697d\u3068\u8c61\u5fb4\u7684\u306a\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a>",
   "name": "Anime Classical",
@@ -473,6 +473,28 @@
       "duration_ms": 89400,
       "name": "Hiiro no Hitomi no Aika",
       "url": "https://open.spotify.com/track/4k8qWLE0P9L9y6ZTDeQk0k"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 8-10 (Gould Remastered)",
+        "url": "https://open.spotify.com/album/0isMuQNesHMv674ps90zDj"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285653,
+      "name": "II. Adagio cantabile - Remastered",
+      "url": "https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF"
     },
     {
       "album": {
@@ -1133,28 +1155,6 @@
       "duration_ms": 182430,
       "name": "Skies of Song",
       "url": "https://open.spotify.com/track/0B1yXwS1FWBHkkzLwIC2n8"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Piano Sonatas Nos. 8-10 (Gould Remastered)",
-        "url": "https://open.spotify.com/album/0isMuQNesHMv674ps90zDj"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
-        }
-      ],
-      "date_added": "2022-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285653,
-      "name": "Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile - Remastered",
-      "url": "https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF"
     },
     {
       "album": {

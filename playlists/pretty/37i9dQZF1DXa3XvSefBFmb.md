@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Marisa Liz, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,109 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,124 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 37 | [Erro](https://open.spotify.com/track/5PYs6x0iXaGUa7K2NwurOE) | [Joana Almeirante](https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm) | [Erro](https://open.spotify.com/album/0Dd3zQ4va29JIAa4UwzHze) | 3:11 |
 | 38 | [please don't go](https://open.spotify.com/track/57NthSxqDDt34Mm5zwzu7P) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [please don't go](https://open.spotify.com/album/6UAggKJf6MOMhQl1Z56zX4) | 3:09 |
 | 39 | [Por Mais Que Tente](https://open.spotify.com/track/2hTRVUQcC0SdW0tLnS0Tf8) | [NEIVA](https://open.spotify.com/artist/7hoGIV9g5Ttfr02HGDrJr2) | [SILHUETAS](https://open.spotify.com/album/5fcOQ85vmHs9tC3YloLtBz) | 3:20 |
-| 40 | [Ponte de Luz](https://open.spotify.com/track/1HNr6b2TxwZ8yxuCU9jTMq) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Xinti](https://open.spotify.com/album/2dmW4NVAqxEamemXzCppBs) | 4:25 |
+| 40 | [Ponto De Luz](https://open.spotify.com/track/3GILmlmzkVB6ztrLvqjUTF) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Xinti](https://open.spotify.com/album/30XUQP4eHCi0gGvVFRZCD0) | 4:27 |
 | 41 | [Sempre que o amor me quiser](https://open.spotify.com/track/0TqCVQDz78WtvarPW0GaoR) | [Lena d’Água](https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS) | [Lusitânia](https://open.spotify.com/album/5yFuxK6qu8RtpxI5Hh6zui) | 4:03 |
 | 42 | [Music](https://open.spotify.com/track/2zXMfuqI9pv7OAwTThXEFC) | [The Gift](https://open.spotify.com/artist/3jswqFEYoWlyyLcIsWYWiC) | [AM\-FM](https://open.spotify.com/album/1VU7lTXzf4D2qZpIANALbh) | 4:34 |
 | 43 | [Sol de Inverno](https://open.spotify.com/track/2usVgnXIkdUHGXsRuIb9r0) | [Simone de Oliveira](https://open.spotify.com/artist/6RNXZUrWCDL7SK75TkFStj) | [Simone de Oliveira](https://open.spotify.com/album/2vBQF8fwW7jYSNP2niJ20T) | 3:36 |

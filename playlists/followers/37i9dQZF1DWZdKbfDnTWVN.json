@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 12424,
+  "2024-04-19": 12441,
   "date_first_scraped": "2022-10-01",
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=CEXFG5fgQZK_MEQ_CmLGvQ\"> Khaligraph Jones </a> ",
   "name": "254 Flow",
@@ -355,7 +355,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 221572,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/2zXgGlV2o8hhhD16IXoWzh"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 320940,
       "name": "Bongo Favour",
       "url": "https://open.spotify.com/track/02VNjA5HsgGYYcTGgbuw4m"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Caliweed",
       "url": "https://open.spotify.com/track/36xONjijeZ6ye4ARFwQADT"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "Commercial",
       "url": "https://open.spotify.com/track/7qScVhjvF1FyIBJFFrXaqP"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 236571,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6X7vxDcau5bwndcs58owCF"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 191830,
       "name": "Doing It Major",
       "url": "https://open.spotify.com/track/02gLLzsm3zUbungGVvfM2l"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 207996,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/0zv6iIwVr3J9SftqWPQpJn"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 245208,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/5jP8QCZmOtmxVZIS23WZUH"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "Iko Top",
       "url": "https://open.spotify.com/track/4CvQplM8LsqUTY0YbDohBH"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 139133,
       "name": "Intro Freestyle",
       "url": "https://open.spotify.com/track/2SeDaMZmSfwJ5McsxiSMf8"
@@ -1735,6 +1735,32 @@
       "duration_ms": 162063,
       "name": "Kalesa na Leather",
       "url": "https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK"
+    },
+    {
+      "album": {
+        "name": "Kichele",
+        "url": "https://open.spotify.com/album/1FR8KcaTLzgP1TZUuVx8yj"
+      },
+      "artists": [
+        {
+          "name": "Ares66",
+          "url": "https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd"
+        },
+        {
+          "name": "Domani Munga",
+          "url": "https://open.spotify.com/artist/5QzkdCjCrO3OpfLTHvqnNb"
+        },
+        {
+          "name": "Skillo",
+          "url": "https://open.spotify.com/artist/6rh217APb8d1vsKePXAca1"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Kichele",
+      "url": "https://open.spotify.com/track/1v0epiVeXJTtBPPGtkO356"
     },
     {
       "album": {
@@ -2369,7 +2395,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 220273,
       "name": "Midas Touch",
       "url": "https://open.spotify.com/track/2eoyaHL33pdJ1e0IzUhuIG"
@@ -2387,7 +2413,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 267493,
       "name": "Minimal Pressure",
       "url": "https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR"
@@ -2515,7 +2541,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 235008,
       "name": "Mzigo",
       "url": "https://open.spotify.com/track/0U0zmqjmcPg8s9RXZzakcz"
@@ -3399,7 +3425,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 169578,
       "name": "Shots (feat. Nyashinski)",
       "url": "https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey"
@@ -3501,7 +3527,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 202837,
       "name": "Similani",
       "url": "https://open.spotify.com/track/0eYHEDUKHrdPxNpxETNL6c"
@@ -3775,7 +3801,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 186462,
       "name": "Starshine",
       "url": "https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF"
@@ -3815,7 +3841,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 228413,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/5itPp7vwbbObaeYETYTonq"
@@ -3855,7 +3881,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 145924,
       "name": "Suluhu",
       "url": "https://open.spotify.com/track/5rjQ4OPzr17HCT6twZ0NAE"
@@ -4615,7 +4641,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 120805,
       "name": "Woo",
       "url": "https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq"

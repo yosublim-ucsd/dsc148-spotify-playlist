@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171428,
       "name": "BE LOUDER",
       "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 158421,
       "name": "Dirty Thoughts",
       "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183748,
       "name": "Hall of the Mountain King",
       "url": "https://open.spotify.com/track/6Ck7C5rO2I5sBBxIksPmYp"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181200,
       "name": "I AM",
       "url": "https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/6NURhpGBxcPREjrtBdfWeL"
@@ -3660,7 +3660,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 132846,
       "name": "Raver",
       "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"
@@ -4116,6 +4116,28 @@
       "duration_ms": 138071,
       "name": "Spacestorm",
       "url": "https://open.spotify.com/track/66lM2053Cgq8Xm7TUMR475"
+    },
+    {
+      "album": {
+        "name": "Stop Playing",
+        "url": "https://open.spotify.com/album/0cUyM46EZCAv2uKx0PugP4"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Stop Playing",
+      "url": "https://open.spotify.com/track/2Ys7qaDAMTbgmHZRJxmeBZ"
     },
     {
       "album": {
@@ -4670,6 +4692,32 @@
       "duration_ms": 188511,
       "name": "Til The AM",
       "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
+    },
+    {
+      "album": {
+        "name": "Trip to Scotland",
+        "url": "https://open.spotify.com/album/6lIQTmNrXP4CzwxVhdguDB"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        },
+        {
+          "name": "Piper.Ally",
+          "url": "https://open.spotify.com/artist/7irQApL7q6iOzs8mDY3xDz"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Trip to Scotland",
+      "url": "https://open.spotify.com/track/2HOWJ0NsgkKTnxxKK9NUIr"
     },
     {
       "album": {

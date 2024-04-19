@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,560 likes - 43 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,580 likes - 43 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 7 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 |
 | 8 | [Baby Mama](https://open.spotify.com/track/5XD8dAkKVX2RwjYEjgGY9j) | [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [Baby Mama](https://open.spotify.com/album/6onJiWfTJ5nYCg6B1ihMug) | 3:14 |
 | 9 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 |
-| 10 | [DONNER \(feat\. Slkrack\)](https://open.spotify.com/track/4M4zzOT9leOtY87UVK8sXd) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [LE SOLEIL NE S'ÉTEINT JAMAIS](https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06) | 3:47 |
+| 10 | [Donner](https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Donner](https://open.spotify.com/album/3dzEWGuhgrpeVQS3PiVcHe) | 3:47 |
 | 11 | [Célèbre](https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Célèbre](https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS) | 2:56 |
 | 12 | [No Signal](https://open.spotify.com/track/6XtAUuYIDr9gHTw2PXVBdx) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [No Signal](https://open.spotify.com/album/1JQIOuQbid5RmHOfaF7iem) | 2:37 |
 | 13 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 16 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 |
 | 17 | [Chaud – Nouvelle école](https://open.spotify.com/track/4Vb1ztihzCqdC7szS4JHxs) | [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH) | [Chaud – Nouvelle école](https://open.spotify.com/album/1B6E8tfhye3fskhTbEWNBh) | 2:45 |
 | 18 | [Mwaka Moon](https://open.spotify.com/track/7LDq2cE0TQV66BXorbV8FD) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Mwaka Moon](https://open.spotify.com/album/0JiHJJGVSHzQMdTJ2fp9dh) | 3:57 |
-| 19 | [Come On](https://open.spotify.com/track/6R6acFTljyYK1sww9BIcOo) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/4TVGVePfkd6hndEEAQqfTU) | 2:28 |
+| 19 | [Come On](https://open.spotify.com/track/557X9hpi0tWsrCeD1yneDe) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/7MMUOLZJ2g9ph19pplEkSy) | 2:28 |
 | 20 | [Crois\-moi \(feat\. Ninho\)](https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Architecte](https://open.spotify.com/album/0QOCs2S4yp3M47sNZGCUqY) | 3:03 |
 | 21 | [Sound System](https://open.spotify.com/track/5f7BIsnqxFCgt4KqWI8Twy) | [HoussBad](https://open.spotify.com/artist/3Bq4yBJeMX2uoNvUjBKJGf), [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [GATE 67](https://open.spotify.com/album/3fhujrYvdJS2KTruswtYHr) | 2:51 |
 | 22 | [Arrêt du cœur](https://open.spotify.com/track/2zvseOSbmKBuYBOe264UYm) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [R.A.S](https://open.spotify.com/album/2KMkCKYVdjmRLPqdWL3Ql8) | 4:23 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 24 | [KYLL](https://open.spotify.com/track/1VYTP4prOc62xQe1KWf3S5) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KYLL](https://open.spotify.com/album/0iaSXjvJQx0AAVoOeaBt44) | 3:20 |
 | 25 | [Au cas où je vais percer](https://open.spotify.com/track/58bhnwRZwCImxenUZJWvOQ) | [Josué](https://open.spotify.com/artist/4Bb3vJgKsgjMmxDEElLZ1Y) | [Confessions](https://open.spotify.com/album/43E6VSUTTVstLg60GF9z8k) | 2:28 |
 | 26 | [Air Max](https://open.spotify.com/track/2XESFfYekQ0mRau2GXjT3E) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Air Max](https://open.spotify.com/album/4iRAKma59A97OMcac2nsOa) | 3:25 |
-| 27 | [Goal](https://open.spotify.com/track/2yYwQWgkmEWEivKeLGODRK) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Crackito, vol\. 1](https://open.spotify.com/album/5Z0HoUBlTxKxoJaMNcKHW8) | 2:37 |
+| 27 | [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 |
 | 28 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 |
 | 29 | [Ego\-Tripes](https://open.spotify.com/track/59z8cSxWytXyQT4Kk0atTD) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [SUMUD](https://open.spotify.com/album/1BSjnP0tKK8AoM7vj91sQY) | 2:28 |
-| 30 | [Let's Go](https://open.spotify.com/track/6ehqPqJz9YMLS4dhmWyx3i) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Rebirth](https://open.spotify.com/album/51SALtVR1ld1TmwwN4rFiw) | 2:18 |
+| 30 | [Let's Go](https://open.spotify.com/track/7h2xtz39bv1JnM3KnIt6pA) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Let's Go](https://open.spotify.com/album/3jVf06aEQuuno3UUppAT3G) | 2:18 |
 | 31 | [Seule](https://open.spotify.com/track/5OLUrLvTptlqQoieD1LZWP) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Seule](https://open.spotify.com/album/5IUFZeiYpy3b9qajjLGDNH) | 2:36 |
-| 32 | [OMAR LITTLE](https://open.spotify.com/track/5XQEVVnBwzoX86qT5rSgH6) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [2CB](https://open.spotify.com/album/2M1YHHWOpD9WCPW45gIqA9) | 2:29 |
+| 32 | [OMAR LITTLE](https://open.spotify.com/track/3t4hOtxCpXWyb0AbPP4vMM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [2CB](https://open.spotify.com/album/6u7W7S62u7cvSe9H3jgwut) | 2:28 |
 | 33 | [Trop tard](https://open.spotify.com/track/2lwgB5ReDf4VaW3Jm9JGp2) | [Le Dark](https://open.spotify.com/artist/5AlpGRnWjCTZ71L5AMEbgh) | [Trop tard](https://open.spotify.com/album/2p9A9Skhl3ATeY2S71SSk0) | 2:52 |
 | 34 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 |
 | 35 | [No Blabla](https://open.spotify.com/track/3CBRIyl1ZsGu8rE0J8fDB9) | [Bayass](https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb), [Couli B](https://open.spotify.com/artist/7bgcmZOHdCpmDHAE6ZJltg) | [No Blabla](https://open.spotify.com/album/0yu4Y2aRR7yZDLTSGpgwK0) | 2:10 |

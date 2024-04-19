@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87WMoVNV42z.md) - [plain]
 
 > Two brothers trying to make it as dancers open their own club, but their artistic drive soon clashes with the business, threatening their relationship\. Watch Dance Brothers Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beacon](https://open.spotify.com/track/4ZNsaaGx9WaY6MO7WtOLtD) | [Desto](https://open.spotify.com/artist/0ge7EVpHiQctfmPYjHb29r) | [Tears On Trash](https://open.spotify.com/album/7GkIa4KNQpnMTV9ugUxl8D) | 3:53 |
 | 2 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/36rXHqN7D1ETFhyKXXKs4w) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Gonna Make You Sweat](https://open.spotify.com/album/5obiQeM3NZ4NMsoeVxNDxw) | 4:03 |
 | 3 | [Töis](https://open.spotify.com/track/5Ul9s4aYIK28zX14v8TTeX) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [DeezyDavid](https://open.spotify.com/artist/64Owe6QCR9qQqcZZ11nfqM) | [Alo EP](https://open.spotify.com/album/7gW9OK5rSGbr15rZym0a9m) | 2:12 |
-| 4 | [Contortion](https://open.spotify.com/track/65RpJDjcRULTx5Cv7QZfm5) | [Exploited Body](https://open.spotify.com/artist/20gv4DyaxuAAx7eKzCs6mT) | [Contortion](https://open.spotify.com/album/5As6GPd25QG7LnCq72iuWd) | 2:48 |
+| 4 | [Contortion](https://open.spotify.com/track/5FBMLbdrIQC4nEMfrUxpuT) | [Exploited Body](https://open.spotify.com/artist/20gv4DyaxuAAx7eKzCs6mT) | [Contortion](https://open.spotify.com/album/5vH4pncDepnAi89rEfvnnN) | 2:48 |
 | 5 | [Kaks toisillemme hellää](https://open.spotify.com/track/2XIzjBL0Y2vVrtwjRdlccg) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Kaks toisillemme hellää](https://open.spotify.com/album/0ZX0wXTcPIzWxmD0bNpTlJ) | 3:20 |
 | 6 | [Toleka](https://open.spotify.com/track/52u6nZVqQ7zn8hJyFYrbd8) | [Gracias](https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij) | [Toleka](https://open.spotify.com/album/0ShEiQRAmRm3gaip2odsmC) | 3:17 |
-| 7 | [Dirty Flag](https://open.spotify.com/track/74GPlKNxuByey0pXZgblgl) | [Huoratron](https://open.spotify.com/artist/2SRSJhAtFtJRhizJMdf0Gt) | [XXVI Crimes of Love](https://open.spotify.com/album/03j7isQ0Hj0HScT9h4y3RW) | 4:19 |
+| 7 | [Dirty Flag](https://open.spotify.com/track/1pyeRhqO8vIpUc0Ftd8cP3) | [Huoratron](https://open.spotify.com/artist/2SRSJhAtFtJRhizJMdf0Gt) | [XXVI Crimes of Love](https://open.spotify.com/album/29cO6UR0Vpmbf3sTPBnc2M) | 4:19 |
 | 8 | [Maternal Immortality](https://open.spotify.com/track/7cTEPqV9pmCJ7S1gvxYPCJ) | [J Sliwa](https://open.spotify.com/artist/1ouIlCuQAcCSjLtUnBqY0q) | [Eternal Now](https://open.spotify.com/album/7k9BvX3XRQm5KOKP7PFPxy) | 5:36 |
 | 9 | [Space Precious Time](https://open.spotify.com/track/5NTG7NR2WnZ2hp9BUHB1wR) | [K\-X\-P](https://open.spotify.com/artist/0X1s8yezRK3sQGRPsiTuLw) | [III Part 1](https://open.spotify.com/album/5bqgxE55draTeQfrYTwTyP) | 5:11 |
 | 10 | [Gasoo Ei Breikkei](https://open.spotify.com/track/2rOJQl0dCaR5sk9hBn4NE8) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Gasoo Ei Breikkei](https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF) | 2:05 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87WMoVNV42z.md) - [plain]
 | 14 | [Lovesick](https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:16 |
 | 15 | [sekaisin](https://open.spotify.com/track/4aRKgWNK85cFDzX9SBFJNq) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sekaisin](https://open.spotify.com/album/2jPS5g3haETLdPSbZDrY4m) | 2:49 |
 | 16 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
-| 17 | [Gyoza](https://open.spotify.com/track/4sCyFkIRKgjHmeJhGBI5fN) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Gyoza](https://open.spotify.com/album/7sHeIqCo0bRBYdOMDAV8MW) | 6:39 |
+| 17 | [Gyoza](https://open.spotify.com/track/2IFhlThFS4uAfNDqW5Yz21) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Gyoza](https://open.spotify.com/album/3HEVj0qA8IEUN8xJgXwzJu) | 6:39 |
 | 18 | [Love Will Tear Us Apart](https://open.spotify.com/track/33z70kPS4Iwxyd1KKpxMQk) | [Susanna](https://open.spotify.com/artist/4ENNORrr0p2n5eaYl4ZXgG), [Susanna and the Magical Orchestra](https://open.spotify.com/artist/7xcuzgehBTI4gNLwItyw9i) | [Melody Mountain](https://open.spotify.com/album/0ha3inmn0oMYaQfJRgnTuf) | 5:08 |
 | 19 | [Winaloto](https://open.spotify.com/track/4qDp2aoJCukWNIeeCInx3X) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Winaloto](https://open.spotify.com/album/0uCWPZ8T5L2Slsw7SQx3Pu) | 3:28 |
 | 20 | [Gang Drone](https://open.spotify.com/track/4ycY3UYqgLOgeI1nZBVVJ9) | [Twwth](https://open.spotify.com/artist/0igNErCtblHMcfEnCopVhT) | [Dislocation](https://open.spotify.com/album/0Xi7oXPjJb19Vh8y9Utr6h) | 10:34 |

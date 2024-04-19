@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265373,
       "name": "Angels from the Realms of Glory",
       "url": "https://open.spotify.com/track/38WmvPWqMctDv2VytIJ6tU"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265427,
       "name": "Angels from the Realms of Glory (Instrumental Version)",
       "url": "https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 125506,
       "name": "How Great Our Joy",
       "url": "https://open.spotify.com/track/7y1j9j23BVQxvpBfI5PC5C"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125506,
       "name": "How Great Our Joy",
       "url": "https://open.spotify.com/track/5F0foLmvoD2hzu7Thl9RKC"
@@ -1163,24 +1163,6 @@
     },
     {
       "album": {
-        "name": "O Tannenbaum",
-        "url": "https://open.spotify.com/album/6rP03vthDDre3UtsE44I1a"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "date_added": "2022-11-11",
-      "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
-      "duration_ms": 150917,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/6Ukz90eYOrBGDim8AwnQKN"
-    },
-    {
-      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE"
       },
@@ -1222,6 +1204,28 @@
       "duration_ms": 150917,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/5mEuKXw8Sn0WMiSTbaCSZ3"
+    },
+    {
+      "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/6rP03vthDDre3UtsE44I1a"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150917,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/6Ukz90eYOrBGDim8AwnQKN"
     },
     {
       "album": {
@@ -1284,7 +1288,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152917,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/3giODUg7yq7Noolv09NY7Y"
@@ -1554,7 +1558,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259973,
       "name": "The Holly & The Ivy",
       "url": "https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX"
@@ -1572,7 +1576,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259973,
       "name": "The Holly & the Ivy",
       "url": "https://open.spotify.com/track/7EJ27XsIcR0S5V9lQLbP2d"

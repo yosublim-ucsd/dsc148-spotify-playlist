@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322373,
       "name": "Andy",
       "url": "https://open.spotify.com/track/1QZ7Co5mBLhAQf9OFk4ovN"
+    },
+    {
+      "album": {
+        "name": "The No Comprendo",
+        "url": "https://open.spotify.com/album/75VWLx4iCRDC25JyFuhivZ"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324426,
+      "name": "Andy",
+      "url": "https://open.spotify.com/track/3o79QyIdcJohu4c9DFdkG0"
     },
     {
       "album": {
@@ -88,10 +106,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179640,
       "name": "Aux sombres h\u00e9ros de l'amer",
       "url": "https://open.spotify.com/track/6zCZBAV8nABpbAmNVt24No"
+    },
+    {
+      "album": {
+        "name": "Veuillez rendre l'\u00e2me (\u00e0 qui elle appartient)",
+        "url": "https://open.spotify.com/album/2I7yysvgkSVj6qwOS3JJMC"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "Aux sombres h\u00e9ros de l'amer",
+      "url": "https://open.spotify.com/track/1rifJF9k8aU9zHViNs6sx8"
     },
     {
       "album": {
@@ -113,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Electric rendez-vous",
+        "url": "https://open.spotify.com/album/7q5l7LRoUESR9tmKqwVlHt"
+      },
+      "artists": [
+        {
+          "name": "Paul Personne",
+          "url": "https://open.spotify.com/artist/4bF39z4TAXCZOpvbLkmvML"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536880,
+      "name": "Barjoland",
+      "url": "https://open.spotify.com/track/1NM2DgNb2kaQDKv1THAnQi"
+    },
+    {
+      "album": {
         "name": "Electric rendez-vous (Live)",
         "url": "https://open.spotify.com/album/78dXM6CbAaIQhK6UVkfZSk"
       },
@@ -124,7 +178,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 536880,
       "name": "Barjoland - Live",
       "url": "https://open.spotify.com/track/1e3yVsHYIbRPveugkiiRDm"
@@ -150,7 +204,7 @@
     {
       "album": {
         "name": "The No Comprendo",
-        "url": "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY"
+        "url": "https://open.spotify.com/album/06sttBnl4jvNtqWBDObivY"
       },
       "artists": [
         {
@@ -161,6 +215,24 @@
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 293973,
+      "name": "C'est comme \u00e7a",
+      "url": "https://open.spotify.com/track/4bRsJUag74OJTy53ji19nd"
+    },
+    {
+      "album": {
+        "name": "The No Comprendo",
+        "url": "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 294306,
       "name": "C'est comme \u00e7a",
       "url": "https://open.spotify.com/track/3y9FzflARxBDRuARWGDWmq"
@@ -178,10 +250,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281733,
       "name": "Ces Gens-L\u00e0",
       "url": "https://open.spotify.com/track/09FwlQaygrzPpAGUBgdllP"
+    },
+    {
+      "album": {
+        "name": "Vagabondages",
+        "url": "https://open.spotify.com/album/1wllbabZmX1sru5CHlUj0r"
+      },
+      "artists": [
+        {
+          "name": "Ange",
+          "url": "https://open.spotify.com/artist/2pUqkhG7JEwHtk3hvD4qZL"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282120,
+      "name": "Ces Gens-L\u00e0",
+      "url": "https://open.spotify.com/track/41oq0POgWxEek6JeeEZO7n"
     },
     {
       "album": {
@@ -214,10 +304,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152266,
       "name": "Daniela",
       "url": "https://open.spotify.com/track/1QDP18NQ3dOAFYZiusw9Y4"
+    },
+    {
+      "album": {
+        "name": "30 cm",
+        "url": "https://open.spotify.com/album/0tA7XIB4BRCCUMGSaX2xfG"
+      },
+      "artists": [
+        {
+          "name": "Elmer Food Beat",
+          "url": "https://open.spotify.com/artist/1scwxd2WrAOSgUDm89YMVi"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/1XeTkG4QdxJMbGYqbtGdGC"
     },
     {
       "album": {
@@ -232,7 +340,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 182853,
       "name": "Dans La Salle Du Bar-Tabac De La Rue Des Martyrs",
       "url": "https://open.spotify.com/track/6SOuIgfdDRAiSgQ7F8Eaje"
@@ -250,7 +358,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184000,
       "name": "Dans La Salle Du Bar-Tabac De La Rue Des Martyrs",
       "url": "https://open.spotify.com/track/2TsYRdkND1FkmN2bZXPWFz"
@@ -358,10 +466,46 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232866,
       "name": "J'ai vu",
       "url": "https://open.spotify.com/track/0nlhnyRyQtIguldVIxmox6"
+    },
+    {
+      "album": {
+        "name": "Flammes",
+        "url": "https://open.spotify.com/album/1VC2v09ADwKCEbkxqdDxTq"
+      },
+      "artists": [
+        {
+          "name": "Niagara",
+          "url": "https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "J'ai vu",
+      "url": "https://open.spotify.com/track/6pM80ZxhSw1TdF1SP0oHRR"
+    },
+    {
+      "album": {
+        "name": "J'aime regarder les filles",
+        "url": "https://open.spotify.com/album/32CHUaSCBQS2LaRcaYuC1R"
+      },
+      "artists": [
+        {
+          "name": "Patrick Coutin",
+          "url": "https://open.spotify.com/artist/4emUqFLk5iZsqEqawwEfRJ"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228786,
+      "name": "J'aime regarder les filles",
+      "url": "https://open.spotify.com/track/2EdsD7nEloe5ynu6zlaUqI"
     },
     {
       "album": {
@@ -376,10 +520,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229973,
       "name": "J'aime regarder les filles - Version 45T",
       "url": "https://open.spotify.com/track/3FfdGs10k57GpkEVXTcPga"
+    },
+    {
+      "album": {
+        "name": "Louise Attaque",
+        "url": "https://open.spotify.com/album/6ASu7ufzcJkzZ9lLfiTyMN"
+      },
+      "artists": [
+        {
+          "name": "Louise Attaque",
+          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184134,
+      "name": "J't'emm\u00e8ne au vent",
+      "url": "https://open.spotify.com/track/15rn9UNrC8bx2sTXCJQYc0"
     },
     {
       "album": {
@@ -394,7 +556,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184173,
       "name": "J't'emm\u00e8ne au vent",
       "url": "https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0"
@@ -455,6 +617,24 @@
     },
     {
       "album": {
+        "name": "La collection 78-88",
+        "url": "https://open.spotify.com/album/2EjDanLhYefEDqUd5aTL7f"
+      },
+      "artists": [
+        {
+          "name": "Hubert-F\u00e9lix Thi\u00e9faine",
+          "url": "https://open.spotify.com/artist/5uD9sDsgIlcyH0e6Hkxbat"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "La fille du coupeur de joints",
+      "url": "https://open.spotify.com/track/0PITyfwD0Vlp5IzQXnIrkB"
+    },
+    {
+      "album": {
         "name": "...tout corps vivant branch\u00e9 sur le secteur \u00e9tant appel\u00e9 \u00e0 s'\u00e9mouvoir... (Remastered)",
         "url": "https://open.spotify.com/album/6DSUNeVYtnZVMYtV2MPNP3"
       },
@@ -466,7 +646,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235986,
       "name": "La fille du coupeur de joints - Remastered",
       "url": "https://open.spotify.com/track/6yvqfPRAJip5vwtfSMl2Xg"
@@ -520,10 +700,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307155,
       "name": "La musique que j'aime",
       "url": "https://open.spotify.com/track/7rRCTsiLg8WfUSqCjW74H4"
+    },
+    {
+      "album": {
+        "name": "50 plus belles chansons",
+        "url": "https://open.spotify.com/album/3xsMBmWh6USsLf8SR2Vc0U"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307439,
+      "name": "La musique que j'aime",
+      "url": "https://open.spotify.com/track/5D1bPGEwDqyj2vgh9PfYjP"
     },
     {
       "album": {
@@ -581,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Les Rita Mitsouko",
+        "url": "https://open.spotify.com/album/3pq40wlepP5rSZo3BOoUzV"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335093,
+      "name": "Marcia Baila",
+      "url": "https://open.spotify.com/track/1fk7PoBi3mEo7AhhAwQn5U"
+    },
+    {
+      "album": {
         "name": "Rita Mitsouko",
         "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
       },
@@ -592,7 +808,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335746,
       "name": "Marcia Ba\u00efla",
       "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
@@ -672,7 +888,7 @@
     {
       "album": {
         "name": "Jour De F\u00eate",
-        "url": "https://open.spotify.com/album/5Tw5daLzzWF1b2t4l0n8Ue"
+        "url": "https://open.spotify.com/album/7pvLWD3uxqEJIA6TLGHpx0"
       },
       "artists": [
         {
@@ -683,6 +899,24 @@
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247246,
+      "name": "Oh Les Filles !",
+      "url": "https://open.spotify.com/track/1MrFJ1MyFlbWjixpBuZL1g"
+    },
+    {
+      "album": {
+        "name": "Jour De F\u00eate",
+        "url": "https://open.spotify.com/album/5Tw5daLzzWF1b2t4l0n8Ue"
+      },
+      "artists": [
+        {
+          "name": "Au Bonheur Des Dames",
+          "url": "https://open.spotify.com/artist/6tAjae92mA43fTB7ahR5ns"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 247246,
       "name": "Oh Les Filles !",
       "url": "https://open.spotify.com/track/6eQ4VCIr7pASC4fqsOMvEm"
@@ -736,10 +970,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140693,
       "name": "Pas assez de toi",
       "url": "https://open.spotify.com/track/06r4RVjE8HIP3CAnHgelsj"
+    },
+    {
+      "album": {
+        "name": "Puta's Fever",
+        "url": "https://open.spotify.com/album/43oKhk0qbJsME4IV12KqSI"
+      },
+      "artists": [
+        {
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140693,
+      "name": "Pas assez de toi",
+      "url": "https://open.spotify.com/track/59MF5YSJd2qT4PWbImxbv0"
     },
     {
       "album": {
@@ -754,10 +1006,46 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159226,
       "name": "Petite fille",
       "url": "https://open.spotify.com/track/2zHSxMe25PmT6EYIxOuqub"
+    },
+    {
+      "album": {
+        "name": "Never Trust A Best Of",
+        "url": "https://open.spotify.com/album/63EUIFDKryfVCDlKpjV3kQ"
+      },
+      "artists": [
+        {
+          "name": "Les Wampas",
+          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Petite fille",
+      "url": "https://open.spotify.com/track/6dKBf2oRwbBz8tasrEowUC"
+    },
+    {
+      "album": {
+        "name": "Pic A Glace",
+        "url": "https://open.spotify.com/album/5dPE9TQcvO6oWHy6rqeaQh"
+      },
+      "artists": [
+        {
+          "name": "Bijou",
+          "url": "https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141840,
+      "name": "Rock \u00e0 la radio",
+      "url": "https://open.spotify.com/track/0zRRNMUCylMVDpeFqNmOIV"
     },
     {
       "album": {
@@ -772,7 +1060,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141840,
       "name": "Rock \u00e0 la radio",
       "url": "https://open.spotify.com/track/41KB3u2LyXKQTv5JJutmii"
@@ -790,10 +1078,46 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270480,
       "name": "Salut \u00e0 toi",
       "url": "https://open.spotify.com/track/1CMfDFoGHwQIRe4dn9wOG8"
+    },
+    {
+      "album": {
+        "name": "Joyeux merdier",
+        "url": "https://open.spotify.com/album/5RfZq0sjJpWctdwVkg0Gl2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9rurier Noir",
+          "url": "https://open.spotify.com/artist/4boY3fDYvqcujNmLZpQdbc"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270480,
+      "name": "Salut \u00e0 Toi",
+      "url": "https://open.spotify.com/track/3jy8S5Ebv4yiQtuvqgyIyP"
+    },
+    {
+      "album": {
+        "name": "Famille nombreuse",
+        "url": "https://open.spotify.com/album/5cxVi0C1UbZCw8iNpgTKrp"
+      },
+      "artists": [
+        {
+          "name": "Les N\u00e9gresses Vertes",
+          "url": "https://open.spotify.com/artist/0baGqHSXVphCsotxWDv7NX"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206893,
+      "name": "Sous le soleil de Bodega",
+      "url": "https://open.spotify.com/track/009RK7haVVIsa0seuyNSFR"
     },
     {
       "album": {
@@ -808,7 +1132,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206893,
       "name": "Sous le soleil de Bodega",
       "url": "https://open.spotify.com/track/0kwBYFETfcomDGcSgeeUAX"
@@ -874,7 +1198,7 @@
     {
       "album": {
         "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1PaXzeLRB1qhRfKgQQfuap"
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
       },
       "artists": [
         {
@@ -885,6 +1209,24 @@
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Un jour en France",
+      "url": "https://open.spotify.com/track/5cYrrz28M629ZyiV5gz1f3"
+    },
+    {
+      "album": {
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1PaXzeLRB1qhRfKgQQfuap"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 192133,
       "name": "Un jour en France",
       "url": "https://open.spotify.com/track/0d78m6cOga4MjgeXoDk8XC"
@@ -920,10 +1262,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327040,
       "name": "Voil\u00e0 Les Anges",
       "url": "https://open.spotify.com/track/2iPhjmuJImqUA6Npm7aYxs"
+    },
+    {
+      "album": {
+        "name": "Voila Les Anges",
+        "url": "https://open.spotify.com/album/6MGRvMTgnFgc6lXctt1cTE"
+      },
+      "artists": [
+        {
+          "name": "Gamine",
+          "url": "https://open.spotify.com/artist/00eGrLDnNZNfCY3Lifp3HF"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327040,
+      "name": "Voil\u00e0 Les Anges",
+      "url": "https://open.spotify.com/track/3G2jHwgkK4HF5YrpqdkUis"
     },
     {
       "album": {

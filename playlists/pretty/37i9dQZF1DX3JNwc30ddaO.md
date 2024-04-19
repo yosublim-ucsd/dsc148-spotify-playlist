@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 
 > Meditative tones for clarity and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,491 likes - 86 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,809 likes - 86 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 | 28 | [Awaken the Third Eye Chakra](https://open.spotify.com/track/7o7HUQi5RKGhdDRSjWprqg) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Light and Vibration](https://open.spotify.com/album/0BuTMBr9X9c6lc4VcMEDfW) | 4:05 |
 | 29 | [Meditative Tibetan Bowl Sounds](https://open.spotify.com/track/3b2p6mv0J6ltCC6F0mcDxs) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Gong Sound](https://open.spotify.com/album/5xwNm3xyqtJvxjtja4WKFa) | 2:58 |
 | 30 | [Singing Bowl Session](https://open.spotify.com/track/1T38Pi3UwBp5CBGrY8lyHf) | [Soul Elevation](https://open.spotify.com/artist/33uRqE15Wfnc0rnvEkhTKw) | [Healing](https://open.spotify.com/album/2lnWEchW8RZH6esFUSIzPY) | 3:06 |
-| 31 | [I Am Alive](https://open.spotify.com/track/26mUDTAcPtiLeAiUKBNcEz) | [Meditación Trascendental](https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA) | [I Am Alive](https://open.spotify.com/album/1nF9MGNCyfkYPqUnTcUn7Y) | 3:00 |
+| 31 | [I Am Alive](https://open.spotify.com/track/49MRwkWqwnCatZhVm3t9nu) | [Meditación Trascendental](https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA) | [I Am Alive](https://open.spotify.com/album/5DzlpnpV0bHkMNgheu9zxr) | 3:00 |
 | 32 | [Singing Crystal 432 Hz](https://open.spotify.com/track/33o3GxEfZkx76sQAvcQiZs) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Meditative Crystal](https://open.spotify.com/album/1K6od3RmJnR6XSW4yYvLW8) | 3:00 |
 | 33 | [Safe Haven](https://open.spotify.com/track/5FQiL1O5UkwjJ8nPLxaGGb) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Tibetan Singing Bowl Songs](https://open.spotify.com/album/78jpWr2ktBjpOKa3Cx1j1R) | 3:13 |
 | 34 | [Consciência](https://open.spotify.com/track/3zcRp4RaAL32YYGKW1QJe8) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Sonidos Curativos](https://open.spotify.com/album/7pKqJWGeLYgUObHXAzMUBY) | 3:52 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 | 56 | [Himalayan Bowls](https://open.spotify.com/track/54fOvKvdGylK3KdcR8gz2Z) | [Tibetan Meditation](https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5) | [Tibetan Singing Bowls](https://open.spotify.com/album/3zD1ESqCyJGPpeJDX0DBj9) | 2:25 |
 | 57 | [Healing Tibetan Bowls](https://open.spotify.com/track/27R2tfIn7bS4Hvq14AelZI) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:45 |
 | 58 | [Tibetan Healing SOund](https://open.spotify.com/track/6z0HFXr3fhqvTHoJTOpyJh) | [Soul Elevation](https://open.spotify.com/artist/33uRqE15Wfnc0rnvEkhTKw) | [Healing](https://open.spotify.com/album/2lnWEchW8RZH6esFUSIzPY) | 2:36 |
-| 59 | [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 |
+| 59 | [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 |
 | 60 | [Ancient Spirit's Sing](https://open.spotify.com/track/70QyxqmlcrW5FboUqMQr9T) | [Chuck Jonkey / Sonic Safari Productions](https://open.spotify.com/artist/619OpBNZypnFR3f69BGgtg) | [Tibetan Singing Bowls](https://open.spotify.com/album/0uRf0FuRW6oZtAeTVM7AOG) | 7:30 |
 | 61 | [Balance](https://open.spotify.com/track/3mJ6DNBcu7ijyxhVCUeA4q) | [Satorio](https://open.spotify.com/artist/54dz2oZHyoh9ZmfldoKogN) | [Crystal Bowls & Tibetan Singing Bowls](https://open.spotify.com/album/0cJhl9uqOjDbSSLzJWi1KE) | 6:38 |
 | 62 | [Sound Bath](https://open.spotify.com/track/4bimpZQtbHrc1AOz82FHaw) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Serene Singing Bowls](https://open.spotify.com/album/1kbWnC6BQS3wgxYBe9YN2O) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuLTTdhPY3.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9?si=f6b8b9d6e0e44920">Mannequin Pussy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,898 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,026 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuLTTdhPY3.md) - [plain]
 | 7 | [Let's Go Away](https://open.spotify.com/track/6WtNzeccOZvqNITuJByJWV) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Is This Real?](https://open.spotify.com/album/531Pc0lZ2aJIHJfyO7q0Ny) | 1:48 |
 | 8 | [I Cry \(Night after Night\)](https://open.spotify.com/track/6W03BOggURVJECgPfpz7Gh) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:04 |
 | 9 | [Driponomics](https://open.spotify.com/track/6pg4RmNDkexpkROi56yHSQ) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Mother Maryrose](https://open.spotify.com/artist/2nCvXCwODRmVexITlXalio) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 2:49 |
-| 10 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
+| 10 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
 | 11 | [Here Comes Everybody](https://open.spotify.com/track/0onmat5CoaZNxLlqvPvv5T) | [Autolux](https://open.spotify.com/artist/7HizNYe1mSfmvbXlx3la3m) | [Future Perfect](https://open.spotify.com/album/6LoLOun0sJqNEpSuDZrKoS) | 5:17 |
 | 12 | [Got You \(In My World Now\)](https://open.spotify.com/track/7cyafJHt8KEPwA5tKcbjR0) | [Steve Marino](https://open.spotify.com/artist/4tg0ssTKTKCAuJfYb8wTc3) | [Too Late To Start Again](https://open.spotify.com/album/3FgMH3Qe7HoSDnNZORtqqw) | 3:11 |
 | 13 | [Attainable](https://open.spotify.com/track/2RMWx21y9xyUZ8naxDae2w) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Only Constant](https://open.spotify.com/album/3khEZvQmpSLplYYIlmK8ti) | 1:43 |

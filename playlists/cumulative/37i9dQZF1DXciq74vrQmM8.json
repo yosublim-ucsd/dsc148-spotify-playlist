@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Lynks",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Ayleen Valentine",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 159200,
       "name": "ask nicely",
       "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159200,
       "name": "ask nicely",
       "url": "https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL"
@@ -4885,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/08TgrjuVSPLq8ID3yGUs3W"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192314,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/0XczwSIVWCjH800SBieNkC"
+    },
+    {
+      "album": {
         "name": "FRIDAY (Reloaded)",
         "url": "https://open.spotify.com/album/3XSKnyN9nvtxA2LFQOdTCu"
       },
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
@@ -6136,7 +6154,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139310,
       "name": "Hellhound",
       "url": "https://open.spotify.com/track/0YIrZZTRyL7znhzzDktCW4"
@@ -9963,6 +9981,32 @@
     },
     {
       "album": {
+        "name": "Obsessed (feat. Ashley Sienna) [Slush Puppy Remix]",
+        "url": "https://open.spotify.com/album/1oafjF0WNExySlSD6LaJXw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155848,
+      "name": "Obsessed (feat. Ashley Sienna) - Slush Puppy Remix",
+      "url": "https://open.spotify.com/track/6hfBfgN4UzqJ2FsqqwwyFw"
+    },
+    {
+      "album": {
         "name": "Off With Their Heads",
         "url": "https://open.spotify.com/album/4BIBmd8fwsIA7yuBPhz8dU"
       },
@@ -12099,6 +12143,24 @@
     },
     {
       "album": {
+        "name": "snakelike (the stars collide)",
+        "url": "https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx"
+      },
+      "artists": [
+        {
+          "name": "whatsaheart",
+          "url": "https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163188,
+      "name": "snakelike (the stars collide)",
+      "url": "https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU"
+    },
+    {
+      "album": {
         "name": "SO DUMB",
         "url": "https://open.spotify.com/album/30nPofVWEWQwFeqJNzHJvP"
       },
@@ -13615,6 +13677,24 @@
     },
     {
       "album": {
+        "name": "Uncle Fred",
+        "url": "https://open.spotify.com/album/3xYFDIJYP3Lk2zwjmV1AyA"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Uncle Fred",
+      "url": "https://open.spotify.com/track/7tVc2fhAogS0Yo5zsPSh66"
+    },
+    {
+      "album": {
         "name": "under (feat. phem)",
         "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
       },
@@ -13910,7 +13990,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215680,
       "name": "Venom",
       "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
@@ -14622,7 +14702,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176557,
       "name": "WOT?",
       "url": "https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn"

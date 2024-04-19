@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg\">HONEYMOAN</a> ",
-  "num_followers": 11372,
+  "num_followers": 11393,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -123,40 +123,40 @@
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
     },
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Critical As Water",
-        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
+        "name": "Critical as Water",
+        "url": "https://open.spotify.com/album/2fnLBRgQNQaT7Rx8GMH6kk"
       },
       "artists": [
         {
@@ -166,23 +166,7 @@
       ],
       "duration_ms": 196640,
       "name": "Vultures",
-      "url": "https://open.spotify.com/track/2UKsPrqGAbsVO5ei8Y1JOs"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+      "url": "https://open.spotify.com/track/4vd9eTTUijWgDjbChqntBs"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -199,6 +183,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/5tTmosmyV33wCiwniZc4Qs"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -301,20 +301,20 @@
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-04-12 09:24:34",
       "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+        "name": "lucy~",
+        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
         }
       ],
-      "duration_ms": 201467,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+      "duration_ms": 118000,
+      "name": "lucy~",
+      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -333,42 +333,10 @@
       "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
     },
     {
-      "added_at": "2024-04-12 09:24:34",
-      "album": {
-        "name": "lucy~",
-        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "lucy~",
-      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "The Home We Built",
-        "url": "https://open.spotify.com/album/1TKDPkavJaq0s2g2woXd3e"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Take Yours, I'll Take Mine",
-      "url": "https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa"
-    },
-    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
       },
       "artists": [
         {
@@ -378,7 +346,7 @@
       ],
       "duration_ms": 132160,
       "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -433,22 +401,6 @@
       "url": "https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k"
     },
     {
-      "added_at": "2024-03-15 04:56:50",
-      "album": {
-        "name": "honey~",
-        "url": "https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "honey~",
-      "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
-    },
-    {
       "added_at": "2024-03-08 05:56:00",
       "album": {
         "name": "the man",
@@ -463,6 +415,22 @@
       "duration_ms": 159635,
       "name": "the man",
       "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
+    },
+    {
+      "added_at": "2024-04-12 09:24:34",
+      "album": {
+        "name": "magic",
+        "url": "https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 253312,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -489,22 +457,6 @@
       "url": "https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4"
     },
     {
-      "added_at": "2024-04-12 09:24:34",
-      "album": {
-        "name": "magic",
-        "url": "https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 253312,
-      "name": "magic",
-      "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
-    },
-    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Experience the Al Bairre Show With Al Bairre Experience",
@@ -519,6 +471,22 @@
       "duration_ms": 198826,
       "name": "Let's Fall in Love Some More",
       "url": "https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv"
+    },
+    {
+      "added_at": "2024-03-15 04:56:50",
+      "album": {
+        "name": "honey~",
+        "url": "https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "honey~",
+      "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -567,6 +535,22 @@
       "duration_ms": 207493,
       "name": "Safe As House",
       "url": "https://open.spotify.com/track/5zy8dzGWyT64Fp8A2QSGMc"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT"
     },
     {
       "added_at": "2024-02-22 22:00:00",
@@ -721,22 +705,6 @@
       "url": "https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp"
     },
     {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 136216,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
-    },
-    {
       "added_at": "2024-03-15 04:56:50",
       "album": {
         "name": "Written In The Stars",
@@ -767,6 +735,38 @@
       "duration_ms": 187018,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 136216,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
+    },
+    {
+      "added_at": "2024-03-08 05:56:00",
+      "album": {
+        "name": "Rooms",
+        "url": "https://open.spotify.com/album/4QNmmRawWXUDvty7Pyc5ve"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "duration_ms": 195436,
+      "name": "Rooms",
+      "url": "https://open.spotify.com/track/6SkeoOFpFW6HJeyxo4zor1"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ"
     },
     {
-      "added_at": "2024-04-05 04:28:21",
-      "album": {
-        "name": "The Whale Song",
-        "url": "https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW"
-      },
-      "artists": [
-        {
-          "name": "Lucy Kruger & The Lost Boys",
-          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
-        }
-      ],
-      "duration_ms": 166748,
-      "name": "The Whale Song",
-      "url": "https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo"
-    },
-    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Fight For Me",
@@ -835,6 +819,26 @@
       "duration_ms": 226544,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
+    },
+    {
+      "added_at": "2024-03-29 05:15:05",
+      "album": {
+        "name": "You Were My First Everything",
+        "url": "https://open.spotify.com/album/1CiLpifvEAWG0GWUbSvxa4"
+      },
+      "artists": [
+        {
+          "name": "Henry Ate",
+          "url": "https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn"
+        },
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/5rnNxf9vfxKljGcBFycUM6"
+        }
+      ],
+      "duration_ms": 269461,
+      "name": "You Were My First Everything",
+      "url": "https://open.spotify.com/track/5OJ2WzKRqklsfAeiayVbqQ"
     }
   ],
   "unique_name": "Indie GO",

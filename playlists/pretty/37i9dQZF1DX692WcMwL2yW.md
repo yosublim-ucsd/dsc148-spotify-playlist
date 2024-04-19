@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,661 likes - 166 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,643 likes - 166 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 75 | [I'm Here](https://open.spotify.com/track/1aHAXehB7uQ044J4QVOXkb) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [I'm Here](https://open.spotify.com/album/3WdjV92wxOwTjwmALXKdj0) | 3:42 |
 | 76 | [lenient](https://open.spotify.com/track/536oAxoTUOQ1s0WrgReFZJ) | [fidget blue](https://open.spotify.com/artist/72zjw9ziFnk6Jl3xkgcvVK) | [lenient](https://open.spotify.com/album/1hPTNfK1zqa7Dieh5cMmcg) | 2:03 |
 | 77 | [Peace Police](https://open.spotify.com/track/2qHaXryEN56zBsYEG4j5Sj) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Peace Police](https://open.spotify.com/album/5UcnhXhnPxol0KORBDsW6L) | 2:16 |
-| 78 | [Ataraxis](https://open.spotify.com/track/16uSBcWTIq2kDzgoUGy7Pl) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ataraxis](https://open.spotify.com/album/6jJ3D7mfIcq085Oo52SgqZ) | 3:16 |
+| 78 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 |
 | 79 | [Clarity](https://open.spotify.com/track/1dybFHd0ge6XP8Yjy8ub22) | [Litu Ritu](https://open.spotify.com/artist/3PSahIv0mhBptzduLsuEJU) | [Hyperloop](https://open.spotify.com/album/6TlRciT120PQPOxplEQB9y) | 4:19 |
 | 80 | [Fatso](https://open.spotify.com/track/0NzWqeHz2wnYvEJYy5D7l0) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [158 Texas](https://open.spotify.com/album/47HGt4wZttlPBYItTZURXi) | 3:05 |
 | 81 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 94 | [fleeting thoughts](https://open.spotify.com/track/2VJwLNwRtzLR5YgD4Qp21U) | [trees](https://open.spotify.com/artist/1NJKdtvnP2T0P97URYd5d5) | [fleeting thoughts](https://open.spotify.com/album/0cCQNtgn1IqTjcfkSyOvoK) | 3:28 |
 | 95 | [No Club Nights](https://open.spotify.com/track/3CX9woVxbNze4MJ5EvTJeL) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [No Club Nights](https://open.spotify.com/album/66XlREt4HOxq7C4Z5qT4dI) | 3:49 |
 | 96 | [Kerope](https://open.spotify.com/track/0smFg48BCft1tmc1NTfmth) | [Swans of London](https://open.spotify.com/artist/6dxwRzHWBjutEenT5gV6L8) | [Kerope](https://open.spotify.com/album/2l3Pbwp81ROqPb4WDUW5jv) | 3:39 |
-| 97 | [Ain't Shit Free](https://open.spotify.com/track/5IfXAwIrFnymwN0RGaSIeT) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/3TREMXQuq6rpRSnyzepFdH) | 3:17 |
+| 97 | [Ain't Shit Free](https://open.spotify.com/track/4RXpJgl2Q4ZEHaExw9YnzJ) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/5KJhwBaUGaPhWCXiyo1Rzv) | 3:17 |
 | 98 | [Shady Business](https://open.spotify.com/track/2hfb30t113bde0rFV4rA4S) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [sword](https://open.spotify.com/artist/7aVAHmMUBvA8a8yKFv8NkC), [haku](https://open.spotify.com/artist/4bPSO3Oj1HPU6T4oIZfGRc) | [Adjust Your Tracking](https://open.spotify.com/album/4WQASjQl8fzEWW2h8hvxwQ) | 2:55 |
 | 99 | [Downheart](https://open.spotify.com/track/0Lp1LrUBqlSYTBf5s6jfTc) | [Michael Tylor](https://open.spotify.com/artist/3U4Nn3hdz5eDPdDQUPW0MM) | [Downheart](https://open.spotify.com/album/3qK5sZYstzW4yt29Tw7Ocl) | 2:09 |
 | 100 | [Casual](https://open.spotify.com/track/04vbqTabvnBVNS529gCjr7) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Casual](https://open.spotify.com/album/34WYto1C7tTFFiyolKmtDW) | 2:58 |
@@ -114,12 +114,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 104 | [Unfeeling](https://open.spotify.com/track/4T0BMGKEt5MeIdrhfD8TWm) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Nothing Lasts](https://open.spotify.com/album/23OWJHbhF5o0NRe7GWUS6O) | 2:53 |
 | 105 | [Make You Happy](https://open.spotify.com/track/5pvID7VsoTm6zQ7bcXK3oA) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Make You Happy](https://open.spotify.com/album/5lmaMNYD4N1LqQgW6yOral) | 2:54 |
 | 106 | [Murk](https://open.spotify.com/track/7BprHLoHFsRABvsYof63wM) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Murk](https://open.spotify.com/album/3eQk7rXjVrairXgkzKZzSE) | 2:48 |
-| 107 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 |
+| 107 | [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 |
 | 108 | [hard times](https://open.spotify.com/track/1Kx2DFFrntzEZk7ksPbAsl) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [8\-bit Roads](https://open.spotify.com/album/4d1EpSYALcBPzLSrfgH4S0) | 2:35 |
 | 109 | [mp44](https://open.spotify.com/track/5LXi1MulVPbxBSyX142i6e) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [mp44](https://open.spotify.com/album/3H9cddPoAxaFXViTFe6ePR) | 3:28 |
 | 110 | [São Paulo Nights](https://open.spotify.com/track/5qECwqCFPBMMmiPZrt8WKW) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [São Paulo Nights](https://open.spotify.com/album/1TSEQJnPE8q2bgprYZhtxH) | 2:16 |
 | 111 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 |
-| 112 | [Flow Killer](https://open.spotify.com/track/6bcVS1yb7iKMaKGZeNhOnI) | [Cris Luke](https://open.spotify.com/artist/3rWSBTTVA1lFOu9hKrLaCp) | [Freestyle Beats, Vol.2](https://open.spotify.com/album/03MPyUrOpCGRdxtsy0WBzJ) | 3:20 |
+| 112 | [Flow Killer](https://open.spotify.com/track/4VSpmMFM9wnjJgbMNFyis9) | [Cris Luke](https://open.spotify.com/artist/3rWSBTTVA1lFOu9hKrLaCp) | [Freestyle Beats, Vol\. 2](https://open.spotify.com/album/2Qwc3sooou8N4HAMKuNJny) | 3:20 |
 | 113 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 |
 | 114 | [ficus](https://open.spotify.com/track/2QBsNCb5Ih9bjHtvrsVkef) | [killtino](https://open.spotify.com/artist/3R6MCwWHzfbzkPqBIp4Pyg) | [ficus](https://open.spotify.com/album/7ur1AExkPSE4YsO1Kr4apo) | 2:49 |
 | 115 | [Kawakawa](https://open.spotify.com/track/3y20jsjCWlfyTTrvu4apCC) | [Diamond Rainclouds](https://open.spotify.com/artist/5PPvxImj1EsRW9mj9YmnEL) | [Kawakawa](https://open.spotify.com/album/0J62tlYL5LDUdkxkRXLsBJ) | 4:17 |
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 140 | [Alright!!!](https://open.spotify.com/track/7nf0SbQqrLkwNOjLH6J4PO) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Butterscotch](https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI) | 3:30 |
 | 141 | [Snowy Mountains](https://open.spotify.com/track/0lyXasy5SI3Fq0Y7JUSlcU) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Snowy Mountains](https://open.spotify.com/album/0eD8rydulpTAJESZr4z65R) | 2:42 |
 | 142 | [Quantum](https://open.spotify.com/track/204YRFBt8bmTHvSepEvjvO) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Quantum](https://open.spotify.com/album/2N7Y2ecrZBLIBZgSJ8zmuh) | 2:24 |
-| 143 | [Come Over](https://open.spotify.com/track/5iWOwHfOFBUdbi04ti6F0v) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/2cIwbiXuRztOGlfPMnX1um) | 4:00 |
+| 143 | [Come Over](https://open.spotify.com/track/02SZNC6HRyEuFSWwvDHvGr) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/64RIVMQaMTlWzDpAymXzFa) | 4:00 |
 | 144 | [Knight's Revenge](https://open.spotify.com/track/0ezINhl6gHC8dqWuJfr0Bc) | [Lake Kahn](https://open.spotify.com/artist/3kizVBAyS6O8Ytp9z0H97k) | [On Thin Ice](https://open.spotify.com/album/1l7b6RDz41wmBi9X7FGNu7) | 2:31 |
 | 145 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 |
 | 146 | [Intrepid](https://open.spotify.com/track/4FF2yXuwxAVwQzCyDj0rRU) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Intrepid](https://open.spotify.com/album/2tjwpsIYUyYPrTEeHpMf9B) | 2:54 |

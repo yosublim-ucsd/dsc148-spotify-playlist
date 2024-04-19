@@ -4,7 +4,7 @@
 
 > Faye Webster invites us into her world\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-378 songs - 1 day 2 hr 3 min
+379 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Acudreaming](https://open.spotify.com/track/03IPrreGwGeF3Duxg540Ql) | [Sensations Fix](https://open.spotify.com/artist/3pJ1M4nwrhz0W2upAPGgWs) | [Music Is Painting In the Air \(1974 \- 1977\)](https://open.spotify.com/album/3gijtaVF3wRnLM2Kaq8MNJ) | 3:02 | 2023-09-25 | 2023-10-21 |
 | [Adios, Florida \(Snippet\)](https://open.spotify.com/track/6ZfHhzYnUPGAcw6IwI4Qvk) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [AWVFTS 0:5 \(The Undivided Five Story\)](https://open.spotify.com/album/5SEZMNgm3o9tr9FgSJ7EUe) | 0:56 | 2023-12-22 | 2024-04-06 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2023-06-07 | 2023-06-24 |
-| [After Ur Gone](https://open.spotify.com/track/5BjwwMwWSp2Zv7O8oYrz8N) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [DSU](https://open.spotify.com/album/5vLZ3lKEpbRyjTIFPrdGwU) | 2:21 | 2024-04-05 |  |
+| [After Ur Gone](https://open.spotify.com/track/1nli52hDC3vtMXw5nFRo6W) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [DSU](https://open.spotify.com/album/7mcmdIquDOA2QT8h1SSZpg) | 2:21 | 2024-04-05 |  |
+| [After Ur Gone](https://open.spotify.com/track/5BjwwMwWSp2Zv7O8oYrz8N) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [DSU](https://open.spotify.com/album/5vLZ3lKEpbRyjTIFPrdGwU) | 2:21 | 2024-04-05 | 2024-04-19 |
 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 | 2024-04-05 |  |
 | [Aja](https://open.spotify.com/track/2cgNpsfZcBzdgeNPEeCnue) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 7:57 | 2023-10-20 | 2023-12-23 |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2024-04-05 |  |

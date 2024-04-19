@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,805 likes - 220 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,899 likes - 220 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 72 | [Nothing but trouble](https://open.spotify.com/track/7JUoKddqlQCvbRNHKEDFcg) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nothing but trouble](https://open.spotify.com/album/4o6aQi9SruqMNfKDLG2xXx) | 2:29 |
 | 73 | [Love Is Blind](https://open.spotify.com/track/2RQAWyB9xieQQjJgTfr0h1) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Love Is Blind](https://open.spotify.com/album/4juVHLFB6vng4oqDP0y24e) | 2:43 |
 | 74 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 |
-| 75 | [Backpacked](https://open.spotify.com/track/7JNbzQ3jz1v7EXgaUCIvkw) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/7JRH6yFgbxRh6RzolQM8dw) | 2:09 |
+| 75 | [Backpacked](https://open.spotify.com/track/76Cduh6Txq8dnZ8o6bLRGU) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/0KRPqPM8JroUiD9zom2kaj) | 2:09 |
 | 76 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 |
 | 77 | [How The Story Goes](https://open.spotify.com/track/4C1kmQjG42md25gFTyqvik) | [The Escape Route](https://open.spotify.com/artist/0OtRCgwx2kuOZy7ylYPU7g) | [Ariadne](https://open.spotify.com/album/71YzYvRCooN8yB2itVAE3d) | 2:26 |
 | 78 | [Purity](https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [Purity](https://open.spotify.com/album/7MqAJ6JKmdhqgb5TZyNK5u) | 3:45 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 83 | [MYSA](https://open.spotify.com/track/69ylUPLusue7f4Q1fyiEdr) | [Anitek](https://open.spotify.com/artist/0Idi5CuVXznxRkxzdUtdcQ) | [MYSA](https://open.spotify.com/album/5JJ4qtCv1tbWT1cp6jWac6) | 2:30 |
 | 84 | [Moon Rail](https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Moon Rail](https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq) | 2:40 |
 | 85 | [Daisy\-Chain](https://open.spotify.com/track/6Bk42XX8jPED540IlNEvsr) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Daisy\-Chain](https://open.spotify.com/album/3cKoDYDdo4OnTRWydsyWCt) | 2:10 |
-| 86 | [A Better Tomorrow](https://open.spotify.com/track/37TzHYPlhpOZ48aULkI15n) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/4TC77jN3S5fWwv2vnBSVJf) | 2:08 |
+| 86 | [A Better Tomorrow](https://open.spotify.com/track/6Oh1N2s9t02iwmOvCL9sj6) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Better Tomorrow](https://open.spotify.com/album/5V6RPQfkM51G2tO7V3VHuT) | 2:08 |
 | 87 | [Blue Skies](https://open.spotify.com/track/5fwI0Nxl5PFk1EFdpl1Pp5) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Blue Skies](https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805) | 2:38 |
 | 88 | [Thursday](https://open.spotify.com/track/62KumiHcX17c8KBuUQyTpT) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Thursday](https://open.spotify.com/album/1NSlBa0ZIHJGf4X89Z3CJ2) | 2:53 |
 | 89 | [White Wine Rivers](https://open.spotify.com/track/5a7ErRI6WVxhtOrvIeSSJ6) | [5terre](https://open.spotify.com/artist/35D9iOHhBCHYMscCfbG2vk) | [White Wine Rivers](https://open.spotify.com/album/2LQa78PnACswAEx1p7dpSH) | 2:03 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 201 | [Magic](https://open.spotify.com/track/6QLeR0bc0Iq3McZdan8Go3) | [Slowman](https://open.spotify.com/artist/26N8p8FkVBDkknf1icZGIl) | [Magic](https://open.spotify.com/album/1EYDbFXJjmhfBy4vNtZyvB) | 2:17 |
 | 202 | [When the lights are out](https://open.spotify.com/track/0dHjcYFbChsnfp1gD1leue) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Night Vibes](https://open.spotify.com/album/2MJHtNfn9mlrogJJ7seBJO) | 2:40 |
 | 203 | [reflect](https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [reflect](https://open.spotify.com/album/3sla1YDETOdnRRrmyn5jDy) | 2:44 |
-| 204 | [The Root](https://open.spotify.com/track/1xc98BOXjA79dOsq66RXKf) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/1xjYGSVeaviVdvexe74eww) | 3:28 |
-| 205 | [Sensations](https://open.spotify.com/track/4VtYPgDwi44SQVpMUOcVrz) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/0lBaFFdmUJiPEx3vuHWkgX) | 2:30 |
+| 204 | [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 |
+| 205 | [Sensations](https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/1ELlmWpHVgs5TsJjsNOTsT) | 2:30 |
 | 206 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 |
 | 207 | [Obo](https://open.spotify.com/track/7qOBaSjMFcdfUfDQ7IbrZo) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Rate 44](https://open.spotify.com/album/4n0F4gBSVeM5k6kYXpSrsd) | 2:41 |
 | 208 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 |

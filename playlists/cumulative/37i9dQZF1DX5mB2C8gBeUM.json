@@ -256,6 +256,24 @@
     {
       "album": {
         "name": "Ain't Missin' You",
+        "url": "https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "Ain't Missin' You",
+      "url": "https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M"
+    },
+    {
+      "album": {
+        "name": "Ain't Missin' You",
         "url": "https://open.spotify.com/album/023kFfJCSir9ZO6PjS13UB"
       },
       "artists": [
@@ -266,7 +284,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176371,
       "name": "Ain't Missin' You",
       "url": "https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy"
@@ -446,7 +464,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 174475,
       "name": "Anything Cold",
       "url": "https://open.spotify.com/track/117hcZ2YVEjGHF5xCJJfMh"
@@ -464,7 +482,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174475,
       "name": "Anything Cold",
       "url": "https://open.spotify.com/track/5wzzdPCvXvd7caNx6l5izX"
@@ -522,7 +540,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -540,7 +558,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158335,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/2b9REOIlmdLKHz4m9IzLUo"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 158335,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/3X0JZPRmG9lfR4NUlX49jL"
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155206,
       "name": "Carrying Your Love",
       "url": "https://open.spotify.com/track/2LgmOV0Stq52Y25zJBhnd9"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 155206,
       "name": "Carrying Your Love",
       "url": "https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157991,
       "name": "Dark Night - 717 Tapes",
       "url": "https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157991,
       "name": "Dark Night - 717 Tapes",
       "url": "https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 143787,
       "name": "Dutton Ranch Freestyle",
       "url": "https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143787,
       "name": "Dutton Ranch Freestyle",
       "url": "https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191017,
       "name": "For My Dawgs (feat. Willie Jones & Blanco Brown)",
       "url": "https://open.spotify.com/track/40jq22x0xSlHJ81KWZ1Hhm"
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171080,
       "name": "goodbye looks good on you (feat. Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/2otAb5kIGdZzJCqcUHNztT"
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 171080,
       "name": "goodbye looks good on you (feat. Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq"
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155032,
       "name": "High Heels",
       "url": "https://open.spotify.com/track/00200QXpcqpq9eOm2AYXIL"
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 155032,
       "name": "High Heels",
       "url": "https://open.spotify.com/track/7HH2qGXywdgAn5b2WHnkQq"
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180136,
       "name": "Hold My Horses",
       "url": "https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw"
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180136,
       "name": "Hold My Horses",
       "url": "https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159831,
       "name": "Holy Cowboy",
       "url": "https://open.spotify.com/track/1TPpvjNoanUE1UUE2Ap8jA"
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 159831,
       "name": "Holy Cowboy",
       "url": "https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY"
@@ -4092,6 +4110,28 @@
       "duration_ms": 210438,
       "name": "How Do You Love",
       "url": "https://open.spotify.com/track/6deDpxfbapjMLgHoaNuAx6"
+    },
+    {
+      "album": {
+        "name": "Hunnids In A Honky Tonk (feat. Paul Wall)",
+        "url": "https://open.spotify.com/album/3BW2kxCEMimQumskwX0Q9b"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "Hunnids In A Honky Tonk (feat. Paul Wall)",
+      "url": "https://open.spotify.com/track/0mGVfytxzgPXgGJf7RknpU"
     },
     {
       "album": {
@@ -4632,7 +4672,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167298,
       "name": "K[no]w Better",
       "url": "https://open.spotify.com/track/44HYuoGSPTgV8yKXccrOuW"
@@ -4650,7 +4690,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 167298,
       "name": "K[no]w Better",
       "url": "https://open.spotify.com/track/4oPZQzSt5mD8BxV2T9zbzI"
@@ -5334,7 +5374,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195093,
       "name": "Mile a Minute",
       "url": "https://open.spotify.com/track/32TXXuxoLABBCPwIzhcQji"
@@ -5352,7 +5392,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 195093,
       "name": "Mile a Minute",
       "url": "https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr"
@@ -5562,7 +5602,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
@@ -5580,7 +5620,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
@@ -6640,7 +6680,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 194823,
       "name": "Short Hills Rd",
       "url": "https://open.spotify.com/track/1BZ5Odd4Y7qYuQ6Yv3wxee"
@@ -6676,7 +6716,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194823,
       "name": "Short Hills Rd",
       "url": "https://open.spotify.com/track/76CbImfYH2XW0Cqg46NHk7"
@@ -7508,7 +7548,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN"
@@ -7530,7 +7570,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
@@ -8044,7 +8084,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 218213,
       "name": "Way Down Yonder",
       "url": "https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6"
@@ -8062,7 +8102,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218213,
       "name": "Way Down Yonder",
       "url": "https://open.spotify.com/track/6EunSTBXQStydUisRUCL5r"
@@ -8098,7 +8138,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183342,
       "name": "We Did",
       "url": "https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4"
@@ -8116,7 +8156,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183342,
       "name": "We Did",
       "url": "https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz"
@@ -8242,7 +8282,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "What You Waiting On",
       "url": "https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf"
@@ -8260,7 +8300,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158000,
       "name": "What You Waiting On",
       "url": "https://open.spotify.com/track/6UMzFiks3D219xoEpOMhE6"
@@ -8700,7 +8740,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 197666,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/2VhHhttQgFrD64SR4XHG2z"
@@ -8718,7 +8758,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197666,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"

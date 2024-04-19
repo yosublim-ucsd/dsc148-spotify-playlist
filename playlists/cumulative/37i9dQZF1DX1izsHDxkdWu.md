@@ -4,7 +4,7 @@
 
 > Fire up your rocket and sing\-along with Fei Fei to the Moon!
 
-37 songs - 1 hr 43 min
+38 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 | 2022-04-26 |  |
 | [Viaje A La Luz](https://open.spotify.com/track/7mQbHLZzQLP1kD3cOiAlMJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Viaje A La Luz \(De "Más Allá De La Luna" Soundtrack\)](https://open.spotify.com/album/29hfMCh9vKqYakjav3UU4Y) | 2:17 | 2022-04-26 |  |
 | [Volaré \- De La Película De Netflix "Más Allá De La Luna"](https://open.spotify.com/track/5DBmcSflPbZWW3yYec9hif) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Volaré \(De La Película De Netflix "Más Allá De La Luna”\)](https://open.spotify.com/album/5x7utQZPz8aUtxlZucmVhU) | 2:13 | 2022-04-26 |  |
-| [Volo via \(dal film Netflix "Over the Moon \- Il fantastico mondo di Lunaria"\)](https://open.spotify.com/track/7v5LkagPuy2xflmpIXhqPc) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Il fantastico mondo di Lunaria \(musica del film Netflix\)](https://open.spotify.com/album/0G3sM7ZCRugZFXgtNPtclP) | 2:16 | 2022-04-26 |  |
+| [Volo via \(dal film Netflix "Over the Moon \- Il fantastico mondo di Lunaria"\)](https://open.spotify.com/track/6COKrjpZtMjwV7VKWZBYDT) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Volo Via dal film "Il fantastico mondo di Lunaria" \- EP](https://open.spotify.com/album/0izsgW6kUoxoACejwq1QgJ) | 2:16 | 2022-04-26 |  |
+| [Volo via \(dal film Netflix "Over the Moon \- Il fantastico mondo di Lunaria"\)](https://open.spotify.com/track/7v5LkagPuy2xflmpIXhqPc) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Il fantastico mondo di Lunaria \(musica del film Netflix\)](https://open.spotify.com/album/0G3sM7ZCRugZFXgtNPtclP) | 2:16 | 2022-04-26 | 2024-04-19 |
 | [Vou Voar \(Música do filme Netflix "A Caminho da Lua"\)](https://open.spotify.com/track/4n5mYUSdtHtPDVO7nKqUVr) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Vou Voar \(Música do filme Netflix "A Caminho da Lua"\)](https://open.spotify.com/album/7CDCDayiojPBSAqMNKUDJU) | 2:13 | 2022-04-26 |  |
 | [Wonderful](https://open.spotify.com/track/0T66aS1mPPqMuCYyCq1twF) | [Cathy Ang](https://open.spotify.com/artist/3qLXQKIfWi7roh2tmVRjzn), [Ken Jeong](https://open.spotify.com/artist/2KCEUp3nOtiCKoF5zvXVpf) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:37 | 2022-04-26 |  |
 | [Wznieść Się Chcę \- z filmu Netflix "Wyprawa Na Księżyc”](https://open.spotify.com/track/565keVOeBhjgrL3ZkEOSrD) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Wznieść Się Chcę \(z filmu Netflix "Wyprawa Na Księżyc”\)](https://open.spotify.com/album/3K5C4HxFkAVlLIMiBgiwYE) | 2:15 | 2022-04-26 |  |

@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 216393,
       "name": "Alkantara",
       "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 167314,
       "name": "All My Love (feat. Bryn Christopher)",
       "url": "https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212009,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1bqLz6dF5MhBZkZO5QSf4N"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242500,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218709,
       "name": "No One\u2019s Coming",
       "url": "https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
@@ -2835,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2DaKlxr5PKB4rFeA3GM00h"
+      },
+      "artists": [
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        },
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232439,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/5uVBlFshng4s9kVOxSqWrk"
+    },
+    {
+      "album": {
         "name": "The Old You",
         "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
       },
@@ -3176,7 +3198,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228387,
       "name": "Was It the Wind That Stirred The Trees",
       "url": "https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT"
@@ -3328,7 +3350,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253662,
       "name": "Zeit & Raum",
       "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,209 likes - 164 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,133 likes - 164 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 114 | [Remember](https://open.spotify.com/track/41RfvRLI3FvwqERqGKi8Q1) | [Jan Os](https://open.spotify.com/artist/2Mr2YOyJj0TQqVYH88gUwf) | [Remember](https://open.spotify.com/album/1fKNtqjt4cd4XK2j7hRsZp) | 2:23 |
 | 115 | [Clement](https://open.spotify.com/track/7eItBb98RqIZQ8QZPS6GcM) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Clement](https://open.spotify.com/album/7w0J5NX4rFSoNXCPAIns2A) | 2:27 |
 | 116 | [In the shell of night](https://open.spotify.com/track/2ssG2QnW8tai39jGqJxbW1) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [In the shell of night](https://open.spotify.com/album/4DMOVnHIoUeXRleTBnC4sK) | 2:47 |
-| 117 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 |
+| 117 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 |
 | 118 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 |
 | 119 | [Twilight](https://open.spotify.com/track/7hpSoEf1bBMtJyFiq8xQyp) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Twilight](https://open.spotify.com/album/6hBL1pAhn1Te6ItsvVrZyQ) | 2:08 |
 | 120 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 |
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 125 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
 | 126 | [Australia](https://open.spotify.com/track/5wN9u0f98S84bJNduSYdFG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Australia](https://open.spotify.com/album/6p6HESJHbt7N7yiR6mQDYO) | 2:22 |
 | 127 | [If You Should Go](https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [If You Should Go](https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP) | 2:07 |
-| 128 | [quiet dream](https://open.spotify.com/track/0XgnVABCWfrB9QG0e7246E) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [105 years](https://open.spotify.com/album/25l0iXZ0zKly8INJamNzRw) | 2:09 |
+| 128 | [quiet dream](https://open.spotify.com/track/45eijXxK33ulZc8WByHYUu) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [quiet dream](https://open.spotify.com/album/76I5c8mQvOxBOovUtNcqVn) | 2:09 |
 | 129 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 |
 | 130 | [Retrospect](https://open.spotify.com/track/5iSifjMixcgREH6uzunq1P) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Retrospect](https://open.spotify.com/album/15IKoauTEvz6dQQ1egPE9H) | 2:49 |
 | 131 | [Rêveuse](https://open.spotify.com/track/3IrhvylMyORrBvLbqVR1KM) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Rêveuse](https://open.spotify.com/album/5npG7egCzEs9bOxDd621W7) | 2:27 |
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 155 | [the traveler](https://open.spotify.com/track/1Niqti17jYAgEBlHzUEQ02) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the traveler & fragile flowers](https://open.spotify.com/album/6RkJifc0y3nOQLHHWB0oC8) | 2:50 |
 | 156 | [September Sun](https://open.spotify.com/track/3aJ8BLnUcoLpBavcg8AM3O) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [September Sun](https://open.spotify.com/album/5fmbZAskrtQhtpoTiBWNMQ) | 2:23 |
 | 157 | [Answer](https://open.spotify.com/track/1FlBxmsJyCXMViFVNYFHv4) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Answer](https://open.spotify.com/album/6ybiMzz4uGQeMpUrObHltb) | 2:21 |
-| 158 | [Rainbow](https://open.spotify.com/track/6Ab0DT2fQv7ZQWxfMBrqZP) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/3Z6neqTOayCbmWy9fOFbPe) | 2:56 |
+| 158 | [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 |
 | 159 | [Tresillo](https://open.spotify.com/track/0jen5uU56ghIk8EEDAnllp) | [Nova Olsen](https://open.spotify.com/artist/5DcRrjwhi3ujuxsTTZoF3f) | [Tresillo](https://open.spotify.com/album/7s3khjxdZY85Oxc2NlM0FL) | 2:11 |
 | 160 | [Lux](https://open.spotify.com/track/5z8nWwvtvkyIQ2S97ATTAo) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Lux](https://open.spotify.com/album/3U9h755qCX7kDlYRE8IG8e) | 2:23 |
 | 161 | [Silent Bath](https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Silent Bath](https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv) | 2:35 |

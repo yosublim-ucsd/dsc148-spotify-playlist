@@ -1,12 +1,12 @@
 {
-  "description": "This is: Bethel Music. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 196928,
+  "description": "This Is Bethel Music. Kaikki olennaiset kappaleet yhdess\u00e4 soittolistassa.",
+  "num_followers": 196974,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMDY0YmJhNTRlMjM5ODlmNDQ1MmUwMmE2NTU0MWRhYjM2",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDNhOTVjYzc0NDAyMGRjM2VlYTkzZWFiYWEwMDlhMjEz",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/2rKiADhVznDGC1oRjeczDr"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 406346,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6CW9qtzZpHZ3o39BYlpU0x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
     },
     {
       "added_at": null,
@@ -579,26 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 442158,
-      "name": "When You Walk Into The Room (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/0ICuhxx8bdbS1cYRdk5T7t"
+      "duration_ms": 292226,
+      "name": "Only Jesus - Instrumental",
+      "url": "https://open.spotify.com/track/5pnGeK0thAFqmNEahyCXrj"
     },
     {
       "added_at": null,
@@ -687,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 292226,
-      "name": "Only Jesus - Instrumental",
-      "url": "https://open.spotify.com/track/5pnGeK0thAFqmNEahyCXrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
       },
@@ -727,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Too Good To Not Believe (Live)",
+        "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 633462,
+      "name": "Too Good To Not Believe - Live",
+      "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
@@ -747,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Good To Not Believe (Live)",
-        "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
       "artists": [
         {
@@ -756,13 +752,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 633462,
-      "name": "Too Good To Not Believe - Live",
-      "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
+      "duration_ms": 442158,
+      "name": "When You Walk Into The Room (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/0ICuhxx8bdbS1cYRdk5T7t"
     },
     {
       "added_at": null,
@@ -1019,22 +1019,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 281506,
-      "name": "We Dance - Live",
-      "url": "https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW"
+      "duration_ms": 314306,
+      "name": "Gravity - Instrumental",
+      "url": "https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I"
     }
   ],
   "unique_name": "This Is Bethel Music",

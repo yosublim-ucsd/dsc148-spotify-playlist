@@ -1,6 +1,6 @@
 {
   "description": "An introduction to American composer Philip Glass (b. 1937), whose hypnotic and powerful music has become part of our cultural soundtrack.",
-  "num_followers": 106689,
+  "num_followers": 106753,
   "original_name": "This Is Philip Glass",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,22 @@
     {
       "added_at": "2020-05-22 01:01:00",
       "album": {
-        "name": "The Truman Show (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a"
+        "name": "The Truman Show",
+        "url": "https://open.spotify.com/album/5Lmt26Q6HEdagwj7AqaBv3"
       },
       "artists": [
         {
           "name": "Philip Glass",
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Burkhard Dallwitz",
+          "url": "https://open.spotify.com/artist/0P4GFxua61mu5nAOtqyE5X"
         }
       ],
       "duration_ms": 111831,
       "name": "Truman Sleeps",
-      "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV"
+      "url": "https://open.spotify.com/track/5GdsFfVUUnRvSk3kXu0P5O"
     },
     {
       "added_at": "2020-05-22 01:01:00",
@@ -720,7 +724,7 @@
       "added_at": "2020-05-22 01:01:00",
       "album": {
         "name": "Notes on a Scandal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/08FMYTikWTv7UBhetbZuw7"
+        "url": "https://open.spotify.com/album/5ncAuRqCBvL9m94F30FTEc"
       },
       "artists": [
         {
@@ -730,7 +734,7 @@
       ],
       "duration_ms": 202840,
       "name": "I Knew Her",
-      "url": "https://open.spotify.com/track/2gTc0Vgo3Lg8erahaCwVjm"
+      "url": "https://open.spotify.com/track/5cDIQncK7a2TsiEPWymeyk"
     },
     {
       "added_at": "2020-05-22 01:01:00",

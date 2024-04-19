@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Agidigba God",
+        "url": "https://open.spotify.com/album/2iiMwAegfluTEe7ReEdCQA"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Agidigba God",
+      "url": "https://open.spotify.com/track/68DQmgvFvO2HlqQ2oZxdpx"
+    },
+    {
+      "album": {
         "name": "Aileyipada",
         "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146820,
       "name": "Eagles",
       "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"

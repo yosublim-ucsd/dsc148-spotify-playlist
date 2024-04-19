@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "ny dansk rap og andet i den vibe \ud83d\udea8 <a href=\"spotify:artist:5LcNaarbF34TMSkVLE7YQc\">Merro8</a>",
+  "description": "ny dansk rap og andet i den vibe \ud83d\udea8 <a href=\"spotify:artist:5IpqfN8Pqjy89nj1IfuOXC\">Baloosh</a>",
   "name": "100 DK",
   "tracks": [
+    {
+      "album": {
+        "name": "2 Kanoner",
+        "url": "https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "2 Kanoner",
+      "url": "https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA"
+    },
     {
       "album": {
         "name": "2 Kanoner",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160615,
       "name": "2 Kanoner",
       "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 157630,
       "name": "555 (feat. KESI)",
       "url": "https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD"
@@ -100,7 +118,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157630,
       "name": "555 (feat. KESI)",
       "url": "https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi"
@@ -698,7 +716,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 173024,
       "name": "Du & Jeg",
       "url": "https://open.spotify.com/track/13FWeWAZ84LQQ1S4KNPWWe"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173024,
       "name": "Du & Jeg",
       "url": "https://open.spotify.com/track/574DlRMtD2Nv9kWHQevej3"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140637,
       "name": "Ensom",
       "url": "https://open.spotify.com/track/46NhgL7Fvf99VfSp2yafEE"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 140637,
       "name": "Ensom",
       "url": "https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8"
@@ -1141,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Grim Verden",
+        "url": "https://open.spotify.com/album/50oFS5rbWDpPodUYOV3Ewv"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "Grim Verden",
+      "url": "https://open.spotify.com/track/6AIAWHWftd6fwVd9wbwPkv"
+    },
+    {
+      "album": {
         "name": "OG S\u00c5 VIDERE",
         "url": "https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3"
       },
@@ -1218,6 +1254,24 @@
       "duration_ms": 148113,
       "name": "Hele Vejen Ind (feat. Gilli)",
       "url": "https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ"
+    },
+    {
+      "album": {
+        "name": "Helt Sikker",
+        "url": "https://open.spotify.com/album/7mh11unLoqJZZHFJR3J5Xg"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123224,
+      "name": "Helt Sikker",
+      "url": "https://open.spotify.com/track/5jWfU6LMjuFqWUK6gXGixD"
     },
     {
       "album": {
@@ -1754,7 +1808,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "MASKINEN",
       "url": "https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk"
@@ -1772,7 +1826,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133333,
       "name": "MASKINEN",
       "url": "https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW"
@@ -2008,7 +2062,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 173744,
       "name": "Ousside (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/6gGN8KHsJL5Yw9PunS8TA8"
@@ -2030,7 +2084,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173744,
       "name": "Ousside (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/7fwFV39b75w52PrBqM7OAT"
@@ -2136,6 +2190,24 @@
       "duration_ms": 130414,
       "name": "Psykosebarn",
       "url": "https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh"
+    },
+    {
+      "album": {
+        "name": "Purple Rain (Stadig Lay)",
+        "url": "https://open.spotify.com/album/6Ormh81VLPFjapNBQUNfS1"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167821,
+      "name": "Purple Rain (Stadig Lay)",
+      "url": "https://open.spotify.com/track/4xcXzfGf4ciBBaIOfvgrmk"
     },
     {
       "album": {
@@ -2350,7 +2422,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183332,
       "name": "Skarpt Lys",
       "url": "https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu"
@@ -2404,10 +2476,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 184440,
       "name": "Skarpt Lys",
       "url": "https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl"
+    },
+    {
+      "album": {
+        "name": "SNAK/MILANO",
+        "url": "https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV"
+      },
+      "artists": [
+        {
+          "name": "Eezy",
+          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182338,
+      "name": "SNAK/MILANO",
+      "url": "https://open.spotify.com/track/0mrZFAokNgdgsPQRV77cvi"
     },
     {
       "album": {
@@ -2952,7 +3042,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161845,
       "name": "winwin",
       "url": "https://open.spotify.com/track/2MhRuxH6pJKQ0E3xcsLEaZ"
@@ -2970,7 +3060,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 163561,
       "name": "winwin",
       "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
@@ -3044,6 +3134,32 @@
       "duration_ms": 150526,
       "name": "Zoo (feat. Branco)",
       "url": "https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ"
+    },
+    {
+      "album": {
+        "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
+        "url": "https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl"
+      },
+      "artists": [
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149543,
+      "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
+      "url": "https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc"

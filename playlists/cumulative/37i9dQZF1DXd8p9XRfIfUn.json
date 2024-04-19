@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "CATOLICA",
+        "url": "https://open.spotify.com/album/4iWIaY59FXJ2rKGhbO1KuU"
+      },
+      "artists": [
+        {
+          "name": "Pepo Mix",
+          "url": "https://open.spotify.com/artist/1HjYewpu3sZfRg7cfZWD4i"
+        },
+        {
+          "name": "Morrow",
+          "url": "https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140926,
+      "name": "CATOLICA",
+      "url": "https://open.spotify.com/track/3iU8zlbvXz9XvcumhIkgO1"
+    },
+    {
+      "album": {
         "name": "Chakaleo",
         "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
       },
@@ -668,7 +690,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216551,
       "name": "Color Rosa",
       "url": "https://open.spotify.com/track/7JHSIa1j6MBKyLpKFDM0g1"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
@@ -822,7 +844,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206315,
       "name": "COMO TE VEO",
       "url": "https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa"
@@ -1012,7 +1034,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182375,
       "name": "CULIGOTIKA",
       "url": "https://open.spotify.com/track/0Qy0ssIMo9jy74V2gKrpSQ"
@@ -1230,7 +1252,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
@@ -1610,7 +1632,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153062,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/4MFpFnhirNfY968H72VLpg"
@@ -1858,7 +1880,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248659,
       "name": "HOR\u00d3SCOPO",
       "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
@@ -1966,7 +1988,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
@@ -2375,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "lloro despu\u00e9s del sexo",
+        "url": "https://open.spotify.com/album/51mtuKbS95eJPZ3mDERWuo"
+      },
+      "artists": [
+        {
+          "name": "Mila La Morena",
+          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "lloro despu\u00e9s del sexo",
+      "url": "https://open.spotify.com/track/4AjL9UcO3KFPfb6hRuVQ2e"
+    },
+    {
+      "album": {
         "name": "BASADO EN HECHOS REALES",
         "url": "https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj"
       },
@@ -2444,7 +2484,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200000,
       "name": "Locura y Maldad",
       "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
@@ -2504,7 +2544,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
@@ -2768,7 +2808,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215956,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/46reF3lUV0LS9OcvXcdoww"
@@ -2860,6 +2900,28 @@
       "duration_ms": 196595,
       "name": "Me Pone Mal - Remix",
       "url": "https://open.spotify.com/track/00i9bEJQVjHAoAxOQNcbzY"
+    },
+    {
+      "album": {
+        "name": "MERAKI",
+        "url": "https://open.spotify.com/album/0V1HLnCNNBZwLJTcRx1nnp"
+      },
+      "artists": [
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Danny Estefo",
+          "url": "https://open.spotify.com/artist/5UV7gxFbFD7lnWJWhjTRxc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168019,
+      "name": "MERAKI",
+      "url": "https://open.spotify.com/track/7fuRPjGzDtXbqXKXncXDLo"
     },
     {
       "album": {
@@ -3058,7 +3120,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200653,
       "name": "Morena Cachetona",
       "url": "https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk"
@@ -3392,7 +3454,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
@@ -3450,7 +3512,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 221664,
       "name": "PARTY TETEO",
       "url": "https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1"
@@ -3514,7 +3576,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
@@ -3540,7 +3602,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
@@ -3606,7 +3668,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
@@ -3862,7 +3924,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
@@ -3884,7 +3946,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
@@ -3920,7 +3982,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 174892,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
@@ -3938,7 +4000,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 186840,
       "name": "Qu\u00e9 Rico Repetirlo",
       "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
@@ -4457,6 +4519,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3lo por Curiosidad",
+        "url": "https://open.spotify.com/album/4ma8Zsca4mLI0cBr0Zd27e"
+      },
+      "artists": [
+        {
+          "name": "Sadr\u00e1ck",
+          "url": "https://open.spotify.com/artist/6nVrBvc6HT6J8ye8EGybz1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173302,
+      "name": "S\u00f3lo por Curiosidad",
+      "url": "https://open.spotify.com/track/6wr1aTxIyGrZx0rKbOeX67"
+    },
+    {
+      "album": {
         "name": "t kiero",
         "url": "https://open.spotify.com/album/5TsreoljdE5hPAFPBGwc5W"
       },
@@ -4504,10 +4584,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
+    },
+    {
+      "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/7cpw9PTRzTNyxqYbK8CZkJ"
+      },
+      "artists": [
+        {
+          "name": "Las Prez",
+          "url": "https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182945,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/03GT9SDQ2fNE6L37r8PO8l"
     },
     {
       "album": {
@@ -4742,7 +4840,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 182421,
       "name": "Traje Tusi",
       "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
@@ -4812,7 +4910,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 229106,
       "name": "Tus Besos - Remix",
       "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
@@ -4834,7 +4932,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172390,
       "name": "Tussi Code Mari",
       "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
@@ -5006,7 +5104,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158653,
       "name": "unounouno",
       "url": "https://open.spotify.com/track/7naAI44wmXbFhV6ynvrXgo"
@@ -5024,7 +5122,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 127264,
       "name": "Uy k raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
@@ -5200,7 +5298,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136750,
       "name": "Wapo y Mam\u00f3n",
       "url": "https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8"
@@ -5294,7 +5392,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj"

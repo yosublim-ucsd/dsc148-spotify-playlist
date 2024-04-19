@@ -456,7 +456,7 @@
     {
       "album": {
         "name": "Handle With Care",
-        "url": "https://open.spotify.com/album/4R4gWALHVJ2tZLWAA6VSyH"
+        "url": "https://open.spotify.com/album/1D2jhyc76BTvA5wyJ1cTdi"
       },
       "artists": [
         {
@@ -467,6 +467,24 @@
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203093,
+      "name": "God Morning",
+      "url": "https://open.spotify.com/track/03UO77f0ccKwUjn46ArnSW"
+    },
+    {
+      "album": {
+        "name": "Handle With Care",
+        "url": "https://open.spotify.com/album/4R4gWALHVJ2tZLWAA6VSyH"
+      },
+      "artists": [
+        {
+          "name": "Natalie Lauren",
+          "url": "https://open.spotify.com/artist/0v4qnnnTMi9mgN3DUxCfHK"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 203093,
       "name": "God Morning",
       "url": "https://open.spotify.com/track/178oVeafbxJ3hyx1aLOczd"
@@ -992,7 +1010,7 @@
     {
       "album": {
         "name": "Illumination",
-        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
+        "url": "https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM"
       },
       "artists": [
         {
@@ -1003,6 +1021,24 @@
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280493,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/1Loq0v4EtOpfSgJpZo6ptH"
+    },
+    {
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 280493,
       "name": "Pure Gold",
       "url": "https://open.spotify.com/track/3SLjWC7ijFemgCefXuR1Qp"

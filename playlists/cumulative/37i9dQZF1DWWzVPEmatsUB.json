@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 230826,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230826,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/5frJ2iO0fDjeAVHlg9Z62T"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
@@ -378,6 +378,24 @@
     {
       "album": {
         "name": "Angels In Science Fiction",
+        "url": "https://open.spotify.com/album/6t1L6t6AQqyS4ZUJtnkhBt"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226855,
+      "name": "Angels In Science Fiction",
+      "url": "https://open.spotify.com/track/2FyG8Tx0DOZtssYdabRCLu"
+    },
+    {
+      "album": {
+        "name": "Angels In Science Fiction",
         "url": "https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF"
       },
       "artists": [
@@ -388,7 +406,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226855,
       "name": "Angels In Science Fiction",
       "url": "https://open.spotify.com/track/6EDt6D43K1OewCZsGDZDku"
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205560,
       "name": "Any Way You Come (Bonus Track)",
       "url": "https://open.spotify.com/track/6Fv2S3jT43CCgOGRApyqp8"
@@ -424,7 +442,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 205560,
       "name": "Any Way You Come - Bonus Track",
       "url": "https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
@@ -694,7 +712,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE"
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg"
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/7asFG5jEyzbl3sYRHIpRyg"
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 272177,
       "name": "Feel This Way Too",
       "url": "https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU"
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272177,
       "name": "Feel This Way Too",
       "url": "https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 233066,
       "name": "For Now",
       "url": "https://open.spotify.com/track/27rRvaQoDLLziMOZZGsACX"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233066,
       "name": "For Now",
       "url": "https://open.spotify.com/track/7zCbNTKUV9R8FJ9kxz2RwH"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 267946,
       "name": "Go Easy, Kid (with James Blake)",
       "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267946,
       "name": "Go Easy, Kid (with James Blake)",
       "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190706,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1fuBFgGd9gIPqWeEibGtAc"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 190706,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5MarIZklriKZNvAzfKdMHj"
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217266,
       "name": "I Think It's You",
       "url": "https://open.spotify.com/track/10RdiY6mHq40y6JfMm5iek"
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 217266,
       "name": "I Think It\u2019s You",
       "url": "https://open.spotify.com/track/1gHum0iZPs3EIftsWA1fey"
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 150583,
       "name": "I Would've",
       "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150583,
       "name": "I Would've",
       "url": "https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk"
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285902,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 285902,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh"
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192960,
       "name": "Ice Man",
       "url": "https://open.spotify.com/track/0c3cFBp7IzXAiQKx6ucHbi"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Ice Man",
       "url": "https://open.spotify.com/track/42KkrT9sBd21DHog1JvzVr"
@@ -3170,10 +3188,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
+    },
+    {
+      "album": {
+        "name": "If I Weren't Me",
+        "url": "https://open.spotify.com/album/4Mgxaii907YIIO96yxUFMZ"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/4NVByy2qf8FMLQshjGLjHn"
     },
     {
       "album": {
@@ -3680,7 +3716,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 294422,
       "name": "Little Time",
       "url": "https://open.spotify.com/track/5p6rWdZ3VjGUXiY6qd7MmI"
@@ -3698,7 +3734,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294422,
       "name": "Little Time",
       "url": "https://open.spotify.com/track/6LipdO1S75XaPSa1ejQfeJ"
@@ -3908,7 +3944,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186044,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/0HNmTOL4puKO6CcBc2aYZN"
@@ -3944,7 +3980,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186044,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/4ZRJUckYejIPkHYoeut789"
@@ -4220,7 +4256,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 195210,
       "name": "Missing You Feels Right",
       "url": "https://open.spotify.com/track/0gEJwYN6aGOaPlAXxfGwDg"
@@ -4256,7 +4292,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195210,
       "name": "Missing You Feels Right",
       "url": "https://open.spotify.com/track/6yHlMJQYW334nfUfVAfDCB"
@@ -4942,7 +4978,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 232297,
       "name": "Only The Lonely",
       "url": "https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII"
@@ -4960,7 +4996,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232297,
       "name": "Only The Lonely",
       "url": "https://open.spotify.com/track/6V6BkDMR9A1BvHUhbdGATJ"
@@ -5246,7 +5282,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 228988,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
@@ -5264,7 +5300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231120,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
@@ -5622,7 +5658,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 190077,
       "name": "San Junipero (Personal Heaven)",
       "url": "https://open.spotify.com/track/0SddM2ln87iYmyQfLR8AQO"
@@ -5644,7 +5680,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190077,
       "name": "San Junipero (Personal Heaven)",
       "url": "https://open.spotify.com/track/47yy9VPldBmz4nG5MjWkyO"
@@ -5844,7 +5880,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159345,
       "name": "Sky is the Limit",
       "url": "https://open.spotify.com/track/1HEL4WpJrCcfjwJMCTKesn"
@@ -5862,7 +5898,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 159345,
       "name": "Sky is the Limit",
       "url": "https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU"
@@ -6310,7 +6346,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 291200,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/1jBOO1ozjaMOgRAN7jaEPU"
@@ -6358,7 +6394,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291200,
       "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
       "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
@@ -7102,7 +7138,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175426,
       "name": "What A Difference She Made",
       "url": "https://open.spotify.com/track/4kOdKWtst1d1PwERMtOWlX"
@@ -7138,7 +7174,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 175696,
       "name": "What A Difference She Made",
       "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"

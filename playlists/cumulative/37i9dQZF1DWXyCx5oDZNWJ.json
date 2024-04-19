@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Elwan ~\u30a8\u30ec\u30d5\u30a1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/1EuxcFFprJz7zHGeLtEHyk"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Ass\u00e0wt",
+      "url": "https://open.spotify.com/track/4qMWMgf472n4NN0tQvVk8F"
+    },
+    {
+      "album": {
         "name": "Elwan",
         "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219880,
       "name": "Ass\u00e0wt",
       "url": "https://open.spotify.com/track/5Y9LRU3HtSfhuqCXmc3JNa"
@@ -270,10 +288,28 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182977,
       "name": "Ayayay",
       "url": "https://open.spotify.com/track/358g67riH0wCKQBK9FvjjQ"
+    },
+    {
+      "album": {
+        "name": "Ayayay",
+        "url": "https://open.spotify.com/album/1BYtw575tFSaeHCin8YKKY"
+      },
+      "artists": [
+        {
+          "name": "Tony Tonite",
+          "url": "https://open.spotify.com/artist/2DPURDst3DmK8b1AU47fFT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182977,
+      "name": "Ayayay",
+      "url": "https://open.spotify.com/track/3DJ0XWpZABCV6XYT5U7Ihr"
     },
     {
       "album": {
@@ -408,10 +444,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 440173,
       "name": "Caf\u00e9 - Acid Arab Remix",
       "url": "https://open.spotify.com/track/04pgSH9zPo6yGvGR0XkUIT"
+    },
+    {
+      "album": {
+        "name": "Jamilat Reprise",
+        "url": "https://open.spotify.com/album/4uBHyakSDfKw7XMR8xgAv3"
+      },
+      "artists": [
+        {
+          "name": "Yasmine Hamdan",
+          "url": "https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J"
+        },
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440173,
+      "name": "Caf\u00e9 - by Acid Arab",
+      "url": "https://open.spotify.com/track/6uDqGHGuli5UnjKzzVuTQI"
     },
     {
       "album": {
@@ -581,6 +639,24 @@
     },
     {
       "album": {
+        "name": "\"Space Echo\" - The mystery behind the \"Cosmic Sound\u201d of Cabo Verde finally revealed! (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/6QUlQVT0P1zqsIfyWTjxVt"
+      },
+      "artists": [
+        {
+          "name": "Dionisio Maio",
+          "url": "https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276981,
+      "name": "Dia Ja Manche",
+      "url": "https://open.spotify.com/track/58VKqjpTFlgL9PxOdUD61b"
+    },
+    {
+      "album": {
         "name": "Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! (Analog Africa No. 20)",
         "url": "https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP"
       },
@@ -592,7 +668,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276981,
       "name": "Dia Ja Manche",
       "url": "https://open.spotify.com/track/7zsFoCTsDuKvH7HUiA1yDi"
@@ -1378,6 +1454,24 @@
     {
       "album": {
         "name": "Musique de France",
+        "url": "https://open.spotify.com/album/3ho19qOS0JKvWuxM7bFWOd"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248906,
+      "name": "La Hafla",
+      "url": "https://open.spotify.com/track/4S9TTIC637gscv055ziGLw"
+    },
+    {
+      "album": {
+        "name": "Musique de France",
         "url": "https://open.spotify.com/album/5S8tasJIlOho5JaGMiJsHJ"
       },
       "artists": [
@@ -1392,7 +1486,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248906,
       "name": "La Hafla",
       "url": "https://open.spotify.com/track/1XeEcJepyVi0o4GyQUJwz3"
@@ -1770,7 +1864,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 580406,
       "name": "Man O To",
       "url": "https://open.spotify.com/track/47ur3v3BkQwfTvvK4UOoV4"
@@ -1788,10 +1882,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 580406,
       "name": "Man O To - Original Mix",
       "url": "https://open.spotify.com/track/1jk9NRyYFKPgfCX9BnW6yW"
+    },
+    {
+      "album": {
+        "name": "Under the Shade of Violets",
+        "url": "https://open.spotify.com/album/7jLIH7smlJslupfepXfug5"
+      },
+      "artists": [
+        {
+          "name": "Orange Blossom",
+          "url": "https://open.spotify.com/artist/0vAw8AfCObQgZlXRSRILOq"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1fEPf6xw0Hc2PmtkCQlKCz"
     },
     {
       "album": {
@@ -1806,7 +1918,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323866,
       "name": "Maria",
       "url": "https://open.spotify.com/track/52vgt3qbfsDWSRhd1nXdgE"
@@ -2230,6 +2342,28 @@
     {
       "album": {
         "name": "Jdid",
+        "url": "https://open.spotify.com/album/14XUR2ij4oiy3iaXByMRet"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Les Filles de Illighadad",
+          "url": "https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297813,
+      "name": "Soulan",
+      "url": "https://open.spotify.com/track/5xcqf8KYxzzhXhf05kfHql"
+    },
+    {
+      "album": {
+        "name": "Jdid",
         "url": "https://open.spotify.com/album/0X3Od5PguGyz03881F2Qea"
       },
       "artists": [
@@ -2244,7 +2378,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297813,
       "name": "Soulan",
       "url": "https://open.spotify.com/track/6lkQTTjLxNE3cVgh0x0mMb"
@@ -2266,10 +2400,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369333,
       "name": "Staifia",
       "url": "https://open.spotify.com/track/1WXdumL7H9uDHwYD0MFAoU"
+    },
+    {
+      "album": {
+        "name": "Jdid",
+        "url": "https://open.spotify.com/album/14XUR2ij4oiy3iaXByMRet"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Radia Menel",
+          "url": "https://open.spotify.com/artist/2ZVQoRzNPswbZDtdKcR7rX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369333,
+      "name": "Staifia",
+      "url": "https://open.spotify.com/track/47w7BzFHPLYYTHmamo98xZ"
     },
     {
       "album": {
@@ -2454,7 +2610,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 374684,
       "name": "Timba (feat. Kazuyo Shionoiri)",
       "url": "https://open.spotify.com/track/2tCvpvwVxUnyuvXx8kMyRz"
@@ -2476,7 +2632,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 374684,
       "name": "Timba feat. Kazuyo Shionoiri",
       "url": "https://open.spotify.com/track/7aRmU29IJvT4gZp6lUHU5m"
@@ -2622,10 +2778,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176666,
       "name": "Westbound Train",
       "url": "https://open.spotify.com/track/1SLlhOGjN553IpprBbbQWq"
+    },
+    {
+      "album": {
+        "name": "Death of the Revolution",
+        "url": "https://open.spotify.com/album/5tJZSvoyES5b2FAZdhFMVw"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Westbound Train",
+      "url": "https://open.spotify.com/track/0zcjgr2Vrit8B1jJC48bLZ"
     },
     {
       "album": {

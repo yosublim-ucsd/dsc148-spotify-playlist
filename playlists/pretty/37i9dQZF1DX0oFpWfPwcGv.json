@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 61142,
+  "num_followers": 61200,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -36,7 +36,7 @@
       "added_at": "2024-02-12 15:00:21",
       "album": {
         "name": "Love Sensation",
-        "url": "https://open.spotify.com/album/46bWgJ0CY5IdtUdajmnDjP"
+        "url": "https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr"
       },
       "artists": [
         {
@@ -45,40 +45,8 @@
         }
       ],
       "duration_ms": 394533,
-      "name": "Love Sensation (A Tom Moulton Mix)",
-      "url": "https://open.spotify.com/track/1oQmOB5NuiBLjlESadKyLJ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Diana Ross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 468640,
-      "name": "Love Hangover",
-      "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
+      "name": "Love Sensation - A Tom Moulton Mix",
+      "url": "https://open.spotify.com/track/14usFmu6ZuP3i5VBFMMSp5"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -95,6 +63,38 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "All The Great Hits",
+        "url": "https://open.spotify.com/album/4JsSOfR8Jp41NFjNaLZ7zU"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 474226,
+      "name": "Love Hangover - 12\" Version",
+      "url": "https://open.spotify.com/track/4NnTT5Bk4iddbZct0jz00I"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -223,26 +207,6 @@
       "duration_ms": 241333,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Charles May",
-          "url": "https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB"
-        }
-      ],
-      "duration_ms": 386360,
-      "name": "Ai No Corrida",
-      "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -299,38 +263,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Pride Classics",
-        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "King Of The World",
         "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
       },
@@ -347,22 +279,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "I Love The Nightlife",
         "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
       },
@@ -375,6 +291,22 @@
       "duration_ms": 187973,
       "name": "I Love The Nightlife (Disco 'Round)",
       "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Triumph (Expanded Version)",
+        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "Can You Feel It - 7\" Version",
+      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -407,22 +339,6 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Triumph (Expanded Version)",
-        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "Can You Feel It - 7\" Version",
-      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -463,22 +379,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Love is Back",
-        "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "I'm So Glad That I'm a Woman",
-      "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Music Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
       },
@@ -507,6 +407,22 @@
       "duration_ms": 336466,
       "name": "Native New Yorker - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "My Forbidden Lover",
+      "url": "https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -563,22 +479,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
@@ -591,6 +491,22 @@
       "duration_ms": 355263,
       "name": "Dance (Disco Heat)",
       "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -627,22 +543,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Come to Me",
-        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
-      },
-      "artists": [
-        {
-          "name": "France Joli",
-          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
-        }
-      ],
-      "duration_ms": 590986,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Never Gonna Let You Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
       },
@@ -655,6 +555,22 @@
       "duration_ms": 204653,
       "name": "Turn the Beat Around - 7\" Single Edit",
       "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Come to Me",
+        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
+      },
+      "artists": [
+        {
+          "name": "France Joli",
+          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
+        }
+      ],
+      "duration_ms": 590986,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -695,22 +611,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Ready To Roll",
         "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
       },
@@ -727,6 +627,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "Break Out (1983 Version - Expanded Edition)",
         "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
       },
@@ -739,22 +655,6 @@
       "duration_ms": 366360,
       "name": "Automatic - 12\" Special Remix",
       "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Delusions (Bonus Version)",
-        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 481506,
-      "name": "Let No Man Put Asunder (Shep Pettibone 12\" Mix)",
-      "url": "https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -843,38 +743,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Inner Life",
-        "url": "https://open.spotify.com/album/2DqaJOmf1G5MxRPSRonwlB"
-      },
-      "artists": [
-        {
-          "name": "Inner Life",
-          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
-        }
-      ],
-      "duration_ms": 479573,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/06xAJjt8HY09e14cLmBmgP"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 360506,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Changing Of The Gard",
         "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
       },
@@ -891,34 +759,18 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
         }
       ],
-      "duration_ms": 274960,
-      "name": "My Forbidden Lover - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "I Need A Man",
-      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
+      "duration_ms": 362426,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/5rCCIwczKGRjGMlbZiODHX"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -939,74 +791,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Lectric Lady",
-        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
-      },
-      "artists": [
-        {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
-        },
-        {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
-        }
-      ],
-      "duration_ms": 473240,
-      "name": "Love Is You (A Tom Moulton Mix)",
-      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Slippin' and Dippin' (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/4C7hI3pzIpwHKGFKZ8Zlv0"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
-        }
-      ],
-      "duration_ms": 371706,
-      "name": "Casanova (Extended Version)",
-      "url": "https://open.spotify.com/track/5lBtPmqeU5On2phHxXT4Nw"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Karen Carpenter",
-        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
-      },
-      "artists": [
-        {
-          "name": "Karen Carpenter",
-          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "My Body Keeps Changing My Mind",
-      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Essential Evelyn \"Champagne\" King",
         "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
       },
@@ -1019,6 +803,22 @@
       "duration_ms": 391693,
       "name": "Shame - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1071,54 +871,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "No One Gets The Prize",
-      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Cuchi-Cuchi",
-        "url": "https://open.spotify.com/album/1SpaM5xsJmHfBmlvTOdzrR"
-      },
-      "artists": [
-        {
-          "name": "Charo and The Salsoul Orchestra",
-          "url": "https://open.spotify.com/artist/1yWjva4CAB6FGCgKioq7Zr"
-        }
-      ],
-      "duration_ms": 377405,
-      "name": "Dance A Little Bit Closer (12'' Mix)",
-      "url": "https://open.spotify.com/track/2y4EEO7Y2X5wC9sQGqOKkQ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Club Columbia",
         "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
       },
@@ -1135,22 +887,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Delusions (Bonus Version)",
-        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 457746,
-      "name": "Doctor Love (Tom Moulton 12\" Mix)",
-      "url": "https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -1163,6 +899,22 @@
       "duration_ms": 258253,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1231,8 +983,256 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/4RPGPhmqCeFZZbFvZRg0Sh"
+        "name": "Philadelphia International Records: The Tom Moulton Remixes",
+        "url": "https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+        }
+      ],
+      "duration_ms": 750560,
+      "name": "The Love I Lost - A Tom Moulton Mix",
+      "url": "https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "More, More, More",
+        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 197096,
+      "name": "What's Your Name, What's Your Number",
+      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Stay Free",
+        "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        },
+        {
+          "name": "James Simpson",
+          "url": "https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf"
+        }
+      ],
+      "duration_ms": 322480,
+      "name": "Stay Free",
+      "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
+      },
+      "artists": [
+        {
+          "name": "Ms. (Sharon) Ridley",
+          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
+        }
+      ],
+      "duration_ms": 388920,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Sarah Dash",
+          "url": "https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH"
+        }
+      ],
+      "duration_ms": 338973,
+      "name": "Sinner Man",
+      "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Reddy",
+        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "duration_ms": 399200,
+      "name": "Make Love To Me",
+      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Best of Candi Staton",
+        "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 317480,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Time Waits for No One",
+      "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Music Man",
+        "url": "https://open.spotify.com/album/2uo8Z48H5MLZEok6e01JQ8"
+      },
+      "artists": [
+        {
+          "name": "Revanche",
+          "url": "https://open.spotify.com/artist/2JhFT8njG4DcTuLQAo0Bi9"
+        }
+      ],
+      "duration_ms": 519546,
+      "name": "1979 It's Dancing Time (Full Length Album Mix)",
+      "url": "https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "I'll Bake Me A Man",
+      "url": "https://open.spotify.com/track/4YG1dGmuVc3akaUEKknn5x"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Northern Soul Keep the Faith",
+        "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pennington",
+          "url": "https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "24 Hours a Day",
+      "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 429813,
+      "name": "Angel in My Pocket - Extended Version",
+      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 346600,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Let Yourself Go: The \u201970s Albums, Vol. 2: 1974-1977 (The Final Sessions)",
+        "url": "https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 297186,
+      "name": "He's My Man - Extended Version",
+      "url": "https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Best of Doris Jones \"No Way Out\"",
+        "url": "https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh"
+      },
+      "artists": [
+        {
+          "name": "Doris Jones",
+          "url": "https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc"
+        }
+      ],
+      "duration_ms": 419266,
+      "name": "Possessed (Extended Verison)",
+      "url": "https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Inner Life",
+        "url": "https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
         }
       ],
-      "duration_ms": 392034,
-      "name": "Moment of My Life (12'' Version)",
-      "url": "https://open.spotify.com/track/3K70DJ1PgpZYDGE67CZBAX"
+      "duration_ms": 479600,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6"
     }
   ],
   "unique_name": "Disco Decadence",

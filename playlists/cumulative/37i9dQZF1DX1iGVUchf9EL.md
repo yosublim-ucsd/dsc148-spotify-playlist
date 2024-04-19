@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/laurenlondon/">Lauren London</a>
 
-78 songs - 5 hr 41 min
+80 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Forgive Them \- Live](https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Forgive Them \(Live\)](https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa) | 4:03 | 2023-11-13 |  |
 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 | 2023-03-06 |  |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2023-03-06 |  |
-| [God Morning](https://open.spotify.com/track/178oVeafbxJ3hyx1aLOczd) | [Natalie Lauren](https://open.spotify.com/artist/0v4qnnnTMi9mgN3DUxCfHK) | [Handle With Care](https://open.spotify.com/album/4R4gWALHVJ2tZLWAA6VSyH) | 3:23 | 2023-11-13 |  |
+| [God Morning](https://open.spotify.com/track/03UO77f0ccKwUjn46ArnSW) | [Natalie Lauren](https://open.spotify.com/artist/0v4qnnnTMi9mgN3DUxCfHK) | [Handle With Care](https://open.spotify.com/album/1D2jhyc76BTvA5wyJ1cTdi) | 3:23 | 2023-11-13 |  |
+| [God Morning](https://open.spotify.com/track/178oVeafbxJ3hyx1aLOczd) | [Natalie Lauren](https://open.spotify.com/artist/0v4qnnnTMi9mgN3DUxCfHK) | [Handle With Care](https://open.spotify.com/album/4R4gWALHVJ2tZLWAA6VSyH) | 3:23 | 2023-11-13 | 2024-04-19 |
 | [Gold](https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:39 | 2023-11-13 |  |
 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 | 2023-11-13 |  |
 | [Good Mornin'](https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Good Mornin'](https://open.spotify.com/album/64NvU8C9yzuAce13fu751Z) | 2:22 | 2023-11-13 |  |
@@ -59,7 +60,8 @@
 | [Only a Case \(feat\. G.I\. Joe & Conrad\)](https://open.spotify.com/track/3E8BvlxA408lNLLNNXlf3n) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [G.I.\-JOE](https://open.spotify.com/artist/3pa1t3NwCBEVQmXjSeEu8b), [Conrad](https://open.spotify.com/artist/1u3iAH558OCRoeuhXECY5k) | [Mailbox Money](https://open.spotify.com/album/0hEI1TzqRgPGxTPFNoKrO0) | 3:42 | 2023-03-06 |  |
 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 | 2023-03-06 | 2023-11-14 |
 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 | 2023-11-13 |  |
-| [Pure Gold](https://open.spotify.com/track/3SLjWC7ijFemgCefXuR1Qp) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 4:40 | 2023-11-13 |  |
+| [Pure Gold](https://open.spotify.com/track/1Loq0v4EtOpfSgJpZo6ptH) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Illumination](https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM) | 4:40 | 2023-11-13 |  |
+| [Pure Gold](https://open.spotify.com/track/3SLjWC7ijFemgCefXuR1Qp) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 4:40 | 2023-11-13 | 2024-04-19 |
 | [Purpose](https://open.spotify.com/track/2UoDIvfi7nIVuVSk9c9mhN) | [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [Purpose](https://open.spotify.com/album/1WhY2X0WWfCfygJxVk7jGJ) | 1:52 | 2023-11-13 |  |
 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 | 2023-03-06 |  |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-11-13 |  |

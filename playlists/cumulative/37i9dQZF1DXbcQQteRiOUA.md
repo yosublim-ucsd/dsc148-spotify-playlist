@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2C0q6kKsOqXe490AYXubeA">Dish Dash</a>'s favorite tracks\. Updated regularly\. Curated by Dish Dash\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-106 songs - 9 hr 46 min
+108 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2024-02-01 |  |
 | [Are We Dreaming](https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM) | [Are We Dreaming](https://open.spotify.com/album/0rUI5Ng4CH1DN3K4F6OWui) | 5:41 | 2024-02-01 |  |
 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2024-02-01 | 2024-03-19 |
-| [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-02-01 |  |
+| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2024-02-01 |  |
+| [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-02-01 | 2024-04-19 |
 | [Baby Wants to Ride](https://open.spotify.com/track/07fFRfFUXKn3oaVfTKr4hs) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 8:37 | 2024-02-01 |  |
 | [Blunts Rolled](https://open.spotify.com/track/3vm1jM6fXaWPXoNaLq8tH6) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB) | [Blunts Rolled](https://open.spotify.com/album/4HP2yvRRSp8Recvoq8XiBt) | 4:27 | 2024-02-01 |  |
 | [Carte Blanche \- Alternative Dub Version](https://open.spotify.com/track/47EQgnnkKHkLh6igAw5bmD) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Carte Blanche](https://open.spotify.com/album/2OC1mqKWM8vMUAe8rZpQCU) | 5:03 | 2023-03-01 | 2024-02-02 |
@@ -30,7 +31,8 @@
 | [Dance With Me \- Mixed](https://open.spotify.com/track/4R2CPwLVEWTpDrY4mEPktq) | [Zoo Brazil](https://open.spotify.com/artist/7KXpXc29g9x7kFBnM2HcrM) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:19 | 2023-03-01 | 2024-02-02 |
 | [Daze](https://open.spotify.com/track/5D83D5FCc9HxtXDFbDsRGa) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Daze](https://open.spotify.com/album/6JRG4pQQa7gmRMEsJSaPs1) | 3:20 | 2024-02-01 |  |
 | [Deep In My Soul \- Original Mix](https://open.spotify.com/track/5nmr0qCA3JXN2MRdEDUFi6) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Deep In My Soul EP](https://open.spotify.com/album/5i7B8WeK7fyaIs09D9JGwT) | 8:03 | 2023-03-01 | 2024-02-02 |
-| [Desert Sun](https://open.spotify.com/track/5ho09ZAulykFu0SOw0IFjn) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciouness Pt\. VI](https://open.spotify.com/album/4ufQcFRJtuzNHDx2Kpjax7) | 5:17 | 2024-02-01 |  |
+| [Desert Sun](https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:17 | 2024-02-01 |  |
+| [Desert Sun](https://open.spotify.com/track/5ho09ZAulykFu0SOw0IFjn) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciouness Pt\. VI](https://open.spotify.com/album/4ufQcFRJtuzNHDx2Kpjax7) | 5:17 | 2024-02-01 | 2024-04-19 |
 | [Discoteca](https://open.spotify.com/track/35rfoLVPIPftGJcoZzwn9T) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Send Return](https://open.spotify.com/album/3EIYsOioUOBlxSf2tMpGsU) | 6:25 | 2024-02-01 |  |
 | [Disko Luv](https://open.spotify.com/track/3S3dUBSi2dahXcWM1CyIL6) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Disko Luv](https://open.spotify.com/album/4ZMat81ejgkMk3UGR1Hukz) | 3:25 | 2023-03-01 |  |
 | [Do My Thing \- Dixon Rework](https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Do My Thing \(Dixon Rework\)](https://open.spotify.com/album/0f3ZiEntOHX7P6W790ukxe) | 3:17 | 2024-02-01 |  |

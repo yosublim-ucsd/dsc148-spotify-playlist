@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,175 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,197 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 69 | [VS](https://open.spotify.com/track/0v07NKL3fTtcPTI7HwSlsf) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [VS](https://open.spotify.com/album/1fZaWgqkoUHR0aWwDrMXwV) | 3:35 |
 | 70 | [反抗声明](https://open.spotify.com/track/5FGpZHUlXM8yHCpDPhQhLc) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [反抗声明](https://open.spotify.com/album/1oKJnGISQRzI3kKzZBsCTd) | 3:01 |
 | 71 | [勝手にMY SOUL](https://open.spotify.com/track/1dzdcFlce5JkPCnZvDpUjx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [勝手にMY SOUL \(Special Edition\)](https://open.spotify.com/album/6PRxReaZFuP8W5wBFk36RZ) | 4:28 |
-| 72 | [花一匁](https://open.spotify.com/track/590Ze7BOcA1F5tHUfUIRCA) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [孔雀](https://open.spotify.com/album/1367BmfzOdxvQQMD5g4gcS) | 4:35 |
+| 72 | [花一匁](https://open.spotify.com/track/6nrgmjjFqUd87q2yoaq0HN) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [花一匁](https://open.spotify.com/album/6PfkAZDpmo1wGNOSJNqDtx) | 4:37 |
 | 73 | [I Wanna Be...](https://open.spotify.com/track/5fpFbvJO6MQ2MgFSLwi86D) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [I Wanna Be...](https://open.spotify.com/album/3ymMxpfCF7NC6aqWktAe7n) | 3:56 |
 | 74 | [ヒカリ証明論](https://open.spotify.com/track/1gTilQEziwJYdBHDPfXcX1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 |
 | 75 | [現状ディストラクション](https://open.spotify.com/track/462keQ2Wy97KlyxQgkZtvP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [現状ディストラクション](https://open.spotify.com/album/2AGQq7BbAdfkHgnmkIMbNc) | 3:37 |

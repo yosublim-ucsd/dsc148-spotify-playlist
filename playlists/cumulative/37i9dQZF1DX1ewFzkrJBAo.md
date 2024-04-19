@@ -4,12 +4,12 @@
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-45 songs - 3 hr 7 min
+46 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [BOHBO No.5](https://open.spotify.com/track/4jB4evySIDhpLAAy7CFSom) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:58 | 2023-07-20 |  |
-| [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-20 |  |
+| [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-20 | 2024-04-19 |
 | [BOON BOON BOON \~OUR LOVE \[MEDLEY\]](https://open.spotify.com/track/1J0MGcuzEFudeS1i2evGYT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:02 | 2023-07-20 |  |
 | [Brown Cherry](https://open.spotify.com/track/1LAgsnHyIwH7WtNXU7Dgfq) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:08 | 2023-07-20 |  |
 | [CRY 哀 CRY](https://open.spotify.com/track/0vCt7JnZp5UcTOyDJH5y7m) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [PARADISE](https://open.spotify.com/album/2umUDsiFYFUhRIKMWL9Hvt) | 4:58 | 2023-07-20 |  |
@@ -49,6 +49,7 @@
 | [欲しくて欲しくてたまらない](https://open.spotify.com/track/621nhEiC5LvilndOP27kaE) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:31 | 2023-07-20 |  |
 | [死体置場でロマンスを](https://open.spotify.com/track/6U5Jqs8bYsREVIIza72BET) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 3:59 | 2023-07-20 |  |
 | [気分しだいで責めないで](https://open.spotify.com/track/5EsSmQhV0aw6W9Uce4A6tj) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [気分しだいで責めないで](https://open.spotify.com/album/3fEN9ap8sQuB31ozWZHuts) | 3:34 | 2023-07-20 |  |
+| [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 | 2023-07-20 |  |
 | [祭はラッパッパ](https://open.spotify.com/track/7BoMM2LLhh71ANLLDC367l) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [人気者で行こう](https://open.spotify.com/album/0ZIH5S5JD9ho8pFvEXo5Ex) | 2:24 | 2023-07-20 |  |
 | [経験II\(セカンド\)](https://open.spotify.com/track/2LpqVq5nNpmaKNo9fYzKgN) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [涙の海で抱かれたい\~SEA OF LOVE\~](https://open.spotify.com/album/0rQhz9YRYheWp48EZns4Lw) | 3:30 | 2023-07-20 |  |
 | [赤い炎の女](https://open.spotify.com/track/6Xnx9LDUBaeeMVMlVPHFjA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:39 | 2023-07-20 |  |

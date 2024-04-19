@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,585 likes - 214 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,683 likes - 214 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 60 | [Emerald City](https://open.spotify.com/track/4hmVaRzWIGFALX6cFveZ0f) | [Kirabuo](https://open.spotify.com/artist/56ncV7I51jTZIqwrCWsOu0) | [Emerald City](https://open.spotify.com/album/3rRLNWhtlisf1F5jKLs5n2) | 2:06 |
 | 61 | [Clandestine](https://open.spotify.com/track/5sGxDzINFxlLXnj6zpDsQZ) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Clandestine](https://open.spotify.com/album/4SArWhZxLUXZ1bGxoPfz4k) | 2:20 |
 | 62 | [The Way](https://open.spotify.com/track/0p0skXFLMR13GNiroa5cWQ) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [The Way](https://open.spotify.com/album/3tI5c6YGOY8VFLgaD89kI5) | 2:20 |
-| 63 | [january](https://open.spotify.com/track/1wMMgs9ZrcwoFZIS9LvecD) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [2023](https://open.spotify.com/album/6QQEN5mwHoeypL9soPByPj) | 5:05 |
+| 63 | [january](https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [january](https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x) | 5:05 |
 | 64 | [High Windows](https://open.spotify.com/track/7dIO4IrjIlLhKsnj4o5nCn) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [High Windows](https://open.spotify.com/album/0UbucpkXmpzONj8JWSA6Zj) | 2:37 |
 | 65 | [Ocean Waves](https://open.spotify.com/track/0r2KqEOqDSn1bKZSZEVZsq) | [Ezeiu](https://open.spotify.com/artist/0Ip9Wm5iefxEQ8GNzx0rri) | [Ocean Waves](https://open.spotify.com/album/07IhREwpLxDAuxkUIhSk1Y) | 2:06 |
 | 66 | [Stoic](https://open.spotify.com/track/5MkNHsjfPQJT55YRNawXDC) | [Sun Kissed Sky](https://open.spotify.com/artist/5HkFsCNO0S6DI1nfvHxUi6) | [Stoic](https://open.spotify.com/album/1R188q8lWvdB1tXdr9j3Xe) | 2:23 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 74 | [Life Balance](https://open.spotify.com/track/5Fy3qUli32XAqwvMibwibE) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Start Somewhere](https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8) | 3:20 |
 | 75 | [Perceptive](https://open.spotify.com/track/7Mi5eCOPGZI4jwlpzb0xSC) | [Ravndala](https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH) | [Perceptive](https://open.spotify.com/album/60jpACFvJmrcVpXft0PKH4) | 3:32 |
 | 76 | [Fading](https://open.spotify.com/track/5ULifaHIedzoCiIkjHU5i5) | [The Go Steady](https://open.spotify.com/artist/6jLapoPif6z2m9XEJ82G4J) | [Fading](https://open.spotify.com/album/78IJVIdID5GtvM5oB8EP8g) | 2:25 |
-| 77 | [I Found You](https://open.spotify.com/track/2e84ShlQlgyMuE99oX7ekA) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/4o4dM1VnVQIVtCSaRsWnV8) | 3:24 |
+| 77 | [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 |
 | 78 | [Folds](https://open.spotify.com/track/1upFTZnAallS4AfzHZ7RmP) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Folds](https://open.spotify.com/album/43uRd28euFG1OYGTZDobV7) | 3:16 |
 | 79 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 |
 | 80 | [Knowledge](https://open.spotify.com/track/32jPQvbPz02F2jhlDdM3SU) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Knowledge](https://open.spotify.com/album/1Fl3JnASxezylSjI0YZgVt) | 2:37 |
@@ -184,7 +184,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 174 | [Wires](https://open.spotify.com/track/2wAOrDyPab6VEsaaNFmQAM) | [Harvest Silence](https://open.spotify.com/artist/6qtd1ujjnPOMDU5DCDQPuH) | [Wires](https://open.spotify.com/album/3smWNxmoz5deYJejiTWJY3) | 2:13 |
 | 175 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 |
 | 176 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 |
-| 177 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 3:50 |
+| 177 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 |
 | 178 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 |
 | 179 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 |
 | 180 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 |

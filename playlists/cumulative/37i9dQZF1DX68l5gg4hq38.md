@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-67 songs - 6 hr 31 min
+68 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [We Know](https://open.spotify.com/track/02RGfM1IqtL7qoccnD43hu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Hidden Gems](https://open.spotify.com/album/4DgdEY22lRg9VAWIOPAuSv) | 5:27 | 2023-11-22 |  |
 | [What's Going On](https://open.spotify.com/track/08OPZJCtAbkCauIlvTQx01) | [DJ Deep](https://open.spotify.com/artist/3lbzbbtoq31WIRghjdBuuf) | [\[QR\]D.081.TSM.24](https://open.spotify.com/album/4brYLYZdry2jzhUpb7yFFl) | 6:13 | 2024-03-22 |  |
 | [Where The Freaks At \- Terry Hunter Club Mix](https://open.spotify.com/track/3pz8X6T22aQaOQspoigGkW) | [Deon Cole](https://open.spotify.com/artist/6EtAJfmBl4YeK7oyaRua5i), [Terisa Griffin](https://open.spotify.com/artist/21mV8GQDuvWIHtpZmiPjo5), [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu) | [Where The Freaks At](https://open.spotify.com/album/461wm5uv2XOTWK1qrwNp9y) | 9:48 | 2023-11-22 |  |
-| [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 | 2024-03-22 |  |
+| [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 | 2024-03-22 |  |
+| [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 | 2024-03-22 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-12-05. Prior content cannot be recovered.

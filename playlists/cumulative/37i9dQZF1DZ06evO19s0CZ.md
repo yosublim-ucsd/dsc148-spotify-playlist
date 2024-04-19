@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO19s0CZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO19s0CZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO19s0CZ)
 
-### [This Is The Rolling Stones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ)
+### [This Is ザ・ローリング・ストーンズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ)
 
-> This is The Rolling Stones\. The essential tracks, all in one playlist.
+> This is ザ・ローリング・ストーンズ。アーティストの代表曲をひとつのプレイリストに。
 
 97 songs - 6 hr 33 min
 

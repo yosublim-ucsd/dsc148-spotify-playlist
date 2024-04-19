@@ -74,10 +74,28 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156416,
       "name": "3am - Demo Ver.",
       "url": "https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli"
+    },
+    {
+      "album": {
+        "name": "3am - Demo Ver.",
+        "url": "https://open.spotify.com/album/2C5ob9OfPO3J5wMETcOD5R"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "3am - Demo Ver.",
+      "url": "https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr"
     },
     {
       "album": {
@@ -198,6 +216,28 @@
     {
       "album": {
         "name": "I Hate Myself Sometimes",
+        "url": "https://open.spotify.com/album/7HSZCDvflTWrGFVuoDeLX7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174580,
+      "name": "I Hate Myself Sometimes",
+      "url": "https://open.spotify.com/track/5znau6BqFcgBkyQGcOutil"
+    },
+    {
+      "album": {
+        "name": "I Hate Myself Sometimes",
         "url": "https://open.spotify.com/album/3hUr7wEoUWVlFeEV843iGT"
       },
       "artists": [
@@ -212,7 +252,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174580,
       "name": "I Hate Myself Sometimes",
       "url": "https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt"
@@ -426,7 +466,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245108,
       "name": "Who Doesn\u2019t Wanna",
       "url": "https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g"
@@ -2496,6 +2536,24 @@
       "duration_ms": 228413,
       "name": "\u8a8d\u611b",
       "url": "https://open.spotify.com/track/1FlxaEDo7hem6lCg7kmEIN"
+    },
+    {
+      "album": {
+        "name": "\u738b",
+        "url": "https://open.spotify.com/album/6dQdCtYPXh5uUDXvL5YEZn"
+      },
+      "artists": [
+        {
+          "name": "Yoga Lin",
+          "url": "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245108,
+      "name": "\u8ab0\u4e0d\u60f3",
+      "url": "https://open.spotify.com/track/5z8xJ7R5dlO2r9X2ioBBE3"
     },
     {
       "album": {

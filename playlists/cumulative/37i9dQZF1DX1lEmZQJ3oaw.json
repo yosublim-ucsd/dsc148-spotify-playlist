@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/7gRTkdmH5VuL3Q8HKKWGya"
+      },
+      "artists": [
+        {
+          "name": "Alsiha Chinai",
+          "url": "https://open.spotify.com/artist/2Ce6gcsm5H7PM8qRCBD3LU"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334162,
+      "name": "Dil Ko Hazar Bar",
+      "url": "https://open.spotify.com/track/1JjAgmvy3640z4SX6QcnTb"
+    },
+    {
+      "album": {
         "name": "Murder (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5LgQDhI9gMBEiH2YJhByxz"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334162,
       "name": "Dil Ko Hazar Bar - From \"Murder\"",
       "url": "https://open.spotify.com/track/6ipIuqRVkk0sbn2aZRIhJC"
@@ -374,10 +392,28 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186272,
       "name": "Eena Meena Deeka (From \"Shaandaar\")",
       "url": "https://open.spotify.com/track/3zlkrizG30ZqCDfeTO57Vb"
+    },
+    {
+      "album": {
+        "name": "Shaandaar - Eena Meena Deeka",
+        "url": "https://open.spotify.com/album/3w3NVVRTcCjLoz3xDlHeVH"
+      },
+      "artists": [
+        {
+          "name": "Rachel Varghese",
+          "url": "https://open.spotify.com/artist/2ze4daRTNBfPdpZJnIACef"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186272,
+      "name": "Eena Meena Deeka - Mikey Mccleary Mix - Teaser",
+      "url": "https://open.spotify.com/track/7KRWiMVTRWpfFA7EYdJFFL"
     },
     {
       "album": {
@@ -440,10 +476,28 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196609,
       "name": "Fifi - Jata Kahan Hai Deewane (From \"Bombay Velvet\")",
       "url": "https://open.spotify.com/track/1f7l6tzcBAU9CPvYBBBdBS"
+    },
+    {
+      "album": {
+        "name": "Bombay Velvet - Fifi",
+        "url": "https://open.spotify.com/album/3gGKYgif8sRRBFGKxBzXOQ"
+      },
+      "artists": [
+        {
+          "name": "Suman Sridhar",
+          "url": "https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196609,
+      "name": "Fifi - Jata Kahan Hai Deewane - Mikey Mccleary Mix",
+      "url": "https://open.spotify.com/track/7Hd216xGh0HkQFtklXMfUM"
     },
     {
       "album": {
@@ -655,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Lakiro (Hindi) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/0OZQJIjS1P40ubVD3xMRfk"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Parth Bharat Thakkar",
+          "url": "https://open.spotify.com/artist/0NilspPVgbgzAJrUgLRgt5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242427,
+      "name": "Lakeerein (From \"Lakiro\")",
+      "url": "https://open.spotify.com/track/1t1CQlpl73fqgi8rmvVf5X"
+    },
+    {
+      "album": {
         "name": "Lakeerein (From \"Lakiro\")",
         "url": "https://open.spotify.com/album/1CHum64PgfDwW3KTOWzcj6"
       },
@@ -670,7 +746,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242427,
       "name": "Lakeerein (From \"Lakiro\")",
       "url": "https://open.spotify.com/track/3SW24LTlkClDb4blnDt1kK"
@@ -736,10 +812,32 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238103,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
+    },
+    {
+      "album": {
+        "name": "Gangubai Kathiawadi",
+        "url": "https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238103,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK"
     },
     {
       "album": {
@@ -790,7 +888,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 219022,
       "name": "Old School Girl",
       "url": "https://open.spotify.com/track/1lpuzTi4BcTejXCPoX5iIs"
@@ -812,7 +910,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219022,
       "name": "Old School Girl",
       "url": "https://open.spotify.com/track/2bE2CtLUq11nzKmjlfKNNW"
@@ -837,6 +935,28 @@
     },
     {
       "album": {
+        "name": "Thank You For Coming",
+        "url": "https://open.spotify.com/album/6FGsV3DdW83SyO6SRTholT"
+      },
+      "artists": [
+        {
+          "name": "Aman Pant",
+          "url": "https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE"
+        },
+        {
+          "name": "Devashri Manohar",
+          "url": "https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101319,
+      "name": "Pari Hoon Main (Jazz Version)",
+      "url": "https://open.spotify.com/track/0sUN65fY2yh7bwf8gaOT8O"
+    },
+    {
+      "album": {
         "name": "Thank You for Coming (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ"
       },
@@ -852,7 +972,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101319,
       "name": "Pari Hoon Main (Jazz Version)",
       "url": "https://open.spotify.com/track/5GBG8qe6XDkw19QULbZWMK"
@@ -998,10 +1118,32 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264000,
       "name": "Tu Saamane Hai",
       "url": "https://open.spotify.com/track/1JZSGul5gS4mfn29YXcBql"
+    },
+    {
+      "album": {
+        "name": "Lakiro (Hindi) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/0OZQJIjS1P40ubVD3xMRfk"
+      },
+      "artists": [
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        },
+        {
+          "name": "Parth Bharat Thakkar",
+          "url": "https://open.spotify.com/artist/0NilspPVgbgzAJrUgLRgt5"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Tu Saamane Hai",
+      "url": "https://open.spotify.com/track/1uHsqoARV2y9yv0slAJCxZ"
     },
     {
       "album": {
@@ -1085,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Yeh Raat Yeh Chandni - MTV Unwind",
+        "url": "https://open.spotify.com/album/43vmgvDwOPbW7bIKqMWfKi"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230663,
+      "name": "Yeh Raat Yeh Chandni - MTV Unwind",
+      "url": "https://open.spotify.com/track/3at3X8kqQ3nxiB6lKgVJts"
+    },
+    {
+      "album": {
         "name": "Yeh Raat Yeh Chandni - MTV Unwind - Single",
         "url": "https://open.spotify.com/album/4QyWUvanlMbR4ytjDOBbhL"
       },
@@ -1096,7 +1256,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230663,
       "name": "Yeh Raat Yeh Chandni - MTV Unwind",
       "url": "https://open.spotify.com/track/7tWcgBy0KmYWjInHYrLInN"

@@ -1,12 +1,12 @@
 {
-  "description": "This is: Adrianne Lenker. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 5175,
+  "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
+  "num_followers": 5228,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzA1MjgwMCwwMDAwMDAwMGIxY2JiMmJiMTI4MmViZGU4NWFmNWVlYmM0ZTYxZDE5",
+  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDdiOTQxNDIzMGFlZTJkMmE5MDJmZThjZmVmMDM4YTQ1",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 180495,
-      "name": "No Machine",
-      "url": "https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81"
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
+      "duration_ms": 180495,
+      "name": "No Machine",
+      "url": "https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 207822,
-      "name": "Already Lost",
-      "url": "https://open.spotify.com/track/2BSnnyfltzvOkM1hJrsZfj"
+      "duration_ms": 235178,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
     },
     {
       "added_at": null,

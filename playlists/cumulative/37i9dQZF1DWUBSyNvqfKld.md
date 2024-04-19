@@ -4,13 +4,13 @@
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 6 hr 36 min
+70 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abroad](https://open.spotify.com/track/69KUcRKeRNSM1kZIKbACqE) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [System Theory EP](https://open.spotify.com/album/7JycrMeQMBjDdplu8dAIgh) | 6:16 | 2022-07-25 | 2023-11-09 |
-| [AF 97](https://open.spotify.com/track/3NCTe6dLVEfn5PW23isz4b) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [Klockworks 38](https://open.spotify.com/album/2QaDKEWEunZVwWwEqVKdtV) | 6:09 | 2023-11-08 |  |
-| [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 | 2023-11-08 | 2024-04-10 |
+| [AF 97](https://open.spotify.com/track/3NCTe6dLVEfn5PW23isz4b) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [Klockworks 38](https://open.spotify.com/album/2QaDKEWEunZVwWwEqVKdtV) | 6:09 | 2023-11-08 | 2024-04-19 |
+| [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 | 2023-11-08 |  |
 | [After](https://open.spotify.com/track/5rvuGXmbeVKav2eIV040cY) | [TWR72](https://open.spotify.com/artist/3xppiQ1WFn0sPv4ZQJjqzO) | [Club Cult Vol\. 2](https://open.spotify.com/album/0sVDAbCohLRPMkQp65wMlF) | 5:35 | 2023-11-08 |  |
 | [Anna Purple Mix](https://open.spotify.com/track/6NnBjnd7Uap9QRXDXGlcyy) | [Talismann](https://open.spotify.com/artist/6EbNaM2bFGGDaPKTNG1PT2) | [Kliniek 1](https://open.spotify.com/album/5di0L6fNz9Lq5o3FuIOONA) | 6:55 | 2023-11-08 |  |
 | [Be Mad](https://open.spotify.com/track/5OHgprTdZ1ZFMbciajnMF6) | [Kashpitzky](https://open.spotify.com/artist/1Emez61BnxzKMb3ygXnN9E) | [Intermission](https://open.spotify.com/album/6PuWnRzSAnKsgmMTho2Chn) | 5:57 | 2022-07-25 | 2023-11-09 |
@@ -28,7 +28,8 @@
 | [Engine 1 \- Unsubscribe Remix](https://open.spotify.com/track/2qBtaWanqZiyFWnq4qLbeO) | [Black Asteroid](https://open.spotify.com/artist/4O955Sa65L8MfJa8hg8q0F), [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ), [Mr\. Jones](https://open.spotify.com/artist/5qSTSgxz3HaDOOSuFhNLIt) | [Engine 1 \(The Remixes\)](https://open.spotify.com/album/4oY4kcQ2vNOqjibD6FObfW) | 7:43 | 2022-07-25 | 2023-10-13 |
 | [Exhibit 1](https://open.spotify.com/track/7KJGovfuzFsXQ6GfyqMJKd) | [Slam](https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO) | [Slam Presents Exhibit 1](https://open.spotify.com/album/51pADQWA0GSvf3nJQvR9Y1) | 6:38 | 2023-11-08 |  |
 | [Fear](https://open.spotify.com/track/0K7cVv5gYPDBNeAFjzxLBK) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Fear EP](https://open.spotify.com/album/24ayHJCfRxBxFKSLftKzdY) | 4:59 | 2023-11-08 |  |
-| [Flash](https://open.spotify.com/track/3JRyCCHuf4UEjgoXC4qaOf) | [Arjun Vagale](https://open.spotify.com/artist/5VL3jFaGca1I18S1a9N6cs) | [Function 88](https://open.spotify.com/album/5KLs6luZVlBzsBWAbcELis) | 4:37 | 2023-11-08 |  |
+| [Flash](https://open.spotify.com/track/3JRyCCHuf4UEjgoXC4qaOf) | [Arjun Vagale](https://open.spotify.com/artist/5VL3jFaGca1I18S1a9N6cs) | [Function 88](https://open.spotify.com/album/5KLs6luZVlBzsBWAbcELis) | 4:37 | 2023-11-08 | 2024-04-19 |
+| [Flash](https://open.spotify.com/track/6SkD3wXWrEnX9g1yzL3vAk) | [Arjun Vagale](https://open.spotify.com/artist/5VL3jFaGca1I18S1a9N6cs) | [Function 88](https://open.spotify.com/album/2QbE89pYkrACtGyYaYN97Y) | 4:37 | 2023-11-08 |  |
 | [FORMA NO PURA \- Original Mix](https://open.spotify.com/track/5s8gEhGOCA1fmon21wHYiZ) | [Oscar Mulero](https://open.spotify.com/artist/3jisZjR3TBVb9tIfTbRHTS) | [Aftermath](https://open.spotify.com/album/5dzUc3FyVN5tNpdSy0nEp6) | 5:09 | 2022-07-25 | 2023-11-09 |
 | [Ghouse](https://open.spotify.com/track/5UqSSOTe2a5yDN2PucVvkZ) | [CRAVO](https://open.spotify.com/artist/0h3LDqJWxHfdM76kVnfGcY) | [Hits](https://open.spotify.com/album/6fp8mAN5ElaVB8e4BPsWCK) | 6:18 | 2023-11-08 |  |
 | [Good Intentions](https://open.spotify.com/track/3sSSNjVfGlhwPufKHXq4e5) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Reshape](https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U) | 5:54 | 2023-11-08 |  |
@@ -53,8 +54,8 @@
 | [Phase Two](https://open.spotify.com/track/7ogPeJ5AFxpRY2CFNjzIcM) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/2aUB0aF0gK2pksGvhUGlIR) | 6:34 | 2022-07-25 | 2023-11-09 |
 | [Prefix](https://open.spotify.com/track/60dyhittzt2ETdXgyVAAL6) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo), [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75) | [Prefix](https://open.spotify.com/album/5H2grQSbEIKAdhI3uMPWSe) | 5:39 | 2022-07-25 | 2023-11-09 |
 | [Protective Custody \(2023 Remaster\)](https://open.spotify.com/track/5qGn2qNcrgzpbJGH1SPItx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/2sT9yTuySP5G1LY1yc4L9o) | 4:52 | 2023-11-08 | 2024-04-08 |
-| [Protective Custody \(2023 Remaster\)](https://open.spotify.com/track/71Cl53qgwQbbKIkSTK6Sia) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Archive One \(2023 Remaster\)](https://open.spotify.com/album/28hk5zc37dtBb62DY1gM9B) | 4:52 | 2023-11-08 |  |
-| [Protective Custody \- 2023 Remaster](https://open.spotify.com/track/48GsYVVD36fqW4fCTBZqBx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/5mHtLgtB8ZrcPaJuLP9nLR) | 4:52 | 2023-11-08 | 2023-11-18 |
+| [Protective Custody \(2023 Remaster\)](https://open.spotify.com/track/71Cl53qgwQbbKIkSTK6Sia) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Archive One \(2023 Remaster\)](https://open.spotify.com/album/28hk5zc37dtBb62DY1gM9B) | 4:52 | 2023-11-08 | 2024-04-19 |
+| [Protective Custody \- 2023 Remaster](https://open.spotify.com/track/48GsYVVD36fqW4fCTBZqBx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/5mHtLgtB8ZrcPaJuLP9nLR) | 4:52 | 2023-11-08 |  |
 | [Raid](https://open.spotify.com/track/7cAWv4wuQHVo8XnvNRneNX) | [Phil Berg](https://open.spotify.com/artist/47MgVGK1jiCgkj4jbjVqnx) | [Raid](https://open.spotify.com/album/5p5sVSL3tah0EvazwllBEp) | 5:11 | 2023-11-08 |  |
 | [Reasons Beyond The Atmosphere \- Original Mix](https://open.spotify.com/track/2jSmDKRGbOOX9M408I6VrH) | [Sigvard](https://open.spotify.com/artist/6IrZoI6X8RzaqH4nMl8V3m) | [The Flowers Hundred LP](https://open.spotify.com/album/2p0Yfdq4XwJIDPkJUA43M7) | 5:36 | 2022-07-25 | 2023-11-09 |
 | [S.O.](https://open.spotify.com/track/63wfhom4NkOos2kMcTnrVX) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Light In The Darkness EP](https://open.spotify.com/album/0Sq8EOqgnRMl4Pja5WZVdC) | 6:40 | 2022-07-25 | 2023-11-09 |

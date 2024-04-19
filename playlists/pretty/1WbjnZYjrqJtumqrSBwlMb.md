@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 873 songs - 2 day 5 hr 45 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 874 songs - 2 day 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -859,7 +859,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 849 | [GUIDE DOG](https://open.spotify.com/track/4Rtsy7SpGGaQKV1FQfFZ54) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:01 |
 | 850 | [TEXAS BLUE](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 |
 | 851 | [Should Have Known](https://open.spotify.com/track/3L1JZqs8TQjYPP7ViHnCIW) | [Yxng Dave](https://open.spotify.com/artist/1zpptQ5p9E7oIfWsfNCf9n) | [Should Have Known](https://open.spotify.com/album/19F6V0468B3EJe2UhcQPtN) | 3:43 |
-| 852 | [](https://open.spotify.com/track/6rm8YMIMndRVUYrErV6wUQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6pTklYvpzN7feTjqSLT3Xi) | 0:00 |
+| 852 | [](https://open.spotify.com/track/6rm8YMIMndRVUYrErV6wUQ) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6pTklYvpzN7feTjqSLT3Xi) | 0:00 |
 | 853 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 854 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 |
 | 855 | [Overcompensate](https://open.spotify.com/track/0wEGo9LsSrSUz9HOtraWAO) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:56 |
@@ -881,5 +881,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 871 | [introvert](https://open.spotify.com/track/0uOgY7Q90XkqibGImcnAER) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 6:14 |
 | 872 | [hypochondriac](https://open.spotify.com/track/0tocRPyNlOEk74o27EYGFe) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 2:42 |
 | 873 | [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 |
+| 874 | [Again](https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Again](https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82) | 2:53 |
 
-Snapshot ID: `MjA2MCw1OWJlNjM2NjVhMmIzNDMwZjQzMWZjZTk1ZWFiYjI0OTExODk4OGIz`
+Snapshot ID: `MjA2MSwxNWIzMmVjMDAxMDQ3MjA1N2RhYWYzY2MyZTdjYzVmZjA1NjY3YzJm`

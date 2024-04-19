@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 392808,
       "name": "Burning in Birmingham",
       "url": "https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr"
@@ -164,10 +164,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 392808,
       "name": "Burning in Birmingham",
       "url": "https://open.spotify.com/track/4SAGhPbeUoYH2w2BP85AK2"
+    },
+    {
+      "album": {
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248466,
+      "name": "Butterflyz",
+      "url": "https://open.spotify.com/track/1TpATCBm9ex3N6q7b8rXgS"
     },
     {
       "album": {
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248466,
       "name": "Butterflyz",
       "url": "https://open.spotify.com/track/2rfRICVLPoWlFVGx7f48Cw"

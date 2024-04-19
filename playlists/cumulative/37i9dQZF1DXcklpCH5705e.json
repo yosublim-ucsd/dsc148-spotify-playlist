@@ -894,6 +894,24 @@
     {
       "album": {
         "name": "E11",
+        "url": "https://open.spotify.com/album/1HSffKn6QYxfYScbqvkv3z"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281731,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/2XyuLogi1ft16ssQrNWjRH"
+    },
+    {
+      "album": {
+        "name": "E11",
         "url": "https://open.spotify.com/album/53pbunTdvp1O77bS2rRN1Q"
       },
       "artists": [
@@ -904,7 +922,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281731,
       "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
       "url": "https://open.spotify.com/track/5GWjuO8Fq0180HXbny1HNo"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207093,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/40z4u67Cm6I4WUQvM3atmb"
@@ -962,6 +980,24 @@
       "duration_ms": 237923,
       "name": "\u521d\u6200",
       "url": "https://open.spotify.com/track/5PXsG3sAAq4NvqKSe4jvSf"
+    },
+    {
+      "album": {
+        "name": "\u521d\u6200",
+        "url": "https://open.spotify.com/album/5j0dn66FEK13qHKnGHuVuz"
+      },
+      "artists": [
+        {
+          "name": "Karen Mok",
+          "url": "https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207864,
+      "name": "\u521d\u6200",
+      "url": "https://open.spotify.com/track/1aiIwk71j3bdlAoashJ99C"
     },
     {
       "album": {
@@ -1218,6 +1254,24 @@
     {
       "album": {
         "name": "\u5341\u516b\u7a2e\u9999\u6e2f Reimagine HK 2015 (LIVE)",
+        "url": "https://open.spotify.com/album/0yOGZZK7klwmqhP7ll81Jg"
+      },
+      "artists": [
+        {
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390946,
+      "name": "\u60c5\u6df1\u8aaa\u8a71\u672a\u66fe\u8b1b",
+      "url": "https://open.spotify.com/track/3IU0tRFjaP7FsoPnXz5KEf"
+    },
+    {
+      "album": {
+        "name": "\u5341\u516b\u7a2e\u9999\u6e2f Reimagine HK 2015 (LIVE)",
         "url": "https://open.spotify.com/album/1MU1FyMYaQnjNz6tWK12Ym"
       },
       "artists": [
@@ -1232,7 +1286,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390946,
       "name": "\u60c5\u6df1\u8aaa\u8a71\u672a\u66fe\u8b1b - Live",
       "url": "https://open.spotify.com/track/3X3MlR0hbNJLY1zlS3L8UU"
@@ -1485,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "\u6b77\u4e45\u5690\u65b0REBORN (\u74b0\u7403\u7cbe\u9078)",
+        "url": "https://open.spotify.com/album/2OIg1BweYzUeevdKt6VTX3"
+      },
+      "artists": [
+        {
+          "name": "Anthony Wong",
+          "url": "https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "\u6697\u6e67",
+      "url": "https://open.spotify.com/track/23pf1KLKsOqwFufDrliFmQ"
+    },
+    {
+      "album": {
         "name": "\u5eff\u4e00\u4e16\u7d00\u7cbe\u9078",
         "url": "https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S"
       },
@@ -1496,7 +1568,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229053,
       "name": "\u6697\u6e67 - \u96fb\u5f71\"\u6108\u5feb\u6a02\u6108\u58ae\u843d\"\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2"
@@ -1594,6 +1666,24 @@
     {
       "album": {
         "name": "4 In Love",
+        "url": "https://open.spotify.com/album/5fGPGMiJ0OUEVWelINi205"
+      },
+      "artists": [
+        {
+          "name": "Leon Lai",
+          "url": "https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255013,
+      "name": "\u6bcf\u5929\u611b\u4f60\u591a\u4e00\u4e9b",
+      "url": "https://open.spotify.com/track/3Lf8ij7RDmjADYqj56Dobx"
+    },
+    {
+      "album": {
+        "name": "4 In Love",
         "url": "https://open.spotify.com/album/1LQlxBcbxarDHZfS04TrxR"
       },
       "artists": [
@@ -1604,7 +1694,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258812,
       "name": "\u6bcf\u5929\u611b\u4f60\u591a\u4e00\u4e9b",
       "url": "https://open.spotify.com/track/6netQHYLJxJfWXHYnvOEJA"
@@ -2130,10 +2220,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255920,
       "name": "\u90a3\u500b\u4e0b\u5348\u6211\u5728\u820a\u5c45\u71d2\u4fe1",
       "url": "https://open.spotify.com/track/3MhbxjiQhfZUzvEAC6NYQc"
+    },
+    {
+      "album": {
+        "name": "\u611b.\u79d1\u5b78",
+        "url": "https://open.spotify.com/album/05RQbvDpjorpaUYUNCOYsQ"
+      },
+      "artists": [
+        {
+          "name": "PixelToy",
+          "url": "https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255920,
+      "name": "\u90a3\u500b\u4e0b\u5348\u6211\u5728\u820a\u5c45\u71d2\u4fe1",
+      "url": "https://open.spotify.com/track/7aZi6m1EhPhLyDFsZ0nUY9"
     },
     {
       "album": {
@@ -2228,7 +2336,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 247805,
       "name": "\u9752\u6625\u980c",
       "url": "https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD"
@@ -2250,7 +2358,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247805,
       "name": "\u9752\u6625\u980c (\u5c0f\u80a5 Modern Classic 2010-2020)",
       "url": "https://open.spotify.com/track/3SFgidWdBgZNLcjy8ymzH0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทย พร้อมหลากหลายเพลงที่เลือกโดย Violette Wautier
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,745 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,733 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 34 | [พลั้ง \(Confess\)](https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [พลั้ง \(Confess\)](https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw) | 3:34 |
 | 35 | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/track/6BJYRFCxU0tp1WoAX4m37c) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/album/6qryy0vluBpKQXZAm8CQNu) | 3:48 |
 | 36 | [เหมือนว่าเธอยังอยู่ตรงนี้](https://open.spotify.com/track/2jkJCDXJ2dKpJeUPKZ1eCN) | [พู่กัน กันฏ์ระพี](https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl) | [เหมือนว่าเธอยังอยู่ตรงนี้](https://open.spotify.com/album/5rX9PvCLtWgKA6dTOnb9b7) | 3:25 |
-| 37 | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/track/32XElzFfT6dRkePDBPWrDb) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/album/4hlqWoXqXV5dJQGWJl4UVA) | 3:43 |
+| 37 | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/track/3nVhhjxu73LQ5x93pP2dsx) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [Sometimes… \(แพ้ความผูกพัน\)](https://open.spotify.com/album/16wk3gIYnZnC2U9rmMDr3g) | 3:43 |
 | 38 | [Layers of me \(รักฉันทุกอย่างไหม\)](https://open.spotify.com/track/7Azw0wj9nVIaW2FheqCkai) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Layers of me \(รักฉันทุกอย่างไหม\)](https://open.spotify.com/album/6ODV7PepWzmfCd4uJZlwBy) | 2:48 |
 | 39 | [Soulmate \- From "ลออจันทร์"](https://open.spotify.com/track/3VDtnlbgR5mFaqPRUhV29D) | [มารีน่า บาเล็นซิเอก้า](https://open.spotify.com/artist/2wQoMu5vPcyHY4dZlenhzo) | [Soulmate \(From "ลออจันทร์"\)](https://open.spotify.com/album/321qQP0Tc5PdXE00Vv6gMe) | 3:29 |
 | 40 | [ยื้อเพื่อ? \(Be Honest\)](https://open.spotify.com/track/6zd7fxBsHqjV9PNw5aEs1Y) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:49 |

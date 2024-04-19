@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Pokkiri",
+        "url": "https://open.spotify.com/album/1fZl4OddJn9XtCi1dQli9S"
+      },
+      "artists": [
+        {
+          "name": "Naveen",
+          "url": "https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266106,
+      "name": "Aadungada Enna Suthi",
+      "url": "https://open.spotify.com/track/57igBo7u0eQz6a4PLB9y05"
+    },
+    {
+      "album": {
         "name": "Singer Special - Naveen",
         "url": "https://open.spotify.com/album/0r0FLyJiN9gPtuEX6Tri0M"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266106,
       "name": "Aadungada Enna Suthi (From \"Pokkiri\")",
       "url": "https://open.spotify.com/track/2iIHGTEOmWdgpv96gmv9hJ"
@@ -244,7 +262,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 282000,
       "name": "Ada Ennatha Solvenungo",
       "url": "https://open.spotify.com/track/17t8w97umtBmeyitWE5C8Z"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282530,
       "name": "Ada Ennaththa Solvenungo (From \"Sivakasi\")",
       "url": "https://open.spotify.com/track/6hF2jdZYQ9og8qODTM1Z13"
@@ -400,7 +418,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 326069,
       "name": "Ammadi Aathadi",
       "url": "https://open.spotify.com/track/4I91lJWD0Fgbo1KQ0vHJlS"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329693,
       "name": "Ammadi Aathadi",
       "url": "https://open.spotify.com/track/7DDGASwYNNU4kXb7VyQLvp"
@@ -587,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Gilli",
+        "url": "https://open.spotify.com/album/6quR1wqFlwSoCANhnfN9r9"
+      },
+      "artists": [
+        {
+          "name": "KK;Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/0FL3QlU8PXZ53CjYGrLlxR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291275,
+      "name": "Appadipodu",
+      "url": "https://open.spotify.com/track/5KoNpOzoHj7BppaLcncjWW"
+    },
+    {
+      "album": {
         "name": "Sweet Voice of K.K",
         "url": "https://open.spotify.com/album/6BYlfq9Wt06Wla84T6lF9S"
       },
@@ -602,7 +638,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291275,
       "name": "Appadipodu (From \"Gilli\")",
       "url": "https://open.spotify.com/track/1ISzByfoQ485o30C2UrqKG"
@@ -770,7 +806,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259069,
       "name": "Chalmaar",
       "url": "https://open.spotify.com/track/2YioVFGJDTh1Vsz7HdIxsU"
@@ -840,17 +876,13 @@
       },
       "artists": [
         {
-          "name": "Sajid-Wajid",
-          "url": "https://open.spotify.com/artist/3qdu3XhzSzkRhbwdFKnSuw"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+          "name": "Sajid-Wajid,Benny Dayal",
+          "url": "https://open.spotify.com/artist/0T1FGnAEZ4wC0gsqLoHW02"
         }
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259069,
       "name": "Chalmaar",
       "url": "https://open.spotify.com/track/5dnUb7ZJX4JNNyFbGzqO6h"
@@ -946,7 +978,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 260855,
       "name": "Daddy Mummy",
       "url": "https://open.spotify.com/track/2HhUUQvHfYOxlSGGuuMLuR"
@@ -1024,7 +1056,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260840,
       "name": "Daddy Mummy",
       "url": "https://open.spotify.com/track/6eaGltLiHCqMkS3F821oWu"
@@ -1172,7 +1204,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 262066,
       "name": "En Aasai Mythiliye",
       "url": "https://open.spotify.com/track/44OEXE0l8fdx6oaKexx2G5"
@@ -1276,7 +1308,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262127,
       "name": "En Aasai Mythiliye",
       "url": "https://open.spotify.com/track/6DkxP58qMVRQKZMGXfaCy4"
@@ -1683,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Gilli",
+        "url": "https://open.spotify.com/album/6quR1wqFlwSoCANhnfN9r9"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan ,Sujatha",
+          "url": "https://open.spotify.com/artist/4x8Cmyqxk6tup6dAB3jdQH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274217,
+      "name": "Kokkorakko",
+      "url": "https://open.spotify.com/track/161BGczu2fn59QR7EYdjWB"
+    },
+    {
+      "album": {
         "name": "Singer Special Udit Narayan",
         "url": "https://open.spotify.com/album/49pkTxQ7Z9jvlPHFHUmvZ3"
       },
@@ -1698,7 +1748,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274217,
       "name": "Kokkorakko (From \"Gilli\")",
       "url": "https://open.spotify.com/track/1qc8U5gYUHv0wAKJlf1tMG"
@@ -1902,7 +1952,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327506,
       "name": "Mukkabla",
       "url": "https://open.spotify.com/track/4uSlUAQ6HbMbFL7XNZG2mb"
@@ -1924,7 +1974,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 323343,
       "name": "Mukkala Mukkabla",
       "url": "https://open.spotify.com/track/1qHQ6U2HSSddaH6LYs5M9t"
@@ -1994,7 +2044,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245933,
       "name": "Naan Romba",
       "url": "https://open.spotify.com/track/3Eqe0yeDWicGdBeD56OEDm"
@@ -2020,7 +2070,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245933,
       "name": "Naan Romba",
       "url": "https://open.spotify.com/track/3AveuWMomOOs92pmWeXZLZ"
@@ -2248,7 +2298,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258359,
       "name": "Pakkam Vanthu",
       "url": "https://open.spotify.com/track/2mo1jyrYHdyiekQHNKXx1C"
@@ -2270,7 +2320,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 256372,
       "name": "Pakkam Vanthu (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/73QrFjT6dth8UlR7vFOFVM"
@@ -2454,7 +2504,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281440,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/3c6Y3iJr3bm6utsdRcm30J"
@@ -2492,21 +2542,13 @@
       },
       "artists": [
         {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+          "name": "Yuvan Shankar Raja,Dhanush,Dhee",
+          "url": "https://open.spotify.com/artist/6fVqMOOw2ewl9TzT6aG7dL"
         }
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 281440,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/5YtLIhAuPcNLkfHZto0MVV"
@@ -2546,7 +2588,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 224457,
       "name": "Single Pasanga",
       "url": "https://open.spotify.com/track/5IirRCYX0AuRAZDDeOY7RA"
@@ -2576,7 +2618,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224457,
       "name": "Single Pasanga",
       "url": "https://open.spotify.com/track/4Xn3xgMPWSMIWuELgWpGbp"
@@ -2832,7 +2874,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 209640,
       "name": "Udhungada Sangu",
       "url": "https://open.spotify.com/track/24GlSNySJ9tAwkvZPuVb63"
@@ -2872,7 +2914,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209640,
       "name": "Udhungada Sangu (From \"Velai Illa Pattadhaari\")",
       "url": "https://open.spotify.com/track/2HqFDI6vgNmUcqLYlNZqE6"
@@ -3076,7 +3118,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 267942,
       "name": "What a Karavaad",
       "url": "https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY"
@@ -3098,7 +3140,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267942,
       "name": "What a Karavaad (From \"Velai Illa Pattadhaari\")",
       "url": "https://open.spotify.com/track/5TAzphopRhmXL8x6l6v4xg"
@@ -3183,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Pokkiri",
+        "url": "https://open.spotify.com/album/1fZl4OddJn9XtCi1dQli9S"
+      },
+      "artists": [
+        {
+          "name": "A.V.Ramanan, Suchitra",
+          "url": "https://open.spotify.com/artist/3jJdMHhc49cUZy597vmR6C"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269866,
+      "name": "Yen Chellaperu Apple",
+      "url": "https://open.spotify.com/track/03DbrF4AmePoHe0bWPT9NH"
+    },
+    {
+      "album": {
         "name": "Playback Singer Special - Mirchi Suchitra",
         "url": "https://open.spotify.com/album/5OR5LimC4kV6dYOIai8tYi"
       },
@@ -3198,7 +3258,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269866,
       "name": "Yen Chellaperu Apple (From \"Pokkiri\")",
       "url": "https://open.spotify.com/track/7qPCWbG6yXoOFUpdcTMaZC"

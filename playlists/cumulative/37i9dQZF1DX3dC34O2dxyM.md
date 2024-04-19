@@ -4,13 +4,14 @@
 
 > 
 
-231 songs - 7 hr 5 min
+233 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child's Legend](https://open.spotify.com/track/6kiYpTu6ZPzJMxu5iHVSkN) | [Abbey Browler](https://open.spotify.com/artist/1kGFfC3m4AXxgjEldPHcM4) | [A Child's Legend](https://open.spotify.com/album/0U4OUGtb7MY2zt8Yn8mYzY) | 1:33 | 2021-10-29 |  |
 | [A Cradle Song](https://open.spotify.com/track/60E2u8QrNYRC81CCUTWtDe) | [Nerissa Hale](https://open.spotify.com/artist/4g7kMJcLZe9HABplPVtGDb) | [Sunshine and Moonbeams](https://open.spotify.com/album/4SKRDogUPCge6dfaq3NCcU) | 1:30 | 2021-10-29 |  |
-| [A Day's Worth](https://open.spotify.com/track/5LFpPmEb0XLUXejA719JP2) | [Lunng Fern](https://open.spotify.com/artist/3uuXHV6ZEj5MlSBNjBY2c9) | [A Day's Worth](https://open.spotify.com/album/63dDQzdwERMFdAD7Kn1hM9) | 1:09 | 2021-10-29 |  |
+| [A Day's Worth](https://open.spotify.com/track/45cWUJN3WmVg8puobl5wGc) | [Lunng Fern](https://open.spotify.com/artist/3uuXHV6ZEj5MlSBNjBY2c9) | [A Day's Worth](https://open.spotify.com/album/6D7m482LLhS7YDD4IIc7WI) | 1:09 | 2021-10-29 |  |
+| [A Day's Worth](https://open.spotify.com/track/5LFpPmEb0XLUXejA719JP2) | [Lunng Fern](https://open.spotify.com/artist/3uuXHV6ZEj5MlSBNjBY2c9) | [A Day's Worth](https://open.spotify.com/album/63dDQzdwERMFdAD7Kn1hM9) | 1:09 | 2021-10-29 | 2024-04-19 |
 | [A Glass of Milk](https://open.spotify.com/track/626KaEupEkq0EgYnwI6dH5) | [Beverly Cantrell](https://open.spotify.com/artist/2ixd56Ho7BJEA3eigxgXT4) | [A Glass of Milk](https://open.spotify.com/album/7A0qy0QZunqfBzEi5cr3D5) | 1:41 | 2021-10-29 |  |
 | [A House on the Prairie](https://open.spotify.com/track/0d9XVdHfqT8HDxK1dVK4yy) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [A House on the Prairie](https://open.spotify.com/album/3xOr5J8QYzF9IjmTU8Zydu) | 1:44 | 2021-10-29 |  |
 | [A La Nanita Nana](https://open.spotify.com/track/2COCQxRW9uacNpxjT2ExTG) | [Bianca Fuentes](https://open.spotify.com/artist/56kLVWogvECAhGHFoVXlqx) | [A La Nanita Nana](https://open.spotify.com/album/3yUUlHhD1ipNcYCOL50Pt8) | 3:01 | 2021-10-29 |  |
@@ -78,7 +79,8 @@
 | [Feeling Happy](https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS) | [Chad Isaacson](https://open.spotify.com/artist/5UzSphuk1wV4EkpEpsxfJJ) | [Feeling Happy](https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz) | 1:42 | 2021-10-29 |  |
 | [Find the Rabbit](https://open.spotify.com/track/0GDw6Hmmlu6InQbf6YakPD) | [Baldwin Grey](https://open.spotify.com/artist/4tULy2gwvcYvafnuk3qzdC) | [Find the Rabbit](https://open.spotify.com/album/1vqPMljPPgF9IVhNqopH7Y) | 1:56 | 2021-10-29 |  |
 | [Fireflies](https://open.spotify.com/track/6kU7GBwbKtsio1jgyAWa9z) | [Byrne Freeman](https://open.spotify.com/artist/09NXPHIx4m5wvbplZ11jvF) | [Fireflies](https://open.spotify.com/album/3z2L0RF2qEZ01ph2WMPvTb) | 1:56 | 2021-10-29 |  |
-| [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2021-10-29 |  |
+| [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 | 2021-10-29 |  |
+| [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2021-10-29 | 2024-04-19 |
 | [Fjäriln vingad syns på Haga](https://open.spotify.com/track/5UKxbAGp8ErziOmmEekmjA) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Fjäriln vingad syns på Haga](https://open.spotify.com/album/5ixSkthGOmzkTz0U8VWYYv) | 2:05 | 2021-10-29 |  |
 | [Fly among the stars](https://open.spotify.com/track/0Dbd6GrBYOdepkuaoLkb0n) | [Tibby Andrewson](https://open.spotify.com/artist/74Pwf4cFdOvPBXYqSO1LMe) | [Fly among the stars](https://open.spotify.com/album/65Y68Q2vhmKpgdlEjUdNSF) | 1:37 | 2021-10-29 |  |
 | [Fly With Sandyman](https://open.spotify.com/track/0FaGs1cOfVWG3DQ4CV2q2q) | [Charlie Irving](https://open.spotify.com/artist/67eyk5UeOpPHzU4BGjZvZJ) | [Fly With Sandyman](https://open.spotify.com/album/5H4Obfg21B88pXqMVgkR5d) | 1:25 | 2021-10-29 |  |

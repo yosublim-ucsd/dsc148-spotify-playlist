@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 1970753,
+  "2024-04-19": 1971656,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -16536,6 +16536,24 @@
     },
     {
       "album": {
+        "name": "late days",
+        "url": "https://open.spotify.com/album/3nxugzWYnvcC5DTKEMqA47"
+      },
+      "artists": [
+        {
+          "name": "olbejom",
+          "url": "https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101481,
+      "name": "late days",
+      "url": "https://open.spotify.com/track/2nOqhb262LVJxEZtvEqqFK"
+    },
+    {
+      "album": {
         "name": "Late Night Call",
         "url": "https://open.spotify.com/album/5li4QSdvxWxkes4fRqDR3t"
       },
@@ -21865,7 +21883,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 127951,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/6Nta3FSv5BKjpJD2hkOhDI"

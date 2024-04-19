@@ -1,6 +1,6 @@
 {
   "description": "Get into the spirit of New Orleans. Cover: Wynton Marsalis",
-  "num_followers": 139974,
+  "num_followers": 139950,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
@@ -108,7 +108,7 @@
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Tootie Ma",
-        "url": "https://open.spotify.com/album/3J3E1IsJTWZJs9TSAQSVIc"
+        "url": "https://open.spotify.com/album/5Eaafx5CvjG4HIWRjOoWua"
       },
       "artists": [
         {
@@ -126,7 +126,7 @@
       ],
       "duration_ms": 265503,
       "name": "Tootie Ma",
-      "url": "https://open.spotify.com/track/0mCh7lEBaA2MMxv2TWGG9A"
+      "url": "https://open.spotify.com/track/4D4uydOUYaPKRZingpvoLg"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -524,7 +524,7 @@
       "added_at": "2021-10-08 04:02:00",
       "album": {
         "name": "Keep Your Head Up",
-        "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
+        "url": "https://open.spotify.com/album/4BSJR0EaIY1oxpZjpX0q2y"
       },
       "artists": [
         {
@@ -538,13 +538,13 @@
       ],
       "duration_ms": 185226,
       "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i"
+      "url": "https://open.spotify.com/track/3uq2fANGj5awEgr1q8R8R3"
     },
     {
       "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+        "name": "Our New Orleans",
+        "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
         }
       ],
-      "duration_ms": 220080,
+      "duration_ms": 218986,
       "name": "Canal Street Blues",
-      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+      "url": "https://open.spotify.com/track/08LDssCZG0BANHGtfXuy0O"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -591,22 +591,30 @@
     {
       "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "Drop Me Off In Harlem",
-        "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/2xuCuGJvbQxtrzt9UfUJlq"
       },
       "artists": [
+        {
+          "name": "Charlie Barnet & His Orchestra",
+          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+        },
         {
           "name": "Charlie Barnet",
           "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
         },
         {
-          "name": "Charlie Barnet & His Orchestra",
-          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+          "name": "King Oliver",
+          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
+        },
+        {
+          "name": "Clarence Williams",
+          "url": "https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe"
         }
       ],
       "duration_ms": 163533,
       "name": "West End Blues",
-      "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
+      "url": "https://open.spotify.com/track/0OHP5uq9yI8xrlovXxDaX0"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -695,8 +703,8 @@
     {
       "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "Presenting Johnny Dodds",
-        "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
+        "name": "Johnny Dodds & Jimmy Blythe 1926-1928",
+        "url": "https://open.spotify.com/album/0vTFwaAnpJLWQ42j8wE1Hn"
       },
       "artists": [
         {
@@ -710,7 +718,7 @@
       ],
       "duration_ms": 179600,
       "name": "I'm Goin' Huntin'",
-      "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
+      "url": "https://open.spotify.com/track/4gK9fOfg96Cll8RmuhSxY0"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -731,8 +739,8 @@
     {
       "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+        "name": "Our New Orleans",
+        "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
       },
       "artists": [
         {
@@ -740,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
         }
       ],
-      "duration_ms": 278440,
+      "duration_ms": 276266,
       "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
+      "url": "https://open.spotify.com/track/65sPImCpuvhK21doidXxS0"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -896,7 +904,7 @@
       "added_at": "2023-07-24 15:10:36",
       "album": {
         "name": "Stompin' Ground",
-        "url": "https://open.spotify.com/album/5PROCLSs2Zpe2VWP5RtsuL"
+        "url": "https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB"
       },
       "artists": [
         {
@@ -910,7 +918,7 @@
       ],
       "duration_ms": 271594,
       "name": "Stompin' Ground",
-      "url": "https://open.spotify.com/track/7eAyJmVmk60rHkoD0xniKM"
+      "url": "https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -1035,8 +1043,8 @@
     {
       "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "Swinging Mainstream Sides",
-        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
+        "name": "1940-1944",
+        "url": "https://open.spotify.com/album/1KNz1AGZYgT4XsJdBJ6kte"
       },
       "artists": [
         {
@@ -1044,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
         }
       ],
-      "duration_ms": 192937,
+      "duration_ms": 192933,
       "name": "When I Get You Alone Tonight",
-      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
+      "url": "https://open.spotify.com/track/6664rP47lpTZsxTAUL9GLY"
     },
     {
       "added_at": "2021-10-08 04:02:00",

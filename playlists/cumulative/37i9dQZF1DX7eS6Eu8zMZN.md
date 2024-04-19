@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-82 songs - 4 hr 53 min
+83 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,19 +29,20 @@
 | [El Amor Despues Del Amor](https://open.spotify.com/track/2UInWUPg1jiOkXWCBr2CKD) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Amor Despues Del Amor](https://open.spotify.com/album/3u8jj80tHV1wlNcrT4QEdI) | 3:00 | 2021-05-13 |  |
 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 | 2021-05-13 |  |
 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 | 2021-05-13 |  |
+| [El Universo](https://open.spotify.com/track/0YBn48a0CAaS8I7FpcWAvv) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/3TOpU3w0sTPPSKl8yt323D) | 2:16 | 2024-03-04 |  |
 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
-| [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 |  |
+| [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 | 2024-04-19 |
 | [Enemigo Noches De Salón \- Noches De Salón](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo Noches De Salón](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 | 2023-05-29 |  |
 | [Eres](https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Eres](https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg) | 3:33 | 2021-05-13 |  |
 | [Es Tan Facil Romper Un Corazon \(feat\. Mau Barona\)](https://open.spotify.com/track/0hbK1n62deXhuCCRXA3ZhL) | [Chris Correa](https://open.spotify.com/artist/6gP0olVV5ChX9cwrwv2dBK) | [Es Tan Facil Romper Un Corazon \(feat\. Mau Barona\)](https://open.spotify.com/album/6BKsP9ow0lUGA3mhREMoAx) | 3:44 | 2021-05-13 |  |
-| [Filofobia](https://open.spotify.com/track/0gTiTi0wm2EieibQieFBZ6) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/651EBLpZFKrIrLuabctBzp) | 3:02 | 2023-09-08 |  |
-| [Filofobia](https://open.spotify.com/track/4AmGJdxDucTNGfqJmIUzno) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/5eRPK0NiYLmAnTGt8X8lvP) | 3:02 | 2023-02-24 | 2023-11-08 |
+| [Filofobia](https://open.spotify.com/track/0gTiTi0wm2EieibQieFBZ6) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/651EBLpZFKrIrLuabctBzp) | 3:02 | 2023-09-08 | 2024-04-19 |
+| [Filofobia](https://open.spotify.com/track/4AmGJdxDucTNGfqJmIUzno) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/5eRPK0NiYLmAnTGt8X8lvP) | 3:02 | 2023-02-24 |  |
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-05-13 |  |
 | [Fotografía \- En Directo](https://open.spotify.com/track/4csQ5jSxzM9NOmqjHhUHBj) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Manual De Viaje A Un Lugar Lejano \(En Directo\)](https://open.spotify.com/album/2ulvRTw9dtLhbHO5msBG2t) | 5:00 | 2021-05-13 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2021-05-13 |  |
 | [Hogar](https://open.spotify.com/track/03DmOgo2fx4S5Baa0OzQbP) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Hogar](https://open.spotify.com/album/0kwVjm6F6vGo2Ef1G2mc4Q) | 2:52 | 2023-05-19 |  |
-| [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 | 2021-05-13 | 2022-07-29 |
-| [Háblame \- Versión Acústica](https://open.spotify.com/track/5N1OvG5Hu2XpKpMSNwyEh8) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Háblame](https://open.spotify.com/album/5zXa4mmHtwLtfeu3n3xyaK) | 5:16 | 2021-05-13 |  |
+| [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 | 2021-05-13 |  |
+| [Háblame \- Versión Acústica](https://open.spotify.com/track/5N1OvG5Hu2XpKpMSNwyEh8) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Háblame](https://open.spotify.com/album/5zXa4mmHtwLtfeu3n3xyaK) | 5:16 | 2021-05-13 | 2024-04-19 |
 | [Infinito](https://open.spotify.com/track/6vDU3LYv7ElyyDqghIbYNO) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Infinito](https://open.spotify.com/album/0lNsHCDXKw0g7uhypZLlm1) | 3:40 | 2021-05-13 |  |
 | [Jardin](https://open.spotify.com/track/59qjlwBAL2m3ggriczGJit) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:28 | 2021-05-13 |  |
 | [La Celula Que Explota](https://open.spotify.com/track/0RZ5fW0i0FfCHCpteE5eJG) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [La Celula Que Explota](https://open.spotify.com/album/0q9Zisx8hUfS1HalF2C38m) | 2:12 | 2021-05-13 |  |

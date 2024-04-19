@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "1999 (Live In Syracuse, March 30, 1985 - 2022 Remaster)",
+        "url": "https://open.spotify.com/album/6PH7MvAOE9TQ7aPBlloSj1"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350833,
+      "name": "1999 - Live In Syracuse, March 30, 1985 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/4heRpFCggelQZAH1ooCP7n"
+    },
+    {
+      "album": {
         "name": "Prince and The Revolution: Live (2022 Remaster)",
         "url": "https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350833,
       "name": "1999 - Live In Syracuse, March 30, 1985 - 2022 Remaster",
       "url": "https://open.spotify.com/track/6ADP8ay0KMHR0A3ZYQOqdG"
@@ -150,7 +168,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 304933,
       "name": "Chase Me",
       "url": "https://open.spotify.com/track/1lFUQF7P2Q7hNCMTQTJAkk"
@@ -168,7 +186,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304933,
       "name": "Chase Me",
       "url": "https://open.spotify.com/track/3vhfiewsuPAtFycAwemxa8"
@@ -348,7 +366,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340289,
       "name": "Give The People What They Want (Live)",
       "url": "https://open.spotify.com/track/1zf98O3j5rvVXtJLpbLChz"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 340289,
       "name": "Give The People What They Want - Live",
       "url": "https://open.spotify.com/track/3effuRQdgwj6idFkCsBPG5"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 395213,
       "name": "Outrageous - Live",
       "url": "https://open.spotify.com/track/2hSp6cCkYSeaDHAwrzEJrF"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 395213,
       "name": "Outrageous - Live",
       "url": "https://open.spotify.com/track/51WQakjhwsoPZ1Wr4clgoa"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 496033,
       "name": "Own Me - Live at Pikes Ibiza",
       "url": "https://open.spotify.com/track/3EvJZh4uA88IeMWyiuHTxi"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 496033,
       "name": "Own Me - Live at Pikes Ibiza",
       "url": "https://open.spotify.com/track/68pP7yZDSypoO61c71GmMD"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 157773,
       "name": "She's Strange",
       "url": "https://open.spotify.com/track/1oQRTKLcFe5E3ZObO8iz8b"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157773,
       "name": "She's Strange",
       "url": "https://open.spotify.com/track/78AYdEtpEKV8KNjWnB3cjS"
@@ -892,10 +910,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328521,
       "name": "Sing a Simple Song - Summer of Soul Soundtrack - Live at the 1969 Harlem Cultural Festival",
       "url": "https://open.spotify.com/track/334p9xIUvVhSzq5HJFip3C"
+    },
+    {
+      "album": {
+        "name": "Sing a Simple Song (Summer of Soul Soundtrack - Live at the 1969 Harlem Cultural Festival)",
+        "url": "https://open.spotify.com/album/7wqQnjGO42qvyEH9WpK526"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328521,
+      "name": "Sing a Simple Song - Summer of Soul Soundtrack - Live at the 1969 Harlem Cultural Festival",
+      "url": "https://open.spotify.com/track/5QXkkwJWTSAoNVsHZtMslW"
     },
     {
       "album": {

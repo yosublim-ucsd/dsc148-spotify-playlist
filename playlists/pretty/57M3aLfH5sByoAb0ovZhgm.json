@@ -6,7 +6,7 @@
     "name": "Smit Mehta",
     "url": "https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz"
   },
-  "snapshot_id": "MTQ3LGVkNDg5OTgxNDQ5ZTFmN2U2OGFmN2VhZmE1NjFkOTM5MTk5YjAxZWQ=",
+  "snapshot_id": "MTQ4LGQ0ZmMxNGVhMzNjNDIyMTVjNGMwMjU2N2MwMWRiOWE0MjFhNzkyNGQ=",
   "tracks": [
     {
       "added_at": "2023-06-10 13:20:10",
@@ -2163,6 +2163,30 @@
       "duration_ms": 231882,
       "name": "Raaton Mein",
       "url": "https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ"
+    },
+    {
+      "added_at": "2024-04-17 06:36:03",
+      "album": {
+        "name": "Merry Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ta3Yg6C2BRudYedr3o5vr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Varun Grover",
+          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Dil Ki Mez (From \"Merry Christmas\")",
+      "url": "https://open.spotify.com/track/3J5MyBYgvaAIfCquTXrbyx"
     }
   ],
   "unique_name": "Aish",

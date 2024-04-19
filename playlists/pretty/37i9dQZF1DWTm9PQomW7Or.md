@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 
 > Enjoy the JTBC drama 'IDOL : The Coup,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '아이돌'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,310 likes - 26 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,309 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 | 14 | [Pray](https://open.spotify.com/track/4HVoeNktpoi2L8MMhtPcLJ) | [GA EUN](https://open.spotify.com/artist/6wDE43fDrn0khXMlj5jJHJ) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 4:39 |
 | 15 | [A Better Day \(feat\. Ryu Sang Do\)](https://open.spotify.com/track/7g9Flkqh2FFxnIiPshw92Q) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Ryu Sang Do](https://open.spotify.com/artist/278d4WkxWHWATbbYcUzEPq) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 3:17 |
 | 16 | [Again](https://open.spotify.com/track/4aDnJ9Brqanvy0lSBWzIZi) | [Hodge](https://open.spotify.com/artist/6kCDM3taYbKQFVrodiSUK7) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 4:12 |
-| 17 | [Sometimes](https://open.spotify.com/track/3LP8X7wPZqU1FmkCSoxsqM) | [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 3:48 |
-| 18 | [Talking to the Moon](https://open.spotify.com/track/64VDNojMK1crDdPeXJdxLT) | [Kim Min Kyu](https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz), [Cho Jun Young](https://open.spotify.com/artist/6RhT6uaJNqzRej3y1Ha5SH) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 3:11 |
-| 19 | [Fly Up](https://open.spotify.com/track/6iUcZ7QAxt1C6gDd9CkGEk) | [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 4:06 |
+| 17 | [Sometimes](https://open.spotify.com/track/3KOqoSBMwOeKMKrx7toVza) | [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/3dElJrHIi81jpc32vyeCbI) | 3:48 |
+| 18 | [Talking to the Moon](https://open.spotify.com/track/0oJq7p6rvOa1RjiDoHi22A) | [Kim Min Kyu](https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz), [Cho Jun Young](https://open.spotify.com/artist/6RhT6uaJNqzRej3y1Ha5SH) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/3dElJrHIi81jpc32vyeCbI) | 3:11 |
+| 19 | [Fly Up](https://open.spotify.com/track/3fP5W65WQXYiQWxLMfiE68) | [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/3dElJrHIi81jpc32vyeCbI) | 4:06 |
 | 20 | [Honest](https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 |
 | 21 | [Bloom](https://open.spotify.com/track/7huP0epHGaopyXN3a51cPb) | [EXY](https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 |
 | 22 | [Talking to the Moon](https://open.spotify.com/track/5CL2EV991BxsyPyY9dv5Pb) | [Kim Min Kyu](https://open.spotify.com/artist/5rGTIicetUCmoXHgpU7fKz), [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:11 |

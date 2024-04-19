@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Girl Ultra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,341 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,198 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 64 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
 | 65 | [Haría Lo Que Fuera \(Menos Lo Que Tú Quieras\)](https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Haría Lo Que Fuera \(Menos Lo Que Tú Quieras\)](https://open.spotify.com/album/3aYPdrenPlKJpMcE6lUNFH) | 3:42 |
 | 66 | [Buenas](https://open.spotify.com/track/3LkGfiqjUbg7gzYlDeLmEG) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Abajo Del Sol](https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t) | 2:56 |
-| 67 | [Aeronostalgia](https://open.spotify.com/track/5r7q1ilvnK3MSjXVJ5x4a5) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0) | [Aeronostalgia](https://open.spotify.com/album/0oQDaUfgj0AVb0tigPuIsX) | 3:47 |
+| 67 | [Aeronostalgia \(feat\. J\)](https://open.spotify.com/track/3RGdkhavDsgwonblfcKrcm) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0) | [Aeronostalgia \(feat\. J\)](https://open.spotify.com/album/0qTiWQtWepKSaNCLfFxccp) | 3:47 |
 | 68 | [Besar](https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Besar](https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2) | 3:25 |
 | 69 | [Apasionadamente](https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Juan Pablo de Mendonça](https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT) | [Sed de Ternura Vol.1 \(Duo Set\)](https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA) | 3:07 |
 | 70 | [En Medio De Una Fiesta \- En Vivo en Teatro Coliseo, 18 Nov 2023](https://open.spotify.com/track/2cVEzCSKigiCigFg6a2PPY) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [En Medio De Una Fiesta \(En Vivo en Teatro Coliseo, 18 Nov 2023\)](https://open.spotify.com/album/6pILIUvTn0DFHs9Yra4MgV) | 4:49 |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/69gRFGOWY9OMpFJgFol1u0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/717UG2du6utFe7CdmpuUe3) | 0:00 | 2014-03-20 |  |
+| [](https://open.spotify.com/track/69gRFGOWY9OMpFJgFol1u0) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/717UG2du6utFe7CdmpuUe3) | 0:00 | 2014-03-20 |  |
 | [A Millie](https://open.spotify.com/track/3EHaOiEcKmL5Ko62HpTITL) | [Ceazer](https://open.spotify.com/artist/70fopN00PwpPOAExmMXDah), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Chris Brown](https://open.spotify.com/artist/396wvM69VtHgLZSfFB0pyH) | [The Features](https://open.spotify.com/album/6Ufl6MVUFELqJp0yzqhTYB) | 5:47 | 2014-03-20 |  |
 | [A Public Affair](https://open.spotify.com/track/2rmjrqv4T9cnweOSudH97N) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/26PuctMKg6pHMN8TZZJaLe) | 3:21 | 2014-03-20 |  |
 | [Beautiful Girls](https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/71clfVkkopYLrgweVj2cow) | 3:45 | 2014-03-20 |  |

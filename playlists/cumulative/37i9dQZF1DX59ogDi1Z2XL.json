@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: TOBi",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: NAV & Metro Boomin",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184543,
       "name": "'96 Bulls (feat. Drezus)",
       "url": "https://open.spotify.com/track/0cNLTORxh13lT9QQQlI9jG"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130909,
       "name": "2wice Again",
       "url": "https://open.spotify.com/track/1ozcu6sqh1hoecOs3SVKSd"
@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173823,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
+    },
+    {
+      "album": {
         "name": "Baggage",
         "url": "https://open.spotify.com/album/0yBw5YTnSNceFl8CK25vyi"
       },
@@ -2402,6 +2420,24 @@
       "duration_ms": 218666,
       "name": "Bar 4 Bar Champ 2023",
       "url": "https://open.spotify.com/track/1P2Un5t2ybxh43Wz5eSuF6"
+    },
+    {
+      "album": {
+        "name": "BBE",
+        "url": "https://open.spotify.com/album/4P15AVqGcbL9zWTZ03EBfC"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "BBE",
+      "url": "https://open.spotify.com/track/1C4sXv58De3qibMjjPyNaB"
     },
     {
       "album": {
@@ -3130,6 +3166,28 @@
       "duration_ms": 208622,
       "name": "Bill",
       "url": "https://open.spotify.com/track/6Q8cOsrmZHZkz1WZtTegoU"
+    },
+    {
+      "album": {
+        "name": "Mum, Pray for Your Son",
+        "url": "https://open.spotify.com/album/7ehEgkqVomqg80YURfqPht"
+      },
+      "artists": [
+        {
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+        },
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148400,
+      "name": "Billboard Face",
+      "url": "https://open.spotify.com/track/1Zaac2d6XmkUGluCwggXhA"
     },
     {
       "album": {
@@ -4140,7 +4198,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
@@ -4858,7 +4916,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184844,
       "name": "CHINA TOWN (with Lil B)",
       "url": "https://open.spotify.com/track/2L1cQlKseX7072avKhCupy"
@@ -4938,7 +4996,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210731,
       "name": "Chosen One",
       "url": "https://open.spotify.com/track/2Q5FoIA0q59nRE9Ojn2LuK"
@@ -5126,7 +5184,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 102746,
       "name": "CMON FREESTYLE",
       "url": "https://open.spotify.com/track/2CSUpKbvwm1kWfjuNjKAyM"
@@ -7675,6 +7733,24 @@
     },
     {
       "album": {
+        "name": "EXILE",
+        "url": "https://open.spotify.com/album/5IHzEYFut8MFiEyf0vO7iy"
+      },
+      "artists": [
+        {
+          "name": "Wave Montega",
+          "url": "https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "EXILE",
+      "url": "https://open.spotify.com/track/0tnFlTf1EEwTwnZBaJpNSQ"
+    },
+    {
+      "album": {
         "name": "Expendables",
         "url": "https://open.spotify.com/album/3oNi7P7PlABJZ6JGirplzJ"
       },
@@ -7986,6 +8062,24 @@
       "duration_ms": 181293,
       "name": "Fam Without Blood",
       "url": "https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0"
+    },
+    {
+      "album": {
+        "name": "FAMOUS.",
+        "url": "https://open.spotify.com/album/4JeveqBfuL7HgGLuCns8hG"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115884,
+      "name": "FAMOUS.",
+      "url": "https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt"
     },
     {
       "album": {
@@ -8808,7 +8902,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183887,
       "name": "FORKS ON THE ROAD",
       "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
@@ -9880,7 +9974,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224782,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
@@ -12012,6 +12106,28 @@
       "duration_ms": 130582,
       "name": "I'm Kind of a Big Deal",
       "url": "https://open.spotify.com/track/5GVuVoKCCaaVZJyq0gbOk3"
+    },
+    {
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/6OYkIKxCkaOhvTCgmjnbTx"
+      },
+      "artists": [
+        {
+          "name": "Astrokidjay",
+          "url": "https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE"
+        },
+        {
+          "name": "Streameum",
+          "url": "https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132216,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/0RtNV22OlQUAZrOc4JKOA0"
     },
     {
       "album": {
@@ -16960,7 +17076,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127678,
       "name": "No Adlibs",
       "url": "https://open.spotify.com/track/1nn0LMyZv1PZShC7sZ75Ys"
@@ -17852,7 +17968,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167989,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/4hLL7Gq1saeR6cyHCMP9d0"
@@ -18060,6 +18176,24 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
+        "name": "Oi Woi",
+        "url": "https://open.spotify.com/album/1b0XVF2s05GMWb1k6IraQc"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Oi Woi",
+      "url": "https://open.spotify.com/track/3cH3qCsEGDJqjhMiP3YPGX"
     },
     {
       "album": {
@@ -19905,6 +20039,28 @@
     },
     {
       "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182081,
+      "name": "Port d'arme",
+      "url": "https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ"
+    },
+    {
+      "album": {
         "name": "Posts",
         "url": "https://open.spotify.com/album/5siEfiKTiUgxd4hpmAJcbM"
       },
@@ -19938,7 +20094,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123134,
       "name": "Potential - Lolo Zoua\u00ef Remix",
       "url": "https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4"
@@ -23565,6 +23721,28 @@
     },
     {
       "album": {
+        "name": "ROLLERCOASTER",
+        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123300,
+      "name": "Sting",
+      "url": "https://open.spotify.com/track/7GmuQj6yMYPtY4Mww0PXUK"
+    },
+    {
+      "album": {
         "name": "Stonecold",
         "url": "https://open.spotify.com/album/2yVnH0b9rwGfriWFOYPo1s"
       },
@@ -23793,6 +23971,24 @@
     },
     {
       "album": {
+        "name": "Subhuman",
+        "url": "https://open.spotify.com/album/5au2yEaIbu9B99MZU1G0DM"
+      },
+      "artists": [
+        {
+          "name": "Swollen Members",
+          "url": "https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142122,
+      "name": "Subhuman",
+      "url": "https://open.spotify.com/track/6ptLqwWk1mIXXv3SyrFXrk"
+    },
+    {
+      "album": {
         "name": "Summer '23",
         "url": "https://open.spotify.com/album/2cPogalXYynhKFCuJZ7sDH"
       },
@@ -23844,7 +24040,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248918,
       "name": "Summer Off",
       "url": "https://open.spotify.com/track/2XjgrWfrSRxYgikuKcVPe2"
@@ -24607,6 +24803,28 @@
     },
     {
       "album": {
+        "name": "That's All, That's It",
+        "url": "https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG"
+      },
+      "artists": [
+        {
+          "name": "Danny Miles",
+          "url": "https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi"
+        },
+        {
+          "name": "SHAD",
+          "url": "https://open.spotify.com/artist/5MxQZFj0dZlvwo2bIFfE3p"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "That's All, That's It",
+      "url": "https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY"
+    },
+    {
+      "album": {
         "name": "That's Your Problem (STANK HOEZ)",
         "url": "https://open.spotify.com/album/3GGOTvsEcjfZFBoHLLuL6H"
       },
@@ -24728,7 +24946,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149000,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/1VVZxD70eePR5RwLMnWV6Q"
@@ -26802,7 +27020,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143684,
       "name": "vintage.",
       "url": "https://open.spotify.com/track/0yvc2gWf7Wdq0GmCghJWIm"
@@ -26854,6 +27072,28 @@
       "duration_ms": 189094,
       "name": "W",
       "url": "https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8"
+    },
+    {
+      "album": {
+        "name": "W C H M F",
+        "url": "https://open.spotify.com/album/2eSK890DrcsHSalnKV4s3Q"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155114,
+      "name": "W C H M F",
+      "url": "https://open.spotify.com/track/6pLSFwxOWflPR0aq3WL0jQ"
     },
     {
       "album": {
@@ -26916,6 +27156,24 @@
       "duration_ms": 139267,
       "name": "Wagwan",
       "url": "https://open.spotify.com/track/6Pfq8pHYsT5Va9FxndlIT4"
+    },
+    {
+      "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E"
+      },
+      "artists": [
+        {
+          "name": "Backxwash",
+          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427456,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV"
     },
     {
       "album": {

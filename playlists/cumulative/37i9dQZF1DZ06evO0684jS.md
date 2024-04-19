@@ -2,7 +2,7 @@
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This Is Nicki Minaj\. Все лучшие треки в одном плейлисте.
+> This is Nicki Minaj\. De viktigste sporene samlet i én spilleliste.
 
 65 songs - 3 hr 50 min
 

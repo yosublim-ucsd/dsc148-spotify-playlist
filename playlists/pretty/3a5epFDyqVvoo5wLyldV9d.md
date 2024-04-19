@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 40 likes - 777 songs - 2 day 12 hr 49 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 40 likes - 779 songs - 2 day 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 132 | [Koroko](https://open.spotify.com/track/2RKP1s8sIrugoaiweuijUZ) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Seya](https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6) | 4:21 |
 | 133 | [Morning](https://open.spotify.com/track/7dEvUHcPU9jCXeYkKnHGKi) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azymuth \(Deluxe Edition\)](https://open.spotify.com/album/7cJw0FdllksLJIrybMDzx9) | 3:48 |
 | 134 | [Prepad](https://open.spotify.com/track/6r4Nt3xMAHyRyDaqQ12F7t) | [Boban Petrovic](https://open.spotify.com/artist/7MM8Sbg5RXuH4fjcfPews2) | [Aor Global Sounds, Vol\. 2](https://open.spotify.com/album/323GyC8SJ4lsfKA9Z84EwC) | 4:07 |
-| 135 | [夢中人](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 |
+| 135 | [夢中人 \- 電影《重慶森林》歌曲](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 |
 | 136 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
 | 137 | [TOWN](https://open.spotify.com/track/33VIYJ7IFfPdCPu6i1Da1A) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONSTERS IN TOWN](https://open.spotify.com/album/1NHWRGtO832yHDNLUNAaoE) | 6:19 |
 | 138 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 |
@@ -785,5 +785,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 775 | [Napoli Visionaria](https://open.spotify.com/track/0H0XrzteLyHBQCh9UMkMDr) | [Bassolino](https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx) | [Città Futura](https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw) | 4:52 |
 | 776 | [Vivo Sarai \(Staying Alive\)](https://open.spotify.com/track/60M9lkPZ9pKzbyUWtbGqUz) | [Eva Eva Eva](https://open.spotify.com/artist/6EQNQjeMslKvAI1NvxB7qw) | [Disco Dance 70\-80](https://open.spotify.com/album/10Qyu68tpvcI2fhhAaTnf3) | 4:02 |
 | 777 | [All You Want Is More](https://open.spotify.com/track/0o7d1jmkZlwWGwsKQAhlLI) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Out On My Own](https://open.spotify.com/album/5QsrculEaYllEV6y7UGfWb) | 4:18 |
+| 778 | [San Salvador](https://open.spotify.com/track/7qwX54OM0eAWxFD2pYWejF) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz](https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz) | 6:56 |
+| 779 | [Pangua zô pile moin](https://open.spotify.com/track/2tFqiHFTItjvh2Ot71hdVQ) | [Fred Aucagos](https://open.spotify.com/artist/4vP4uEiX0sunTFcokup8ks) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:41 |
 
-Snapshot ID: `ODcwLGJkNjAyZTk2YWJhZGQ5ZGJjZTFjZmY3YWQzNzA4OTk1MmViMTMxYmQ=`
+Snapshot ID: `ODcyLDdhNDRiODI0MDgzZGZiNmZlNzcyMDc0YTMxNDYzNmY4ZGY0YzNmZGI=`

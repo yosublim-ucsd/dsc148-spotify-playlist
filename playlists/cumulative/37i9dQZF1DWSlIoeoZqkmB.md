@@ -4,16 +4,17 @@
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
 
-40 songs - 2 hr 22 min
+42 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [bi\-dama](https://open.spotify.com/track/6jYimcDQCoeWPZT7YW1u2W) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Close to heart](https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt) | 3:27 | 2024-02-01 |  |
+| [bi\-dama](https://open.spotify.com/track/6jYimcDQCoeWPZT7YW1u2W) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Close to heart](https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt) | 3:27 | 2024-02-01 | 2024-04-19 |
 | [Blessing](https://open.spotify.com/track/06Ib3ZdvO0VyAZMdq0qpaw) | [千葉翔也](https://open.spotify.com/artist/4K9KcKXSLwOVO44wHuxML1) | [Blessing](https://open.spotify.com/album/2fg7Y4nRH7bTtqO9wSOMJm) | 4:19 | 2024-02-01 |  |
 | [DREAMS](https://open.spotify.com/track/655tvyhcRmteX32HfJVAdz) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [DREAMS](https://open.spotify.com/album/4EuIn0YldaIEf1I0iayIkg) | 5:01 | 2024-02-01 |  |
 | [Endless Story](https://open.spotify.com/track/0B6veGzy6V963S3if0GSRu) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [Endless Story](https://open.spotify.com/album/588Kj4NiJvr3hICx3y0YDd) | 3:45 | 2024-02-01 |  |
-| [ETERNAL WIND ～ほほえみは光る風の中～](https://open.spotify.com/track/17aPi5ECRAHKv1514TS5vK) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL SONGS Ⅱ](https://open.spotify.com/album/5OCkvfHPhvPTSwuBjz5fAg) | 4:45 | 2024-02-15 |  |
+| [ETERNAL WIND ～ほほえみは光る風の中～](https://open.spotify.com/track/17aPi5ECRAHKv1514TS5vK) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL SONGS Ⅱ](https://open.spotify.com/album/5OCkvfHPhvPTSwuBjz5fAg) | 4:45 | 2024-02-15 | 2024-04-19 |
 | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 | 2024-02-01 | 2024-02-17 |
+| [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/track/6mQ21G95DbpTi6k4yAdjIn) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~ほほえみは光る風の中\~](https://open.spotify.com/album/5zUHNnaU49aSDUaZ28dXXu) | 4:45 | 2024-02-29 |  |
 | [Freestyle Lover](https://open.spotify.com/track/2QwawnZ9rdnGhXWd7jJDIx) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [DETONATOR](https://open.spotify.com/album/3Ii5xT9Sreevb2z0eun83F) | 3:44 | 2024-02-01 |  |
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2024-02-01 |  |
 | [Horizon 2003](https://open.spotify.com/track/0d8Eg72yZBf7ojJ26QbkrK) | [國府田マリ子](https://open.spotify.com/artist/2zWZbDh3WpGrALfJb5CgSj) | [My Best Friend 3](https://open.spotify.com/album/2LfcYSsLK1nY31TQd3vAr6) | 5:22 | 2024-02-01 |  |
@@ -42,6 +43,7 @@
 | [スクラップアート](https://open.spotify.com/track/4aH955P1E3svLs4NPNAewA) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/42jpClLjVy7znnAmzNUJfI) | 3:33 | 2024-02-01 |  |
 | [スターチス](https://open.spotify.com/track/3WpkBKPICz2m3cxZaaVA19) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [スターチス](https://open.spotify.com/album/398wuzoQbshuwpTcTQdZSC) | 4:03 | 2024-02-01 |  |
 | [ディア・パンタレイ](https://open.spotify.com/track/4nMTH2T9Cj4jxLCF8fLigp) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ディア・パンタレイ](https://open.spotify.com/album/3OnnSAL9s1IWt1vR622lyI) | 4:12 | 2024-02-01 |  |
+| [ビー玉](https://open.spotify.com/track/1M56Vye0XjJLwQiODEHKhz) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Close to heart](https://open.spotify.com/album/7uSCfSGI6NzaZyCO16bqnA) | 3:27 | 2024-02-29 |  |
 | [人なんだ](https://open.spotify.com/track/6CZzcCnBPSNIHKb1c29lB4) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [人なんだ](https://open.spotify.com/album/0nKpIhPmduqYZ5e6o7pr0q) | 4:55 | 2024-02-01 |  |
 | [嵐の中で輝いて](https://open.spotify.com/track/7wNP6adsYPuAfE6kpVrCP9) | [Chihiro Yonekura](https://open.spotify.com/artist/4vhezQRmmI48a5uigqV180) | [25 YEARS AFTER ～All Time Best～](https://open.spotify.com/album/2rLAVu5MHjRFXR3pWzzC3S) | 4:16 | 2024-02-01 |  |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2024-02-01 |  |

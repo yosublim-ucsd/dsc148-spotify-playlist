@@ -38,8 +38,8 @@
 | [어머님께](https://open.spotify.com/track/3731F2mROqxhXB4gtdteLn) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 1](https://open.spotify.com/album/7nXgDEsZZdp3ri3WtDNS8v) | 4:15 | 2023-06-06 |  |
 | [엄마로 산다는 것은](https://open.spotify.com/track/64nEK5eNrJgLIXsjcH8k9V) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [K팝 스타 시즌4 \`엄마로 산다는 것은\`](https://open.spotify.com/album/2PWqUtdLKYUEHSo1qBcEqb) | 2:54 | 2023-06-22 | 2023-12-16 |
 | [엄마로 산다는 것은](https://open.spotify.com/track/3w0hU4ljjvZN7sb1Ch1Gzk) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [K팝 스타 시즌4 엄마로 산다는 것은](https://open.spotify.com/album/4mHoxWJ57E6WinNmIAhE47) | 2:54 | 2023-06-06 |  |
-| [지금이 우리의 전부](https://open.spotify.com/track/0YRZJRVNOsiwAuAFkA6qq9) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [지금이 우리의 전부](https://open.spotify.com/album/4rMy2rJVLXBdlhnGvWyPMf) | 3:15 | 2023-06-22 |  |
-| [지금이 우리의 전부](https://open.spotify.com/track/7f3WNw4UdMs9IrRdt36yRj) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [지금이 우리의 전부](https://open.spotify.com/album/09RGAbZaeX5z2eGSs97LCA) | 3:15 | 2023-06-06 | 2024-01-08 |
+| [지금이 우리의 전부](https://open.spotify.com/track/0YRZJRVNOsiwAuAFkA6qq9) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [지금이 우리의 전부](https://open.spotify.com/album/4rMy2rJVLXBdlhnGvWyPMf) | 3:15 | 2023-06-22 | 2024-04-19 |
+| [지금이 우리의 전부](https://open.spotify.com/track/7f3WNw4UdMs9IrRdt36yRj) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [지금이 우리의 전부](https://open.spotify.com/album/09RGAbZaeX5z2eGSs97LCA) | 3:15 | 2023-06-06 |  |
 | [황혼의 문턱](https://open.spotify.com/track/7p09HfcAITKOpoF0PjPJJ8) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax 4](https://open.spotify.com/album/36AQk4c5ynxBY8XDikd01n) | 4:25 | 2023-06-06 |  |
 
 \*This playlist was first scraped on 2023-06-08. Prior content cannot be recovered.

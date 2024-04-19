@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,620 likes - 110 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,622 likes - 110 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 27 | [哈尼](https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [哈尼](https://open.spotify.com/album/40VT86rXZCTHUPXukA467i) | 3:42 |
 | 28 | [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 |
 | 29 | [尖峰時刻](https://open.spotify.com/track/2IyHKMapQ8jd0TR0HLOmXz) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v), [$$uperCandy](https://open.spotify.com/artist/2Ot755UXUl6Q7l3V7xnjoJ) | [尖峰時刻](https://open.spotify.com/album/5EQEgqYPgnMzQk6XAkS0lB) | 2:55 |
-| 30 | [Never Again](https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK) | 4:00 |
+| 30 | [不再可以](https://open.spotify.com/track/6GsZOW5IBV20TP2V4j4rAr) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/7u2tfOPAU2ZzHCEPKPKtX3) | 4:00 |
 | 31 | [認愛](https://open.spotify.com/track/1FlxaEDo7hem6lCg7kmEIN) | [GX \(鼓鼓 呂思緯、蕭秉治\)](https://open.spotify.com/artist/288ePKcM3N0VLXFIGuv4LV) | [認愛](https://open.spotify.com/album/0fvwfM52fLbB0XLtXJT8Hf) | 3:48 |
 | 32 | [害怕唱情歌](https://open.spotify.com/track/3PGZ33oa36gsf8hNVKXe5V) | [云汐](https://open.spotify.com/artist/7hcRBeXgHkJKfg7uGMr7ag) | [害怕唱情歌](https://open.spotify.com/album/6A0A6TH8UvOz67TZ3B1gXt) | 3:32 |
 | 33 | [我愛你對不起 謝謝你沒關係](https://open.spotify.com/track/00jPopb33woapLbXAe4e1t) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [我愛你對不起 謝謝你沒關係](https://open.spotify.com/album/4qF7TO24rkByR998SX23lT) | 5:05 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 103 | [救星](https://open.spotify.com/track/67zsf9eD1IcPLvwpwlRj2T) | [K.D](https://open.spotify.com/artist/1Kn5WKQFcYYojw06mRLeAV) | [救星](https://open.spotify.com/album/0xRqBzD9CPrqT6v09UzLSk) | 3:59 |
 | 104 | [當我離開以後](https://open.spotify.com/track/7Gg2u4nSMGRpjjWu8a4Nsl) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi) | [當我離開以後](https://open.spotify.com/album/3Xq0m2Yd56pxSWSptGICf4) | 4:48 |
 | 105 | [本世紀最怪](https://open.spotify.com/track/7k5eVvETDVDNJUrqBWdnGi) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [本世紀最怪](https://open.spotify.com/album/41XHCYpNdlcPtgyM6gORc7) | 5:02 |
-| 106 | [心锚](https://open.spotify.com/track/7mbrCYWBWGlTwNLLOtXvRY) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [心錨](https://open.spotify.com/album/7fJgHlMNoZzCzt1GzNHbdu) | 4:28 |
+| 106 | [心锚](https://open.spotify.com/track/08WKNnRQYRGsFnzanawMTn) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [心锚](https://open.spotify.com/album/5eUA16SRa2Cx4aCxX4uiHo) | 4:28 |
 | 107 | [像做一場夢](https://open.spotify.com/track/2ENzBNp5UQDY28JtHWjwSE) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [像做一場夢](https://open.spotify.com/album/2tUeTLb4EsCEXnH9VoaCFh) | 4:36 |
 | 108 | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 |
 | 109 | [先生几位](https://open.spotify.com/track/7FT2JF15SiaETLwLpmGtg6) | [甘草片r](https://open.spotify.com/artist/2KAigK3r6FbiuX4Q3XbXsw) | [先生几位](https://open.spotify.com/album/3EsGZBEFpd9lJUsKOJH3z4) | 3:24 |

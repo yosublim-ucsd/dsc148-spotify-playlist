@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "BLACK DOG / WHITE HORSE",
+        "url": "https://open.spotify.com/album/71gslL2qa2QaPuZvQsWihW"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188721,
+      "name": "BLACK DOG / WHITE HORSE",
+      "url": "https://open.spotify.com/track/2C0fTD8sK5gNETLEg5PqUj"
+    },
+    {
+      "album": {
         "name": "BLACK DOG / WHITE HORSE (bd/wh)",
         "url": "https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188721,
       "name": "BLACK DOG / WHITE HORSE",
       "url": "https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz"
@@ -816,6 +834,24 @@
     {
       "album": {
         "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/5Q6OigtVlM8tFCr3ebBrOC"
+      },
+      "artists": [
+        {
+          "name": "The LaFontaines",
+          "url": "https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203381,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/0wlM6ob7PFbUQSamDGT5No"
+    },
+    {
+      "album": {
+        "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4o3UY5DJ6KsZzHxBLsHjkN"
       },
       "artists": [
@@ -826,7 +862,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203381,
       "name": "Business As Usual",
       "url": "https://open.spotify.com/track/3VBuguF3LDcfe5ASmHwOrf"
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 177636,
       "name": "D.I.A.D.",
       "url": "https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4"
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177636,
       "name": "D.I.A.D.",
       "url": "https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL"
@@ -2186,7 +2222,7 @@
     {
       "album": {
         "name": "Got It Made",
-        "url": "https://open.spotify.com/album/2cWL1gAsdlE6jAp4g4Fic6"
+        "url": "https://open.spotify.com/album/2Dtv2VvJBunfAyELfXBS1Y"
       },
       "artists": [
         {
@@ -2201,6 +2237,28 @@
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213970,
+      "name": "Got It Made",
+      "url": "https://open.spotify.com/track/3kbpQSZWt561MsdrRUwkyI"
+    },
+    {
+      "album": {
+        "name": "Got It Made",
+        "url": "https://open.spotify.com/album/2cWL1gAsdlE6jAp4g4Fic6"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        },
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 213970,
       "name": "Got It Made",
       "url": "https://open.spotify.com/track/4Fhe5EXinW5m77hmIb0V6B"

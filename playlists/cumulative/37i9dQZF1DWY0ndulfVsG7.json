@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252613,
       "name": "Hapus Aku",
       "url": "https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 254013,
       "name": "Kamu Yang Kutunggu",
       "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283142,
       "name": "Kekasih Bayangan",
       "url": "https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 269420,
       "name": "Mungkin Nanti",
       "url": "https://open.spotify.com/track/1D7GuxwgqFZzGnhJwvQU8X"
@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Pagi Pulang Pagi",
+        "url": "https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa"
+      },
+      "artists": [
+        {
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249146,
+      "name": "Penantian",
+      "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"
+    },
+    {
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -626,7 +644,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 235253,
       "name": "Perempuanku",
       "url": "https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em"
@@ -756,7 +774,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250920,
       "name": "Seluruh Cinta",
       "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
@@ -828,7 +846,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288813,
       "name": "Seperti Yang Kau Minta",
       "url": "https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 265560,
       "name": "Tercipta Untukku",
       "url": "https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A"

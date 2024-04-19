@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,238 likes - 53 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,272 likes - 53 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 |
+| 1 | [10 Things I Hate About You](https://open.spotify.com/track/6lo0mUw0JbYs2L4STNq9x8) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/3kZdrOt2V1vbXYuKxlc5b3) | 2:37 |
 | 2 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 3 | [Under Your Spell](https://open.spotify.com/track/4VdCaAfgNe8Z1m4DDIk1HP) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Under Your Spell](https://open.spotify.com/album/4snFxjLgbS8rQzkVMb3Vzr) | 4:56 |
 | 4 | [Rock and Roll, Hoochie Koo](https://open.spotify.com/track/4VDHlRakaVHzHE8PUdcU49) | [Rick Derringer](https://open.spotify.com/artist/1FX4aA0cUcWndv39j1YoTm) | [All American Boy \(Expanded Edition\)](https://open.spotify.com/album/2qUO0zPeu06VHisaFdmqpZ) | 3:45 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 | 9 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 10 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 11 | [Monte Carlo](https://open.spotify.com/track/3CXCtE8qJIFtUJJZRKCcXC) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Monte Carlo](https://open.spotify.com/album/5jZs0pEMbz0ZDdEqd0GmrI) | 2:23 |
-| 12 | [Valley of the Dolls](https://open.spotify.com/track/5sdrGdT7bxgfLMEoNf8XNj) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/0YT5IhLx3P3sOrozDYIvwG) | 4:16 |
+| 12 | [Valley of the Dolls](https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4GbH15Qw21Mwgj5YHyuAu8) | 4:16 |
 | 13 | [Obxessed](https://open.spotify.com/track/2j5X6shF4Mp1IBpGe4BfWS) | [Fire Choir](https://open.spotify.com/artist/0MTQj6AkAsjqaxXHQNbK3N) | [Obxessed](https://open.spotify.com/album/4nDiRBa3qthkV2WYIRyN3m) | 2:49 |
 | 14 | [Nikes On](https://open.spotify.com/track/5z14e4rPImlgk40W33dt0U) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Nikes On](https://open.spotify.com/album/1g3OgxosiUiccwisdf8mI1) | 2:42 |
 | 15 | [Past Life](https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Past Life](https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK) | 3:30 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 | 24 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
 | 25 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/79j4vuHRCd99r5PvgG1zev) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk) | 3:24 |
 | 26 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 |
-| 27 | [Réputation](https://open.spotify.com/track/5lvYF7h7GkCv4n1ndjxKdr) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime](https://open.spotify.com/album/2O6KlO4PZKdNq2cvniEYD9) | 3:22 |
+| 27 | [Réputation](https://open.spotify.com/track/09Kl5FRg7r0ARrJ7J7kaCs) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime](https://open.spotify.com/album/2AnS2YC2kJzE8gBw5peWL8) | 3:22 |
 | 28 | [Post Humorous](https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:39 |
 | 29 | [Party of a Lifetime](https://open.spotify.com/track/3eLX0D55TUe7sswSA3Vs4W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Party of a Lifetime](https://open.spotify.com/album/1dsW2oJzZPWs8muuGUk0Lm) | 2:30 |
 | 30 | [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 |

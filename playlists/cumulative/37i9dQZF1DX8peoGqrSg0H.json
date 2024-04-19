@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Long Run",
+        "url": "https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179"
+      },
+      "artists": [
+        {
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "Long Run",
+      "url": "https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx"
+    },
+    {
+      "album": {
         "name": "LUCKY YOU",
         "url": "https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210546,
       "name": "Shoot (Choose) \u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/6tFi6XNeINiaexPT6UEsr7"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212100,
       "name": "TRY",
       "url": "https://open.spotify.com/track/7BKE7q7IPJMrWke7zo2ISS"
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189726,
       "name": "\u0e09\u0e48\u0e33 (CHARM)",
       "url": "https://open.spotify.com/track/1DIzk3mrcXKJxLQ969XfME"
@@ -4284,7 +4302,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192615,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
       "url": "https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP"
@@ -6776,7 +6794,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179368,
       "name": "\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e09\u0e22\u0e46 \u0e01\u0e47\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01 (Please Be Mine)",
       "url": "https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E"
@@ -7302,7 +7320,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163030,
       "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e15\u0e31\u0e27\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19 (Time to Shine)",
       "url": "https://open.spotify.com/track/3WhnoaMfaJnOzLWBuKnD5L"

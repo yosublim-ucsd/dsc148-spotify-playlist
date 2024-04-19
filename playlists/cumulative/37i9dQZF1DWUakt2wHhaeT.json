@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "Spring Awakening (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
+        "url": "https://open.spotify.com/album/22BNtGKmvhmIcalNXzS9xC"
       },
       "artists": [
         {
@@ -35,6 +35,24 @@
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 121533,
+      "name": "All That's Known - Original Broadway Cast Recording/2006",
+      "url": "https://open.spotify.com/track/2rva0M9ct40LyAxwFi047X"
+    },
+    {
+      "album": {
+        "name": "Spring Awakening (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 121533,
       "name": "All That's Known - Original Broadway Cast Recording/2006",
       "url": "https://open.spotify.com/track/3mcjClYAydv7jqqcu0tgQF"
@@ -564,10 +582,40 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251812,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5bYdYslgoM3G6y1ibfSqHZ"
+    },
+    {
+      "album": {
+        "name": "Baby (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/49TWxT07oS56bH3DT8SwlQ"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Baby",
+          "url": "https://open.spotify.com/artist/0Fd5DsEvNvd0GAJ3ozkkVu"
+        },
+        {
+          "name": "Liz Callaway",
+          "url": "https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb"
+        },
+        {
+          "name": "Beth Fowler",
+          "url": "https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV"
+        },
+        {
+          "name": "Catherine Cox",
+          "url": "https://open.spotify.com/artist/3Do2pdsFEeQ4lFWZwBoHmZ"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/06YfwovFh3bNg5ijqp6Wn5"
     },
     {
       "album": {
@@ -622,10 +670,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240760,
       "name": "I'm The Greatest Star",
       "url": "https://open.spotify.com/track/3UIhR0lLom0pyhUk9ZjuA0"
+    },
+    {
+      "album": {
+        "name": "Funny Girl (Original Broadway Cast / 50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5lc9AB69AA3THudUN6btkP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "I'm The Greatest Star",
+      "url": "https://open.spotify.com/track/3oacQK3zx5H5yCC3HzZrv5"
     },
     {
       "album": {
@@ -780,7 +846,7 @@
     {
       "album": {
         "name": "Anastasia (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI"
+        "url": "https://open.spotify.com/album/2dDzJlbHoVGKMGZF4wQfla"
       },
       "artists": [
         {
@@ -791,6 +857,24 @@
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196120,
+      "name": "Journey to the Past",
+      "url": "https://open.spotify.com/track/1T0OMgJ1bSqlMDD8cWbvnL"
+    },
+    {
+      "album": {
+        "name": "Anastasia (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI"
+      },
+      "artists": [
+        {
+          "name": "Christy Altomare",
+          "url": "https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 196120,
       "name": "Journey to the Past",
       "url": "https://open.spotify.com/track/5bVNYvkjRZuaQnKKdAGuq5"
@@ -1237,6 +1321,36 @@
     },
     {
       "album": {
+        "name": "Little Shop of Horrors (The New Off-Broadway Cast Album)",
+        "url": "https://open.spotify.com/album/7Cag7tktEaptbKO2PhtUJ0"
+      },
+      "artists": [
+        {
+          "name": "Tammy Blanchard",
+          "url": "https://open.spotify.com/artist/41BsSiToqwYBTW1TQ0S1SF"
+        },
+        {
+          "name": "Ari Groover",
+          "url": "https://open.spotify.com/artist/3uALDGXojJCF2YF7wQ8u4n"
+        },
+        {
+          "name": "Salome Smith",
+          "url": "https://open.spotify.com/artist/6FrnER6FP6kpuGka4B7dnE"
+        },
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254842,
+      "name": "Somewhere That's Green",
+      "url": "https://open.spotify.com/track/5dejTARgzKS5idERfXHA4R"
+    },
+    {
+      "album": {
         "name": "Little Shop of Horrors (The New Cast Album)",
         "url": "https://open.spotify.com/album/0v8V3y9zW14NRDTXs0Rt9S"
       },
@@ -1260,7 +1374,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254842,
       "name": "Somewhere That's Green",
       "url": "https://open.spotify.com/track/5igY2rvBf3uSnwthz2UvNW"
@@ -1307,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "13 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62Oww5qIS1QtGvVDBgHBvx"
+      },
+      "artists": [
+        {
+          "name": "13 Orginal Cast",
+          "url": "https://open.spotify.com/artist/1W4GVkbBIEXOuzrUrqLZ2A"
+        },
+        {
+          "name": "Original Cast Recording",
+          "url": "https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "The Lamest Place In The World",
+      "url": "https://open.spotify.com/track/0oUxFqumachSOZoIAhxybk"
+    },
+    {
+      "album": {
         "name": "13 (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0PYHx9i2CuaxoYzVpc1ZIY"
       },
@@ -1318,7 +1454,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182013,
       "name": "The Lamest Place in the World",
       "url": "https://open.spotify.com/track/4APkwJ3qSt74pQAw70POWm"
@@ -1374,10 +1510,32 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205040,
       "name": "Waiting for Life",
       "url": "https://open.spotify.com/track/0SIBJD3PsOMO1QiS3TI2xm"
+    },
+    {
+      "album": {
+        "name": "Once on This Island (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4Gbxn6WBheHhcMXTC8jIQs"
+      },
+      "artists": [
+        {
+          "name": "Hailey Kilgore",
+          "url": "https://open.spotify.com/artist/19Kv0f8vLqLo54a2h3OAig"
+        },
+        {
+          "name": "Once On This Island Storytellers",
+          "url": "https://open.spotify.com/artist/3CoXUJj9mSjynSVi2e9Ax4"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "Waiting for Life",
+      "url": "https://open.spotify.com/track/1XS2iQd8STgEwI7ptzXnT0"
     },
     {
       "album": {

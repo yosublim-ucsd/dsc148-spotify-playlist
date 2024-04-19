@@ -18316,7 +18316,7 @@
     {
       "album": {
         "name": "Music",
-        "url": "https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW"
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
       "artists": [
         {
@@ -18327,6 +18327,24 @@
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 283893,
+      "name": "What It Feels Like for a Girl",
+      "url": "https://open.spotify.com/track/4ohEI9gzIH5mSK6R6aUssT"
+    },
+    {
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 283893,
       "name": "What It Feels Like for a Girl",
       "url": "https://open.spotify.com/track/6rQcK4xOzePDdrTg7Yv6d6"

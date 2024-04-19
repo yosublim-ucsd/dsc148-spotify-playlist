@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189500,
       "name": "365",
       "url": "https://open.spotify.com/track/3y4NbKy6cgdqia74kXIZF9"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 219259,
       "name": "Autumn Star",
       "url": "https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 432941,
       "name": "Birds",
       "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299200,
       "name": "Don't Miss It",
       "url": "https://open.spotify.com/track/1p80XDFkNwDaA87sh2C2Xn"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 209552,
       "name": "Everything (feat. Carmody)",
       "url": "https://open.spotify.com/track/57YDcLOmB4sezbSAupAQuh"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354121,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279360,
       "name": "Fires",
       "url": "https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249968,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 222653,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t"
@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239803,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u"
+    },
+    {
+      "album": {
         "name": "Always Already Here",
         "url": "https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM"
       },
@@ -1300,6 +1318,28 @@
       "duration_ms": 208547,
       "name": "Here",
       "url": "https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta"
+    },
+    {
+      "album": {
+        "name": "far too long",
+        "url": "https://open.spotify.com/album/1fB7b72MXdkf1mT0ZZKCvd"
+      },
+      "artists": [
+        {
+          "name": "ones",
+          "url": "https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6"
+        },
+        {
+          "name": "Kehina",
+          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173615,
+      "name": "home (feat. Kehina)",
+      "url": "https://open.spotify.com/track/6zNlb6YYsRHjIHBTNzoQ4X"
     },
     {
       "album": {
@@ -1434,7 +1474,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Let It Fade",
       "url": "https://open.spotify.com/track/76qL9Iwn8EWfLvOqOtmjmQ"
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200856,
       "name": "Magic--Pearl",
       "url": "https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt"
@@ -1604,7 +1644,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235266,
       "name": "Medals",
       "url": "https://open.spotify.com/track/6GjXUXS1DMRypQlH86KwNm"
@@ -1702,10 +1742,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314295,
       "name": "Mr Man - Dusky Revisit",
       "url": "https://open.spotify.com/track/20kMYR1urcBTumqu7A9mub"
+    },
+    {
+      "album": {
+        "name": "Mr Man (Dusky Revisit)",
+        "url": "https://open.spotify.com/album/3WHpeMQ4f357VRMVdnlfMh"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314295,
+      "name": "Mr Man - Dusky Revisit",
+      "url": "https://open.spotify.com/track/6ONDVODCret7ec2c1xxwkJ"
     },
     {
       "album": {
@@ -1886,7 +1944,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 144292,
       "name": "Opals",
       "url": "https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62"
@@ -2122,7 +2180,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 332379,
       "name": "Ry",
       "url": "https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB"
@@ -2242,7 +2300,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 502705,
       "name": "Sit Around The Fire",
       "url": "https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS"
@@ -2676,7 +2734,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 91000,
       "name": "Unladder",
       "url": "https://open.spotify.com/track/3zhaGBOyy7IeBoWnxU84lC"
@@ -2766,7 +2824,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149083,
       "name": "Wednesday Afternoon",
       "url": "https://open.spotify.com/track/08Ov1ejfnzW8Pc9NbhUpLa"
@@ -2886,7 +2944,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270252,
       "name": "Would You Believe",
       "url": "https://open.spotify.com/track/0HvtGDMR4hVmNK3HBUIUOS"
@@ -2926,7 +2984,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"

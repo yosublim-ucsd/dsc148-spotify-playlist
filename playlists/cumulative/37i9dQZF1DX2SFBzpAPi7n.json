@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Rolling Quartz(\ub864\ub9c1\ucffc\uce20)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: PEPPERTONES(\ud398\ud37c\ud1a4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -7574,6 +7574,24 @@
       "duration_ms": 161803,
       "name": "Ride In",
       "url": "https://open.spotify.com/track/2UfV11bsS80uaESfesRWH4"
+    },
+    {
+      "album": {
+        "name": "Twenty Plenty",
+        "url": "https://open.spotify.com/album/7pV5cvmIL7tGw06b2laSoH"
+      },
+      "artists": [
+        {
+          "name": "PEPPERTONES",
+          "url": "https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263413,
+      "name": "riders",
+      "url": "https://open.spotify.com/track/6RZelm2ZVA6mPm4MfqRNea"
     },
     {
       "album": {

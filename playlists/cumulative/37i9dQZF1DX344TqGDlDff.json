@@ -16,10 +16,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170906,
       "name": "Air",
       "url": "https://open.spotify.com/track/4MTJ4H2amTIJoLp1Ua26Y5"
+    },
+    {
+      "album": {
+        "name": "Ekseption (Re-Issue)",
+        "url": "https://open.spotify.com/album/0dBzZ506I8PXqVcvipvqOI"
+      },
+      "artists": [
+        {
+          "name": "Ekseption",
+          "url": "https://open.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171213,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/45VflSSMKaOpSUaKYyNGNV"
     },
     {
       "album": {
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 223313,
       "name": "Charanga Pa'Gozar",
       "url": "https://open.spotify.com/track/5jMgGC6FQwlHtPmor4uN3p"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223313,
       "name": "Charanga Pa'Gozar",
       "url": "https://open.spotify.com/track/6HXLfrsyny6PPuIxMqR2tW"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 195285,
       "name": "Oye No Me Beses",
       "url": "https://open.spotify.com/track/1mAm0qjAa37vifkgBG1Bwa"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195285,
       "name": "Oye No Me Beses",
       "url": "https://open.spotify.com/track/6SskFpY3EoOLskKGsBWjhD"
@@ -792,7 +810,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 156658,
       "name": "Sueltame, Vieja",
       "url": "https://open.spotify.com/track/2xm8eAcUNUK1nHAJ1k5DNP"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156658,
       "name": "Sueltame, Vieja",
       "url": "https://open.spotify.com/track/66hjg1yDtzXBMuYdz7lE7q"

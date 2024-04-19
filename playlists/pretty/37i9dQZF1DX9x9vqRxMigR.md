@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,290 likes - 164 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,308 likes - 164 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 11 | [Write It All Down for You](https://open.spotify.com/track/5B6l88qXls84CchE4yNNEs) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Mountain Meadows](https://open.spotify.com/album/4LcjR6n6TyOdzKr41XExrG) | 3:58 |
 | 12 | [Loving You](https://open.spotify.com/track/400tCHXGZhZcVeE66NoLEH) | [Ron Artis II](https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C) | [Purpose](https://open.spotify.com/album/4lR0IuGQZURxi4cJaTNxd3) | 3:24 |
 | 13 | [Ateik pas Mane](https://open.spotify.com/track/5VNxmpTSrSLZWlT1allWle) | [Jausmė](https://open.spotify.com/artist/5zu8H4DMzOHQKS4Vp4clm6) | [Namolio](https://open.spotify.com/album/2QzgM3YKtsiTTkx92woXZ0) | 4:56 |
-| 14 | [Aberdaron](https://open.spotify.com/track/78AR5TTe5vSvhv2rPvZt4a) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Gog Magog](https://open.spotify.com/album/59sjbeBja91tPzMz8NjFFL) | 4:34 |
-| 15 | [Haunted Mountain](https://open.spotify.com/track/2mU9kb0aboNfWii8i4r4Wv) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Haunted Mountain](https://open.spotify.com/album/2CVC0KMuJ73P8AMLToOkuQ) | 4:19 |
+| 14 | [Aberdaron](https://open.spotify.com/track/0PKDX1FsMSYKTIC1ZcHNuW) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Gog Magog](https://open.spotify.com/album/19SxsrS6nqyQavBa5LrC8q) | 4:34 |
+| 15 | [Haunted Mountain](https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Haunted Mountain](https://open.spotify.com/album/1y3VrSoxUmqiiqqzJ9MuFY) | 4:19 |
 | 16 | [Blood Sweat & Murder](https://open.spotify.com/track/6SBTPHeoGdEBOoP1DLWtdR) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [The Dirty Old One Man Band](https://open.spotify.com/album/4YBkZi8HcsKFqgptoUwKIz) | 2:54 |
 | 17 | [Munot Heartbreak](https://open.spotify.com/track/32HlOUSFwGrBFH0TVt49cw) | [The Matchsellers](https://open.spotify.com/artist/781HC6L4v7PsQUrtLQ6MPg) | [The Wishful Thinker's Hall of Fame](https://open.spotify.com/album/1tjcV3g4vm2sGRN6UfSTkt) | 3:36 |
 | 18 | [Out Loud](https://open.spotify.com/track/3EJUkaQTzQTPftVCzIaDW6) | [Ever More Nest](https://open.spotify.com/artist/4SyLT21Hx2AptF6kdopLqL) | [Out Here Now](https://open.spotify.com/album/4aR2n2Pz25TmyYVKpSNGp4) | 4:22 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 75 | [Show Me](https://open.spotify.com/track/6HtBhkRmuE44Fkrah8m9vy) | [The Resonant Rogues](https://open.spotify.com/artist/3n0QiWJkZmsbq1SfclUodh) | [Show Me](https://open.spotify.com/album/0A668ius4Akg3xsREvAyKz) | 4:15 |
 | 76 | [Over That Road I'm Bound To Go](https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s) | [Joachim Cooder](https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF) | [Over That Road I'm Bound](https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb) | 3:44 |
 | 77 | [Highway 9](https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [The Longest Day](https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81) | 4:30 |
-| 78 | [Your Heart's a Big Tent](https://open.spotify.com/track/0WcjhFRttvRNxr4uMQVS94) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [Peculiar, Missouri](https://open.spotify.com/album/40rqKc44YyzMnTxGiAFjZ9) | 3:38 |
+| 78 | [Your Heart's a Big Tent](https://open.spotify.com/track/0ZCfSbSOzO9pWTmjKoHPVO) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [Peculiar, Missouri](https://open.spotify.com/album/2du0e8sCmH8T6Dx78FdMmS) | 3:38 |
 | 79 | [Carolina Day](https://open.spotify.com/track/5uggkxEBEH2X3sEMKponuF) | [Livingston Taylor](https://open.spotify.com/artist/2dMPVdTlcLlRcWtsrEXwAO) | [Livingston Taylor](https://open.spotify.com/album/1b44iZYzoZ4Y8f9Eqo88TJ) | 3:08 |
 | 80 | [Winfield Bound](https://open.spotify.com/track/1KbwfMoLct5PGHfe1ho4Sz) | [Whiskey Mash Band](https://open.spotify.com/artist/6E1v284ZmIWJXKQ7mqcamG) | [Winfield Bound](https://open.spotify.com/album/5vSgZnihaGjrsqzhlh015D) | 3:45 |
 | 81 | [My Little Flower](https://open.spotify.com/track/5bX9tOTI7nnosVd71uzLNl) | [Henhouse Prowlers](https://open.spotify.com/artist/5chLjAHz51WiBIKu9cU1LD) | [My Little Flower](https://open.spotify.com/album/1wzzUVKmqwLI3AgCNRcdw1) | 2:34 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 112 | [Fill Me Up](https://open.spotify.com/track/02wC5yXg62fj9yLChqPsZB) | [Amilia K Spicer](https://open.spotify.com/artist/7mopmwjsJAxVcTwLvEzFbY) | [Wow and Flutter](https://open.spotify.com/album/5tFPLec3xTynbq5chYuhnv) | 4:29 |
 | 113 | [Keep Going](https://open.spotify.com/track/51QsRyZKjmwvlLh90zJbMS) | [Connie Kaldor](https://open.spotify.com/artist/59JnJ7Xf0nIvADXD6DcO2y) | [Keep Going](https://open.spotify.com/album/7uURfM1yiijfhNqblBZvXU) | 3:14 |
 | 114 | [Long Live](https://open.spotify.com/track/1Y3rXQOrZLE0IA5XYnXCmW) | [Susan Werner](https://open.spotify.com/artist/22t90SdeLXy0hg1eoiLokC) | [Long Live](https://open.spotify.com/album/4xHRo8ftEhDMOwNgMkVRS2) | 4:00 |
-| 115 | [Imaginary People](https://open.spotify.com/track/7z14ixeZiXcPa5La4gfNE4) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Imaginary People](https://open.spotify.com/album/05VOD3O5ApFaTOygdhZo6C) | 4:07 |
+| 115 | [Imaginary People](https://open.spotify.com/track/0AwEYMlgDsG1OcrBmJn7Kn) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Imaginary People](https://open.spotify.com/album/6Kzw3VkXXYmCk3VSQBuQh8) | 4:07 |
 | 116 | [Somebody's New Lover Now](https://open.spotify.com/track/228PC47OfelkYRgXttSjWc) | [Alice Howe](https://open.spotify.com/artist/4G9FK6kbQ0hT2s7Cwoh9oO) | [Circumstance](https://open.spotify.com/album/3SjjFeU2K48fbLOy50satR) | 3:26 |
 | 117 | [There Goes a Brooklyn Girl](https://open.spotify.com/track/5T5vODZbP7XjWK4Uv7kzwJ) | [Freedy Johnston](https://open.spotify.com/artist/5aeoG3xBrai5JsTqVmmgj0) | [Back on the Road to You](https://open.spotify.com/album/5zZmdzb42vFVPUJvZppkeh) | 4:24 |
 | 118 | [Mean Old World](https://open.spotify.com/track/67DO800HqOrGLpHn3WCfJV) | [Gordie Tentrees](https://open.spotify.com/artist/0r4BPbWwDK8cgTnSR5FnFN) | [Taste of Tentrees](https://open.spotify.com/album/2kRmrQiyNduxwicJO9I2d3) | 3:10 |
@@ -142,9 +142,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 132 | [Holy](https://open.spotify.com/track/4dnXLKc78c4lKrSJLcd9EF) | [Ellis Paul](https://open.spotify.com/artist/6zbmVVtvsmXRGWGgfjlE35) | [55](https://open.spotify.com/album/2JHXN9HK8ybi1pcwj2jZjx) | 4:00 |
 | 133 | [New Lovers](https://open.spotify.com/track/5qKyOyATX3gRml7EAYJNF2) | [Paul McDonald](https://open.spotify.com/artist/26VoPCfOpSe5L7kpskenXy) | [Modern Hearts](https://open.spotify.com/album/2SHYkAkXQhWX64c7NesVGl) | 4:09 |
 | 134 | [If Only.](https://open.spotify.com/track/6nRNiN8l2gDcWD2DrsX4B6) | [Inn Echo](https://open.spotify.com/artist/6aoMCE07CVpOEMifVOQuuX) | [If Only.](https://open.spotify.com/album/2Tr7zmoUm5E7X92MsXtXpq) | 5:09 |
-| 135 | [Other Side of Goodbye](https://open.spotify.com/track/3mMAm6PHzUdHDXgkCVdcnj) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [House to House](https://open.spotify.com/album/120E5ApM0a40DxBE42tK0r) | 2:34 |
+| 135 | [Other Side of Goodbye](https://open.spotify.com/track/1hMyjL6US0O882EZJ6tRih) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [House to House](https://open.spotify.com/album/1bgLbawfHvuMhOEE9WQA8w) | 2:34 |
 | 136 | [New Mexico](https://open.spotify.com/track/1MHo5ctrczvloB4rDQ9UM4) | [Dean Owens](https://open.spotify.com/artist/7BVMp7zWud1AgHosWacOVl), [Joey Burns](https://open.spotify.com/artist/5s5xrLSiheeoXLddVEB24t), [John Convertino](https://open.spotify.com/artist/0x0BO6OJk8YQPPM5EMXkZP) | [Sinner's Shrine](https://open.spotify.com/album/5mSubqAaO2cTfpBMPu9MDn) | 3:14 |
-| 137 | [Pearls](https://open.spotify.com/track/5DqpN7Jnd8Pv2zFYMqY157) | [Mirja Klippel](https://open.spotify.com/artist/3CZa09tcpdWlAMs2G4heMb) | [Slow Coming Alive](https://open.spotify.com/album/219uhNQC88Po4EqzeZdXQV) | 4:15 |
+| 137 | [Pearls](https://open.spotify.com/track/69aiFsJYG9WjYphMRcZnIq) | [Mirja Klippel](https://open.spotify.com/artist/3CZa09tcpdWlAMs2G4heMb) | [Slow Coming Alive](https://open.spotify.com/album/2GAhrMjdSXZaxs98UmDfgl) | 4:15 |
 | 138 | [Driveway](https://open.spotify.com/track/4y9QaJsvNZaMNEnyU2glG9) | [Leverage for Mountains](https://open.spotify.com/artist/6D1tiJwn9dPP7aBf4pCN2T) | [Driveway](https://open.spotify.com/album/1JQLdC75LF7MmtfoBtRRyJ) | 2:41 |
 | 139 | [Come a Little Closer](https://open.spotify.com/track/6TvPx0i01vs5KDWMohTCzd) | [Jessica Rhaye](https://open.spotify.com/artist/0JI6j7EohGdNldcfMxq9By), [The Ramshackle Parade](https://open.spotify.com/artist/0TxRZtz5eUT5Vx3wkFQrZB) | [Sunshine Baby](https://open.spotify.com/album/3vhPcTVAVaUKTAEGh8Kole) | 3:35 |
 | 140 | [Rope of Sand](https://open.spotify.com/track/7r1xViVDTTh7aboDDepsoB) | [Miranda Mulholland](https://open.spotify.com/artist/77nCKUhpsfZJmBdaMxiRQX) | [Rope of Sand](https://open.spotify.com/album/1hrJNgKwRb63QdLhpeYhWs) | 3:45 |

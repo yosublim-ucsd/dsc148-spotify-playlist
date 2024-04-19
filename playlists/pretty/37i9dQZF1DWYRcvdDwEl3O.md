@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,905 likes - 47 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,978 likes - 47 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 14 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 |
 | 15 | [Serenity](https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB) | [Simon Folwar](https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ) | [Serenity](https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz) | 2:39 |
 | 16 | [Out of Square](https://open.spotify.com/track/3I677uFtjzjCPbjkBvL67F) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Formations](https://open.spotify.com/album/4vrGFv7AlhdrYTK1UmHVPx) | 3:23 |
-| 17 | [I Thought About Death, About Time](https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU) | 2:00 |
+| 17 | [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 |
 | 18 | [Above \- composed as the score to a Matthias Koenigswieser photograph](https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm) | [Slow Shiver](https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl) | [Above \(composed as the score to a Matthias Koenigswieser photograph\)](https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7) | 2:07 |
-| 19 | [Healing as a Family](https://open.spotify.com/track/0fs8CepANvhFGee0M6P5AW) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Savage Waters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BOpSC4KSgViq7DSgJfoXG) | 1:22 |
+| 19 | [Healing As A Family](https://open.spotify.com/track/3WiVNSxYwImI728OxgLA2h) | [Aisling Brouwer](https://open.spotify.com/artist/0laJTSeaECNmGVvVVXH6wn), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Healing As A Family](https://open.spotify.com/album/5n2epA4EVhH7U8woR1z3Jt) | 1:22 |
 | 20 | [歩風](https://open.spotify.com/track/1XSAuGdPV3ptrtslbrgn8T) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/0ab2TfwsIFt9RPG9uCMSSa) | 4:19 |
 | 21 | [Willeth](https://open.spotify.com/track/6t8pyLvHnewIRcsdriDaoL) | [Kino](https://open.spotify.com/artist/744LLMunibSJvXx6VVAKl3) | [Willeth](https://open.spotify.com/album/2mtynPQ9PKkRvaUbrk2FMT) | 1:38 |
 | 22 | [Patsy \- Instrumental](https://open.spotify.com/track/38pwFb1yj7CS2JUaLVyQ01) | [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9) | [The Way Forth \(Instrumentals\)](https://open.spotify.com/album/2GJmOoinJpsmNcnqaIiBc6) | 2:10 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 35 | [Can't Hold Us](https://open.spotify.com/track/1qzg5u4jEocTHH7rs5mIYr) | [Madron](https://open.spotify.com/artist/1nom1nhxcPFKLCcj7ccQGe) | [Let It Be So](https://open.spotify.com/album/1ZN3pFFjvYnMr8yDL0cTBD) | 2:00 |
 | 36 | [Eschaton \- Christopher Dennis Coleman Rework](https://open.spotify.com/track/7m3hDASgGaBKF5w8y48dDd) | [Christopher Dennis Coleman](https://open.spotify.com/artist/1mM9perSjGuMbNejzFhi1U) | [Eschaton](https://open.spotify.com/album/0WSv5Yge0NVy7VjMHQnGTP) | 2:36 |
 | 37 | [Under](https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [Under](https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI) | 2:49 |
-| 38 | [Pattern of Water](https://open.spotify.com/track/0ErDq5zZU1hdvZtKoq4uJ7) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/3oSrsdpTbsx0UcfnCLP17Q) | 2:43 |
+| 38 | [Pattern of Water](https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB) | 2:43 |
 | 39 | [Néfos](https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV) | [Ạoris](https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys) | [Néfos](https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B) | 3:12 |
 | 40 | [Paint](https://open.spotify.com/track/6PC9beJbKsb3PMIBPbHtc7) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint & Dance](https://open.spotify.com/album/6R3DQm91XrjzIX1X0VnyLF) | 2:09 |
 | 41 | [On Her Shoulders](https://open.spotify.com/track/17nf2lESWRMvqycjV7tHvU) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [On Her Shoulders \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3SdwRlOdLikqstPFUP0J0R) | 1:54 |

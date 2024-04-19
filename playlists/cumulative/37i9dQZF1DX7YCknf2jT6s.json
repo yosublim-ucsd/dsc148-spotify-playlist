@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168500,
       "name": "6 Feet Down",
       "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324920,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 207812,
       "name": "AT EASE",
       "url": "https://open.spotify.com/track/1w8qCPaSGag0pzg9VkbVoj"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207812,
       "name": "AT EASE",
       "url": "https://open.spotify.com/track/4KDbR4DBM6bcqhA0Y4PoCp"
@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 406066,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y"
@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406066,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q"
@@ -4389,6 +4389,28 @@
     },
     {
       "album": {
+        "name": "Canceled Plans",
+        "url": "https://open.spotify.com/album/3s8mQX21TDNyKXegwY3xyM"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moshier",
+          "url": "https://open.spotify.com/artist/5u8AYnaLwHVuubjaBmHOEz"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162555,
+      "name": "Canceled Plans",
+      "url": "https://open.spotify.com/track/6AoEut8ZDkb3M250iib0RR"
+    },
+    {
+      "album": {
         "name": "Life & Fire",
         "url": "https://open.spotify.com/album/4f6pumXqPwMZp1KmmT5yYw"
       },
@@ -4484,6 +4506,28 @@
       "duration_ms": 264360,
       "name": "Captured Time",
       "url": "https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7"
+    },
+    {
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235920,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
     },
     {
       "album": {
@@ -6890,7 +6934,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357709,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK"
@@ -6908,7 +6952,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 357709,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
@@ -8052,7 +8096,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136960,
       "name": "Exoplanet",
       "url": "https://open.spotify.com/track/6j1ChNSkJNqz8xgbXCS2xW"
@@ -8508,10 +8552,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378422,
       "name": "Final Voyage",
       "url": "https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L"
+    },
+    {
+      "album": {
+        "name": "Live at Third Man Records",
+        "url": "https://open.spotify.com/album/3qR4jnOYMFddIFpgKnbIJx"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428099,
+      "name": "Find Me - Live",
+      "url": "https://open.spotify.com/track/5wCXlhXJcvb9nawe5phkME"
     },
     {
       "album": {
@@ -8868,10 +8930,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240480,
       "name": "For Only You",
       "url": "https://open.spotify.com/track/7H9T6SnwnhOtdgnaym7zdX"
+    },
+    {
+      "album": {
+        "name": "For Only You",
+        "url": "https://open.spotify.com/album/1MwfehWxNiDt0D9Jmc18al"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "For Only You",
+      "url": "https://open.spotify.com/track/7mN2PDAo1lQ2sU4Egje5N2"
     },
     {
       "album": {
@@ -9149,6 +9229,36 @@
     },
     {
       "album": {
+        "name": "Tone Stories",
+        "url": "https://open.spotify.com/album/041cjTWNODSDk2Bq2GS8Dd"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Pinheiro",
+          "url": "https://open.spotify.com/artist/6btXpWrlx8TJzJNQ0KT4US"
+        },
+        {
+          "name": "Chris Cheek",
+          "url": "https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1"
+        },
+        {
+          "name": "Jorge Rossy",
+          "url": "https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE"
+        },
+        {
+          "name": "Michael Formanek",
+          "url": "https://open.spotify.com/artist/62iyCv3YONUFiqCvN0EgfY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217151,
+      "name": "Fried Bananas",
+      "url": "https://open.spotify.com/track/5G7Y4WmAmniUopDRdbO8NJ"
+    },
+    {
+      "album": {
         "name": "I'm A Bird / Friends",
         "url": "https://open.spotify.com/album/6mNrZt3YGDo6mw8gUSwxMx"
       },
@@ -9176,7 +9286,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217301,
       "name": "Friends",
       "url": "https://open.spotify.com/track/74fThCaJqlKrDkPNf4Vlul"
@@ -12104,10 +12214,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248666,
       "name": "Istanbul (feat. Elijah Fox) - Live From Malibu",
       "url": "https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6"
+    },
+    {
+      "album": {
+        "name": "Istanbul (feat. Elijah Fox) [Live From Malibu]",
+        "url": "https://open.spotify.com/album/3hmMIzmXleegAOFQap4LDg"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Istanbul (feat. Elijah Fox) - Live From Malibu",
+      "url": "https://open.spotify.com/track/6itrJDS89zESGoipn5vkCO"
     },
     {
       "album": {
@@ -13574,7 +13706,7 @@
     {
       "album": {
         "name": "Liberation",
-        "url": "https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV"
+        "url": "https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo"
       },
       "artists": [
         {
@@ -13585,6 +13717,24 @@
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 314481,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ"
+    },
+    {
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 314481,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328"
@@ -17847,6 +17997,28 @@
     },
     {
       "album": {
+        "name": "Mustard n'Onions",
+        "url": "https://open.spotify.com/album/1KJ2QzUua9CSHQhegtCU1W"
+      },
+      "artists": [
+        {
+          "name": "Ghost-Note",
+          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+        },
+        {
+          "name": "Keith Anderson",
+          "url": "https://open.spotify.com/artist/0dfIxgSanigE3He9x9zJWW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418520,
+      "name": "Origins",
+      "url": "https://open.spotify.com/track/4ZDsgYjwBIEmVPylsFjf1p"
+    },
+    {
+      "album": {
         "name": "Ornette's Clockwork",
         "url": "https://open.spotify.com/album/57MyVQnykZBOoimi7frYXb"
       },
@@ -18170,7 +18342,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 371000,
       "name": "Pan Con Queso",
       "url": "https://open.spotify.com/track/0D84eqLi5QiwY4Vp9j2BKx"
@@ -19608,6 +19780,24 @@
       "duration_ms": 386991,
       "name": "Quince",
       "url": "https://open.spotify.com/track/7MFdf5GHVfHbeTBbrDTvOJ"
+    },
+    {
+      "album": {
+        "name": "Raat Ki Rani",
+        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
     },
     {
       "album": {
@@ -22022,7 +22212,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156584,
       "name": "Smooth it out",
       "url": "https://open.spotify.com/track/1jPVXZmIJonOnwbMFPFg9V"
@@ -24358,7 +24548,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324243,
       "name": "The Atlantiques (feat. Ana\u00efs Maviel, Jeff Parker, Josh Johnson)",
       "url": "https://open.spotify.com/track/5OXgjjil0Gl6wrRvoR3IsI"
@@ -24628,6 +24818,28 @@
       "duration_ms": 365500,
       "name": "The Comeback",
       "url": "https://open.spotify.com/track/0MOCXlySxIos7wMFITLore"
+    },
+    {
+      "album": {
+        "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 (Bonus Version)",
+        "url": "https://open.spotify.com/album/00ZEz3M7Buqb9m5qMO7fbZ"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 880348,
+      "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 - Bonus Version",
+      "url": "https://open.spotify.com/track/4YBnMQ5ncZUq9HmztP4YVF"
     },
     {
       "album": {
@@ -25856,7 +26068,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445106,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/1hw5O9ujDRCCsqxuVfbiJF"
@@ -25874,7 +26086,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 445106,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/6OFNBJrLcBm3I4P8uxNnC9"
@@ -26775,6 +26987,36 @@
     },
     {
       "album": {
+        "name": "Live at Villa Maximus, Mykonos",
+        "url": "https://open.spotify.com/album/6xq2Gz1Y13cPvUd4ZF1Ny7"
+      },
+      "artists": [
+        {
+          "name": "Greg Foat",
+          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
+        },
+        {
+          "name": "Sokratis Votskos",
+          "url": "https://open.spotify.com/artist/7lfQEYTRXnjwZgoum3hWSU"
+        },
+        {
+          "name": "Warren Hampshire",
+          "url": "https://open.spotify.com/artist/4GXvTGVC66pxGAsxWyLVjr"
+        },
+        {
+          "name": "Ayo Salawu",
+          "url": "https://open.spotify.com/artist/79bQnsHQLiPkCxKoi7zu0f"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343373,
+      "name": "Tsamykonos",
+      "url": "https://open.spotify.com/track/1VMHdwCCCqhxEzq6x2jZF1"
+    },
+    {
+      "album": {
         "name": "Tukumtak",
         "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
       },
@@ -27388,6 +27630,24 @@
       "duration_ms": 373953,
       "name": "Us - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
+    },
+    {
+      "album": {
+        "name": "Hodges: Front and Center, Vol. 2",
+        "url": "https://open.spotify.com/album/2Ey857xbWVAdisJQN8GY2G"
+      },
+      "artists": [
+        {
+          "name": "Owen Broder",
+          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "Used To Be Duke",
+      "url": "https://open.spotify.com/track/7mMUp72qgpqDktLKcMASpJ"
     },
     {
       "album": {
@@ -28502,7 +28762,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 468460,
       "name": "Winter",
       "url": "https://open.spotify.com/track/3HlO9LOzWYtazt0URqky8r"

@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 4609,
+  "2024-04-19": 4607,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 164992,
       "name": "akvapark",
       "url": "https://open.spotify.com/track/6EizZ4MtgN3xRNzOmcZC0R"
@@ -3769,7 +3769,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -6404,6 +6404,28 @@
     },
     {
       "album": {
+        "name": "Chlapec z panela",
+        "url": "https://open.spotify.com/album/3PlWn97jOS9nklwO4xHsGn"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Mjay Beatz",
+          "url": "https://open.spotify.com/artist/7f17kNraGVHoDYicwmveeJ"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Chlapec z panela",
+      "url": "https://open.spotify.com/track/2vJnDjDiJ5aNBuCK7wdnTY"
+    },
+    {
+      "album": {
         "name": "Chlapi Chc\u00fa M\u00f4j A$$",
         "url": "https://open.spotify.com/album/17SIhy5f5hZmM5voeNTfA4"
       },
@@ -6639,7 +6661,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
@@ -7559,7 +7581,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 193333,
       "name": "C\u00cdTIM V\u0160ADE HOVNO",
       "url": "https://open.spotify.com/track/5Jy4gtKvvCSalU1s0NNbna"
@@ -10526,6 +10548,24 @@
     },
     {
       "album": {
+        "name": "favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+    },
+    {
+      "album": {
         "name": "Favorite Song",
         "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
       },
@@ -12131,7 +12171,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -15284,6 +15324,28 @@
     },
     {
       "album": {
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "album": {
         "name": "i need u",
         "url": "https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz"
       },
@@ -16459,7 +16521,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -17487,6 +17549,50 @@
       "duration_ms": 248866,
       "name": "Ke\u010f pr\u00edde l\u00e1ska",
       "url": "https://open.spotify.com/track/4h3ZyH2kU6wbXPqn7gZsXp"
+    },
+    {
+      "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "KE\u010e SPOMENIEM SI NA TEBA",
+      "url": "https://open.spotify.com/track/0j7MN6e9ZTrnsOWX04juc7"
+    },
+    {
+      "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "KE\u010e TI TO VAD\u00cd TAK SA NEPOZERAJ",
+      "url": "https://open.spotify.com/track/1fhXVxh4Qnp0I9XBy3SzR6"
     },
     {
       "album": {
@@ -23490,6 +23596,28 @@
     },
     {
       "album": {
+        "name": "Poor but Sexy",
+        "url": "https://open.spotify.com/album/0ESsMvuRJUCDy8t3jGcvnt"
+      },
+      "artists": [
+        {
+          "name": "Berlin Manson",
+          "url": "https://open.spotify.com/artist/0hOM9D2SaLoqltAuEA5fje"
+        },
+        {
+          "name": "Katarzia",
+          "url": "https://open.spotify.com/artist/5EssQRYnIgCOcvPauVySR1"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224809,
+      "name": "Nem\u00e1m Koho Obdivova\u0165",
+      "url": "https://open.spotify.com/track/5bkZNilirTDw64wm1KP6oI"
+    },
+    {
+      "album": {
         "name": "medvede h\u013eadaj\u00fa potravu v kontajneroch",
         "url": "https://open.spotify.com/album/5cPCbtLAiel4UJ3S6dj3KO"
       },
@@ -26164,6 +26292,32 @@
     },
     {
       "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
         "name": "Mi spendo tutto",
         "url": "https://open.spotify.com/album/07YwhHKHa6yKzAGPajfes5"
       },
@@ -27281,7 +27435,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
@@ -28271,7 +28425,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 145666,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/4yjG2UO3V2qpA5aGsusBIN"
@@ -30158,6 +30312,28 @@
     },
     {
       "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "SEREME DO KOLY A \u0160T\u00cdME DO FANTY",
+      "url": "https://open.spotify.com/track/0jkKpYZKAq0C1vNUzF9f68"
+    },
+    {
+      "album": {
         "name": "Set Me Free Pt.2",
         "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
       },
@@ -30505,6 +30681,24 @@
       "duration_ms": 165428,
       "name": "She's A 10 But...",
       "url": "https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD"
+    },
+    {
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
       "album": {
@@ -31067,7 +31261,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -31981,7 +32175,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 255118,
       "name": "So\u00f1ar",
       "url": "https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT"
@@ -32759,7 +32953,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -35450,6 +35644,24 @@
     },
     {
       "album": {
+        "name": "Tvoje ru\u017ee",
+        "url": "https://open.spotify.com/album/6HVBYrSbqoxqqdKa6mJ3HD"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167154,
+      "name": "Tvoje ru\u017ee",
+      "url": "https://open.spotify.com/track/5H11d1uZ08z5gEb7xMPnUq"
+    },
+    {
+      "album": {
         "name": "Tvojho brata brat m\u00e1 brata",
         "url": "https://open.spotify.com/album/5uEOuSRH2Em1TGDzREzMe1"
       },
@@ -35944,6 +36156,24 @@
     },
     {
       "album": {
+        "name": "Us Vs. Them",
+        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+    },
+    {
+      "album": {
         "name": "volume 3",
         "url": "https://open.spotify.com/album/2Z6SXBpgOJuKbw4I6jd8Po"
       },
@@ -36061,7 +36291,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 145344,
       "name": "V riti",
       "url": "https://open.spotify.com/track/3XAaAM9nREydRwfr9aXMGd"
@@ -37029,7 +37259,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 212787,
       "name": "V\u00edno z Tesca",
       "url": "https://open.spotify.com/track/4ON1h0P6x5lTx3FwAvPxDU"
@@ -39042,6 +39272,32 @@
     },
     {
       "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "ZL\u00dd SEN",
+      "url": "https://open.spotify.com/track/1hgJSjONYG7dRb4yDrTBZe"
+    },
+    {
+      "album": {
         "name": "Zmrzlina",
         "url": "https://open.spotify.com/album/2TboL1rw8ejgjP7UxS96wj"
       },
@@ -39173,6 +39429,28 @@
       "duration_ms": 212335,
       "name": "|BONKERS|",
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
+    },
+    {
+      "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "\u00c1 J\u00c9",
+      "url": "https://open.spotify.com/track/3CeJNoEsQZHkDHQe2ZiIct"
     },
     {
       "album": {

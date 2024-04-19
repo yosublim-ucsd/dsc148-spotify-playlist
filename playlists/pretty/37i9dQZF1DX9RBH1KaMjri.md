@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 
 > From the clubs to the piano bars, from yesterday to today, these are the sounds of queer NYC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,839 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,922 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 | 2 | [You Think You're A Man](https://open.spotify.com/track/0RhcYpwtOwNb6iTfeYaaKH) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [Essential Divine](https://open.spotify.com/album/1x01j1FhOmJ2tNJs37QVi1) | 7:02 |
 | 3 | [People Are Still Having Sex](https://open.spotify.com/track/1xKW0Y1kSVnZzcAHOccLVl) | [Latour](https://open.spotify.com/artist/6Y0dRb1wZq8Xhok2i6Oy4R) | [LaTour](https://open.spotify.com/album/1EpvID6p3x3AY5orvRv2WI) | 5:16 |
 | 4 | [Menergy \- Purple Disco Machine Remix](https://open.spotify.com/track/1eDW38uiHvC5b5G0yCvLIt) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO), [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Menergy \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4tqUXHGEGzUXUkgL1QrfDz) | 4:09 |
-| 5 | [Is It All over My Face? \(Single Female Vocal Version\)](https://open.spotify.com/track/1VlhbDOBiMzw10zLoa6C4x) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Pop Your Funk \- Complete Singles Collection](https://open.spotify.com/album/1kIrKkUYKUnc99fveET4TC) | 3:12 |
+| 5 | [Is It All over My Face? \- Single Female Vocal Version](https://open.spotify.com/track/149kJutrlIcPfxFNi2QUpx) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Pop Your Funk \- Complete Singles Collection](https://open.spotify.com/album/2MxgPjv3jn3x5xzJSK3fRy) | 3:12 |
 | 6 | [Warm Leatherette](https://open.spotify.com/track/5cAy7DIWiUybf2P4dFEekt) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Warm Leatherette](https://open.spotify.com/album/4rjhHrJA0OIVKNwXHKKKix) | 4:28 |
 | 7 | [Powerhouse](https://open.spotify.com/track/5INS1QN9QhFLXuzw6oVeea) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Powerhouse](https://open.spotify.com/album/1r35ZZCaieV6Dop37eAeSS) | 4:53 |
 | 8 | [Die 4 You](https://open.spotify.com/track/2OBY3aeK3P2iiB6tkuanRz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 3:32 |
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 | 20 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 21 | [Fear Evil Like Fire](https://open.spotify.com/track/1ddJPebD74sac45SLvdmWp) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:30 |
 | 22 | [High School Never Ends](https://open.spotify.com/track/1r3JvQ6JzLpkfP6weJ6bK3) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Mykki](https://open.spotify.com/album/6Sil5UHiRbx8yLouxGE55J) | 5:32 |
-| 23 | [Something Wrong](https://open.spotify.com/track/4gMUmiLng8cPWB55zE33QP) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Sugar the Bruise](https://open.spotify.com/album/6GnYy4az2e4zUR7ChMERqZ) | 3:03 |
+| 23 | [Something Wrong](https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Something Wrong](https://open.spotify.com/album/6MHCdB8CInfFwX56eX9JUw) | 3:03 |
 | 24 | [SAFE](https://open.spotify.com/track/4vgEM0n0EJUnjH3ltgkx2J) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 4:06 |
 | 25 | [Love Me!](https://open.spotify.com/track/7llVoVhEI2BHn5UGO1Nw6M) | [Macy Rodman](https://open.spotify.com/artist/64RYvzNaD6RCGOzTCBtZUk) | [Unbelievable Animals](https://open.spotify.com/album/1odAVzaT7FaUOPElKMF8lY) | 4:36 |
 | 26 | [Blind](https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ) | 6:18 |
 | 27 | [Queer](https://open.spotify.com/track/6nmuvquxXkrkBucbxpQ8Wo) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [kick iiii](https://open.spotify.com/album/3B2AK06ZiCvuZz0VPRvAF9) | 3:30 |
 | 28 | [Gonna Go](https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Gonna Go](https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv) | 2:57 |
-| 29 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/1jMFGctmGpa5qLqQZfpXNB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:33 |
+| 29 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/19BqqhEAwdLrSghLgWjfoO) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Bastard Jargon](https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6) | 3:33 |
 | 30 | [Working The Midnight Shift](https://open.spotify.com/track/1XMyPGjMoMBD37mY2curSq) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Once Upon A Time](https://open.spotify.com/album/30xC74OorsB2yAimgyVp95) | 5:07 |
 | 31 | [BUTT MUSCLE](https://open.spotify.com/track/5G1ikuiX52bfOyFFbpfquO) | [Christeene](https://open.spotify.com/artist/4m41vJb845gyc71nhcCePS) | [Basura](https://open.spotify.com/album/76jTLLZO2nNu3eIbLpbAwF) | 3:03 |
 | 32 | [Яitual](https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Яitual](https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX) | 1:24 |
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 | 46 | [Constant Craving \(Solo Piano & Strings\)](https://open.spotify.com/track/6F7RwqA4Gw8cJXcX8qQJMD) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Solo Piano Versions](https://open.spotify.com/album/0fEMAZBsuy2nbEKgAgm6Qn) | 3:27 |
 | 47 | [Ever New](https://open.spotify.com/track/3prdYdkc4utLEd1ASuuObJ) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Transmissions: The Music Of Beverly Glenn\-Copeland](https://open.spotify.com/album/6X7rxq4bKcwPTKRFgIzR30) | 7:09 |
 | 48 | [Freeway's End](https://open.spotify.com/track/3azCbxqbNDt1vNx6FLryq7) | [Sob Sister](https://open.spotify.com/artist/3BdBWbo7o1ADM6w1wNjvZG) | [How I Do My Hair Now](https://open.spotify.com/album/1lDuTMY9cfIg4INiqByQwm) | 1:14 |
-| 49 | [It's Okay To Cry](https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:50 |
+| 49 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 |
 
 Snapshot ID: `MTY4OTAwNTc0MCwwMDAwMDAwMDk1MzU3ODIxNDBhYzk1ZGRhMWNhMWQzMWFjYzMxZTMz`

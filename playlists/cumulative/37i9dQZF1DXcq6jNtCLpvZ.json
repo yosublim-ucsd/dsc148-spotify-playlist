@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Meteor Light",
+        "url": "https://open.spotify.com/album/1MJOHuKyxQp0o1FoRvKbji"
+      },
+      "artists": [
+        {
+          "name": "Ayahi Takagaki",
+          "url": "https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277080,
+      "name": "Meteor Light",
+      "url": "https://open.spotify.com/track/2z8qR5EIr2ht31c4r3mIQ4"
+    },
+    {
+      "album": {
         "name": "relation",
         "url": "https://open.spotify.com/album/5YM6BovRbsFgpPhszIvc81"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277093,
       "name": "Meteor Light",
       "url": "https://open.spotify.com/track/3JEuZrltbcs7iHQAw8fXLv"

@@ -6,6 +6,28 @@
     {
       "album": {
         "name": "A Cura",
+        "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245195,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
+    },
+    {
+      "album": {
+        "name": "A Cura",
         "url": "https://open.spotify.com/album/18Gya3EEn3haiyfbGnkknk"
       },
       "artists": [
@@ -20,7 +42,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245195,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/4wv5kAIPTucM1bzkijtswa"
@@ -56,10 +78,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192714,
       "name": "Agora Eu Quero Ir",
       "url": "https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN"
+    },
+    {
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
     },
     {
       "album": {
@@ -86,6 +126,24 @@
     {
       "album": {
         "name": "Ainda Bem Que Chegou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181978,
+      "name": "Ainda Bem Que Chegou (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
+    },
+    {
+      "album": {
+        "name": "Ainda Bem Que Chegou (Acoustic Version)",
         "url": "https://open.spotify.com/album/6bB5V8MnfPZrUXVMZe75IE"
       },
       "artists": [
@@ -96,7 +154,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181978,
       "name": "Ainda Bem Que Chegou - Acoustic Version",
       "url": "https://open.spotify.com/track/6pY5YWYHk7CWxmf0IwD7RX"
@@ -190,10 +248,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215340,
       "name": "Amar Amei - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5D0TL90eyFI27ucNfIemko"
+    },
+    {
+      "album": {
+        "name": "Nois T\u00e1 Alto - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4C3o0QG8RQMxuVYYBVut6u"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215340,
+      "name": "Amar Amei - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5t9r2NifmP11xHoVa5kAVG"
     },
     {
       "album": {
@@ -244,10 +320,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322736,
       "name": "Amor e F\u00e9 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4XcWXKMKp53c8OU3HHlxgL"
+    },
+    {
+      "album": {
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
     },
     {
       "album": {
@@ -497,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228470,
+      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
+    },
+    {
+      "album": {
         "name": "Corac\u00e3o de A\u00e7o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Q8M6zvVn94tvUcS7YEk5F"
       },
@@ -508,10 +620,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228470,
       "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4VTqGcHo7JPC9W5GRtJ6lK"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
     },
     {
       "album": {
@@ -526,7 +656,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200071,
       "name": "C\u00e9u Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
@@ -582,6 +712,28 @@
     {
       "album": {
         "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F"
+      },
+      "artists": [
+        {
+          "name": "Os Bartira",
+          "url": "https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w"
+        },
+        {
+          "name": "Tatila Krau",
+          "url": "https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221865,
+      "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq"
+    },
+    {
+      "album": {
+        "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
         "url": "https://open.spotify.com/album/4hUmGaTlOGFhmxFWuMGUYd"
       },
       "artists": [
@@ -596,7 +748,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221865,
       "name": "Dif\u00edcil Acreditar - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/1J6SRchSkxDhA5gaQIwyaZ"
@@ -630,10 +782,40 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+    },
+    {
+      "album": {
+        "name": "Dizeres",
+        "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257644,
+      "name": "Dizeres",
+      "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
     },
     {
       "album": {
@@ -754,6 +936,28 @@
     {
       "album": {
         "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+    },
+    {
+      "album": {
+        "name": "Fica",
         "url": "https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ"
       },
       "artists": [
@@ -768,7 +972,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184267,
       "name": "Fica",
       "url": "https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV"
@@ -798,6 +1002,24 @@
     {
       "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216336,
+      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3qWc2T5MTm0FXwA6y34Iww"
       },
       "artists": [
@@ -808,7 +1030,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216336,
       "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7ggu37HbVtpCoOn53ply27"
@@ -884,10 +1106,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136208,
       "name": "J\u00fapiter - Ao Vivo",
       "url": "https://open.spotify.com/track/0TkJ5VPDunXaQYNhScQyN4"
+    },
+    {
+      "album": {
+        "name": "J\u00fapiter (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136208,
+      "name": "J\u00fapiter - Ao Vivo",
+      "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
     },
     {
       "album": {
@@ -920,10 +1160,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206375,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf"
+    },
+    {
+      "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/5CpvvfYzoepNsuO6gtl85B"
+      },
+      "artists": [
+        {
+          "name": "Ariane Villa Lobos",
+          "url": "https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206375,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/6PdMs1R7JSYy2Xlh4EP4P1"
     },
     {
       "album": {
@@ -978,10 +1236,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231474,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
+    },
+    {
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
     },
     {
       "album": {
@@ -1003,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
+    },
+    {
+      "album": {
         "name": "Adrenalizou",
         "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
       },
@@ -1014,10 +1308,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165625,
       "name": "Morena - Acoustic Version",
       "url": "https://open.spotify.com/track/45mAusxpKe7DVNT5O2FGah"
+    },
+    {
+      "album": {
+        "name": "Nobre Vagabundo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0QXco6eRK3Dy6SezkfCHVj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181327,
+      "name": "Nobre Vagabundo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4a7Xb1MKZe72htweVyJozF"
     },
     {
       "album": {
@@ -1032,7 +1344,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181327,
       "name": "Nobre Vagabundo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6LvvLGpol0wkihXq9u5OVR"
@@ -1066,10 +1378,40 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230107,
       "name": "Novo Ciclo",
       "url": "https://open.spotify.com/track/59ZPagDizQRjxBsDmCL0Pi"
+    },
+    {
+      "album": {
+        "name": "Novo Ciclo",
+        "url": "https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cabelera",
+          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230107,
+      "name": "Novo Ciclo",
+      "url": "https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc"
     },
     {
       "album": {
@@ -1176,10 +1518,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257105,
       "name": "O Segundo Sol - Ao Vivo",
       "url": "https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257106,
+      "name": "O Segundo Sol - Ao Vivo",
+      "url": "https://open.spotify.com/track/6nq1UXqPzEPPIG54YMSnhn"
     },
     {
       "album": {
@@ -1205,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "album": {
         "name": "Adrenalizou",
         "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
       },
@@ -1216,7 +1594,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211447,
       "name": "O Sol",
       "url": "https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe"
@@ -1426,10 +1804,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203625,
       "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1itgNM42znLYss6wBj5N7B"
+    },
+    {
+      "album": {
+        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203625,
+      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
     },
     {
       "album": {
@@ -1506,7 +1902,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243179,
       "name": "Quando a Chuva Passar",
       "url": "https://open.spotify.com/track/2xugF4yd7h4xvW3i8BFMpW"
@@ -1524,7 +1920,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 243179,
       "name": "Quando a Chuva Passar",
       "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
@@ -1578,10 +1974,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
+    },
+    {
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
     },
     {
       "album": {
@@ -1705,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195138,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
+    },
+    {
+      "album": {
         "name": "In\u00edcio, Meio e Fim",
         "url": "https://open.spotify.com/album/5TahEqfBGN6qUwRCNYk7xW"
       },
@@ -1716,7 +2148,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195138,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/2xuG9kIWSOUKxYYjCzmuSq"
@@ -1764,6 +2196,24 @@
     {
       "album": {
         "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148669,
+      "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2wtiPI88rTbmrbB1zPndhY"
       },
       "artists": [
@@ -1774,7 +2224,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148669,
       "name": "S\u00f3 Penso Nela - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1XyEfOINM4wt9DVzrQzb6p"
@@ -1871,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
+    },
+    {
+      "album": {
         "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
       },
@@ -1882,7 +2350,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221106,
       "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz"
@@ -1918,10 +2386,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142857,
       "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd"
+    },
+    {
+      "album": {
+        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
     },
     {
       "album": {
@@ -2006,6 +2492,24 @@
     {
       "album": {
         "name": "Volta",
+        "url": "https://open.spotify.com/album/2wb9KwFiEKa9fpMRTzpXsF"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219544,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/6K6WJdyILe1BlbwGmKuJj7"
+    },
+    {
+      "album": {
+        "name": "Volta",
         "url": "https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH"
       },
       "artists": [
@@ -2016,7 +2520,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219611,
       "name": "Volta",
       "url": "https://open.spotify.com/track/5q4RQaVEcQXba0ldC6oS9s"

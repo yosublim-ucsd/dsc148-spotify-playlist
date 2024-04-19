@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,935 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,073 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 4 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
 | 5 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 |
 | 6 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 |
-| 7 | [Slow Down](https://open.spotify.com/track/3erXSpEt7pYUJp0Y7LGF5Y) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:53 |
+| 7 | [Slow Down](https://open.spotify.com/track/0uZCYK1sLwDbLtvx27HZdf) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Slow Down](https://open.spotify.com/album/2ITaw13oHCyBOYi22KMtBv) | 3:53 |
 | 8 | [Tearing Your Life Away](https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Tearing Your Life Away](https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT) | 3:16 |
 | 9 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 |
 | 10 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 |
-| 11 | [Survive](https://open.spotify.com/track/1cKk7nrg2SvXF9Vc32TxLk) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [The Ledge](https://open.spotify.com/album/3uesiuxoUGuj5eR8EivGEq) | 2:51 |
-| 12 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
+| 11 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 |
+| 12 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 |
 | 13 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
 | 14 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 |
 | 15 | [Chains](https://open.spotify.com/track/1Rb9fJlTrtaSsdej39f3HS) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [Chains](https://open.spotify.com/album/4iKN4OU3KuzUfyAl4BfQcF) | 3:20 |
@@ -43,22 +43,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 33 | [Soul Burn](https://open.spotify.com/track/72STRbMtY5ypgxtEJ5v6OU) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Soul Burn](https://open.spotify.com/album/7rtcZw6pUN8wv227KWwlNe) | 3:47 |
 | 34 | [ANUBIS \- Radio Edit](https://open.spotify.com/track/3p5K420THOCUqI51zRsFn9) | [SHADE UK](https://open.spotify.com/artist/42CxhYLSebXZKt2iQckVQE) | [ANUBIS \(Radio Edit\)](https://open.spotify.com/album/4pIyeeREJYe3p54ItQYYqE) | 3:18 |
 | 35 | [Sakura](https://open.spotify.com/track/522MnoBIHF3f27a4epAH0w) | [Nobody Has Heart](https://open.spotify.com/artist/2Jcxk0Vy05WM5tRAWMcJez) | [Sakura](https://open.spotify.com/album/0xGDN7ZZD9cuRmg9HpBH3A) | 2:31 |
-| 36 | [F.E.A.R](https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [F.E.A.R](https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz) | 2:08 |
+| 36 | [F.E.A.R](https://open.spotify.com/track/0k6EtwsAebp1IewsFR4sDX) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [F.E.A.R](https://open.spotify.com/album/5f7PQY309Ebga4P0ed23Dv) | 2:08 |
 | 37 | [The Weight of It All](https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [The Weight of It All](https://open.spotify.com/album/3eRxuVGr0PVyugK1L7MXa5) | 3:40 |
 | 38 | [Typecast](https://open.spotify.com/track/2nhnehRSB4y6TnNwseM8cE) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Typecast](https://open.spotify.com/album/4NKXhPVhqIGHFtDPRjC0fQ) | 3:20 |
 | 39 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
-| 40 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 |
+| 40 | [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 |
 | 41 | [Momentary Actuality](https://open.spotify.com/track/6DpSTa40eNVfGR4KLlBVlq) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [Momentary Actuality](https://open.spotify.com/album/2yRYLNFgp9CTtnJjTfs2Vf) | 3:38 |
 | 42 | [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 |
 | 43 | [Fortified by Bloodshed](https://open.spotify.com/track/3A54tdbCgDX2vYzjjqGMlv) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Fortified by Bloodshed](https://open.spotify.com/album/0l7KbR4AxPTAVs9R22MrIM) | 5:52 |
 | 44 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 |
-| 45 | [Asking for It](https://open.spotify.com/track/5AazJxSbvETGO1SrFrat76) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2gfaV8aoCpb2VkZrcpf42S) | 2:19 |
-| 46 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
+| 45 | [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 |
+| 46 | [WRAITH](https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [WRAITH](https://open.spotify.com/album/3ORFs3dvqLlEPZspzXkiHw) | 3:19 |
 | 47 | [Self\-Hatred](https://open.spotify.com/track/1RpoVQ6JCRSOnMD92wzwVS) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [Self\-Hatred](https://open.spotify.com/album/11AkDom3SSzweUq98OkWj1) | 2:26 |
 | 48 | [The Debt](https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn) | [Lift The Curse](https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv) | [The Debt](https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE) | 3:45 |
 | 49 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
-| 50 | [Cliffhanger](https://open.spotify.com/track/3Ulrp2jJIlDkShwJxgOU4G) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/5KQsHKT1HWEWKND1eEmDj1) | 2:36 |
-| 51 | [Abandon Meant](https://open.spotify.com/track/6yYRYER1dqMZsSyTmqfxrC) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Weight In The Water](https://open.spotify.com/album/6HvSSvuAPdwDhBdHUvTY3h) | 4:52 |
+| 50 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 |
+| 51 | [Abandon Meant](https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Abandon Meant](https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo) | 4:52 |
 | 52 | [Why](https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [God's Country](https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx) | 3:31 |
 | 53 | [Why Do We Fall?](https://open.spotify.com/track/4lTypHFJlOykJPbrHaMLSC) | [Ways.](https://open.spotify.com/artist/1CMHBL8Fwery02fixGOUTf) | [Why Do We Fall?](https://open.spotify.com/album/0bOPfOC2jAWJnnyJmRKsCZ) | 4:04 |
 | 54 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 |

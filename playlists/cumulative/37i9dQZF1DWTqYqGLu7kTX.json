@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD"
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw"
@@ -2304,10 +2304,28 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172054,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/4Mh04VNolWA9g97ychP72l"
+    },
+    {
+      "album": {
+        "name": "OFFSHORE",
+        "url": "https://open.spotify.com/album/0w48IpF7EcX0l0lX0zfAng"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172054,
+      "name": "OFFSHORE",
+      "url": "https://open.spotify.com/track/5EIQt0H1ZqObVYUrBLbN86"
     },
     {
       "album": {
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6"
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF"
@@ -2366,6 +2384,24 @@
     {
       "album": {
         "name": "On Top",
+        "url": "https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5"
+    },
+    {
+      "album": {
+        "name": "On Top",
         "url": "https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ"
       },
       "artists": [
@@ -2376,7 +2412,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183428,
       "name": "On Top",
       "url": "https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw"
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237209,
       "name": "Shah Ji",
       "url": "https://open.spotify.com/track/0e4uipfFzht1FPT7l3Wx2u"
@@ -2656,7 +2692,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 237209,
       "name": "Shah Ji",
       "url": "https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ"
@@ -2780,10 +2816,28 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168104,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/4A0DXFx7xuaXx5ak9Ufoc1"
+    },
+    {
+      "album": {
+        "name": "XPENSIVE",
+        "url": "https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170342,
+      "name": "SUPREME",
+      "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"
     },
     {
       "album": {
@@ -3107,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "WE ROLLIN",
+        "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "WE ROLLIN",
+      "url": "https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt"
+    },
+    {
+      "album": {
         "name": "We Rollin",
         "url": "https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf"
       },
@@ -3118,7 +3190,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"

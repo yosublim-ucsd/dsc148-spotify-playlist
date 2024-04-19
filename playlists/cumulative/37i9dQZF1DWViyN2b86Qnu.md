@@ -4,7 +4,7 @@
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Arca
 
-294 songs - 16 hr 37 min
+295 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 | 2023-02-17 | 2024-03-31 |
 | [Darkness \(Lonelyspeck remix\)](https://open.spotify.com/track/2IJsJMnFJtMzj6oeN23g1R) | [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Urdata](https://open.spotify.com/album/6i6yQB0bedTRrDOEZ3hxwn) | 2:22 | 2022-07-14 | 2023-04-01 |
 | [Darkness \(Lonelyspeck remix\)](https://open.spotify.com/track/58oFYXpLyrZIZWVmHaCxzp) | [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Urdata](https://open.spotify.com/album/4qRxDvzoIZKNuv6FgYno6v) | 2:22 | 2021-10-05 | 2022-07-29 |
-| [Day After A Night With U](https://open.spotify.com/track/3K2fuhmE5ZS7gL717nJGlN) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx) | 5:59 | 2024-03-30 |  |
+| [Day After A Night With U](https://open.spotify.com/track/3DcA0YYvdn4UE4kRsJT2XF) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/7dmFfEthXGsbthYMQCcrNG) | 5:59 | 2024-03-31 |  |
+| [Day After A Night With U](https://open.spotify.com/track/3K2fuhmE5ZS7gL717nJGlN) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx) | 5:59 | 2024-03-30 | 2024-04-19 |
 | [deadname](https://open.spotify.com/track/4GDoSxigoOM1wRsCOXfWar) | [Peach Rings](https://open.spotify.com/artist/5UGmBYowEIxtN1QFckaXPj) | [October Again](https://open.spotify.com/album/7oddffjRwjL82BQ13lZsA6) | 4:04 | 2022-03-04 | 2024-03-31 |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-02-17 | 2023-04-01 |
 | [Diamonds](https://open.spotify.com/track/1hJIbOjWpid6LtnozHmzRS) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:33 | 2021-10-05 | 2022-07-15 |
@@ -251,8 +252,8 @@
 | [Somehow \(You Still Get to Me\)](https://open.spotify.com/track/0Drh1iCeCWwRfyNktaPPgD) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [Somehow \(You Still Get to Me\)](https://open.spotify.com/album/2wJUk711TdBdKiEW1akfae) | 3:16 | 2023-01-23 | 2023-04-01 |
 | [Something To Say](https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Something To Say](https://open.spotify.com/album/6CBY5J52PrxflhCEelKeBR) | 4:04 | 2021-10-05 |  |
 | [space girl](https://open.spotify.com/track/1vzfxEYT3NhXrzzAqxGLPe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:51 | 2022-07-14 | 2024-03-31 |
-| [Spell For Nature](https://open.spotify.com/track/4gaoWqNl4GLcJHIeryIKjP) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 4:03 | 2023-09-14 |  |
-| [Spell For Nature](https://open.spotify.com/track/6niV6x6Cr37SM7zT5vd8Qi) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 4:03 | 2021-10-05 | 2023-11-05 |
+| [Spell For Nature](https://open.spotify.com/track/4gaoWqNl4GLcJHIeryIKjP) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 4:03 | 2023-09-14 | 2024-04-19 |
+| [Spell For Nature](https://open.spotify.com/track/6niV6x6Cr37SM7zT5vd8Qi) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 4:03 | 2021-10-05 |  |
 | [Spells](https://open.spotify.com/track/7w9pvfKwCbIc2K1v97ICkb) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Devi McCallion](https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I) | [Spells](https://open.spotify.com/album/0d5qdh50jjlmfJl4l9kcqP) | 2:23 | 2024-03-30 |  |
 | [Stop Calling The Police On Me](https://open.spotify.com/track/190fPjBiTtTKbfOSuJOjhv) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/0REInqUEj53H3tJjx1ku4Q) | 2:26 | 2022-07-14 | 2024-03-31 |
 | [Stop Calling The Police On Me](https://open.spotify.com/track/2lTDCazTtS9DBQNFLGsD2G) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Stop Calling The Police On Me](https://open.spotify.com/album/2hRsGWPM5yNNqPT18QMZFX) | 2:26 | 2022-07-14 | 2022-11-13 |

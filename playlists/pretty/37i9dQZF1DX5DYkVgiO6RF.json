@@ -1,6 +1,6 @@
 {
   "description": "all cruise, no breaks ",
-  "num_followers": 368499,
+  "num_followers": 370464,
   "original_name": "Night Drive",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,22 @@
     {
       "added_at": "2024-04-05 19:46:02",
       "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1XyEkVYVt6Q7SJHb5e8IrI"
       },
       "artists": [
         {
           "name": "Kavinsky",
           "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        },
+        {
+          "name": "Lovefoxxx",
+          "url": "https://open.spotify.com/artist/73XWBHR8NMgn23HuezjtuP"
         }
       ],
-      "duration_ms": 258413,
+      "duration_ms": 259800,
       "name": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+      "url": "https://open.spotify.com/track/74rvo4QWd2LXGRvm7S07kq"
     },
     {
       "added_at": "2024-04-05 19:46:02",
@@ -224,7 +228,7 @@
       "added_at": "2024-04-05 19:46:02",
       "album": {
         "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+        "url": "https://open.spotify.com/album/5f8pMn2A5d5lKMDapYbCmp"
       },
       "artists": [
         {
@@ -238,7 +242,7 @@
       ],
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+      "url": "https://open.spotify.com/track/2Imq77E6CEJR5TPUxlJvTY"
     },
     {
       "added_at": "2024-04-05 19:46:02",
@@ -388,7 +392,7 @@
       "added_at": "2024-04-05 19:46:02",
       "album": {
         "name": "Camp",
-        "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
+        "url": "https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx"
       },
       "artists": [
         {
@@ -398,23 +402,23 @@
       ],
       "duration_ms": 317293,
       "name": "Les",
-      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE"
+      "url": "https://open.spotify.com/track/0mCVNGC4Vvb6gDDQrDpaRh"
     },
     {
       "added_at": "2024-04-05 19:46:02",
       "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Bound 2",
-      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
       "added_at": "2024-04-05 19:46:02",
@@ -435,18 +439,18 @@
     {
       "added_at": "2024-04-05 19:46:02",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
     },
     {
       "added_at": "2024-04-05 19:46:02",
@@ -859,6 +863,22 @@
     {
       "added_at": "2024-04-05 19:46:02",
       "album": {
+        "name": "There's Really A Wolf",
+        "url": "https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "What They Want",
+      "url": "https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"
+    },
+    {
+      "added_at": "2024-04-05 19:46:02",
+      "album": {
         "name": "War & Leisure",
         "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
@@ -875,22 +895,6 @@
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "added_at": "2024-04-05 19:46:02",
-      "album": {
-        "name": "There's Really A Wolf",
-        "url": "https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "What They Want",
-      "url": "https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"
     }
   ],
   "unique_name": "Night Drive",

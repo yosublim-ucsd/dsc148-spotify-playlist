@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Born to Be with You / Streetheart",
+        "url": "https://open.spotify.com/album/6TkmkfaLuRjdXIdGGOCGj6"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258626,
+      "name": "In and out of the Shadows",
+      "url": "https://open.spotify.com/track/1oAqkNd2VjS435uds7U9Ez"
+    },
+    {
+      "album": {
         "name": "Born to Be With You / Streetheart",
         "url": "https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258626,
       "name": "In and out of the Shadows",
       "url": "https://open.spotify.com/track/5nyeOQbEyAg3PBkTDBOeqq"

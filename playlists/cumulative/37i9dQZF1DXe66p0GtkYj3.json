@@ -28,7 +28,7 @@
     {
       "album": {
         "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+        "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
       },
       "artists": [
         {
@@ -43,6 +43,28 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
+    },
+    {
+      "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
@@ -82,7 +104,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
@@ -104,6 +126,24 @@
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
+    },
+    {
+      "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO"
     },
     {
       "album": {
@@ -251,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Call on Me (Remixes)",
+        "url": "https://open.spotify.com/album/3zu8FQKyO50w6U1u5ljtv9"
+      },
+      "artists": [
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Call on Me (Ryan Riback Remix)",
+      "url": "https://open.spotify.com/track/14uKsvPJ0quzQvdB6f7Dur"
+    },
+    {
+      "album": {
         "name": "Call On Me (Remixes)",
         "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
       },
@@ -266,7 +328,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
@@ -368,10 +430,28 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184157,
       "name": "Dame Lo Que Necesito",
       "url": "https://open.spotify.com/track/4VD7GP0r61nRdYfwn7CIkB"
+    },
+    {
+      "album": {
+        "name": "Guaracha Season Vol. 1 (Guaracha & Aleteo)",
+        "url": "https://open.spotify.com/album/23S7LznAlwAGtxbBFMVPKn"
+      },
+      "artists": [
+        {
+          "name": "Aleteo Beatz",
+          "url": "https://open.spotify.com/artist/14FO0tBE8mCeKv5sID1Gso"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184111,
+      "name": "Dame Lo Que Necesito Morenito - Guaracha & Aleteo",
+      "url": "https://open.spotify.com/track/4YbARPddl6v4OZeCXQq3IN"
     },
     {
       "album": {
@@ -486,10 +566,36 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224623,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/7kNVWqaAteTJEk6X3XYPWz"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me No",
+        "url": "https://open.spotify.com/album/0vcbH3Tf3sPUHX9S574hTL"
+      },
+      "artists": [
+        {
+          "name": "Camila Gil Dj",
+          "url": "https://open.spotify.com/artist/1R4IVMO52fdaBQqXFyHjhi"
+        },
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/6wxY85ryqjN6xGcs1JmUyP"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224623,
+      "name": "Don't Call Me No",
+      "url": "https://open.spotify.com/track/1ZZartryTrLj3MhGu02uuS"
     },
     {
       "album": {
@@ -580,14 +686,14 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235161,
       "name": "El Sue\u00f1o - Radio Edit",
       "url": "https://open.spotify.com/track/0Fdg1K74O83ByiiOUpNBq5"
     },
     {
       "album": {
-        "name": "El Suen\u0303o",
+        "name": "El Sue\u00f1o",
         "url": "https://open.spotify.com/album/2JSS4JhgTUBykDukTGe7iX"
       },
       "artists": [
@@ -598,7 +704,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 235161,
       "name": "El Sue\u00f1o - Radio Edit",
       "url": "https://open.spotify.com/track/0HDudjyoG3UpWIMAJrXIaB"
@@ -623,6 +729,32 @@
     },
     {
       "album": {
+        "name": "Ense\u00f1ame a So\u00f1ar",
+        "url": "https://open.spotify.com/album/37hv7pul2kfH3f4UCyDHsd"
+      },
+      "artists": [
+        {
+          "name": "Susan D\u00edaz",
+          "url": "https://open.spotify.com/artist/6Oq5iunq4z5E4yAdNpWAjk"
+        },
+        {
+          "name": "DJ Goozo",
+          "url": "https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj"
+        },
+        {
+          "name": "Massianello",
+          "url": "https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ense\u00f1ame a So\u00f1ar",
+      "url": "https://open.spotify.com/track/1tbT9JXNUBizW1XYGoFzKE"
+    },
+    {
+      "album": {
         "name": "Sweet Karma Compilation 2020",
         "url": "https://open.spotify.com/album/1SSXLsNfuXPjz3f2i0Emop"
       },
@@ -642,7 +774,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "Ense\u00f1ame a So\u00f1ar",
       "url": "https://open.spotify.com/track/7uGDi5xCAu1rGjLhpXDCrh"
@@ -682,7 +814,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173769,
       "name": "Fayna",
       "url": "https://open.spotify.com/track/5RPRDOlIKvGOnLFuZcfJ47"
@@ -700,7 +832,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 171894,
       "name": "Fayna - Radio Edit",
       "url": "https://open.spotify.com/track/6P7YcQvewBbmQzBQNtlLXl"
@@ -778,7 +910,7 @@
     {
       "album": {
         "name": "Guaracha",
-        "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
+        "url": "https://open.spotify.com/album/1diVgZyGrvpj44T1Znoaj0"
       },
       "artists": [
         {
@@ -793,6 +925,28 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220177,
+      "name": "Guaracha",
+      "url": "https://open.spotify.com/track/4McFFaQW5LSmkeSVMLCGFN"
+    },
+    {
+      "album": {
+        "name": "Guaracha",
+        "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
+      },
+      "artists": [
+        {
+          "name": "Yilberking",
+          "url": "https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt"
+        },
+        {
+          "name": "Anny Sepulveda",
+          "url": "https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 220177,
       "name": "Guaracha",
       "url": "https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7"
@@ -822,7 +976,7 @@
     {
       "album": {
         "name": "Haci\u00e9ndome el Amor",
-        "url": "https://open.spotify.com/album/0zwPHUPtqpfz4xJF8GcByl"
+        "url": "https://open.spotify.com/album/1KZ6svq3cGOGjaKGi7yjre"
       },
       "artists": [
         {
@@ -845,6 +999,36 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 270600,
+      "name": "Haci\u00e9ndome el Amor",
+      "url": "https://open.spotify.com/track/75uNIVHIDrGY8BzDNDRA4d"
+    },
+    {
+      "album": {
+        "name": "Haci\u00e9ndome el Amor",
+        "url": "https://open.spotify.com/album/0zwPHUPtqpfz4xJF8GcByl"
+      },
+      "artists": [
+        {
+          "name": "Exotic",
+          "url": "https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh"
+        },
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        },
+        {
+          "name": "Harmoob",
+          "url": "https://open.spotify.com/artist/67cn5quJBbSYgeeiUnOZts"
+        },
+        {
+          "name": "Jery Sandoval",
+          "url": "https://open.spotify.com/artist/1eayUbKToItiafMJGra6pF"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 270616,
       "name": "Haci\u00e9ndome el Amor",
       "url": "https://open.spotify.com/track/0a0nRK8pQpzjHTPpEOvrwx"
@@ -874,7 +1058,7 @@
     {
       "album": {
         "name": "I Just Died In Your Arms Tonight",
-        "url": "https://open.spotify.com/album/1CTcktO7RfykLfA52TbuGP"
+        "url": "https://open.spotify.com/album/55EjSFq0Z4J4uYe974KkXD"
       },
       "artists": [
         {
@@ -897,6 +1081,36 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162000,
+      "name": "I Just Died In Your Arms Tonight",
+      "url": "https://open.spotify.com/track/6wGJqxCSM2Ooo3171l1uch"
+    },
+    {
+      "album": {
+        "name": "I Just Died In Your Arms Tonight",
+        "url": "https://open.spotify.com/album/1CTcktO7RfykLfA52TbuGP"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        },
+        {
+          "name": "Andros",
+          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 162063,
       "name": "I Just Died In Your Arms Tonight (feat. Andros)",
       "url": "https://open.spotify.com/track/0bP88wC19xydrjB4vHe8Be"
@@ -970,7 +1184,7 @@
     {
       "album": {
         "name": "In My Mind",
-        "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
+        "url": "https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG"
       },
       "artists": [
         {
@@ -985,6 +1199,28 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 175555,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 175555,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
@@ -1028,7 +1264,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 441219,
       "name": "In Your Eyes - Mark Di Meo Remix",
       "url": "https://open.spotify.com/track/3c0Sz8vxzTIlbgi3SGoKnm"
@@ -1050,7 +1286,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 441219,
       "name": "In Your Eyes - Mark Di Meo Remix",
       "url": "https://open.spotify.com/track/5tfNWFm4LIrVWNPzsaYjZL"
@@ -1084,7 +1320,7 @@
     {
       "album": {
         "name": "Lo Malo Se Fue",
-        "url": "https://open.spotify.com/album/5GQiolbnTXFHmBUEA0trro"
+        "url": "https://open.spotify.com/album/79n22tDFntmag8iPAmawIH"
       },
       "artists": [
         {
@@ -1095,6 +1331,24 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220673,
+      "name": "Lo Malo Se Fue",
+      "url": "https://open.spotify.com/track/5rultCWPOzsC3aU6Ng2jsY"
+    },
+    {
+      "album": {
+        "name": "Lo Malo Se Fue",
+        "url": "https://open.spotify.com/album/5GQiolbnTXFHmBUEA0trro"
+      },
+      "artists": [
+        {
+          "name": "Marcela Reyes",
+          "url": "https://open.spotify.com/artist/2a3lL5m6feAyGUR1PI2osJ"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 220673,
       "name": "Lo Malo Se Fue",
       "url": "https://open.spotify.com/track/6VNLV0e3C9ygvKHmIvKVyU"
@@ -1185,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Me Provocas",
+        "url": "https://open.spotify.com/album/2uQeFOmxY8lnH5EFr7KOAO"
+      },
+      "artists": [
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293015,
+      "name": "Me Provocas",
+      "url": "https://open.spotify.com/track/0r3VcnXA2bjXjFjRa8ittm"
+    },
+    {
+      "album": {
         "name": "Origenes",
         "url": "https://open.spotify.com/album/66OBjU5X4edaRBuNZHaZYV"
       },
@@ -1196,7 +1468,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293680,
       "name": "Me Provocas",
       "url": "https://open.spotify.com/track/4PyXKLmDEF9pCJbzaVHQxt"
@@ -1218,10 +1490,32 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210466,
       "name": "Multiples Efectos",
       "url": "https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ"
+    },
+    {
+      "album": {
+        "name": "Multiples Efectos",
+        "url": "https://open.spotify.com/album/2Lg7enLjJNY4yJSBv9wWbU"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cardona",
+          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
+        },
+        {
+          "name": "Heiky Miller",
+          "url": "https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Multiples Efectos",
+      "url": "https://open.spotify.com/track/62RKkuMYjFQSPlXstcCn9s"
     },
     {
       "album": {
@@ -1346,10 +1640,50 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184685,
       "name": "Perdiendo El Control",
       "url": "https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX"
+    },
+    {
+      "album": {
+        "name": "Perdiendo El Control",
+        "url": "https://open.spotify.com/album/64kFc9h4CKoCCgvl3wRz5g"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Marco Acevedo",
+          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184685,
+      "name": "Perdiendo El Control",
+      "url": "https://open.spotify.com/track/3UBvyAHkTBCVXnzjdFItkL"
+    },
+    {
+      "album": {
+        "name": "Que Comience la Fiesta 2.0 (Guaracha, Aleteo, Zapateo, Tribal, House)",
+        "url": "https://open.spotify.com/album/476Nyu9MATkxd9O50IDub8"
+      },
+      "artists": [
+        {
+          "name": "Dj Freky",
+          "url": "https://open.spotify.com/artist/5Z2BYtWCOshEjluQgPXl3v"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248616,
+      "name": "Que Comience la Fiesta",
+      "url": "https://open.spotify.com/track/5XHOuKtlZLtUuZUxserOn3"
     },
     {
       "album": {
@@ -1364,7 +1698,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248662,
       "name": "Que Comience La Fiesta 2",
       "url": "https://open.spotify.com/track/1b3qNtjbi9OvVQTZ1A50BC"
@@ -1408,10 +1742,36 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165176,
       "name": "QueLoQue",
       "url": "https://open.spotify.com/track/5jWiuNtsn9mUUEMa4bYYK3"
+    },
+    {
+      "album": {
+        "name": "Music is the Weapon",
+        "url": "https://open.spotify.com/album/0xJyM0DFwty067hIBH5fql"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "QueLoQue",
+      "url": "https://open.spotify.com/track/0hQCHGr11z427Sbknj6M20"
     },
     {
       "album": {
@@ -1570,7 +1930,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
@@ -1592,7 +1952,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
@@ -1621,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Saxo Suelta",
+        "url": "https://open.spotify.com/album/08QGiCrEuY5lUFT3LYsgMC"
+      },
+      "artists": [
+        {
+          "name": "Darek Sotelo",
+          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229433,
+      "name": "SaxoSuelta Oriente Tribe",
+      "url": "https://open.spotify.com/track/4KohhrwZap4UCXBaHTryRG"
+    },
+    {
+      "album": {
         "name": "SaxoSuelta Oriente Tribe",
         "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
       },
@@ -1636,7 +2014,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229437,
       "name": "SaxoSuelta Oriente Tribe",
       "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
@@ -1666,7 +2044,7 @@
     {
       "album": {
         "name": "Sed",
-        "url": "https://open.spotify.com/album/5BNNwl1hGhrkflKl7YHZAH"
+        "url": "https://open.spotify.com/album/5K2GkEQJSDGHeFkLstbgm2"
       },
       "artists": [
         {
@@ -1683,7 +2061,51 @@
       "date_removed": null,
       "duration_ms": 202500,
       "name": "Sed",
+      "url": "https://open.spotify.com/track/0I09940MV2hQ8wzTJQfcMP"
+    },
+    {
+      "album": {
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/5BNNwl1hGhrkflKl7YHZAH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Parranda",
+          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
+        },
+        {
+          "name": "Tyago Baby",
+          "url": "https://open.spotify.com/artist/7BbERzGvIzvgGbtExDXWGC"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 202500,
+      "name": "Sed",
       "url": "https://open.spotify.com/track/1NMp0QPi9Kn2cyjPz8tK99"
+    },
+    {
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/1d4yzjjs0QhzKVBCpwuFc5"
+      },
+      "artists": [
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        },
+        {
+          "name": "Valka",
+          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189460,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/3iAOfm1pg72s3N0q04WejZ"
     },
     {
       "album": {
@@ -1702,10 +2124,32 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189460,
       "name": "Sed\u00faceme",
       "url": "https://open.spotify.com/track/7FhwwlbUDWnwqTCxR3NLmO"
+    },
+    {
+      "album": {
+        "name": "Severo Viaje",
+        "url": "https://open.spotify.com/album/0qRrIVLeRSjuMKc1zcSw2C"
+      },
+      "artists": [
+        {
+          "name": "Manguito DJ",
+          "url": "https://open.spotify.com/artist/0yc4gso86blxv1vjjv8qOJ"
+        },
+        {
+          "name": "Sergio Angel",
+          "url": "https://open.spotify.com/artist/4B2zqON27QqPiaci24snTh"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189482,
+      "name": "Severo Viaje",
+      "url": "https://open.spotify.com/track/5qS4i1gxlAR39C5Nf8ewFl"
     },
     {
       "album": {
@@ -1724,7 +2168,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189482,
       "name": "Severo Viaje (feat. Sergio Angel)",
       "url": "https://open.spotify.com/track/3Ife3zAeYCv4s6nsuaMbxJ"
@@ -1742,10 +2186,28 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD"
     },
     {
       "album": {
@@ -1798,7 +2260,7 @@
     {
       "album": {
         "name": "Siento",
-        "url": "https://open.spotify.com/album/4zhQkVYCdh97mVODcPppvi"
+        "url": "https://open.spotify.com/album/12kUXPio666DuCgo1vm5Bg"
       },
       "artists": [
         {
@@ -1813,6 +2275,28 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 239830,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/3hJ4pEhAMMDywK9rF6j7rV"
+    },
+    {
+      "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/4zhQkVYCdh97mVODcPppvi"
+      },
+      "artists": [
+        {
+          "name": "Manco the Sound",
+          "url": "https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI"
+        },
+        {
+          "name": "Yilberking",
+          "url": "https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 239880,
       "name": "Siento",
       "url": "https://open.spotify.com/track/0Egq5VEdpO2N1mKkG4AT1m"
@@ -1948,10 +2432,50 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317187,
       "name": "Toco el Cielo",
       "url": "https://open.spotify.com/track/2aq9MMe06Uw0v76iaCRceg"
+    },
+    {
+      "album": {
+        "name": "Toco el Cielo",
+        "url": "https://open.spotify.com/album/5dGLJZBuArC6PbazhAImxz"
+      },
+      "artists": [
+        {
+          "name": "Tribal King",
+          "url": "https://open.spotify.com/artist/3Ep2Irgv8GTclrOZ3xhsmh"
+        },
+        {
+          "name": "Manco the Sound",
+          "url": "https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323552,
+      "name": "Toco el Cielo",
+      "url": "https://open.spotify.com/track/18LSseF7fjrr04NeBmhf3c"
+    },
+    {
+      "album": {
+        "name": "Cornettazos (Vol.1)",
+        "url": "https://open.spotify.com/album/46OB2ADE4JZGY7bhI4AG4s"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203933,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/1LSvF7BulDxE9TXGdj25YH"
     },
     {
       "album": {
@@ -1966,7 +2490,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203933,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/1iSdM8XTLqeHam8jt3WKwq"
@@ -2032,7 +2556,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191484,
       "name": "Yo Le Doy",
       "url": "https://open.spotify.com/track/1xsUgc8NoDYvkuiiLhivSb"
@@ -2058,7 +2582,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 191484,
       "name": "Yo Le Doy",
       "url": "https://open.spotify.com/track/2i6Lvfy5CJmmqdvl7DgVqT"

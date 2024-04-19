@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Future & Metro Boomin'\(pictured\), Big Sean and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,411 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,476 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 14 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 |
 | 15 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
 | 16 | [Separate the Rams](https://open.spotify.com/track/5yBmeokqzmbawwhpgdWmBG) | [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY) | [Separate the Rams](https://open.spotify.com/album/7drCT7zg78Bajn6GjMvVUd) | 2:35 |
-| 17 | [Bon Appétit](https://open.spotify.com/track/0IfhFWyoPV2kz0JBkm2DbJ) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YOU KNOW THE DRILL](https://open.spotify.com/album/2pwys5fUDgcQpipmj3eMrQ) | 3:05 |
+| 17 | [Bon Appétit](https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YOU KNOW THE DRILL](https://open.spotify.com/album/0Sy4e6u2MN8w06xF0U80sh) | 3:05 |
 | 18 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 |
 | 19 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
 | 20 | [Ntja'ka](https://open.spotify.com/track/4dk2L1zuiTfTLMLTQdyceb) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [DUST](https://open.spotify.com/album/4Nmv2l2b9UUIeENMqIU3Ru) | 4:21 |

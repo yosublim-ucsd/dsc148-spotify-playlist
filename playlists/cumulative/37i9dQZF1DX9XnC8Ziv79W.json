@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 356731,
       "name": "Ennoda Kanavil Vantha Ennoda Dhevathaye",
       "url": "https://open.spotify.com/track/4yK5B0xPEZDR3LhFSxW70z"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 356731,
       "name": "Ennoda Kanavil Vantha Ennoda Dhevathaye",
       "url": "https://open.spotify.com/track/6jW5NYJwRjyXveNWsM6tEo"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264751,
       "name": "Ennoda Necha Etho Etho Senjaa",
       "url": "https://open.spotify.com/track/335kH32uMbTttLIreClVZa"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 264751,
       "name": "Ennoda necha Etho Etho Senjaa",
       "url": "https://open.spotify.com/track/7K2agO7ZGgDxhCA3YlNn9i"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 110117,
       "name": "Jorthaale",
       "url": "https://open.spotify.com/track/39g4GmzPyDLTdtnhu24r2H"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110117,
       "name": "Jorthaale",
       "url": "https://open.spotify.com/track/4Cc6Nh0GU0AIu3jg9jJv9q"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 326661,
       "name": "Naa Oru Yedakodam",
       "url": "https://open.spotify.com/track/79nQElTCfuUTDLoK6JOcw4"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327319,
       "name": "Naa Oru Yedakodam",
       "url": "https://open.spotify.com/track/59dfn1rYXM3GAtrPr5DDnK"
@@ -824,6 +824,32 @@
     {
       "album": {
         "name": "Oorambutu Ooru Sandaiyila",
+        "url": "https://open.spotify.com/album/2VldwtmVNt3kE7YRyt235R"
+      },
+      "artists": [
+        {
+          "name": "Gaana Subash",
+          "url": "https://open.spotify.com/artist/3uOEdKZ7hTOfC0M33TYvNs"
+        },
+        {
+          "name": "Gaana Sakthi",
+          "url": "https://open.spotify.com/artist/0JW8eXqQUSkuDRsHDCHJUt"
+        },
+        {
+          "name": "Bennet Christopher",
+          "url": "https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216004,
+      "name": "Oorambutu Ooru Sandaiyila",
+      "url": "https://open.spotify.com/track/5hEHNXF0USUjdXY6i5ESUw"
+    },
+    {
+      "album": {
+        "name": "Oorambutu Ooru Sandaiyila",
         "url": "https://open.spotify.com/album/1TdEV9X9B1KqQutJldnQZ4"
       },
       "artists": [
@@ -842,7 +868,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216004,
       "name": "Oorambutu Ooru Sandaiyila",
       "url": "https://open.spotify.com/track/2ajNdMH9CNVigltOzDWANv"
@@ -878,7 +904,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246804,
       "name": "Poda Thambi Pithala Kundaaa",
       "url": "https://open.spotify.com/track/5MtjlBnMtBDWnIbS2v78Yo"
@@ -900,7 +926,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 246804,
       "name": "Poda Thambi Pithala Kundaaa",
       "url": "https://open.spotify.com/track/3cLa3VMzLbSJsfdTgwaVYt"
@@ -958,7 +984,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161999,
       "name": "Route Gaana",
       "url": "https://open.spotify.com/track/2sY6FfvO8erkqm3vP8wNmc"
@@ -980,7 +1006,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 161999,
       "name": "Route Gaana",
       "url": "https://open.spotify.com/track/5CjfkWiY5nHw49kv6u5rpZ"
@@ -1190,7 +1216,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 230478,
       "name": "Un heart Weight ethana kg ma",
       "url": "https://open.spotify.com/track/2MAr6dMCfYiEsQXyPLYAiw"
@@ -1208,7 +1234,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230478,
       "name": "Un Heart Weight Ethana Kg Mah",
       "url": "https://open.spotify.com/track/4l4DQ8TIifHP6QKwu2wWTp"

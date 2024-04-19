@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 233760,
       "name": "Above The Clouds Lies Eternal Sun",
       "url": "https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 301022,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4AKNkgtTweGqn1GNffqSnw"
@@ -384,6 +384,24 @@
     {
       "album": {
         "name": "Opening Titles / End Credits",
+        "url": "https://open.spotify.com/album/66c1vWF37r2B6d9KjhwmD3"
+      },
+      "artists": [
+        {
+          "name": "Palms",
+          "url": "https://open.spotify.com/artist/73UTl03wWJozyn2hoahK6l"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291460,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/3MdVwJwEHjD1DC21kvpGDw"
+    },
+    {
+      "album": {
+        "name": "Opening Titles / End Credits",
         "url": "https://open.spotify.com/album/0wd7MIcvlfmNLLxkSxGDaJ"
       },
       "artists": [
@@ -520,7 +538,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375933,
       "name": "Gl\u00f3s\u00f3li",
       "url": "https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf"
@@ -538,8 +556,8 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
-      "duration_ms": 386880,
+      "date_removed": null,
+      "duration_ms": 375933,
       "name": "Gl\u00f3s\u00f3li",
       "url": "https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd"
     },
@@ -600,7 +618,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 560653,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 402573,
       "name": "He Films The Clouds Pt. 2",
       "url": "https://open.spotify.com/track/07nYZZQT49i7yAIs3k3tOe"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 520172,
       "name": "Hexis",
       "url": "https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 457226,
       "name": "Hymn for the Greatest Generation",
       "url": "https://open.spotify.com/track/3ofrLJrQjMPuEBQddeAbZn"
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255335,
       "name": "I Can Almost See You",
       "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
@@ -820,7 +838,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 404480,
       "name": "I'm Jim Morrison, I'm Dead",
       "url": "https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW"
@@ -860,6 +878,24 @@
       "duration_ms": 456480,
       "name": "In Illusions Of Order",
       "url": "https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g"
+    },
+    {
+      "album": {
+        "name": "Learning To Growl",
+        "url": "https://open.spotify.com/album/3UNCRus4lasxUBTjmr8rzx"
+      },
+      "artists": [
+        {
+          "name": "Overhead, The Albatross",
+          "url": "https://open.spotify.com/artist/6LvUT0nQphy4BzdzKbdOpx"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471815,
+      "name": "Indie Rose",
+      "url": "https://open.spotify.com/track/1kGTMoTlnYNX6SqR9JSGTA"
     },
     {
       "album": {
@@ -928,7 +964,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 482121,
       "name": "Job's Lament",
       "url": "https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj"
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 979560,
       "name": "Mogwai Fear Satan",
       "url": "https://open.spotify.com/track/39q7Yyr5iD0ajA6ZFw91y7"
@@ -1148,7 +1184,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314586,
       "name": "My Only Swerving",
       "url": "https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS"
@@ -1256,7 +1292,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 473733,
       "name": "Safety in Numbers",
       "url": "https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df"
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360146,
       "name": "Silent Flight, Sleeping Dawn - Remastered",
       "url": "https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU"
@@ -1562,7 +1598,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 614040,
       "name": "The Only Moment We Were Alone",
       "url": "https://open.spotify.com/track/52icQiVSIbSG1VOA5FwRdB"
@@ -1580,7 +1616,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 600973,
       "name": "The Only Moment We Were Alone - Remastered",
       "url": "https://open.spotify.com/track/7rQbeL4G2aIYy5VWDumGpR"
@@ -1598,7 +1634,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 331360,
       "name": "The World I Remember",
       "url": "https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx"
@@ -1724,7 +1760,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340800,
       "name": "Twentytwofourteen",
       "url": "https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp"
@@ -1742,7 +1778,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340840,
       "name": "Twentytwofourteen",
       "url": "https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU"
@@ -1820,7 +1856,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378066,
       "name": "Water from the Same Source",
       "url": "https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP"
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 178421,
       "name": "We Grew Old Too Soon",
       "url": "https://open.spotify.com/track/3bISPUFe5nbO9wTHH1fOEi"
@@ -1860,6 +1896,24 @@
       "duration_ms": 281893,
       "name": "We'll Find the Light in Darkness",
       "url": "https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj"
+    },
+    {
+      "album": {
+        "name": "No Feeling Is Final",
+        "url": "https://open.spotify.com/album/42Reb04Pln4XkONjQGhm5C"
+      },
+      "artists": [
+        {
+          "name": "Maybeshewill",
+          "url": "https://open.spotify.com/artist/33qUIIydEBgWpe58IA0o61"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "We've Arrived at the Burning Building",
+      "url": "https://open.spotify.com/track/7vmv4QUPdDSM6cZNen8keb"
     },
     {
       "album": {
@@ -1928,7 +1982,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 315329,
       "name": "Zaris",
       "url": "https://open.spotify.com/track/3lG9eYlhnipGfvAR4ZkBk7"

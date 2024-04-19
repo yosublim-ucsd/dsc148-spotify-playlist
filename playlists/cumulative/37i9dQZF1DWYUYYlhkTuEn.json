@@ -96,10 +96,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 472987,
       "name": "Ayu III",
       "url": "https://open.spotify.com/track/091Jsw75rwfvRChGoWNfeT"
+    },
+    {
+      "album": {
+        "name": "Ayu III",
+        "url": "https://open.spotify.com/album/4curFTmCDS5MFSshXRHLO3"
+      },
+      "artists": [
+        {
+          "name": "Rey&Kjavik",
+          "url": "https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472987,
+      "name": "Ayu III",
+      "url": "https://open.spotify.com/track/1jFZQ17rS9pzNBhKgbpXHV"
     },
     {
       "album": {
@@ -320,10 +338,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 520027,
       "name": "Forest Of Souls",
       "url": "https://open.spotify.com/track/5YECP7XMRmXLNNA38yhTNU"
+    },
+    {
+      "album": {
+        "name": "Muscida",
+        "url": "https://open.spotify.com/album/6PMIx5rJkJeHhLpGEel7a3"
+      },
+      "artists": [
+        {
+          "name": "Feinheitsbrei",
+          "url": "https://open.spotify.com/artist/5kSE2CEyHc2XC9lQCAH1ET"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520027,
+      "name": "Forest of Souls",
+      "url": "https://open.spotify.com/track/68ivVcTKcwfvTEc8BWRm8b"
     },
     {
       "album": {
@@ -506,6 +542,24 @@
     {
       "album": {
         "name": "Microdosing",
+        "url": "https://open.spotify.com/album/1nunHGkCH7EvDk1JB0Rqcf"
+      },
+      "artists": [
+        {
+          "name": "Franca",
+          "url": "https://open.spotify.com/artist/0T9mocL0H8qcDBnmJVc1gC"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407500,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/0vmBvWidJO8SXtIbWA4er9"
+    },
+    {
+      "album": {
+        "name": "Microdosing",
         "url": "https://open.spotify.com/album/1wAcFOEpgTY6o1LePmdb5f"
       },
       "artists": [
@@ -516,7 +570,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407500,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/79Tgp7w5NN0VLsAWWd8cx8"
@@ -855,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Running After Dark",
+        "url": "https://open.spotify.com/album/3NOzucYE6J15NGZ5VtYPpl"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383861,
+      "name": "Running After Dark",
+      "url": "https://open.spotify.com/track/2egXzNVKriaM3brq5XLswJ"
+    },
+    {
+      "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
       },
@@ -866,7 +938,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383861,
       "name": "Running After Dark",
       "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
@@ -1052,7 +1124,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 366006,
       "name": "Smek - Rey&Kjavik Remix",
       "url": "https://open.spotify.com/track/1PyfWp1rg8omX2DOtg65pR"
@@ -1074,7 +1146,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 366006,
       "name": "Smek - Rey&Kjavik Remix",
       "url": "https://open.spotify.com/track/3EJHAXAPhqKoUppERPCJtT"
@@ -1216,10 +1288,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 379853,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/4Bub1jECKbXpix2gnbnu5e"
+    },
+    {
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/1uslP5LYF4fJ35axVDASDp"
+      },
+      "artists": [
+        {
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379853,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/7mhat9koVLAJ5NfyZduKWs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYUYYlhkTuEn"

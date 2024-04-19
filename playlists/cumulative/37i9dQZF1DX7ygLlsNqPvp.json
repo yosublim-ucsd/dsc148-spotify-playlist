@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124906,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/5laAQVa5FY1IKNZHk2ucr2"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 163862,
       "name": "ANADWO",
       "url": "https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163862,
       "name": "ANADWO",
       "url": "https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 166778,
       "name": "Asakaa",
       "url": "https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166778,
       "name": "Asakaa",
       "url": "https://open.spotify.com/track/3nV1r3UjnHn0X7fyoqIRwi"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 232258,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232258,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/1xsYYgR8jKoUXRSwqdSEzw"
@@ -1256,6 +1256,36 @@
     {
       "album": {
         "name": "Distance Relationship",
+        "url": "https://open.spotify.com/album/4cs5YFk1SlTyQ70tWZaeWR"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209188,
+      "name": "Distance Relationship",
+      "url": "https://open.spotify.com/track/5ulBQnE0UZpPO0AvVSun5J"
+    },
+    {
+      "album": {
+        "name": "Distance Relationship",
         "url": "https://open.spotify.com/album/4pKumGgMv2SoaOi1X9WNbg"
       },
       "artists": [
@@ -1278,7 +1308,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209188,
       "name": "Distance Relationship",
       "url": "https://open.spotify.com/track/7GUtv7iZxcGtCfeEtinfKm"
@@ -1606,7 +1636,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146666,
       "name": "Ghana - Remix",
       "url": "https://open.spotify.com/track/6Gj9DBxR759xBP6g5zxBhA"
@@ -1818,10 +1848,44 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
+    },
+    {
+      "album": {
+        "name": "Holy F4k",
+        "url": "https://open.spotify.com/album/624JazNcZcbFjWu943ZBZ8"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Holy F4k",
+      "url": "https://open.spotify.com/track/4lzWu0lHUWhiRV9egR0i2c"
     },
     {
       "album": {
@@ -2090,6 +2154,28 @@
     {
       "album": {
         "name": "PAIN IN GLORY",
+        "url": "https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "XlimKid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "LONELY ROAD",
+      "url": "https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3"
+    },
+    {
+      "album": {
+        "name": "PAIN IN GLORY",
         "url": "https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T"
       },
       "artists": [
@@ -2104,7 +2190,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180937,
       "name": "LONELY ROAD",
       "url": "https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5"
@@ -2624,7 +2710,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 184555,
       "name": "Obaa Hemaa",
       "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
@@ -2662,7 +2748,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184555,
       "name": "Obaa Hemaa",
       "url": "https://open.spotify.com/track/7aE7Icgz0lehLspnBk071W"
@@ -2792,7 +2878,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
@@ -2822,7 +2908,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
@@ -3012,7 +3098,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172173,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3OJTZiHmdYT2USRnRglgnm"
@@ -3034,7 +3120,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp"
@@ -3142,7 +3228,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168480,
       "name": "Sa Me",
       "url": "https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa"
@@ -3172,7 +3258,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 168480,
       "name": "Sa Me",
       "url": "https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR"
@@ -3224,6 +3310,24 @@
       "duration_ms": 137142,
       "name": "Senza Me",
       "url": "https://open.spotify.com/track/3okTuqX0Kly3X0JUPXh3gb"
+    },
+    {
+      "album": {
+        "name": "SERWAA AKOTO",
+        "url": "https://open.spotify.com/album/6jaLH3fCQ1UnI72d1SojK6"
+      },
+      "artists": [
+        {
+          "name": "Chicogod",
+          "url": "https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "SERWAA AKOTO",
+      "url": "https://open.spotify.com/track/6GKR5vvFOP0i30dU7bMKmA"
     },
     {
       "album": {
@@ -3549,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "The One that Got Away",
+        "url": "https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe"
+      },
+      "artists": [
+        {
+          "name": "Ari Rei",
+          "url": "https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176322,
+      "name": "The One that Got Away",
+      "url": "https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk"
       },
@@ -3621,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Valley Of Trappers",
+        "url": "https://open.spotify.com/album/7mZz6DhJ44tgc0rIypklgj"
+      },
+      "artists": [
+        {
+          "name": "XlimKid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133851,
+      "name": "Valley Of Trappers",
+      "url": "https://open.spotify.com/track/0M45LdUPRAlAZJUp6jeHL5"
+    },
+    {
+      "album": {
         "name": "Vawulence",
         "url": "https://open.spotify.com/album/119mHn5zmu5HNlZhQKcuVB"
       },
@@ -3676,7 +3816,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177952,
       "name": "Wala (Life)",
       "url": "https://open.spotify.com/track/3QRqEQahFD0lDIlO8bPMmm"

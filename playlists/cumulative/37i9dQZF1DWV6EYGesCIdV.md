@@ -4,7 +4,7 @@
 
 > Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse.
 
-88 songs - 4 hr 15 min
+89 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Go the Distance \- Instrumental](https://open.spotify.com/track/3mM3zSY0s2hxVIIyRBwKff) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:30 | 2021-05-18 |  |
 | [Golden Slumbers/Over the Rainbow \- Instrumental](https://open.spotify.com/track/3qrMlhV4Re0GOv5PU7JfXD) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:04 | 2021-05-18 |  |
 | [Hakuna Matata](https://open.spotify.com/track/3altWN4dlMvdmRdJG2yT35) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Happy](https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm) | 2:46 | 2021-05-18 |  |
-| [Histoire éternelle \- De "La Belle et la Bête"/Bande Originale Française du Film](https://open.spotify.com/track/7fkU3oCLTQkk56ouUOK8CW) | [Lucie Dolene](https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh) | [La Belle et La Bête](https://open.spotify.com/album/5lWkWXCau29Ko1guDsrPzK) | 2:44 | 2021-05-18 |  |
+| [Histoire éternelle](https://open.spotify.com/track/5eAZyD2t92RffeUcKmcQgo) | [Lucie Dolene](https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh) | [Beauty And The Beast Original Soundtrack Special Edition](https://open.spotify.com/album/1OtmiUF7FjWZhAZtxNAtDM) | 2:46 | 2023-11-21 |  |
+| [Histoire éternelle \- De "La Belle et la Bête"/Bande Originale Française du Film](https://open.spotify.com/track/7fkU3oCLTQkk56ouUOK8CW) | [Lucie Dolene](https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh) | [La Belle et La Bête](https://open.spotify.com/album/5lWkWXCau29Ko1guDsrPzK) | 2:44 | 2021-05-18 | 2024-04-19 |
 | [Home](https://open.spotify.com/track/7zkUZV3hrq8ulIgw3ChjqT) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:53 | 2021-05-18 |  |
 | [How Does A Moment Last Forever](https://open.spotify.com/track/0kITT5zK0J8Er57DvQD8sE) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Love Songs](https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4) | 4:37 | 2021-05-18 |  |
 | [How Far I'll Go](https://open.spotify.com/track/3TeDrql1cmJPIoo7fE39Hj) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 3:09 | 2021-05-18 |  |

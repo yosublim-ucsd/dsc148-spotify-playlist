@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "[DADAL-DALDAL PROJECT] Nan Bong Ga",
+        "url": "https://open.spotify.com/album/326HkV7XJFPnarfPSQnOWQ"
+      },
+      "artists": [
+        {
+          "name": "MuRR",
+          "url": "https://open.spotify.com/artist/0jIOKsg5y3wDJuFFS3jngm"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262350,
+      "name": "[DADAL-DALDAL PROJECT] Nan Bong Ga",
+      "url": "https://open.spotify.com/track/6WEBSWMf3LLpYeDmA2epyo"
+    },
+    {
+      "album": {
         "name": "A girl's prayer",
         "url": "https://open.spotify.com/album/2DjuRMKXFFf57QKCAN3uLf"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Baek-ro Arirang",
       "url": "https://open.spotify.com/track/2zdRTqlNd0Ctp76LaNgbI3"
@@ -142,10 +160,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212243,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/2tYebVHVSej3c6tQg4SSaa"
+    },
+    {
+      "album": {
+        "name": "\ud658\ubabd\uc704",
+        "url": "https://open.spotify.com/album/2qzECBfcKQ54mob7b6PCRh"
+      },
+      "artists": [
+        {
+          "name": "hazeram;",
+          "url": "https://open.spotify.com/artist/70PvyiOoyNYFNF4l3kPBPI"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212243,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/60NDub14fPWTLWrkRPjIiU"
     },
     {
       "album": {
@@ -326,7 +362,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230959,
       "name": "Mama and Sister",
       "url": "https://open.spotify.com/track/5KmnhW2idzDoWVANR91SSW"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262350,
       "name": "Nan Bong Ga",
       "url": "https://open.spotify.com/track/4ZH15jmCyWu51n70042Hsv"
@@ -582,10 +618,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 696360,
       "name": "\ub300\ucde8\ud0c0",
       "url": "https://open.spotify.com/track/7pSasaBazpqMNk3Gv9KgOf"
+    },
+    {
+      "album": {
+        "name": "\uc815\uc7ac\uad6d \ud53c\ub9ac, \ud0dc\ud3c9\uc18c \uc791\ud488\uc9d11 (\uc815\uc545\ud3b8)",
+        "url": "https://open.spotify.com/album/7xyOKrBR8OBNyculkB2WGa"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc7ac\uad6d",
+          "url": "https://open.spotify.com/artist/0hDEr0S2KMnFfjLh0EAbu5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 696360,
+      "name": "\ub300\ucde8\ud0c0",
+      "url": "https://open.spotify.com/track/3TSjyFjF5TfctBMem0g62j"
     },
     {
       "album": {
@@ -636,7 +690,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259019,
       "name": "\ubc31\ub85c \uc544\ub9ac\ub791",
       "url": "https://open.spotify.com/track/1t9gYEHUPxl2ujIR4OTIy5"
@@ -780,10 +834,50 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217640,
       "name": "\uc544\ub828\ud788, Pt. 1",
       "url": "https://open.spotify.com/track/0LkqGclJcCQRXyX8WRhDwH"
+    },
+    {
+      "album": {
+        "name": "After Yesterday",
+        "url": "https://open.spotify.com/album/07WaY86M7Qt5qBMy6cE84C"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\ub0a0\uc0c8",
+          "url": "https://open.spotify.com/artist/60FJG1L4vKYbNRdLsDRUfw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "\uc544\ub828\ud788, Pt. 1",
+      "url": "https://open.spotify.com/track/0HCzBGE6hULIhsXZXqBq7y"
+    },
+    {
+      "album": {
+        "name": "\ud574\uae08\u2026\ud53c\uc544\ub178\ub97c \ub9cc\ub098\ub2e4\u2026",
+        "url": "https://open.spotify.com/album/6zR6WktFp2xvdrK7ftwqaJ"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\ub0a0\uc0c8",
+          "url": "https://open.spotify.com/artist/60FJG1L4vKYbNRdLsDRUfw"
+        },
+        {
+          "name": "Jinhee Chung \uc815\uc9c4\ud76c",
+          "url": "https://open.spotify.com/artist/2yvJnIV5TdX8wBUnryACEJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230959,
+      "name": "\uc5c4\ub9c8\uc57c \ub204\ub098\uc57c",
+      "url": "https://open.spotify.com/track/1bJ5SmVmXu7bjRL6AZ1GMt"
     },
     {
       "album": {
@@ -942,10 +1036,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 374308,
       "name": "\ud53c\ub9ac\uc18c\uace1",
       "url": "https://open.spotify.com/track/4PsIXXbODsmvVlrR2dQgRt"
+    },
+    {
+      "album": {
+        "name": "\uc815\uc7ac\uad6d \ud53c\ub9ac, \ud0dc\ud3c9\uc18c \uc791\ud488\uc9d12 (\ubbfc\uc18d\uc545\ud3b8)",
+        "url": "https://open.spotify.com/album/4aPTo9lr2dSfcLXxDiMLHK"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc7ac\uad6d",
+          "url": "https://open.spotify.com/artist/0hDEr0S2KMnFfjLh0EAbu5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374308,
+      "name": "\ud53c\ub9ac\uc18c\uace1",
+      "url": "https://open.spotify.com/track/03r3pozOqMvCnohRXORlFs"
     },
     {
       "album": {
@@ -978,10 +1090,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244773,
       "name": "\ud574\uae08 in Piano",
       "url": "https://open.spotify.com/track/0QPOSfkWJyKX3NR4GUmPUc"
+    },
+    {
+      "album": {
+        "name": "After Yesterday",
+        "url": "https://open.spotify.com/album/07WaY86M7Qt5qBMy6cE84C"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\ub0a0\uc0c8",
+          "url": "https://open.spotify.com/artist/60FJG1L4vKYbNRdLsDRUfw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244773,
+      "name": "\ud574\uae08 in Piano",
+      "url": "https://open.spotify.com/track/5dT7ETbfe7SGmZfvkpKfg2"
     },
     {
       "album": {

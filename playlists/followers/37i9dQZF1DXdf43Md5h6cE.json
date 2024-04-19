@@ -1,5 +1,5 @@
 {
-  "2024-04-17": 124577,
+  "2024-04-19": 125018,
   "date_first_scraped": "2022-05-30",
   "description": "Fill your mind with music for dreaming, thinking and longing. ",
   "name": "Ambient Dreamscapes",
@@ -2255,10 +2255,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-17",
       "duration_ms": 185816,
       "name": "Mixed Waves",
       "url": "https://open.spotify.com/track/5FuFjrRUGV0ZEXTEtk3luB"
+    },
+    {
+      "album": {
+        "name": "Miles and Miles Away",
+        "url": "https://open.spotify.com/album/5pRGcys3p1prcXEMveDoK8"
+      },
+      "artists": [
+        {
+          "name": "Soundscapes in Blue",
+          "url": "https://open.spotify.com/artist/7Cvz7DJgZTwBAk8q6Jjy5e"
+        },
+        {
+          "name": "The Little Oak Project",
+          "url": "https://open.spotify.com/artist/7cHzdlHgaXI9IDP73gkd1r"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185816,
+      "name": "Mixed Waves",
+      "url": "https://open.spotify.com/track/5jrYXkw35DFx0KVFop8xSw"
     },
     {
       "album": {

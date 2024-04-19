@@ -258,7 +258,7 @@
     {
       "album": {
         "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
       },
       "artists": [
         {
@@ -269,6 +269,24 @@
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
@@ -340,10 +358,28 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221640,
       "name": "ICU",
       "url": "https://open.spotify.com/track/11JpW4h96X4TlGt6LFpNCC"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "ICU (\uc26c\uc5b4\uac00\ub3c4 \ub3fc)",
+      "url": "https://open.spotify.com/track/4jzrYUhlzXROpV5M944Yvu"
     },
     {
       "album": {
@@ -358,7 +394,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195053,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
@@ -366,7 +402,7 @@
     {
       "album": {
         "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
       },
       "artists": [
         {
@@ -379,7 +415,7 @@
       "date_removed": null,
       "duration_ms": 178133,
       "name": "Life's Too Short",
-      "url": "https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q"
+      "url": "https://open.spotify.com/track/0WiadRUdgEIjgmYFAmTttb"
     },
     {
       "album": {
@@ -394,7 +430,43 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 178133,
+      "name": "Life's Too Short",
+      "url": "https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Lingo",
+      "url": "https://open.spotify.com/track/3QXov5M0VLI3ROldfiSwj0"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 156866,
       "name": "Lingo",
       "url": "https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk"
@@ -524,6 +596,24 @@
       "duration_ms": 213560,
       "name": "YEPPI YEPPI",
       "url": "https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "\ub3c4\uae68\ube44\ubd88 (Illusion)",
+      "url": "https://open.spotify.com/track/2cGf0hmhkACTwRj58XNGlP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVR3qxnguIme"

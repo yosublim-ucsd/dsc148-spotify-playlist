@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,821 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,925 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 10 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 11 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
 | 12 | [The Four Seasons: Concerto No\. 4 in F Minor, RV 297 "L'inverno" \(winter\): I\. Allegro non molto](https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Adrian Chandler](https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz), [La Serenissima](https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN) | [Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'](https://open.spotify.com/album/1mSVDEox7b18dnZ4Iblnkb) | 3:21 |
-| 13 | [Tierra Rica](https://open.spotify.com/track/4Vm2VEJPvu7nX57X0NVQFp) | [Carmita Jiménez](https://open.spotify.com/artist/6xe8KyUZf4VP7cw5kpWpFY) | [Carmita Jiménez](https://open.spotify.com/album/0bQPkTCGjuvszsvxLkp7ct) | 3:33 |
+| 13 | [Tierra Rica](https://open.spotify.com/track/67loy4ECyK5Wg0ZPl2P67k) | [Carmita Jiménez](https://open.spotify.com/artist/6xe8KyUZf4VP7cw5kpWpFY) | [Carmita Jiménez](https://open.spotify.com/album/4PnMS4kDYJ9clQTIcEF2p6) | 3:33 |
 | 14 | [It’s A Shame](https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Pink Feathers](https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW) | [EGO](https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34) | 3:00 |
 | 15 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 |
-| 16 | [Blood](https://open.spotify.com/track/1DI9n01NfIKnl5b90zhI2l) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/0DaecKdiL80ncdQhhUYtpq) | 3:04 |
+| 16 | [Blood](https://open.spotify.com/track/2KgUfq542PMh2oImJz7W7T) | [Exhibitionist](https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ) | [Let Go Of Love](https://open.spotify.com/album/4UvzxGsJRbfoAHxQ5QHV1k) | 3:04 |
 | 17 | [Physical](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:13 |
 | 18 | [Andrea Chenier, Act III: La mamma morta](https://open.spotify.com/track/0i0XoLRtl0Ece1XTTXalwZ) | [Umberto Giordano](https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj), [Lila Larinova](https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Johannes Wildner](https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ) | [Famous Arias and Duets: Verdi, Mozart, and Puccini](https://open.spotify.com/album/5xMNb7LpbNr1kPhcv4xfjN) | 4:55 |
 | 19 | [De O De O Doe De O](https://open.spotify.com/track/1VS1KRKgRlMkavRrJb5DTb) | [Skip Easterling](https://open.spotify.com/artist/7Ljeb35EACw2LCUxhvRHtY) | [Shoo Fly Pop Rock & Folk from the Bayou Vol\. 2](https://open.spotify.com/album/6ltSt6HeiPjcyapn9lVUbg) | 3:01 |
 | 20 | [Sciuri Sciura](https://open.spotify.com/track/69KrUizJaQziApPaMTL0yc) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Blonde Redhead](https://open.spotify.com/album/4oQTioeIg4j1jMyhUvX6tp) | 3:22 |
 | 21 | [Cello Concerto in E Minor, Op\. 85: III\. Adagio](https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 4:53 |
 | 22 | [Jinx](https://open.spotify.com/track/3t5htCiGucfhAQjm88U3K9) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:41 |
-| 23 | [If I Be Wrong](https://open.spotify.com/track/4iFoLIJGlMzrKRHkmEb3Co) | [Wolf Larsen](https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc) | [Quiet at the Kitchen Door](https://open.spotify.com/album/6qDC8upBCUkyV0Fw2N5qVE) | 7:18 |
+| 23 | [If I Be Wrong](https://open.spotify.com/track/2wwko1N7dVjpsHt5Ca9be3) | [Wolf Larsen](https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc) | [Quiet at the Kitchen Door](https://open.spotify.com/album/5zQuH90HZTS3polThsRVG7) | 7:18 |
 | 24 | [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 |
 | 25 | [Perfect Day \- Chris Lord Alge Mix](https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Legally Blonde](https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE) | 3:26 |
 

@@ -4,7 +4,7 @@
 
 > 
 
-235 songs - 13 hr 30 min
+237 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Great Grey Wolf Sif](https://open.spotify.com/track/2ZotpDx72d5d5Bqupyy5fu) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Dark Souls](https://open.spotify.com/album/6MJSSPWvW8WISXI68yy48j) | 3:22 | 2021-02-24 |  |
 | [Habibi](https://open.spotify.com/track/5juBKIr7vbfAUgFpa34DuO) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Amir](https://open.spotify.com/album/5znkKeZluet6ArfR5RplEy) | 5:07 | 2022-01-27 |  |
 | [Harvey](https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:31 | 2022-05-29 |  |
+| [haykıracak nefesim kalmasa bile](https://open.spotify.com/episode/3Pj62t6D6LgWemglfWm3x1) | [büyümek çok korkutucu](https://open.spotify.com/show/2kAdhwlUYtfCi1b5I72kkA) | [büyümek çok korkutucu](https://open.spotify.com/album/2kAdhwlUYtfCi1b5I72kkA) | 2:45 | 2023-08-17 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2022-01-19 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-10-15 |  |
 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 | 2020-10-09 |  |
@@ -124,6 +125,7 @@
 | [Let’s Sing Let’s Dance](https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Let’s Sing Let’s Dance](https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG) | 3:50 | 2021-09-09 |  |
 | [Life In a Glasshouse](https://open.spotify.com/track/5xJc58mBWz68WhwU2n5seR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:36 | 2023-11-10 |  |
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2021-09-09 |  |
+| [Lin pesto sana neler edeceğim](https://open.spotify.com/episode/0gwqDrFj3riKSYU1vOpSIe) | [Lin pesto gizli şarkılar](https://open.spotify.com/show/25wRmaCwuM4Cs48nEdEOW7) | [Lin pesto gizli şarkılar](https://open.spotify.com/album/25wRmaCwuM4Cs48nEdEOW7) | 2:45 | 2023-09-10 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2021-01-18 |  |
 | [Little Dark Age \- Slowed](https://open.spotify.com/track/2oYo2lSNtfYbGF1hnNhIVu) | [fuho](https://open.spotify.com/artist/0PZtAH6Zi4MqTbHS51wOTK), [FutureRhythm](https://open.spotify.com/artist/5d7ytVWDH8U1STuVpEWBBR) | [Little Dark Age \(Slowed\)](https://open.spotify.com/album/06qJgkngwaI039hOjOjVbU) | 2:04 | 2021-01-20 |  |
 | [Little Dark Age X Washing Machine Heart \(Slowed & Reverb\)](https://open.spotify.com/track/0u41zSahZZdYIa47RKHlaJ) | [toastool](https://open.spotify.com/artist/5nABWe1FXsU9JYESQWznSm) | [Little Dark Age X Washing Machine Heart \(Slowed & Reverb\)](https://open.spotify.com/album/442qXYoSlmbxGmTfQcJEFu) | 1:44 | 2021-08-31 |  |

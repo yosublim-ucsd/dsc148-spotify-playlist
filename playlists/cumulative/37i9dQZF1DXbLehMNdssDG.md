@@ -4,7 +4,7 @@
 
 > Affirmations and meditation music for a mindful start of the day.
 
-54 songs - 2 hr 53 min
+55 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Non\-Judgment](https://open.spotify.com/track/6e212dsNzeLiNLVUrfK16X) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/5nryDKtXpZXpyhhqMjkkju) | 1:11 | 2024-02-20 |  |
 | [Playful, Harmonious and Happy](https://open.spotify.com/track/3oI6AgASkpUBdgCW0qnTvN) | [Anna Thompson](https://open.spotify.com/artist/5JoRvqviRCB3B6i4b1vBCl) | [Self Confidence and Charisma, Hypnosis for Developing Personal Magnetism and High Self\-Esteem](https://open.spotify.com/album/3ij5HXzoOi76MvldPK0Nzf) | 5:52 | 2024-02-20 |  |
 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 | 2023-12-21 |  |
-| [Relaxation](https://open.spotify.com/track/7iOJLS1pCkwMlla60uAjcg) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/5nryDKtXpZXpyhhqMjkkju) | 2:16 | 2024-02-20 |  |
+| [Relaxation](https://open.spotify.com/track/7iOJLS1pCkwMlla60uAjcg) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/5nryDKtXpZXpyhhqMjkkju) | 2:16 | 2024-02-20 | 2024-04-19 |
+| [Relaxation](https://open.spotify.com/track/7wyBtq2zSt2Ki00yBW0Ob8) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/0U0kxDWCU0yHXHuvIt6Bhp) | 2:16 | 2024-02-20 |  |
 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 | 2023-12-21 |  |
 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 | 2023-12-21 |  |
 | [Self Acceptance Affirmations](https://open.spotify.com/track/14BFsC8MeMpISOC7ZXS8Ud) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Self Love Affirmations](https://open.spotify.com/album/2ptz0mo135CScaIxz3Fz7q) | 2:26 | 2023-12-21 |  |

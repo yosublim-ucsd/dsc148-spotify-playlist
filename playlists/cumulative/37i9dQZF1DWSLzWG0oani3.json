@@ -46,7 +46,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Adentro del Party",
       "url": "https://open.spotify.com/track/065RHd6Cdd0gO8L8Xtpdi5"
@@ -68,7 +68,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Adentro del Party",
       "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
@@ -258,13 +258,13 @@
           "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
         },
         {
-          "name": "Ecko",
+          "name": "ECKO",
           "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155368,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/1C99AXjM9atPNIgm3JwE3t"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155368,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129069,
       "name": "EL NOBA | DJ TAO Turreo Sessions #7",
       "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 129069,
       "name": "EL NOBA | DJ TAO Turreo Sessions #7",
       "url": "https://open.spotify.com/track/5oLWzTgq6WsZyMF16IiN7R"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184053,
       "name": "EL TIRRI | DJ TAO Turreo Sessions #8",
       "url": "https://open.spotify.com/track/2emaPMbgugJb0EhCVccat7"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 184053,
       "name": "EL TIRRI | DJ TAO Turreo Sessions #8",
       "url": "https://open.spotify.com/track/0HghA8NwsiFcgROYKFjX3W"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 130660,
       "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
       "url": "https://open.spotify.com/track/0h1Cp5qtDPVzarqIsdWdCT"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130660,
       "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
       "url": "https://open.spotify.com/track/3vfF2yl2si2qoOQsv7DfUk"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195529,
       "name": "Malianteo 420",
       "url": "https://open.spotify.com/track/0KFSsuVW8gc0MRDWlUyiTH"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195529,
       "name": "Malianteo 420",
       "url": "https://open.spotify.com/track/6NKrW1a2OYNwAXuN4MgwXi"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163615,
       "name": "PELIKULON",
       "url": "https://open.spotify.com/track/0rPEpIVIp65ZumM73NHF1g"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 163615,
       "name": "PELIKULON",
       "url": "https://open.spotify.com/track/6GBmsnc0nyHoirMPmgFnSZ"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166736,
       "name": "Pompa Pa Tra - Remix",
       "url": "https://open.spotify.com/track/1qGjahOQBT21Y5L4bmew8R"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166736,
       "name": "Pompa Pa Tra - Remix",
       "url": "https://open.spotify.com/track/3pA0i34h7omJIrI12jfVGu"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 210461,
       "name": "RAFA PAB\u00d6N | DJ TAO Turreo Session #11",
       "url": "https://open.spotify.com/track/6AXdAALVzq9mV8RJWX20zo"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210461,
       "name": "RAFA PAB\u00d6N | DJ TAO Turreo Sessions #11",
       "url": "https://open.spotify.com/track/1DD7LZaZ8UdCOCqRfA8Kb8"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112507,
       "name": "Tamo Chelo",
       "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
@@ -2078,7 +2078,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 112507,
       "name": "Tamo Chelo",
       "url": "https://open.spotify.com/track/2Y7v7XjZV1FcQprRV6VLpt"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 194483,
       "name": "Tembleque",
       "url": "https://open.spotify.com/track/4UrA9uPAwQTJC8TxdLyQGv"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194483,
       "name": "Tembleque",
       "url": "https://open.spotify.com/track/4kpt4TL2epP2BFt8P84hOT"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205434,
       "name": "Titubeo",
       "url": "https://open.spotify.com/track/23UX82uDIfCUUneRfzDTD5"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205434,
       "name": "Titubeo",
       "url": "https://open.spotify.com/track/5wMxXn08lUHAqtQ1oS5YtM"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175733,
       "name": "TO LO D\u00cdAS ES 420",
       "url": "https://open.spotify.com/track/06tywyyJtz2OjnBj6Ooch5"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 175733,
       "name": "TO LO D\u00cdAS ES 420",
       "url": "https://open.spotify.com/track/3FFr3Dllm8qLNtteC9IcBk"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195903,
       "name": "Uno Mas Uno - Original",
       "url": "https://open.spotify.com/track/0kWgwGPQPaphMck2Bcd5Fn"
@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195903,
       "name": "Uno Mas Uno - Original",
       "url": "https://open.spotify.com/track/7ovzcvuVMPeVFdOW9K48rS"

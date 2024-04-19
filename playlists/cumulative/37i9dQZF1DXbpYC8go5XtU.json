@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 179050,
       "name": "Catchacoma Lake",
       "url": "https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179050,
       "name": "Catchacoma Lake",
       "url": "https://open.spotify.com/track/7DUTQsvXqh1q5Ogjlchlpz"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 403000,
       "name": "Deep Slope",
       "url": "https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403000,
       "name": "Deep Slope",
       "url": "https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 356363,
       "name": "Heart of the Forest",
       "url": "https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 356363,
       "name": "Heart of the Forest",
       "url": "https://open.spotify.com/track/5tEvfL7dJzS5EGTAsOKZZJ"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 218009,
       "name": "kuu",
       "url": "https://open.spotify.com/track/1VO2yoOecJkqHJp3PjjSVY"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221296,
       "name": "kuu",
       "url": "https://open.spotify.com/track/06c0yjJ78cozS24dwcz36m"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 368000,
       "name": "Nacre Meadow",
       "url": "https://open.spotify.com/track/2aVgJE85GexucuDrHeyfeL"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368000,
       "name": "Nacre Meadow",
       "url": "https://open.spotify.com/track/4LsbhJynQnbJNRht8bfbge"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133694,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140440,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/0gslAiwYeAbpXUMOIbOCks"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272933,
       "name": "Nil Shore",
       "url": "https://open.spotify.com/track/3LWJujtOifkEzhuCEowhxZ"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272933,
       "name": "Nil Shore",
       "url": "https://open.spotify.com/track/6hnEX01NONTuhpDk6yDdwT"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 352306,
       "name": "Notwithstanding",
       "url": "https://open.spotify.com/track/5Q2MwFBihjnuWXEa8UTB3B"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 352306,
       "name": "Notwithstanding",
       "url": "https://open.spotify.com/track/5nmvkHbYJuCWZPJrwq4m6o"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 352000,
       "name": "Painted Canvas",
       "url": "https://open.spotify.com/track/09o61SRXowRt773HgBT0hb"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 352000,
       "name": "Painted Canvas",
       "url": "https://open.spotify.com/track/3IIx3GOfP8I9LFiismSdKE"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149732,
       "name": "Part 15, River of Grass",
       "url": "https://open.spotify.com/track/0Kjzrr8QeaG5yetqkEj1ZF"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 149732,
       "name": "Part 15, River of Grass",
       "url": "https://open.spotify.com/track/1o6gNM7hO9mQTHvlG8k8eC"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 230892,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/0K3jpRVbFdOQNsaP0UTHBd"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230892,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/29zSSZjSnRwuO7MqSMVgZh"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315538,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0rSfPw1dZibhCuOosxU68B"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 315538,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2rqSKSAEVthsDyuZObnQY4"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323200,
       "name": "Saguaro",
       "url": "https://open.spotify.com/track/2MwRtmiEguJD4fdLsBAuZV"
@@ -2726,12 +2726,12 @@
       },
       "artists": [
         {
-          "name": "Steve Roach",
-          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
-        },
-        {
           "name": "Suspended Memories",
           "url": "https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6"
+        },
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
         },
         {
           "name": "Jorge Reyes",
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 323106,
       "name": "Saguaro",
       "url": "https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj"
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173993,
       "name": "Shuswap Lake",
       "url": "https://open.spotify.com/track/114fCj49GKyPSgJCLwUDWH"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 173993,
       "name": "Shuswap Lake",
       "url": "https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 166020,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf"
@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166020,
       "name": "Signals",
       "url": "https://open.spotify.com/track/5MsLvwiqNKBYeO4pmM4hDA"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309800,
       "name": "Silent Lake",
       "url": "https://open.spotify.com/track/6pZ5qQo50eOzxikg1xSvzh"
@@ -2950,7 +2950,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309800,
       "name": "Silent Lake",
       "url": "https://open.spotify.com/track/5wo64VP0ZKuEL1zrF13mcs"
@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 396000,
       "name": "Still Can't Believe It",
       "url": "https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396000,
       "name": "Still Can't Believe It",
       "url": "https://open.spotify.com/track/4w6rWET91A9I60yxIIj7JK"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 323698,
       "name": "Thalfang",
       "url": "https://open.spotify.com/track/2pKCu894n98a9xwpSJ8nmG"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323698,
       "name": "Thalfang",
       "url": "https://open.spotify.com/track/3SWCRmYOPaMi2qhqJ3trw2"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 246066,
       "name": "Triennale",
       "url": "https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246066,
       "name": "Triennale",
       "url": "https://open.spotify.com/track/4Ly1RN4O1aBZruEPJtxfjC"
@@ -3800,7 +3800,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Watching",
       "url": "https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306000,
       "name": "Watching",
       "url": "https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK"

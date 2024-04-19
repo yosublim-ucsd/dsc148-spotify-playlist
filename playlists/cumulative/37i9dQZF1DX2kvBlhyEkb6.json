@@ -206,7 +206,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 893600,
       "name": "Italian Capriccio, Op. 45, TH 47: Capriccio Italien, Op. 45",
       "url": "https://open.spotify.com/track/39kREjdtoJA8D9tzQBJMhj"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 893600,
       "name": "Italian Capriccio, Op. 45, TH 47: Capriccio Italien, Op. 45",
       "url": "https://open.spotify.com/track/4HYDsAaLaq6SOSThhe6fNO"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176026,
       "name": "Les saisons (The Seasons), Op. 37b: II. February: Carnival",
       "url": "https://open.spotify.com/track/7907V5EnTaXspYgFwbLHRA"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182413,
       "name": "Les saisons (The Seasons), Op. 37b: XI. November: Troika",
       "url": "https://open.spotify.com/track/6WkjVNGd6scOHDislVD2LJ"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 944746,
       "name": "Manfred Symphony in B Minor, Op. 58, TH 28: I. Lento lugubre - Moderato con moto",
       "url": "https://open.spotify.com/track/748p05t3OJeVQuDpvKZNEA"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 944746,
       "name": "Manfred, Op. 58: I. Lento lugubre - Moderato con moto",
       "url": "https://open.spotify.com/track/1fdUmt0sdFiEWp2utmsCEj"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 555813,
       "name": "Marche slav, Op. 31, TH 45: Marche slave (Slavonic March), Op. 31 [Live]",
       "url": "https://open.spotify.com/track/4ZFlzJyIsJvAK0hkJDB0aq"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 564800,
       "name": "Marche slave, Op. 31, TH 45",
       "url": "https://open.spotify.com/track/2WqdefsY6H3FDtPOvLpaQX"
@@ -454,10 +454,40 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1237106,
       "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 1. Allegro non troppo e molto maestoso - Allegro con spirito",
       "url": "https://open.spotify.com/track/1rrWt6UuUMVjUvDhZvjVSO"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1237106,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 1. Allegro non troppo e molto maestoso - Allegro con spirito",
+      "url": "https://open.spotify.com/track/3gkMtVE6792VMzSW6P2niZ"
     },
     {
       "album": {
@@ -484,7 +514,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396946,
       "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
       "url": "https://open.spotify.com/track/2g7v2j4jqdPDYmfpfE2gug"
@@ -518,6 +548,36 @@
       "duration_ms": 396946,
       "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
       "url": "https://open.spotify.com/track/3F5eY0Jf0hd4LP8AOwCZLN"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396946,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
+      "url": "https://open.spotify.com/track/3zST4gdlffasfTLheiKRrF"
     },
     {
       "album": {
@@ -582,7 +642,7 @@
     {
       "album": {
         "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
-        "url": "https://open.spotify.com/album/7yyF5wduZBFhlkCM5edNr9"
+        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
       },
       "artists": [
         {
@@ -605,6 +665,36 @@
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 422546,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 3. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/1ODgqZhKdTjDIg2wtk36Jv"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/7yyF5wduZBFhlkCM5edNr9"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 422546,
       "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 3. Allegro con fuoco",
       "url": "https://open.spotify.com/track/6Lz75vI8bGcYE41DUggjcP"
@@ -791,96 +881,6 @@
     },
     {
       "album": {
-        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
-        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Behzod Abduraimov",
-          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
-        },
-        {
-          "name": "Orchestra Sinfonica Nazionale Della RAI",
-          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
-        },
-        {
-          "name": "Juraj Valcuha",
-          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
-        }
-      ],
-      "date_added": "2021-06-18",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 1237106,
-      "name": "Piano Concerto No.1 In B Flat Minor, Op.23, TH.55: 1. Allegro non troppo e molto maestoso - Allegro con spirito",
-      "url": "https://open.spotify.com/track/3gkMtVE6792VMzSW6P2niZ"
-    },
-    {
-      "album": {
-        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
-        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Behzod Abduraimov",
-          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
-        },
-        {
-          "name": "Orchestra Sinfonica Nazionale Della RAI",
-          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
-        },
-        {
-          "name": "Juraj Valcuha",
-          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
-        }
-      ],
-      "date_added": "2021-06-18",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 396946,
-      "name": "Piano Concerto No.1 In B Flat Minor, Op.23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
-      "url": "https://open.spotify.com/track/3zST4gdlffasfTLheiKRrF"
-    },
-    {
-      "album": {
-        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
-        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Behzod Abduraimov",
-          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
-        },
-        {
-          "name": "Orchestra Sinfonica Nazionale Della RAI",
-          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
-        },
-        {
-          "name": "Juraj Valcuha",
-          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
-        }
-      ],
-      "date_added": "2021-06-18",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 422546,
-      "name": "Piano Concerto No.1 In B Flat Minor, Op.23, TH.55: 3. Allegro con fuoco",
-      "url": "https://open.spotify.com/track/1ODgqZhKdTjDIg2wtk36Jv"
-    },
-    {
-      "album": {
         "name": "TCHAIKOVSKY: Piano Music, Vol. 2",
         "url": "https://open.spotify.com/album/4fumiG1nIhpaeg4wiHxCxD"
       },
@@ -896,7 +896,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 368720,
       "name": "Romance in F Minor, Op. 5, TH 127: Andante cantabile",
       "url": "https://open.spotify.com/track/08QGTXVi5hvEmKtZxrn4Ng"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368720,
       "name": "Romance in F Minor, Op. 5: Andante cantabile",
       "url": "https://open.spotify.com/track/6sZQoeec5kioNaf6FWgcH7"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 545760,
       "name": "Serenade for Strings in C Major, Op. 48, TH 48: III. Elegie",
       "url": "https://open.spotify.com/track/2zp6Y3mx7xeOEs32wr8M4Q"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 466613,
       "name": "Serenade for Strings in C Major, Op. 48, TH 48: IV. Finale (Tema Russo)",
       "url": "https://open.spotify.com/track/0JvvAtAje6cRwgS27wUpDQ"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230733,
       "name": "Serenade in C Major, Op. 48, TH 48: II. Walzer",
       "url": "https://open.spotify.com/track/3VRdCKEdMSGjkqg0TQnOqs"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230733,
       "name": "Serenade in C Major, Op. 48: II. Walzer",
       "url": "https://open.spotify.com/track/1NE082mtgqGOX0Ay98GOSv"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 545760,
       "name": "Serenade in C Major, Op. 48: III. Elegie",
       "url": "https://open.spotify.com/track/1iKTPTFJJDMbq7Y6m8Qv1A"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 466613,
       "name": "Serenade in C Major, Op. 48: IV. Finale (Tema Russo)",
       "url": "https://open.spotify.com/track/0neEO04EjQwLb0LYPe72ql"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 395000,
       "name": "String Quartet No. 1 in D Major, Op. 11, TH 111: II. Andante cantabile",
       "url": "https://open.spotify.com/track/0bsfVvHZyPpLNFKW1RmZSW"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 395000,
       "name": "String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile",
       "url": "https://open.spotify.com/track/4eNSU0YbZE8RKRNDVNbyLm"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 713346,
       "name": "Suite for Orchestra No. 2 in C Major, Op. 53, TH 32 \"Caract\u00e9ristique\": I. Jeu de sons. Andantino un poco rubato",
       "url": "https://open.spotify.com/track/71Q4ktPLSkP4rjytSTSZjl"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 713346,
       "name": "Suite No. 2 in C Major, Op. 53: I. Jeu de sons: Andantino un poco rubato",
       "url": "https://open.spotify.com/track/5qlp1BEXZmPoabUGJq9xMD"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 899560,
       "name": "Suite No. 4 in G Major, Op. 61, \"Mozartiana\": IV. Theme et variations",
       "url": "https://open.spotify.com/track/0wTuGjdGdjMIQuIaHKs5KL"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 899560,
       "name": "Suite No. 4 in G Major, Op. 61, \"Mozartiana\": IV. Theme et variations",
       "url": "https://open.spotify.com/track/4t6qpm06AFPpqwH4EkvRW6"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 86981,
       "name": "Swan Lake (Suite), Op. 20a, TH. 219: III. Danse des petits cygnes",
       "url": "https://open.spotify.com/track/7soiuxMmcrTDS51IVBMXlc"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 87000,
       "name": "Swan Lake (Suite), Op. 20a, TH. 219: III. Danse des petits cygnes",
       "url": "https://open.spotify.com/track/0ts62Z0GNJa1qrUqaaHx4X"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 879160,
       "name": "Swan Lake, Op. 20, TH.12 / Act 2: No. 13 Danses des cygnes: a) Valse - b) Moderato assai - c) Valse - d) Allegro moderato - e) Pas d'action (Andante) - f) Valse - g) Coda (Allegro vivace)",
       "url": "https://open.spotify.com/track/2UENiukjq27zuftPdZHUcj"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 879160,
       "name": "Swan Lake, Op. 20, TH.12 / Act 2: No. 13 Danses des cygnes: a) Valse - b) Moderato assai - c) Valse - d) Allegro moderato - e) Pas d'action (Andante) - f) Valse - g) Coda (Allegro vivace)",
       "url": "https://open.spotify.com/track/30tGGgOrSG98c8nZbI1YEP"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 327826,
       "name": "Swan Lake, Op. 20, TH.12 / Act 4: No. 27 Danses des petits cygnes (Moderato)",
       "url": "https://open.spotify.com/track/3eHwqaD8KrfGhaKx1rR9h3"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 507333,
       "name": "Symphony No. 1 in G Minor, Op. 13, \"Winter Daydreams\": III. Scherzo: Allegro scherzando giocoso",
       "url": "https://open.spotify.com/track/3df7rplSNk548CH0YCcooM"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 507333,
       "name": "Symphony No. 1 in G Minor, Op. 13, TH 24 \"Winter Daydreams\": III. Scherzo. Allegro scherzando giocoso",
       "url": "https://open.spotify.com/track/6eVqjxE9uZkerO6AXMp5Wn"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 635733,
       "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": I. Andante sostenuto - Allegro vivo",
       "url": "https://open.spotify.com/track/3odI528ejQt1S38M5VFaNc"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 635733,
       "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": I. Andante sostenuto - Allegro vivo",
       "url": "https://open.spotify.com/track/6EdsxHODGEYVNKkCX2aR8a"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 346133,
       "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": III. Scherzo. Allegro molto vivace",
       "url": "https://open.spotify.com/track/3eindpdacn2OPzx43mxiCd"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346133,
       "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": III. Scherzo: Allegro molto vivace",
       "url": "https://open.spotify.com/track/3tNjCeoKCT12lFKAW79wAV"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 447773,
       "name": "Symphony No. 3 in D Major, Op. 29, \"Polish\": II. Allegro moderato e semplice",
       "url": "https://open.spotify.com/track/1sfFUO9pm6zyLYd5TVyUb3"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 447773,
       "name": "Symphony No. 3 in D Major, Op. 29, TH 26 \"Polish\": II. Allegro moderato e semplice",
       "url": "https://open.spotify.com/track/121hcZty1zWGtswddUN24X"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 909333,
       "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: I. Andante - Allegro con anima",
       "url": "https://open.spotify.com/track/4Ibblko4b55xwmDc3pAhrX"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 909333,
       "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: I. Andante - Allegro con anima",
       "url": "https://open.spotify.com/track/6pOJuUpCjnjYfNOhIOrzpu"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 818000,
       "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: II. Andante cantabile, con alcuna licenza",
       "url": "https://open.spotify.com/track/4LPQn9mBWArzQ2VL0HrKWS"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 818000,
       "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: II. Andante cantabile, con alcuna licenza",
       "url": "https://open.spotify.com/track/4QN7o1pAOr9BCMOgn839SQ"
@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 339000,
       "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: III. Waltz. Allegro moderato",
       "url": "https://open.spotify.com/track/2KGX0DKrm1T0vtmv9r4hxl"
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343600,
       "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: III. Waltz. Allegro moderato",
       "url": "https://open.spotify.com/track/0dJGzUEpcDWI7khENvwvY8"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 566333,
       "name": "S\u00e9r\u00e9nade m\u00e9lancolique, Op. 26, TH 56: Serenade melancolique (Melancholy Serenade), Op. 26",
       "url": "https://open.spotify.com/track/5YBH5bL6pxG4pJsAVw9zbL"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 566333,
       "name": "S\u00e9r\u00e9nade m\u00e9lancolique, Op. 26, TH 56: Serenade melancolique (Melancholy Serenade), Op. 26",
       "url": "https://open.spotify.com/track/79FQNqNkg6PLI37ANAfHBz"
@@ -2592,7 +2592,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327826,
       "name": "Tchaikovsky: Swan Lake, Op. 20, TH.12 / Act 4 - No. 27 Danses des petits cygnes (Moderato)",
       "url": "https://open.spotify.com/track/07eTnaYwUhqzkLXy8wgZwX"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 743466,
       "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": I. Daydreams on a Winter Journey. Allegro tranquillo",
       "url": "https://open.spotify.com/track/2ZR3RxDORaaAIzX6eHKFG0"
@@ -2644,36 +2644,10 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 743466,
       "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": I. Daydreams on a Winter Journey. Allegro tranquillo",
       "url": "https://open.spotify.com/track/4K95zdIV558uUs9vOsuou5"
-    },
-    {
-      "album": {
-        "name": "Tchaikovsky: Symphonies Nos 1-6, Manfred Symphony, Overtures & Rococo Variations",
-        "url": "https://open.spotify.com/album/5zzMVOKWsbktCBXIWbjbJA"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Mstislav Rostropovich",
-          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
-        }
-      ],
-      "date_added": "2021-06-18",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 813440,
-      "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": IV. Finale. Andante lugubre - Allegro moderato",
-      "url": "https://open.spotify.com/track/5ukIpzRl5m4PxxVGSV4K3R"
     },
     {
       "album": {
@@ -2696,10 +2670,36 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 813440,
       "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": IV. Finale. Andante lugubre - Allegro moderato",
       "url": "https://open.spotify.com/track/41KgkvLb1Z5mJU6xLTiBi0"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos 1-6, Manfred Symphony, Overtures & Rococo Variations",
+        "url": "https://open.spotify.com/album/5zzMVOKWsbktCBXIWbjbJA"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 813440,
+      "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": IV. Finale. Andante lugubre - Allegro moderato",
+      "url": "https://open.spotify.com/track/5ukIpzRl5m4PxxVGSV4K3R"
     },
     {
       "album": {
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143840,
       "name": "The Nutcracker, Op. 71, TH.14 / Act 1: No. 2 March",
       "url": "https://open.spotify.com/track/7FJvIEwZ0euCr67yihS2aW"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 144746,
       "name": "The Nutcracker, Op.71 : No. 2 March",
       "url": "https://open.spotify.com/track/1MogrBoQUHfi2xHQnERTgp"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176026,
       "name": "The Seasons, Op. 37a, TH 135: II. February: Carnival",
       "url": "https://open.spotify.com/track/3olGFeeuYJoKjJNmujot6q"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182413,
       "name": "The Seasons, Op. 37a, TH 135: XI. November: Troika",
       "url": "https://open.spotify.com/track/7dwBdrRhmnwhJ60QjDmXpL"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219000,
       "name": "The Sleeping Beauty (Suite), Op. 66a, TH. 234: IV. Panorama. Andantino",
       "url": "https://open.spotify.com/track/2WPJWFIS37fEmNPfC2S8km"
@@ -3004,7 +3004,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "The Sleeping Beauty (Suite), Op. 66a, TH. 234: IV. Panorama. Andantino",
       "url": "https://open.spotify.com/track/4sHUs1hEro8GHI3tbyse4B"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279506,
       "name": "The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse",
       "url": "https://open.spotify.com/track/2tLEaS1u9MHIzZ5jqv0R2Y"
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279506,
       "name": "The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse",
       "url": "https://open.spotify.com/track/4ixh2ds0j86ydQvP0RjwIV"
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183426,
       "name": "The Sleeping Beauty, Op. 66, TH 13: Introduction",
       "url": "https://open.spotify.com/track/3lsK1wQrILr1sNN5Qv6Wcr"
@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183426,
       "name": "The Sleeping Beauty, Op. 66, TH 13: Introduction",
       "url": "https://open.spotify.com/track/4Llvh2nTY6xoY6m3c8jfOD"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423800,
       "name": "The Snow Maiden, Op. 12: II. Dance And Chorus Of Birds",
       "url": "https://open.spotify.com/track/0uVsdyIZylmtsSojRtEQaM"
@@ -3232,7 +3232,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 423800,
       "name": "The Snow Maiden, Op. 12: II. Dance and Chorus of Birds",
       "url": "https://open.spotify.com/track/1ESCWA3pNnG6ayITG7uOEs"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265933,
       "name": "The Snow Maiden, Op. 12: XIII. Dance Of The Tumblers",
       "url": "https://open.spotify.com/track/4TBAwchrUZk88pbj9rQhxU"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265933,
       "name": "The Snow Maiden, Op. 12: XIII. Dance of the Tumblers",
       "url": "https://open.spotify.com/track/7IsexeyauG6MiPVxerqldr"
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1102240,
       "name": "Violin Concerto in D Major, Op. 35, TH 59: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1nlty288rWFqyCXebR6JHp"
@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1102240,
       "name": "Violin Concerto in D Major, Op. 35, TH 59: I. Allegro moderato",
       "url": "https://open.spotify.com/track/4X0v1lc0k2rMvshaYky1mh"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383253,
       "name": "Violin Concerto in D Major, Op. 35, TH 59: II. Canzonetta. Andante",
       "url": "https://open.spotify.com/track/0LVuhwONShK5vky2u5EUGM"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 383253,
       "name": "Violin Concerto in D Major, Op. 35, TH 59: II. Canzonetta. Andante",
       "url": "https://open.spotify.com/track/58yrFNXUkfYsemEqmi1O8m"

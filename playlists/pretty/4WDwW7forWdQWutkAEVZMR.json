@@ -1,13 +1,189 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring girl in red, Beyonc\u00e9, Miley Cyrus &amp; more! Cover: girl in red",
-  "num_followers": 8189,
+  "num_followers": 8185,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "Njg5NiwxYmM4ZTYwMTBiZWU4YjZhM2FhYzc3NWQ4NTEwNTk1MmY2YjI4ZWEw",
+  "snapshot_id": "NjkwNywyODI0MzgzMTFkNGQwNmFiYmZiZWMwOGE3ZWRlMzlmODRhZjQ3ODBm",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:09:28",
+      "album": {
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
+    },
+    {
+      "added_at": "2024-04-19 04:09:45",
+      "album": {
+        "name": "SPINE",
+        "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 180715,
+      "name": "SPINE",
+      "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
+    },
+    {
+      "added_at": "2024-04-19 04:10:19",
+      "album": {
+        "name": "Swing It (feat. MAF Teeski & Big Opp)",
+        "url": "https://open.spotify.com/album/6rgAQGSWl7JJYZUYqMCMRl"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "Nolimit Faro",
+          "url": "https://open.spotify.com/artist/5qeX3RNkb5LwhZ07wMSPFS"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Swing It (feat. MAF Teeski & Big Opp)",
+      "url": "https://open.spotify.com/track/4i4dCKp7U5GLBHEjfbaAVt"
+    },
+    {
+      "added_at": "2024-04-19 04:10:41",
+      "album": {
+        "name": "From The Jump (Duet Version)",
+        "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 231522,
+      "name": "From The Jump (Duet Version)",
+      "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
+    },
+    {
+      "added_at": "2024-04-19 04:11:03",
+      "album": {
+        "name": "Cry at the Moon (Acoustic)",
+        "url": "https://open.spotify.com/album/6kdnLKIJ3McdLWHqSe3IM4"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Cry at the Moon - Acoustic",
+      "url": "https://open.spotify.com/track/1kz6gW2vHvVxsSWz04sMZh"
+    },
+    {
+      "added_at": "2024-04-19 04:11:16",
+      "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 140526,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o"
+    },
+    {
+      "added_at": "2024-04-19 04:11:39",
+      "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/5VGh7Ul119U0OEOzJMs1AY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Cotrone",
+          "url": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+        }
+      ],
+      "duration_ms": 139858,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/08584XQF8FByq5LLCT1dlK"
+    },
+    {
+      "added_at": "2024-04-19 04:11:59",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 140965,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN"
+    },
+    {
+      "added_at": "2024-04-19 04:12:23",
+      "album": {
+        "name": "Vented",
+        "url": "https://open.spotify.com/album/21Wzb7K4eL0a1T46p1S8uw"
+      },
+      "artists": [
+        {
+          "name": "Resentvul",
+          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
+        }
+      ],
+      "duration_ms": 83522,
+      "name": "Vented",
+      "url": "https://open.spotify.com/track/4SYAZitxCXsMSCDH5Aqy4p"
+    },
+    {
+      "added_at": "2024-04-19 04:12:46",
+      "album": {
+        "name": "Smarter Than Ever",
+        "url": "https://open.spotify.com/album/1IYz2YsZYNDefGebw0dwLp"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "duration_ms": 79884,
+      "name": "Smarter Than Ever",
+      "url": "https://open.spotify.com/track/2e6SS6ZncNocBJhSSkXnQP"
+    },
     {
       "added_at": "2024-04-12 04:03:52",
       "album": {

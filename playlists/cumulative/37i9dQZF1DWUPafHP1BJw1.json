@@ -100,7 +100,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198053,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198053,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 331757,
       "name": "Bastille: The Piano Tribute Medley",
       "url": "https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331757,
       "name": "Bastille: The Piano Tribute Medley",
       "url": "https://open.spotify.com/track/7LVIdIAod9vKTGui5KU60K"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202946,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/0QVVV1dbJybtFEDwWndsxC"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202946,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196000,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/6GOGtYDbwevpKEZpGyptmc"
@@ -1267,24 +1267,6 @@
     },
     {
       "album": {
-        "name": "Good 4 U (Arr. for String Quartet)",
-        "url": "https://open.spotify.com/album/6IS1QBDwuR4NUDVd7we5wo"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "date_added": "2023-09-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177706,
-      "name": "Good 4 U - Arr. for String Quartet",
-      "url": "https://open.spotify.com/track/0wOg1VN28vZswbqVYKC3KM"
-    },
-    {
-      "album": {
         "name": "Good 4 U (arr. String Quartet)",
         "url": "https://open.spotify.com/album/50CpGxkx9zocEPujltkUI6"
       },
@@ -1296,10 +1278,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 177706,
-      "name": "Good 4 U - arr. String Quartet",
+      "name": "Good 4 U (arr. String Quartet)",
       "url": "https://open.spotify.com/track/3hiAOP7Pu4ntiLAeDC8QF4"
+    },
+    {
+      "album": {
+        "name": "Good 4 U (Arr. for String Quartet)",
+        "url": "https://open.spotify.com/album/6IS1QBDwuR4NUDVd7we5wo"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 177706,
+      "name": "Good 4 U - Arr. for String Quartet",
+      "url": "https://open.spotify.com/track/0wOg1VN28vZswbqVYKC3KM"
     },
     {
       "album": {
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186426,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/1crphtLmE5qben7biopmp3"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186426,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM"
@@ -1931,7 +1931,7 @@
       "artists": [
         {
           "name": "Justin Paul",
-          "url": "https://open.spotify.com/artist/31k3xHULLQ3baqc2yNf0ic"
+          "url": "https://open.spotify.com/artist/1A2uplrPcSu6bqDaRp7Xs9"
         },
         {
           "name": "Jenny Oaks Baker",
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 213286,
       "name": "Never Enough (From \"The Greatest Showman\")",
       "url": "https://open.spotify.com/track/3Lq1M8hjMMK5a2L0brZUsy"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213286,
       "name": "Never Enough (From \"The Greatest Showman\")",
       "url": "https://open.spotify.com/track/3hz0FkSMzk9lvBqmYwiOIC"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285533,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 285533,
       "name": "Nothing Else Matters - Instrumental Version",
       "url": "https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258531,
       "name": "Shallow - Piano Version",
       "url": "https://open.spotify.com/track/2TVtbMZR9r2nxI7XAnhxbF"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258531,
       "name": "Shallow Day",
       "url": "https://open.spotify.com/track/275wgtKr7leG3bk8dKmeSa"
@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1"
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278400,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250600,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/3hWJYwHivHN8TTNS4AAaCO"
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250600,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 232636,
       "name": "Thinking Out Loud",
       "url": "https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232636,
       "name": "Thinking Out Loud",
       "url": "https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4"
@@ -2993,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Traitor (arr. String Quartet (inspired by Bridgerton))",
+        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Traitor (arr. String Quartet (inspired by Bridgerton))",
+      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
+    },
+    {
+      "album": {
         "name": "Traitor (Arr. for String Quartet / Inspired by Bridgerton)",
         "url": "https://open.spotify.com/album/1TEqV9AjxOrPcRkf4T6gvz"
       },
@@ -3004,28 +3022,10 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222466,
       "name": "Traitor - Arr. for String Quartet / Inspired by Bridgerton",
       "url": "https://open.spotify.com/track/6UrKD7QtUP5rJNkYafHXOU"
-    },
-    {
-      "album": {
-        "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
-        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
-      "duration_ms": 222466,
-      "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
-      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
     },
     {
       "album": {

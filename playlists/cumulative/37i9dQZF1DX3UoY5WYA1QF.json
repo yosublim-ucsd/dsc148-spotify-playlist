@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "15 Grandes Exitos - Joan Sebastian",
+        "url": "https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180511,
+      "name": "25 Rosas",
+      "url": "https://open.spotify.com/track/3w08iUjYVTFdpaUKDdek0U"
+    },
+    {
+      "album": {
         "name": "Para Siempre Los Nietos De Ter\u00e1n",
         "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
       },
@@ -20,10 +38,32 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171213,
       "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
       "url": "https://open.spotify.com/track/5s6D3aH0ZJPVW2BmQBPpaJ"
+    },
+    {
+      "album": {
+        "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
+        "url": "https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171613,
+      "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
+      "url": "https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ"
     },
     {
       "album": {
@@ -92,10 +132,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158476,
       "name": "Ahora Si Va En Serio",
       "url": "https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Joan Sebastian",
+        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158476,
+      "name": "Ahora Si Va En Serio",
+      "url": "https://open.spotify.com/track/7DV8csJMyGQ1jR0g3CzIfP"
     },
     {
       "album": {
@@ -135,8 +193,8 @@
     },
     {
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
       },
       "artists": [
         {
@@ -148,8 +206,70 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203816,
+      "name": "Amorcito Mio",
+      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
+    },
+    {
+      "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 203816,
       "name": "Amorcito Mio - En Vivo",
       "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Amores Malditos",
+      "url": "https://open.spotify.com/track/4NC9thmbIa5DMkmNobTjep"
+    },
+    {
+      "album": {
+        "name": "Bien Acompa\u00f1ado",
+        "url": "https://open.spotify.com/album/3VwFhK9D8AFgcaVXAcpjh0"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Armando \u00c1vila",
+          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262680,
+      "name": "Asi Es La Vida",
+      "url": "https://open.spotify.com/track/6kR5VFCLduvKeVlljCeHBx"
     },
     {
       "album": {
@@ -172,10 +292,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263693,
       "name": "Asi Es La Vida (with Joan Sebastian)",
       "url": "https://open.spotify.com/track/3PSHjsCFmuRjXgJDzLLwSP"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Joan Sebastian",
+        "url": "https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198360,
+      "name": "Asi Te Quiero",
+      "url": "https://open.spotify.com/track/4w0k7oGaTLMAmBQ3NUU7Ws"
     },
     {
       "album": {
@@ -190,7 +328,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198356,
       "name": "As\u00ed Te Quiero",
       "url": "https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb"
@@ -251,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Corridos Con Banda",
+        "url": "https://open.spotify.com/album/07SkzDa8j8u3PdP042nIs8"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179234,
+      "name": "Bandido de Amores",
+      "url": "https://open.spotify.com/track/4ZcQtsMR1XcaE4NZm22Y2T"
+    },
+    {
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -266,7 +422,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178932,
       "name": "Bandido De Amores",
       "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
@@ -284,10 +440,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213774,
       "name": "Botellita De Tequila",
       "url": "https://open.spotify.com/track/3q53XQxuoucPn2ot19ucVM"
+    },
+    {
+      "album": {
+        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
+        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213774,
+      "name": "Botellita de Tequila",
+      "url": "https://open.spotify.com/track/6BVvJ0yh983lZdDL04EXJz"
     },
     {
       "album": {
@@ -306,6 +480,24 @@
       "duration_ms": 224107,
       "name": "Buena Amiga",
       "url": "https://open.spotify.com/track/2QvxxH2qKdMdXGBr0blz1s"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Cada Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7Hi3l1vdmvQGOwvLP2FQRo"
     },
     {
       "album": {
@@ -342,7 +534,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 194362,
       "name": "Como Perro Con Rabia",
       "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
@@ -447,6 +639,24 @@
     },
     {
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 2)",
+        "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Dos Mares M\u00e1s Que Tu",
+      "url": "https://open.spotify.com/track/7nLfZmxHpA4ITHpB2olVcc"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
       },
@@ -458,7 +668,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186986,
       "name": "Dos Mares M\u00e1s Que Tu",
       "url": "https://open.spotify.com/track/5VVqX1TUzmuM0neTJNPOWh"
@@ -530,7 +740,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186003,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
@@ -566,10 +776,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
+    },
+    {
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
     },
     {
       "album": {
@@ -588,10 +816,32 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192586,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/2qnjcjo3vFxZpb62jMKGgW"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/4jEcyDMHhofDZasAIuGG6N"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192986,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/2hvRNCiySrg0TK9iQv2gs0"
     },
     {
       "album": {
@@ -667,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
+        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243112,
+      "name": "Enamorarse Asi",
+      "url": "https://open.spotify.com/track/4vzCiofKdS56yNPo7kl4vd"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -678,7 +946,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243112,
       "name": "Enamorarse As\u00ed",
       "url": "https://open.spotify.com/track/6ezVa5KmCVNYVeIJ0at916"
@@ -707,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Joan Sebastian",
+        "url": "https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161173,
+      "name": "Eso Y Mas",
+      "url": "https://open.spotify.com/track/2PjkM9mcZCvcejOuvupb3h"
+    },
+    {
+      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -718,7 +1004,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
@@ -761,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Homenaje A Joan Sebastian",
+        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176237,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT"
+    },
+    {
+      "album": {
         "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
         "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
       },
@@ -772,7 +1076,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176237,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
@@ -826,10 +1130,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226733,
       "name": "Homenaje A Joan Sebastian",
       "url": "https://open.spotify.com/track/0jMLgmeFwWmxLn1pzj4JuG"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Joan Sebastian",
+        "url": "https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226759,
+      "name": "Homenaje A Joan Sebastian",
+      "url": "https://open.spotify.com/track/08mTIG1Dh2pwwk4LeDH0UR"
     },
     {
       "album": {
@@ -844,7 +1166,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204933,
       "name": "Juliantla",
       "url": "https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5"
@@ -905,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 2)",
+        "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "La Mam\u00e1 De Los Pollitos",
+      "url": "https://open.spotify.com/track/5LwKNFgJDGF2dMKOkDuPqn"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
       },
@@ -916,7 +1256,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176453,
       "name": "La Mam\u00e1 De Los Pollitos",
       "url": "https://open.spotify.com/track/7JnUkfU2Ojbem9NuEvbPzK"
@@ -934,7 +1274,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153664,
       "name": "La Mulita Prieta",
       "url": "https://open.spotify.com/track/2RrOW3caUGN8CL30jrrS5F"
@@ -1000,7 +1340,7 @@
     {
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/5zFtzAqQf0boydT0eCjc4V"
+        "url": "https://open.spotify.com/album/0YpiREnG6SkKqGKJs7QNrz"
       },
       "artists": [
         {
@@ -1013,7 +1353,43 @@
       "date_removed": null,
       "duration_ms": 153925,
       "name": "Llorar - En Vivo",
+      "url": "https://open.spotify.com/track/40aOO4Y8SofgL1eIrb1Duj"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/5zFtzAqQf0boydT0eCjc4V"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 153925,
+      "name": "Llorar - En Vivo",
       "url": "https://open.spotify.com/track/74xAC75w217qPeRSNrmVbH"
+    },
+    {
+      "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153890,
+      "name": "Lo Dijo El Cura",
+      "url": "https://open.spotify.com/track/03oeodoZGEdjRNNmwOdDLp"
     },
     {
       "album": {
@@ -1028,7 +1404,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164440,
       "name": "Lobo Domesticado",
       "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
@@ -1104,10 +1480,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188917,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Joan Sebastian",
+        "url": "https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Mas Alla Del Sol",
+      "url": "https://open.spotify.com/track/11lScnLmiPDjqQ9SM6G0hj"
     },
     {
       "album": {
@@ -1122,10 +1516,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213228,
       "name": "Mas Alto Que Las Aguilas",
       "url": "https://open.spotify.com/track/12Wt7BjwD9LGbX1tiL6weH"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Mata El Recuerdo",
+      "url": "https://open.spotify.com/track/4gDTjvWcEVIJNrmutfpFTu"
     },
     {
       "album": {
@@ -1140,10 +1552,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 194293,
       "name": "Mayra",
       "url": "https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG"
+    },
+    {
+      "album": {
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "Me Dueles",
+      "url": "https://open.spotify.com/track/2j3goI4D6w6SGqQEJYzO0s"
     },
     {
       "album": {
@@ -1158,7 +1588,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207586,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
@@ -1194,10 +1624,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163186,
       "name": "Melodia Para Dos",
       "url": "https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Joan Sebastian",
+        "url": "https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "Melodia Para Dos",
+      "url": "https://open.spotify.com/track/7s10cSCJcdnzGswgpYGyDF"
     },
     {
       "album": {
@@ -1284,7 +1732,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163654,
       "name": "M\u00e1s All\u00e1 Del Sol",
       "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
@@ -1345,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "15 Grandes Exitos - Joan Sebastian",
+        "url": "https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211367,
+      "name": "Oiga",
+      "url": "https://open.spotify.com/track/1eXyQgh9G5L8KDzKo9DA5V"
+    },
+    {
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -1360,7 +1826,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209676,
       "name": "Oiga",
       "url": "https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB"
@@ -1378,10 +1844,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135964,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Joan Sebastian",
+        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135964,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/6K8USOdsYF97ToIjUgq7pt"
     },
     {
       "album": {
@@ -1497,6 +1981,42 @@
     },
     {
       "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189240,
+      "name": "Qu\u00e9 Si Me Duele Tu Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3HGkpkgdhEB7jxHdMS5H6e"
+    },
+    {
+      "album": {
+        "name": "Recu\u00e9rdame Bonito",
+        "url": "https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195726,
+      "name": "Razones De M\u00e1s",
+      "url": "https://open.spotify.com/track/4PH2FAf3cVXHtFeDhfIXgS"
+    },
+    {
+      "album": {
         "name": "Recu\u00e9rdame Bonito",
         "url": "https://open.spotify.com/album/7ILpDmbUgAzuyGupH5kDIr"
       },
@@ -1508,10 +2028,46 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191461,
       "name": "Recu\u00e9rdame Bonito",
       "url": "https://open.spotify.com/track/1APZxSVM4utFv3005z4FtB"
+    },
+    {
+      "album": {
+        "name": "Recu\u00e9rdame Bonito",
+        "url": "https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "Recu\u00e9rdame Bonito",
+      "url": "https://open.spotify.com/track/0Jp5xokKeQoHRI0xlTKc9A"
+    },
+    {
+      "album": {
+        "name": "Coleccion De Oro Vol. 2 - Joan Sebastian",
+        "url": "https://open.spotify.com/album/06wLCrxmxvmBxq9PicjJvj"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/5qebmxkA0qSeW9g3avEUBW"
     },
     {
       "album": {
@@ -1530,7 +2086,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222476,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
@@ -1548,10 +2104,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187386,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/1goQCzznunJPbBTg3ncVVH"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Joan Sebastian",
+        "url": "https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190092,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/4U7IDsM2SuheFR7kGae09Q"
     },
     {
       "album": {
@@ -1584,10 +2158,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273008,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Joan Sebastian",
+        "url": "https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275200,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/00s2jnZ4cVZssim4VqrszP"
     },
     {
       "album": {
@@ -1620,7 +2212,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167514,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
@@ -1638,7 +2230,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 155794,
       "name": "Soy Como Quiero Ser",
       "url": "https://open.spotify.com/track/5wbVhLqakT1wAbZvM0C1Ds"
@@ -1656,7 +2248,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154110,
       "name": "Soy C\u00f3mo Quiero Ser",
       "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
@@ -1674,7 +2266,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
@@ -1728,10 +2320,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176431,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
       "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
+    },
+    {
+      "album": {
+        "name": "Recu\u00e9rdame Bonito",
+        "url": "https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174764,
+      "name": "Te Quiero, Si",
+      "url": "https://open.spotify.com/track/6ci82f6H1KRmhLKmFSyWpU"
     },
     {
       "album": {
@@ -1840,10 +2450,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170709,
       "name": "Un Idiota - En Vivo",
       "url": "https://open.spotify.com/track/4xO3YgOwf8mhEHRSnNQZPQ"
+    },
+    {
+      "album": {
+        "name": "En Vivo: Desde Los Cabos",
+        "url": "https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170709,
+      "name": "Un Idiota - En Vivo",
+      "url": "https://open.spotify.com/track/5NX48wVftEnRqRmnCOWBSv"
     },
     {
       "album": {
@@ -1894,7 +2522,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180511,
       "name": "Veinticinco Rosas",
       "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
@@ -1916,6 +2544,24 @@
       "duration_ms": 171978,
       "name": "Verdad Que Duele",
       "url": "https://open.spotify.com/track/6HzwkpPOXBCRrkCMd99BRS"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215386,
+      "name": "Volcanes Dormidos",
+      "url": "https://open.spotify.com/track/395im9lFQlq0zpWeXhcSLd"
     },
     {
       "album": {
@@ -1948,7 +2594,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181812,
       "name": "Y Las Mariposas",
       "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"

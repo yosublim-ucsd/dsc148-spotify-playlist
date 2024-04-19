@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,607 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,062 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Five Nights at Freddy's](https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI) | 2:45 |
+| 1 | [Five Nights at Freddy's](https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/2nXOk2xDys9smftpAAufpQ) | 2:45 |
 | 2 | [Talking In Your Sleep \(2023 Remaster\)](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat \(2023 Remaster\)](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:56 |
 | 3 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 4 | [Real Wild Child \(Wild One\)](https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 3:38 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 | 21 | [Trust Me](https://open.spotify.com/track/6FP8c27to7XFduVv2KoA3F) | [Jorge Aguilar II](https://open.spotify.com/artist/0nFImDWLQMuYEL1dWcXs1K), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [Trust Me](https://open.spotify.com/album/06LkgWjmpGBauoIGYYiT0V) | 3:50 |
 | 22 | [Five More Nights](https://open.spotify.com/track/4VbRzSzpXWmozGSpLeDxj7) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [Want It All](https://open.spotify.com/album/2nQUBrQXLuah57Toe5MGgP) | 4:09 |
 | 23 | [I Got No Time](https://open.spotify.com/track/1ffKh2d1EzZlvuvVj2xpI9) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [I Got No Time](https://open.spotify.com/album/0aUjoOJRURgIbHehXYjOsV) | 2:46 |
-| 24 | [Never Be Alone](https://open.spotify.com/track/3Mi2DxVPiT7j2EHdxOFCg3) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Never Be Alone](https://open.spotify.com/album/0MZHZHozOZe5L2uVSVdD0M) | 3:00 |
+| 24 | [Never Be Alone](https://open.spotify.com/track/2FfRcyV3BoxU5jZwyaQfNT) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Never Be Alone](https://open.spotify.com/album/07HCUJzOLakHtftpKEKa5G) | 3:00 |
 | 25 | [Follow Me](https://open.spotify.com/track/5tvvVkt2MhUHfBXEwO1eH3) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG) | [Five Nights at Freddy's Songs](https://open.spotify.com/album/0A1G2GuC0F45Jb7tYn5w4e) | 3:24 |
 | 26 | [Labyrinth](https://open.spotify.com/track/5F4nIA3JX7ONBuTw2tZI1Y) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx), [Fandroid!](https://open.spotify.com/artist/1ugK8Asl9rFTv6ehF9puwv), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW), [Dawko](https://open.spotify.com/artist/4FnnJYQ1aBQ5sSm0CtKdbj) | [Labyrinth](https://open.spotify.com/album/4l4P6L7AMd6clhPj7qWAaE) | 4:40 |
 | 27 | [The Mangle](https://open.spotify.com/track/2OgwVOy19kJhbjXPK5yOsr) | [Skyfixing](https://open.spotify.com/artist/7oNQoSI5fptljRAjvVsMdz), [Nicole Gene](https://open.spotify.com/artist/7KMSiW9w1EMiKvJttYVF2F) | [Nightmares](https://open.spotify.com/album/7jdPFgXuKTjnI3zSzNS7Wg) | 4:30 |

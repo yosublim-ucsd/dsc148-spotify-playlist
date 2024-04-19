@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Rhyan Douglas
 
-1,618 songs - 3 day 11 hr 17 min
+1,619 songs - 3 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Bitches In The Bathroom \- Charlie Burg Remix](https://open.spotify.com/track/0kYiROCi36yejkwbuDlofB) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR), [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Bitches In The Bathroom](https://open.spotify.com/album/1elbtwTB9KibNv16C9QUp4) | 2:41 | 2021-12-06 | 2022-01-08 |
 | [BITTER](https://open.spotify.com/track/0DvKlrYXQsoJGotGzsqcbA) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [BITTER](https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw) | 4:17 | 2021-12-06 | 2022-01-08 |
 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 | 2022-11-11 | 2022-12-01 |
-| [Bitter Melon](https://open.spotify.com/track/5VAGx9L6hdAk6PgVWpmX13) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/3V1jYsGINylmb0rvweOfna) | 6:09 | 2024-04-05 |  |
+| [Bitter Melon](https://open.spotify.com/track/4YUN90iIpBt9n0GOkpfSSd) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/6fgDkFlNpycP6P6zs1J615) | 6:09 | 2024-04-16 |  |
+| [Bitter Melon](https://open.spotify.com/track/5VAGx9L6hdAk6PgVWpmX13) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/3V1jYsGINylmb0rvweOfna) | 6:09 | 2024-04-05 | 2024-04-19 |
 | [Bittersweet](https://open.spotify.com/track/4r3dW2GaTXSMBOMxtnC2X0) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Bittersweet](https://open.spotify.com/album/1l7f3275NojBZM1FpxlDAT) | 3:26 | 2022-05-06 | 2022-06-04 |
 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 | 2022-10-07 | 2023-02-04 |
 | [Black For Green](https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [THE 6TH LETTER](https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V) | [Black For Green](https://open.spotify.com/album/7E0vKS0ocrn6O3fuRHrnZC) | 3:29 | 2023-07-07 | 2023-08-05 |
@@ -501,8 +502,8 @@
 | [Fine](https://open.spotify.com/track/7CjIh26XfyXIeUnjdE3xfM) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Fine](https://open.spotify.com/album/642qyqsuveUZ0U3Mc2W1kS) | 3:29 | 2022-02-04 | 2022-03-05 |
 | [fingers crossed](https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [fingers crossed](https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg) | 2:43 | 2022-03-04 | 2022-04-02 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-02-04 | 2022-03-05 |
-| [Fireball](https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v) | 2:59 | 2024-04-05 |  |
-| [Fireball](https://open.spotify.com/track/7IGLY0LhYBVcljx6D1YN62) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/3roFTNIDiw3v277J3Ytp9d) | 2:59 | 2024-04-05 | 2024-04-13 |
+| [Fireball](https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v) | 2:59 | 2024-04-05 | 2024-04-19 |
+| [Fireball](https://open.spotify.com/track/7IGLY0LhYBVcljx6D1YN62) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/3roFTNIDiw3v277J3Ytp9d) | 2:59 | 2024-04-05 |  |
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-08-05 | 2022-09-03 |
 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 | 2022-10-08 |
 | [First Touch](https://open.spotify.com/track/5UZNu7yoVADdteuDRR1qND) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Lighthouse](https://open.spotify.com/album/386OkomCq7KFjusVqI1E78) | 3:18 | 2024-04-05 |  |

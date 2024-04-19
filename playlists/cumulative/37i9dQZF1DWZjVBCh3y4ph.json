@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo :  Mik L x Nesly",
+  "description": "Les hits zouk du moment. Photo :  L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
+    {
+      "album": {
+        "name": "6:45",
+        "url": "https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202134,
+      "name": "6:45",
+      "url": "https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz"
+    },
     {
       "album": {
         "name": "A GOU A-W",
@@ -284,6 +302,24 @@
       "duration_ms": 219419,
       "name": "Coeur Noir",
       "url": "https://open.spotify.com/track/2POhFt7cVOzqLYNuLOfQH0"
+    },
+    {
+      "album": {
+        "name": "CATTLEYA",
+        "url": "https://open.spotify.com/album/3yPzQIfc6dj1NQWNYLYHGn"
+      },
+      "artists": [
+        {
+          "name": "Sassy",
+          "url": "https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261506,
+      "name": "COMMANDES",
+      "url": "https://open.spotify.com/track/4iEBC6CH4TUgqt9tWH1brw"
     },
     {
       "album": {
@@ -1512,7 +1548,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149647,
       "name": "Plus jamais",
       "url": "https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8"
@@ -1646,7 +1682,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188400,
       "name": "SERRER CONTRE MOI",
       "url": "https://open.spotify.com/track/11KzpAtpu1YW79xeU4kSJ1"
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195949,
       "name": "Tellement doux",
       "url": "https://open.spotify.com/track/3o1osJPn6XpsoWa3S5AHDN"
@@ -1882,7 +1918,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 195949,
       "name": "Tellement doux",
       "url": "https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR"

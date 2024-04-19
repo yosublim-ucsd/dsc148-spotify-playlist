@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Kara Jackson performing at Fresh Finds Chicago March, 2024",
-  "num_followers": 66088,
+  "num_followers": 66357,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcyMTYwMCwwMDAwMDAwMDA5YzNiMWI3MmNjMGMyYjg2MDIwODYzMWM3ZDA5Mzgw",
+  "snapshot_id": "MTcxMzMyNjQwMCwwMDAwMDAwMDJmZjIxNTI2YWRiZTI4MjJiYzQwYjhlYzQwZGJkZGNm",
   "tracks": [
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Stretch",
+        "url": "https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "Stretch",
+      "url": "https://open.spotify.com/track/290x0HFZibOGZ7jgMIlKgU"
+    },
     {
       "added_at": "2024-04-10 04:00:00",
       "album": {
@@ -25,6 +41,54 @@
       "url": "https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG"
     },
     {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "amen!",
+        "url": "https://open.spotify.com/album/38wnPxWVlBO3FgpSoUtSh4"
+      },
+      "artists": [
+        {
+          "name": "hemlock",
+          "url": "https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "good wind",
+      "url": "https://open.spotify.com/track/6X0V8H3CWWV0ahbRfdGUP8"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Birdwatcher",
+        "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 224525,
+      "name": "Asking Price",
+      "url": "https://open.spotify.com/track/33bUW91pBLKxKJXc2V4p4k"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Be Okay, Be Lonely",
+        "url": "https://open.spotify.com/album/6eH5FbQkauT582XDNJahy6"
+      },
+      "artists": [
+        {
+          "name": "Catching Z\u2019s",
+          "url": "https://open.spotify.com/artist/1LXjVnw3u1spBy98Gm8WYx"
+        }
+      ],
+      "duration_ms": 232557,
+      "name": "Be Okay, Be Lonely",
+      "url": "https://open.spotify.com/track/3bnQOgLJTjr4286CHnTNlS"
+    },
+    {
       "added_at": "2024-04-10 04:00:00",
       "album": {
         "name": "The Favorite",
@@ -39,6 +103,102 @@
       "duration_ms": 185975,
       "name": "The Favorite",
       "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Lying / Nightlight",
+        "url": "https://open.spotify.com/album/3G6ayQIXwLnnT2ICskY5To"
+      },
+      "artists": [
+        {
+          "name": "Jia*",
+          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
+        }
+      ],
+      "duration_ms": 126476,
+      "name": "Lying",
+      "url": "https://open.spotify.com/track/3jvVSePco2GfTMcYoFsTUs"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Whenever You Get Old",
+        "url": "https://open.spotify.com/album/0HY3HLwfBukwY93BlOFy1b"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Whenever You Get Old",
+      "url": "https://open.spotify.com/track/6Q5tvipMXV8970Qqz4UMX8"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Show You (Truck Song)",
+        "url": "https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Show You (Truck Song)",
+      "url": "https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Bullhead",
+        "url": "https://open.spotify.com/album/5rvAHDsVCW5SZ9yPLbwD6l"
+      },
+      "artists": [
+        {
+          "name": "Slow Hollows",
+          "url": "https://open.spotify.com/artist/7qME2V5vIIPqIKCpzxQMPz"
+        }
+      ],
+      "duration_ms": 226256,
+      "name": "Old Yeller",
+      "url": "https://open.spotify.com/track/5gY5CUEjNnMaGcqkc06kE4"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "My June",
+        "url": "https://open.spotify.com/album/5OmyF7UAkfITPBVclTVWaG"
+      },
+      "artists": [
+        {
+          "name": "Beane",
+          "url": "https://open.spotify.com/artist/6OPhoP9klTrNJm9EF0FnRt"
+        }
+      ],
+      "duration_ms": 202290,
+      "name": "My June",
+      "url": "https://open.spotify.com/track/4VM5w0p0H9GSZnSuU4Mqrn"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "i think i feel the way the words do",
+        "url": "https://open.spotify.com/album/2gLE88UfeuJpGSJNJ5iIim"
+      },
+      "artists": [
+        {
+          "name": "Cayden Wemple",
+          "url": "https://open.spotify.com/artist/0hzr8TCwUaFkbq03iJ7W0q"
+        }
+      ],
+      "duration_ms": 148017,
+      "name": "i think i feel the way the words do",
+      "url": "https://open.spotify.com/track/0K2VWbLhE2Qp6ujHf6tGw7"
     },
     {
       "added_at": "2024-04-03 04:00:00",
@@ -1284,7 +1444,7 @@
       "added_at": "2024-02-28 05:00:00",
       "album": {
         "name": "Nico Paulo",
-        "url": "https://open.spotify.com/album/6SXX7ZhhMrhzGPCQM98WKu"
+        "url": "https://open.spotify.com/album/4hxJYEOKb1NGphLaJb0QuN"
       },
       "artists": [
         {
@@ -1294,7 +1454,7 @@
       ],
       "duration_ms": 107566,
       "name": "Intro, Dream",
-      "url": "https://open.spotify.com/track/4pFz7N4gAj81yaHFbs3WXZ"
+      "url": "https://open.spotify.com/track/6h3eqlgYSMVbxQvNsfIwN3"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -1475,166 +1635,6 @@
       "duration_ms": 171639,
       "name": "Your Melody",
       "url": "https://open.spotify.com/track/5oehlLTugy2jajet81l7W3"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Style",
-        "url": "https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/3DbXc2U2H1CsBzarSeQFGf"
-      },
-      "artists": [
-        {
-          "name": "Kate Stephenson",
-          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/2T4enGToW18Xb5miM0Wqml"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Ryman",
-        "url": "https://open.spotify.com/album/0M7bi0aVRlpQN8BmhWbYSm"
-      },
-      "artists": [
-        {
-          "name": "Jack Hartman",
-          "url": "https://open.spotify.com/artist/1ExL1FiD1BQjtaMK0LFA1l"
-        }
-      ],
-      "duration_ms": 264009,
-      "name": "Ryman",
-      "url": "https://open.spotify.com/track/6h1vlJFFNJ6hodC5kWq3Ki"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "endless questions",
-        "url": "https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD"
-      },
-      "artists": [
-        {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
-        }
-      ],
-      "duration_ms": 167178,
-      "name": "endless questions",
-      "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/6QRqgdMGCxABXCTFmjDlSg"
-      },
-      "artists": [
-        {
-          "name": "h. pruz",
-          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
-        }
-      ],
-      "duration_ms": 333333,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/73hivFjCugq75ohbZiPlob"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Straight North",
-        "url": "https://open.spotify.com/album/1aBAiavTkhDQmAb44Y1oSA"
-      },
-      "artists": [
-        {
-          "name": "The 4411",
-          "url": "https://open.spotify.com/artist/7ihRkM2a3CvPVKDkE1ZRnx"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Straight North",
-      "url": "https://open.spotify.com/track/0jYAyzb9rMPUysb8lNHE21"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Made To Love Someone",
-        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Made To Love Someone",
-      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Clean Cut",
-        "url": "https://open.spotify.com/album/5MTtsV1XLkI3lxFn1M4aWc"
-      },
-      "artists": [
-        {
-          "name": "Charm of Finches",
-          "url": "https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Clean Cut",
-      "url": "https://open.spotify.com/track/2exzpcAhjJmnw4clYVLmkp"
-    },
-    {
-      "added_at": "2024-01-11 21:07:41",
-      "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sonnier",
-          "url": "https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Hand Me Downs",
-        "url": "https://open.spotify.com/album/47i5TjzJsUUGgs8bzvQ1jf"
-      },
-      "artists": [
-        {
-          "name": "Laurs",
-          "url": "https://open.spotify.com/artist/7I2CFnjp7Xh3iOKUmbakbk"
-        }
-      ],
-      "duration_ms": 286564,
-      "name": "Hand Me Downs",
-      "url": "https://open.spotify.com/track/2YCTEg3wqbMyiug6vg2uCJ"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

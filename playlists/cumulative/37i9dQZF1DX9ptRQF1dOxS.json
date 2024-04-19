@@ -572,7 +572,7 @@
     {
       "album": {
         "name": "All Now",
-        "url": "https://open.spotify.com/album/3N3I408c25BJ3PjmLP5Itg"
+        "url": "https://open.spotify.com/album/7i3WTosqJfAnzNp2F2vW5L"
       },
       "artists": [
         {
@@ -583,6 +583,24 @@
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 270026,
+      "name": "All Now",
+      "url": "https://open.spotify.com/track/41ilZanxns7B8xQmyST5rG"
+    },
+    {
+      "album": {
+        "name": "All Now",
+        "url": "https://open.spotify.com/album/3N3I408c25BJ3PjmLP5Itg"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 270026,
       "name": "All Now",
       "url": "https://open.spotify.com/track/63Q9xNRdq42QZN4f2NgNv8"
@@ -1236,10 +1254,28 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244772,
       "name": "Be On Your Way",
       "url": "https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN"
+    },
+    {
+      "album": {
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/4OMhhmQM3y3XC8ux64nFna"
     },
     {
       "album": {
@@ -8690,10 +8726,28 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
+    },
+    {
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "album": {
@@ -13866,10 +13920,28 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256236,
       "name": "People Help the People",
       "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0ia0JAsndEIZ268L3phuUa"
     },
     {
       "album": {
@@ -18309,6 +18381,24 @@
     },
     {
       "album": {
+        "name": "This Is How We Move",
+        "url": "https://open.spotify.com/album/5ni8B7V4FIXt61Jkghjkf9"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186168,
+      "name": "This Is How We Move",
+      "url": "https://open.spotify.com/track/5bQV0NEKpqCd3Erpau30VL"
+    },
+    {
+      "album": {
         "name": "Drop Cherries",
         "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
@@ -18320,7 +18410,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186168,
       "name": "This Is How We Move",
       "url": "https://open.spotify.com/track/7BDBOaBevxxjq2VN3WrUyS"
@@ -19828,7 +19918,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220552,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
@@ -19846,7 +19936,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 220552,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/5vfbSgUkODCDdaZlKBF5Ji"
@@ -19894,7 +19984,7 @@
     {
       "album": {
         "name": "A Small Death",
-        "url": "https://open.spotify.com/album/7veNlo53uwJjMtxwQUTNOx"
+        "url": "https://open.spotify.com/album/2MbS58jXMFfFUTDZc7ugNP"
       },
       "artists": [
         {
@@ -19905,6 +19995,24 @@
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170586,
+      "name": "When We Remain",
+      "url": "https://open.spotify.com/track/2vhhPV5t9zGnmNsys0DBcw"
+    },
+    {
+      "album": {
+        "name": "A Small Death",
+        "url": "https://open.spotify.com/album/7veNlo53uwJjMtxwQUTNOx"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 170586,
       "name": "When We Remain",
       "url": "https://open.spotify.com/track/5Vj4m4jdnNbfqW5c1AmpTd"

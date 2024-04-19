@@ -1,12 +1,12 @@
 {
   "description": "Shotgun Willy, born and raised on the internet.",
-  "num_followers": 1399112,
+  "num_followers": 1398962,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMDY1YTlkZjZlYzY4MjFkMmVjN2M1ZGZiM2M4YWM4MmYw",
+  "snapshot_id": "MTcxMzUwMjgwMCwwMDAwMDAwMGY3OTY4ZjdlZjkwOWE1MTJjNGZkZWJlNzMxYTg4YzM2",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -45,6 +45,58 @@
       "url": "https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ"
     },
     {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "Hotboiiz:4L",
+        "url": "https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "TLG Dooda",
+          "url": "https://open.spotify.com/artist/6ccIoUe0YFANnBMT6Utygw"
+        },
+        {
+          "name": "EBK Trey B",
+          "url": "https://open.spotify.com/artist/7oXvysW3peGY3AEa17WoFt"
+        },
+        {
+          "name": "EBK Lil Sleaze",
+          "url": "https://open.spotify.com/artist/3EcV9JbK3RCHWnNyBaIipD"
+        }
+      ],
+      "duration_ms": 71724,
+      "name": "Affiliations",
+      "url": "https://open.spotify.com/track/3dBXJCFQy5VzP3y6sZJKB3"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
+        "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "DJ Ess",
+          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
+        }
+      ],
+      "duration_ms": 122012,
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
+      "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Mr Beat The Road",
@@ -75,6 +127,22 @@
       "duration_ms": 141031,
       "name": "overseas",
       "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
+    },
+    {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 140526,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -115,26 +183,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
-        "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
-      },
-      "artists": [
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        },
-        {
-          "name": "DJ Ess",
-          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
-        }
-      ],
-      "duration_ms": 122012,
-      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
-      "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "light! (with Lil Nas X & 9lives)",
         "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
       },
@@ -160,7 +208,7 @@
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "NSFW 2: I Like Girls",
-        "url": "https://open.spotify.com/album/4KAIch2YF3Qc1HBdYfiJrO"
+        "url": "https://open.spotify.com/album/1pBI9gyxvVwMRlhUWjVtNw"
       },
       "artists": [
         {
@@ -173,8 +221,8 @@
         }
       ],
       "duration_ms": 205508,
-      "name": "Seppuku (feat. Baldie Balboa)",
-      "url": "https://open.spotify.com/track/5lI8kRrA9y4B6Qo7WH0TJq"
+      "name": "Seppuku",
+      "url": "https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -191,6 +239,22 @@
       "duration_ms": 156000,
       "name": "One Eyed Willy",
       "url": "https://open.spotify.com/track/35yzokuxsPdHaDKd5h9kgQ"
+    },
+    {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "SEXX NOTE",
+        "url": "https://open.spotify.com/album/1eFQM6nSujm89z7HUqJghk"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "duration_ms": 95674,
+      "name": "SEXX NOTE",
+      "url": "https://open.spotify.com/track/350QjNeeZyUgeKtgOcchfh"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -287,6 +351,26 @@
       "duration_ms": 152467,
       "name": "BIG DOG SH*T (feat. Lil RT)",
       "url": "https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI"
+    },
+    {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "FLOWIN",
+        "url": "https://open.spotify.com/album/0cIUucxmviwfTaXy1Sndjq"
+      },
+      "artists": [
+        {
+          "name": "3weeksin",
+          "url": "https://open.spotify.com/artist/1l5gvmBcnW4xwsxGzXvCu2"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "FLOWIN",
+      "url": "https://open.spotify.com/track/0dOxlxZIOkXb9Ni0DsiU1V"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -516,7 +600,7 @@
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "MOVE YO BODY (sped up)",
-        "url": "https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL"
+        "url": "https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P"
       },
       "artists": [
         {
@@ -525,8 +609,8 @@
         }
       ],
       "duration_ms": 117603,
-      "name": "MOVE YO BODY (sped up)",
-      "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
+      "name": "MOVE YO BODY - sped up",
+      "url": "https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -551,8 +635,8 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Mega Star",
-        "url": "https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE"
+        "name": "Leaving the Lot",
+        "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
       },
       "artists": [
         {
@@ -562,7 +646,7 @@
       ],
       "duration_ms": 189387,
       "name": "Leaving the Lot",
-      "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
+      "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -836,7 +920,7 @@
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Cha Cha",
-        "url": "https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l"
+        "url": "https://open.spotify.com/album/17Jxv329yHNbPk3lnZjaQE"
       },
       "artists": [
         {
@@ -844,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
         }
       ],
-      "duration_ms": 157377,
+      "duration_ms": 155471,
       "name": "Cha Cha",
-      "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
+      "url": "https://open.spotify.com/track/6d6wAt8R2IiVNSxpi4lerS"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1272,7 +1356,7 @@
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Blue Devils",
-        "url": "https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw"
+        "url": "https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy"
       },
       "artists": [
         {
@@ -1280,15 +1364,15 @@
           "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
         }
       ],
-      "duration_ms": 120149,
+      "duration_ms": 129925,
       "name": "Blue Devils",
-      "url": "https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ"
+      "url": "https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG"
     },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "<3x girl",
-        "url": "https://open.spotify.com/album/5qomU1F43TlMieaEHkGlRa"
+        "url": "https://open.spotify.com/album/3pifeOOGTYKlts7FEgyBXG"
       },
       "artists": [
         {
@@ -1296,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9"
         }
       ],
-      "duration_ms": 57689,
+      "duration_ms": 57972,
       "name": "<3x girl",
-      "url": "https://open.spotify.com/track/0raYSZY5ca9Gu507VTvdw4"
+      "url": "https://open.spotify.com/track/1npX7CetlIG1TxCfO7gOU4"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1340,7 +1424,7 @@
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "IT GIRL",
-        "url": "https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw"
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
       },
       "artists": [
         {
@@ -1350,7 +1434,7 @@
       ],
       "duration_ms": 161760,
       "name": "IT GIRL",
-      "url": "https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu"
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1780,7 +1864,7 @@
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "DALE",
-        "url": "https://open.spotify.com/album/2nZ9NW1n76ti7fFcJg2Lrh"
+        "url": "https://open.spotify.com/album/61PWHu4c4uHE8dfAM0j9cf"
       },
       "artists": [
         {
@@ -1790,7 +1874,7 @@
       ],
       "duration_ms": 168000,
       "name": "BET",
-      "url": "https://open.spotify.com/track/7y0tirehAFF9YtxljxDOPt"
+      "url": "https://open.spotify.com/track/1K5QA85zFIYv1ya0f2XDZq"
     },
     {
       "added_at": "2024-04-12 04:00:00",

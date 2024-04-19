@@ -4,7 +4,7 @@
 
 > Music from "BLUE GIANT THE MOVIE"\. <a href="https://bluegiant\-movie.jp/">映画「BLUE GIANT」</a>の楽曲を1つのプレイリストで。©2023 BGP ©2013 S.I, S
 
-33 songs - 1 hr 31 min
+35 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [In search of...](https://open.spotify.com/track/0PiwcFnG7NZs92pi4bFMSX) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 1:05 | 2023-02-16 |  |
 | [Kawakita blues](https://open.spotify.com/track/1OGpCBdwb7alciI9bWRyly) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 1:31 | 2023-02-16 |  |
 | [Kick off](https://open.spotify.com/track/33XCFWRcpLua5ieXNQ06p3) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 1:27 | 2023-02-16 |  |
-| [Low Flame](https://open.spotify.com/track/6AYhSDnaJvnFwtgD3Unlpb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Low Flame](https://open.spotify.com/album/2IP4cee5dknBj24zyROpfC) | 4:55 | 2023-02-16 |  |
+| [Low Flame](https://open.spotify.com/track/6AYhSDnaJvnFwtgD3Unlpb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Low Flame](https://open.spotify.com/album/2IP4cee5dknBj24zyROpfC) | 4:55 | 2023-02-16 | 2024-04-19 |
+| [Low Flame](https://open.spotify.com/track/52BuEmAi6KpkeLVGEkZaR1) | [Sonny Stitt Quartet](https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H), [Don Patterson](https://open.spotify.com/artist/6SRSZ1BTxmlbfdHqIiEgIO) | [Low Flame \(Hd Remastered\)](https://open.spotify.com/album/5TCj5eEfhom5CN9LuDkCF1) | 4:59 | 2023-03-07 |  |
 | [Monologue](https://open.spotify.com/track/5OF4jcyun4Q6AD9huDoLA8) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:26 | 2023-02-16 |  |
 | [Mosaic \- 2005 Remaster](https://open.spotify.com/track/7fX1jZuluhiOhVx5HKzIBA) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Mosaic \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco) | 8:13 | 2023-02-16 |  |
 | [Motivation](https://open.spotify.com/track/62kaFT52J1vqF16IF1sJrl) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 0:55 | 2023-02-16 |  |
@@ -41,5 +42,6 @@
 | [WE WILL](https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:11 | 2023-02-16 |  |
 | [What it takes](https://open.spotify.com/track/1KUKTYuHLN2O2PbXrHw1tV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:07 | 2023-02-16 |  |
 | [映画「BLUE GIANT」宮本大からのスペシャルメッセージ](https://open.spotify.com/track/0QtaEWqQCkH1K6mc0ULbZx) | [宮本大\(CV:山田裕貴\)](https://open.spotify.com/artist/6pPlJEq6DwjFFoBUzVKxO5) | [映画「BLUE GIANT」宮本大からのスペシャルメッセージ](https://open.spotify.com/album/39U2stJ1eee7iRl6bZmBjx) | 0:30 | 2023-02-16 |  |
+| [第7回 映画『BLUE GIANT』スペシャル！石塚真一 x NUMBER 8 x上原ひろみが語る！](https://open.spotify.com/episode/6H9oGjl1tFwc1QWEzgidpM) | [アーティストが語る！ Anime Music Deep Talk](https://open.spotify.com/show/7iiMcAGEgx3YPWUJmBSkrg) | [アーティストが語る！ Anime Music Deep Talk](https://open.spotify.com/album/7iiMcAGEgx3YPWUJmBSkrg) | 1:05:48 | 2023-03-07 |  |
 
 \*This playlist was first scraped on 2023-02-18. Prior content cannot be recovered.

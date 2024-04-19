@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 131071,
       "name": "777",
       "url": "https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131071,
       "name": "777",
       "url": "https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3"
@@ -798,6 +798,24 @@
       "duration_ms": 122316,
       "name": "Archon",
       "url": "https://open.spotify.com/track/2p0hXoywTRphFaBOApH5Ew"
+    },
+    {
+      "album": {
+        "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+        "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
     },
     {
       "album": {
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141337,
       "name": "blood+ (feat. Witchouse 40k)",
       "url": "https://open.spotify.com/track/2TL8BUI18wZJHlApaa9mex"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 141337,
       "name": "blood+ (feat. Witchouse 40k)",
       "url": "https://open.spotify.com/track/4x6x2hydT6wyXfaP2u4DuE"
@@ -2644,6 +2662,24 @@
       "duration_ms": 90400,
       "name": "Coopa",
       "url": "https://open.spotify.com/track/6YbQ1QyjmMMpVVhIB6L1mg"
+    },
+    {
+      "album": {
+        "name": "Cosmic Humility Interlude",
+        "url": "https://open.spotify.com/album/3Dv78VpSDodHqzTs3PUStg"
+      },
+      "artists": [
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135258,
+      "name": "Cosmic Humility Interlude",
+      "url": "https://open.spotify.com/track/1NoMJ5WqoxSchoyRd5D8mO"
     },
     {
       "album": {
@@ -4326,7 +4362,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 150383,
       "name": "GANJA GOBLIN",
       "url": "https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH"
@@ -4344,7 +4380,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150383,
       "name": "GANJA GOBLIN",
       "url": "https://open.spotify.com/track/4QF5JIoChpdZZajgYHNT6a"
@@ -4490,7 +4526,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157407,
       "name": "ghost in the shell (feat. SXMPRA)",
       "url": "https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7"
@@ -4516,7 +4552,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 157407,
       "name": "ghost in the shell (feat. SXMPRA)",
       "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
@@ -5418,7 +5454,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 121966,
       "name": "HOLD THE MONEY",
       "url": "https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V"
@@ -5436,7 +5472,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121966,
       "name": "HOLD THE MONEY",
       "url": "https://open.spotify.com/track/7GIQoV4S6xkko6fNzokflj"
@@ -7335,6 +7371,32 @@
     },
     {
       "album": {
+        "name": "LUNG BUTTER",
+        "url": "https://open.spotify.com/album/4wOMYBYhtV2yNmHeTNiSql"
+      },
+      "artists": [
+        {
+          "name": "Mvko",
+          "url": "https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P"
+        },
+        {
+          "name": "Mobbs Radical",
+          "url": "https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR"
+        },
+        {
+          "name": "Netuh",
+          "url": "https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120685,
+      "name": "LUNG BUTTER",
+      "url": "https://open.spotify.com/track/3Fa9FEqVjc1Y4p3NFW47BA"
+    },
+    {
+      "album": {
         "name": "LXVE TXWN",
         "url": "https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm"
       },
@@ -8078,7 +8140,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133286,
       "name": "MY DAY IS RUINED !",
       "url": "https://open.spotify.com/track/5DYpHAtMDShweH1zaYUXRQ"
@@ -8096,7 +8158,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 133286,
       "name": "MY DAY IS RUINED !",
       "url": "https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH"
@@ -8860,7 +8922,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177831,
       "name": "paranoia agent",
       "url": "https://open.spotify.com/track/18cb0R9DC06aaqx6HszpFp"
@@ -8886,7 +8948,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 177831,
       "name": "paranoia agent",
       "url": "https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb"
@@ -9108,7 +9170,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
@@ -9130,7 +9192,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
@@ -9588,7 +9650,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168071,
       "name": "RITZ CARLTON",
       "url": "https://open.spotify.com/track/0f15W2rrueW4URXoQGaqFC"
@@ -9606,7 +9668,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 168071,
       "name": "RITZ CARLTON",
       "url": "https://open.spotify.com/track/6Xqf6sebYxn05Kkh4hCvax"
@@ -11084,7 +11146,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120325,
       "name": "Terminal Velocity",
       "url": "https://open.spotify.com/track/1t7TcT6RHgZAZZQeNHNLYm"
@@ -11106,7 +11168,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 120325,
       "name": "Terminal Velocity",
       "url": "https://open.spotify.com/track/2azYyCy0Q8vmGEzAmOPvIj"
@@ -11222,6 +11284,28 @@
       "duration_ms": 116794,
       "name": "THE GOV'T GAVE US GUNS",
       "url": "https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3"
+    },
+    {
+      "album": {
+        "name": "The Island",
+        "url": "https://open.spotify.com/album/3l1BSwJgINvLFBUqWveESF"
+      },
+      "artists": [
+        {
+          "name": "MOSSBACK",
+          "url": "https://open.spotify.com/artist/775jQ8mcGabkjuzjt8FShT"
+        },
+        {
+          "name": "Saliva Grey",
+          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203906,
+      "name": "The Island",
+      "url": "https://open.spotify.com/track/70CIiLCDq4As4TCxCKHug5"
     },
     {
       "album": {
@@ -11418,7 +11502,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157090,
       "name": "TOMORROW WILL NOT COME",
       "url": "https://open.spotify.com/track/2sZhfLsWitSKU8KbfevhLx"
@@ -11440,7 +11524,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 157090,
       "name": "TOMORROW WILL NOT COME",
       "url": "https://open.spotify.com/track/5t9SAPZmW0zTmkYGLc4sTk"
@@ -12504,7 +12588,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 126867,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/2gzIb9rrsQKz1AGBE2WmKF"
@@ -12548,7 +12632,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
@@ -12642,7 +12726,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112941,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7j1nSP2STIKRLndR6UDV2P"

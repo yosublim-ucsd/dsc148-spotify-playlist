@@ -4,7 +4,7 @@
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-74 songs - 4 hr 55 min
+76 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Playlist](https://open.spotify.com/track/2qBJN3eYfsr4vUjyG1MUg5) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [Playlist](https://open.spotify.com/album/5TAz6li7lgyrWcMqhVOrg7) | 2:48 | 2023-01-15 | 2024-01-24 |
 | [Reset](https://open.spotify.com/track/2xgcpJvCKyqlZtDud3abbH) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 4:37 | 2023-01-15 | 2024-01-24 |
 | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/track/4jXWHwvxZreFh1fjXIStWs) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/album/6els5e7eyVp1WPF1MBtvqE) | 3:20 | 2024-01-23 |  |
-| [Wait With Me \- Movie "KIDS" Ending Song](https://open.spotify.com/track/0BD2aB9XkKit3cxDaybByd) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Movie "KIDS" Soundtrack](https://open.spotify.com/album/1me16pQ0TSCXwvIeNBtAN0) | 4:58 | 2024-01-23 |  |
+| [Wait With Me \- Movie "KIDS" Ending Song](https://open.spotify.com/track/0BD2aB9XkKit3cxDaybByd) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Movie "KIDS" Soundtrack](https://open.spotify.com/album/1me16pQ0TSCXwvIeNBtAN0) | 4:58 | 2024-01-23 | 2024-04-19 |
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2022-01-11 | 2023-01-02 |
 | [一定會](https://open.spotify.com/track/2wl5Jlf09WAV7LIVUNK594) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/4SkvbVaPeZmASoDDvFnsrO) | 3:27 | 2022-01-11 | 2023-01-16 |
 | [一首歌](https://open.spotify.com/track/6RnWxFXtmTkM7SCMJffaVC) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [RISE](https://open.spotify.com/album/08iLOPluVXkxYkeqLRos70) | 1:58 | 2024-01-23 |  |
@@ -48,13 +48,15 @@
 | [往美的路我要自己作主](https://open.spotify.com/track/59ckaDd98mKITlsZ5XjK2A) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [往美的路我要自己作主](https://open.spotify.com/album/21hWeHpXGqeH2Wz0nVa1SZ) | 4:23 | 2022-01-11 | 2023-01-16 |
 | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/track/6Uy0XOFJC3cxAxdTIQNLKI) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/album/0I7RCQGDGZoXI2ZyUYlhNL) | 3:07 | 2024-01-23 |  |
 | [恻隐](https://open.spotify.com/track/0qwKtHJpzcjeBd9tM95iyw) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [恻隐](https://open.spotify.com/album/5nM8mlxNfSLO9mOA1Arzqv) | 4:09 | 2022-01-11 | 2023-01-16 |
+| [想等到你（電影《小子》片尾曲）](https://open.spotify.com/track/4hwbNoni5mm8oonukYqqdo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [《小子》電影原聲帶](https://open.spotify.com/album/7k9E3w9rNoiSHC5zQw1cMW) | 4:58 | 2024-01-23 |  |
 | [愛麗絲1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 | 2021-01-23 |  |
 | [慷然歌 \(電視劇《劍王朝》主題曲\)](https://open.spotify.com/track/6XRDcfBLVD0tbJBjd6jXuN) | [孫楠](https://open.spotify.com/artist/0CxNT2689kPeISWh2eLMZO) | [慷然歌 \(電視劇《劍王朝》主題曲\)](https://open.spotify.com/album/2tMF2FrlacSfhi9zzXtQbq) | 4:19 | 2021-01-23 | 2022-01-12 |
 | [我不祝福](https://open.spotify.com/track/1AyUP8M10UfME60hbkdz5v) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [真的假的](https://open.spotify.com/album/61szOfG7FCgrXdpkHWUvPA) | 4:24 | 2021-01-23 | 2022-01-12 |
 | [我不祝福](https://open.spotify.com/track/5Ug1fHBI0dOwkRZlQpViPx) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [真的假的](https://open.spotify.com/album/0eg1sbVqtUcNZDrPnURNJO) | 4:24 | 2023-01-15 | 2024-01-24 |
 | [我不要多幸福](https://open.spotify.com/track/0IPp0VMV7ixMXRv5m5GeLW) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [謝謝 陶晶瑩](https://open.spotify.com/album/5kTAasljJ6WbBaPQckh1Hu) | 4:43 | 2022-01-11 | 2022-07-29 |
 | [我不要多幸福](https://open.spotify.com/track/3pMq5G7JOQsToNVIIgUWny) | [陶晶莹](https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0) | [谢谢 陶晶莹](https://open.spotify.com/album/79UqqqP4ZzWwOd8RcvADEO) | 4:43 | 2022-01-11 | 2023-01-16 |
-| [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/3KnBxjcCOMnSPbKlHsBY14) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/3gh4JAff25DhwzGYPi4F6C) | 4:46 | 2024-01-23 |  |
+| [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/1QCNi3ceXPGyQXOJGTGExv) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/0eBxPugmXMw3EvdwwaaTI1) | 4:46 | 2024-01-23 |  |
+| [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/3KnBxjcCOMnSPbKlHsBY14) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/3gh4JAff25DhwzGYPi4F6C) | 4:46 | 2024-01-23 | 2024-04-19 |
 | [新的稱謂](https://open.spotify.com/track/539jeCHS4RMsyO0wPbq9do) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [我的世界被你包圍\(傳世音樂上篇EP\)](https://open.spotify.com/album/1BcSksaAKuexbH9a2V6ySu) | 3:38 | 2021-01-23 | 2022-01-12 |
 | [新的稱謂](https://open.spotify.com/track/57AeX299UpW0yvnuPnFfPQ) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [念念不忘](https://open.spotify.com/album/1cUXgCKxKfe3xL69g2G89b) | 3:38 | 2023-01-15 | 2024-01-24 |
 | [星心](https://open.spotify.com/track/72BGbbjZSyxvKfvld8d4Mz) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [星心](https://open.spotify.com/album/3ZjksCFzY8Iftw1uHfIlPp) | 4:34 | 2024-01-23 |  |

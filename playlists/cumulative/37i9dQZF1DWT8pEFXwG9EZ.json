@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164586,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/5X0M16GjlZYN1WjPNzerb5"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 142266,
       "name": "Good Morning Heartache - From \"Lady Sings The Blues\" Soundtrack",
       "url": "https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P"
@@ -680,10 +680,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 81362,
       "name": "Happy Talk",
       "url": "https://open.spotify.com/track/0EyqupJcuU0fmpU4DpfY1O"
+    },
+    {
+      "album": {
+        "name": "Green Book (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4K5YOFC5kNDsGv2H8pdPu2"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81362,
+      "name": "Happy Talk",
+      "url": "https://open.spotify.com/track/79FlAxfu6GQaL4JSzngz8K"
     },
     {
       "album": {
@@ -741,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Lady Sings The Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2zYpWLebrhgA86lH1RxyXt"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38200,
+      "name": "I Cried For You (Now It's Your Turn To Cry Over Me) - Pt. 1",
+      "url": "https://open.spotify.com/track/3X381HDSNNeaLs8KBk1G9G"
+    },
+    {
+      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/7cVlD1xaBLou7tBLwKxpST"
       },
@@ -752,7 +788,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 38200,
       "name": "I Cried For You (Now It's Your Turn To Cry Over Me) - Pt. 1",
       "url": "https://open.spotify.com/track/4a2ETShIS1iaTmKg6hk8Ja"
@@ -818,10 +854,32 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217786,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602"
+    },
+    {
+      "album": {
+        "name": "Monsters Inc.",
+        "url": "https://open.spotify.com/album/6rf14PPogsB40InRWfi43H"
+      },
+      "artists": [
+        {
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        },
+        {
+          "name": "John Goodman",
+          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "If I Didn't Have You - From \"Monsters, Inc.\"/Soundtrack",
+      "url": "https://open.spotify.com/track/3KpnubsN3MyX57Eme6pJIb"
     },
     {
       "album": {
@@ -862,6 +920,24 @@
       "duration_ms": 181503,
       "name": "J'ai Deux Amours",
       "url": "https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD"
+    },
+    {
+      "album": {
+        "name": "The Best of Bond...James Bond",
+        "url": "https://open.spotify.com/album/2lHvf04m2IO93HC7PNdkfL"
+      },
+      "artists": [
+        {
+          "name": "John Barry Orchestra",
+          "url": "https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107506,
+      "name": "James Bond Theme (From \"Dr. No.\")",
+      "url": "https://open.spotify.com/track/7ogsG1i9iqaJoflN3oC9pU"
     },
     {
       "album": {
@@ -948,10 +1024,46 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204266,
       "name": "Last Tango in Paris - Ultimo Tango a Parigi (Titles)",
       "url": "https://open.spotify.com/track/2dRjEirtMproK2r4gzda1j"
+    },
+    {
+      "album": {
+        "name": "Last Tango in Paris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0HOXwjCiXWOSxV8mUWJunO"
+      },
+      "artists": [
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Last Tango in Paris, Pt. 1",
+      "url": "https://open.spotify.com/track/5MxY2UsXLTcH0fgzqSrMm3"
+    },
+    {
+      "album": {
+        "name": "Bird - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3b9cKpz961wfdpdfwAnTDc"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211040,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/1zmVlbrvqZ6X7QeeKzKWrx"
     },
     {
       "album": {
@@ -966,7 +1078,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211040,
       "name": "Laura",
       "url": "https://open.spotify.com/track/5YIhyj0uiGSJPLARP7nzte"
@@ -1124,6 +1236,24 @@
     {
       "album": {
         "name": "The Secret Life of Pets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7kmitKoCAjnrdmFxmepZcH"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157573,
+      "name": "Meet the Pets",
+      "url": "https://open.spotify.com/track/1rCoAyOBQxtnsJccqnrx33"
+    },
+    {
+      "album": {
+        "name": "The Secret Life of Pets (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ayJFbJkkZtMkPbden2vh4"
       },
       "artists": [
@@ -1134,7 +1264,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157573,
       "name": "Meet the Pets",
       "url": "https://open.spotify.com/track/5G20wgHjyCj4gfZyfxeTL7"
@@ -1196,10 +1326,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213333,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+    },
+    {
+      "album": {
+        "name": "Songs from Woody Allen' Films",
+        "url": "https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207213,
+      "name": "Moonglow - From ''Annie Hall''",
+      "url": "https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo"
     },
     {
       "album": {
@@ -1266,10 +1414,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153693,
       "name": "My Funny Valentine - Vocal",
       "url": "https://open.spotify.com/track/3cUGcOZAPn4JdEkK8p8txk"
+    },
+    {
+      "album": {
+        "name": "The Talented Mr. Ripley - Music from The Motion Picture",
+        "url": "https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu"
+      },
+      "artists": [
+        {
+          "name": "Matt Damon",
+          "url": "https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "My Funny Valentine - Vocal",
+      "url": "https://open.spotify.com/track/6gSz86xAp5WDAYi33xQb1b"
     },
     {
       "album": {
@@ -1425,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Midnight in Paris (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
+      },
+      "artists": [
+        {
+          "name": "Claude Luter et son orchestre",
+          "url": "https://open.spotify.com/artist/7vyl7IFdeAHggtnfN0qU7w"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "Si Tu Vois Ma M\u00e8re",
+      "url": "https://open.spotify.com/track/7CCM17v5YFXAV7fR35UfkA"
+    },
+    {
+      "album": {
         "name": "Les Ann\u00e9es Bechet",
         "url": "https://open.spotify.com/album/6MSDPMpPCInQbgW8xHDilS"
       },
@@ -1440,7 +1624,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193573,
       "name": "Si tu vois ma m\u00e8re - Slow",
       "url": "https://open.spotify.com/track/5FWn20xrAQ1IdbA8Dml6pj"
@@ -1603,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Les Liasions Dangereuses",
+        "url": "https://open.spotify.com/album/3Li2B3hyujN2O04sfeReJO"
+      },
+      "artists": [
+        {
+          "name": "Duke Jordan",
+          "url": "https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438266,
+      "name": "The Feeling Of Love",
+      "url": "https://open.spotify.com/track/4lFk0O1MprjoBYo128ZEtP"
+    },
+    {
+      "album": {
         "name": "Les Liaisons Dangereuses",
         "url": "https://open.spotify.com/album/5rzEgTKWMEBrVdkgFGfJMb"
       },
@@ -1614,7 +1816,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 435413,
       "name": "The Feeling of Love, Pt. 1",
       "url": "https://open.spotify.com/track/41ODRLJntkgtZj4HfRyevz"
@@ -1668,7 +1870,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105840,
       "name": "The James Bond Theme - 1995 Remaster",
       "url": "https://open.spotify.com/track/5E3n459RNgTgWjuNDivIvC"
@@ -1729,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "The Thomas Crown Affair",
+        "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141240,
+      "name": "Theme From The Thomas Crown Affair (The Windmills Of Your Mind)",
+      "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
+    },
+    {
+      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -1784,10 +2004,36 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181000,
       "name": "Tu Vuo' Fa L'Americano - Vocal",
       "url": "https://open.spotify.com/track/1POSsuCfBi06cpQ6xsh2xH"
+    },
+    {
+      "album": {
+        "name": "The Talented Mr. Ripley - Music from The Motion Picture",
+        "url": "https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu"
+      },
+      "artists": [
+        {
+          "name": "Fiorello",
+          "url": "https://open.spotify.com/artist/4kb7YUXdndyC7yD81bJ08q"
+        },
+        {
+          "name": "Matt Damon",
+          "url": "https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd"
+        },
+        {
+          "name": "Jude Law",
+          "url": "https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Tu Vuo' Fa L'Americano - Vocal",
+      "url": "https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc"
     },
     {
       "album": {
@@ -1802,10 +2048,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191973,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "album": {
+        "name": "Music From The Motion Picture Watchmen",
+        "url": "https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE"
     },
     {
       "album": {
@@ -1820,10 +2084,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119866,
       "name": "Unsquare Dance",
       "url": "https://open.spotify.com/track/2VUo8O3ymKRYNgj97ZG2kM"
+    },
+    {
+      "album": {
+        "name": "Baby Driver (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Unsquare Dance",
+      "url": "https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE"
     },
     {
       "album": {
@@ -1838,10 +2120,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208520,
       "name": "Walk To Work",
       "url": "https://open.spotify.com/track/1dYcAIkICjPy2iboLdVNWM"
+    },
+    {
+      "album": {
+        "name": "Monsters Inc Original Soundtrack",
+        "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Walk To Work",
+      "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
     },
     {
       "album": {
@@ -1910,7 +2210,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141186,
       "name": "Windmills of Your Mind - Remastered Version",
       "url": "https://open.spotify.com/track/3GpqJYxHJICPUyYOFuPIYG"

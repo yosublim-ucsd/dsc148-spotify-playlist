@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 188561,
       "name": "Blue Dream (Softly)",
       "url": "https://open.spotify.com/track/1EKQupLgrWvH2mVmzMvKRl"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188561,
       "name": "Blue Dream (Softly)",
       "url": "https://open.spotify.com/track/2xTAGiKs5DiR6tY70wie7G"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139125,
       "name": "Boite \u00e0 Musique",
       "url": "https://open.spotify.com/track/3XZDnfcnrOokM3dDgQ6oYX"
@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "estiu",
+        "url": "https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL"
+      },
+      "artists": [
+        {
+          "name": "Valentine Summers",
+          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167252,
+      "name": "estiu",
+      "url": "https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM"
+    },
+    {
+      "album": {
         "name": "Sonnenkind",
         "url": "https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj"
       },
@@ -1313,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Fiesso d\u2019Artico",
+        "url": "https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs"
+      },
+      "artists": [
+        {
+          "name": "Joviano Carrera",
+          "url": "https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159412,
+      "name": "Fiesso d\u2019Artico",
+      "url": "https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO"
+    },
+    {
+      "album": {
         "name": "Fleeting Glance",
         "url": "https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5"
       },
@@ -1364,6 +1400,24 @@
       "duration_ms": 145000,
       "name": "Floating Alone",
       "url": "https://open.spotify.com/track/5rqVGb4V2rQzz2iBCf14AD"
+    },
+    {
+      "album": {
+        "name": "Flower Wings",
+        "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Mignard",
+          "url": "https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138187,
+      "name": "Flower Wings",
+      "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
     },
     {
       "album": {
@@ -3636,7 +3690,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/0n9z4lk3UOqimQ4HFlKO72"
@@ -3654,7 +3708,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133500,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/2Jm1L8W3IpkC7tXP845FlR"
@@ -3726,7 +3780,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141096,
       "name": "Simpler Times",
       "url": "https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB"
@@ -3766,7 +3820,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 141096,
       "name": "Simpler Times",
       "url": "https://open.spotify.com/track/2Y5mfhY8iCRSU3jyHxMBFz"
@@ -3878,6 +3932,24 @@
       "duration_ms": 156065,
       "name": "Solarised",
       "url": "https://open.spotify.com/track/2NuQU5ztiWnOT8PqNmwrU8"
+    },
+    {
+      "album": {
+        "name": "Solglimt",
+        "url": "https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Solglimt",
+      "url": "https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV"
     },
     {
       "album": {
@@ -4591,6 +4663,42 @@
     },
     {
       "album": {
+        "name": "Ti Vedo",
+        "url": "https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157655,
+      "name": "Ti Vedo",
+      "url": "https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp"
+    },
+    {
+      "album": {
+        "name": "Time Passed",
+        "url": "https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN"
+      },
+      "artists": [
+        {
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185041,
+      "name": "Time Passed",
+      "url": "https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq"
+    },
+    {
+      "album": {
         "name": "To Be Loved",
         "url": "https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS"
       },
@@ -4876,7 +4984,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138999,
       "name": "Vejez",
       "url": "https://open.spotify.com/track/47Ii11LwTCgCh8COwyUl4A"
@@ -4894,7 +5002,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 138999,
       "name": "Vejez",
       "url": "https://open.spotify.com/track/7JqiCSsdTJ8pbELhBGcTi8"

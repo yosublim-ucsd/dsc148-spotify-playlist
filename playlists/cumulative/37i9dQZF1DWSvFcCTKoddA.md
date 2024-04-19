@@ -4,7 +4,7 @@
 
 > Découvrez les créateurs de demain.
 
-9 songs - 7 hr 41 min
+23 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,22 @@
 | [\#36 \- Natacha Birds : Ne jamais attendre pour réinventer sa vie](https://open.spotify.com/episode/5N0kl3NsTGgfeEnJjfdlgI) | [Inspiration Créative](https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi) | [Inspiration Créative](https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi) | 1:03:00 | 2022-07-28 | 2023-01-18 |
 | [\#5 Jacqueline \- La force tranquille](https://open.spotify.com/episode/4tkzJSRCWzrXY81IY6GeUR) | [Mamie dans les orties](https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl) | [Mamie dans les orties](https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl) | 48:24 | 2022-07-28 | 2023-01-18 |
 | [\#6 Dora \- Ode à la joie, partie 1 ](https://open.spotify.com/episode/7K46fKzNYzZh5tD3vWbTwn) | [Mamie dans les orties](https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl) | [Mamie dans les orties](https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl) | 31:37 | 2022-07-28 | 2023-01-18 |
+| [Ancien prisonnier, je suis devenu chef d'entreprise](https://open.spotify.com/episode/3dPdc7n5LtTDv4BQuqBFnG) | [Cordialement, Zoé](https://open.spotify.com/show/4dcaPuhsdUzzZC80cRuc9x) | [Cordialement, Zoé](https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x) | 31:10 | 2023-10-05 |  |
+| [Avant la barbiche de front ft\. SML](https://open.spotify.com/episode/0oqGsuGYhJMzooNkwaeiZK) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:10:51 | 2023-10-05 |  |
+| [Avant le mythe des tongs\-mocassins](https://open.spotify.com/episode/2LAuS7vFNR1RNramVZHDiq) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:00:35 | 2023-10-05 |  |
+| [Avant les amours de vacances](https://open.spotify.com/episode/3i9DiXsg1TvxEOSB4f7Tij) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 54:46 | 2023-10-05 |  |
+| [Comment savoir si c'est la bonne personne ? \(feat mon mari\)](https://open.spotify.com/episode/59uU3sCo05rdCri7V2ycBk) | [Bip sonore \- Shera](https://open.spotify.com/show/0T25p8L7u9lWbz9lw9ahT5) | [Bip sonore \- Shera](https://open.spotify.com/album/0T25p8L7u9lWbz9lw9ahT5) | 29:32 | 2023-10-05 |  |
+| [Cupidon, former des couples est mon métier](https://open.spotify.com/episode/2g9veVQ0KxUrDgibrK0rH3) | [Cordialement, Zoé](https://open.spotify.com/show/4dcaPuhsdUzzZC80cRuc9x) | [Cordialement, Zoé](https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x) | 37:00 | 2023-10-05 |  |
 | [Friends S02E02 • Celui qui détestait le lait maternel](https://open.spotify.com/episode/6LijhCTtON34NbWZOZxc8y) | [Central Podcast](https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV) | [Central Podcast](https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV) | 38:44 | 2022-07-28 | 2023-01-18 |
 | [Friends S10E02 • Celui qui allait très bien \(avec Leslie Plée\)](https://open.spotify.com/episode/4nbpEFfms7goRxZ5UmPiFc) | [Central Podcast](https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV) | [Central Podcast](https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV) | 36:38 | 2022-07-28 | 2023-01-18 |
 | [Friends • Focus perso 🔎 RACHEL \(avec Tristan Lopin\)](https://open.spotify.com/episode/40HpqikyXCKzrz2bfldzkp) | [Central Podcast](https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV) | [Central Podcast](https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV) | 53:28 | 2022-07-28 | 2023-01-18 |
+| [Hong\-Kong à 2h du matin, une coloc, un couteau](https://open.spotify.com/episode/1xgaQL5NzXDDxTpXguEyLW) | [ZINZIN](https://open.spotify.com/show/4jaLLRDjv0OvVT3QBSuza2) | [ZINZIN](https://open.spotify.com/album/4jaLLRDjv0OvVT3QBSuza2) | 36:22 | 2023-10-05 |  |
+| [J'ai subi une agression sexuelle au travail](https://open.spotify.com/episode/1FCKbNQInGuGzBgRe9iqH6) | [Cordialement, Zoé](https://open.spotify.com/show/4dcaPuhsdUzzZC80cRuc9x) | [Cordialement, Zoé](https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x) | 26:00 | 2023-10-05 |  |
+| [Ma vie amicale est un désastre \#HorsSérie](https://open.spotify.com/episode/6NfHXqxbomq4eZQ9EAjY6L) | [Bip sonore \- Shera](https://open.spotify.com/show/0T25p8L7u9lWbz9lw9ahT5) | [Bip sonore \- Shera](https://open.spotify.com/album/0T25p8L7u9lWbz9lw9ahT5) | 31:22 | 2023-10-05 |  |
+| [Une île interdite, le président du Chili, un diplôme de plongée](https://open.spotify.com/episode/4OmHpqnqLX4i61Nc72fUEb) | [ZINZIN](https://open.spotify.com/show/4jaLLRDjv0OvVT3QBSuza2) | [ZINZIN](https://open.spotify.com/album/4jaLLRDjv0OvVT3QBSuza2) | 44:09 | 2023-11-09 |  |
+| [Ça fait quoi d'être maman ? \(Vraiment\)](https://open.spotify.com/episode/78V4rRa5RhjxJPTrTn6mck) | [Bip sonore \- Shera](https://open.spotify.com/show/0T25p8L7u9lWbz9lw9ahT5) | [Bip sonore \- Shera](https://open.spotify.com/album/0T25p8L7u9lWbz9lw9ahT5) | 30:10 | 2023-10-05 |  |
+| [Épisode 32 : des BRUITS absolument TERRIFIANTS](https://open.spotify.com/episode/5isGMOYUSUiWHPh2BMeNQe) | [Thread Horreur](https://open.spotify.com/show/63uNgsEu3gcYtwA0U1QdVp) | [Thread Horreur](https://open.spotify.com/album/63uNgsEu3gcYtwA0U1QdVp) | 13:07 | 2023-10-05 |  |
+| [Épisode 34 : la PIRE fête d'HALLOWEEN ...](https://open.spotify.com/episode/360vG2CpcBId83rZjp7b70) | [Thread Horreur](https://open.spotify.com/show/63uNgsEu3gcYtwA0U1QdVp) | [Thread Horreur](https://open.spotify.com/album/63uNgsEu3gcYtwA0U1QdVp) | 10:38 | 2023-10-05 |  |
+| [Épisode 35 : La PIRE histoire d'HORREUR qui existe \(vraiment c'est horrible\) ](https://open.spotify.com/episode/3AZwFo9glnABFclxJ3ThdR) | [Thread Horreur](https://open.spotify.com/show/63uNgsEu3gcYtwA0U1QdVp) | [Thread Horreur](https://open.spotify.com/album/63uNgsEu3gcYtwA0U1QdVp) | 12:51 | 2023-10-05 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

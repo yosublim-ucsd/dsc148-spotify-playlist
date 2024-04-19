@@ -82,6 +82,24 @@
     {
       "album": {
         "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6naCRqrE036Uojfz7Jk64c"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "After LIKE (Holiday Remix)",
+      "url": "https://open.spotify.com/track/5ZzFww6qXDJZIhObXrJ8E2"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
       },
       "artists": [
@@ -92,7 +110,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172400,
       "name": "After LIKE - Holiday Remix",
       "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
@@ -168,7 +186,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158226,
       "name": "Be Your Christmas (feat. BOL4)",
       "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225488,
       "name": "Because It's Christmas",
       "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
@@ -480,7 +498,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 226493,
       "name": "Christmas Again",
       "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
@@ -534,7 +552,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178529,
       "name": "Christmas EveL",
       "url": "https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW"
@@ -608,7 +626,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 239653,
       "name": "Christmas in July",
       "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212836,
       "name": "Confession Song",
       "url": "https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 237080,
       "name": "D-day",
       "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
@@ -908,7 +926,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238287,
       "name": "Dear Santa",
       "url": "https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213314,
       "name": "Dynamite (Holiday Remix)",
       "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
@@ -1132,6 +1150,24 @@
       "duration_ms": 249169,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0KFQoeuppOmhNDcJzoqZyr"
+    },
+    {
+      "album": {
+        "name": "X-Present",
+        "url": "https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg"
+      },
+      "artists": [
+        {
+          "name": "NTX",
+          "url": "https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246293,
+      "name": "Fallin\u2019 in the Christmas love",
+      "url": "https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF"
     },
     {
       "album": {
@@ -1346,7 +1382,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 178986,
       "name": "Grass under Snow",
       "url": "https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If"
@@ -1408,7 +1444,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291040,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs"
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 230190,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
@@ -1702,7 +1738,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 142406,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q"
@@ -2018,7 +2054,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192573,
       "name": "Merry & Happy",
       "url": "https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ"
@@ -2054,7 +2090,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223916,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH"
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233025,
       "name": "Merry-Go-Round (Christmas Edition)",
       "url": "https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e"
@@ -2280,7 +2316,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273287,
       "name": "Miracles in December",
       "url": "https://open.spotify.com/track/7HrCnwDvbtCKSZtpNDmII9"
@@ -2298,7 +2334,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Movie Winter",
       "url": "https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu"
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "Mr. Santa",
       "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 289384,
       "name": "MY GROWN UP CHRISTMAS LIST",
       "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
@@ -2544,7 +2580,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212893,
       "name": "One More Christmas - English Version",
       "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
@@ -2562,7 +2598,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 216565,
       "name": "Our Christmas",
       "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 185354,
       "name": "Snowman (Special Ver.)",
       "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
@@ -3070,7 +3106,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 237161,
       "name": "Sweater - Orchestral Version",
       "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
@@ -3124,7 +3160,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 310833,
       "name": "THE CHRISTMAS SONG",
       "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
@@ -3290,7 +3326,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "This Is Your Winter Song",
       "url": "https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT"
@@ -3468,7 +3504,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202058,
       "name": "What I Want For Christmas",
       "url": "https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO"
@@ -3690,7 +3726,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235386,
       "name": "Winter Falls",
       "url": "https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3"
@@ -4060,7 +4096,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238786,
       "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
       "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"

@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194080,
       "name": "'Imi Au I\u00e3 'Oe",
       "url": "https://open.spotify.com/track/2kC25y9lXVom7CvQrXCMDc"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 167763,
       "name": "Hakuna Matata - Ukulele",
       "url": "https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167763,
       "name": "Hakuna Matata - Ukulele",
       "url": "https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190333,
       "name": "Imi Au I\u0101 \u02bbOe",
       "url": "https://open.spotify.com/track/7a4BPA4e06ll25tCfIN98e"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209146,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/6xetFi399audH6OFTpaQU5"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265133,
       "name": "Kalena Kai",
       "url": "https://open.spotify.com/track/42ZtKeVuYhMZRvnByfxX2M"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262253,
       "name": "Kalena Kai (feat. George Winston)",
       "url": "https://open.spotify.com/track/07iYujb1T4DLuv7Qi1EoNs"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112333,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/3kW3DZ6bBb6dVP9avkiBdE"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 112333,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/4Nt7v1lmheccBbsmASX3Jr"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230560,
       "name": "Paka Ua",
       "url": "https://open.spotify.com/track/1hHGhu5Ly4MtctPrshrAb5"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 230560,
       "name": "Paka Ua",
       "url": "https://open.spotify.com/track/7tGs3qEdxRPpu6EXahlICf"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173640,
       "name": "Pua Lililehua",
       "url": "https://open.spotify.com/track/0X1cfOCdBaRfpu2MI0ur0l"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177306,
       "name": "Pua L\u012bl\u012blehua",
       "url": "https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254973,
       "name": "Somewhere Over the Rainbow",
       "url": "https://open.spotify.com/track/3yACY5F6Q8jTq3qxBr3EhS"
@@ -1100,22 +1100,6 @@
         {
           "name": "David Kamakahi",
           "url": "https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK"
-        },
-        {
-          "name": "Herb Ohta, Jr.",
-          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
-        },
-        {
-          "name": "Eddie Kamae",
-          "url": "https://open.spotify.com/artist/0YwDXRxZeigiUM0FhtcoEf"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Charles Michael Brotman",
-          "url": "https://open.spotify.com/artist/7CtFwDR8wIK0bVtpaz3x5c"
         }
       ],
       "date_added": "2021-11-12",
@@ -1192,7 +1176,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178199,
       "name": "The Last Desert Island",
       "url": "https://open.spotify.com/track/2qYEYkzSQZGTVMnMVD8lJm"
@@ -1210,7 +1194,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179800,
       "name": "The Last Desert Island",
       "url": "https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ"
@@ -1246,7 +1230,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191654,
       "name": "The Lazy Song - Ukulele",
       "url": "https://open.spotify.com/track/1NQPzuE8nDevq1WPpA0rWr"
@@ -1264,7 +1248,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 191654,
       "name": "The Lazy Song - Ukulele",
       "url": "https://open.spotify.com/track/3NEHhzWhUqFupyHv1IMoNc"
@@ -1300,7 +1284,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201103,
       "name": "Three Little Birds - Ukulele",
       "url": "https://open.spotify.com/track/6ASMHSe9stzXM020tKThqg"
@@ -1318,7 +1302,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 201103,
       "name": "Three Little Birds - Ukulele",
       "url": "https://open.spotify.com/track/6j5onmBo098pRm9pFEXuUv"
@@ -1444,7 +1428,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210973,
       "name": "\u30a4\u30f3\u30fb\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
       "url": "https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB"
@@ -1462,7 +1446,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253533,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30fb\u30b6\u30fb\u30ec\u30a4\u30f3\u30dc\u30fc",
       "url": "https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P"

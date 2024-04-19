@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "Abusadamente",
-        "url": "https://open.spotify.com/album/3HwHCkqAgLm8HBKy3oggxZ"
+        "url": "https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp"
       },
       "artists": [
         {
@@ -21,9 +21,49 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215937,
+      "name": "Abusadamente",
+      "url": "https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro"
+    },
+    {
+      "album": {
+        "name": "Abusadamente",
+        "url": "https://open.spotify.com/album/3HwHCkqAgLm8HBKy3oggxZ"
+      },
+      "artists": [
+        {
+          "name": "MC Gustta",
+          "url": "https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at"
+        },
+        {
+          "name": "MC DG",
+          "url": "https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 215944,
       "name": "Abusadamente",
       "url": "https://open.spotify.com/track/1kWwNpx68BMAjJeksmN3JV"
+    },
+    {
+      "album": {
+        "name": "Beat Sacana",
+        "url": "https://open.spotify.com/album/4ojA2q22Pi1gcHDybvNM4j"
+      },
+      "artists": [
+        {
+          "name": "NGKS",
+          "url": "https://open.spotify.com/artist/2MaeMS3jwobqFX4oX0GQED"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152462,
+      "name": "Beat Sacana",
+      "url": "https://open.spotify.com/track/2rxrIptT04cA6HcjSoDHvg"
     },
     {
       "album": {
@@ -38,10 +78,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155076,
       "name": "Beat Sacana",
       "url": "https://open.spotify.com/track/1DOJlHIO7sLs8XZBEJkbfz"
+    },
+    {
+      "album": {
+        "name": "Capital das Notas",
+        "url": "https://open.spotify.com/album/23iVIRTEJStkp57u4bK1z8"
+      },
+      "artists": [
+        {
+          "name": "MC Menor Mr",
+          "url": "https://open.spotify.com/artist/6ePeCaxkwQirMYsdHAXgs5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Capital das Notas",
+      "url": "https://open.spotify.com/track/0jlLqG8aydyDjZkJ0ShmPg"
     },
     {
       "album": {
@@ -56,10 +114,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184000,
       "name": "Capital das Notas",
       "url": "https://open.spotify.com/track/2kdWL6ZWxhnn944F4ZFH30"
+    },
+    {
+      "album": {
+        "name": "Chacoalha na \u00c1gua",
+        "url": "https://open.spotify.com/album/14mDtTTh5DZajcOCTELw7S"
+      },
+      "artists": [
+        {
+          "name": "MC Dede",
+          "url": "https://open.spotify.com/artist/45Hr5etuwmSx4gSyn5qSeW"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161149,
+      "name": "Chacoalha na \u00c1gua",
+      "url": "https://open.spotify.com/track/025eqvJEPUUcr3GyNdUHJ7"
     },
     {
       "album": {
@@ -74,10 +150,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162124,
       "name": "Chacoalha Na \u00c1gua",
       "url": "https://open.spotify.com/track/3VFI6ViLrbYGk2sKXm96Df"
+    },
+    {
+      "album": {
+        "name": "Chamando no Grau",
+        "url": "https://open.spotify.com/album/4zu2HASMZfTCplogMFKsfR"
+      },
+      "artists": [
+        {
+          "name": "MC Dede",
+          "url": "https://open.spotify.com/artist/45Hr5etuwmSx4gSyn5qSeW"
+        },
+        {
+          "name": "MC JottaP\u00ea",
+          "url": "https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Chamando no Grau",
+      "url": "https://open.spotify.com/track/1eJstcSRQGKRYLFO9w2xYT"
     },
     {
       "album": {
@@ -96,7 +194,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147700,
       "name": "Chamando no Grau",
       "url": "https://open.spotify.com/track/6ky3YLY7SAbLNW5RJrqJRB"
@@ -114,10 +212,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155076,
       "name": "Mandelinha",
       "url": "https://open.spotify.com/track/7IxGjsvQF7b2WI1pr91u4P"
+    },
+    {
+      "album": {
+        "name": "Mandelinha",
+        "url": "https://open.spotify.com/album/3GuqlUmuHzdTKIVXp3u17o"
+      },
+      "artists": [
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155141,
+      "name": "Mandelinha",
+      "url": "https://open.spotify.com/track/03LzbNqN9FsjTMzaNhnumt"
     },
     {
       "album": {
@@ -154,10 +270,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 77333,
       "name": "Nao Vai Ser Facil (Taxado de Boy)",
       "url": "https://open.spotify.com/track/12KPq4Z557C4xQFbNXrNTg"
+    },
+    {
+      "album": {
+        "name": "Sintonia (Uma Serie Original Netflix Sintonia Kondzilla)",
+        "url": "https://open.spotify.com/album/0SG6SKXEwpoQLrrpuD5wDv"
+      },
+      "artists": [
+        {
+          "name": "MC Doni",
+          "url": "https://open.spotify.com/artist/1cFrkBniD1fh6m5UHmmOBC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77333,
+      "name": "Nao Vai Ser Facil (Taxado de Boy)",
+      "url": "https://open.spotify.com/track/5E5PuCqWZyEsZIrZldBchD"
     },
     {
       "album": {
@@ -224,7 +358,7 @@
     {
       "album": {
         "name": "O Baile T\u00e1 Pocando",
-        "url": "https://open.spotify.com/album/6IvolkD1rykTFHeikc4NrB"
+        "url": "https://open.spotify.com/album/54ONeM4eoiCqqQrctjkkfT"
       },
       "artists": [
         {
@@ -243,9 +377,53 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187669,
+      "name": "O Baile T\u00e1 Pocando",
+      "url": "https://open.spotify.com/track/4DfLYguDLfnaEvhpcsNB1D"
+    },
+    {
+      "album": {
+        "name": "O Baile T\u00e1 Pocando",
+        "url": "https://open.spotify.com/album/6IvolkD1rykTFHeikc4NrB"
+      },
+      "artists": [
+        {
+          "name": "NGKS",
+          "url": "https://open.spotify.com/artist/2MaeMS3jwobqFX4oX0GQED"
+        },
+        {
+          "name": "MC Hollywood",
+          "url": "https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG"
+        },
+        {
+          "name": "Mitico DJ",
+          "url": "https://open.spotify.com/artist/61XnjVwFLWusIb5USLymCm"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 188021,
       "name": "O Baile T\u00e1 Pocando",
       "url": "https://open.spotify.com/track/7pPl5YaLfC0dIAvk2ql2k7"
+    },
+    {
+      "album": {
+        "name": "O Grave Bater",
+        "url": "https://open.spotify.com/album/45flnIWcOtLPij1pv65BTm"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "O Grave Bater",
+      "url": "https://open.spotify.com/track/1bUazU9SSOh02AdlOPeTvm"
     },
     {
       "album": {
@@ -260,7 +438,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181903,
       "name": "O Grave Bater",
       "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
@@ -278,10 +456,46 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139980,
       "name": "Papum",
       "url": "https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg"
+    },
+    {
+      "album": {
+        "name": "Papum",
+        "url": "https://open.spotify.com/album/4eiu7WQBepn2ALvWA9UdbM"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139980,
+      "name": "Papum",
+      "url": "https://open.spotify.com/track/5tNnnptCfuLXLHnDqrL9ku"
+    },
+    {
+      "album": {
+        "name": "Sintonia (Uma Serie Original Netflix Sintonia Kondzilla)",
+        "url": "https://open.spotify.com/album/0SG6SKXEwpoQLrrpuD5wDv"
+      },
+      "artists": [
+        {
+          "name": "MC Doni",
+          "url": "https://open.spotify.com/artist/1cFrkBniD1fh6m5UHmmOBC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81230,
+      "name": "Passei de Nave",
+      "url": "https://open.spotify.com/track/0fSrqpqnCcqnTplnrfQXGa"
     },
     {
       "album": {
@@ -296,7 +510,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 81230,
       "name": "Passei de Nave",
       "url": "https://open.spotify.com/track/3QSvTN7NWhvvaEzLgw8Gtb"
@@ -336,10 +550,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232727,
       "name": "Rapidamente Treme o Bumbum",
       "url": "https://open.spotify.com/track/0r7VuiapMivcEBJUSfVA3B"
+    },
+    {
+      "album": {
+        "name": "Rapidamente Treme o Bumbum",
+        "url": "https://open.spotify.com/album/5ADK8pSw9bj5XXn1JzbOBK"
+      },
+      "artists": [
+        {
+          "name": "MC Hollywood",
+          "url": "https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232777,
+      "name": "Rapidamente Treme o Bumbum",
+      "url": "https://open.spotify.com/track/1D6mB37bjK2hvmDwtuILH0"
     },
     {
       "album": {
@@ -376,10 +608,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119076,
       "name": "Resumo Sem Compromisso",
       "url": "https://open.spotify.com/track/5ed0T4tmh6Sm7vqVnGTOpA"
+    },
+    {
+      "album": {
+        "name": "Resumo Sem Compromisso",
+        "url": "https://open.spotify.com/album/30o6I9xKPYk342AGNpezxb"
+      },
+      "artists": [
+        {
+          "name": "MC Doni",
+          "url": "https://open.spotify.com/artist/1cFrkBniD1fh6m5UHmmOBC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119076,
+      "name": "Resumo Sem Compromisso",
+      "url": "https://open.spotify.com/track/6QP2ZJjYxzW9ZhCnYyJVaV"
     },
     {
       "album": {
@@ -402,7 +652,7 @@
     {
       "album": {
         "name": "Som do Cavaco",
-        "url": "https://open.spotify.com/album/5f5qGfZK9tKygMvDPtKdOj"
+        "url": "https://open.spotify.com/album/2Vtw1fFgoRXPtpUsJPD1sl"
       },
       "artists": [
         {
@@ -413,6 +663,24 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218226,
+      "name": "Som do Cavaco",
+      "url": "https://open.spotify.com/track/12LnfuAimz1w4zRl07tgTZ"
+    },
+    {
+      "album": {
+        "name": "Som do Cavaco",
+        "url": "https://open.spotify.com/album/5f5qGfZK9tKygMvDPtKdOj"
+      },
+      "artists": [
+        {
+          "name": "MC Hollywood",
+          "url": "https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 218230,
       "name": "Som do Cavaco",
       "url": "https://open.spotify.com/track/6yS9GnRK8LVn7seiiHeccg"
@@ -449,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Sintonia (Uma Serie Original Netflix Sintonia Kondzilla)",
+        "url": "https://open.spotify.com/album/0SG6SKXEwpoQLrrpuD5wDv"
+      },
+      "artists": [
+        {
+          "name": "MC Doni",
+          "url": "https://open.spotify.com/artist/1cFrkBniD1fh6m5UHmmOBC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Te Amo Sem Compromisso",
+      "url": "https://open.spotify.com/track/4mkagJJ8AM1hzeyrgAJc3x"
+    },
+    {
+      "album": {
         "name": "Sintonia T1 (Uma s\u00e9rie Original Netflix Kondzilla)",
         "url": "https://open.spotify.com/album/6aU900LuDXH232qYRZIZx6"
       },
@@ -460,7 +746,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132923,
       "name": "Te Amo Sem Compromisso",
       "url": "https://open.spotify.com/track/7HJJBubS0NMe1w12zyuKMZ"
@@ -478,10 +764,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192000,
       "name": "Terremoto Bumbum",
       "url": "https://open.spotify.com/track/7y6bAu9B0wMiMdXaw5N0W8"
+    },
+    {
+      "album": {
+        "name": "Terremoto Bumbum",
+        "url": "https://open.spotify.com/album/6c5YjaIoznQZf2V3VnI6ec"
+      },
+      "artists": [
+        {
+          "name": "MC Japa",
+          "url": "https://open.spotify.com/artist/2RzyuZzD2apLpKBELlsOjV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Terremoto Bumbum",
+      "url": "https://open.spotify.com/track/6laSE658cx01kBZvJ31ZH9"
     },
     {
       "album": {
@@ -496,10 +800,46 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160610,
       "name": "Tipo Rave Balan\u00e7a o Popo",
       "url": "https://open.spotify.com/track/4cizohcihfS89qDmx6BhUD"
+    },
+    {
+      "album": {
+        "name": "Tipo Rave Balan\u00e7a o Pop\u00f4",
+        "url": "https://open.spotify.com/album/1tem7xMMlzzSGP6IFjm9we"
+      },
+      "artists": [
+        {
+          "name": "MC Hollywood",
+          "url": "https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160601,
+      "name": "Tipo Rave Balan\u00e7a o Pop\u00f4",
+      "url": "https://open.spotify.com/track/4IlDjZbhFO0ZjLf5HHR5m7"
+    },
+    {
+      "album": {
+        "name": "Sintonia (Uma Serie Original Netflix Sintonia Kondzilla)",
+        "url": "https://open.spotify.com/album/0SG6SKXEwpoQLrrpuD5wDv"
+      },
+      "artists": [
+        {
+          "name": "Dondoka",
+          "url": "https://open.spotify.com/artist/7Epf7F0lRiDaM1cdmo94z2"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72753,
+      "name": "Tira Meu Nome da Boca",
+      "url": "https://open.spotify.com/track/37RSrAtyaP2jjFxa3lnoAd"
     },
     {
       "album": {
@@ -514,7 +854,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72753,
       "name": "Tira Meu Nome da Boca",
       "url": "https://open.spotify.com/track/3AVwFGWqv7mGc8wLuZkn3y"
@@ -532,10 +872,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168000,
       "name": "To Pegando Geral",
       "url": "https://open.spotify.com/track/3Os1t1xcIQ7dhy72whMNdB"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 Pegando Geral",
+        "url": "https://open.spotify.com/album/1usRw8dPCee7wpKbpJeYp4"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166217,
+      "name": "T\u00f4 Pegando Geral",
+      "url": "https://open.spotify.com/track/786804PStXOueEpS196zKc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7pOPsUgXj1I"

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13465,
+  "num_followers": 13464,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -28,7 +28,7 @@
       "added_at": "2024-03-11 17:02:36",
       "album": {
         "name": "Wed 21",
-        "url": "https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7"
+        "url": "https://open.spotify.com/album/59dIckHfS1m5AVBA3urboQ"
       },
       "artists": [
         {
@@ -37,8 +37,8 @@
         }
       ],
       "duration_ms": 245560,
-      "name": "Lo Decidi Yo",
-      "url": "https://open.spotify.com/track/2tuAwouI1R8T5GNbAPSc41"
+      "name": "Lo decid\u00ed yo",
+      "url": "https://open.spotify.com/track/25Lcl6vHgZxzmnMw4FCAj6"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Baby del Rey",
-        "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
-      },
-      "artists": [
-        {
-          "name": "Bby Lean",
-          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Baby del Rey",
-      "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Culona y Llorona.",
         "url": "https://open.spotify.com/album/2LeboBZBofMm9cUz6MYKAF"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 157099,
       "name": "For Real",
       "url": "https://open.spotify.com/track/3O5XAiurMosdHxiOYckoYS"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "Baby del Rey",
+        "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Baby del Rey",
+      "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
-      },
-      "artists": [
-        {
-          "name": "Mamma Soul",
-          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Asumir",
         "url": "https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 227500,
       "name": "Asumir",
       "url": "https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
+      },
+      "artists": [
+        {
+          "name": "Mamma Soul",
+          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c"
     },
     {
       "added_at": "2024-03-11 17:02:36",

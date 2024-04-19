@@ -388,6 +388,40 @@
     {
       "album": {
         "name": "Beyond The Lines",
+        "url": "https://open.spotify.com/album/33rSQmuoQSprJtAoSeLkuc"
+      },
+      "artists": [
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "SPARTA",
+          "url": "https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "Beyond The Lines",
+      "url": "https://open.spotify.com/track/1j6HVoexJfUJCJsmYd9OmY"
+    },
+    {
+      "album": {
+        "name": "Beyond The Lines",
         "url": "https://open.spotify.com/album/34Pey73JMexQK3Gwj13Y94"
       },
       "artists": [
@@ -414,7 +448,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197920,
       "name": "Beyond The Lines",
       "url": "https://open.spotify.com/track/32Ml2Ne1O7r26vPi5M27yB"
@@ -1062,7 +1096,7 @@
     {
       "album": {
         "name": "Excuse Me",
-        "url": "https://open.spotify.com/album/1FkXJBykFSoTDuZYkVoF8l"
+        "url": "https://open.spotify.com/album/1hwvsyVIUP8aCN25AKEwKL"
       },
       "artists": [
         {
@@ -1073,6 +1107,24 @@
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183956,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/2Fs8ACanwCf6XaTb3AaIcn"
+    },
+    {
+      "album": {
+        "name": "Excuse Me",
+        "url": "https://open.spotify.com/album/1FkXJBykFSoTDuZYkVoF8l"
+      },
+      "artists": [
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 183956,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/5XGAX53b2t2iv9WkJzBvth"
@@ -1130,10 +1182,28 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108910,
       "name": "FEELINGS",
       "url": "https://open.spotify.com/track/4rDZ4eNzDTSKuRKcHq0Zfx"
+    },
+    {
+      "album": {
+        "name": "FEELINGS",
+        "url": "https://open.spotify.com/album/4RP3uvoBsWzgGMAjZrj6MA"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110424,
+      "name": "FEELINGS",
+      "url": "https://open.spotify.com/track/2zZ3M9KjUwDm2tgWrTN36G"
     },
     {
       "album": {
@@ -1280,10 +1350,36 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215829,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/29zovESERgPJz1uaIFgsfS"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/1OATdFDexrPWGsboV4mw75"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+        },
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215829,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6MXh6L91gYKRvbd51Xf1OL"
     },
     {
       "album": {
@@ -1776,7 +1872,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166829,
       "name": "Honki!",
       "url": "https://open.spotify.com/track/2jLqwSiPLweqDsttAM9t3Y"
@@ -2046,7 +2142,7 @@
     {
       "album": {
         "name": "JNKMN NOW",
-        "url": "https://open.spotify.com/album/25FuYMQQcQjJ4Q461QFIwO"
+        "url": "https://open.spotify.com/album/0jIB5mB971h2Zq3nFY2rTE"
       },
       "artists": [
         {
@@ -2057,6 +2153,24 @@
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 142726,
+      "name": "Jailbird",
+      "url": "https://open.spotify.com/track/4SSQWkrsInGt1917eLmb0m"
+    },
+    {
+      "album": {
+        "name": "JNKMN NOW",
+        "url": "https://open.spotify.com/album/25FuYMQQcQjJ4Q461QFIwO"
+      },
+      "artists": [
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 142726,
       "name": "Jailbird",
       "url": "https://open.spotify.com/track/5H869q2Qch1FVKVQSEVqpt"
@@ -2608,7 +2722,7 @@
     {
       "album": {
         "name": "Luv Myself",
-        "url": "https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d"
+        "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
       "artists": [
         {
@@ -2627,6 +2741,32 @@
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268799,
+      "name": "Luv Myself",
+      "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "album": {
+        "name": "Luv Myself",
+        "url": "https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 268799,
       "name": "Luv Myself",
       "url": "https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j"
@@ -2670,10 +2810,32 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206560,
       "name": "MADRAS NIGHT PART2",
       "url": "https://open.spotify.com/track/4Nm8xSLgvmEJ0Bo6m5fu07"
+    },
+    {
+      "album": {
+        "name": "GAMA",
+        "url": "https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV"
+      },
+      "artists": [
+        {
+          "name": "Yurufuwa Gang",
+          "url": "https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS"
+        },
+        {
+          "name": "Chinza Dopeness",
+          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206560,
+      "name": "MADRAS NIGHT PART2",
+      "url": "https://open.spotify.com/track/5b7DC00mYYbJfmWEptvu6o"
     },
     {
       "album": {
@@ -2922,6 +3084,24 @@
     {
       "album": {
         "name": "Nectar.",
+        "url": "https://open.spotify.com/album/2gZoqIm5A9KkUbmyHEhndC"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180064,
+      "name": "Nectar.",
+      "url": "https://open.spotify.com/track/2uTlQeIWLnqhE9g7dsy1VK"
+    },
+    {
+      "album": {
+        "name": "Nectar.",
         "url": "https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe"
       },
       "artists": [
@@ -2932,7 +3112,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180064,
       "name": "Nectar.",
       "url": "https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg"
@@ -3018,7 +3198,7 @@
     {
       "album": {
         "name": "NEW DAY",
-        "url": "https://open.spotify.com/album/0g8qeKfLrKwuuNaAw5SfMp"
+        "url": "https://open.spotify.com/album/3yPubdWhdKfRbhvfm7bcD7"
       },
       "artists": [
         {
@@ -3037,6 +3217,32 @@
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184489,
+      "name": "NEW DAY",
+      "url": "https://open.spotify.com/track/1WgA8a9bzad38hPIl6nOog"
+    },
+    {
+      "album": {
+        "name": "NEW DAY",
+        "url": "https://open.spotify.com/album/0g8qeKfLrKwuuNaAw5SfMp"
+      },
+      "artists": [
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 184489,
       "name": "NEW DAY",
       "url": "https://open.spotify.com/track/3KLSp2VdUcmOzjqYxsAFlP"
@@ -3226,10 +3432,32 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242486,
       "name": "Our Style",
       "url": "https://open.spotify.com/track/0wQNg9hzXfuqvtFsDfFYOs"
+    },
+    {
+      "album": {
+        "name": "Our Style",
+        "url": "https://open.spotify.com/album/7kozsQ3NnkrDJPT4Kw7aim"
+      },
+      "artists": [
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        },
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242486,
+      "name": "Our Style",
+      "url": "https://open.spotify.com/track/765pHb1dyOx4VH6A446cwU"
     },
     {
       "album": {
@@ -3546,10 +3774,40 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9"
+    },
+    {
+      "album": {
+        "name": "098RADIO vol.1 Hosted by Awich",
+        "url": "https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289846,
+      "name": "RASEN in OKINAWA",
+      "url": "https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0"
     },
     {
       "album": {
@@ -3838,10 +4096,28 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237960,
       "name": "See you!",
       "url": "https://open.spotify.com/track/0TX1skTZ7B0VCTrTJCXPgk"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/1rCKa5bL1Duiqf5pBvOWHB"
+      },
+      "artists": [
+        {
+          "name": "Yurufuwa Gang",
+          "url": "https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "See you!",
+      "url": "https://open.spotify.com/track/0npw9qjJaa2QcLh37YcIrB"
     },
     {
       "album": {
@@ -4230,10 +4506,36 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198477,
       "name": "SUSUME",
       "url": "https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ"
+    },
+    {
+      "album": {
+        "name": "SUSUME",
+        "url": "https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh"
+      },
+      "artists": [
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "SUSUME",
+      "url": "https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ"
     },
     {
       "album": {
@@ -4318,7 +4620,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218613,
       "name": "Team Tomodachi - Dirty Kansai Remix",
       "url": "https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU"
@@ -4496,7 +4798,7 @@
     {
       "album": {
         "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
@@ -4507,6 +4809,24 @@
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219331,
+      "name": "THE UNION",
+      "url": "https://open.spotify.com/track/0cwWmh7iIH6aMpGvdjr48Q"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 219331,
       "name": "THE UNION",
       "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
@@ -4732,10 +5052,36 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204413,
       "name": "Too Bad Day But... - Remix",
       "url": "https://open.spotify.com/track/5DiEDM4NkVg05iIlSFyXrM"
+    },
+    {
+      "album": {
+        "name": "Too Bad Day But... (Remix)",
+        "url": "https://open.spotify.com/album/0IdSAhL8u4QAGMd8h4GSQi"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207315,
+      "name": "Too Bad Day But... - Remix",
+      "url": "https://open.spotify.com/track/6yvUos4nGm0sdAMOaAlWoC"
     },
     {
       "album": {
@@ -5048,10 +5394,36 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148213,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr"
+    },
+    {
+      "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/2VzcuGy9zAowlF2SAV6Mre"
+      },
+      "artists": [
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "JIGG",
+          "url": "https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148213,
+      "name": "What\u2019s Poppin",
+      "url": "https://open.spotify.com/track/6BkEiNQdMlwxPMgFDLkZtV"
     },
     {
       "album": {
@@ -5077,6 +5449,24 @@
     },
     {
       "album": {
+        "name": "Without you",
+        "url": "https://open.spotify.com/album/5Li1r3naPf81vHKBf0aVpv"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191480,
+      "name": "Without you",
+      "url": "https://open.spotify.com/track/3Lfe4q5gi2l8iGN6gNCOw6"
+    },
+    {
+      "album": {
         "name": "Sea of Love",
         "url": "https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA"
       },
@@ -5088,7 +5478,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191585,
       "name": "Without you",
       "url": "https://open.spotify.com/track/6jYPifUKJRsJnPOfZz0tHJ"
@@ -5415,6 +5805,32 @@
     },
     {
       "album": {
+        "name": "\u30c1\u30fc\u30e0\u53cb\u9054 (Dirty Kansai Remix)",
+        "url": "https://open.spotify.com/album/6KqsbAQf7MTlQCxE1hHla2"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "\u30c1\u30fc\u30e0\u53cb\u9054 - Dirty Kansai Remix",
+      "url": "https://open.spotify.com/track/7L23oYq9gQRjoxX8UlARLX"
+    },
+    {
+      "album": {
         "name": "RAPNAVIO",
         "url": "https://open.spotify.com/album/0EajVw4MxKJaXCLwuvwD9Y"
       },
@@ -5472,6 +5888,24 @@
       "duration_ms": 106727,
       "name": "\u30d0\u30b0\u308a feat. MonyHorse",
       "url": "https://open.spotify.com/track/2JA1cAHINDqnwZKJb4GYwR"
+    },
+    {
+      "album": {
+        "name": "NOT REGULAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7ksBjZZVaxgrvTzUhFdacV"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "\u30db\u30f3\u30ad!",
+      "url": "https://open.spotify.com/track/6V92HGLH5tzpaHlNk4KKBZ"
     },
     {
       "album": {

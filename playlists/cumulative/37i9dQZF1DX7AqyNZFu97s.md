@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Amy Gadiaga\. Artwork: Isu Kim
 
-1,765 songs - 3 day 22 hr 3 min
+1,766 songs - 3 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1435,6 +1435,7 @@
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-07-11 | 2023-08-09 |
 | [So Cool](https://open.spotify.com/track/2Ydl0tdL1G2mqVxCLNDsPa) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [So Cool](https://open.spotify.com/album/4JdhL4OxavNriCvKgBoY3b) | 3:13 | 2022-01-12 | 2022-02-10 |
 | [so sweet](https://open.spotify.com/track/04U2Kyn7PaUMQHO2xjtd8Z) | [Niall Tarmey](https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ) | [so sweet](https://open.spotify.com/album/7Iun8bk5Gmu0JUc9MjaOqv) | 3:21 | 2022-10-06 | 2022-10-27 |
+| [So Tell Me](https://open.spotify.com/track/6Y5zGMIYGdbGrUsaIY4laN) | [Oniimukuu](https://open.spotify.com/artist/1mOo1vAGtVrsd44Q2EORAp) | [So Tell Me](https://open.spotify.com/album/7E4skOyFHoUVHPc73MKmIH) | 2:58 | 2024-04-16 |  |
 | [Soar When I'm Alone](https://open.spotify.com/track/1weYM28rRNsMuT69FFqPxJ) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/2ew7u07SEK1elZMVAddYyK) | 4:56 | 2024-04-09 |  |
 | [Social Angst](https://open.spotify.com/track/6xE3rkiSY4pORMOuulhi0S) | [Chi Virgo](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Social Angst](https://open.spotify.com/album/1xdR1Ll2FtkHEntIq5xQRT) | 2:29 | 2022-11-23 | 2023-02-02 |
 | [Socials](https://open.spotify.com/track/2WHi7e5IS442aTjYN6Lx7Z) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [Socials](https://open.spotify.com/album/3AEOrdLQRJf0dsq1fNMIaC) | 3:39 | 2024-02-21 | 2024-03-13 |

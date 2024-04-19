@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,851 likes - 35 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,939 likes - 35 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 | 28 | [Rock\-A\-Hula Baby](https://open.spotify.com/track/65ndJdPZmiV8egz8h3kPuf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 1:59 |
 | 29 | [Way Down](https://open.spotify.com/track/0JnEaldTC6IFyUGOqppFdG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:38 |
 | 30 | [Do the Clam](https://open.spotify.com/track/2DdtOIqWNDcrPEDAJv0VFe) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Girl Happy](https://open.spotify.com/album/4z27tEwwMNEILdVX1Sy40L) | 3:16 |
-| 31 | [Good Rockin' Tonight](https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:11 |
-| 32 | [Too Much Monkey Business](https://open.spotify.com/track/7cHRosCDDl7qhHxkSpcTtH) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings Flaming Star](https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv) | 2:30 |
+| 31 | [Good Rockin' Tonight](https://open.spotify.com/track/7cJNO7Q8CiF1H65WVnSIfg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:12 |
+| 32 | [Too Much Monkey Business](https://open.spotify.com/track/4g3pTaJtVbkXU0FuxpDbrb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:29 |
 | 33 | [The Fool](https://open.spotify.com/track/67YCIYsiNG8iEd3AGCgR86) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Country](https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN) | 2:33 |
 | 34 | [Guitar Man](https://open.spotify.com/track/7momNWKOObWP1nBE1BNirA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:19 |
 | 35 | [Hard Headed Woman](https://open.spotify.com/track/32CVurlBxtEYQlDm3yzCLl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [King Creole](https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl) | 1:53 |

@@ -1,13 +1,45 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Myles Smith",
-  "num_followers": 1337400,
+  "num_followers": 1337231,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMGE5YTY5MmQxMjRiNjY1Yzk1NzllNDhmMzMwMWY4ZTQ2",
+  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDA1NjA1N2FlY2M4YTIzZmM0NzcxZjdjY2ExY2RhYWEw",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ"
+    },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
@@ -23,6 +55,54 @@
       "duration_ms": 197573,
       "name": "Save You a Seat",
       "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Please Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 254365,
+      "name": "Guilty as Sin?",
+      "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -41,20 +121,20 @@
       "url": "https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 149605,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -71,22 +151,6 @@
       "duration_ms": 259902,
       "name": "I Forgive You",
       "url": "https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Half of forever",
-        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Half of forever",
-      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -139,22 +203,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "How?",
-        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "How?",
-      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Good Stuff",
         "url": "https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5"
       },
@@ -191,22 +239,6 @@
       "duration_ms": 227625,
       "name": "Little Bit Better",
       "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Please Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -359,8 +391,8 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
       "artists": [
         {
@@ -370,7 +402,7 @@
       ],
       "duration_ms": 251424,
       "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -540,7 +572,7 @@
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
       },
       "artists": [
         {
@@ -550,7 +582,7 @@
       ],
       "duration_ms": 199756,
       "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -639,8 +671,8 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+        "name": "Everything Almost",
+        "url": "https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3"
       },
       "artists": [
         {
@@ -650,7 +682,7 @@
       ],
       "duration_ms": 180040,
       "name": "Everything Almost",
-      "url": "https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O"
+      "url": "https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -735,8 +767,8 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
       },
       "artists": [
         {
@@ -746,7 +778,7 @@
       ],
       "duration_ms": 160053,
       "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -768,7 +800,7 @@
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Simple Like 17",
-        "url": "https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU"
+        "url": "https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii"
       },
       "artists": [
         {
@@ -778,7 +810,7 @@
       ],
       "duration_ms": 162556,
       "name": "Good to Know",
-      "url": "https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6"
+      "url": "https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -851,8 +883,8 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+        "name": "Really Mean It",
+        "url": "https://open.spotify.com/album/4N4e8nrMt10llVtkUwPKrz"
       },
       "artists": [
         {
@@ -862,13 +894,13 @@
       ],
       "duration_ms": 194262,
       "name": "Really Mean It",
-      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
+      "url": "https://open.spotify.com/track/4vhC4RETf50LkuIAHMqb1f"
     },
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "I Hope It All Works Out",
-        "url": "https://open.spotify.com/album/57AwLs6IEbB6eicGU0483i"
+        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
       },
       "artists": [
         {
@@ -878,7 +910,7 @@
       ],
       "duration_ms": 167083,
       "name": "I Hope It All Works Out",
-      "url": "https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy"
+      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -995,22 +1027,6 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 299510,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1196,7 +1212,7 @@
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Good To Be",
-        "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
       },
       "artists": [
         {
@@ -1206,7 +1222,7 @@
       ],
       "duration_ms": 147166,
       "name": "Good To Be",
-      "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1339,8 +1355,8 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I've told the trees everything",
-        "url": "https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw"
+        "name": "Two Hearts",
+        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
       },
       "artists": [
         {
@@ -1350,23 +1366,7 @@
       ],
       "duration_ms": 246796,
       "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "To Love Someone",
-        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "To Love Someone",
-      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
+      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk"
       },
       "artists": [
         {
@@ -1434,7 +1434,7 @@
       ],
       "duration_ms": 232080,
       "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC"
+      "url": "https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1556,7 +1556,7 @@
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "fifth avenue",
-        "url": "https://open.spotify.com/album/3sE8ogSNyN8IQJVVUEb4s3"
+        "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
       },
       "artists": [
         {
@@ -1566,7 +1566,7 @@
       ],
       "duration_ms": 173376,
       "name": "fifth avenue",
-      "url": "https://open.spotify.com/track/75TMv5EOaXBPoJI1txKTYM"
+      "url": "https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1587,8 +1587,8 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I've told the trees everything",
-        "url": "https://open.spotify.com/album/5mjWgYQYxutEyJEKe3Fmqx"
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO"
       },
       "artists": [
         {
@@ -1598,7 +1598,7 @@
       ],
       "duration_ms": 178746,
       "name": "Sunday",
-      "url": "https://open.spotify.com/track/04zdjWewHa4UZ8ZePm5QSK"
+      "url": "https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz"
     },
     {
       "added_at": "2023-12-01 05:00:00",

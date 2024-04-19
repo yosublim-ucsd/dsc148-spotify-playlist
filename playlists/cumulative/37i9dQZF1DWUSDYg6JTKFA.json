@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "21 Years",
       "url": "https://open.spotify.com/track/20enmDMVhWFDjkVHzv1vVA"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 216600,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/7nWkaeqhGAtJChP7MGYfJb"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255160,
       "name": "Even If",
       "url": "https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196173,
       "name": "Even Then",
       "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 201146,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284970,
       "name": "Glory and Majesty",
       "url": "https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175960,
       "name": "Good Fight",
       "url": "https://open.spotify.com/track/6ukP8PkZshgCEw8u9rPsho"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353546,
       "name": "Good Grace - Live",
       "url": "https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 300933,
       "name": "Heal Our Land",
       "url": "https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202283,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288986,
       "name": "Hope Has a Name",
       "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217655,
       "name": "Hope in Front of Me",
       "url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq"
@@ -892,6 +892,24 @@
       "duration_ms": 233813,
       "name": "Hope Returns",
       "url": "https://open.spotify.com/track/4tfpo5whNasRR4vLTX5sZD"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/0Ehx7UnsUgHAeY7ncN4osu"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5bfefdE1Y2hobZqQ39qWwY"
     },
     {
       "album": {
@@ -978,7 +996,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 300373,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 205738,
       "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 415079,
       "name": "Jesus We Love You - Live",
       "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299365,
       "name": "King of My Heart - Live",
       "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
@@ -1200,10 +1218,28 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212386,
       "name": "Lord, I Need You",
       "url": "https://open.spotify.com/track/1Afjq3TpwOANI0b1Oh0yHv"
+    },
+    {
+      "album": {
+        "name": "Fading West",
+        "url": "https://open.spotify.com/album/1GyzM6vN5fWs2RDCLmJTIz"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Love Alone Is Worth the Fight",
+      "url": "https://open.spotify.com/track/6GJHBc4A4z1VLPgWZ4S62V"
     },
     {
       "album": {
@@ -1290,7 +1326,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254880,
       "name": "My Hope Is in You",
       "url": "https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu"
@@ -1362,7 +1398,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 252240,
       "name": "Need You Now (How Many Times)",
       "url": "https://open.spotify.com/track/3oCy1o9lrIvgFC1T7kfTNv"
@@ -1414,7 +1450,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249213,
       "name": "No Longer Slaves - Radio Version",
       "url": "https://open.spotify.com/track/2W1EsT0BlEnFaPe44Q71N5"
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 259653,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP"
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205760,
       "name": "One Day",
       "url": "https://open.spotify.com/track/15eJjGIuCDEtF6ph4Hd3eR"
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 259399,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c"
@@ -1588,7 +1624,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
@@ -1606,10 +1642,28 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208118,
       "name": "Power",
       "url": "https://open.spotify.com/track/1Tli4ykzVexUn987y49vlj"
+    },
+    {
+      "album": {
+        "name": "The Acoustic Sessions: Volume One",
+        "url": "https://open.spotify.com/album/6yjFFbPxfTZvWTe2d3WXVz"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323853,
+      "name": "Praise You In This Storm - acoustic",
+      "url": "https://open.spotify.com/track/4n42iES93DDuPvWpTyJVSO"
     },
     {
       "album": {
@@ -1642,7 +1696,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333386,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
@@ -1678,7 +1732,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
@@ -1714,7 +1768,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219558,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN"
@@ -1772,7 +1826,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 274386,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
@@ -1786,11 +1840,15 @@
         {
           "name": "Hillsong Worship",
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "David Ware",
+          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
         }
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 247786,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/1xIHfkc6IJB76YjB9EDcez"
@@ -1866,7 +1924,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254115,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
@@ -1956,7 +2014,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191013,
       "name": "The Comeback",
       "url": "https://open.spotify.com/track/3QiF0PF9ciUoyHFrr6DBme"
@@ -1992,7 +2050,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195209,
       "name": "The River",
       "url": "https://open.spotify.com/track/3gQC0KTBXZeysuzRqMrfbD"
@@ -2084,7 +2142,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204601,
       "name": "Together (We'll Get Through This)",
       "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
@@ -2164,7 +2222,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 246933,
       "name": "WALKING ON WATER",
       "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
@@ -2258,7 +2316,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223013,
       "name": "What If",
       "url": "https://open.spotify.com/track/3OPriamtEJuT0E2A8HqVRR"

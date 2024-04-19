@@ -1,12 +1,12 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Morat",
-  "num_followers": 118500,
+  "num_followers": 118541,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjk0NDA2NiwwMDAwMDAwMGQyYWJiNjdhNzE1YzUxOTA3NTU3NjUyYjU3OTQ4MTBh",
+  "snapshot_id": "MTcxMzUwMzY0MCwwMDAwMDAwMDIyYzVjNWNiZmY5YjdkOWE2NzA5YTgzMWNlNTcxYzhm",
   "tracks": [
     {
       "added_at": "2024-04-12 17:47:46",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa"
     },
     {
+      "added_at": "2024-04-19 05:14:00",
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 218972,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE"
+    },
+    {
       "added_at": "2024-04-12 17:47:46",
       "album": {
         "name": "Triste (Arial 1)",
@@ -55,6 +71,22 @@
       "duration_ms": 177727,
       "name": "Triste (Arial 1)",
       "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
+    },
+    {
+      "added_at": "2024-04-19 05:14:00",
+      "album": {
+        "name": "Antonia Jones",
+        "url": "https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt"
+      },
+      "artists": [
+        {
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Dejarlos Entrar",
+      "url": "https://open.spotify.com/track/5CesWiJGZ2pHlNYik6FBHz"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -91,22 +123,6 @@
     {
       "added_at": "2024-04-12 17:47:46",
       "album": {
-        "name": "Antes De Que Amanezca",
-        "url": "https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR"
-    },
-    {
-      "added_at": "2024-04-12 17:47:46",
-      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 186613,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
-    },
-    {
-      "added_at": "2024-04-12 17:47:46",
-      "album": {
-        "name": "Cu\u00e1nto Me Duele",
-        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Cu\u00e1nto Me Duele",
-      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1200,7 +1200,7 @@
       "added_at": "2024-04-12 17:47:46",
       "album": {
         "name": "Tu Boca Y La Luna",
-        "url": "https://open.spotify.com/album/7lpcWjAiYabaqHaoW7PUjK"
+        "url": "https://open.spotify.com/album/6JfJllak7zt7nHOrjxGKMP"
       },
       "artists": [
         {
@@ -1214,7 +1214,7 @@
       ],
       "duration_ms": 157317,
       "name": "Tu Boca Y La Luna",
-      "url": "https://open.spotify.com/track/7iWRX4dsq8NZCHQY0JmzbN"
+      "url": "https://open.spotify.com/track/3PvFp8J1cylf64wSk6vSZQ"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1336,7 +1336,7 @@
       "added_at": "2024-04-12 17:47:46",
       "album": {
         "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
+        "url": "https://open.spotify.com/album/0ANgi1tSAd3ZL3jLBP0Cct"
       },
       "artists": [
         {
@@ -1346,7 +1346,7 @@
       ],
       "duration_ms": 172926,
       "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
+      "url": "https://open.spotify.com/track/311zbdjnHkGQAVvVWUpnzK"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1372,7 +1372,7 @@
       "added_at": "2024-04-12 17:47:46",
       "album": {
         "name": "Loco",
-        "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
+        "url": "https://open.spotify.com/album/5FaSOHFMF5MaeUUDsq8lLG"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 204000,
+      "duration_ms": 207856,
       "name": "Loco",
-      "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
+      "url": "https://open.spotify.com/track/4zAmejUNIsPCWsj5t1lGo4"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1495,22 +1495,18 @@
     {
       "added_at": "2024-04-12 17:47:46",
       "album": {
-        "name": "Agust\u00edn",
-        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
+        "name": "Simples Corazones",
+        "url": "https://open.spotify.com/album/4nrV5Id8yrr3f8ZvyCgFkG"
       },
       "artists": [
         {
           "name": "Fonseca",
           "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         }
       ],
-      "duration_ms": 243042,
-      "name": "Simples Corazones (feat. Melendi)",
-      "url": "https://open.spotify.com/track/57AHAfiyk3gR8OBRf3s03U"
+      "duration_ms": 241080,
+      "name": "Simples Corazones",
+      "url": "https://open.spotify.com/track/6SVEw266UzbkAKfCLeBPGy"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1547,8 +1543,8 @@
     {
       "added_at": "2024-04-12 17:47:46",
       "album": {
-        "name": "Agust\u00edn",
-        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
+        "name": "Por Pura Curiosidad",
+        "url": "https://open.spotify.com/album/2gw6EVoQ8B0kK8Fsr6Cshn"
       },
       "artists": [
         {
@@ -1556,15 +1552,15 @@
           "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         }
       ],
-      "duration_ms": 205242,
+      "duration_ms": 203832,
       "name": "Por Pura Curiosidad",
-      "url": "https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy"
+      "url": "https://open.spotify.com/track/1kLTaKK1qbtGuxggUtz8iz"
     },
     {
       "added_at": "2024-04-12 17:47:46",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+        "name": "No Hay Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/2s4avhyZ6V7PbFVM6vPStc"
       },
       "artists": [
         {
@@ -1572,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 199733,
+      "duration_ms": 197680,
       "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
+      "url": "https://open.spotify.com/track/6wos8Ds5FKMe33GjBHRake"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1616,7 +1612,7 @@
       "added_at": "2024-04-12 17:47:46",
       "album": {
         "name": "Bella (Remix)",
-        "url": "https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm"
+        "url": "https://open.spotify.com/album/05ydY3EcSmcCm8AfpDlmPU"
       },
       "artists": [
         {
@@ -1630,7 +1626,7 @@
       ],
       "duration_ms": 218360,
       "name": "Bella - Remix",
-      "url": "https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk"
+      "url": "https://open.spotify.com/track/0SKhd6uBssOAqEvlLuUr3s"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1691,8 +1687,8 @@
     {
       "added_at": "2024-04-12 17:47:46",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+        "name": "Besos En Guerra",
+        "url": "https://open.spotify.com/album/4XoiA4NiNcjYPmJV8INiQE"
       },
       "artists": [
         {
@@ -1704,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 231532,
+      "duration_ms": 229442,
       "name": "Besos En Guerra",
-      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+      "url": "https://open.spotify.com/track/1d0c62VFYauOOgxZ2eFUxx"
     },
     {
       "added_at": "2024-04-12 17:47:46",
@@ -1731,8 +1727,8 @@
     {
       "added_at": "2024-04-12 17:47:46",
       "album": {
-        "name": "\u00bfD\u00f3nde Nos Quedamos?",
-        "url": "https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx"
+        "name": "Por Hacerme el Bueno",
+        "url": "https://open.spotify.com/album/3M97oXb58OyZJrO8PdWaLp"
       },
       "artists": [
         {
@@ -1740,15 +1736,15 @@
           "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 252481,
+      "duration_ms": 252374,
       "name": "Por Hacerme el Bueno",
-      "url": "https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek"
+      "url": "https://open.spotify.com/track/5kTBmo3zNcnlm6saZRFrHR"
     },
     {
       "added_at": "2024-04-12 17:47:46",
       "album": {
         "name": "La Estrategia",
-        "url": "https://open.spotify.com/album/06ndmW1TODpGRPdGE7At37"
+        "url": "https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ"
       },
       "artists": [
         {
@@ -1758,7 +1754,7 @@
       ],
       "duration_ms": 219228,
       "name": "La Estrategia",
-      "url": "https://open.spotify.com/track/3mbCqi22KYjndD56qCykyP"
+      "url": "https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL"
     },
     {
       "added_at": "2024-04-12 17:47:46",

@@ -4,7 +4,7 @@
 
 > Love who you want\. It’s good foreign policy\. Listen to the music from and inspired by Red, White & Royal Blue, now streaming on Prime Video.
 
-24 songs - 1 hr 18 min
+26 songs - 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Can't Help Falling In Love](https://open.spotify.com/track/5RPc7az7LxQSFbzK3ieV46) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Can't Help Falling In Love](https://open.spotify.com/album/3pzZh3zBeGSAL3GEtzPOm6) | 2:24 | 2023-08-14 |  |
 | [Canciones de Amor a Ti](https://open.spotify.com/track/3y8LURp2yO9vxB9Mrrsptd) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [La Emperatriz](https://open.spotify.com/album/7f3vr9igj7vDgo3SBIN8Fv) | 3:18 | 2023-08-14 |  |
 | [Color my life](https://open.spotify.com/track/7BejoLVTKcqTpVyrEedplW) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 3:28 | 2023-08-14 |  |
-| [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2023-08-14 |  |
+| [Don't Stop Me Now](https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) | 3:29 | 2023-08-14 |  |
+| [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2023-08-14 | 2024-04-19 |
 | [Duda Dance](https://open.spotify.com/track/76y1ht6e8MyL5yzOLEbSjS) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Duda Dance](https://open.spotify.com/album/4OEbI8hWfwvg9XTN88tFIF) | 2:37 | 2023-08-14 |  |
 | [Fruit \(Red, White & Royal Blue Version\) \[From the Amazon Original Movie "Red, White & Royal Blue"\]](https://open.spotify.com/track/1Rh0v6FRZzz4IwanSoI6xD) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit \(Red, White & Royal Blue Version\) \[From the Amazon Original Movie "Red, White & Royal Blue"\]](https://open.spotify.com/album/0gr9o6eogVrisyP5WJzVdV) | 2:49 | 2023-08-14 |  |
 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 | 2023-08-14 |  |
@@ -24,7 +25,8 @@
 | [Magic](https://open.spotify.com/track/570hpJvBIWuTXCIiDHHXhC) | [David From Barberton](https://open.spotify.com/artist/7BVV8a9f68dYFgaWBeHBju) | [Magic](https://open.spotify.com/album/12HQ5CIznZZ5V6DhCrdmc4) | 3:24 | 2023-08-14 |  |
 | [Momentary](https://open.spotify.com/track/4yOXEgQONTAdZddIkipZiO) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 1:51 | 2023-08-14 |  |
 | [Museum](https://open.spotify.com/track/6PUYWCB6ltOUINIIY1KbyG) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Red, White & Royal Blue \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oScBW6deKVsqStuhfoGgA) | 1:26 | 2023-08-14 |  |
-| [Que Calor](https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Major Lazer Essentials](https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl) | 2:49 | 2023-08-14 |  |
+| [Que Calor](https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Que Calor](https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC) | 2:49 | 2023-08-14 |  |
+| [Que Calor](https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Major Lazer Essentials](https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl) | 2:49 | 2023-08-14 | 2024-04-19 |
 | [Rudolph, The Red\-Nosed Reindeer \- Remastered 1996](https://open.spotify.com/track/7dzmB0GRVzwBa7AsN5FmIS) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:40 | 2023-08-14 |  |
 | [Shining Armor](https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 2:39 | 2023-08-14 |  |
 | [That Thing You Do \(Lhotse Remix\)](https://open.spotify.com/track/5BnXueFIAFvnrD26ZO6B90) | [Ellem](https://open.spotify.com/artist/0ehmsw6dIJWtA0Jw5wvAyD), [Lhotse](https://open.spotify.com/artist/5CFO1lbjoMQ8NqmjnKURx5) | [That Thing You Do \(Lhotse Remix\)](https://open.spotify.com/album/3e55gQAmsqXETQD7KE9X4d) | 5:00 | 2023-08-14 |  |

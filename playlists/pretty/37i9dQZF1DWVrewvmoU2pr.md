@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > 愛本來就係自由嘅事！想愛就愛吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 46 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,981 likes - 46 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 2 | [我 The Hymn of Water Fairies](https://open.spotify.com/track/3owv9sjIEcVEmlzuqn2Ice) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 5:08 |
 | 3 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 |
 | 4 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 |
-| 5 | [黑彩虹](https://open.spotify.com/track/2ATEmEBB0ZToPtkOSZonOM) | [鄭欣宜](https://open.spotify.com/artist/5IGAOhMJTKNeknCPZOs6Eb) | [黑彩虹](https://open.spotify.com/album/4uzmbnvaVTJ1CU1MNJNeqE) | 4:40 |
+| 5 | [黑彩虹](https://open.spotify.com/track/4UWoWjmD9MzzbREGsIZ0ik) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [黑彩虹](https://open.spotify.com/album/03x5AHLUVKl9N4Q6Ix9O5O) | 4:40 |
 | 6 | [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [復黑王\-你還愛我嗎?](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 |
 | 7 | [勞斯.萊斯](https://open.spotify.com/track/37JJeZrHX3fsk2sdCkdiMN) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 4:30 |
 | 8 | [內外](https://open.spotify.com/track/0GLxavYdjEYvGx9eN3lDv4) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [內外](https://open.spotify.com/album/1dMVJFOcO7aaDbrxyPuBqL) | 3:47 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 11 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
 | 12 | [愛裡沒有詛咒](https://open.spotify.com/track/2fTrrUb3Yl4zMt2ILLsLGJ) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:57 |
 | 13 | [Cocktail](https://open.spotify.com/track/3fpZCgUe70u50OJMbpM84S) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [好風光](https://open.spotify.com/album/2olyf0rTeI1FNoU8mSTPAx) | 4:34 |
-| 14 | [XY](https://open.spotify.com/track/0SWutMMPzxvXjEOWE4k7hG) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [XY](https://open.spotify.com/album/3UipNYaJ8PHiwlsvGRhhE9) | 3:29 |
+| 14 | [XY](https://open.spotify.com/track/7u0ycx02yWqbWYxB1A9jRc) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [XY](https://open.spotify.com/album/3vBTJtrBtoYEkgvf7lT3kp) | 3:29 |
 | 15 | [忘記他是她](https://open.spotify.com/track/49nQLxouxKOMV9aZ99NQ4z) | [Shirley Kwan](https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63) | [真經典 \- 關淑怡](https://open.spotify.com/album/5X5ylqnYZDkNqu58BKf8hl) | 6:19 |
 | 16 | [蜚蜚](https://open.spotify.com/track/5LauAY4lEriiCul4br4Hz6) | [Sita Chan](https://open.spotify.com/artist/42FjIZQ8ICjxyXedscgA2n) | [Let Me Find Love](https://open.spotify.com/album/7o7YbsS8u22o2fxLbh1eCv) | 3:36 |
 | 17 | [兄兄我我](https://open.spotify.com/track/438FTqxtcW4SlUvgMu63Qw) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [兄兄我我](https://open.spotify.com/album/3DL0z3VVG7978R6vnON3my) | 3:30 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 21 | [春光乍洩](https://open.spotify.com/track/5PKot0y16MMgrOZD4HL385) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 4:24 |
 | 22 | [非男非女](https://open.spotify.com/track/36P0MXLB4ILaUWATujKpC9) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Unforgettable](https://open.spotify.com/album/4AL7IV50ypxAtFtr0Z4RcC) | 3:08 |
 | 23 | [明目張膽](https://open.spotify.com/track/0w8s03MKvuLmK8CozWJCQu) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 4:35 |
-| 24 | [女扮男生](https://open.spotify.com/track/0pujceqmx9uhErQDU7Zo50) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:21 |
+| 24 | [女扮男生](https://open.spotify.com/track/7d9ZAKEgMVblPNtpLo3FVM) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:19 |
 | 25 | [露絲瑪莉](https://open.spotify.com/track/4C1VIpqOXpJB1BLKEhgibv) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:10 |
 | 26 | [Tracey \(電影 "翠絲" 主題曲\)](https://open.spotify.com/track/4lmOXmwygGpCEwXqXryY6B) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Tracey \(電影 "翠絲" 主題曲\)](https://open.spotify.com/album/5yefkK2l2VvSAdlHajtDSz) | 4:28 |
 | 27 | [零號](https://open.spotify.com/track/0alSLVdL0m3O8zUy8fD1uo) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [冬天的故事 \(華星40系列\)](https://open.spotify.com/album/4mgsBSKSmer8VjDicsPkHA) | 4:22 |

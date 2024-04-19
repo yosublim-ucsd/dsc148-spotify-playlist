@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's funk. Cover: Dabeull\n",
-  "num_followers": 319668,
+  "description": "The best of today's funk. Cover: Nikka Costa\n",
+  "num_followers": 319877,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMGRiYjExMGNkNWY5ZDEyMTgwNGMxOTJlMzRhNDllODRh",
+  "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMDZhMTQxY2E5M2ZlMGRhYzM5YWUyODQwZTBlMThkYjIz",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "It's Just Love",
+        "url": "https://open.spotify.com/album/3xCDN0KPhUxwE5j9fLts0G"
+      },
+      "artists": [
+        {
+          "name": "Nikka Costa",
+          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
+        }
+      ],
+      "duration_ms": 236283,
+      "name": "It's Just Love",
+      "url": "https://open.spotify.com/track/10b2ljBujXdAeAIWnronO1"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
@@ -99,22 +115,6 @@
       "duration_ms": 160745,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/2vQba2IJ5M9PDtY8qJ4KSb"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Keep It High",
-        "url": "https://open.spotify.com/album/1ukkIgYlPtLdceJKTTGqIV"
-      },
-      "artists": [
-        {
-          "name": "Nikka Costa",
-          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
-        }
-      ],
-      "duration_ms": 234330,
-      "name": "Keep It High",
-      "url": "https://open.spotify.com/track/23xaHEMtIg6AamiSOh5AXI"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -676,7 +676,7 @@
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "Good Love",
-        "url": "https://open.spotify.com/album/3BwkJpkYkCYNBlW2TNFu1w"
+        "url": "https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78"
       },
       "artists": [
         {
@@ -686,7 +686,7 @@
       ],
       "duration_ms": 289514,
       "name": "Good Love",
-      "url": "https://open.spotify.com/track/0Tz0QSj60jGd6liWezWmEW"
+      "url": "https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -764,7 +764,7 @@
       "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "We Belong",
-        "url": "https://open.spotify.com/album/1CswJNzuinL7ezwVCQPPLr"
+        "url": "https://open.spotify.com/album/2Uh44AQjG7X7DixVbrDLPK"
       },
       "artists": [
         {
@@ -778,7 +778,7 @@
       ],
       "duration_ms": 241626,
       "name": "We Belong",
-      "url": "https://open.spotify.com/track/4UWuluqabYpNZGoqNVGmBI"
+      "url": "https://open.spotify.com/track/1vp1OohNbLLVwb3qSMq7S9"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -799,13 +799,17 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Schvitz",
-        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
+        "name": "New Guru",
+        "url": "https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF"
       },
       "artists": [
         {
           "name": "Vulfpeck",
           "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         },
         {
           "name": "Antwaun Stanley",
@@ -814,7 +818,7 @@
       ],
       "duration_ms": 204174,
       "name": "New Guru",
-      "url": "https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA"
+      "url": "https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -940,7 +944,7 @@
       "added_at": "2023-03-31 04:01:00",
       "album": {
         "name": "Same Song",
-        "url": "https://open.spotify.com/album/0HLt7MDAA0mZLuLktz5npe"
+        "url": "https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B"
       },
       "artists": [
         {
@@ -958,7 +962,7 @@
       ],
       "duration_ms": 151111,
       "name": "Same Song",
-      "url": "https://open.spotify.com/track/6xBanShy5nCqzDj8Rk8QmJ"
+      "url": "https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1127,18 +1131,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Vulfnik",
-        "url": "https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU"
+        "name": "I Can\u2019t Party",
+        "url": "https://open.spotify.com/album/3DO4ANRqeIoaVPc4ALnhkz"
       },
       "artists": [
         {
           "name": "Vulfmon",
           "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "duration_ms": 145003,
       "name": "I Can\u2019t Party",
-      "url": "https://open.spotify.com/track/2om87zUjvUhR1unHdqLo1Z"
+      "url": "https://open.spotify.com/track/4JyfZTq6nOoAcW5sY4PurE"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1319,8 +1327,8 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV"
+        "name": "Monoxide",
+        "url": "https://open.spotify.com/album/4vYq3fmB2F9GGY26RgTSja"
       },
       "artists": [
         {
@@ -1340,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO"
         }
       ],
-      "duration_ms": 192863,
+      "duration_ms": 192864,
       "name": "Monoxide",
-      "url": "https://open.spotify.com/track/7DjW87ErMGMT2PIstq7gYG"
+      "url": "https://open.spotify.com/track/03sMq9PruH6F0jJQFufYPT"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1379,8 +1387,8 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd"
+        "name": "Rollin' (Love Will Be Here)",
+        "url": "https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP"
       },
       "artists": [
         {
@@ -1394,7 +1402,7 @@
       ],
       "duration_ms": 290637,
       "name": "Rollin' (Love Will Be Here)",
-      "url": "https://open.spotify.com/track/3baccsZBLbwyt13He6xLgf"
+      "url": "https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1467,8 +1475,8 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Sovereign of 14742",
-        "url": "https://open.spotify.com/album/61ofiuSmZuRkvPc2KWNVtf"
+        "name": "Love In A Groove",
+        "url": "https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe"
       },
       "artists": [
         {
@@ -1476,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud"
         }
       ],
-      "duration_ms": 210840,
+      "duration_ms": 210397,
       "name": "LOVE IN A GROOVE",
-      "url": "https://open.spotify.com/track/46mbePiv2oTh4VfNcQpjjd"
+      "url": "https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1611,8 +1619,8 @@
     {
       "added_at": "2022-07-22 04:02:00",
       "album": {
-        "name": "LOVE IN STEREO",
-        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+        "name": "WASABI",
+        "url": "https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM"
       },
       "artists": [
         {
@@ -1622,7 +1630,7 @@
       ],
       "duration_ms": 167840,
       "name": "WASABI",
-      "url": "https://open.spotify.com/track/2xM0qj1bxFldH3BgLIzcve"
+      "url": "https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga"
     },
     {
       "added_at": "2022-07-15 04:02:00",

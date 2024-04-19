@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,848 likes - 205 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,407 likes - 205 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 187 | [Midnight Sun](https://open.spotify.com/track/5WQDL5w2hdjltJ1aqWgFLm) | [Zach Levi](https://open.spotify.com/artist/2GR5LQXtNXyejm2nJvyYQb) | [Midnight Sun](https://open.spotify.com/album/5pkhOVnGe8LcXSgGspGeld) | 2:40 |
 | 188 | [feather](https://open.spotify.com/track/0lFk8GCAu5gbxNCxPGuoOU) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:50 |
 | 189 | [Forgotten By Time](https://open.spotify.com/track/4b7J4LKzkONt18o9Gng2TN) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Forgotten By Time](https://open.spotify.com/album/0mCcbJdZYDlyqxZPOwWVxi) | 2:17 |
-| 190 | [All Is Good](https://open.spotify.com/track/2236Rw4h6OBwtNTtAUiyJ5) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:25 |
+| 190 | [All Is Good](https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:25 |
 | 191 | [Come Sunday](https://open.spotify.com/track/2nWmbl1imOUXgBDK7vJFzR) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Come Sunday](https://open.spotify.com/album/0NyDkJAiDVbSRRCNi7aPFq) | 3:01 |
 | 192 | [Sidereus](https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Sidereus](https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3) | 3:27 |
 | 193 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 |

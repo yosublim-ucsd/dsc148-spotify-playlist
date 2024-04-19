@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: RANJ x Clifr",
-  "num_followers": 159169,
+  "num_followers": 159332,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjczMDQyNCwwMDAwMDAwMDkwZjA0MzQ1OTcyMzc2NzhlMWU4YTBmN2JiOGJkMzIw",
+  "snapshot_id": "MTcxMzM0NDIzOSwwMDAwMDAwMGQyMTU3ZWVhMWU0MmYxMTk4NmY0NTVkMjdiMjFhMjkz",
   "tracks": [
     {
       "added_at": "2024-04-10 06:16:44",
@@ -68,7 +68,7 @@
       "added_at": "2024-03-20 05:27:05",
       "album": {
         "name": "Chor",
-        "url": "https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V"
+        "url": "https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR"
       },
       "artists": [
         {
@@ -78,23 +78,39 @@
       ],
       "duration_ms": 208250,
       "name": "Chor",
-      "url": "https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY"
+      "url": "https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT"
     },
     {
       "added_at": "2024-03-20 05:27:05",
       "album": {
-        "name": "Rok Na Paya",
-        "url": "https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo"
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm"
       },
       "artists": [
         {
-          "name": "Swastik The Band",
-          "url": "https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V"
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
         }
       ],
-      "duration_ms": 228356,
-      "name": "Rok Na Paya",
-      "url": "https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF"
+      "duration_ms": 174285,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq"
+    },
+    {
+      "added_at": "2024-03-20 05:27:05",
+      "album": {
+        "name": "Saajanwa",
+        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Saajanwa",
+      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -115,34 +131,18 @@
     {
       "added_at": "2024-03-20 05:27:05",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8"
+        "name": "Rok Na Paya",
+        "url": "https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo"
       },
       "artists": [
         {
-          "name": "Aditya Bhardwaj",
-          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+          "name": "Swastik The Band",
+          "url": "https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V"
         }
       ],
-      "duration_ms": 174285,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA"
-    },
-    {
-      "added_at": "2024-03-20 05:27:05",
-      "album": {
-        "name": "Saajanwa",
-        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
-      },
-      "artists": [
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Saajanwa",
-      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
+      "duration_ms": 228356,
+      "name": "Rok Na Paya",
+      "url": "https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -824,7 +824,7 @@
       "added_at": "2024-03-20 05:27:05",
       "album": {
         "name": "Ye Teri Meri Kahani",
-        "url": "https://open.spotify.com/album/0gtYx8U7lO414NoJPk70aQ"
+        "url": "https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg"
       },
       "artists": [
         {
@@ -838,7 +838,7 @@
       ],
       "duration_ms": 201810,
       "name": "Ye Teri Meri Kahani",
-      "url": "https://open.spotify.com/track/5c8xIMIlYXLQSDe9d6mspG"
+      "url": "https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -968,7 +968,7 @@
       "added_at": "2024-03-20 05:27:05",
       "album": {
         "name": "Tera Mera Aasmaan",
-        "url": "https://open.spotify.com/album/3o2xo3PpTDvtbhVmTwbfqR"
+        "url": "https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX"
       },
       "artists": [
         {
@@ -978,7 +978,7 @@
       ],
       "duration_ms": 158832,
       "name": "Tera Mera Aasmaan",
-      "url": "https://open.spotify.com/track/0piDZppLG8sJdE9Ieg5DnJ"
+      "url": "https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -1020,7 +1020,7 @@
       "added_at": "2024-03-20 05:27:05",
       "album": {
         "name": "Parda",
-        "url": "https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir"
+        "url": "https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6"
       },
       "artists": [
         {
@@ -1030,7 +1030,7 @@
       ],
       "duration_ms": 192323,
       "name": "Parda",
-      "url": "https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH"
+      "url": "https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -1068,7 +1068,7 @@
       "added_at": "2024-03-20 05:27:05",
       "album": {
         "name": "Yeah Yeah",
-        "url": "https://open.spotify.com/album/2SbDB0NqbbPX3YRMF8BOaN"
+        "url": "https://open.spotify.com/album/6fikjsCSauJ6iiz0mqXdwm"
       },
       "artists": [
         {
@@ -1078,7 +1078,7 @@
       ],
       "duration_ms": 161052,
       "name": "Yeah Yeah",
-      "url": "https://open.spotify.com/track/6HYNj3EIDAgTkC5U1bcpHi"
+      "url": "https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -1276,21 +1276,17 @@
       "added_at": "2024-03-20 05:27:05",
       "album": {
         "name": "Woh Raat",
-        "url": "https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX"
+        "url": "https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6"
       },
       "artists": [
         {
           "name": "Shivoryx",
           "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
-        },
-        {
-          "name": "Ronit Vinta",
-          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
         }
       ],
       "duration_ms": 191460,
       "name": "Woh Raat",
-      "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
+      "url": "https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL"
     },
     {
       "added_at": "2024-03-20 05:27:05",

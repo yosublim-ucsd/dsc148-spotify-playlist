@@ -935,6 +935,28 @@
     },
     {
       "album": {
+        "name": "Vaiana - La L\u00e9gende du Bout du Monde (Bande originale fran\u00e7aise du Film/\u00c9dition Deluxe)",
+        "url": "https://open.spotify.com/album/0QIOdhXxBrm6ImUcZioYKG"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Vaubien",
+          "url": "https://open.spotify.com/artist/5w6l1iNNbqhQVzlmkYADBr"
+        },
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142320,
+      "name": "L'explorateur",
+      "url": "https://open.spotify.com/track/25HnNzqftrRCdDTkG44o6p"
+    },
+    {
+      "album": {
         "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 1",
         "url": "https://open.spotify.com/album/4UKgY7QvwJwfEVqjYnOtVV"
       },
@@ -950,7 +972,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142320,
       "name": "L'explorateur - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
       "url": "https://open.spotify.com/track/3PtksjFaELc5vi6BAiSrcO"
@@ -1469,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Vaiana - La L\u00e9gende du Bout du Monde (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/1Jn4zy5USPYCC3KyTNUujX"
+      },
+      "artists": [
+        {
+          "name": "Anthony Kavanagh",
+          "url": "https://open.spotify.com/artist/6PnzwaATnHONRc26Zs81XO"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165280,
+      "name": "Pour les hommes",
+      "url": "https://open.spotify.com/track/2prGqIMiwCf8nR6JLoZIoB"
+    },
+    {
+      "album": {
         "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 1",
         "url": "https://open.spotify.com/album/4UKgY7QvwJwfEVqjYnOtVV"
       },
@@ -1480,7 +1520,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165280,
       "name": "Pour les hommes - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
       "url": "https://open.spotify.com/track/3EzQ2w7MiG5VELHpOYo4W1"

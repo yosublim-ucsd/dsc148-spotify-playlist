@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,458 likes - 53 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,548 likes - 53 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 15 | [Broken Enough](https://open.spotify.com/track/37jDkd3aFJE0ZGoLQpdMTp) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Broken Enough](https://open.spotify.com/album/6hEdQPrR8iZXM3fzQkGUXh) | 2:59 |
 | 16 | [Blue Hundreds](https://open.spotify.com/track/480UYYizbyMxnzxtC8BZOk) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Blue Hundreds](https://open.spotify.com/album/4BtuFEz9Je4R0p2qzQsARC) | 2:19 |
 | 17 | [SPICY](https://open.spotify.com/track/4FJEsBYoXafG61DFNZujY7) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX) | [SPICY](https://open.spotify.com/album/3YHeh250YlSHP2LUvWYE43) | 2:18 |
-| 18 | [Balance Beam](https://open.spotify.com/track/1AoMflBvnqkv0YB1vpasc9) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Balance Beam](https://open.spotify.com/album/4gFhhySpDU28o3eS46Bf4f) | 2:46 |
+| 18 | [Balance Beam](https://open.spotify.com/track/4vetEfwqNcu6I7gz0GrXEl) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Balance Beam](https://open.spotify.com/album/2xbV9B1JAdkmkVtjRbsT15) | 2:46 |
 | 19 | [Sixty Eight \(feat\. YBN Nahmir\)](https://open.spotify.com/track/56KcjeWdz56bfJFZhhcEM7) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Sixty Eight \(feat\. YBN Nahmir\)](https://open.spotify.com/album/5zWesSKq40WYL36Biw32d5) | 3:44 |
 | 20 | [Nissan](https://open.spotify.com/track/6tUjn8hO7k71djAuR0ZkhX) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Nissan](https://open.spotify.com/album/2GG3MHE2CEPZMuArEhyTss) | 2:18 |
 | 21 | [Doin' The Most](https://open.spotify.com/track/0JUcdOSgUMBUWowljLrisK) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Doin' The Most](https://open.spotify.com/album/7lUU9LoDouWp8woqJqJvLB) | 1:55 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 45 | [Grave Digger \(with Southside\)](https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 3:02 |
 | 46 | [Ragged Up](https://open.spotify.com/track/6EaGKTokH8l5WF8oPu2arr) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ragged Up](https://open.spotify.com/album/6xIVyUugvvuqlv4Gc7ENu5) | 1:56 |
 | 47 | [Stop Cry'n](https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Stop Cry'n](https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q) | 2:20 |
-| 48 | [Pray](https://open.spotify.com/track/1tLrpjQVeeO9nsvv9tV0RI) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Pray](https://open.spotify.com/album/3ouSeQBrmIonvY03o9bYRU) | 2:12 |
+| 48 | [Pray](https://open.spotify.com/track/3k7ZFo1rctoR96HVMPPwjd) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Pray](https://open.spotify.com/album/7zhl0a3SVapomKIFA6XnKC) | 2:12 |
 | 49 | [Bag Shit](https://open.spotify.com/track/7lcxEhRo4U7tbpI3H86F4X) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Bag Shit](https://open.spotify.com/album/3xw3koYUfnfJVKECVSsZM4) | 3:31 |
 | 50 | [go time](https://open.spotify.com/track/5TCdPqLX9gP52n59u3b3rF) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [go time](https://open.spotify.com/album/7hhHfyRY8ml4VdarPpitiY) | 3:58 |
 | 51 | [High Stakes](https://open.spotify.com/track/6DK4YwXkmJovNIJbLrbSvx) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [High Stakes](https://open.spotify.com/album/2Mg50CHp8AF18jNeRaWaD3) | 2:03 |

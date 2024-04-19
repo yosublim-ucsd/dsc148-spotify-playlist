@@ -1,15 +1,31 @@
 {
   "description": "<a href=\"spotify:artist:5lsC3H1vh9YSRQckyGv0Up\">Ellen Allien</a>'s favorite tracks. Updated regularly. Curated by Ellen Allien. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 44483,
+  "num_followers": 44519,
   "original_name": "Ellen Allien's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjkxNjcxMCwwMDAwMDAwMDNhM2Q3NjYxMmQ5MWYxOWYxM2U3NjdjYTA4NTBkYzZl",
+  "snapshot_id": "MTcxMzUxMTI2OSwwMDAwMDAwMGQzYjkwOTYxNGVjOWUzYjM5MzgyMmU2NGJlZDgxNzcy",
   "tracks": [
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
+      "album": {
+        "name": "Sol EP",
+        "url": "https://open.spotify.com/album/1XzNKzw4k3jPDpJ01d78K7"
+      },
+      "artists": [
+        {
+          "name": "Sue L\u00e8wig",
+          "url": "https://open.spotify.com/artist/5nTBbOavNWc2CB3wBzI57M"
+        }
+      ],
+      "duration_ms": 444592,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/5gQBjnN1V2Odg1YGvalRQE"
+    },
+    {
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Environment Control",
         "url": "https://open.spotify.com/album/6kOjn19qFipDDCmQo44wml"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/76fcXDsoELqAqHQBVNSk6c"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/5TKEKRzLJf9atEiDVvc8t6"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/7aFsEBD6ZeRJ2Tktfcpc4l"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "La Commedia",
         "url": "https://open.spotify.com/album/0KHg1GMK9MgLUAWKvUESyw"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/4kNrlB6pSUwqlPEXHTaNFt"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Amotik 014",
         "url": "https://open.spotify.com/album/1FuOC0wj2OQCmHlyobXqd3"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/5xCKccG6kVi9djFpuseSK9"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/3y85Xxe4zGsvRwkfq2DamR"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/03GYu1np5GDS2QOLtU5LkB"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Raam 8.8",
         "url": "https://open.spotify.com/album/56y7b389fnIT1qgonf93v3"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/1azw4mpI12gr2pJY3qhYkO"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Salle Nocturne",
         "url": "https://open.spotify.com/album/5EiY3TQ5UaMZ28tAcfBCxK"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/7Kxr8eAM3ludPihcwCGS9P"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "DJ-Kicks: HAAi",
         "url": "https://open.spotify.com/album/5f7wLlgF33y9CUibAk3a5z"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/6mRvyDTBGPJvbaji86mQXW"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Blue Potential - Live with Montpelier Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/5cGGbqp1MwjYQkoQx89ZLn"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/54aTmPclWOJtxMbY4TV9s1"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Before We Run",
         "url": "https://open.spotify.com/album/7aftI1IzIytxEEsfyGB82r"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/5LpJOKERNtZuhWokMBx2du"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "sequence.01",
         "url": "https://open.spotify.com/album/4nFF52l4jrNYQupfY2Stpr"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/7xpC3S8UVkajDcPotSdvMA"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Disco Quarantine EP",
         "url": "https://open.spotify.com/album/0BAgDCBeOFuyMiPj97w4GC"
@@ -213,27 +229,27 @@
       "url": "https://open.spotify.com/track/6E0Mw58Jx0n411DOKpKU7E"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
-        "name": "fabric presents Overmono",
-        "url": "https://open.spotify.com/album/4Ft7yq09dNcMAh68bJslrj"
+        "name": "fabric presents Overmono (Mixed)",
+        "url": "https://open.spotify.com/album/5tjEHcfKnhNZG7QtMqgdgp"
       },
       "artists": [
         {
-          "name": "Surgeon",
-          "url": "https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM"
-        },
-        {
           "name": "James Ruskin",
           "url": "https://open.spotify.com/artist/1CxlOLe7rJ6EO7aPMxi9Xx"
+        },
+        {
+          "name": "Surgeon",
+          "url": "https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM"
         }
       ],
       "duration_ms": 59560,
       "name": "Sound Pressure, Pt. 3 - Mixed",
-      "url": "https://open.spotify.com/track/5bYDB7yFqSgPeKNx7LCBVM"
+      "url": "https://open.spotify.com/track/1EY9X1Zw6gZPIqBY8Fy2ik"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "It Feels So Good",
         "url": "https://open.spotify.com/album/4ZLg8NqICOWQlPxVptBH4w"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/2LCoc8qwHqVQcU8XMjgZQN"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Phyxix 002",
         "url": "https://open.spotify.com/album/3M43KXmozPjCrEpvSlZdjX"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/1N33tRVzj6TTvxmeZbVRyr"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "I Was Laid-Back A Sinner Of Sorts EP",
         "url": "https://open.spotify.com/album/2IXM3WGkhhpqtR0ugHwPVx"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/2rUcZqfcUlUR1DxOjwz9NK"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Ritmo Oscuro",
         "url": "https://open.spotify.com/album/1s8oRxKfuWwaGus0ST3mpl"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/5Npya7Lxy88grSiJOnvR13"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "VERMILLION",
         "url": "https://open.spotify.com/album/0VP3bxo5C7edLpFiX4zUKC"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/4qOvU2AMQHjA2HpU2tQGCi"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Veer Remixed",
         "url": "https://open.spotify.com/album/7uUScBl363IPxFFI6NDRs7"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/0GiXHmnVdIrRgZw2heHijg"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Acid Sketch",
         "url": "https://open.spotify.com/album/1wKf8felPTg9UWZblyp0Dg"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/5wNZEyx9Xbo3whoj0nXAwO"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "303 606",
         "url": "https://open.spotify.com/album/4hQW0dTJx0wb8bhPoj8hR4"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/5G0FSnis5bRHx8FvW4NmDe"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Rave Luv",
         "url": "https://open.spotify.com/album/52pIgveH3h0BFRiEn2A78a"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/3MCDgpQ2QV0tZf5v1z8f4Z"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Music Sounds Better With Shoe",
         "url": "https://open.spotify.com/album/64VBr4vnNxD2qgNxwJb8ab"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/4exgNWIwQ28AqhsvjcCx6P"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "RAVE:N, The Remixes",
         "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/44ilgyMoBYcM3ZzLbiJJTp"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Making of a Desire",
         "url": "https://open.spotify.com/album/457fb83vJ4x5JOyX9wvdCV"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/1av6hw9Zj5dGMO3MpDIumo"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "The Radio Edit Collection",
         "url": "https://open.spotify.com/album/2JSmEZ4nYguuLl1edgrwST"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/59RxnZQl6yvSXZK7KMjsH0"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/58kNYAdasUR9QOwDH3hWHF"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/1dDvhDGbcDJMP8Wpe0Sb4s"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Mirroring Substances EP",
         "url": "https://open.spotify.com/album/0EwsnPEhGTAne4yvQT63wF"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/1vibUFCrKDyEvUotIixxrS"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Pacemaker",
         "url": "https://open.spotify.com/album/56zU8ZOQEyFqvJh7q5SvYK"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/06v0i61uo5gBSeTShcNhm4"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "SPT001",
         "url": "https://open.spotify.com/album/4jhWJP5GTZUw4bkYhWyMUv"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/1HsBDwncBo4d61ALv9Bbc4"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "The Seen Shall Swim Upstream (Kaos Mix)",
         "url": "https://open.spotify.com/album/5RKElVHSihZWYuPPXe26Gx"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/7Mb3XhyKBdaE8QTOWNXEhE"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Rave Luv",
         "url": "https://open.spotify.com/album/4A474towWs0lkhRxQaCTs9"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/7lgdQfRT3013oGywUorbKH"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Rave Slave",
         "url": "https://open.spotify.com/album/76N52yEg9S4Qii0SWTgL1i"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/5A4WlKDUFXhYFAYhaA4eBl"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "NYC2MIA (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/3bfZfblo5xLHXJgp8zxO2z"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Paling Trax 3",
         "url": "https://open.spotify.com/album/1XM8aLrztDvsRLqjA96i36"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/5i7LYKWIKroCAYap2atr5g"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Uncloseted",
         "url": "https://open.spotify.com/album/6ZudckR14EhejwSuli6fmt"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/5lItYHYtemdrT9bXkdAs8r"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "The Lockdown Sunshine (001)",
         "url": "https://open.spotify.com/album/315fzAwoUHuDGQvvJTuqC1"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/54wegJ2kZuqLLmvjODQzqA"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "That's just my baby dog",
         "url": "https://open.spotify.com/album/5wEqsCPozEYsTz2qZTUT8D"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/1wVzlLFvPaKQaYAhJvNHYd"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Planet Vogue",
         "url": "https://open.spotify.com/album/6FPgWUlgfJeqVYYQOGnTVO"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/7M0oiydqiXSPbDYEBvvYQm"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Vibe Invaders",
         "url": "https://open.spotify.com/album/20KRNuYaer2CZXhQ03THhz"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/6lzNfuQ6wuBNVhFgx1rqs2"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Loud Moving Fast",
         "url": "https://open.spotify.com/album/0Hxouw8Cdle5wJpR6HuXxd"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/4CLDHUQcLZLjN3bUY8Tn1Z"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Youth EP",
         "url": "https://open.spotify.com/album/3ZqkpHPQ57Mg3lfZ7QLS7M"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/4OvsHGcCeiNKCVGnUXw6OT"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "I Luv U Butt",
         "url": "https://open.spotify.com/album/7JD5KDzMgwOboxuGplUf43"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/4IvROGodT8xOhTvKEGWIpr"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Woke Up High (On Love)",
         "url": "https://open.spotify.com/album/3HEIHxOMsjeJDwlZH5FnKv"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/3xl7jseqdu7OxmykYhYYSx"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Ellen Allien Presents We Are Not Alone, Pt. 2",
         "url": "https://open.spotify.com/album/0PFnyJ5bxTBRhGLz5HOM4K"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/2vNQ2hs3PL3q0MPHkxdpBA"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Cyber City, Vol. 1",
         "url": "https://open.spotify.com/album/6nSXN5Azm9faxxJeRj4qSg"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/7eEMFstAbfWcGHAgJ6yHia"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "P0X - ISARN",
         "url": "https://open.spotify.com/album/05MeU4tHXwv3MbXe14OYTN"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/0h702IKOKSC04M0w35Itu4"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Vesper Remixed pt. 3",
         "url": "https://open.spotify.com/album/4lVmOFF3EYW9qa4ei4oju5"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/6B7i07DIQnXuuCvhRFPGYW"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "The Cut Off",
         "url": "https://open.spotify.com/album/1GX9uUCYb60Dv7WxIf0ICY"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/46MKeWVEgenkvQjJ6dfioU"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Ellen Allien Presents We Are Not Alone, Pt. 5",
         "url": "https://open.spotify.com/album/08xWYY1b6jvWeYG4IsKPZd"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/1oxOD0NAaiPDWlDFsWYOIo"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Dynamite Dancer",
         "url": "https://open.spotify.com/album/74On9VPvI9Gc3a05CccZN1"
@@ -885,7 +901,7 @@
       "url": "https://open.spotify.com/track/64UBK0tKa0FE4F7Ny39pmF"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Infrarouge",
         "url": "https://open.spotify.com/album/6HvjznTfyQdDxOdjcFfiKY"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/2XTvnj0jrCKzk87OrJVTn2"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Riki",
         "url": "https://open.spotify.com/album/6TIk4aw4QLGynYDLH94jJj"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/76bjcDazyMvlO8lTYL4pk3"
     },
     {
-      "added_at": "2024-04-12 10:11:50",
+      "added_at": "2024-04-19 07:21:09",
       "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/52XUmrCRdJYuoLUAnTNRWW"

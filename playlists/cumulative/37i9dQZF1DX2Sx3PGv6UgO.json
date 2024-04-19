@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "Acers Heights",
-        "url": "https://open.spotify.com/album/7uqa7ovzhMfbw0aKNWiY0d"
+        "url": "https://open.spotify.com/album/3tpLWSbCCr2DghVwPL0qW7"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224052,
+      "name": "Acers Heights",
+      "url": "https://open.spotify.com/track/0bF6CXsKybI2FXRRrl5vpL"
+    },
+    {
+      "album": {
+        "name": "Acers Heights",
+        "url": "https://open.spotify.com/album/7uqa7ovzhMfbw0aKNWiY0d"
+      },
+      "artists": [
+        {
+          "name": "DonPerro",
+          "url": "https://open.spotify.com/artist/746NiiXHGjRZbLjKxm4Q7W"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 224052,
       "name": "Acers Heights",
       "url": "https://open.spotify.com/track/7N2N81qsnHqk97n7XYKXWk"
@@ -70,10 +88,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175841,
       "name": "Askamaya",
       "url": "https://open.spotify.com/track/2w3DLrgR7d1BO1REYUuMEM"
+    },
+    {
+      "album": {
+        "name": "Askamaya",
+        "url": "https://open.spotify.com/album/4orIXhvyTMGA85jTvSajYB"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175960,
+      "name": "Askamaya",
+      "url": "https://open.spotify.com/track/54MONNKu7yBK7w9LBVQ7vx"
     },
     {
       "album": {
@@ -434,10 +470,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229633,
       "name": "For Life",
       "url": "https://open.spotify.com/track/2RCf3uUVix6XzRU0Z8quJs"
+    },
+    {
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/2wMrwELYgATkTTKOhISUST"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229633,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/5MTqiEyaAaqEpyRQ9wGFD5"
     },
     {
       "album": {
@@ -503,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -514,7 +586,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
@@ -569,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Mad over You",
+        "url": "https://open.spotify.com/album/17GzyxRcs0DUg2MnmQfzhX"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215906,
+      "name": "Mad over You",
+      "url": "https://open.spotify.com/track/56FUvV0o4FVhiKQPc6crQ7"
+    },
+    {
+      "album": {
         "name": "Mad Over You",
         "url": "https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78"
       },
@@ -580,7 +670,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216058,
       "name": "Mad Over You",
       "url": "https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL"
@@ -682,10 +772,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210746,
       "name": "Nice For What",
       "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "album": {
+        "name": "Nice For What",
+        "url": "https://open.spotify.com/album/1ZGxGu4fMROqmZsFSoepeE"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210925,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN"
     },
     {
       "album": {
@@ -704,10 +812,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "album": {
+        "name": "No Guidance (feat. Drake)",
+        "url": "https://open.spotify.com/album/1ypdCwJwVaUHuFTnvvQbMX"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/7FEwp8BavoEVE3AnxJDchc"
     },
     {
       "album": {
@@ -722,10 +852,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
     },
     {
       "album": {
@@ -740,10 +888,50 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185898,
       "name": "On the Low",
       "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
+    },
+    {
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/3HMtIP2EWOcgs8BbiQgjW2"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185898,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/1aXxi9PSxNV8vI5BruR7vv"
+    },
+    {
+      "album": {
+        "name": "On Your Body (feat. Meetsims) - Single",
+        "url": "https://open.spotify.com/album/3MOr7GWaCGoIn05y7SF5iO"
+      },
+      "artists": [
+        {
+          "name": "Chinx",
+          "url": "https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS"
+        },
+        {
+          "name": "MeetSims",
+          "url": "https://open.spotify.com/artist/0TdAVW3jEqvj992p0ca4tI"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187146,
+      "name": "On Your Body (feat. Meetsims)",
+      "url": "https://open.spotify.com/track/6FbWbpNs9dRxyhXKW4DmPI"
     },
     {
       "album": {
@@ -784,7 +972,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187930,
       "name": "On Your Body (feat. Meetsims)",
       "url": "https://open.spotify.com/track/14QbwSJypBU7ZM3yZzqnk9"
@@ -828,10 +1016,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375400,
       "name": "Outstanding - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Gap Band",
+        "url": "https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376640,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE"
     },
     {
       "album": {
@@ -872,10 +1078,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245480,
       "name": "Party (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/7cvVgT5RXbcUo9Qw4nq31D"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245480,
+      "name": "Party (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/5rJsYzKWZpdZwrS4Yj7U9A"
     },
     {
       "album": {

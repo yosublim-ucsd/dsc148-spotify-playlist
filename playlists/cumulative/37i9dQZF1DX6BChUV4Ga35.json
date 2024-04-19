@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186080,
       "name": "ABC Animals",
       "url": "https://open.spotify.com/track/3kjsci8HHMLnxb9tE4UYes"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186080,
       "name": "ABC Animals",
       "url": "https://open.spotify.com/track/45qqH36Ghr1SvKbT7wxrBn"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 73363,
       "name": "Alice the Camel",
       "url": "https://open.spotify.com/track/16fID3FglbDNkn425bPgJe"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 73363,
       "name": "Alice the Camel",
       "url": "https://open.spotify.com/track/6N1hxicCMjYE4hUP7UETLz"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176297,
       "name": "Animal Bop",
       "url": "https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176297,
       "name": "Animal Bop",
       "url": "https://open.spotify.com/track/2rtZtv0vrlhfXIeQ7JSgne"
@@ -256,13 +256,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171804,
       "name": "Animal Dance Song",
       "url": "https://open.spotify.com/track/3MHXbXqDZOrVLupLxny45E"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171804,
       "name": "Animal Dance Song",
       "url": "https://open.spotify.com/track/4FwDRTQdk1FmiVTCLLeeKn"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152022,
       "name": "Animal Sounds Song",
       "url": "https://open.spotify.com/track/1GZLVOiMleNK19yYOHSWTE"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152022,
       "name": "Animal Sounds Song",
       "url": "https://open.spotify.com/track/1Y6yUVFfvlWmkt9D227NAL"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 77227,
       "name": "Anthony Ant",
       "url": "https://open.spotify.com/track/2eV2lqEUYEX8qnbKS0Vm3F"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 77227,
       "name": "Anthony Ant",
       "url": "https://open.spotify.com/track/5ZGAcHR3u41Poz8htUrIYT"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100909,
       "name": "Ants Go Marching",
       "url": "https://open.spotify.com/track/2DuVZNALyo1SpBrOOUB1RR"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 100909,
       "name": "Ants Go Marching",
       "url": "https://open.spotify.com/track/6gZI9dXzOHhs0G6JPUrwU8"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108410,
       "name": "At the Zoo",
       "url": "https://open.spotify.com/track/57ocGtdjzazXaV0HRxTug1"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 108410,
       "name": "At the Zoo",
       "url": "https://open.spotify.com/track/7G7x8nNHG5WKbNh0FQ2WOB"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244626,
       "name": "Bug Out",
       "url": "https://open.spotify.com/track/3QUfPDdx2scGtqqXhN4JU3"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 244626,
       "name": "Bug Out",
       "url": "https://open.spotify.com/track/5YY2Em0TLlczXmkTsuwKj6"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 63942,
       "name": "Chicken Bop",
       "url": "https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 63942,
       "name": "Chicken Bop",
       "url": "https://open.spotify.com/track/6kQHXSpfVv6pemkrMmCdXs"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 91836,
       "name": "Counting Ducks Song",
       "url": "https://open.spotify.com/track/2Ec32B6l4fpntU6ZpcPb6A"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 91836,
       "name": "Counting Ducks Song",
       "url": "https://open.spotify.com/track/2XGBwiSqhsW9q8pW4AidEg"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 78750,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/2RsQZgQHJw9hyd9QUGRu6Z"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 78750,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/52YD3sS5nlxobEQMFIqHTQ"
@@ -1081,8 +1081,8 @@
     },
     {
       "album": {
-        "name": "Kids Road Trip",
-        "url": "https://open.spotify.com/album/6yx2Pda5LExOqJvJTkUfBe"
+        "name": "best of Canzoni per Bambini",
+        "url": "https://open.spotify.com/album/71osmZEAbGmgATVSk4bcua"
       },
       "artists": [
         {
@@ -1095,25 +1095,25 @@
       "date_removed": null,
       "duration_ms": 99533,
       "name": "Five Little Monkeys",
-      "url": "https://open.spotify.com/track/6JXrKmSeYSM4AhmJMO34fd"
+      "url": "https://open.spotify.com/track/1Cx3wEBRVnepDsjbOFbFzO"
     },
     {
       "album": {
-        "name": "best of Canzoni per Bambini",
-        "url": "https://open.spotify.com/album/71osmZEAbGmgATVSk4bcua"
+        "name": "Kids Road Trip",
+        "url": "https://open.spotify.com/album/6yx2Pda5LExOqJvJTkUfBe"
       },
       "artists": [
         {
-          "name": "Cooltime Kids",
+          "name": "Cooltime",
           "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
         }
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": "2024-04-19",
       "duration_ms": 99533,
       "name": "Five Little Monkeys",
-      "url": "https://open.spotify.com/track/1Cx3wEBRVnepDsjbOFbFzO"
+      "url": "https://open.spotify.com/track/6JXrKmSeYSM4AhmJMO34fd"
     },
     {
       "album": {
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196097,
       "name": "Horses",
       "url": "https://open.spotify.com/track/4gRZnsj0jNmToYbAYNccM2"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196097,
       "name": "Horses",
       "url": "https://open.spotify.com/track/34Bu6OvstZDD2jUJ7M4N9C"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 73346,
       "name": "How Much Is That Doggie in the Window?",
       "url": "https://open.spotify.com/track/1aY4mQnVzo2xNLi2RhNDM5"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 73346,
       "name": "How Much Is That Doggie in the Window?",
       "url": "https://open.spotify.com/track/6XMLnVTA2ZNLuucfwszh5s"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 31906,
       "name": "I'm A Cow",
       "url": "https://open.spotify.com/track/1WeI7KjHAp0X1vOPsNPFYO"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 31906,
       "name": "I'm a Cow",
       "url": "https://open.spotify.com/track/1qFTAz02KIOglffJJ0R3wW"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 126505,
       "name": "Moles, Hounds, Bears, Bees and Hares",
       "url": "https://open.spotify.com/track/4NbOutBgrVh1rSHfTSYICQ"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126505,
       "name": "Moles, Hounds, Bears, Bees and Hares",
       "url": "https://open.spotify.com/track/1OKkJX79kSL5RYB0A0c5zi"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142278,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/0sju4xli0oRgqD92eRbt0H"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142278,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/2TiFPDD2YaO6Okmqo1ZncT"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154440,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155146,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/4eQNRvoGOGJR8o7m4lLcBz"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 106142,
       "name": "Och Aye G'Nu And Kangaroo",
       "url": "https://open.spotify.com/track/75Kw6pYjna6mSsqc10VW5S"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106142,
       "name": "Och Aye G'nu and Kangaroo",
       "url": "https://open.spotify.com/track/7HQIETls4DLjPePUrewFC8"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 44299,
       "name": "Panda",
       "url": "https://open.spotify.com/track/1jmJZ6zmmonqdjE0ts9kV6"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 44299,
       "name": "Panda",
       "url": "https://open.spotify.com/track/5U51BJU0ncHHsLw9raErsS"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 104716,
       "name": "Sleeping Bunnies",
       "url": "https://open.spotify.com/track/2pkSgoHquuHkk8wU37atKb"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104716,
       "name": "Sleeping Bunnies",
       "url": "https://open.spotify.com/track/3e553JEY58ETHPCHFuyp0x"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 62358,
       "name": "Spider Monkey",
       "url": "https://open.spotify.com/track/4j5i8MslfFh9gNjniurF34"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 62358,
       "name": "Spider Monkey",
       "url": "https://open.spotify.com/track/4mtAzWPx9X4Jm5M2G9GjXM"
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 92333,
       "name": "The Lion, King of the Jungle",
       "url": "https://open.spotify.com/track/649v9vfqhP2jVL1QL0NVsA"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 92333,
       "name": "The Lion, King Of The Jungle",
       "url": "https://open.spotify.com/track/6dgLHP9sceDeTET9g6StW5"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97500,
       "name": "This Little Piggy",
       "url": "https://open.spotify.com/track/2jg0nkV5VvKEWdrn1GqmTv"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 97500,
       "name": "This Little Piggy",
       "url": "https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 117391,
       "name": "What Is a Bird?",
       "url": "https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117391,
       "name": "What is a Bird?",
       "url": "https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 106602,
       "name": "When You're Living In The Zoo",
       "url": "https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106602,
       "name": "When You're Living in the Zoo",
       "url": "https://open.spotify.com/track/5ynCc46zFCrekNW4lbe0PI"

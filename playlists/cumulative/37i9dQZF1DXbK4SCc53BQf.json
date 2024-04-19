@@ -24,7 +24,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "22",
       "url": "https://open.spotify.com/track/2Tqx4GFD1TfbOwBHZgltwM"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219271,
       "name": "Agua viva",
       "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312666,
       "name": "Al Taller del Maestro",
       "url": "https://open.spotify.com/track/5OX1HvUXMIgUg507al1WbW"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 312666,
       "name": "Al Taller del Maestro",
       "url": "https://open.spotify.com/track/7kJa3VuFpzlbzqHh0Jd54L"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207333,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 297580,
       "name": "Autor",
       "url": "https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235666,
       "name": "Batugozo",
       "url": "https://open.spotify.com/track/0PfoClrD2Aa4pubTEmcaR6"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235681,
       "name": "Batugozo",
       "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223516,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198008,
       "name": "De Fiesta",
       "url": "https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 198306,
       "name": "De Fiesta (feat. Alex Zurdo)",
       "url": "https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 206379,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/58soAAGUis6dWUAir2CVY9"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232254,
       "name": "Dios Te Bendiga",
       "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Salsa De Amor Vol. 4",
+        "url": "https://open.spotify.com/album/2thWavVdha911NOv0EB2VQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271466,
+      "name": "El Milagro De Tu Amor",
+      "url": "https://open.spotify.com/track/6QS38Fn4nJfpeQzYnXl9iD"
+    },
+    {
+      "album": {
         "name": "Dise\u00f1o Original",
         "url": "https://open.spotify.com/album/1k2T2Xm7K8XRGQX6UZNTbg"
       },
@@ -462,7 +480,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251333,
       "name": "Empezar de Nuevo",
       "url": "https://open.spotify.com/track/6VFytIFJB96QQWVIYUkjPW"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251333,
       "name": "Empezar De Nuevo",
       "url": "https://open.spotify.com/track/6up8jeeEqbBeMMDTDESD3l"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278891,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/1nqJ147DenACjQsFw2FWGN"
@@ -560,7 +578,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 278891,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 216351,
       "name": "Hora de Cantar",
       "url": "https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT"
@@ -708,7 +726,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 228089,
       "name": "La Misma Mentira",
       "url": "https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228111,
       "name": "La Misma Mentira",
       "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 199506,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199524,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214785,
       "name": "No Puedo Ni Quiero",
       "url": "https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 212080,
       "name": "No Te Cambiar\u00e9",
       "url": "https://open.spotify.com/track/3gsq024FJzXqC8HqykxMcM"
@@ -908,7 +926,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "No Vaya a Ser",
       "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231003,
       "name": "Ritmo del Cielo",
       "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251013,
       "name": "Si Estoy Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190290,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 241960,
       "name": "Soy Jose",
       "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282984,
       "name": "Tengo un Nuevo Amor - Salsa",
       "url": "https://open.spotify.com/track/3q7EWUE6DHVF3MUPc5kx5X"
@@ -1362,13 +1380,13 @@
       },
       "artists": [
         {
-          "name": "Jerry Hernandez-Zabala",
-          "url": "https://open.spotify.com/artist/1HJMdZQ2zO6NFFXni6JKOK"
+          "name": "JerryHernz",
+          "url": "https://open.spotify.com/artist/4g5EJ3pOAuYx3euB75HQjT"
         }
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 248944,
       "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
       "url": "https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236874,
       "name": "Tu Voz Hablar",
       "url": "https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 236874,
       "name": "Tu Voz Hablar",
       "url": "https://open.spotify.com/track/4ehRzyVzgGAVbHcK8x6JyM"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 191549,
       "name": "Va Cae",
       "url": "https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 303576,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/0fZAqx5OPbcTjjJi41TWqp"
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307957,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/4oO60kTXH6bi1EmeVweJEl"
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262533,
       "name": "Vuelvo a Nacer",
       "url": "https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma"
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 257650,
       "name": "Yo Te Adoro",
       "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224783,
       "name": "Yo Te Prometo",
       "url": "https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO"

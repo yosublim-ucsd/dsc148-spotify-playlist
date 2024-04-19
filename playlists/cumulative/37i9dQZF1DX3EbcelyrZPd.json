@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. ",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Marioo",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 212583,
       "name": "BamBam",
       "url": "https://open.spotify.com/track/5WSou7in5PORzEBOO9hPxa"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211408,
       "name": "BamBam",
       "url": "https://open.spotify.com/track/3y0tHlRrHAOCGfpqglrk7Q"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264853,
       "name": "Calling",
       "url": "https://open.spotify.com/track/3VpMYV059tiJxLaoGfa197"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216724,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 216724,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175417,
       "name": "Give Up",
       "url": "https://open.spotify.com/track/0axpvfQ41L0RKwJzXVRpel"
@@ -1800,6 +1800,24 @@
       "duration_ms": 158000,
       "name": "Hadithi (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn"
+    },
+    {
+      "album": {
+        "name": "Hakuna Matata",
+        "url": "https://open.spotify.com/album/5wy5yT8ayAF7IsAB3DHbJt"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180530,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/1lenhwtsu7WRv847HumXE0"
     },
     {
       "album": {
@@ -3160,7 +3178,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
@@ -4533,6 +4551,28 @@
     },
     {
       "album": {
+        "name": "Navela",
+        "url": "https://open.spotify.com/album/5gG3l86Pbu2lD8HqIWbxbk"
+      },
+      "artists": [
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283074,
+      "name": "Navela",
+      "url": "https://open.spotify.com/track/4RgVsaAOHZvQg44wsntv41"
+    },
+    {
+      "album": {
         "name": "Nawaza",
         "url": "https://open.spotify.com/album/5d2lTlDVkULcfTMS7JoWYz"
       },
@@ -4570,7 +4610,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242123,
       "name": "Ndembe Ndembe",
       "url": "https://open.spotify.com/track/4a6tYINVVptF29Lc8McUHl"
@@ -4596,7 +4636,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 242123,
       "name": "Ndembe Ndembe",
       "url": "https://open.spotify.com/track/6j2HEYoVmkqzyaAqs6sopH"
@@ -4826,7 +4866,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209632,
       "name": "Nikilewa",
       "url": "https://open.spotify.com/track/1qcGEe6axTplnCkOGnztSm"
@@ -5677,6 +5717,28 @@
     },
     {
       "album": {
+        "name": "Romeo (feat. Zuchu)",
+        "url": "https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP"
+      },
+      "artists": [
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206604,
+      "name": "Romeo (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl"
+    },
+    {
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/6iM4dLWcqY4tKXdxRj6LKG"
       },
@@ -5974,7 +6036,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 207857,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/3XjwNTC4fNcNi3HE0wh3qv"
@@ -5996,7 +6058,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207857,
       "name": "Shisha (feat. Mr. Nice)",
       "url": "https://open.spotify.com/track/1eqeatEHbCJfO1EsbPlA2L"
@@ -7609,6 +7671,24 @@
     },
     {
       "album": {
+        "name": "Wololo",
+        "url": "https://open.spotify.com/album/75wI90vteHYUkb6tP4bOSA"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "Wololo",
+      "url": "https://open.spotify.com/track/2T3VV5Z3JkWLQl9qEAvqXd"
+    },
+    {
+      "album": {
         "name": "Made For Us",
         "url": "https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR"
       },
@@ -7726,7 +7806,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319285,
       "name": "Yaya (feat. Diamond Platnumz & Jux)",
       "url": "https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf"

@@ -5,18 +5,18 @@
   "tracks": [
     {
       "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
-        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
+        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
       },
       "artists": [
         {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
           "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
         }
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 1547546,
       "name": "#4\u3010\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3\u3011  \u6238\u8c37\u83ca\u4e4b\u4ecb\u00d7\u5742\u7530\u5c06\u543e\u300c\u53f0\u672c\u3092\u6697\u8a18\u3057\u3066\u81e8\u3093\u3060\u30b7\u30fc\u30f3\u3068\u306f\u2026\uff1f\u300d",
       "url": "https://open.spotify.com/episode/2whKtBEufvm8OyaEejUDFa"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208964,
       "name": "FightSong",
       "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207266,
       "name": "In the Back Room",
       "url": "https://open.spotify.com/track/24R0kasnPe3126wn3QRTlz"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132295,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 208964,
       "name": "\u30d5\u30a1\u30a4\u30c8\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 132295,
       "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
       "url": "https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH"

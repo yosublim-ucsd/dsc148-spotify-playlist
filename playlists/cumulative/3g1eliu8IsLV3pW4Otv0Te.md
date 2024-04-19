@@ -4,7 +4,7 @@
 
 > 
 
-194 songs - 13 hr 36 min
+196 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Lava Lamp](https://open.spotify.com/track/4W64l7GktcWRZhQWHDoKaF) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Songs4u](https://open.spotify.com/album/2qNtWJtvAT9fZ77NntmnLi) | 5:08 | 2019-04-07 |  |
 | [Lazy Eye](https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Singles Collection](https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv) | 5:54 | 2019-01-17 |  |
 | [Leave the Lights On \(Morgan Page vs Pills Remix\) \[feat\. Meiko\]](https://open.spotify.com/track/76kjk6VEvz1IWxQyLQfJzI) | [Pills](https://open.spotify.com/artist/1NgrNSrig5dsYileCEdnjy) | [Flex, Stretch & Sex](https://open.spotify.com/album/4GjuCJU48DrAXt44HRvkYO) | 2:41 | 2016-01-14 |  |
+| [Legends](https://open.spotify.com/track/2MX8V4DW78R3tQruBy9VJt) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/7hDMgGXdy0x8hDbtOHIS5j) | 3:12 | 2024-04-18 |  |
 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 | 2016-06-09 |  |
 | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2) | 3:35 | 2020-02-20 |  |
 | [Letting Go \(feat\. Amelia Rose\)](https://open.spotify.com/track/1ohELWVOOnAU2kP0va56mu) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Letting Go \(feat\. Amelia Rose\)](https://open.spotify.com/album/5Lj0ipuLZtTLkI9bDk32tq) | 5:15 | 2016-10-05 |  |
@@ -180,6 +181,7 @@
 | [Traveller](https://open.spotify.com/track/6YvswaIDn1zTyYssiIlRjN) | [Melano](https://open.spotify.com/artist/3ccMUmxnP7Poo48pJXu6X7) | [Traveller](https://open.spotify.com/album/6GOKjjEVeozB5eD3zQeNN7) | 3:29 | 2016-09-07 |  |
 | [Trndsttr \(feat\. M\. Maggie\) \- Lucian Remix](https://open.spotify.com/track/5LZQ5s0kRZS9nBSd1xLK7U) | [Black Coast](https://open.spotify.com/artist/4JMdvZoXArDVuMNNelKmjo), [M\. Maggie](https://open.spotify.com/artist/3jaknADFL7EOn3lSRneM7v), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Trndsttr \(feat\. M\. Maggie\) \[Lucian Remix\]](https://open.spotify.com/album/5q3vgbTbWJut1Go3qzVgya) | 2:59 | 2016-09-19 |  |
 | [True Forever \- Original Mix](https://open.spotify.com/track/6FrB35O4gIBKgiWsODZJDl) | [Areon](https://open.spotify.com/artist/3thn9GBEwGrS96deJ52HSc), [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD) | [True Forever / Among The Skies](https://open.spotify.com/album/1NlfTvXVOhY0SpaMsMiM1S) | 3:07 | 2016-01-14 |  |
+| [True Love](https://open.spotify.com/track/1lXHSDFD4ljZLyLB58hpvd) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:28 | 2024-04-18 |  |
 | [Truth](https://open.spotify.com/track/26yGxHiLkXJkQ7FsmTGfod) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Monstercat 010 \- Conquest](https://open.spotify.com/album/2A49vgoPAzzEDY07MGT4dg) | 5:15 | 2016-06-15 |  |
 | [Truth \(Dabin Remix\)](https://open.spotify.com/track/0ogrMxcNZc3iRxYwMuKe6M) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Monstercat 013 \- Awakening](https://open.spotify.com/album/3WMELssaZMsFbItfy1XnRe) | 5:12 | 2016-10-05 |  |
 | [U Got That](https://open.spotify.com/track/6raUUjOswDxI6c4ELU0KnQ) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [U Got That](https://open.spotify.com/album/53TgsMdAWXNmBx7BJMJiJz) | 3:07 | 2019-08-03 |  |

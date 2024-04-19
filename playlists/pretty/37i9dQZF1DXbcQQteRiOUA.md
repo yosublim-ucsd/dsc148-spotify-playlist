@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcQQteRiOUA.md) - [plain]
 
 > <a href="spotify:artist:2C0q6kKsOqXe490AYXubeA">Dish Dash</a>'s favorite tracks\. Updated regularly\. Curated by Dish Dash\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,370 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,400 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcQQteRiOUA.md) - [plain]
 | 6 | [Disko Luv](https://open.spotify.com/track/3S3dUBSi2dahXcWM1CyIL6) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Disko Luv](https://open.spotify.com/album/4ZMat81ejgkMk3UGR1Hukz) | 3:25 |
 | 7 | [Silence](https://open.spotify.com/track/3syqlxxVd03ji1JpQsKWLg) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Maurice Kaar](https://open.spotify.com/artist/4Tj0xN2fUJ8nxZEq5ikSRa) | [There's Another Me](https://open.spotify.com/album/6f7x7nIaWoMPxMhciUQsak) | 3:50 |
 | 8 | [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 |
-| 9 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
+| 9 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
 | 10 | [Wala Ala Balo Edit](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo Edit](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 |
 | 11 | [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 |
 | 12 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 |
-| 13 | [Desert Sun](https://open.spotify.com/track/5ho09ZAulykFu0SOw0IFjn) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciouness Pt\. VI](https://open.spotify.com/album/4ufQcFRJtuzNHDx2Kpjax7) | 5:17 |
+| 13 | [Desert Sun](https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:17 |
 | 14 | [Shoft Alhala \- Vitess Remix](https://open.spotify.com/track/43is7Z2TaXb3ZrkAC8wmNP) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Vitess](https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui) | [Shoft Alhala \(Vitess Remix\)](https://open.spotify.com/album/7nsAh1MY1QlYSBLzAEWZ8j) | 5:35 |
 | 15 | [Blunts Rolled](https://open.spotify.com/track/3vm1jM6fXaWPXoNaLq8tH6) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB) | [Blunts Rolled](https://open.spotify.com/album/4HP2yvRRSp8Recvoq8XiBt) | 4:27 |
 | 16 | [Symphony](https://open.spotify.com/track/2RramNNUtQJYAVE8ONctgQ) | [Sokkary](https://open.spotify.com/artist/2GF4kA68X5SbOFxlTHP2Q6) | [Symphony](https://open.spotify.com/album/6mkiTCa2Hmdzy4ut9aUrpS) | 7:56 |

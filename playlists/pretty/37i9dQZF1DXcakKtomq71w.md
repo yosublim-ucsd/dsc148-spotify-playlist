@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,656 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,687 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 17 | [Who Loves The Sun \- Danny Faber Club Edit](https://open.spotify.com/track/2SESRQCWtugTRKbBnleYhN) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Danny Faber](https://open.spotify.com/artist/7qOGCTcYZ11W2e7i9LQ49q) | [Who Loves The Sun \(Danny Faber Club Edit\)](https://open.spotify.com/album/5P2WL7xmlCkjDTxXS9SKPy) | 6:12 |
 | 18 | [THENA](https://open.spotify.com/track/51uYK67ibD34UeJc63pAeU) | [Jay Fase](https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd) | [THENA](https://open.spotify.com/album/4DWJB7IeNbj2DBMR4ToDvR) | 3:48 |
 | 19 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
-| 20 | [What Is Real \- Deep in the Playa Mix](https://open.spotify.com/track/2VSGjw9ZylEcrf8uzEsvwi) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv), [RJLA](https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf) | [Blisss Remixes, Pt\. 1](https://open.spotify.com/album/2olR9rIMIo9WJGoMVwZJpt) | 8:17 |
+| 20 | [What Is Real \- Deep in the Playa Mix](https://open.spotify.com/track/3ADJRvBeReF86Rnq74atg4) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv), [RJLA](https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf) | [Blisss Remixes Pt\. 1](https://open.spotify.com/album/2uYOjzmPFKmCnMaepi5XKq) | 8:17 |
 | 21 | [Nothing On Me](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [APACHE \(FR\)](https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Nothing On Me](https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS) | 4:02 |
 | 22 | [Soy Una Nube \- Bosq Remix](https://open.spotify.com/track/3il9P7OQ9VJKoo3w1hpDoy) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Soy Una Nube \(Bosq Remix\) \- Single](https://open.spotify.com/album/1SPKVznHu8hYWHhNNUaSmT) | 5:47 |
 | 23 | [Boa Noite](https://open.spotify.com/track/6BCizRXYVjlVsTHWporI29) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [Boa Noite](https://open.spotify.com/album/2bxlAdHsTpyuo1eWjMMuMc) | 2:46 |

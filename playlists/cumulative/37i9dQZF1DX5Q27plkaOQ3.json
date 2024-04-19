@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Borgore",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Wooli",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -148,6 +148,28 @@
       "duration_ms": 175135,
       "name": "ACHROMATIC (YOI)",
       "url": "https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa"
+    },
+    {
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
     },
     {
       "album": {
@@ -1272,6 +1294,28 @@
       "duration_ms": 230400,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2tb1wD0ePjDJBQNUla0foR"
+    },
+    {
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/38UKv3JAUWZdCmMb1ftQr2"
+      },
+      "artists": [
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        {
+          "name": "Tyro",
+          "url": "https://open.spotify.com/artist/0pkUxa3K2O8IzRXqWHytf1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6FDktxGjUwtSQdkNcKjy7y"
     },
     {
       "album": {
@@ -3011,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "DIRTY SOUTH",
+        "url": "https://open.spotify.com/album/5a7tbIK8SwlsJVmf4fygaf"
+      },
+      "artists": [
+        {
+          "name": "Rated R",
+          "url": "https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174879,
+      "name": "DIRTY SOUTH",
+      "url": "https://open.spotify.com/track/0Fj8IYC9a7dVMXq3j0wOn9"
+    },
+    {
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A"
       },
@@ -3786,7 +3848,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225103,
       "name": "Escape - Subtronics Remix",
       "url": "https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM"
@@ -4060,7 +4122,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260004,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/2ECMO2A2qQh6CMdxT8fHGO"
@@ -4152,7 +4214,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "FINAL BOSS",
       "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA"
@@ -5662,7 +5724,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194571,
       "name": "I Need You - Champagne Drip Remix",
       "url": "https://open.spotify.com/track/1EWLeVwvL6fQyNAdI2bf8i"
@@ -7002,10 +7064,6 @@
           "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         },
         {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        },
-        {
           "name": "EDDIE",
           "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
         }
@@ -7604,7 +7662,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130100,
       "name": "No Rules",
       "url": "https://open.spotify.com/track/0j78Fsqk81u0NeqbmSiBQQ"
@@ -7644,6 +7702,24 @@
       "duration_ms": 547285,
       "name": "No Rules",
       "url": "https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1"
+    },
+    {
+      "album": {
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/6njyxhqm4g489876fqE1lF"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u"
     },
     {
       "album": {
@@ -7986,7 +8062,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 140800,
       "name": "Open Up The Pit",
       "url": "https://open.spotify.com/track/3MkqqXYys0qI4dMuHnSYXa"
@@ -8253,6 +8329,28 @@
     },
     {
       "album": {
+        "name": "Play With Fire (MUST DIE! Remix)",
+        "url": "https://open.spotify.com/album/6WSabbkOTlWYcvdCHbaMfx"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Play With Fire - MUST DIE! Remix",
+      "url": "https://open.spotify.com/track/2M1IYbGBsf4z0aB7KY20C9"
+    },
+    {
+      "album": {
         "name": "Playing With Fire",
         "url": "https://open.spotify.com/album/1aEjxEcvjm0afnrOlIqfZV"
       },
@@ -8308,7 +8406,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123415,
       "name": "Pleasure Seeker - Virtual Riot Remix",
       "url": "https://open.spotify.com/track/3Jt8oGA1MOaoDNDOjobe8n"
@@ -8828,7 +8926,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245536,
       "name": "RAD",
       "url": "https://open.spotify.com/track/6fdEHZu9ESPsZ2yc8wKwlP"
@@ -9076,7 +9174,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143673,
       "name": "Restraint",
       "url": "https://open.spotify.com/track/4e4f0d6zswn0ZzqoZ14G8M"
@@ -9950,7 +10048,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223448,
       "name": "Sharp Shooter",
       "url": "https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4"
@@ -12630,6 +12728,28 @@
       "duration_ms": 171200,
       "name": "Who's In Charge",
       "url": "https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd"
+    },
+    {
+      "album": {
+        "name": "Wont Back Down",
+        "url": "https://open.spotify.com/album/5Gsm3206E3upi1mhMtQpH7"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "zoska",
+          "url": "https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "Wont Back Down",
+      "url": "https://open.spotify.com/track/51CvI6GzSkPpeInPgjs998"
     },
     {
       "album": {

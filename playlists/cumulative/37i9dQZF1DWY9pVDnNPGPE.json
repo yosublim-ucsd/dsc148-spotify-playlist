@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255297,
       "name": "A Call from My Dream",
       "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 191906,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196040,
       "name": "Burn the Memory (Feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/4FvDB8RKvxZFpKljmOalwY"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174250,
       "name": "DA DA!",
       "url": "https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N"
@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65509,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/0XHWHGSfcicPuMXes5vnwX"
+    },
+    {
+      "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
         "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
       },
@@ -508,7 +526,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 204266,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
@@ -552,7 +570,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198666,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf"
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196666,
       "name": "Je N'aime Que Toi",
       "url": "https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 220400,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
@@ -756,7 +774,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166546,
       "name": "Mm Mm (Prod. by Cosmic Boy)",
       "url": "https://open.spotify.com/track/5FQZK2QsHAnu6i2tHpbwpP"
@@ -800,6 +818,24 @@
       "duration_ms": 158045,
       "name": "No More (Prod. Zion.T)",
       "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
+    },
+    {
+      "album": {
+        "name": "982",
+        "url": "https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO"
+      },
+      "artists": [
+        {
+          "name": "Jehwwn",
+          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "Ordinary Ending",
+      "url": "https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA"
     },
     {
       "album": {
@@ -876,7 +912,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178232,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU"
@@ -894,7 +930,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 174800,
       "name": "Pink!",
       "url": "https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM"
@@ -977,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+    },
+    {
+      "album": {
         "name": "SummerSweet",
         "url": "https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU"
       },
@@ -988,7 +1042,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150250,
       "name": "SummerSweet",
       "url": "https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ"
@@ -1006,7 +1060,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
@@ -1082,7 +1136,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 219653,
       "name": "Twenty (Prod. Jung Key)",
       "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
@@ -1100,7 +1154,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 167733,
       "name": "Wednesday",
       "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
@@ -1122,10 +1176,36 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "album": {
+        "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
+        "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182833,
+      "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
+      "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY9pVDnNPGPE"

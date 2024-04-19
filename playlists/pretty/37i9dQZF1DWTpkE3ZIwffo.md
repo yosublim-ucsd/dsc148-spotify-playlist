@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 
 > Te portaste mal\. Foto: BM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,513 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,732 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 | 3 | [Dale Mecha](https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dale Mecha](https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F) | 2:30 |
 | 4 | [Le doy perreo](https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Le doy perreo](https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn) | 2:18 |
 | 5 | [DISCULPE OFICIAL](https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju) | [DISCULPE OFICIAL](https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg) | 2:02 |
-| 6 | [Ven Mami](https://open.spotify.com/track/6pildotJolQfz6sS66RG6y) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7DUmakEvCrPVq013IrGiHD) | 2:51 |
+| 6 | [Ven Mami](https://open.spotify.com/track/7mMmRGHCrxF8T3opGtrpHh) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7vc0kLosxs4uXJlnxuaN4D) | 2:51 |
 | 7 | [Traidora](https://open.spotify.com/track/3o6dbeyOY537ZCo6mQfyzp) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Traidora](https://open.spotify.com/album/3cIZmX40NwdOB8snHeuKIi) | 2:16 |
 | 8 | [EN LA CHATA](https://open.spotify.com/track/63xhzDBP3FO6azIjH7DOvD) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [HAGAN CA$0](https://open.spotify.com/album/3jOl0OoDF5DQiWDawReB0I) | 2:18 |
 | 9 | [Con Tu Amiga](https://open.spotify.com/track/0YEEjKSnpzboTA5kKhIaF0) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Con Tu Amiga](https://open.spotify.com/album/4aM90yXOD78LBDhF0jDpE9) | 3:01 |

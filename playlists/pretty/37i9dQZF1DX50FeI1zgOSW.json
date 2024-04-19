@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 9808,
+  "num_followers": 9899,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzE2NDYwOSwwMDAwMDAwMDZlMGNjMzRjNjg5NzNjMzdiNDk0ZmUwOTBlMzIzM2Rl",
+  "snapshot_id": "MTcxMzQ3NzU2NCwwMDAwMDAwMDhjMTM1NTEyMjUzMTczYTk5MWJmMTc3ODEyZTFjZmNj",
   "tracks": [
     {
       "added_at": "2024-02-01 05:32:00",
@@ -55,6 +55,30 @@
       "duration_ms": 214500,
       "name": "Shoe Theriyudha",
       "url": "https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm"
+    },
+    {
+      "added_at": "2024-04-17 11:11:36",
+      "album": {
+        "name": "Kaadal Sollava",
+        "url": "https://open.spotify.com/album/5IHlTtqNG4CAYGCur3BKcc"
+      },
+      "artists": [
+        {
+          "name": "Gagan Baderiya",
+          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
+        },
+        {
+          "name": "Vignesh Jeyapal",
+          "url": "https://open.spotify.com/artist/2R0GcZMKYrKEXyriXaGANA"
+        },
+        {
+          "name": "Sruthy Sasidharan",
+          "url": "https://open.spotify.com/artist/25yRkdjW9bHSoEQhHMAsT8"
+        }
+      ],
+      "duration_ms": 190534,
+      "name": "Kaadal Sollava",
+      "url": "https://open.spotify.com/track/2FarOeJIgevJf3XLK4AYOG"
     },
     {
       "added_at": "2024-02-01 05:32:00",
@@ -145,6 +169,26 @@
       "url": "https://open.spotify.com/track/0ACSHNzNI60yrSb0mJ5OjP"
     },
     {
+      "added_at": "2024-04-18 12:04:32",
+      "album": {
+        "name": "Unnodu Mattum",
+        "url": "https://open.spotify.com/album/28CXiWmKxQAnKhQvUoryzD"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "duration_ms": 168549,
+      "name": "Unnodu Mattum",
+      "url": "https://open.spotify.com/track/1mXQEOOevGsu0xg7J2PiDT"
+    },
+    {
       "added_at": "2024-04-04 11:48:44",
       "album": {
         "name": "KANAVINIL KANDEN",
@@ -199,6 +243,26 @@
       "duration_ms": 214770,
       "name": "Nile Nadiye",
       "url": "https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y"
+    },
+    {
+      "added_at": "2024-04-18 21:59:24",
+      "album": {
+        "name": "Kanmaniye",
+        "url": "https://open.spotify.com/album/2OApM7LsS0c25pXRFhfCSp"
+      },
+      "artists": [
+        {
+          "name": "A.R Sai Shravanya",
+          "url": "https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "duration_ms": 116842,
+      "name": "Kanmaniye",
+      "url": "https://open.spotify.com/track/5NWb5AM9bLVl16uvti29M1"
     },
     {
       "added_at": "2024-03-08 06:09:46",
@@ -748,7 +812,7 @@
       "added_at": "2024-02-01 05:32:00",
       "album": {
         "name": "Thoongaadha",
-        "url": "https://open.spotify.com/album/4eaGW3B0GWRawExF5YPJ6Q"
+        "url": "https://open.spotify.com/album/4v7rbU7QBrOUJ0ZFgXBa7q"
       },
       "artists": [
         {
@@ -758,7 +822,7 @@
       ],
       "duration_ms": 184821,
       "name": "Thoongaadha",
-      "url": "https://open.spotify.com/track/4usPQ4dAROA0WhIU5h3HYR"
+      "url": "https://open.spotify.com/track/4LQA5c88VBjFmsLy4RRD0x"
     },
     {
       "added_at": "2024-02-01 05:32:00",
@@ -800,7 +864,7 @@
       "added_at": "2024-02-01 05:32:00",
       "album": {
         "name": "Boomer Uncle",
-        "url": "https://open.spotify.com/album/4tIElD5GwZ09DgpjkdBuT2"
+        "url": "https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA"
       },
       "artists": [
         {
@@ -814,7 +878,7 @@
       ],
       "duration_ms": 222375,
       "name": "Boomer Uncle",
-      "url": "https://open.spotify.com/track/2b1GmT7aQW5ZfO0KO4VrZz"
+      "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"
     },
     {
       "added_at": "2024-02-01 05:32:00",
@@ -1119,26 +1183,6 @@
     {
       "added_at": "2024-02-01 05:32:00",
       "album": {
-        "name": "Love Aala",
-        "url": "https://open.spotify.com/album/1qqnd5lZvHXYftKidVNbIp"
-      },
-      "artists": [
-        {
-          "name": "MC DEVESH",
-          "url": "https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT"
-        },
-        {
-          "name": "Urban Thozha",
-          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
-        }
-      ],
-      "duration_ms": 167571,
-      "name": "Love Aala",
-      "url": "https://open.spotify.com/track/3hEHVzkcQAGxrORQDdMxyJ"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
         "name": "Neeye",
         "url": "https://open.spotify.com/album/4NjMmesAM5SuvD6yskYzFu"
       },
@@ -1164,7 +1208,7 @@
       "added_at": "2024-02-01 05:32:00",
       "album": {
         "name": "BABY",
-        "url": "https://open.spotify.com/album/3quP6KJkQmzJFgsqs90SQZ"
+        "url": "https://open.spotify.com/album/7mbfRQQQOPFYdHnPdPcYNM"
       },
       "artists": [
         {
@@ -1174,7 +1218,7 @@
       ],
       "duration_ms": 241787,
       "name": "BABY",
-      "url": "https://open.spotify.com/track/1eoGNzdH9PaRwcQzUpzg2N"
+      "url": "https://open.spotify.com/track/7L61JVdJQ5ExbmQ1WSnoPY"
     },
     {
       "added_at": "2024-02-01 05:32:00",
@@ -1275,22 +1319,6 @@
     {
       "added_at": "2024-02-01 05:32:00",
       "album": {
-        "name": "Neethaano",
-        "url": "https://open.spotify.com/album/7jZrNUnwWrqDLjY0AlalNJ"
-      },
-      "artists": [
-        {
-          "name": "Sanathan Shree Krishnan",
-          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
-        }
-      ],
-      "duration_ms": 182732,
-      "name": "Neethaano",
-      "url": "https://open.spotify.com/track/26aVYGxWYPmwFnM5xY4ZO2"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
         "name": "Love Music",
         "url": "https://open.spotify.com/album/0h65C4dCFkyDspKG4xvtfy"
       },
@@ -1311,28 +1339,8 @@
     {
       "added_at": "2024-02-01 05:32:00",
       "album": {
-        "name": "Mudhal Murai Remix",
-        "url": "https://open.spotify.com/album/3orfjlmNbjAWjySPm8yu5Y"
-      },
-      "artists": [
-        {
-          "name": "Bala D Thala",
-          "url": "https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV"
-        },
-        {
-          "name": "Jeruson",
-          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Mudhal Murai Remix",
-      "url": "https://open.spotify.com/track/1NZtPJVOrzRa0evVphoz9M"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
         "name": "Vittu Pogathae",
-        "url": "https://open.spotify.com/album/3p5qiorY1mbwd1VreBAbcU"
+        "url": "https://open.spotify.com/album/4ySIE31IPWCDIxpDBDiEEe"
       },
       "artists": [
         {
@@ -1342,13 +1350,13 @@
       ],
       "duration_ms": 236284,
       "name": "Vittu Pogathae",
-      "url": "https://open.spotify.com/track/6pu4KNePO0edNqetGR8AEb"
+      "url": "https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT"
     },
     {
       "added_at": "2024-02-01 05:32:00",
       "album": {
         "name": "Valapodum Kannala",
-        "url": "https://open.spotify.com/album/6pQWnR2CdyZB3WnGRrkt5j"
+        "url": "https://open.spotify.com/album/7KO1uHv3ZYY2wdNJJbVOxU"
       },
       "artists": [
         {
@@ -1366,13 +1374,13 @@
       ],
       "duration_ms": 207588,
       "name": "Valapodum Kannala",
-      "url": "https://open.spotify.com/track/5wRRwkGsIfywmvFzgF4YN2"
+      "url": "https://open.spotify.com/track/0RfaSAx3yNsRglSucB3mIT"
     },
     {
       "added_at": "2024-02-01 05:32:00",
       "album": {
         "name": "Love Rocket",
-        "url": "https://open.spotify.com/album/50bL13u1oYiYzD8YNpz7DP"
+        "url": "https://open.spotify.com/album/4QRLuH6CpWycgOSdFgCItM"
       },
       "artists": [
         {
@@ -1386,7 +1394,7 @@
       ],
       "duration_ms": 192017,
       "name": "Love Rocket",
-      "url": "https://open.spotify.com/track/62ciz7tjMbFcJ362IvYkIq"
+      "url": "https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA"
     },
     {
       "added_at": "2024-02-01 05:32:00",

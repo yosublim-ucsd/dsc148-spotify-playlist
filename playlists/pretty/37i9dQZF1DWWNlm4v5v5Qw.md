@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: IDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,885 likes - 57 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,909 likes - 57 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 20 | [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 |
 | 21 | [Steppin On Ants](https://open.spotify.com/track/5YDASTvCBw2TcJAchOuojX) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Steppin On Ants](https://open.spotify.com/album/36cZEt9NeWpgB9AYaK7CxI) | 2:17 |
 | 22 | [Hit the Crowd](https://open.spotify.com/track/5RbBo1PdfAuLZpD3FctWcl) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Hit the Crowd](https://open.spotify.com/album/4SR6zUuMlHQwneQdaKaSMI) | 2:19 |
-| 23 | [Stay Strapped \(Freestyle\)](https://open.spotify.com/track/1b9vDo3oHwwVvFTNEilV41) | [Young Crazy](https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv) | [Stay Strapped \(Freestyle\)](https://open.spotify.com/album/5cKumUcW85t7EbRo4z5PlX) | 3:09 |
+| 23 | [Stay Strapped \(Freestyle\)](https://open.spotify.com/track/7csR4532xtoUfTjseCGtx3) | [Young Crazy](https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv) | [Stay Strapped \(Freestyle\)](https://open.spotify.com/album/6bbEEALiA72SvJSdHwB7dl) | 3:09 |
 | 24 | [Stop Shop](https://open.spotify.com/track/5yen8iLIsbC82CXuL6gefp) | [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [Stop Shop](https://open.spotify.com/album/54LVPiWHcOFaIAvfgTlsHJ) | 2:18 |
 | 25 | [B.N.B](https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL) | [LeekoMoney](https://open.spotify.com/artist/03TRS7srPBeikAj9s0OWZZ) | [B.N.B](https://open.spotify.com/album/14o1L3wWJUsxtgKUMkiZUw) | 2:05 |
 | 26 | [Squaaa](https://open.spotify.com/track/1n4yBLplF4XxZSLx1VvbPu) | [Dre Wave$](https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt) | [Squaaa](https://open.spotify.com/album/6ngb0wyK7dWyPUTJ9sd7eE) | 2:45 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 31 | [Still Lit](https://open.spotify.com/track/4Qqnp6THSqgs0XCbDQHJph) | [Q Da Fool](https://open.spotify.com/artist/17kq4sCvn1nVcVvWV9Ribi) | [I'll Be Back](https://open.spotify.com/album/4ZWDx5sAc0PqGs70uNUe8z) | 2:32 |
 | 32 | [Early](https://open.spotify.com/track/7rYZdqQ8AnaRZ6BPa4hYGL) | [A1beam](https://open.spotify.com/artist/5azcshAfQtgPlOOzw2kCvk), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Early](https://open.spotify.com/album/6IBSwD3hXKGV4sO61J0oeb) | 2:35 |
 | 33 | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG) | 3:20 |
-| 34 | [Shooting & Driving](https://open.spotify.com/track/6NlhZkbXhoODUWGB3jtFZj) | [Migo Lee](https://open.spotify.com/artist/1mP33Jk5fMXnfDDBWPwm25) | [Wopskino Bin Laden](https://open.spotify.com/album/3WUFRIq13KZ474GTb5Hzk7) | 2:13 |
+| 34 | [Shooting & Driving](https://open.spotify.com/track/40oVdESGHpngGCnfLd5DVy) | [Migo Lee](https://open.spotify.com/artist/1mP33Jk5fMXnfDDBWPwm25) | [Wopskino Bin Laden](https://open.spotify.com/album/6tVBPOGsnFfa6i8EDfN9br) | 2:13 |
 | 35 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 |
 | 36 | [Studio Junkie](https://open.spotify.com/track/2hnijnBaiR6v7NmvYB3me2) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Studio Junkie](https://open.spotify.com/album/7dgC3SvEf9lxsYhbc27Lwm) | 2:26 |
 | 37 | [Cheeks](https://open.spotify.com/track/45jdyOIqPkuBFNy1jaBxe2) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Cheeks](https://open.spotify.com/album/25u938gsY0Rfm9GTe1MXvu) | 2:50 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 41 | [Keep That Energy](https://open.spotify.com/track/4szyZVsM96NFzVaVPdZ118) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 2:25 |
 | 42 | [Hoodie](https://open.spotify.com/track/7nT5j0GBvAKkz09xpeCztD) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 4:01 |
 | 43 | [black enuff](https://open.spotify.com/track/0L9p0fF3HdxKEvKLaNBM4w) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black enuff](https://open.spotify.com/album/6hm8EXSOCKbRxEypqsmag4) | 2:35 |
-| 44 | [COOKIE](https://open.spotify.com/track/3Gwh2VbVdHbcc4zYdAugt5) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [COOKIE](https://open.spotify.com/album/5XF5NiWOkq6sTMWXpT16in) | 2:31 |
+| 44 | [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 |
 | 45 | [Make da World Slime](https://open.spotify.com/track/3Zk7G4xzxerePKxsa8Gh8q) | [OTR CHAZ](https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx), [Roddy Rackzz](https://open.spotify.com/artist/3ZSeyqIqi0nHehsiJmAwOd) | [Supa Dummy](https://open.spotify.com/album/24Lv1ZOm9wXFElpbjk0VzR) | 3:09 |
 | 46 | [Have You Ever](https://open.spotify.com/track/2kdNWIjvs9Ya8iIryjGaNz) | [Yg Teck](https://open.spotify.com/artist/26hDmlgTbg7wseM7YmoyO6), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Champain](https://open.spotify.com/album/5iEbNJF5OksAx5CbDLNqZE) | 2:47 |
 | 47 | [OTILO.](https://open.spotify.com/track/1fFBKEIoyEjlIoyT3EgpuI) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [OTILO.](https://open.spotify.com/album/7cEemin6Cl4rdrSfZcnMbq) | 3:25 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 49 | [Face](https://open.spotify.com/track/3Hdeh6HKLdJd29L17gttkZ) | [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [Face](https://open.spotify.com/album/2FU4NwQkSHHPt8OrCZ7sKN) | 3:07 |
 | 50 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 |
 | 51 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
-| 52 | [INNAT MODE](https://open.spotify.com/track/5PHUIX2qAu2x0xzjPQ6TOS) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t) | [NADAWORLD 222](https://open.spotify.com/album/3UVQLl7lPH5m86gXIltMmt) | 2:07 |
+| 52 | [INNAT MODE](https://open.spotify.com/track/1LgLj14D8EhoGc7jgYeg5g) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t) | [NADAWORLD 222](https://open.spotify.com/album/3rBZTLZNUm8JWVb4ZAAW89) | 2:07 |
 | 53 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 |
 | 54 | [pg baby](https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [learn 2 swim](https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf) | 2:36 |
 | 55 | [I Admit It](https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [I Admit It](https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet) | 2:22 |
